@@ -444,7 +444,7 @@
     <value>Empty recycle bin</value>
   </data>
   <data name="ItemSizeBytes" xml:space="preserve">
-    <value>bytes</value>
+    <value>{0, plural, one {byte} other {bytes}}</value>
   </data>
   <data name="KiloByteSymbol" xml:space="preserve">
     <value>KB</value>
