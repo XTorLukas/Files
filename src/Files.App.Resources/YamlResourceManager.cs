@@ -97,6 +97,9 @@ namespace Files.App.Resources
 				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8)).ToFrozenDictionary();
 			}
 
+			if(_cache is not null)
+				DisableCache();
+
 			if (cache)
 				EnableCache();
 		}
