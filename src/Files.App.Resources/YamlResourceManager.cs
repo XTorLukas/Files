@@ -40,6 +40,12 @@ namespace Files.App.Resources
 		// The current locale.
 		private static string _locale = DefaultLocale;
 
+		// Indicates whether caching is enabled.
+		private static bool _isCacheEnabled;
+
+		// The cache for storing retrieved values.
+		private static ConcurrentDictionary<string, object>? _cache;
+
 		/// <summary>
 		/// The current locale, with '-' replaced by '_'.
 		/// </summary>
@@ -66,7 +72,8 @@ namespace Files.App.Resources
 		/// <param name="nameOfSpace">The namespace of the resource.</param>
 		/// <param name="folder">The folder containing the resource.</param>
 		/// <param name="filename">The filename of the resource.</param>
-		public static void Build(Assembly assembly, string nameOfSpace, string folder = DefaultFolder, string filename = DefaultFilename)
+		/// <param name="cache">Indicates whether caching should be enabled.</param>
+		public static void Build(Assembly assembly, string nameOfSpace, string folder = DefaultFolder, string filename = DefaultFilename, bool cache = true)
 		{
 			IsBuilded = true;
 
@@ -89,6 +96,9 @@ namespace Files.App.Resources
 
 				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8)).ToFrozenDictionary();
 			}
+
+			if (cache)
+				EnableCache();
 		}
 
 		/// <summary>
@@ -101,6 +111,24 @@ namespace Files.App.Resources
 		/// </summary>
 		/// <param name="locale">The locale to set.</param>
 		public static void SetCulture(string locale) => Locale = locale;
+
+		/// <summary>
+		/// Enables caching for the resource manager.
+		/// </summary>
+		public static void EnableCache()
+		{
+			_isCacheEnabled = true;
+			_cache = new();
+		}
+
+		/// <summary>
+		/// Disables caching for the resource manager.
+		/// </summary>
+		public static void DisableCache()
+		{
+			_isCacheEnabled = false;
+			_cache = null;
+		}
 
 		/// <summary>
 		/// Tries to load the resource stream for the current locale.
@@ -156,6 +184,9 @@ namespace Files.App.Resources
 			if (ResourceData == null)
 				return null;
 
+			if (_isCacheEnabled && _cache is not null && _cache.TryGetValue(key, out var cachedValue))
+				return cachedValue;
+
 			var keys = key.Split('.');
 
 			if (!ResourceData.TryGetValue(keys[0], out var value))
@@ -171,6 +202,9 @@ namespace Files.App.Resources
 				else
 					return null;
 			}
+
+			if (_isCacheEnabled && _cache is not null)
+				_cache[key] = value;
 
 			return value;
 		}
