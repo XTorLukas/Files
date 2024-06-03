@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2024 Files Community
+// Copyright (c) 2024 Files Community
 // Licensed under the MIT License. See the LICENSE.
 
 namespace Files.App.Resources
@@ -108,7 +108,6 @@ namespace Files.App.Resources
 			return resourceKey.GetLocalizedYAML(pairs);
 		}
 
-		//TODO: Could replace `GetLocalizedResource()` in the future
 		/// <summary>
 		/// Retrieves a localized resource string without any format pairs.
 		/// </summary>
