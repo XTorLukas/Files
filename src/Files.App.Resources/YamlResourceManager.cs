@@ -92,7 +92,7 @@ namespace Files.App.Resources
 					.WithNamingConvention(CamelCaseNamingConvention.Instance)
 					.Build();
 
-				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream));
+				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8));
 			}
 		}
 
