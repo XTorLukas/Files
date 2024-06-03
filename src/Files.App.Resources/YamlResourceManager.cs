@@ -17,9 +17,6 @@ namespace Files.App.Resources
 		// The default filename of the resource file.
 		private const string DefaultFilename = "Resources.yml";
 
-		// The format string for the resource path.
-		private static string _resourcePathFormat = string.Empty;
-
 		/// <summary>
 		/// The assembly containing the resource.
 		/// </summary>
@@ -77,8 +74,6 @@ namespace Files.App.Resources
 			Namespace = nameOfSpace;
 			Folder = folder;
 			Filename = filename;
-
-			_resourcePathFormat = $"{Namespace}.{Folder}.{Locale}.{Filename}";
 
 			if (!TryLoadResource(out var stream) || stream is null)
 			{
