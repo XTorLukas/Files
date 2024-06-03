@@ -179,5 +179,50 @@ namespace Files.App.Resources
 
 			return value;
 		}
+
+		/// <summary>
+		/// Retrieves all keys from the ResourceData dictionary.
+		/// </summary>
+		/// <returns>A list of all keys in the ResourceData dictionary.</returns>
+		public static List<string> GetKeys()
+		{
+			if (!IsBuilded)
+				Build();
+
+			if (ResourceData == null)
+				return [];
+
+			var keys = new List<string>();
+			GetKeysRecursive(ResourceData, string.Empty, keys);
+			return keys;
+		}
+
+		/// <summary>
+		/// Recursively retrieves keys from a nested dictionary and adds them to the keys list.
+		/// </summary>
+		/// <param name="dict">The current dictionary to process.</param>
+		/// <param name="parentKey">The parent key prefix for nested keys.</param>
+		/// <param name="keys">The list to store the keys.</param>
+		private static void GetKeysRecursive(IDictionary<string, object> dict, string parentKey, List<string> keys)
+		{
+			foreach (var kvp in dict)
+			{
+				var key = string.IsNullOrEmpty(parentKey) ? kvp.Key : $"{parentKey}.{kvp.Key}";
+
+				if (kvp.Value is not IDictionary<object, object> nestedDict)
+				{
+					keys.Add(key);
+					continue;
+				}
+
+				var dictTemp = nestedDict.ToDictionary(
+					nestedKvp => nestedKvp.Key.ToString() ?? string.Empty,
+					nestedKvp => nestedKvp.Value
+				);
+
+				if (dictTemp != null)
+					GetKeysRecursive(dictTemp, key, keys);
+			}
+		}
 	}
 }
