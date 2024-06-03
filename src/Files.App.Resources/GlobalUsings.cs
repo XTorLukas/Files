@@ -3,6 +3,7 @@
 
 global using global::Jeffijoe.MessageFormat;
 global using global::System;
+global using global::System.Collections.Frozen;
 global using global::System.Collections.Generic;
 global using global::System.Globalization;
 global using global::System.IO;

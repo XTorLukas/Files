@@ -57,7 +57,7 @@ namespace Files.App.Resources
 		/// <summary>
 		/// The resource data as a dictionary.
 		/// </summary>
-		public static IDictionary<string, object>? ResourceData { get; private set; }
+		public static FrozenDictionary<string, object>? ResourceData { get; private set; }
 
 		/// <summary>
 		/// Builds the resource manager with specified parameters.
@@ -87,7 +87,7 @@ namespace Files.App.Resources
 					.WithNamingConvention(CamelCaseNamingConvention.Instance)
 					.Build();
 
-				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8));
+				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8)).ToFrozenDictionary();
 			}
 		}
 
