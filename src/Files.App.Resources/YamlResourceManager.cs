@@ -17,6 +17,8 @@ namespace Files.App.Resources
 		// Default filename of the resource file.
 		private const string DefaultFilename = "Resources.yml";
 
+		private const bool DefaultCacheEnable = true;
+
 		/// <summary>
 		/// Assembly containing the resource.
 		/// </summary>
@@ -41,7 +43,7 @@ namespace Files.App.Resources
 		private static string _locale = DefaultLocale;
 
 		// Indicates whether caching is enabled.
-		private static bool _isCacheEnabled;
+		private static bool _isCacheEnabled = DefaultCacheEnable;
 
 		// Cache for storing retrieved values.
 		private static ConcurrentDictionary<string, object>? _cache;
@@ -73,7 +75,7 @@ namespace Files.App.Resources
 		/// <param name="folder">Folder containing the resource.</param>
 		/// <param name="filename">Filename of the resource.</param>
 		/// <param name="cache">Indicates whether caching should be enabled.</param>
-		public static async Task BuildAsync(Assembly assembly, string nameOfSpace, string folder = DefaultFolder, string filename = DefaultFilename, bool cache = true)
+		public static async Task BuildAsync(Assembly assembly, string nameOfSpace, bool cache = DefaultCacheEnable, string folder = DefaultFolder, string filename = DefaultFilename)
 		{
 			IsBuilt = true;
 
@@ -104,7 +106,7 @@ namespace Files.App.Resources
 		/// <summary>
 		/// Builds the resource manager with default parameters.
 		/// </summary>
-		public static Task BuildAsync() => BuildAsync(AssemblyData, Namespace);
+		public static Task BuildAsync(bool cache = DefaultCacheEnable) => BuildAsync(AssemblyData, Namespace, cache);
 
 		/// <summary>
 		/// Sets the current culture locale.
@@ -175,7 +177,7 @@ namespace Files.App.Resources
 		public static object? GetObject(string key)
 		{
 			if (!IsBuilt)
-				BuildAsync().Wait();
+				BuildAsync(false).Wait();
 
 			if (ResourceData == null)
 				return null;
