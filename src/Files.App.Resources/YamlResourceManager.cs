@@ -47,7 +47,7 @@ namespace Files.App.Resources
 		private static bool _isCacheEnabled = DefaultCacheEnable;
 
 		// Cache for storing retrieved values.
-		private static ConcurrentDictionary<string, object>? _cache;
+		private static MemoryCache? _cache;
 
 		/// <summary>
 		/// Current locale, with '-' replaced by '_'.
@@ -121,7 +121,7 @@ namespace Files.App.Resources
 		public static void EnableCache()
 		{
 			_isCacheEnabled = true;
-			_cache = new();
+			_cache = new(new MemoryCacheOptions());
 		}
 
 		/// <summary>
@@ -178,7 +178,7 @@ namespace Files.App.Resources
 		public static object? GetObject(string key)
 		{
 			if (!IsBuilt)
-				BuildAsync(false).Wait();
+				BuildAsync().Wait();
 
 			if (ResourceData == null)
 				return null;
@@ -203,7 +203,11 @@ namespace Files.App.Resources
 			}
 
 			if (_isCacheEnabled && _cache is not null)
-				_cache[key] = value;
+				_ = _cache.Set(key, value, new MemoryCacheEntryOptions
+				{
+					AbsoluteExpirationRelativeToNow = TimeSpan.FromMilliseconds(500), // Expire after 500 ms
+					SlidingExpiration = TimeSpan.FromMilliseconds(500) // Refresh sliding expiration after 500 ms of access
+				});
 
 			return value;
 		}

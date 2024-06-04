@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <PackageReference Include="MessageFormat" Version="7.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.0" />
     <PackageReference Include="YamlDotNet" Version="15.1.6" />
   </ItemGroup>
 	

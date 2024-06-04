@@ -2,8 +2,8 @@
 // Licensed under the MIT License. See the LICENSE.
 
 global using global::Jeffijoe.MessageFormat;
+global using global::Microsoft.Extensions.Caching.Memory;
 global using global::System;
-global using global::System.Collections.Concurrent;
 global using global::System.Collections.Frozen;
 global using global::System.Collections.Generic;
 global using global::System.Globalization;
