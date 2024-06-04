@@ -209,17 +209,17 @@ namespace Files.App.Resources
 		/// Retrieves all keys from the ResourceData dictionary.
 		/// </summary>
 		/// <returns>A list of all keys in the ResourceData dictionary.</returns>
-		public static async Task<List<string>> GetKeysAsync()
+		public static async Task<FrozenSet<string>> GetKeysAsync()
 		{
 			if (!IsBuilt)
 				BuildAsync().Wait();
 
 			if (ResourceData == null)
-				return new List<string>();
+				return new HashSet<string>().ToFrozenSet();
 
-			var keys = new List<string>();
+			var keys = new HashSet<string>();
 			await Task.Run(() => GetKeysRecursive(ResourceData, string.Empty, keys));
-			return keys;
+			return keys.ToFrozenSet();
 		}
 
 		/// <summary>
@@ -228,7 +228,7 @@ namespace Files.App.Resources
 		/// <param name="dict">Current dictionary to process.</param>
 		/// <param name="parentKey">Parent key prefix for nested keys.</param>
 		/// <param name="keys">List to store the keys.</param>
-		private static void GetKeysRecursive(IDictionary<string, object> dict, string parentKey, List<string> keys)
+		private static void GetKeysRecursive(IDictionary<string, object> dict, string parentKey, HashSet<string> keys)
 		{
 			foreach (var kvp in dict)
 			{
