@@ -239,7 +239,7 @@ namespace Files.App.Resources
 
 				if (kvp.Value is not IDictionary<object, object> nestedDict)
 				{
-					keys.Add(key);
+					_ = keys.Add(key);
 					continue;
 				}
 
