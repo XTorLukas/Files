@@ -76,7 +76,7 @@ namespace Files.App.Resources
 		/// <param name="folder">Folder containing the resource.</param>
 		/// <param name="filename">Filename of the resource.</param>
 		/// <param name="cache">Indicates whether caching should be enabled.</param>
-		public static async Task BuildAsync(Assembly assembly, string nameOfSpace, bool cache = DefaultCacheEnable, string folder = DefaultFolder, string filename = DefaultFilename)
+		public static async Task BuildAsync(Assembly assembly, string nameOfSpace, bool cache, string folder = DefaultFolder, string filename = DefaultFilename)
 		{
 			IsBuilt = true;
 
