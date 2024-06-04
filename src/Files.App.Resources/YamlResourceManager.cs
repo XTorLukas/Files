@@ -17,6 +17,7 @@ namespace Files.App.Resources
 		// Default filename of the resource file.
 		private const string DefaultFilename = "Resources.yml";
 
+		// Default setting for enabling cache.
 		private const bool DefaultCacheEnable = true;
 
 		/// <summary>
