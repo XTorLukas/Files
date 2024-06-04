@@ -1,6 +1,8 @@
 ﻿// Copyright (c) 2024 Files Community
 // Licensed under the MIT License. See the LICENSE.
 
+using System.Threading.Tasks;
+
 namespace Files.App.Resources
 {
 	/// <summary>
@@ -8,46 +10,46 @@ namespace Files.App.Resources
 	/// </summary>
 	public static class ResourceManager
 	{
-		// The default locale used if no other locale is specified.
+		// Default locale used if no other locale is specified.
 		private const string DefaultLocale = "en_US";
 
-		// The default folder where resource files are stored.
+		// Default folder where resource files are stored.
 		private const string DefaultFolder = "Strings";
 
-		// The default filename of the resource file.
+		// Default filename of the resource file.
 		private const string DefaultFilename = "Resources.yml";
 
 		/// <summary>
-		/// The assembly containing the resource.
+		/// Assembly containing the resource.
 		/// </summary>
 		public static Assembly AssemblyData { get; private set; } = Assembly.GetExecutingAssembly();
 
 		/// <summary>
-		/// The namespace of the resource.
+		/// Namespace of the resource.
 		/// </summary>
 		public static string Namespace { get; private set; } = typeof(ResourceManager).Namespace!;
 
 		/// <summary>
-		/// The folder containing the resource.
+		/// Folder containing the resource.
 		/// </summary>
 		public static string Folder { get; private set; } = DefaultFolder;
 
 		/// <summary>
-		/// The filename of the resource.
+		/// Filename of the resource.
 		/// </summary>
 		public static string Filename { get; private set; } = DefaultFilename;
 
-		// The current locale.
+		// Current locale.
 		private static string _locale = DefaultLocale;
 
 		// Indicates whether caching is enabled.
 		private static bool _isCacheEnabled;
 
-		// The cache for storing retrieved values.
+		// Cache for storing retrieved values.
 		private static ConcurrentDictionary<string, object>? _cache;
 
 		/// <summary>
-		/// The current locale, with '-' replaced by '_'.
+		/// Current locale, with '-' replaced by '_'.
 		/// </summary>
 		public static string Locale
 		{
@@ -58,46 +60,43 @@ namespace Files.App.Resources
 		/// <summary>
 		/// Indicates whether the resource manager is built.
 		/// </summary>
-		public static bool IsBuilded { get; private set; } = false;
+		public static bool IsBuilt { get; private set; } = false;
 
 		/// <summary>
-		/// The resource data as a dictionary.
+		/// Resource data as a dictionary.
 		/// </summary>
 		public static FrozenDictionary<string, object>? ResourceData { get; private set; }
 
 		/// <summary>
 		/// Builds the resource manager with specified parameters.
 		/// </summary>
-		/// <param name="assembly">The assembly containing the resource.</param>
-		/// <param name="nameOfSpace">The namespace of the resource.</param>
-		/// <param name="folder">The folder containing the resource.</param>
-		/// <param name="filename">The filename of the resource.</param>
+		/// <param name="assembly">Assembly containing the resource.</param>
+		/// <param name="nameOfSpace">Namespace of the resource.</param>
+		/// <param name="folder">Folder containing the resource.</param>
+		/// <param name="filename">Filename of the resource.</param>
 		/// <param name="cache">Indicates whether caching should be enabled.</param>
-		public static void Build(Assembly assembly, string nameOfSpace, string folder = DefaultFolder, string filename = DefaultFilename, bool cache = true)
+		public static async Task BuildAsync(Assembly assembly, string nameOfSpace, string folder = DefaultFolder, string filename = DefaultFilename, bool cache = true)
 		{
-			IsBuilded = true;
+			IsBuilt = true;
 
 			AssemblyData = assembly;
 			Namespace = nameOfSpace;
 			Folder = folder;
 			Filename = filename;
 
-			if (!TryLoadResource(out var stream) || stream is null)
+			using (var stream = await TryLoadResourceAsync())
 			{
-				stream?.Dispose();
-				throw new Exception($"Default resource '{DefaultLocale}' not found.");
-			}
+				if (stream is null)
+					throw new Exception($"Default resource '{DefaultLocale}' not found.");
 
-			using (stream)
-			{
 				var yaml = new DeserializerBuilder()
-					.WithNamingConvention(CamelCaseNamingConvention.Instance)
-					.Build();
+				   .WithNamingConvention(CamelCaseNamingConvention.Instance)
+				   .Build();
 
 				ResourceData = yaml.Deserialize<IDictionary<string, object>>(new StreamReader(stream, Encoding.UTF8)).ToFrozenDictionary();
 			}
 
-			if(_cache is not null)
+			if (_cache is not null)
 				DisableCache();
 
 			if (cache)
@@ -107,12 +106,12 @@ namespace Files.App.Resources
 		/// <summary>
 		/// Builds the resource manager with default parameters.
 		/// </summary>
-		public static void Build() => Build(AssemblyData, Namespace);
+		public static Task BuildAsync() => BuildAsync(AssemblyData, Namespace);
 
 		/// <summary>
 		/// Sets the current culture locale.
 		/// </summary>
-		/// <param name="locale">The locale to set.</param>
+		/// <param name="locale">Locale to set.</param>
 		public static void SetCulture(string locale) => Locale = locale;
 
 		/// <summary>
@@ -136,38 +135,34 @@ namespace Files.App.Resources
 		/// <summary>
 		/// Tries to load the resource stream for the current locale.
 		/// </summary>
-		/// <param name="stream">The output stream containing the resource.</param>
-		/// <returns>True if the resource is loaded, otherwise false.</returns>
-		private static bool TryLoadResource(out Stream? stream)
+		/// <returns>Stream containing the resource if loaded, otherwise null.</returns>
+		private static async Task<Stream?> TryLoadResourceAsync()
 		{
-			if (TryLoadData(Locale, out stream))
-				return true;
+			if (await TryLoadDataAsync())
+				return AssemblyData.GetManifestResourceStream($"{Namespace}.{Folder}.{Locale}.{Filename}");
 
 			if (Locale == DefaultLocale)
-				return false;
+				return null;
 
 			Locale = DefaultLocale;
-			return TryLoadData(DefaultLocale, out stream);
+			return await TryLoadDataAsync() ? AssemblyData.GetManifestResourceStream($"{Namespace}.{Folder}.{DefaultLocale}.{Filename}") : null;
 		}
 
 		/// <summary>
 		/// Tries to load the resource stream for a given locale.
 		/// </summary>
-		/// <param name="locale">The locale for which to load the resource.</param>
-		/// <param name="stream">The output stream containing the resource.</param>
 		/// <returns>True if the resource is loaded, otherwise false.</returns>
-		private static bool TryLoadData(string locale, out Stream? stream)
+		private static async Task<bool> TryLoadDataAsync()
 		{
-			var resourcePath = $"{Namespace}.{Folder}.{locale}.{Filename}";
-			stream = AssemblyData.GetManifestResourceStream(resourcePath);
-			return stream != null;
+			var resourcePath = $"{Namespace}.{Folder}.{Locale}.{Filename}";
+			return await Task.Run(() => AssemblyData.GetManifestResourceStream(resourcePath) != null);
 		}
 
 		/// <summary>
 		/// Retrieves a string value from the resource based on the specified key.
 		/// </summary>
-		/// <param name="key">The key to look up in the resource.</param>
-		/// <returns>The string value associated with the key, or an empty string if not found.</returns>
+		/// <param name="key">Key to look up in the resource.</param>
+		/// <returns>String value associated with the key, or an empty string if not found.</returns>
 		public static string GetString(string key)
 		{
 			var value = GetObject(key);
@@ -177,12 +172,12 @@ namespace Files.App.Resources
 		/// <summary>
 		/// Retrieves an object value from the resource based on the specified key.
 		/// </summary>
-		/// <param name="key">The key to look up in the resource.</param>
-		/// <returns>The object value associated with the key, or null if not found.</returns>
+		/// <param name="key">Key to look up in the resource.</param>
+		/// <returns>Object value associated with the key, or null if not found.</returns>
 		public static object? GetObject(string key)
 		{
-			if (!IsBuilded)
-				Build();
+			if (!IsBuilt)
+				BuildAsync().Wait();
 
 			if (ResourceData == null)
 				return null;
@@ -216,25 +211,25 @@ namespace Files.App.Resources
 		/// Retrieves all keys from the ResourceData dictionary.
 		/// </summary>
 		/// <returns>A list of all keys in the ResourceData dictionary.</returns>
-		public static List<string> GetKeys()
+		public static async Task<List<string>> GetKeysAsync()
 		{
-			if (!IsBuilded)
-				Build();
+			if (!IsBuilt)
+				BuildAsync().Wait();
 
 			if (ResourceData == null)
-				return [];
+				return new List<string>();
 
 			var keys = new List<string>();
-			GetKeysRecursive(ResourceData, string.Empty, keys);
+			await Task.Run(() => GetKeysRecursive(ResourceData, string.Empty, keys));
 			return keys;
 		}
 
 		/// <summary>
 		/// Recursively retrieves keys from a nested dictionary and adds them to the keys list.
 		/// </summary>
-		/// <param name="dict">The current dictionary to process.</param>
-		/// <param name="parentKey">The parent key prefix for nested keys.</param>
-		/// <param name="keys">The list to store the keys.</param>
+		/// <param name="dict">Current dictionary to process.</param>
+		/// <param name="parentKey">Parent key prefix for nested keys.</param>
+		/// <param name="keys">List to store the keys.</param>
 		private static void GetKeysRecursive(IDictionary<string, object> dict, string parentKey, List<string> keys)
 		{
 			foreach (var kvp in dict)
