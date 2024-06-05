@@ -22,9 +22,57 @@
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.0" />
     <PackageReference Include="YamlDotNet" Version="15.1.6" />
   </ItemGroup>
-	
-  <ItemGroup>
-    <EmbeddedResource Include="Strings\en-US\Resources.yml" />
-  </ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Strings\af\Resources.yml" />
+		<EmbeddedResource Include="Strings\ar\Resources.yml" />
+		<EmbeddedResource Include="Strings\be-BY\Resources.yml" />
+		<EmbeddedResource Include="Strings\bg\Resources.yml" />
+		<EmbeddedResource Include="Strings\ca\Resources.yml" />
+		<EmbeddedResource Include="Strings\cs-CZ\Resources.yml" />
+		<EmbeddedResource Include="Strings\da\Resources.yml" />
+		<EmbeddedResource Include="Strings\de-DE\Resources.yml" />
+		<EmbeddedResource Include="Strings\el\Resources.yml" />
+		<EmbeddedResource Include="Strings\en-GB\Resources.yml" />
+		<EmbeddedResource Include="Strings\en-US\Resources.yml" />
+		<EmbeddedResource Include="Strings\es-419\Resources.yml" />
+		<EmbeddedResource Include="Strings\es-ES\Resources.yml" />
+		<EmbeddedResource Include="Strings\fa-IR\Resources.yml" />
+		<EmbeddedResource Include="Strings\fi-FI\Resources.yml" />
+		<EmbeddedResource Include="Strings\fil-PH\Resources.yml" />
+		<EmbeddedResource Include="Strings\fr-FR\Resources.yml" />
+		<EmbeddedResource Include="Strings\he-IL\Resources.yml" />
+		<EmbeddedResource Include="Strings\hi-IN\Resources.yml" />
+		<EmbeddedResource Include="Strings\hr-HR\Resources.yml" />
+		<EmbeddedResource Include="Strings\hu-HU\Resources.yml" />
+		<EmbeddedResource Include="Strings\id-ID\Resources.yml" />
+		<EmbeddedResource Include="Strings\it-IT\Resources.yml" />
+		<EmbeddedResource Include="Strings\ja-JP\Resources.yml" />
+		<EmbeddedResource Include="Strings\ka\Resources.yml" />
+		<EmbeddedResource Include="Strings\km-KH\Resources.yml" />
+		<EmbeddedResource Include="Strings\ko-KR\Resources.yml" />
+		<EmbeddedResource Include="Strings\ku-Arab\Resources.yml" />
+		<EmbeddedResource Include="Strings\lt-LT\Resources.yml" />
+		<EmbeddedResource Include="Strings\lv-LV\Resources.yml" />
+		<EmbeddedResource Include="Strings\nb-NO\Resources.yml" />
+		<EmbeddedResource Include="Strings\nl-NL\Resources.yml" />
+		<EmbeddedResource Include="Strings\or-IN\Resources.yml" />
+		<EmbeddedResource Include="Strings\pl-PL\Resources.yml" />
+		<EmbeddedResource Include="Strings\pt-BR\Resources.yml" />
+		<EmbeddedResource Include="Strings\pt-PT\Resources.yml" />
+		<EmbeddedResource Include="Strings\ro-RO\Resources.yml" />
+		<EmbeddedResource Include="Strings\ru-RU\Resources.yml" />
+		<EmbeddedResource Include="Strings\sk-SK\Resources.yml" />
+		<EmbeddedResource Include="Strings\sq-AL\Resources.yml" />
+		<EmbeddedResource Include="Strings\sr-Cyrl\Resources.yml" />
+		<EmbeddedResource Include="Strings\sv-SE\Resources.yml" />
+		<EmbeddedResource Include="Strings\ta\Resources.yml" />
+		<EmbeddedResource Include="Strings\th-TH\Resources.yml" />
+		<EmbeddedResource Include="Strings\tr-TR\Resources.yml" />
+		<EmbeddedResource Include="Strings\uk-UA\Resources.yml" />
+		<EmbeddedResource Include="Strings\vi\Resources.yml" />
+		<EmbeddedResource Include="Strings\zh-Hans\Resources.yml" />
+		<EmbeddedResource Include="Strings\zh-Hant\Resources.yml" />
+	</ItemGroup>
 
 </Project>
