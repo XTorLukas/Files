@@ -1,0 +1,1467 @@
+NewWindow: 新しいウィンドウ
+CopyPath: パスのコピー
+CopyPathWithQuotes: 引用符付きでパスのコピー
+Browse: 参照
+Size: サイズ
+PropertiesCreated:
+  Text: '作成日時:'
+Path: パス
+SizeLabel: 'サイズ:'
+SizeOnDiskLabel: 'ディスク上のサイズ:'
+UncompressedSize: '圧縮前のサイズ:'
+ErrorDialogThisActionCannotBeDone: 操作を実行できません
+ErrorDialogTheDestinationFolder: 移動先フォルダー
+ErrorDialogIsASubfolder: は移動元のフォルダーのサブフォルダーです
+Skip: スキップ
+SelectAll: すべて選択
+InvertSelection: 選択を反転
+ClearSelection: 選択をクリア
+PropertiesModified:
+  Text: '更新日時:'
+Accessed: 'アクセス日時:'
+RecentItemClearAll:
+  Text: すべて削除
+NavigationToolbarVisiblePath:
+  PlaceholderText: 移動先のパスを入力するか、 ">" をタイプしてコマンド パレットを開く
+Search: 検索
+RecentItemDescription:
+  Text: 最近アクセスしたファイルがここに表示されます
+RecentItemRemove:
+  Text: 一覧から削除
+OpenGitHubRepo: GitHub リポジトリ
+About: Files について
+OpenSource: オープン ソース
+DateFormat: 日付の形式
+SettingsAppearanceTheme: テーマ
+SettingsFilesAndFoldersShowFileExtensions: 既知のファイル タイプの拡張子を表示する
+SettingsFilesAndFoldersShowHiddenItems: すべてのファイルとフォルダーを表示する
+ShowDotFiles: ドット ファイルを表示する
+Appearance: 外観
+BackgroundColor: 背景の色
+Advanced: 高度な設定
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: 最後の操作を続行
+SettingsOnStartupOpenANewTab:
+  Content: 新しいタブ
+SettingsOnStartupOpenASpecificPage:
+  Content: 特定のページを開く
+Desktop: デスクトップ
+Documents: ドキュメント
+Downloads: ダウンロード
+Name: 名前
+Ascending: 昇順
+Paste: 貼り付け
+BaseLayoutContextFlyoutNew:
+  Label: 新規作成
+Properties: プロパティ
+Open: 開く
+OpenInNewTab: 新しいタブで開く
+OpenInNewWindow: 新しいウィンドウで開く
+Share: 共有
+Cut: 切り取り
+Delete: 削除
+PinFolderToSidebar: サイドバーにピン留めする
+WelcomeDialog:
+  Title: Files へようこそ!
+  PrimaryButtonText: 付与された権限
+WelcomeDialogTextBlock:
+  Text: 使用を開始する前に、ファイル システムへのアクセスを許可してください。Windows の設定が開き、アクセス許可の付与を選択できます。設定が完了したら、アプリケーションを再起動する必要があります。
+Display: 表示
+EnterAnItemName: 名前を入力
+RenameDialog:
+  PrimaryButtonText: 名前を設定
+LightTheme: ライト
+DarkTheme: ダーク
+Application: アプリ
+SystemTimeStyle: システム
+NewFolder: 新しいフォルダー
+NewFile: 新しいファイル
+EmptyFolder:
+  Text: このフォルダーは空です。
+Back: 戻る
+Forward: 進む
+Up: 上の階層へ
+Refresh: 最新の情報に更新
+ItemAlreadyExistsDialogContent: 同じ名前のファイルがこのフォルダーに既に存在します。
+ItemAlreadyExistsDialogSecondaryButtonText: 既存の項目を置換
+ItemAlreadyExistsDialogTitle: 項目が既に存在します
+SetAsLockscreen: ロック画面の背景に設定
+SetAsAppBackground: アプリの背景に設定
+AccessDeniedDeleteDialog:
+  Text: この項目を削除できませんでした
+DriveUnpluggedDialog:
+  Text: この項目が入ったドライブを挿入してください
+  Title: ドライブが取り外されました
+FileNotFoundDialog:
+  Text: アクセスしようとしているファイルは移動または削除された可能性があります。
+  Title: ファイルが存在しません
+CannotAccessPropertiesTitle: このファイルのプロパティを開けません
+CannotAccessPropertiesContent: アクセスしようとしているファイルは移動または削除された可能性があります。
+FolderNotFoundDialog:
+  Text: アクセスしようとしているフォルダーは移動または削除された可能性があります。
+  Title: このフォルダーを削除しましたか?
+FileInUseByDialog:
+  Text: アクセスしようとしているファイルは {0} によって現在使用されています
+FileInUseDialog:
+  Text: アクセスしようとしているファイルは現在別のアプリケーションによって使用されています
+  Title: 使用中のファイルです
+Layout: レイアウト
+PropertiesDialogReadOnly:
+  Text: 読み取り専用
+DaysAgo: '{0, plural, other {# 日前}}'
+HoursAgo: '{0, plural, other {# 時間前}}'
+MinutesAgo: '{0, plural, other {# 分前}}'
+SecondsAgo: '{0, plural, other {# 秒前}}'
+Now: 今
+ErrorDialogUnsupportedOperation: この操作はサポートされていません
+DriveFreeSpaceAndCapacity: 空き領域 {0}/{1}
+SendTo: 送る
+FileNameTeachingTip:
+  Subtitle: 'ファイル名には次の文字は使えません: \ / : * ? " < > |'
+InvalidFilename:
+  Text: 指定された項目名は無効です
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, other {# 個の項目を選択}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, other {個の項目}}'
+Yes: はい
+ConfirmEmptyBinDialogContent: すべての項目を完全に削除しますか?
+ConfirmEmptyBinDialogTitle: ごみ箱を空にする
+ItemSizeBytes: バイト
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, other {ファイル}}、{1, number} {1, plural, other {フォルダー}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{2, number} {2, plural, other {か所}}からの {0, number} {0, plural, other {ファイル}}、{1, number} {1, plural, other {フォルダー}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: 別のユーザーとして実行
+PropertiesDriveItemTypesEquals: すべての種類の {0}
+PropertiesDriveItemTypeDifferent: 複数の種類
+PropertiesCombinedItemLocation: '{0} のすべて'
+PropertiesDriveUsedSpace:
+  Text: '使用領域:'
+PropertiesDriveFreeSpace:
+  Text: '空き領域:'
+PropertiesDriveCapacity:
+  Text: '容量:'
+PropertiesDriveFileSystem:
+  Text: 'ファイル システム:'
+JumpListRecentGroupHeader: 最近使ったもの
+TabStripDragAndDropUIOverrideCaption: ここにタブを移動
+syncStatusColumn:
+  Header: 状態
+SettingsPreferencesSystemDefaultLanguageOption: Windows の既定
+NavigationToolbarVisiblePathNoResults: 結果なし
+SubDirectoryAccessDenied: 表示する項目にアクセスできません
+MoveToFolderCaptionText: '{0} に移動'
+CopyToFolderCaptionText: '{0} にコピー'
+CreateShortcut: ショートカットの作成
+OpenFileLocation: ファイルの場所を開く
+PropertiesShortcutItemArgs:
+  Text: '引数:'
+PropertiesShortcutItemPath:
+  Text: 'リンク先:'
+PropertiesShortcutItemType:
+  Text: 'ショートカットの種類:'
+PropertiesShortcutTypeLink: Web リンク
+General: 全般
+Shortcut: ショートカット
+ShortcutWebLinkFileType: インターネット ショートカット
+ShortcutCreateNewSuffix: '{0} - ショートカット'
+ExceptionNotificationBody: Files は、開発者がまだ想定していない問題に遭遇しました。
+ExceptionNotificationHeader: 問題が発生しました
+ExceptionNotificationReportButton: この問題を報告
+InvalidItemDialogContent: 参照している項目は無効であるか、アクセスできません。{0}エラー メッセージ:{0}{1}
+InvalidItemDialogTitle: 無効な項目
+SettingsAboutVersionTitle: 'バージョン:'
+ShareDialogFailMessage: 現在共有できるものはありません。
+ShareDialogMultipleItemsDescription: 選択した項目が共有されます
+ShareDialogSingleItemDescription: 選択した項目が共有されます
+ShareDialogTitle: '{0} を共有しています'
+ShareDialogTitleMultipleItems: '{0} {1} を共有しています'
+RenameError:
+  ItemDeleted:
+    Text: 名前を変更しようとしている項目が既に存在しません。名前を変更する必要がある項目の正しい場所を確認してください。
+    Title: 項目が既に存在しません
+  NameInvalid:
+    Text: 指定された名前は無効です。新しい名前を確認して、もう一度やり直してください。
+    Title: 無効な名前
+  TooLong:
+    Text: 指定された名前の長さが上限を超えています。新しい名前を確認して、もう一度やり直してください。
+    Title: 名前が長すぎます
+ShowMoreOptions: その他のオプションを表示
+RestartNotificationText:
+  Text: 言語設定を適用するには、アプリケーションを再起動する必要があります。アプリを再起動しますか?
+SponsorUsOnGitHub: GitHub で支援
+AccessDeniedCreateDialog:
+  Text: この項目を作成できませんでした
+AccessDenied: アクセスが拒否されました
+BaseLayoutItemContextFlyoutSetAs:
+  Text: 背景に設定
+Cancel: キャンセル
+AddDialog:
+  Title: 新しいファイルの作成
+AddDialogDescription:
+  Text: 以下から新しい項目の種類を選択してください
+File: ファイル
+AddDialogListFileSubHeader: 空のファイルを作成
+Folder: フォルダー
+AddDialogListFolderSubHeader: 空のフォルダーを作成
+NavResfreshButton:
+  AutomationProperties:
+    Name: フォルダーを更新
+Language: 言語
+SettingsContextMenuOverflow: シェル拡張機能をサブメニューに移動
+ShowConfirmationWhenDeletingItems: 項目を削除する前に確認ダイアログを表示する
+PropertySaveErrorMessage:
+  Text: プロパティの保存中に問題が発生しました。
+PropertySaveErrorDialog:
+  Title: エラー
+  SecondaryButtonText: 強制的に閉じる
+PropertyRatingText: 評価
+PropertyParsingPath: ファイルのパス
+PropertyItemTypeText: ファイルの種類
+PropertyTitle: タイトル
+PropertySubject: 件名
+PropertyComment: コメント
+PropertyCopyright: 著作権
+PropertyDateModified: 更新日時
+PropertyBitDepth: ビット深度
+PropertyDimensions: サイズ
+PropertyHorizontalSize: 横幅
+PropertyVerticalSize: 縦幅
+PropertyHorizontalResolution: 水平方向の解像度
+PropertyVerticalResolution: 垂直方向の解像度
+PropertyColorSpace: 色空間
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: 指定なし
+PropertyLongitudeDecimal: 経度 (10 進数)
+PropertyLatitudeDecimal: 緯度 (10 進数)
+PropertyAltitude: 高度
+PropertyDateTaken: 撮影日時
+PropertyCameraManufacturer: カメラの製造元
+PropertyCameraModel: カメラのモデル
+PropertyExposureTime: 露出時間
+PropertyFocalLength: 焦点距離
+PropertyAperture: 絞り
+PropertyPeopleNames: 人物
+PropertyChannelCount: チャンネル数
+PropertyFormat: フォーマット
+PropertySampleRate: サンプル レート
+PropertyAlbumArtist: アルバムのアーティスト
+PropertyAlbumTitle: アルバムのタイトル
+Artist: アーティスト
+PropertyBeatsPerMinute: ビート数/分
+PropertyComposer: 作曲者
+Conductor: 指揮者
+PropertyDiscNumber: ディスク番号
+PropertyGenre: ジャンル
+PropertyTrackNumber: トラック番号
+PropertyDuration: 長さ
+PropertyFrameCount: フレーム数
+PropertyProtectionType: 保護の種類
+PropertyAuthorUrl: 著者の URL
+PropertyContentDistributor: コンテンツの配布元
+PropertyDateReleased: リリース日
+PropertySeriesName: シリーズ名
+PropertySeasonNumber: シーズン
+PropertyEpisodeNumber: エピソード
+PropertyProducer: プロデューサー
+PropertyPromotionUrl: プロモーション URL
+PropertyProviderStyle: スタイル
+PropertyPublisher: 発行元
+PropertyThumbnailLargePath: サムネイル (大) のパス
+PropertyThumbnailLargeUri: サムネイル (大) の URI
+PropertyThumbnailSmallPath: サムネイル (小) のパス
+PropertyThumbnailSmallUri: サムネイル (小) の URI
+PropertyUserWebUrl: ユーザー Web URL
+PropertyWriter: ライター
+PropertyYear: 年
+PropertyContributor: 寄稿者
+PropertyLastAuthor: 最終著者
+PropertyRevisionNumber: リビジョン番号
+PropertyVersion: バージョン
+PropertyDateCreated: 作成日
+PropertyTotalEditingTime: 編集時間
+PropertyTemplate: テンプレート
+PropertyWordCount: 単語数
+PropertyCharacterCount: 文字数
+PropertyLineCount: 行数
+PropertyParagraphCount: 段落数
+PropertyPageCount: ページ数
+PropertySlideCount: スライド数
+PropertyFrameRate: フレーム レート
+PropertyEncodingBitrate: エンコード ビットレート
+PropertyPreviewAudioEncodingBitrate: 音声エンコード ビットレート
+PropertyPreviewVideoEncodingBitrate: 動画エンコード ビットレート
+Compression: 圧縮
+PropertyFrameWidth: フレーム幅
+PropertyFrameHeight: フレーム高
+PropertyOrientation: 方向
+PropertySectionCore: 基本
+PropertySectionImage: 画像
+PropertySectionPhoto: 写真
+PropertySectionGPS: GPS
+PropertySectionMedia: メディア
+PropertySectionAudio: オーディオ
+PropertySectionMusic: ミュージック
+PropertySectionVideo: ビデオ
+Document: ドキュメント
+Address: 住所
+SelectionOptions: 選択オプション
+NavToolbarSelectionOptions:
+  Label: 選択
+RecycleBinItemAutomation: ごみ箱の項目
+ShortcutItemAutomation: ショートカットの項目
+Drives: ドライブ
+PinToSidebarByDraggingCaptionText: ここに移動
+EjectNotificationHeader: 安全なハードウェアの取り外し
+EjectNotificationBody: デバイスはコンピューターから安全に取り外すことができます。
+EjectNotificationErrorDialogHeader: デバイスの取り外しに問題が発生しました
+EjectNotificationErrorDialogBody: このデバイスは現在使用中です。デバイスを使用している可能性のあるすべてのプログラム、ウィンドウやタブを閉じてから再度試してください。
+Eject: 取り出し
+DuplicateTab: タブを複製
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: 新しいウィンドウにタブを移動
+NewTab: 新しいタブ
+ClearPropertiesFlyoutText:
+  Text: いくつかのプロパティは個人情報を含んでいる可能性があります。
+ClearPropertiesButton:
+  Content: すべてのプロパティを削除
+OngoingTasksTeachingTip:
+  Subtitle: ここでファイル操作の状況を確認できます
+  Title: ステータス センター
+SearchPagePathBoxOverrideText: '{0} の {1} での検索結果を表示:'
+Details: 詳細
+No: いいえ
+ShowProtectedSystemFiles: 保護されたシステム ファイルを表示する
+SyncFolderPreferencesAcrossDirectories: フォルダー間でレイアウトと並べ替えの設定を同期する
+SettingsContextMenu:
+  Text: 右クリック メニューをカスタマイズ
+OriginalPath: 元のパス
+Add: 追加
+Edit: 編集
+Remove: 削除
+SettingsMultitaskingAlwaysOpenDualPane: デュアル ペイン モードでタブを開く
+ShowOpenInNewPane: '[新しいペインでフォルダーを開く] オプションを表示する'
+ShowCopyPath: '[パスのコピー] オプションを表示する'
+ShowCreateFolderWithSelection: '[選択した項目でフォルダーを作成] オプションを表示する'
+ShowCreateShortcut: '[ショートカットの作成] オプションを表示する'
+NavigationToolbarNewPane:
+  Label: 新しいペイン
+OpenInNewPane: 新しいペインで開く
+FilesAndFolders: ファイルとフォルダー
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: 詳細 (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: タイル (Ctrl+Shift+2)
+DateDeleted: 削除した日時
+SidebarCloudDrives: クラウド ドライブ
+Confirm: 確認
+DesiredName: 新しい名前
+TogglePreviewPane: プレビュー ウィンドウの表示を切り替える
+ToggleDetailsPane: 詳細ウィンドウの表示を切り替える
+ToggleDetailsPaneDescription: 基本的なファイル情報を確認するための詳細ウィンドウを表示する
+ToggleInfoPane: 情報ウィンドウの表示を切り替える
+ToggleInfoPaneDescription: 詳細およびプレビューのための情報ウィンドウを表示するかどうかを切り替える
+DetailsPanePreviewNotAvaliableText: プレビューを利用できません
+PropertyItemName: ファイル名
+UnpinFolderFromSidebar: サイドバーからピン留めを外す
+Network: ネットワーク
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: ファイルの詳細
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: ファイルのプレビュー
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: 選択したファイルのプレビュー ウィンドウ
+Feedback: フィードバック
+CloudDriveSyncStatus_Online: オンライン時に利用可能
+Documentation: ドキュメント
+CloudDriveSyncStatus_Offline: オフラインで利用可能
+CloudDriveSyncStatus_PartialOffline: 部分的にオフラインで利用可能
+CloudDriveSyncStatus_Sync: 同期中
+CloudDriveSyncStatus_Excluded: 同期対象外
+ItemSizeNotCalculated: 未計算
+CloudDriveSyncStatus_Unknown: 不明
+RenameFileDialog:
+  Text: 拡張子を変更すると、ファイルが使えなくなる可能性があります。変更しますか?
+DriveTypeCDRom: CD-ROM ドライブ
+DriveTypeCloudDrive: クラウド ドライブ
+DriveTypeFixed: 固定ディスク ドライブ
+DriveTypeFloppyDisk: フロッピー ディスク ドライブ
+DriveTypeNetwork: ネットワーク ドライブ
+DriveTypeNoRootDirectory: 取り出されたドライブ
+DriveTypeRam: RAM ディスク ドライブ
+DriveTypeRemovable: 取り外し可能なデバイス
+DriveTypeUnknown: 不明
+DriveTypeVirtualDrive: 仮想ドライブ
+DateCreated: 作成日時
+MoreOptions: その他のオプション...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: ネットワーク ドライブを割り当てる
+Pinned: ピン留め
+SidebarLibraries: ライブラリ
+NoItemSelected: 項目が選択されていません
+PropertyItemTarget: ターゲット
+Arguments: 引数
+Default: 既定
+PropertyItemCount: 項目数
+ElevateConfirmDialog:
+  Title: 続行するには管理者権限が必要です
+  Content: 管理者として続行しますか?
+ColumnsShortcutTooltip: カラム (Ctrl+Shift+6)
+PinItemToStart:
+  Text: スタート メニューにピン留めする
+UnpinItemFromStart:
+  Text: スタート メニューからピン留めを外す
+Library: ライブラリ
+LibraryLocations:
+  Text: '場所:'
+SetAsDefaultSavePath: デフォルトの保存場所に設定
+LibraryNoLocations:
+  Text: 場所なし
+ErrorInputEmpty: 入力フィールドが空欄です!
+ErrorNameInputRestrictedCharacters: '名前には次の文字は使用できません: \ / : * ? " < > |'
+ErrorNameInputRestricted: この名前は使用できません!
+CreateLibraryErrorAlreadyExists: 同じ名前のライブラリが既に存在しています!
+OpenStorageSense: ストレージ センサーを開く
+Copy: コピー
+CopyItemsDialogTitle: '{0, plural, other {項目}}をコピー'
+DeleteItemsDialogTitle: '{0, plural, other {項目}}を削除'
+MoveItemsDialogPrimaryButtonText: 移動
+MoveItemsDialogSubtitle: '{0, plural, other {# 個の項目が移動されます}}'
+MoveItemsDialogTitle: '{0, plural, other {項目}}を移動'
+DeleteItemsDialogSubtitle: '{0, plural, other {# 個の項目が削除されます}}'
+ConflictingItemsDialogPrimaryButtonText: 続行
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, other {# 個の競合するファイル名}}があります'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, other {# 個の競合するファイル名}}と、{1, plural, other {# 個の競合しない項目}}があります'
+ConflictingItemsDialogTitle: '{0, plural, other {ファイル名}}が競合しています'
+CopyItemsDialogSubtitle: '{0, plural, other {# 個の項目がコピーされます}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: 完全に削除
+PropertyISO: ISO 感度
+ReplaceExisting: 既存のファイルを置換
+GenerateNewName: 名前を変更
+CreateFolderWithSelection: 選択した項目でフォルダーを作成
+ItemType: '種類:'
+ToolTipDescriptionDate: '更新日時:'
+OpenWith: プログラムから開く
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: ファイル アイコン
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: 元のパス
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: 種類
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: 更新日時
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: 削除日時
+Sort: 並べ替え
+DateModifiedLowerCase: 更新日時
+OriginalFolder: 元のフォルダー
+Descending: 降順
+ItemSizeText_Huge: 巨大
+ItemSizeText_VeryLarge: かなり大きい
+ItemSizeText_Large: 大きい
+ItemSizeText_Medium: 中程度
+ItemSizeText_Small: 小さい
+ItemSizeText_Tiny: かなり小さい
+Future: 未来
+Today: 今日
+Yesterday: 昨日
+EarlierThisWeek: 今週に入って (昨日は含めず)
+LastWeek: 先週
+EarlierThisMonth: 今月に入って (先週は含めず)
+LastMonth: 先月
+EarlierThisYear: 今年に入って (先月は含めず)
+LastYear: 昨年
+YearN: '{0}年'
+GroupItemsCount_Singular: '{0} 個の項目'
+GroupItemsCount_Plural: '{0} 個の項目'
+ReopenClosedTab: 閉じたタブを再度開く
+Rename: 名前を変更
+Privacy: プライバシー ポリシー
+TheRecycleBin: ごみ箱
+Canceling: キャンセル中
+Clear: クリア
+Widgets: ウィジェット
+SyncStatus: 同期ステータス
+Security: セキュリティ
+AdvancedPermissions: 詳細設定
+Allow: 許可
+Deny: 拒否
+SecurityFullControlLabel:
+  Text: フル コントロール
+SecurityListDirectoryLabel:
+  Text: フォルダーの内容を一覧表示
+Modify: 変更
+SecurityPermissionsHeaderText: 'アクセス許可: {0}'
+SecurityReadAndExecuteLabel:
+  Text: 読み取りと実行
+SecurityReadLabel:
+  Text: 読み取り
+SecurityUsersGroupLabel:
+  Text: グループ名またはユーザー名
+Write: 書き込み
+SecurityUnknownAccount: 不明なアカウント
+SecurityCannotReadProperties:
+  Text: このオブジェクトのセキュリティ プロパティを表示する権限がありません。[詳細設定] をクリックして続行します。
+SecurityOwnerLabel:
+  Text: '所有者:'
+SecurityUnknownOwnerText:
+  Text: 不明な所有者
+ExtractArchive: アーカイブを展開
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: 完了時に展開されたファイルを表示する
+BaseLayoutItemContextFlyoutExtractToChildFolder: '{0} へ展開'
+SideBarCreateNewLibrary:
+  Text: 新しいライブラリの作成
+SideBarRestoreLibraries:
+  Text: 既定のライブラリを復元
+DialogRestoreLibrariesSubtitleText: 既定のライブラリを復元しますか? すべてのファイルはストレージに残ります。
+DialogRestoreLibrariesTitleText: ライブラリを復元
+PropertyFileOwner: 所有者
+SecuritySpecialLabel:
+  Text: 特別
+Access: アクセス
+SecurityAdvancedAppliesTo: 適用先
+Principal: プリンシパル
+SecurityAdvancedFlagsFilesLabel: ファイル
+SecurityAdvancedFlagsFolderLabel: このフォルダー
+SecurityAdvancedFlagsSubfoldersLabel: サブフォルダー
+Inherited: 継承済み
+Permissions: アクセス許可
+SecurityAdvancedCannotReadProperties:
+  Text: このオブジェクトのセキュリティ プロパティを表示する権限がありません。このオブジェクトの所有権を取得できる可能性があります。
+SecurityAdvancedFolderFiles:
+  Text: このフォルダーとファイル
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: このフォルダー、サブフォルダーおよびファイル
+SecurityAdvancedOnlyFiles:
+  Text: ファイルのみ
+SecurityAdvancedOnlySubfolders:
+  Text: サブフォルダーのみ
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: サブフォルダーとファイルのみ
+SecurityAdvancedOnlyThisFolder:
+  Text: このフォルダーのみ
+SecurityAdvancedFolderSubfolders:
+  Text: このフォルダーとサブフォルダー
+SecurityAppendDataLabel:
+  Text: データを追加
+SecurityChangePermissionsLabel:
+  Text: アクセス許可の変更
+SecurityCreateDirectoriesLabel:
+  Text: フォルダーの作成
+SecurityCreateFilesLabel:
+  Text: ファイルの作成
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: サブフォルダーとファイルを削除
+SecurityExecuteFileLabel:
+  Text: ファイルの実行
+SecurityReadAttributesLabel:
+  Text: 属性の読み取り
+SecurityReadDataLabel:
+  Text: データの読み取り
+SecurityReadExtendedAttributesLabel:
+  Text: 拡張属性の読み取り
+SecurityReadPermissionsLabel:
+  Text: アクセス許可の読み取り
+SecurityTakeOwnershipLabel:
+  Text: 所有権の取得
+SecurityTraverseLabel:
+  Text: フォルダーにアクセス
+SecurityWriteAttributesLabel:
+  Text: 属性の書き込み
+SecurityWriteDataLabel:
+  Text: データの書き込み
+SecurityWriteExtendedAttributesLabel:
+  Text: 拡張属性の書き込み
+SecurityAdvancedInheritedConvert:
+  Text: 継承されたアクセス許可を明示的なアクセス許可に変換
+SecurityAdvancedInheritedEnable:
+  Text: 継承の有効化
+SecurityAdvancedInheritedRemove:
+  Text: 継承されたすべてのアクセス許可を削除
+SecurityAdvancedReplaceChildPermissions:
+  Text: 子オブジェクトの権限をリセット
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: すべての子オブジェクトのアクセス許可エントリを、このオブジェクトから継承可能なアクセス許可エントリに置き換えます
+NavigationToolbarClosePane:
+  Label: ペインを閉じる
+EnterCompactOverlay: コンパクト オーバーレイを開始
+ExitCompactOverlay: コンパクト オーバーレイを終了
+PropertyFileDescription: ファイルの説明
+PropertyCompany: 会社
+PropertyLanguage: 言語
+PropertyTrademarks: 商標
+PropertyFileVersion: ファイル バージョン
+PreviewPaneLoadCloudItemButton:
+  Text: 完全なプレビューを読み込む
+  ToolTipService:
+    ToolTip: クラウドから項目をダウンロードし、プレビューを表示する
+DetailsArchiveItems: '{0, plural, other {# 項目}} ({1, plural, other {# ファイル}}、{2, plural, other {# フォルダー}})'
+PropertyUncompressedSize: 圧縮前のサイズ
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: '{0} セクションを非表示'
+AddFile: ファイルの追加
+ConsentDialogTitle: 更新プログラムが利用可能です
+ConsentDialogContent: 更新プログラムをインストールする準備ができました
+Close: 閉じる
+ConsentDialogPrimaryButtonText: 更新
+Home: ホーム
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: アーカイブの展開が正常に完了しました。
+ExtractingArchiveText: アーカイブを展開中
+ExtractingCompleteText: 展開が完了しました
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: 親フォルダーを開く
+Unknown: 不明
+EditTags: タグを編集
+PropertyPartOfSet: セットのパート
+InsertDiscDialog:
+  OpenDriveButton: ドライブを開く
+  Text: ドライブ {0} にディスクを挿入してください
+  Title: ディスクを挿入してください
+OK: OK
+AskCredentialDialog:
+  Title: 資格情報が必要です
+CredentialDialogAnonymous:
+  Content: 匿名
+CredentialDialogDescription:
+  Text: '資格情報を入力してください:'
+CredentialDialogUserName:
+  PlaceholderText: ユーザー名
+NoSearchResultsFound: 項目は見つかりませんでした
+OpenLogLocation: ログの保存場所を開く
+LinkToFolderCaptionText: '{0} にリンクを作成'
+Columns: カラム
+Tiles: タイル
+OpenFoldersInNewTab: 新しいタブでフォルダーを開く
+StatusCenter: ステータス センター
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: 作成日時
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: サイズ
+ExperimentalFeatureFlags: 実験的な機能フラグ
+HelpAndSupport: ヘルプとサポート
+SubmitFeatureRequest: 機能のリクエストを送信
+SubmitBugReport: バグ レポートを送信
+SettingsSetAsDefaultFileManager: Files を既定のファイルマネージャーに設定する
+SettingsSetAsOpenDialog: ファイルを開くダイアログで Files を使用
+Tag: タグ
+SettingsOpenItemsWithOneClick: シングル クリックで項目を開く
+FolderPath: フォルダー パス
+ExportSettings: 設定をエクスポート
+ImportSettings: 設定をインポート
+SettingsImportErrorDescription: 設定をインポートできませんでした。設定ファイルが壊れています。
+SettingsImportErrorTitle: 設定のインポート中にエラーが発生しました
+EmptyRecycleBin: ごみ箱を空にする
+Sidebar: サイドバー
+ChooseCustomIcon: 下の一覧からアイコンを選択
+Customization: カスタマイズ
+RestoreDefault: 既定値に戻す
+OpenTabInExistingInstance: 別のアプリから Files を開くときに既存のウィンドウのタブを開く
+StartupSettings: 起動時の設定
+Compatibility: 互換性
+None: なし
+CompatibilityOnWindowsLogin: Windows にサインインしたとき
+CompatibilityOnProgramStart: このプログラムを開いたとき
+System: システム
+CompatibilitySystemEnhanced: システム (拡張)
+CompatibilityReducedColorModeColor16bit: 16 ビット (65536) カラー
+CompatibilityReducedColorModeColor8bit: 8 ビット (256) カラー
+CompatibilityDisableFullscreenOptimizations: 全画面表示の最適化を無効にする
+CompatibilityRunIn640x480Resolution: 640 x 480 の解像度で実行する
+CompatibilityOverrideHighDPIBehavior: 高 DPI スケール設定の上書き
+CompatibilityReducedColorMode: カラー モードを制限する
+CompatibilityRegisterThisProgramForRestart: このプログラムを再起動するために登録する
+RunAsAdministrator: 管理者として実行
+CompatibilityRunTroubleshooter: 互換性のトラブルシューティング ツールの実行
+CompatibilityUseDPISettings: メイン ディスプレイに設定されている DPI を使用する
+CompatibilityDoNotAdjustDPI: DPI を調整しない
+CompatibilityDoNotOverrideDPI: DPI を上書きしない
+CompatibilityMode: 互換モード
+CompatibilityNoReducedColor: カラーを制限しない
+ThirdPartyLicenses: サード パーティ ライセンス
+SettingsSetAsDefaultFileManagerDescription: この設定はシステムのレジストリを変更し、デバイスに思わぬ結果をもたらす可能性があります。問題が発生しても開発者は責任を負いません。
+FolderWidgetCreateNewLibraryDialogTitleText: ライブラリを作成
+FolderWidgetCreateNewLibraryInputPlaceholderText: ライブラリ名を入力
+CalculateFolderSizes: フォルダー サイズを計算する
+RecentFiles: 最近使用したファイル
+SettingsOpenInLogin: WIndows 起動時に Files を開く
+Attributes: 属性
+Hidden: 非表示
+MoreDetails: 詳細
+ReadOnly: 読み取り専用
+CleanupDrive: ドライブ コンテンツをクリーンアップ
+Type: 種類
+Bytes: バイト
+Extract: 展開
+ExtractFiles: ファイルを展開
+ExtractHere: ここに展開
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: '{0} へ展開'
+RunScript: スクリプトを実行
+RunWithPowerShell: PowerShell で実行
+ShowFolderSizesWarning: フォルダー サイズの計算はリソースを消費するため、CPU使用率が上昇する可能性があります。
+RotateLeft: 左に回転
+RotateRight: 右に回転
+Install: インストール
+CloseTabsToTheLeft: これより左のタブを閉じる
+CloseTabsToTheRight: これより右のタブを閉じる
+CloseOtherTabs: 他のタブを閉じる
+Music: ミュージック
+Pictures: ピクチャ
+UpdateFiles: Files を更新
+FileTags: タグ
+Universal: ユニバーサル
+DateFormatSample: '例: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: サムネイルを表示する
+Retry: 再試行
+ErrorDialogUnsupportedMoveOperation: ここでは項目の移動がサポートされていません。代わりに項目をコピーしますか?
+HiddenItems: 隠しファイル
+Custom: カスタム
+SetAsSlideshow: デスクトップのスライドショーとして設定
+SizeAllColumnsToFit: すべての列のサイズを合わせる
+Adaptive: レイアウトを自動的に選択
+AdaptiveShortcutTooltip: レイアウトを自動的に選択 (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: 代替データ ストリームを表示する
+Behaviors: 動作
+ReviewFiles: Files を評価
+ReviewFilesContent: Files を評価していただけますか?
+SetAsBackgroundFlyout: 背景に設定
+SetAsBackground: デスクトップの背景に設定
+SetAsDefault: デフォルトに設定
+DateColumn: 更新日時
+DateCreatedColumn: 作成日時
+SizeColumn: サイズ
+TagColumn: タグ
+TypeColumn: 種類
+Lockscreen: ロック画面
+OpenFolderWithOneClickColumnsLayout: カラム レイアウトでシングル クリックでフォルダーを開く
+OpeningItems: 項目を開くとき
+Compress: 圧縮
+SelectFilesAndFoldersOnHover: カーソルを合わせたファイルとフォルダーを選択する
+ConfirmRestoreBinDialogContent: ごみ箱内のすべての項目を復元してもよろしいですか?
+ConfirmRestoreBinDialogTitle: すべての項目を復元
+ConfirmRestoreSelectionBinDialogContent: 選択した {0} 項目を復元しますか?
+ConfirmRestoreSelectionBinDialogTitle: 選択した項目を復元
+RestoreAllItems: すべての項目を復元
+Restore: 復元
+ShortcutCannotBeOpened: ショートカットを開けません
+DeleteShortcutDescription: 参照先の項目 {0} が見つかりません。このショートカットを削除しますか?
+AccessDeniedToFolder: このフォルダーにアクセスする権限がありません。
+ArchivePassword: アーカイブのパスワード
+ExtractToPath: パス
+SortingAndGrouping: 並べ替えとグループ化
+CreateArchive: アーカイブを作成
+Create: 作成
+CreateNamedArchive: '{0} を作成'
+EnterName: 名前を入力
+CompressionLevel: 圧縮レベル
+CompressionLevelUltra: 最高圧縮
+CompressionLevelHigh: 圧縮重視
+CompressionLevelNormal: 標準
+CompressionLevelLow: 速度重視
+CompressionLevelFast: 最速
+CompressionLevelNone: 無圧縮
+SplittingSize: 分割サイズ
+Do not split: 分割しない
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: ブルーレイ
+Encryption: 暗号化
+Password: パスワード
+Format: フォーマット
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: 同期ステータス
+GroupBy: グループで表示
+SortBy: 並べ替え
+GroupInDescendingOrder: 降順でグループを表示する
+SortInDescendingOrder: 降順で並べ替える
+NewShortcutDialogTitle: 新しいショートカットを作成
+NewShortcutDialogDescription: ローカルまたはネットワーク上のプログラム、ファイル、フォルダー、コンピューター、またはインターネット アドレスへのショートカットを作成します。
+NewShortcutDialogPrompt: '項目の場所を入力:'
+AddDialogListShortcutSubHeader: ショートカットを作成
+RecentFilesDisabledOnWindowsWarning: 最近使用したファイルは、Windows ファイル エクスプローラーで現在無効になっています。
+EditSettingsFile: 設定ファイルを編集する
+WhatsNew: 更新情報
+CannotCreateShortcutDialogTitle: この場所にショートカットを作成するには管理者権限が必要です
+CannotCreateShortcutDialogMessage: 代わりにデスクトップにショートカットを作成しますか?
+ErrorDialogNameNotAllowed: 指定された項目名は無効です
+Settings: 設定
+DoubleClickBlankSpaceToGoUp: 項目のない領域をダブル クリックして1つ上のフォルダーに移動する
+ViewMore: さらに表示する
+ShowEditTagsMenu: '[タグを編集] オプションを表示する'
+ShowCompressionOptions: '[圧縮] および [展開] メニューを表示する'
+ShowSendToMenu: '[送る] メニューを表示する'
+ShowOpenInNewTab: '[新しいタブでフォルダーを開く] オプションを表示する'
+ShowOpenInNewWindow: '[新しいウィンドウでフォルダーを開く] オプションを表示する'
+QuickAccess: クイック アクセス
+NetworkAuthenticationDialogMessage: '{0} に接続するための資格情報を入力してください'
+NetworkAuthenticationDialogTitle: 資格情報を入力
+NetworkAuthenticationSaveCheckbox: 資格情報を保存する
+NetworkFolderErrorDialogTitle: ネットワーク フォルダー エラー
+AppVersion: アプリケーションのバージョン
+WindowsVersion: Windows のバージョン
+Always: 常に
+PermanentDeletionOnly: 完全に削除するときのみ
+Never: なし
+TagColor: タグの色
+NewTag: 新しいタグ
+CreateNewTag: 新しいタグを作成
+Loading: 読み込み中…
+ContextMenuOptions: コンテキスト メニューの設定
+ShowFileExtensions: ファイル名拡張子を表示
+ShowHiddenItems: 隠しファイルを表示
+FormatDriveText: フォーマット…
+Help: ヘルプ
+FullScreen: 全画面表示に切り替える
+ConfirmDeleteTag: このタグを削除しますか？
+PlayAll: すべて再生
+Height: 高さ
+Width: 幅
+ApplyToAllConflictingItems: すべての競合する項目にこれを実行する
+OpenTerminal: ターミナルで開く
+OpenTerminalAsAdmin: 管理者としてターミナルで開く
+Save: 保存
+MultiSelect: 複数選択
+ReorderSidebarItemsDialogText: サイドバーの項目を並べ替え
+Hashes: ハッシュ値
+CalculationError: 計算中にエラーが発生しました
+CalculationErrorFileIsOpen: ハッシュ値を計算できませんでした。ファイルを閉じて、もう一度やり直してください。
+CalculationOnlineFileHashError: ハッシュ値はオンライン ファイルでは利用できません
+Algorithm: アルゴリズム
+HashValue: ハッシュ値
+SelectHashesToShow: 表示するハッシュ値を選択
+Calculating: 計算中...
+JumpListPinnedGroupHeader: ピン留めされた項目
+DecreaseSize: サイズを小さくする
+IncreaseSize: サイズを大きくする
+ToggleSortDirection: 昇順と降順の切り替え
+InvalidTagNameWarning: 無効な名前です
+TagNameRules: 名前を空欄にすることやピリオドで開始または終了することはできません。
+Videos: ビデオ
+LaunchPreviewPopup: プレビュー ポップアップを開く
+ToggleCompactOverlay: コンパクト オーバーレイを切り替える
+OpenHelpDescription: ブラウザーでオンライン ヘルプを開く
+ToggleFullScreenDescription: 全画面表示に切り替える
+EnterCompactOverlayDescription: コンパクト オーバーレイを開始する
+ExitCompactOverlayDescription: コンパクト オーバーレイを終了する
+ToggleCompactOverlayDescription: コンパクト オーバーレイを切り替える
+SearchDescription: 検索ボックスへ移動する
+ToggleShowHiddenItemsDescription: 隠しファイルを表示するかどうかを切り替える
+ToggleShowFileExtensionsDescription: ファイル名拡張子を表示するかどうかを切り替える
+TogglePreviewPaneDescription: ファイルをプレビューするためのプレビュー ウィンドウを表示する
+ToggleSidebarDescription: サイドバーを表示するかどうかを切り替える
+CopyItemDescription: 項目をクリップボードにコピーする
+CopyPathDescription: 選択した項目のパスをクリップボードにコピーする
+CopyPathWithQuotesDescription: 選択した項目のパスを引用符付きでクリップボードにコピーする
+CutItemDescription: 項目をクリップボードに切り取る
+PasteItemDescription: 項目をクリップボードから現在のフォルダーに貼り付ける
+PasteItemToSelectionDescription: 項目をクリップボードから選択したフォルダーに貼り付ける
+DeleteItemDescription: ファイルを削除する
+CreateFolderDescription: 新しいフォルダーを作成する
+CreateShortcutDescription: 選択した項目へのショートカットを作成する
+CreateShortcutFromDialogDescription: 任意の項目へのショートカットを作成する
+EmptyRecycleBinDescription: ごみ箱を空にする
+FormatDriveDescription: 選択した項目の [フォーマット] メニューを開く
+RestoreRecycleBinDescription: ごみ箱から選択した項目を復元
+RestoreAllRecycleBinDescription: ごみ箱からすべての項目を復元する
+OpenItemDescription: 項目を開く
+OpenItemWithApplicationPickerDescription: 選択したアプリケーションで項目を開く
+OpenParentFolderDescription: 検索した項目の親フォルダーを開く
+RefreshItemsDescription: ページ内容を更新する
+RenameDescription: 選択した項目の名前を変更する
+SelectAllDescription: すべての項目を選択する
+InvertSelectionDescription: 項目の選択を反転する
+ClearSelectionDescription: 項目の選択をクリアする
+ToggleSelectDescription: 項目の選択を切り替える
+ShareItemDescription: 選択したファイルを他の人と共有する
+PinToStartDescription: スタート メニューに項目をピン留めする
+UnpinFromStartDescription: スタート メニューから項目のピン留めを外す
+PinFolderToSidebarDescription: サイドバーにフォルダーをピン留めする
+UnpinFolderFromSidebarDescription: サイドバーからフォルダーのピン留めを外す
+SetAsWallpaperBackgroundDescription: 選択した画像をデスクトップの背景に設定する
+SetAsSlideshowBackgroundDescription: 選択した画像をデスクトップのスライドショーに設定する
+SetAsLockscreenBackgroundDescription: 選択した画像をロック画面の背景に設定する
+SetAsAppBackgroundDescription: 選択した画像をアプリの背景に設定する
+InstallFontDescription: 選択したフォントをインストールする
+InstallInfDriverDescription: 選択した inf ファイルを使用してドライバーをインストールする
+InstallCertificateDescription: 選択した証明書をインストールする
+RunAsAdminDescription: 選択したアプリケーションを管理者として実行する
+RunAsAnotherUserDescription: 選択したアプリケーションを別のユーザーとして実行する
+RunWithPowershellDescription: 選択した PowerShell スクリプトを実行する
+LaunchPreviewPopupDescription: ポップアップ ウィンドウでプレビューを開く
+CompressIntoArchiveDescription: 選択した項目でアーカイブを作成する
+CompressIntoSevenZipDescription: 選択した項目で即座に 7z アーカイブを作成する
+CompressIntoZipDescription: 選択した項目で即座に zip アーカイブを作成する
+DecompressArchiveDescription: 選択したアーカイブから任意のフォルダーに項目を抽出する
+DecompressArchiveHereDescription: 選択したアーカイブから現在のフォルダーに項目を抽出する
+DecompressArchiveToChildFolderDescription: 選択したアーカイブから新しいフォルダーに項目を抽出する
+RotateLeftDescription: 選択した画像を左に回転する
+RotateRightDescription: 選択した画像を右に回転する
+OpenSettingsDescription: 設定画面を開く
+OpenTerminalDescription: ターミナルでフォルダーを開く
+OpenTerminalAsAdminDescription: ターミナルでフォルダーを管理者として開く
+LayoutDecreaseSizeDescription: 現在のビューの項目のサイズを小さくする
+LayoutIncreaseSizeDescription: 現在のビューの項目のサイズを大きくする
+LayoutDetailsDescription: 詳細ビューに切り替える
+LayoutTilesDescription: タイル ビューに切り替える
+LayoutListDescription: 一覧ビューに切り替える
+List: 一覧
+Grid: アイコン
+LayoutGridDescription: アイコン ビューに切り替える
+LayoutColumnsDescription: カラム ビューに切り替える
+LayoutAdaptiveDescription: 適切なビューに切り替える
+SortByNameDescription: 項目を名前で並べ替える
+SortByDateModifiedDescription: 項目を更新日時で並べ替える
+SortByDateCreatedDescription: 項目を作成日時で並べ替える
+SortBySizeDescription: 項目をサイズで並べ替える
+SortByTypeDescription: 項目を種類で並べ替える
+SortBySyncStatusDescription: 項目を同期状況で並べ替える
+SortByTagDescription: 項目をタグで並べ替える
+SortByOriginalFolderDescription: 項目を元のフォルダーで並べ替える
+SortByDateDeletedDescription: 項目を削除した日時で並べ替える
+SortAscendingDescription: 項目を昇順で並べ替える
+SortDescendingDescription: 項目を降順で並べ替える
+ToggleSortDirectionDescription: 項目の並べ替え順を切り替える
+GroupByNoneDescription: 項目をグループ化せずに表示する
+GroupByNameDescription: 項目を名前でグループ化する
+GroupByDateModifiedDescription: 項目を更新日時でグループ化する
+GroupByDateCreatedDescription: 項目を作成日時でグループ化する
+GroupBySizeDescription: 項目をサイズでグループ化する
+GroupByTypeDescription: 項目を種類でグループ化する
+GroupBySyncStatusDescription: 項目を同期状況でグループ化する
+GroupByTagDescription: 項目をタグでグループ化する
+GroupByOriginalFolderDescription: 項目を元のフォルダーでグループ化する
+GroupByDateDeletedDescription: 項目を削除した日時でグループ化する
+GroupByFolderPathDescription: 項目をフォルダー パスでグループ化する
+GroupAscendingDescription: 項目を昇順でグループ化する
+GroupDescendingDescription: 項目を降順でグループ化する
+ToggleGroupDirectionDescription: 項目のグループ化順を切り替える
+NewTabDescription: 新しいタブを開く
+NavigateBackDescription: ナビゲーション履歴を戻る
+NavigateForwardDescription: ナビゲーション履歴を進む
+NavigateUpDescription: 1つ上のフォルダーに移動する
+DuplicateCurrentTabDescription: 現在のタブを複製する
+DuplicateSelectedTabDescription: 選択したタブを複製する
+CloseTabsToTheLeftCurrentDescription: 現在のタブの左側のタブを閉じる
+CloseTabsToTheLeftSelectedDescription: 選択したタブの左側のタブを閉じる
+CloseTabsToTheRightCurrentDescription: 現在のタブの右側のタブを閉じる
+CloseTabsToTheRightSelectedDescription: 選択したタブの右側のタブを閉じる
+CloseOtherTabsCurrentDescription: 現在のタブ以外のタブを閉じる
+CloseOtherTabsSelectedDescription: 選択したタブ以外のタブを閉じる
+ReopenClosedTabDescription: 最後に閉じたタブを再度開く
+PreviousTabDescription: 前のタブに移動する
+NextTabDescription: 次のタブに移動する
+CloseSelectedTabDescription: 現在のタブを閉じる
+OpenNewPaneDescription: 新しいペインを開く
+ClosePaneDescription: 右ペインを閉じる
+FocusLeftPane: 左ペインに移動
+FocusLeftPaneDescription: 左ペインに移動する
+FocusRightPane: 右ペインに移動
+FocusRightPaneDescription: 右ペインに移動する
+ToggleSidebar: サイドバーの表示を切り替える
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: スペース
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: バックスペース
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: 左矢印
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: 右矢印
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: 下矢印
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: 上矢印
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Home
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: スリープ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Clear
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Help
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: マウス4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: マウス5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: アプリ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: アプリ1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: アプリ2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: メール
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: GoHome
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: 戻る
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: 進む
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: 再読み込み
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: 中止
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: 検索
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: お気に入り
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: 再生・一時停止
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: 停止
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: 前トラック
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: 次トラック
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: メディア選択
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: ミュート
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: 音量小
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: 音量大
+Change: 変更
+ToggleSelect: 選択を切り替える
+ShowFileExtensionWarning: ファイル名拡張子の変更時に警告を表示する
+ThisPC: PC
+RecycleBin: ごみ箱
+Untagged: タグなし
+PreviousTab: 前のタブに移動
+NextTab: 次のタブに移動
+CloseTab: 現在のタブを閉じる
+EditPath: パスを編集
+Redo: やり直す
+Undo: 元に戻す
+InvalidLocation: 無効な場所です
+CopyFileWithoutProperties: これらのファイルをプロパティなしでコピーしますか?
+FilePropertiesCannotBeCopied: これらのファイルには新しい場所にコピーできないプロパティがあります
+FilePropertiesCannotBeMoved: これらのファイルには新しい場所に移動できないプロパティがあります
+MoveFileWithoutProperties: これらのファイルをプロパティなしで移動しますか?
+ShowCheckboxesWhenSelectingItems: 項目選択時にチェック ボックスを表示する
+EditPathDescription: パス バーに移動する
+AddItemDescription: 新しい項目を作成する
+SecurityNoAccessControlEntriesText: このオブジェクトにアクセスする権限を持つグループまたはユーザーがありません。ただし、このオブジェクトの所有者は権限を割り当てることができます。
+OpenFileLocationDescription: ファイルの場所を開く
+DeletePermanently: 完全に削除
+DeleteItemPermanentlyDescription: 項目を完全に削除する
+PlayAllDescription: 選択したメディア ファイルを再生する
+UndoDescription: 最後の操作を元に戻す
+RedoDescription: 最後の操作をやり直す
+Location: '場所:'
+GroupByMonthDescription: 項目を月でグループ化する
+GroupByYearDescription: 項目を年でグループ化する
+Month: 月
+Day: 日
+ToggleGroupByDateUnitDescription: 日付でグループ化する場合の単位を切り替える
+ToggleGroupingUnit: グループ化単位の切り替え
+Year: 年
+GroupByDateUnit: 日時のグループ化の単位
+GroupByDateCreatedDayDescription: 項目を作成日時の日でグループ化する
+GroupByDateCreatedMonthDescription: 項目を作成日時の月でグループ化する
+GroupByDateCreatedYearDescription: 項目を作成日時の年でグループ化する
+GroupByDateDeletedDayDescription: 項目を削除した日時の日でグループ化する
+GroupByDateDeletedMonthDescription: 項目を削除した日時の月でグループ化する
+GroupByDateDeletedYearDescription: 項目を削除した日時の年でグループ化する
+GroupByDateModifiedDayDescription: 項目を更新日時の日でグループ化する
+GroupByDateModifiedMonthDescription: 項目を更新日時の月でグループ化する
+GroupByDateModifiedYearDescription: 項目を更新日時の年でグループ化する
+SecurityClickAdvancedPermissions: '[高度な権限] をクリックして続行してください。'
+SecurityRequireReadPermissions: この項目のプロパティを表示するには、読み取り権限が必要です。
+SecuritySuggestToTakeOwnership: プロパティを表示する権限がある項目の所有権を取得するには、上記の [変更] をクリックします。
+SecurityUnableToDisplayPermissions: 権限を表示できません。
+StashChanges: 変更を {0} に残す
+DiscardChanges: 変更を破棄する
+BringChanges: 変更を {0} に持ち込む
+UncommittedChanges: このブランチにはコミットされていない変更があります。どうしますか?
+SwitchBranch: ブランチを切り替え
+Branches: ブランチ
+Switch: 切り替え
+NewBranch: 新しいブランチ
+InvalidBranchName: 無効なブランチ名
+CreateBranch: ブランチを作成
+CreateNewBranch: ブランチを作成
+BasedOn: 'ベース:'
+SwitchToNewBranch: 新しいブランチに切り替える
+CreateFolderWithSelectionDescription: 選択した項目でフォルダーを作成する
+OpenProperties: プロパティを開く
+OpenPropertiesDescription: プロパティ ウィンドウを開く
+Locals: ローカル
+Remotes: リモート
+ImproveTranslation: Crowdin で翻訳
+GitFetch: フェッチ
+GitPull: プル
+GitFetchDescription: git fetch を実行する
+GitPullDescription: git pull を実行する
+Preview: プレビュー
+GitStatus: Git ステータス
+GitError: Git エラー
+PullTimeoutError: タイムアウト エラーのため git pull に失敗しました
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (複数の値)
+Author: 作成者
+DateCommitted: コミット日時
+CommitMessage: コミット メッセージ
+CommitSha: コミット SHA
+Git: Git
+Acrylic: アクリル
+Mica: マイカ
+MicaAlt: マイカ Alt
+BackdropMaterial: 背景の素材
+Solid: ソリッド
+ManageBranches: ブランチの管理
+Push: プッシュ
+GitPushDescription: git push を実行する
+GitSync: 同期
+GitSyncDescription: git pull と git push を実行する
+GitSyncStatusExtendedInfo: '{0} 送信 / {1} 受信コミット'
+ConnectGitHub: GitHub に接続
+ConnectGitHubDescription: GitHub リポジトリでの作業を開始するには、以下のリンク先で次のコードを入力してください。
+CannotReachGitHubError: Files は現在 GitHub にアクセスできません。
+OpenInVSCode: VS Code でフォルダーを開く
+OpenInVSCodeDescription: 現在のフォルダーを Visual Studio Code で開く
+OpenRepoInVSCode: VS Code でリポジトリを開く
+OpenRepoInVSCodeDescription: Git リポジトリのルートを Visual Studio Code で開く
+CopyCode: コードをコピー
+Added: 追加
+Deleted: 削除
+Modified: 変更
+Untracked: 未追跡
+UnableToDisplayOwner: 現在の所有者を表示できません。
+AuthorizationSucceded: 素晴らしい! これで作業できるようになりました。
+InitRepo: リポジトリの初期化
+InitRepoDescription: Git リポジトリを初期化する
+GitOriginRepositoryName: リモート リポジトリ名
+GitCurrentBranch: 現在のブランチ
+PathColumn: パス
+SortByPathDescription: 項目をパスで並べ替える
+OpenDirectoryInNewPaneDescription: 新しいペインでフォルダーを開く
+OpenDirectoryInNewTabDescription: 新しいタブでフォルダーを開く
+OpenInNewWindowDescription: 新しいウィンドウでフォルダーを開く
+OpenAllTaggedItems: すべて開く
+OpenAllTaggedItemsDescription: すべてのタグ付けされた項目を開く
+#{0} is the drive letter.
+DriveWithLetter: ドライブ ({0})
+InvalidCommand: 無効なコマンド
+InvalidCommandContent: '{0} はコマンドとして認識できません。'
+CommandNotExecutable: 実行できないコマンド
+CommandNotExecutableContent: コマンド {0} は現在実行できません。
+CommandPalette: コマンド パレット
+OpenCommandPaletteDescription: コマンド パレットを開く
+ShortcutItemWorkingDir: '作業フォルダー:'
+TurnOnBitLocker: BitLocker を有効にする
+ManageBitLocker: BitLocker の管理
+CopyFailureFileToLarge: 以下のファイルは大きすぎて、このドライブにコピーできません。
+FormatDrive: ドライブのフォーマット
+DontShowAgain: 次回から表示しない
+FilesRunningAsAdmin: Files は管理者として実行されています
+FilesRunningAsAdminContent: Windows および WinAppSdk の制限により、Files を管理者として実行している場合はドラッグ アンド ドロップを使用できません。ドラッグ アンド ドロップを使用したい場合は、スタート メニューから UAC (ユーザー アカウント制御) を開き、3番目のレベルを選択して Windows を再起動することでこの制限を回避できます。そうでない場合は、ドラッグ アンド ドロップなしで Files を使い続けることもできます。
+SettingsLeaveAppRunning: ウィンドウを閉じたときにアプリをバックグラウンドで実行したままにする
+#One of the custom color themes
+Blue: ブルー
+#One of the custom color themes
+BlueGray: ブルー グレー
+#One of the custom color themes
+BrickRed: ブリック レッド
+#One of the custom color themes
+Camouflage: カモフラージュ
+#One of the custom color themes
+CoolBlueBright: クール ブルー ブライト
+#One of the custom color themes
+Gray: グレー
+#One of the custom color themes
+GrayDark: グレー ダーク
+#One of the custom color themes
+Green: グリーン
+#One of the custom color themes
+IrisPastel: アイリス パステル
+#One of the custom color themes
+MintLight: ミント ライト
+#One of the custom color themes
+ModRed: モダン レッド
+#One of the custom color themes
+OrangeBright: オレンジ ブライト
+#One of the custom color themes
+Overcast: オーバーキャスト
+#One of the custom color themes
+Red: レッド
+#One of the custom color themes
+RoseBright: ローズ ブライト
+#One of the custom color themes
+Seafoam: シーフォーム
+#One of the custom color themes
+Storm: ストーム
+#One of the custom color themes
+VioletRedLight: バイオレット レッド ライト
+#One of the custom color themes
+YellowGold: イエロー ゴールド
+ClearCompleted: 完了したタスクを消去
+NameWithColon: '名前:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{1} 中の {0} が処理されました'
+ItemsLower: 項目
+CannotInitializeGitRepo: このフォルダーを Git リポジトリとして初期化できません。
+ContributingArtist: 参加アーティスト
+AddPage: ページの追加
+ProcessingItems: 項目を処理しています...
+SpeedWithColon: '速度:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: '{0} 項目の "{1}" への圧縮をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: '{0} 項目の "{1}" から "{2}" への圧縮をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: '{0} 項目を "{1}" へ圧縮しました'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: '{0} 項目を "{1}" から "{2}" へ圧縮しました'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: '{0} 項目を "{1}" へ圧縮中にエラーが発生しました'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: '{0} 項目を "{1}" から "{2}" へ圧縮できませんでした'
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: '{0} 項目を "{1}" へ圧縮しています'
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: '{0} 項目を "{1}" から "{2}" へ圧縮しています'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: '{0} 項目の "{1}" へのコピーをキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: '{0} 項目の "{1}" から "{2}" へのコピーをキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: '{0} 項目を "{1}" へコピーしました'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: '{0} 項目を "{1}" から "{2}" へコピーしました'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: '{0} 項目を "{1}" へコピー中にエラーが発生しました'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: '{0} 項目を "{1}" から "{2}" へコピーできませんでした'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: '{0} 項目を "{1}" へコピーしています'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: '{0} 項目を "{1}" から "{2}" へコピーしています'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: '"{0}" の "{1}" への展開をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: '"{0}" の "{1}" から "{2}" への展開をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: '"{0}" を "{1}" へ展開しました'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: '"{0}" を "{1}" から "{2}" へ展開しました'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: '"{0}" を "{1}" へ展開中にエラーが発生しました'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: '"{0}" を "{1}" から "{2}" へ展開できませんでした'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: '"{0}" を "{1}" へ展開しています'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: '"{0}" を "{1}" から "{2}" へ展開しています'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: '{0} 項目の "{1}" からの削除をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: '{0} 項目を "{1}" から削除しました'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: '{0} 項目を "{1}" から削除中にエラーが発生しました'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: '{0} 項目を "{1}" から削除できませんでした'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: '{0} 項目を "{1}" から削除しています'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: '{0} 項目の "{1}" への移動をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: '{0} 項目の "{1}" から "{2}" への移動をキャンセルしました'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: '{0} 項目を "{1}" へ移動しました'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: '{0} 項目を "{1}" から "{2}" へ移動しました'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: '{0} 項目を "{1}" へ移動しています'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: '{0} 項目を "{1}" から "{2}" へ移動しています'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: '{0} 項目を "{1}" へ移動中にエラーが発生しました'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: '{0} 項目を "{1}" から "{2}" へ移動できませんでした'
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: ごみ箱を空にするのをキャンセルしました
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: ごみ箱を空にしました
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: ごみ箱を空にしています
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: ごみ箱を空にしているときにエラーが発生しました
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: ごみ箱を空にできませんでした
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: 操作を準備しています...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} 項目が処理されました'
+UnblockDownloadedFile: ダウンロードしたファイルのブロックを解除
+NoFileOperations: 実行中のファイル操作はありません
+OpenOnStartupDisabled: Windows 起動時に Files を開くオプションはあなたのシステム設定かグループ ポリシーによって利用できません。再度有効にするにはタスク マネージャーのスタートアップ ページを開いてください。
+FailedToRestore: ごみ箱から項目を復元できませんでした
+FailedToSetBackground: 背景を設定できませんでした
+GitDeleteBranch: Git ブランチの削除
+GitDeleteBranchSubtitle: '"{0}" ブランチを完全に削除しますか?'
+ConnectedToGitHub: GitHub に接続しました
+Logout: ログアウト
+ConnectToGitHub: GitHub に接続
+Login: ログイン
+ErrorApplyingTagContent: タグは NTFS でフォーマットされたドライブでのみ互換性があります。
+ErrorApplyingTagTitle: このタグを適用中にエラーが発生しました
+DecompressArchiveHereSmartDescription: 選択したアーカイブから単一項目の場合は現在のフォルダー、複数項目の場合は新しいフォルダーに項目を抽出する
+ExtractHereSmart: ここに展開 (スマート)
+SortFilesAndFoldersTogether: ファイルとフォルダーを一緒に並べ替える
+SortFilesAndFoldersTogetherDescription: ファイルとフォルダーを一緒に並べ替える
+SortFilesFirst: ファイルを先に並べ替える
+SortFilesFirstDescription: ファイルを先に、フォルダーを後に並べ替える
+SortFoldersFirst: フォルダーを先に並べ替える
+SortFoldersFirstDescription: フォルダーを先に、ファイルを後に並べ替える
+SortPriority: 並べ替えの優先順位
+FailedToRotateImage: 画像を回転できませんでした
+Restart: 再起動
+Quit: 終了
+FaildToShareItems: 項目を共有できませんでした
+ScrollToPreviousFolderWhenNavigatingUp: 親フォルダーに移動するときに元のフォルダーまでスクロールする
+NewWindowDescription: 新しいウィンドウを開く
+ChangeAlbumCover: アルバムのカバーを変更
+ItemRenameFailed: 項目の名前を変更できませんでした
+HigherPermissionsRequired: '"{0}" の編集には追加のアクセス許可が必要です'
+EditPermissions: アクセス許可を編集
+BackgroundRunningNotificationBody: 起動パフォーマンスを向上させるため、Files はバックグラウンドで実行されています。
+BackgroundRunningNotificationHeader: Files はどこに行きましたか?
+QuestionsAndDiscussions: 質問と議論
+TilesViewSizeInfo: タイル ビューではサイズの変更はまだ利用できません。
+#Used to describe layout sizes
+Compact: コンパクト
+#Used to describe layout sizes
+Small: 小さい
+#Used to describe layout sizes
+Medium: 中
+#Used to describe layout sizes
+Medium+: 中 +
+#Used to describe layout sizes
+Medium++: 中 ++
+#Used to describe layout sizes
+Medium+++: 中 +++
+#Used to describe layout sizes
+Medium++++: 中 ++++
+#Used to describe layout sizes
+Medium+++++: 中 +++++
+#Used to describe layout sizes
+Large: 大
+#Used to describe layout sizes
+Large+: 大 +
+#Used to describe layout sizes
+Large++: 大 ++
+#Used to describe layout sizes
+Large+++: 大 +++
+#Used to describe layout sizes
+ExtraLarge: 特大
+DetailsView: 詳細ビュー
+LayoutType: レイアウトの種類
+Actions: 操作
+Commands: コマンド
+AddCommand: コマンドを追加
+RestoreDefaults: 初期設定に戻す
+ChooseAnAction: 操作を選択
+RestoreDefaultKeybindingsConfirmation: キーの割り当てを初期設定に戻しますか? この操作は取り消すことができません。
+KeybindingAlreadyUsedNotification: このキーの割り当ては既に使用されています。別のキーを割り当ててください。
+KeybindingInvalidKeyNotification: 選択したキーの割り当ては使用できません。異なるキーの割り当てを使用して再度試してください。
+Customized: カスタマイズされています
+AdaptiveLayoutDisabledNotification: レイアウトの自動選択は設定を同期している場合は使用できません。レイアウトの種類は [詳細] に変更されています。
+BackgroundImage: 背景画像
+#Image alignment type
+Bottom: 下
+#Image alignment type
+Center: 中央
+#Image stretch type
+Fill: 拡大して表示
+HorizontalAlignment: 水平方向の配置
+ImageFit: 画像の調整
+#Image alignment type
+Left: 左
+Opacity: 不透明度
+#Image alignment type
+Right: 右
+#Image alignment type
+Top: 上
+#Image stretch type
+Uniform: ウィンドウのサイズに合わせる
+#Image stretch type
+UniformToFill: ページ幅に合わせる
+VerticalAlignment: 垂直方向の配置
+#This is a type of backdrop for the application background
+ThinAcrylic: 薄いアクリル
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: すべての場所で表示
+DevTools: 開発者向けツール
+DisplayOpenIDE: ステータス バーの [IDE で開く] ボタンを設定する
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Git リポジトリで表示
+#This is the friendly name for DLL files.
+ApplicationExtension: アプリケーション拡張
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO ファイル
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip ファイル
+#This is the friendly name for bitmap files.
+BitmapFiles: ビットマップ ファイル
+NumPadTypeName: Num
+NetworkLocations: ネットワークの場所
+NoNetworkLocationsInfo: ネットワークの場所がありません。ネットワークの場所を使用しない場合は、ウィジェットを無効にすることができます。
+Disable: 無効にする
+EditInNotepad: メモ帳で編集
+EditInNotepadDescription: 選択したファイルをメモ帳で編集する

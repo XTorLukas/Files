@@ -1,0 +1,1467 @@
+NewWindow: 新增視窗
+CopyPath: 複製路徑
+CopyPathWithQuotes: 複製帶引號的路徑
+Browse: 瀏覽
+Size: 大小
+PropertiesCreated:
+  Text: 建立日期：
+Path: 路徑
+SizeLabel: 大小：
+SizeOnDiskLabel: 在磁碟上的大小：
+UncompressedSize: '壓縮前的大小:'
+ErrorDialogThisActionCannotBeDone: 無法完成該操作
+ErrorDialogTheDestinationFolder: 目標資料夾是
+ErrorDialogIsASubfolder: 是源資料夾的子資料夾
+Skip: 略過
+SelectAll: 全選
+InvertSelection: 反選
+ClearSelection: 清除選擇
+PropertiesModified:
+  Text: 修改日期：
+Accessed: 存取日期：
+RecentItemClearAll:
+  Text: 清理所有檔案
+NavigationToolbarVisiblePath:
+  PlaceholderText: 輸入路徑或是 ">" 來開啟命令列
+Search: 搜尋
+RecentItemDescription:
+  Text: 您最近開啟過的檔案和資料夾將顯示在此處
+RecentItemRemove:
+  Text: 刪除
+OpenGitHubRepo: GitHub 軟體源
+About: 關於
+OpenSource: 開放原始碼
+DateFormat: 日期格式
+SettingsAppearanceTheme: 主題
+SettingsFilesAndFoldersShowFileExtensions: 顯示已知檔案類型的副檔名
+SettingsFilesAndFoldersShowHiddenItems: 顯示隱藏的檔案和資料夾
+ShowDotFiles: 顯示隱藏檔案
+Appearance: 外觀
+BackgroundColor: 背景顏色
+Advanced: 進階設定
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: 繼續上次的工作階段
+SettingsOnStartupOpenANewTab:
+  Content: 開啟新索引標籤頁面
+SettingsOnStartupOpenASpecificPage:
+  Content: 開啟特定頁面
+Desktop: 桌面
+Documents: 文件
+Downloads: 下載
+Name: 名稱
+Ascending: 遞增
+Paste: 貼上
+BaseLayoutContextFlyoutNew:
+  Label: 新增
+Properties: 內容
+Open: 開啟
+OpenInNewTab: 在新索引標籤中開啟
+OpenInNewWindow: 在新視窗中開啟
+Share: 分享
+Cut: 剪下
+Delete: 刪除
+PinFolderToSidebar: 釘選至側邊欄
+WelcomeDialog:
+  Title: 歡迎使用 Files！
+  PrimaryButtonText: 取得權限
+WelcomeDialogTextBlock:
+  Text: '請授權我們使用您的檔案系统。待「設定」開啟後您就可以授權給我們。您需要在完成設定後重新啟動應用程式。 '
+Display: 顯示
+EnterAnItemName: 輸入名稱
+RenameDialog:
+  PrimaryButtonText: 設置名稱
+LightTheme: 亮色
+DarkTheme: 暗色
+Application: 應用程式
+SystemTimeStyle: 系統
+NewFolder: 新增資料夾
+NewFile: 建立檔案
+EmptyFolder:
+  Text: 該資料夾是空的。
+Back: 返回（Alt + 向左键）
+Forward: 下一頁（Alt + 向右鍵）
+Up: 上移（Alt + 向上鍵）
+Refresh: 重新整理
+ItemAlreadyExistsDialogContent: 目標目錄已存在同名檔案。
+ItemAlreadyExistsDialogSecondaryButtonText: 覆蓋現有檔案
+ItemAlreadyExistsDialogTitle: 檔案已存在
+SetAsLockscreen: 設為鎖定畫面背景
+SetAsAppBackground: 設置為應用程式背景
+AccessDeniedDeleteDialog:
+  Text: 無法刪除此檔案
+DriveUnpluggedDialog:
+  Text: 請插入所需的磁碟機以存取此項目。
+  Title: 已斷開與裝置的連接
+FileNotFoundDialog:
+  Text: 目標檔案可能已被移動或刪除。
+  Title: 找不到檔案
+CannotAccessPropertiesTitle: 無法開啟該檔案的內容
+CannotAccessPropertiesContent: 目標檔案可能已被移動或刪除。
+FolderNotFoundDialog:
+  Text: 目標資料夾可能已被移動或刪除。
+  Title: 您把資料夾刪除了嗎？
+FileInUseByDialog:
+  Text: 您試圖存取的檔案正在被 {0} 使用
+FileInUseDialog:
+  Text: 您試圖存取的檔案正在被其他應用程式使用
+  Title: 檔案正在被使用
+Layout: 布局
+PropertiesDialogReadOnly:
+  Text: 唯讀
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: 立刻
+ErrorDialogUnsupportedOperation: 尚不支援此操作
+DriveFreeSpaceAndCapacity: 剩餘 {0}，共 {1}
+SendTo: 傳送到
+FileNameTeachingTip:
+  Subtitle: '檔案名稱不可以包含下列字元：　\ / : * ? " < > |'
+InvalidFilename:
+  Text: 指定的項目名稱無效
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {item} other {items}}'
+Yes: 確定
+ConfirmEmptyBinDialogContent: 您確定要永久刪除這些檔案？
+ConfirmEmptyBinDialogTitle: 清理資源回收筒
+ItemSizeBytes: 位元組
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: 以另一名使用者之身分執行
+PropertiesDriveItemTypesEquals: 全為 {0}
+PropertiesDriveItemTypeDifferent: 多種類型
+PropertiesCombinedItemLocation: 全都在 {0}
+PropertiesDriveUsedSpace:
+  Text: 已使用空間：
+PropertiesDriveFreeSpace:
+  Text: 可用空間：
+PropertiesDriveCapacity:
+  Text: 容量：
+PropertiesDriveFileSystem:
+  Text: 檔案系統：
+JumpListRecentGroupHeader: 最近
+TabStripDragAndDropUIOverrideCaption: 將索引標籤移至此處
+syncStatusColumn:
+  Header: 狀態
+SettingsPreferencesSystemDefaultLanguageOption: 您的系統語言
+NavigationToolbarVisiblePathNoResults: 沒有結果
+SubDirectoryAccessDenied: 無法存取並顯示任意項目
+MoveToFolderCaptionText: 移至 {0}
+CopyToFolderCaptionText: 複製到 {0}
+CreateShortcut: 建立捷徑
+OpenFileLocation: 開啟檔案位置
+PropertiesShortcutItemArgs:
+  Text: 參數：
+PropertiesShortcutItemPath:
+  Text: 目標位置：
+PropertiesShortcutItemType:
+  Text: 捷徑類型：
+PropertiesShortcutTypeLink: 網際網路捷徑
+General: 一般
+Shortcut: 捷徑
+ShortcutWebLinkFileType: 網際網路捷徑
+ShortcutCreateNewSuffix: '{0} - 捷徑'
+ExceptionNotificationBody: Files 遇到我們未處理的錯誤。
+ExceptionNotificationHeader: 發生錯誤！
+ExceptionNotificationReportButton: 回報此問題
+InvalidItemDialogContent: 參考項目無效或無法存取。{0}錯誤訊息：{0}{1}
+InvalidItemDialogTitle: 無效的項目
+SettingsAboutVersionTitle: 版本：
+ShareDialogFailMessage: 目前沒有任何可分享的項目…
+ShareDialogMultipleItemsDescription: 您即將分享已選取項目
+ShareDialogSingleItemDescription: 即將分享已選取項目
+ShareDialogTitle: 正在分享 {0}
+ShareDialogTitleMultipleItems: 正在分享 {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: 您欲重新命名的項目不存在。請確認您要重新命名的項目的位置。
+    Title: 項目不存在
+  NameInvalid:
+    Text: 無效的檔名。請確認其有效性並再次命名。
+    Title: 無效的檔名
+  TooLong:
+    Text: 新檔名的字數過長。請確認其有效性並再次命名。
+    Title: 檔名過長
+ShowMoreOptions: 顯示更多選項
+RestartNotificationText:
+  Text: 需要重啟應用程式以更改語言設定。您要現在就重啟嗎?
+SponsorUsOnGitHub: 在 GitHub 上贊助我們
+AccessDeniedCreateDialog:
+  Text: 我們無法建立此項目
+AccessDenied: 拒絕存取
+BaseLayoutItemContextFlyoutSetAs:
+  Text: 設為
+Cancel: 取消
+AddDialog:
+  Title: 建立新項目
+AddDialogDescription:
+  Text: 於下方選擇新項目的類型
+File: 檔案
+AddDialogListFileSubHeader: 新增空白檔案
+Folder: 資料夾
+AddDialogListFolderSubHeader: 新增資料夾
+NavResfreshButton:
+  AutomationProperties:
+    Name: 重新整理資料夾
+Language: 語言
+SettingsContextMenuOverflow: 將 shell 擴展（shell extensions）形式的選單移入子選單中
+ShowConfirmationWhenDeletingItems: 刪除項目時顯示確認訊息框
+PropertySaveErrorMessage:
+  Text: 儲存屬性時發生錯誤。
+PropertySaveErrorDialog:
+  Title: 錯誤
+  SecondaryButtonText: 仍要關閉
+PropertyRatingText: 評分
+PropertyParsingPath: 項目位置
+PropertyItemTypeText: 項目類型
+PropertyTitle: 標題
+PropertySubject: 主旨
+PropertyComment: 註解
+PropertyCopyright: 著作權
+PropertyDateModified: 修改日期
+PropertyBitDepth: 位元深度
+PropertyDimensions: 尺寸
+PropertyHorizontalSize: 水平大小
+PropertyVerticalSize: 垂直大小
+PropertyHorizontalResolution: 水平解析度
+PropertyVerticalResolution: 垂直解析度
+PropertyColorSpace: 色彩空間
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: 未指定
+PropertyLongitudeDecimal: 十進位經度
+PropertyLatitudeDecimal: 十進位緯度
+PropertyAltitude: 高度
+PropertyDateTaken: 拍攝日期
+PropertyCameraManufacturer: 相機製造商
+PropertyCameraModel: 相機型號
+PropertyExposureTime: 曝光時間
+PropertyFocalLength: 焦距
+PropertyAperture: 光圈
+PropertyPeopleNames: 人員名稱
+PropertyChannelCount: 聲道數目
+PropertyFormat: 格式
+PropertySampleRate: 採樣速率
+PropertyAlbumArtist: 專輯演出者
+PropertyAlbumTitle: 專輯標題
+Artist: 演出者
+PropertyBeatsPerMinute: 節拍速率
+PropertyComposer: 作曲家
+Conductor: 指揮家
+PropertyDiscNumber: 唱片編號
+PropertyGenre: 內容類型
+PropertyTrackNumber: 曲目編號
+PropertyDuration: 曲長
+PropertyFrameCount: 畫格計數
+PropertyProtectionType: 保護類型
+PropertyAuthorUrl: 作者網站連結
+PropertyContentDistributor: 內容發布者
+PropertyDateReleased: 發行日期
+PropertySeriesName: 系列名稱
+PropertySeasonNumber: 季數
+PropertyEpisodeNumber: 集數
+PropertyProducer: 製作人
+PropertyPromotionUrl: 促銷網站連結
+PropertyProviderStyle: 風格
+PropertyPublisher: 發行者
+PropertyThumbnailLargePath: 大略縮圖位置
+PropertyThumbnailLargeUri: 大略縮圖連結
+PropertyThumbnailSmallPath: 小略縮圖位置
+PropertyThumbnailSmallUri: 小略縮圖連結
+PropertyUserWebUrl: 使用者網站連結
+PropertyWriter: 編劇
+PropertyYear: 年份
+PropertyContributor: 協作者
+PropertyLastAuthor: 最後一位作者
+PropertyRevisionNumber: 修訂版編號
+PropertyVersion: 版本
+PropertyDateCreated: 建立日期
+PropertyTotalEditingTime: 總編輯時間
+PropertyTemplate: 範本
+PropertyWordCount: 字數統計
+PropertyCharacterCount: 字元數
+PropertyLineCount: 行數
+PropertyParagraphCount: 段落數
+PropertyPageCount: 頁數
+PropertySlideCount: 投影片計數
+PropertyFrameRate: 畫面播放速率
+PropertyEncodingBitrate: 編碼位元速率
+PropertyPreviewAudioEncodingBitrate: 音頻編碼位元速率
+PropertyPreviewVideoEncodingBitrate: 影像編碼位元速率
+Compression: 壓縮
+PropertyFrameWidth: 畫面寬度
+PropertyFrameHeight: 畫面高度
+PropertyOrientation: 方向
+PropertySectionCore: 核心
+PropertySectionImage: 影像
+PropertySectionPhoto: 相片
+PropertySectionGPS: GPS
+PropertySectionMedia: 媒體
+PropertySectionAudio: 音訊
+PropertySectionMusic: 音樂
+PropertySectionVideo: 影音
+Document: 文件
+Address: 地址
+SelectionOptions: 選取選項
+NavToolbarSelectionOptions:
+  Label: 選擇
+RecycleBinItemAutomation: 資源回收筒項目
+ShortcutItemAutomation: 捷徑項目
+Drives: 磁碟機
+PinToSidebarByDraggingCaptionText: 移至此處
+EjectNotificationHeader: 可以安心地移除硬體了
+EjectNotificationBody: 現在可以安心地從電腦移除此硬體。
+EjectNotificationErrorDialogHeader: 退出裝置時發生錯誤
+EjectNotificationErrorDialogBody: 此裝置使用中。請關閉任何可能使用此裝置的應用程式、視窗或索引標籤，然後再試一次。
+Eject: 退出
+DuplicateTab: 複製標籤頁
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: 將索引標籤移到新視窗
+NewTab: 新索引標籤
+ClearPropertiesFlyoutText:
+  Text: 部分屬性可能會包含個資。
+ClearPropertiesButton:
+  Content: 清除所有屬性
+OngoingTasksTeachingTip:
+  Subtitle: 在此檢查檔案操作的狀態
+  Title: 狀態中心
+SearchPagePathBoxOverrideText: 從 {1} 搜尋 {0}
+Details: 詳細資料
+No: 否
+ShowProtectedSystemFiles: 顯示受保護的系統檔案
+SyncFolderPreferencesAcrossDirectories: 在不同路徑之間使用相同的布局和排序設定
+SettingsContextMenu:
+  Text: 自訂右鍵選單
+OriginalPath: 原始路徑
+Add: 新增
+Edit: 編輯
+Remove: 移除
+SettingsMultitaskingAlwaysOpenDualPane: 在分割畫面中開啟索引標籤
+ShowOpenInNewPane: 顯示在新畫面開啟資料夾選項
+ShowCopyPath: 顯示“複製路徑”的選項
+ShowCreateFolderWithSelection: 顯示用選取的檔案建立資料夾選項
+ShowCreateShortcut: 顯示建立捷徑選項
+NavigationToolbarNewPane:
+  Label: 新增畫面
+OpenInNewPane: 在新增畫面中開啟
+FilesAndFolders: 檔案與資料夾
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: 詳細資料（Ctrl + Shift + 1）
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: 並排（Ctrl + Shift + 2）
+DateDeleted: 刪除日期
+SidebarCloudDrives: 雲端硬碟
+Confirm: 確認
+DesiredName: 您想要的名稱
+TogglePreviewPane: 開啟/關閉預覽畫面（Ctrl + P）
+ToggleDetailsPane: 切換詳細資料預覽畫面
+ToggleDetailsPaneDescription: 切換到詳細資料視窗以查看檔案的基本內容
+ToggleInfoPane: 切換詳細資料視窗
+ToggleInfoPaneDescription: 開啟資料視窗以查看詳細資料/預覽視窗
+DetailsPanePreviewNotAvaliableText: 無法預覽
+PropertyItemName: 檔案名稱
+UnpinFolderFromSidebar: 從側邊欄取消固定
+Network: 網路
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: 檔案詳細資料
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: 預覽檔案
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: 預覽已選取的檔案
+Feedback: 意見回饋
+CloudDriveSyncStatus_Online: 網路連線時可用
+Documentation: 使用說明
+CloudDriveSyncStatus_Offline: 可離線存取
+CloudDriveSyncStatus_PartialOffline: 可部分離線存取
+CloudDriveSyncStatus_Sync: 同步中
+CloudDriveSyncStatus_Excluded: 不同步
+ItemSizeNotCalculated: 未計算
+CloudDriveSyncStatus_Unknown: 未知
+RenameFileDialog:
+  Text: 如果您變更副檔名，檔案可能會變成無法使用。您確定要變更嗎？
+DriveTypeCDRom: CD ROM 光碟機
+DriveTypeCloudDrive: 雲端硬碟
+DriveTypeFixed: 本機磁碟
+DriveTypeFloppyDisk: 軟碟機
+DriveTypeNetwork: 網路磁碟機
+DriveTypeNoRootDirectory: 未掛載的裝置
+DriveTypeRam: RAM Disk
+DriveTypeRemovable: 可移除的儲存裝置
+DriveTypeUnknown: 未知
+DriveTypeVirtualDrive: 虛擬磁碟
+DateCreated: 建立日期
+MoreOptions: 更多選項...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: 連線網路磁碟機
+Pinned: 已釘選
+SidebarLibraries: 媒體櫃
+NoItemSelected: 未選取任何項目
+PropertyItemTarget: 目標
+Arguments: 參數
+Default: 預設
+PropertyItemCount: 項目計數
+ElevateConfirmDialog:
+  Title: 此操作需要系統管理員權限
+  Content: 是否要以系統管理員身分繼續？
+ColumnsShortcutTooltip: 清單（Ctrl + Shift + 6）
+PinItemToStart:
+  Text: 釘選至開始功能表
+UnpinItemFromStart:
+  Text: 從開始功能表取消釘選
+Library: 媒體櫃
+LibraryLocations:
+  Text: 位置：
+SetAsDefaultSavePath: 設為預設儲存位置
+LibraryNoLocations:
+  Text: 沒有位置
+ErrorInputEmpty: 此欄位不可留白！
+ErrorNameInputRestrictedCharacters: '檔案名稱不可以包含下列字元：　\ / : * ? " < > |'
+ErrorNameInputRestricted: 無法使用此名稱！
+CreateLibraryErrorAlreadyExists: 已存在相同名稱的媒體櫃！
+OpenStorageSense: 開啟儲存空間感知器
+Copy: 複製
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: 移動
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: 繼續
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: 永久刪除
+PropertyISO: ISO 速度
+ReplaceExisting: 覆蓋
+GenerateNewName: 自動重新命名
+CreateFolderWithSelection: 為選取的項目建立資料夾
+ItemType: 類型：
+ToolTipDescriptionDate: 修改日期：
+OpenWith: 以...開啟
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: 檔案圖示
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: 原始位置
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: 項目類型
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: 修改日期
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: 刪除日期
+Sort: 排序
+DateModifiedLowerCase: 修改日期
+OriginalFolder: 原始資料夾
+Descending: 遞減
+ItemSizeText_Huge: 巨大
+ItemSizeText_VeryLarge: 極大
+ItemSizeText_Large: 大
+ItemSizeText_Medium: 中
+ItemSizeText_Small: 小
+ItemSizeText_Tiny: 微小
+Future: 未來
+Today: 今天
+Yesterday: 昨天
+EarlierThisWeek: 本週初
+LastWeek: 上週
+EarlierThisMonth: 本月早些時候
+LastMonth: 上個月
+EarlierThisYear: 今年稍早
+LastYear: 去年
+YearN: 年 {0}
+GroupItemsCount_Singular: '{0} 個項目'
+GroupItemsCount_Plural: '{0} 個項目'
+ReopenClosedTab: 重新開啟已關閉的索引標籤
+Rename: 重新命名
+Privacy: 隱私權
+TheRecycleBin: 資源回收筒
+Canceling: 取消中
+Clear: 清除
+Widgets: 小工具
+SyncStatus: 同步狀態
+Security: 安全性
+AdvancedPermissions: 進階權限
+Allow: 允許
+Deny: 拒絕
+SecurityFullControlLabel:
+  Text: 完全控制
+SecurityListDirectoryLabel:
+  Text: 列出目錄內容
+Modify: 變更
+SecurityPermissionsHeaderText: '{0} 的權限'
+SecurityReadAndExecuteLabel:
+  Text: 讀取和執行
+SecurityReadLabel:
+  Text: 讀取
+SecurityUsersGroupLabel:
+  Text: 群組或使用者名稱
+Write: 寫入
+SecurityUnknownAccount: 帳戶名稱不詳
+SecurityCannotReadProperties:
+  Text: 您沒有權限查看此項目的安全性設定。點擊「進階」以繼續。
+SecurityOwnerLabel:
+  Text: 擁有者：
+SecurityUnknownOwnerText:
+  Text: 擁有者不詳
+ExtractArchive: 解壓縮檔案
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: 完成後開啟目標資料夾
+BaseLayoutItemContextFlyoutExtractToChildFolder: 解壓縮至 {0}\
+SideBarCreateNewLibrary:
+  Text: 新增媒體櫃
+SideBarRestoreLibraries:
+  Text: 重置媒體櫃
+DialogRestoreLibrariesSubtitleText: 是否要重置媒體櫃？您所有的檔案都會保留下來。
+DialogRestoreLibrariesTitleText: 重置媒體櫃
+PropertyFileOwner: 擁有者
+SecuritySpecialLabel:
+  Text: 特殊存取權限
+Access: 存取
+SecurityAdvancedAppliesTo: 套用至
+Principal: 主要
+SecurityAdvancedFlagsFilesLabel: 檔案
+SecurityAdvancedFlagsFolderLabel: 此資料夾
+SecurityAdvancedFlagsSubfoldersLabel: 子資料夾
+Inherited: 已繼承
+Permissions: 權限
+SecurityAdvancedCannotReadProperties:
+  Text: 您沒有權限查看此項目的安全性設定。您可以嘗試獲取此物件的所有權。
+SecurityAdvancedFolderFiles:
+  Text: 此資料夾及檔案
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: 此資料夾、子資料夾及檔案
+SecurityAdvancedOnlyFiles:
+  Text: 僅檔案
+SecurityAdvancedOnlySubfolders:
+  Text: 僅子資料夾
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: 僅子資料夾及檔案
+SecurityAdvancedOnlyThisFolder:
+  Text: 僅此資料夾
+SecurityAdvancedFolderSubfolders:
+  Text: 此資料夾及子資料夾
+SecurityAppendDataLabel:
+  Text: 附加資料
+SecurityChangePermissionsLabel:
+  Text: 修改權限
+SecurityCreateDirectoriesLabel:
+  Text: 新增資料夾
+SecurityCreateFilesLabel:
+  Text: 新增檔案
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: 刪除子資料夾及檔案
+SecurityExecuteFileLabel:
+  Text: 執行檔案
+SecurityReadAttributesLabel:
+  Text: 讀取屬性
+SecurityReadDataLabel:
+  Text: 讀取資料
+SecurityReadExtendedAttributesLabel:
+  Text: 讀取擴充屬性
+SecurityReadPermissionsLabel:
+  Text: 讀取權限
+SecurityTakeOwnershipLabel:
+  Text: 取得擁有權
+SecurityTraverseLabel:
+  Text: 查看資料夾
+SecurityWriteAttributesLabel:
+  Text: 寫入屬性
+SecurityWriteDataLabel:
+  Text: 寫入資料
+SecurityWriteExtendedAttributesLabel:
+  Text: 寫入擴充屬性
+SecurityAdvancedInheritedConvert:
+  Text: 將繼承的權限轉換成此物件中的明確權限
+SecurityAdvancedInheritedEnable:
+  Text: 啟用繼承
+SecurityAdvancedInheritedRemove:
+  Text: 移除所有繼承的權限
+SecurityAdvancedReplaceChildPermissions:
+  Text: 重置子權限
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: 覆蓋所有子物件的權限為此父物件的可繼承權限
+NavigationToolbarClosePane:
+  Label: 關閉畫面
+EnterCompactOverlay: 進入精簡懸浮模式
+ExitCompactOverlay: 返回完整檢視
+PropertyFileDescription: 檔案說明
+PropertyCompany: 公司
+PropertyLanguage: 語言
+PropertyTrademarks: 商標
+PropertyFileVersion: 檔案版本
+PreviewPaneLoadCloudItemButton:
+  Text: 載入完整預覽
+  ToolTipService:
+    ToolTip: 從雲端下載檔案並載入預覽
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: 壓縮前的大小
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: 隱藏 [{0}] 專區
+AddFile: 新增檔案
+ConsentDialogTitle: 有可用的更新
+ConsentDialogContent: 已準備好安裝更新
+Close: 關閉
+ConsentDialogPrimaryButtonText: 更新
+Home: 首頁
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl + Shift + 1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl + Shift + 2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl + Shift + 6
+ArchiveExtractionCompletedSuccessfullyText: 已完成解壓縮。
+ExtractingArchiveText: 正在解壓縮檔案
+ExtractingCompleteText: 解壓縮完畢！
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: 開啟父資料夾
+Unknown: 未知
+EditTags: 編輯檔案標籤
+PropertyPartOfSet: 集數
+InsertDiscDialog:
+  OpenDriveButton: 開啟磁碟機
+  Text: 請將光碟放入磁碟機 {0} 中
+  Title: 插入光碟
+OK: 確定
+AskCredentialDialog:
+  Title: 需要密碼
+CredentialDialogAnonymous:
+  Content: 匿名
+CredentialDialogDescription:
+  Text: 請提供您的憑證：
+CredentialDialogUserName:
+  PlaceholderText: 使用者名稱
+NoSearchResultsFound: 找不到任何符合搜尋條件的檔案
+OpenLogLocation: 開啟執行紀錄檔資料夾
+LinkToFolderCaptionText: 建立捷徑至 {0}
+Columns: 欄
+Tiles: 磁磚（並排）
+OpenFoldersInNewTab: 在新索引標籤開啟資料夾
+StatusCenter: 狀態中心
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: 建立日期
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: 大小
+ExperimentalFeatureFlags: 實驗性功能
+HelpAndSupport: 說明與支援
+SubmitFeatureRequest: 提交功能請求
+SubmitBugReport: 提交錯誤報告
+SettingsSetAsDefaultFileManager: 將 Files 設為預設的檔案總管
+SettingsSetAsOpenDialog: 將 Files 設定為檔案開啟之預設應用程式
+Tag: 檔案標籤
+SettingsOpenItemsWithOneClick: 透過點擊打開檔案
+FolderPath: 資料夾路徑
+ExportSettings: 匯出設定
+ImportSettings: 匯入設定
+SettingsImportErrorDescription: 設定檔已損壞，無法將其匯入。
+SettingsImportErrorTitle: 發生錯誤，無法匯出設定
+EmptyRecycleBin: 清空資源回收筒
+Sidebar: 側邊欄
+ChooseCustomIcon: 自訂資料夾圖示
+Customization: 自訂
+RestoreDefault: 重設回預設圖示
+OpenTabInExistingInstance: 在另一個應用程式開啟 Files 時，在現有的視窗中建立新索引標籤
+StartupSettings: 啟動設定
+Compatibility: 相容性
+None: 無
+CompatibilityOnWindowsLogin: 登入 Windows 時
+CompatibilityOnProgramStart: 開啟該應用程式時
+System: 系統
+CompatibilitySystemEnhanced: 系統(進階)
+CompatibilityReducedColorModeColor16bit: 16位元 (65536) 顏色
+CompatibilityReducedColorModeColor8bit: 8位元 (256) 顏色
+CompatibilityDisableFullscreenOptimizations: 停用全螢幕最佳化
+CompatibilityRunIn640x480Resolution: 在 640 x 480 的螢幕解析度執行
+CompatibilityOverrideHighDPIBehavior: 覆寫高 DPI 縮放比例行為
+CompatibilityReducedColorMode: 色彩簡化模式
+CompatibilityRegisterThisProgramForRestart: 註冊此程式以重新啟動
+RunAsAdministrator: 以系統管理員身分執行
+CompatibilityRunTroubleshooter: 執行相容性疑難排解員
+CompatibilityUseDPISettings: 使用主顯示器的 DPI 設定
+CompatibilityDoNotAdjustDPI: 不調整DPI
+CompatibilityDoNotOverrideDPI: 不覆蓋DPI
+CompatibilityMode: 程式相容模式
+CompatibilityNoReducedColor: 不使用色彩簡化
+ThirdPartyLicenses: 第三方授權條款
+SettingsSetAsDefaultFileManagerDescription: 此項設定會修改您的系統檔案並有可能會有未預期的副作用。我們對於可能會發生的問題並不負責。請您僅在認知到這個動作可能帶來的問題的情況下才繼續進行。
+FolderWidgetCreateNewLibraryDialogTitleText: 建立媒體庫
+FolderWidgetCreateNewLibraryInputPlaceholderText: 輸入媒體庫名稱
+CalculateFolderSizes: 計算資料夾大小
+RecentFiles: 最近使用的檔案
+SettingsOpenInLogin: 在 Windows 啟動時自動啟動 Files
+Attributes: 屬性
+Hidden: 隱藏
+MoreDetails: 更多內容
+ReadOnly: 唯讀
+CleanupDrive: 清理您的磁碟機
+Type: 類型
+Bytes: 位元組
+Extract: 解壓縮
+ExtractFiles: 解壓縮檔案
+ExtractHere: 解壓縮至此
+ExtractKeyboardAcceleratorTextOverride: Ctrl + E
+ExtractToChildFolder: 解壓縮至 {0}
+RunScript: 執行腳本
+RunWithPowerShell: 以 PowerShell 執行
+ShowFolderSizesWarning: 計算資料夾大小會消耗較多資源，可能會導致 CPU 使用率上升。
+RotateLeft: 向左旋轉
+RotateRight: 向右旋轉
+Install: 安裝
+CloseTabsToTheLeft: 關閉左邊的索引標籤
+CloseTabsToTheRight: 關閉右邊的索引標籤
+CloseOtherTabs: 關閉其他索引標籤
+Music: 音樂
+Pictures: 圖片
+UpdateFiles: 更新 Files
+FileTags: 標籤
+Universal: 通用
+DateFormatSample: 例如：{0}、{1}
+SettingsFilesAndFoldersShowThumbnails: 顯示縮圖
+Retry: 重試
+ErrorDialogUnsupportedMoveOperation: 此情境不支援移動。要改為複製此項目嗎？
+HiddenItems: 隱藏的項目
+Custom: 自訂
+SetAsSlideshow: 設為桌布幻燈片
+SizeAllColumnsToFit: 調整欄位至合適寬度
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: 自動調整（Ctrl + Shift + 7）
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl + Shift + 7
+ShowAlternateStreams: 顯示備用資料流程
+Behaviors: 行為
+ReviewFiles: 評論本軟體
+ReviewFilesContent: 您想要在商店中評論本軟體嗎？
+SetAsBackgroundFlyout: 設為背景
+SetAsBackground: 設為桌面背景
+SetAsDefault: 設為預設值
+DateColumn: 日期欄
+DateCreatedColumn: 建立日期
+SizeColumn: “大小”列
+TagColumn: “標籤”列
+TypeColumn: “類型”列
+Lockscreen: 鎖定畫面
+OpenFolderWithOneClickColumnsLayout: 在格狀檢視模式下，點一下即可開啟資料夾
+OpeningItems: 開啟項目
+Compress: 壓縮
+SelectFilesAndFoldersOnHover: 當游標停留於檔案與資料夾上時，選取它們
+ConfirmRestoreBinDialogContent: 確定要將所有項目從資源回收筒還原嗎？
+ConfirmRestoreBinDialogTitle: 還原​​所有項目​​
+ConfirmRestoreSelectionBinDialogContent: 確定要將 {0} 個項目還原嗎？
+ConfirmRestoreSelectionBinDialogTitle: 還原選取項目
+RestoreAllItems: 還原​​所有項目​​
+Restore: 還原
+ShortcutCannotBeOpened: 無法打開捷徑
+DeleteShortcutDescription: 找不到捷徑指向的目標 {0} ，您要刪除此捷徑嗎？
+AccessDeniedToFolder: 您沒有權限存取此資料夾。
+ArchivePassword: 封存檔案密碼
+ExtractToPath: 路徑
+SortingAndGrouping: 排序與分組
+CreateArchive: 建立封存檔案
+Create: 新增
+CreateNamedArchive: 建立 {0}
+EnterName: 輸入名稱
+CompressionLevel: 壓縮等級
+CompressionLevelUltra: 極致
+CompressionLevelHigh: 高
+CompressionLevelNormal: 一般
+CompressionLevelLow: 低
+CompressionLevelFast: 快
+CompressionLevelNone: 無
+SplittingSize: 分割大小
+Do not split: 不分割
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: 藍光
+Encryption: 加密
+Password: 密碼
+Format: 格式
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: 同步狀態
+GroupBy: 群組依據
+SortBy: 排序
+GroupInDescendingOrder: 依遞減排序分組
+SortInDescendingOrder: 遞減排序
+NewShortcutDialogTitle: 建立新捷徑
+NewShortcutDialogDescription: 建立本地或網路上之程式、檔案、資料夾、電腦或網際網路位址的捷徑。
+NewShortcutDialogPrompt: 輸入項目的位置：
+AddDialogListShortcutSubHeader: 建立捷徑
+RecentFilesDisabledOnWindowsWarning: “最近使用的檔案”已在 Windows 檔案總管中停用。
+EditSettingsFile: 編輯設定檔
+WhatsNew: 什麼是新的
+CannotCreateShortcutDialogTitle: 在此位置建立捷徑需要系統管理員權限
+CannotCreateShortcutDialogMessage: 要改為在桌面上建立捷徑嗎？
+ErrorDialogNameNotAllowed: 指定的項目名稱無效
+Settings: 設定
+DoubleClickBlankSpaceToGoUp: 於空白處按二下返回上一個資料夾
+ViewMore: 檢視更多
+ShowEditTagsMenu: 顯示編輯標籤選單
+ShowCompressionOptions: 顯示壓縮選項
+ShowSendToMenu: 顯示發送到選項
+ShowOpenInNewTab: 顯示在新索引標籤開啟資料夾選項
+ShowOpenInNewWindow: 顯示在新視窗開啟資料夾選項
+QuickAccess: 快速存取
+NetworkAuthenticationDialogMessage: '輸入您連線至: {0} 的憑證'
+NetworkAuthenticationDialogTitle: 輸入網路憑證
+NetworkAuthenticationSaveCheckbox: 記住我的憑證
+NetworkFolderErrorDialogTitle: 網路資料夾錯誤
+AppVersion: 應用程式版本
+WindowsVersion: Windows 版本
+Always: 總是
+PermanentDeletionOnly: 僅限永久刪除
+Never: 永不
+TagColor: 標籤顏色
+NewTag: 新增標籤
+CreateNewTag: 新增新的標籤
+Loading: 載入中...
+ContextMenuOptions: 右鍵選單功能
+ShowFileExtensions: 顯示檔案副檔名
+ShowHiddenItems: 顯示隱藏項目
+FormatDriveText: 格式...
+Help: 幫助
+FullScreen: 切換全螢幕
+ConfirmDeleteTag: 您確定要刪除這個標籤？
+PlayAll: 全部播放
+Height: 高度
+Width: 寬度
+ApplyToAllConflictingItems: 套用至所有衝突的項目
+OpenTerminal: 在 Windows 終端機開啟
+OpenTerminalAsAdmin: 以系統管理員身分在 Windows 終端機開啟
+Save: 儲存
+MultiSelect: 多重選取
+ReorderSidebarItemsDialogText: 重新排列側邊欄項目
+Hashes: 哈希值
+CalculationError: 在計算時發生錯誤
+CalculationErrorFileIsOpen: 計算哈希值失敗，請關閉該檔案並重試。
+CalculationOnlineFileHashError: 無法檢視線上檔案的雜湊值
+Algorithm: 演算法
+HashValue: 哈希值
+SelectHashesToShow: 選擇要顯示的雜湊值
+Calculating: 計算中…
+JumpListPinnedGroupHeader: 固定項目
+DecreaseSize: 減少大小
+IncreaseSize: 增加大小
+ToggleSortDirection: 切換排序方向
+InvalidTagNameWarning: 無效名稱
+TagNameRules: 名稱不能為空或以句號作為開頭或結尾
+Videos: 影片
+LaunchPreviewPopup: 開啟預覽視窗
+ToggleCompactOverlay: 切換緊湊檢視
+OpenHelpDescription: 在瀏覽器中開啟幫助頁面
+ToggleFullScreenDescription: 切換全螢幕
+EnterCompactOverlayDescription: 進入精簡懸浮模式
+ExitCompactOverlayDescription: 返回完整檢視
+ToggleCompactOverlayDescription: 切換緊湊檢視
+SearchDescription: 前往搜尋
+ToggleShowHiddenItemsDescription: 切換是否顯示隱藏項目
+ToggleShowFileExtensionsDescription: 切換是否顯示檔案副檔名
+TogglePreviewPaneDescription: 切換預覽視窗以查看文件預覽
+ToggleSidebarDescription: 切換是否顯示側邊攔
+CopyItemDescription: 將項目複製到剪貼簿
+CopyPathDescription: 將選取的項目路徑複製到剪貼簿
+CopyPathWithQuotesDescription: 將選取的引號項目路徑複製到剪貼簿
+CutItemDescription: 剪下項目到剪貼簿
+PasteItemDescription: 從剪貼簿貼上項目到目前資料夾
+PasteItemToSelectionDescription: 從剪貼簿貼上項目到所選資料夾
+DeleteItemDescription: 刪除檔案
+CreateFolderDescription: 新增資料夾
+CreateShortcutDescription: 建立捷徑到所選項目
+CreateShortcutFromDialogDescription: 建立捷徑至任何項目
+EmptyRecycleBinDescription: 清理資源回收筒
+FormatDriveDescription: 開啟 "格式化磁碟" 選項於選擇項目
+RestoreRecycleBinDescription: 從資源回收桶還原選擇項目
+RestoreAllRecycleBinDescription: 從資源回收桶還原所有項目
+OpenItemDescription: 開啟項目
+OpenItemWithApplicationPickerDescription: 以應用程式開啟
+OpenParentFolderDescription: 開啟所選項目的資料夾
+RefreshItemsDescription: 重新整理頁面內容
+RenameDescription: 將選定的項目重新命名
+SelectAllDescription: 選擇所有項目
+InvertSelectionDescription: 反向選擇
+ClearSelectionDescription: 清除選取
+ToggleSelectDescription: 切換選取
+ShareItemDescription: 分享選取的項目
+PinToStartDescription: 釘選至開始功能表
+UnpinFromStartDescription: 從開始功能表取消釘選
+PinFolderToSidebarDescription: 將資料夾 (s) 固定到側邊欄
+UnpinFolderFromSidebarDescription: 取消將資料夾 (s) 固定到側邊欄
+SetAsWallpaperBackgroundDescription: 設成桌面背景
+SetAsSlideshowBackgroundDescription: 將選取的圖面設定為桌面幻燈片秀
+SetAsLockscreenBackgroundDescription: 設成鎖定畫面背景
+SetAsAppBackgroundDescription: 設成此應用程式背景
+InstallFontDescription: 安裝選取的字型
+InstallInfDriverDescription: 使用選取的 inf 檔案安裝驅動程式
+InstallCertificateDescription: 安裝選取的憑證
+RunAsAdminDescription: 以系統管理員身分執行選擇的應用程式
+RunAsAnotherUserDescription: 以不同的使用者身分執行選擇的應用程式
+RunWithPowershellDescription: 執行PowerShell腳本
+LaunchPreviewPopupDescription: 在跳出視窗中開啟預覽
+CompressIntoArchiveDescription: 使用所選的項目 (s) 建立檔案
+CompressIntoSevenZipDescription: 使用所選的項目 (s) 建立7z壓縮檔
+CompressIntoZipDescription: 使用所選的項目 (s) 建立zip壓縮檔
+DecompressArchiveDescription: 將所選的壓縮文件解壓至文件夾
+DecompressArchiveHereDescription: 將所選的壓縮文件解壓至當前文件夾
+DecompressArchiveToChildFolderDescription: 將所選的壓縮文件解壓至新建文件夾
+RotateLeftDescription: 向左旋轉所選圖像
+RotateRightDescription: 向右旋轉所選圖像
+OpenSettingsDescription: 開啟設定頁面
+OpenTerminalDescription: 在終端機開啟資料夾
+OpenTerminalAsAdminDescription: 以系統管理員身分在終端機開啟資料夾
+LayoutDecreaseSizeDescription: Decrease item size in the current view
+LayoutIncreaseSizeDescription: Increase item size in the current view
+LayoutDetailsDescription: 切換至詳細資訊檢視
+LayoutTilesDescription: 切換至磁磚檢視
+LayoutListDescription: 切換至列表檢視
+List: 列表
+Grid: 網格
+LayoutGridDescription: 切換至網格檢視
+LayoutColumnsDescription: 切換至列檢視
+LayoutAdaptiveDescription: Switch views adaptively
+SortByNameDescription: 按名稱排序
+SortByDateModifiedDescription: 依修改日期將項目排序
+SortByDateCreatedDescription: 依建立日期將項目排序
+SortBySizeDescription: 按大小排序
+SortByTypeDescription: 按類型排序
+SortBySyncStatusDescription: 按同步狀態排序
+SortByTagDescription: 按標籤排序
+SortByOriginalFolderDescription: 按原始資料夾排序
+SortByDateDeletedDescription: 按刪除日期排序
+SortAscendingDescription: 依升序將項目排序
+SortDescendingDescription: 依降序將項目排序
+ToggleSortDirectionDescription: Toggle item sort direction
+GroupByNoneDescription: List items without grouping
+GroupByNameDescription: 按名稱對項目分組
+GroupByDateModifiedDescription: 按修改日期對項目分組
+GroupByDateCreatedDescription: 按建立日期對項目分組
+GroupBySizeDescription: 按大小對項目分組
+GroupByTypeDescription: 按類型對項目分組
+GroupBySyncStatusDescription: 按同步狀態對項目分組
+GroupByTagDescription: 按標籤對項目分組
+GroupByOriginalFolderDescription: 按原始資料夾對項目分組
+GroupByDateDeletedDescription: 按刪除日期對項目分組
+GroupByFolderPathDescription: 按資料夾路徑對項目分組
+GroupAscendingDescription: 遞增排列分類
+GroupDescendingDescription: 遞減排列分類
+ToggleGroupDirectionDescription: 切換分類排序方向
+NewTabDescription: 開啟新索引標籤
+NavigateBackDescription: Navigate backward in navigation history
+NavigateForwardDescription: Navigate forward in navigation history
+NavigateUpDescription: Navigate up one directory
+DuplicateCurrentTabDescription: 複製目前的索引標籤
+DuplicateSelectedTabDescription: 複製選定的索引標籤
+CloseTabsToTheLeftCurrentDescription: Close tabs to the left of current tab
+CloseTabsToTheLeftSelectedDescription: Close tabs to the left of selected tab
+CloseTabsToTheRightCurrentDescription: Close tabs to the right of current tab
+CloseTabsToTheRightSelectedDescription: Close tabs to the right of selected tab
+CloseOtherTabsCurrentDescription: Close tabs other than current tab
+CloseOtherTabsSelectedDescription: Close tabs other than selected tab
+ReopenClosedTabDescription: 恢復先前關閉的分頁
+PreviousTabDescription: 移至上一個索引標籤
+NextTabDescription: 移至下一個索引標籤
+CloseSelectedTabDescription: 關閉目前分頁
+OpenNewPaneDescription: 開啟新畫面
+ClosePaneDescription: Close right pane
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: 開啟/關閉側邊欄
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: 空白鍵
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: 倒退鍵
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Left
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Right
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Down
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: 上移（Alt + 向上鍵）
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: 首頁
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: 暫停
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sleep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: 清除
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: 列印
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: 幫助
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: 應用程式
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: 應用程式 1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: 應用程式 2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: 郵件
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: 首頁
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: 回退
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: 前進
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: 重新整理
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: 停止載入
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: 搜尋
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: 快速存取
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: 播放暫停
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: 停止
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: 上一首
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: 下一首
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: 選擇媒體檔案
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: 靜音
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: 減少音量
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: 增加音量
+Change: 變更
+ToggleSelect: 切換選擇
+ShowFileExtensionWarning: 修改副檔名時顯示警告
+ThisPC: 我的電腦
+RecycleBin: 資源回收筒
+Untagged: 無標記
+PreviousTab: 移到上一索引標籤
+NextTab: 移到下一索引標籤
+CloseTab: 關閉目前標籤
+EditPath: 編輯路徑
+Redo: 重做
+Undo: 復原
+InvalidLocation: 無效位置
+CopyFileWithoutProperties: 您確定要在不保留屬性的情況下複製這些檔案嗎？
+FilePropertiesCannotBeCopied: 這些檔案包含無法複製到新位置的屬性
+FilePropertiesCannotBeMoved: 這些檔案包含無法移動到新位置的屬性
+MoveFileWithoutProperties: 您確定要在不保留屬性的情況下移動這些檔案嗎？
+ShowCheckboxesWhenSelectingItems: 選擇項目時顯示核取方塊
+EditPathDescription: 移動焦點至路徑欄
+AddItemDescription: 建立新項目
+SecurityNoAccessControlEntriesText: 沒有群組或使用者擁有全縣存取此檔案，但是，該檔案的擁有者可以授予權限。
+OpenFileLocationDescription: 開啟項目位置
+DeletePermanently: 永久刪除
+DeleteItemPermanentlyDescription: 永久刪除項目
+PlayAllDescription: 播放所選取的媒體檔
+UndoDescription: 復原上次檔案的動作
+RedoDescription: 重做上次檔案的動作
+Location: '位置:'
+GroupByMonthDescription: 按月對項目分組
+GroupByYearDescription: 按年對項目分組
+Month: 月
+Day: 天
+ToggleGroupByDateUnitDescription: 切換按日期分組為單位
+ToggleGroupingUnit: 切換分組單位
+Year: 年份
+GroupByDateUnit: 按日期分組
+GroupByDateCreatedDayDescription: 按建立日期將項目分組
+GroupByDateCreatedMonthDescription: 按建立日期之月對項目分組
+GroupByDateCreatedYearDescription: 按建立日期之年對項目分組
+GroupByDateDeletedDayDescription: 按刪除日期將項目分組
+GroupByDateDeletedMonthDescription: 按刪除日期之月對項目分組
+GroupByDateDeletedYearDescription: 按刪除日期之年對項目分組
+GroupByDateModifiedDayDescription: Group items by day of date modified
+GroupByDateModifiedMonthDescription: 按修改日期之月對項目分組
+GroupByDateModifiedYearDescription: 按修改日期之年對項目分組
+SecurityClickAdvancedPermissions: Click 'Advanced permissions' to continue.
+SecurityRequireReadPermissions: You must have Read permissions to view the properties of this item.
+SecuritySuggestToTakeOwnership: To try taking ownership of the item, which includes permission to view its properties, click Change above.
+SecurityUnableToDisplayPermissions: 無法顯示權限
+StashChanges: Leave my changes on '{0}'
+DiscardChanges: 放棄變更
+BringChanges: Bring my changes to '{0}'
+UncommittedChanges: 您在此分支上有未提交的變更，您要如何處理它們？
+SwitchBranch: 切換分支
+Branches: 分支
+Switch: 切換
+NewBranch: 新分支
+InvalidBranchName: 無效的分支名稱
+CreateBranch: 建立分支
+CreateNewBranch: 建立分支
+BasedOn: 基於
+SwitchToNewBranch: 切換至新分支
+CreateFolderWithSelectionDescription: Create a folder with the currently selected item(s)
+OpenProperties: 打開屬性
+OpenPropertiesDescription: 打開屬性視窗
+Locals: 本地
+Remotes: Remotes
+ImproveTranslation: 在 Crowdin 上進行翻譯
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Run git fetch
+GitPullDescription: Run git pull
+Preview: 預覽
+GitStatus: Git status
+GitError: Git 錯誤
+PullTimeoutError: 由於逾時錯誤，git pull 失敗
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (multiple values)
+Author: 作者
+DateCommitted: Date committed
+CommitMessage: Commit message
+CommitSha: Commit SHA
+Git: Git
+Acrylic: 亞克力
+Mica: Mica
+MicaAlt: Mica 替代
+BackdropMaterial: 背景材質
+Solid: 純色
+ManageBranches: Manage branches
+Push: Push
+GitPushDescription: 執行 git push
+GitSync: 同步
+GitSyncDescription: 執行git pull 然後執行git push
+GitSyncStatusExtendedInfo: '{0} outgoing / {1} incoming commits'
+ConnectGitHub: 連線至 Github
+ConnectGitHubDescription: 在下面的網址欄輸入輸入以下驗證碼，即可開始使用 Github 儲存庫。
+CannotReachGitHubError: Files 目前無法連線至 Github。
+OpenInVSCode: 在 VS Code 中開啟檔案
+OpenInVSCodeDescription: 在 Visual Studio Code 中開啟目前目錄
+OpenRepoInVSCode: 在 VS Code 中開啟儲存庫
+OpenRepoInVSCodeDescription: Open the root of the Git repo in Visual Studio Code
+CopyCode: 複製代碼
+Added: 已增加
+Deleted: 已刪除
+Modified: 已修改
+Untracked: Untracked
+UnableToDisplayOwner: Unable to display current owner.
+AuthorizationSucceded: Great! You are now authorized.
+InitRepo: Initialize repo
+InitRepoDescription: Initialize a Git repository
+GitOriginRepositoryName: Remote Repository Name
+GitCurrentBranch: Current Branch
+PathColumn: Path column
+SortByPathDescription: Sort items by path
+OpenDirectoryInNewPaneDescription: Open directory in new pane
+OpenDirectoryInNewTabDescription: Open directory in new tab
+OpenInNewWindowDescription: Open directory in new window
+OpenAllTaggedItems: 開啟所有
+OpenAllTaggedItemsDescription: 開啟所有附有標籤的項目
+#{0} is the drive letter.
+DriveWithLetter: Drive ({0})
+InvalidCommand: Invalid command
+InvalidCommandContent: "'{0}' is not recognized as a command."
+CommandNotExecutable: Command not executable
+CommandNotExecutableContent: The '{0}' command is not ready to be executed.
+CommandPalette: 指令面板
+OpenCommandPaletteDescription: 開啟指令面板
+ShortcutItemWorkingDir: '開始於:'
+TurnOnBitLocker: 開啟 BitLocker
+ManageBitLocker: 管理 BitLocker
+CopyFailureFileToLarge: 下列檔案過大，無法複製到此裝置上
+FormatDrive: 格式化磁碟機
+DontShowAgain: 不再顯示
+FilesRunningAsAdmin: 正以系統管理員身分執行 Files
+FilesRunningAsAdminContent: Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.
+SettingsLeaveAppRunning: 關閉視窗後在背景繼續執行
+#One of the custom color themes
+Blue: 藍色
+#One of the custom color themes
+BlueGray: 藍灰色
+#One of the custom color themes
+BrickRed: 磚紅色
+#One of the custom color themes
+Camouflage: 迷彩色
+#One of the custom color themes
+CoolBlueBright: 冷藍色明亮
+#One of the custom color themes
+Gray: 灰色
+#One of the custom color themes
+GrayDark: 深灰色
+#One of the custom color themes
+Green: 綠色
+#One of the custom color themes
+IrisPastel: Iris Pastel
+#One of the custom color themes
+MintLight: 淺薄荷色
+#One of the custom color themes
+ModRed: 現代紅色
+#One of the custom color themes
+OrangeBright: 亮橘色
+#One of the custom color themes
+Overcast: 陰天
+#One of the custom color themes
+Red: 紅色
+#One of the custom color themes
+RoseBright: 亮玫瑰紅色
+#One of the custom color themes
+Seafoam: 海水泡沫
+#One of the custom color themes
+Storm: 雷暴
+#One of the custom color themes
+VioletRedLight: 淺紫紅色
+#One of the custom color themes
+YellowGold: 金黃色
+ClearCompleted: 清除完成
+NameWithColon: '名稱:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
+ItemsLower: 項目
+CannotInitializeGitRepo: Files 無法將此目錄初始化為 Git 儲存庫
+ContributingArtist: 參與的藝術家
+AddPage: 新增頁面
+ProcessingItems: 正在處理檔案...
+SpeedWithColon: 速度：
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Canceled compressing {0} items to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Canceled compressing {0} items from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Compressed {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Compressed {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: 將一個項目"{0}"壓縮到"{1}"時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Failed to compress {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Compressing {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Compressing {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Canceled copying {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Canceled copying {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Copied {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Copied {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: 將一個項目"{0}"複製到"{1}"時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Failed to copy {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Copying {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Copying {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Canceled extracting "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Canceled extracting "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Extracted "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Extracted "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: 將“{0}”解壓縮到“{1}”時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Failed to extract "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Extracting "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Extracting "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Canceled deleting {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Deleted {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: 從“{1}”中刪除 {0} 個項目時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Failed to delete {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Deleting {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Canceled moving {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Canceled moving {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Moved {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Moved {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Moving {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Moving {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: 將一個項目 {0} 移動到 {1} 時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: 無法將 {0} 個項目從 {1} 移至 {2}
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Canceled emptying Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Emptied Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Emptying Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: 清空資源回收桶時發生錯誤
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: 無法清空資源回收筒
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Preparing the operation...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} item(s) processed'
+UnblockDownloadedFile: Unblock downloaded file
+NoFileOperations: No ongoing file operations
+OpenOnStartupDisabled: The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.
+FailedToRestore: Failed to restore items from Recycle Bin
+FailedToSetBackground: Failed to set the background wallpaper
+GitDeleteBranch: Delete Git branch
+GitDeleteBranchSubtitle: Are you sure you want to permanently delete "{0}" branch?
+ConnectedToGitHub: Connected to GitHub
+Logout: Logout
+ConnectToGitHub: 連線至 Github
+Login: Login
+ErrorApplyingTagContent: 標籤目前只相容 NTFS格式的磁碟機。
+ErrorApplyingTagTitle: 套用此標籤時發生錯誤
+DecompressArchiveHereSmartDescription: Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive
+ExtractHereSmart: Extract here (Smart)
+SortFilesAndFoldersTogether: Sort files and folders together
+SortFilesAndFoldersTogetherDescription: Sort files and folders together
+SortFilesFirst: Sort files first
+SortFilesFirstDescription: Sort files first then folders
+SortFoldersFirst: Sort folders first
+SortFoldersFirstDescription: Sort folders first then files
+SortPriority: Sort priority
+FailedToRotateImage: 旋轉圖片失敗
+Restart: 重新啟動
+Quit: 退出
+FaildToShareItems: 分享檔案失敗
+ScrollToPreviousFolderWhenNavigatingUp: 向上瀏覽時捲動到上一個資料夾
+NewWindowDescription: 開啟新視窗
+ChangeAlbumCover: 變更專輯封面
+ItemRenameFailed: 重新命名檔案失敗
+HigherPermissionsRequired: 編輯 "{0}" 需要額外權限
+EditPermissions: 編輯權限
+BackgroundRunningNotificationBody: Files 正在背景執行以提升啟動速度
+BackgroundRunningNotificationHeader: Files 在哪裡?
+QuestionsAndDiscussions: 問題與討論
+TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
+#Used to describe layout sizes
+Compact: 緊湊
+#Used to describe layout sizes
+Small: 小
+#Used to describe layout sizes
+Medium: 中
+#Used to describe layout sizes
+Medium+: 中等+
+#Used to describe layout sizes
+Medium++: 中等 ++
+#Used to describe layout sizes
+Medium+++: 中等 +++
+#Used to describe layout sizes
+Medium++++: 中等 +++++
+#Used to describe layout sizes
+Medium+++++: 中等 ++++++
+#Used to describe layout sizes
+Large: 大
+#Used to describe layout sizes
+Large+: 大 +
+#Used to describe layout sizes
+Large++: 大 ++
+#Used to describe layout sizes
+Large+++: 大 +++
+#Used to describe layout sizes
+ExtraLarge: 特大
+DetailsView: 詳細查看
+LayoutType: 佈局類型
+Actions: Actions
+Commands: Commands
+AddCommand: Add command
+RestoreDefaults: Restore defaults
+ChooseAnAction: Choose an action
+RestoreDefaultKeybindingsConfirmation: Are you sure you want to restore the default key bindings? This action cannot be undone.
+KeybindingAlreadyUsedNotification: This key binding is already being used, please choose a different key binding to continue.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Customized
+AdaptiveLayoutDisabledNotification: Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.
+BackgroundImage: Background image
+#Image alignment type
+Bottom: Bottom
+#Image alignment type
+Center: Center
+#Image stretch type
+Fill: Fill
+HorizontalAlignment: Horizontal alignment
+ImageFit: Image fit
+#Image alignment type
+Left: Left
+Opacity: Opacity
+#Image alignment type
+Right: Right
+#Image alignment type
+Top: Top
+#Image stretch type
+Uniform: Uniform
+#Image stretch type
+UniformToFill: Uniform to fill
+VerticalAlignment: Vertical alignment
+#This is a type of backdrop for the application background
+ThinAcrylic: Thin Acrylic
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Show for all locations
+DevTools: Developer tools
+DisplayOpenIDE: Configure the "Open IDE" button on the status bar
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Show for Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Application extension
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO File
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip File
+#This is the friendly name for bitmap files.
+BitmapFiles: Bitmap Files
+NumPadTypeName: Num
+NetworkLocations: Network locations
+NoNetworkLocationsInfo: There are no network locations. If you don't use network locations, you can disable the widget.
+Disable: Disable
+EditInNotepad: Edit in Notepad
+EditInNotepadDescription: Edit the selected file in Notepad

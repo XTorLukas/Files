@@ -1,0 +1,1467 @@
+NewWindow: Fereastră Nouă
+CopyPath: Copiere cale
+CopyPathWithQuotes: Copiați calea cu ghilimele
+Browse: Răsfoire
+Size: Mărime
+PropertiesCreated:
+  Text: 'Creat:'
+Path: Cale
+SizeLabel: 'Mărime:'
+SizeOnDiskLabel: 'Dimensiune pe disc:'
+UncompressedSize: 'Mărime necomprimată:'
+ErrorDialogThisActionCannotBeDone: Această acțiune nu poate fi efectuată
+ErrorDialogTheDestinationFolder: Dosarul de destinație
+ErrorDialogIsASubfolder: este un subfolder al dosarului sursă
+Skip: Omiteți
+SelectAll: Selectaţi tot
+InvertSelection: Inversare selecție
+ClearSelection: Deselectare totală
+PropertiesModified:
+  Text: 'Modificat:'
+Accessed: 'Accesat:'
+RecentItemClearAll:
+  Text: Curăță toate elementele
+NavigationToolbarVisiblePath:
+  PlaceholderText: Introduceți o cale pentru a naviga sau tastați ">" pentru a deschide paleta de comenzi
+Search: Căutare
+RecentItemDescription:
+  Text: Fișierele accesate anterior vor apărea aici
+RecentItemRemove:
+  Text: Elimină acest element
+OpenGitHubRepo: GitHub repository
+About: Despre
+OpenSource: Sursă deschisă
+DateFormat: Format dată
+SettingsAppearanceTheme: Temă
+SettingsFilesAndFoldersShowFileExtensions: Arată extensiile pentru tipuri de fișiere cunoscute
+SettingsFilesAndFoldersShowHiddenItems: Afișare fișiere și dosare ascunse
+ShowDotFiles: Arată fișierele cu punct
+Appearance: Aspect
+BackgroundColor: Culoare de fundal
+Advanced: Avansat
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Continuă de unde ai rămas
+SettingsOnStartupOpenANewTab:
+  Content: Deschideți o filă nouă
+SettingsOnStartupOpenASpecificPage:
+  Content: Deschideți o anumită pagină sau pagini
+Desktop: Desktop
+Documents: Documente
+Downloads: Descărcări
+Name: Nume
+Ascending: Ascendent
+Paste: Lipire
+BaseLayoutContextFlyoutNew:
+  Label: Nou
+Properties: Proprietăți
+Open: Deschideți
+OpenInNewTab: Deschideți în filă nouă
+OpenInNewWindow: Deschideți într-o fereastră nouă
+Share: Partajare
+Cut: Decupare
+Delete: Ștergere
+PinFolderToSidebar: Fixați la Bara Laterală
+WelcomeDialog:
+  Title: Bun venit la Files!
+  PrimaryButtonText: Acordați permisiunea
+WelcomeDialogTextBlock:
+  Text: 'Pentru a începe, va trebui să ne acordați permisiunea de a vă afișa fișierele. Asta va deschide o pagină de setări unde ne puteți acorda aceasta permisiune. Va trebui sa redeschideți aplicația pentru a completa acest pas. '
+Display: Afişare
+EnterAnItemName: Introduceți un nume
+RenameDialog:
+  PrimaryButtonText: Setați numele
+LightTheme: Luminos
+DarkTheme: Întunecat
+Application: Aplicație
+SystemTimeStyle: Sistem
+NewFolder: Folder nou
+NewFile: Fișier nou
+EmptyFolder:
+  Text: Acest folder este gol.
+Back: Înapoi (Alt+Stânga)
+Forward: Înainte
+Up: Sus
+Refresh: Reîmprospătare
+ItemAlreadyExistsDialogContent: Un element cu acest nume exista deja în acest folder.
+ItemAlreadyExistsDialogSecondaryButtonText: Înlocuiți elementul existent
+ItemAlreadyExistsDialogTitle: Elementul există deja
+SetAsLockscreen: Stabilire ca ecran de blocare
+SetAsAppBackground: Setați ca fundal al aplicației
+AccessDeniedDeleteDialog:
+  Text: Nu am putut șterge acest element
+DriveUnpluggedDialog:
+  Text: Introduceți unitatea necesară pentru a accesa acest element.
+  Title: Unitate deconectată
+FileNotFoundDialog:
+  Text: Fișierul pe care încercați să-l accesați a fost mutat sau șters.
+  Title: Fișierul nu a fost găsit
+CannotAccessPropertiesTitle: Nu se pot deschide proprietățile pentru acest fișier
+CannotAccessPropertiesContent: Fișierul pe care încercați să-l accesați a fost mutat sau șters.
+FolderNotFoundDialog:
+  Text: Fișierul pe care încercați să-l accesați a fost mutat sau șters.
+  Title: Ați șters acest dosar?
+FileInUseByDialog:
+  Text: Fișierul pe care încercați să îl accesați este utilizat în prezent de {0}
+FileInUseDialog:
+  Text: Fișierul pe care încercați să îl accesați este utilizat în prezent de o altă aplicație
+  Title: Fișierul este în Uz
+Layout: Aspect
+PropertiesDialogReadOnly:
+  Text: Doar citire
+DaysAgo: '{0, plural, one {# zi în urmă} other {# zile în urmă}}'
+HoursAgo: '{0, plural, one {# oră în urmă} other {# ore în urmă}}'
+MinutesAgo: '{0, plural,one {# minut în urmă} other {# minute în urmă}}'
+SecondsAgo: '{0, plural, one {# secundă în urmă} other {# secunde în urmă}}'
+Now: Acum
+ErrorDialogUnsupportedOperation: Operația solicitată nu este suportată
+DriveFreeSpaceAndCapacity: '{0} liberi din {1}'
+SendTo: Trimitere la
+FileNameTeachingTip:
+  Subtitle: 'Numele obiectului nu trebuie să conțină următoarele caractere: \ / : * ? „ < >'
+InvalidFilename:
+  Text: Numele specificat nu este valid
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# articole selectat} few {# articole selectate} other {# articole selectate}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {articole} few {articole} other {articole}}'
+Yes: Da
+ConfirmEmptyBinDialogContent: Ești sigur că dorești să ștergi definitiv toate elementele?
+ConfirmEmptyBinDialogTitle: Golire Coș de Reciclare
+ItemSizeBytes: Octeți
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {fișier} other {fișiere}}, {1, number} {1, plural, one {folder} other {foldere}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {fișier} other {fișiere}}, {1, number} {1, plural, one {folder} other {foldere}} de la {2, number} {2, plural, one {locație} other {locații}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Rulează ca alt utilizator
+PropertiesDriveItemTypesEquals: Toate tipurile de {0}
+PropertiesDriveItemTypeDifferent: Diferite tipuri
+PropertiesCombinedItemLocation: Toate în {0}
+PropertiesDriveUsedSpace:
+  Text: 'Spațiu utilizat:'
+PropertiesDriveFreeSpace:
+  Text: 'Spațiu liber:'
+PropertiesDriveCapacity:
+  Text: 'Capacitate:'
+PropertiesDriveFileSystem:
+  Text: 'Sistem de fișiere:'
+JumpListRecentGroupHeader: Recente
+TabStripDragAndDropUIOverrideCaption: Mutați tabul aici
+syncStatusColumn:
+  Header: Statut
+SettingsPreferencesSystemDefaultLanguageOption: Implicit Windows
+NavigationToolbarVisiblePathNoResults: Niciun rezultat
+SubDirectoryAccessDenied: Nu se poate accesa niciun element de afișat
+MoveToFolderCaptionText: Mutare în {0}
+CopyToFolderCaptionText: Copiere în {0}
+CreateShortcut: Creați o comandă rapidă
+OpenFileLocation: Deschidere locație fișier
+PropertiesShortcutItemArgs:
+  Text: 'Argumente:'
+PropertiesShortcutItemPath:
+  Text: 'Destinaţie:'
+PropertiesShortcutItemType:
+  Text: 'Tip de comandă rapidă:'
+PropertiesShortcutTypeLink: Link web
+General: General
+Shortcut: Comandă rapidă
+ShortcutWebLinkFileType: Comandă rapidă internet
+ShortcutCreateNewSuffix: '{0} - comandă rapidă'
+ExceptionNotificationBody: Files a întâmpinat o problemă pentru care dezvoltatorii nu s-au pregătit încă.
+ExceptionNotificationHeader: Ceva nu a mers bine!
+ExceptionNotificationReportButton: Raportați această problemă
+InvalidItemDialogContent: Fișierul la care s-a făcut referire este fie invalid, fie inaccesibil.{0}Mesaj de eroare:{0}{1}
+InvalidItemDialogTitle: Element invalid
+SettingsAboutVersionTitle: 'Versiune:'
+ShareDialogFailMessage: Nu este nimic de partajat acum...
+ShareDialogMultipleItemsDescription: Fișierul pe care l-ați selectat va fi partajat
+ShareDialogSingleItemDescription: Elementul selectat va fi partajat
+ShareDialogTitle: Se partajează {0}
+ShareDialogTitleMultipleItems: Se partajează {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Fișierul pe care încercați să îl redenumiți nu mai există. Verificați locația corectă a fișierului pe care trebuie să-l redenumiți.
+    Title: Elementul nu mai există
+  NameInvalid:
+    Text: Numele specificat a fost invalid. Vă rugăm să verificați numele fișierului dorit și încercați din nou.
+    Title: Nume element invalid
+  TooLong:
+    Text: Lungimea numelui fișierului specificat depășește limita maximă. Vă rugăm să verificați numele dorit și încercați din nou.
+    Title: Numele fișierului era prea lung
+ShowMoreOptions: Afișează mai multe opțiuni
+RestartNotificationText:
+  Text: Aplicația trebuie să repornească pentru a aplica aceste setări, doriți să reporniți aplicația?
+SponsorUsOnGitHub: Sponsorizaţi-ne pe GitHub
+AccessDeniedCreateDialog:
+  Text: Nu am putut crea acest element
+AccessDenied: Acces Respins
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Setaţi ca
+Cancel: Anulare
+AddDialog:
+  Title: Creați un element nou
+AddDialogDescription:
+  Text: Alege un tip pentru acest fișier nou mai jos
+File: Fișier
+AddDialogListFileSubHeader: Creați un fișier gol
+Folder: Folder
+AddDialogListFolderSubHeader: Creați un folder gol
+NavResfreshButton:
+  AutomationProperties:
+    Name: Reîmprospătați directorul
+Language: Limbă
+SettingsContextMenuOverflow: Mutați extensiile shell într-un sub-meniu
+ShowConfirmationWhenDeletingItems: Arată dialogul de confirmare înainte de a șterge
+PropertySaveErrorMessage:
+  Text: A apărut o eroare la salvarea unor proprietăți.
+PropertySaveErrorDialog:
+  Title: Eroare
+  SecondaryButtonText: Închide oricum
+PropertyRatingText: Evaluare
+PropertyParsingPath: Cale element
+PropertyItemTypeText: Tip element
+PropertyTitle: Titlu
+PropertySubject: Subiect
+PropertyComment: Comentariu
+PropertyCopyright: Drepturi de autor
+PropertyDateModified: Data modificării
+PropertyBitDepth: Adâncimea biților
+PropertyDimensions: Dimensiuni
+PropertyHorizontalSize: Mărime orizontală
+PropertyVerticalSize: Dimensiune verticală
+PropertyHorizontalResolution: Rezoluție orizontală
+PropertyVerticalResolution: Rezoluție verticală
+PropertyColorSpace: Spaţiu de culoare
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Nespecificat
+PropertyLongitudeDecimal: Decimal Longitudine
+PropertyLatitudeDecimal: Decimal latitudine
+PropertyAltitude: Altitudine
+PropertyDateTaken: Data preluării
+PropertyCameraManufacturer: Fabricantul camerei foto
+PropertyCameraModel: Model cameră
+PropertyExposureTime: Timp de expunere
+PropertyFocalLength: Lungime focală
+PropertyAperture: Apertură
+PropertyPeopleNames: Nume persoane
+PropertyChannelCount: Numărul de canale
+PropertyFormat: Format
+PropertySampleRate: Rată de eșantionare
+PropertyAlbumArtist: Albumul Artistului
+PropertyAlbumTitle: Titlu album
+Artist: Artist
+PropertyBeatsPerMinute: Bătăi pe minut
+PropertyComposer: Compozitor
+Conductor: Dirijor
+PropertyDiscNumber: Numărul discului
+PropertyGenre: Gen
+PropertyTrackNumber: Număr pistă
+PropertyDuration: Durată
+PropertyFrameCount: Numărul de cadre
+PropertyProtectionType: Tip de protecție
+PropertyAuthorUrl: URL-ul autorului
+PropertyContentDistributor: Distribuitor de conținut
+PropertyDateReleased: Data lansării
+PropertySeriesName: Numele seriilor
+PropertySeasonNumber: Numărul de sezon
+PropertyEpisodeNumber: Numărul episodului
+PropertyProducer: Producător
+PropertyPromotionUrl: URL promoțional
+PropertyProviderStyle: Stilul furnizorului
+PropertyPublisher: Editor
+PropertyThumbnailLargePath: Calea Miniaturilor Mari
+PropertyThumbnailLargeUri: Calea Miniaturilor Uri
+PropertyThumbnailSmallPath: Calea Miniaturilor Mici
+PropertyThumbnailSmallUri: Calea Miniaturilor Uri
+PropertyUserWebUrl: URL web al utilizator
+PropertyWriter: Autor
+PropertyYear: An
+PropertyContributor: Contribuitor
+PropertyLastAuthor: Ultimul autor
+PropertyRevisionNumber: Numărul reviziei
+PropertyVersion: Versiune
+PropertyDateCreated: Data creării
+PropertyTotalEditingTime: Timpul total de editare
+PropertyTemplate: Șablon
+PropertyWordCount: Număr de cuvinte
+PropertyCharacterCount: Numărul de caractere
+PropertyLineCount: Numărul de linii
+PropertyParagraphCount: Număr paragrafe
+PropertyPageCount: Numărul de pagini
+PropertySlideCount: Număr diapozitive
+PropertyFrameRate: Cadre pe secundă
+PropertyEncodingBitrate: Codare Bitrate
+PropertyPreviewAudioEncodingBitrate: Rată de Biți de Codificare Audio
+PropertyPreviewVideoEncodingBitrate: Rată de Biți de Codificare Video
+Compression: Compresie
+PropertyFrameWidth: Lățimea Cadrului
+PropertyFrameHeight: Înălțimea Cadrului
+PropertyOrientation: Orientare
+PropertySectionCore: Nucleu
+PropertySectionImage: Imagine
+PropertySectionPhoto: Fotografie
+PropertySectionGPS: GPS
+PropertySectionMedia: Media
+PropertySectionAudio: Audio
+PropertySectionMusic: Muzică
+PropertySectionVideo: Video
+Document: Document
+Address: Adresă
+SelectionOptions: Opțiuni de selecție
+NavToolbarSelectionOptions:
+  Label: Selectare
+RecycleBinItemAutomation: Articol coș de reciclare
+ShortcutItemAutomation: Articol comandă rapidă
+Drives: Unități
+PinToSidebarByDraggingCaptionText: Mutați aici
+EjectNotificationHeader: Sigur pentru a elimina hardware-ul
+EjectNotificationBody: Dispozitivul poate fi acum scos în siguranță din calculator.
+EjectNotificationErrorDialogHeader: Problemă la scoaterea dispozitivului
+EjectNotificationErrorDialogBody: Acest dispozitiv este în prezent în uz. Închideți orice programe, ferestre sau file care ar putea utiliza dispozitivul și apoi încercați din nou.
+Eject: Scoatere
+DuplicateTab: Duplicare filă
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Mută fila într-o fereastră nouă
+NewTab: Filă nouă
+ClearPropertiesFlyoutText:
+  Text: Unele proprietăți pot conține informații personale.
+ClearPropertiesButton:
+  Content: Ștergeți toate proprietățile
+OngoingTasksTeachingTip:
+  Subtitle: Verificați starea operațiunilor cu fișiere aici
+  Title: Centru de stare
+SearchPagePathBoxOverrideText: Rezultatele căutării în {1} pentru {0}
+Details: Detalii
+No: Nu
+ShowProtectedSystemFiles: Arată fișierele protejate de sistem
+SyncFolderPreferencesAcrossDirectories: Sincronizați aspectul și preferințele de sortare între directoare
+SettingsContextMenu:
+  Text: Personalizați meniul contextual clic dreapta
+OriginalPath: Calea originală
+Add: Adăugare
+Edit: Editare
+Remove: Eliminare
+SettingsMultitaskingAlwaysOpenDualPane: Deschide filele în modul panou dublu
+ShowOpenInNewPane: Arată opțiunea pentru a deschide foldere într-un panou nou
+ShowCopyPath: Afișați opțiunea pentru a copia calea
+ShowCreateFolderWithSelection: Afișați opțiunea pentru a crea un folder cu selecție
+ShowCreateShortcut: Afișați opțiunea pentru a crea o comandă rapidă
+NavigationToolbarNewPane:
+  Label: Panou nou
+OpenInNewPane: Deschideți într-un panou nou
+FilesAndFolders: Fișiere & foldere
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Detalii (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Dale (Ctrl+Shift+2)
+DateDeleted: Data ștergerii
+SidebarCloudDrives: Unități în cloud
+Confirm: Confirmați
+DesiredName: Nume dorit
+TogglePreviewPane: Afișați sau ascundeți panoul de previzualizare
+ToggleDetailsPane: Afișați sau ascundeți panoul de detalii
+ToggleDetailsPaneDescription: Comută panoul de detalii pentru a vizualiza proprietățile de bază ale fișierelor
+ToggleInfoPane: Comută panoul de informații
+ToggleInfoPaneDescription: Comutați panoul de informații pentru a vizualiza panourile de detalii/previzualizare
+DetailsPanePreviewNotAvaliableText: Nicio previzualizare disponibilă
+PropertyItemName: Nume Obiect
+UnpinFolderFromSidebar: Anulați fixarea la Bara Laterală
+Network: Rețea
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Detalii fișier
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Previzualizare fișier
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Panoul de previzualizare selectat
+Feedback: Feedback
+CloudDriveSyncStatus_Online: Disponibil când sunteți online
+Documentation: Documentaţie
+CloudDriveSyncStatus_Offline: Disponibil Offline
+CloudDriveSyncStatus_PartialOffline: Parțial disponibile offline
+CloudDriveSyncStatus_Sync: Se sincronizează
+CloudDriveSyncStatus_Excluded: Exclus din sincronizare
+ItemSizeNotCalculated: Necalculat
+CloudDriveSyncStatus_Unknown: Necunoscut
+RenameFileDialog:
+  Text: Dacă modificați extensia unui fișier, acesta poate deveni inutilizabil. Sigur modificați extensia?
+DriveTypeCDRom: Drive CD ROM
+DriveTypeCloudDrive: Unitate în cloud
+DriveTypeFixed: Unitate de disc fixă
+DriveTypeFloppyDisk: Unitate de disc floppy
+DriveTypeNetwork: Unitate de rețea
+DriveTypeNoRootDirectory: Unitate nemontată
+DriveTypeRam: Unitate RAM disc
+DriveTypeRemovable: Dispozitiv de stocare amovil
+DriveTypeUnknown: Necunoscut
+DriveTypeVirtualDrive: Unitate virtuală
+DateCreated: Data creării
+MoreOptions: Mai multe opțiuni...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Conectare unitate de rețea
+Pinned: Fixat
+SidebarLibraries: Biblioteci
+NoItemSelected: Niciun element selectat
+PropertyItemTarget: Țintă
+Arguments: Argumente
+Default: Implicit
+PropertyItemCount: Număr de obiecte
+ElevateConfirmDialog:
+  Title: Această acţiune necesită drepturi de administrator
+  Content: Doriţi să continuaţi ca administrator?
+ColumnsShortcutTooltip: Coloane (Ctrl + Shift+6)
+PinItemToStart:
+  Text: Fixare la Start
+UnpinItemFromStart:
+  Text: Anulați fixarea la Start
+Library: Bibliotecă
+LibraryLocations:
+  Text: 'Locații:'
+SetAsDefaultSavePath: Setează ca cale implicită de salvare
+LibraryNoLocations:
+  Text: Nicio locație
+ErrorInputEmpty: Câmpul textului nu poate fi gol!
+ErrorNameInputRestrictedCharacters: 'Numele nu trebuie să conțină următoarele caractere: \ / : * ? " < > |'
+ErrorNameInputRestricted: Acest nume nu este permis!
+CreateLibraryErrorAlreadyExists: O bibliotecă cu același nume exista deja!
+OpenStorageSense: Deschideți Stocare inteligentă
+Copy: Copiere
+CopyItemsDialogTitle: Se copiază {0, plural, one {element} other {elemente}}
+DeleteItemsDialogTitle: Se șterg {0, plural, one {element} other {elemente}}
+MoveItemsDialogPrimaryButtonText: Mutare la
+MoveItemsDialogSubtitle: '{0, plural, one {Un element va fii mutat} other {# elemente vor fii mutate}}'
+MoveItemsDialogTitle: Se mută {0, plural, one {element} other {elemente}}
+DeleteItemsDialogSubtitle: '{0, plural, one {Un elemente va fii șters} other {# elemente vor fii șterse}}'
+ConflictingItemsDialogPrimaryButtonText: Continuați
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {Există un nume de fișier conflictual} other {Există # nume de fișier conflictuale}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {Există un nume de fișier conflictual} other {Există # nume de fișier conflictuale}}, și {1, plural, one {un element în curs} other {# elemente în curs}}'
+ConflictingItemsDialogTitle: '{0, plural, one {nume de fișier}  other {nume de fișiere}} în conflict'
+CopyItemsDialogSubtitle: '{0, plural, one {Un element va fii copiat} other {# elemente vor fii copiate}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Șterge definitiv
+PropertyISO: Viteză ISO
+ReplaceExisting: Înlocuiește existent
+GenerateNewName: Generează un nume nou
+CreateFolderWithSelection: Creare folder cu selecţie
+ItemType: 'Tip:'
+ToolTipDescriptionDate: 'Data modificării:'
+OpenWith: Deschidere cu
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Pictogramă fișier
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Coloana de cale originală
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Coloană tip element
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Coloană data modificări
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Coloana dată ștergerii
+Sort: Sortare
+DateModifiedLowerCase: Data modificării
+OriginalFolder: Folder original
+Descending: Descendentă
+ItemSizeText_Huge: Imens
+ItemSizeText_VeryLarge: Foarte mare
+ItemSizeText_Large: Mare
+ItemSizeText_Medium: Mediu
+ItemSizeText_Small: Mic
+ItemSizeText_Tiny: Minuscul
+Future: Viitor
+Today: Astăzi
+Yesterday: Ieri
+EarlierThisWeek: La începutul acestei săptămâni
+LastWeek: Săptămâna trecută
+EarlierThisMonth: Mai devreme în această lună
+LastMonth: Luna trecută
+EarlierThisYear: În prima parte a acestui an
+LastYear: Anul trecut
+YearN: An {0}
+GroupItemsCount_Singular: '{0} element'
+GroupItemsCount_Plural: '{0} elemente'
+ReopenClosedTab: Redeschide filele închise
+Rename: Redenumire
+Privacy: Confidențialitate
+TheRecycleBin: Coșul de reciclare
+Canceling: Se anulează
+Clear: Gol
+Widgets: Widget-uri
+SyncStatus: Stare sincronizare
+Security: Securitate
+AdvancedPermissions: Permisiuni avansate
+Allow: Permitere
+Deny: Refuzaţi
+SecurityFullControlLabel:
+  Text: Control total
+SecurityListDirectoryLabel:
+  Text: Listează conținutul directorului
+Modify: Modificare
+SecurityPermissionsHeaderText: Permisiuni pentru {0}
+SecurityReadAndExecuteLabel:
+  Text: Citire și execuție
+SecurityReadLabel:
+  Text: Citire
+SecurityUsersGroupLabel:
+  Text: Grup sau nume de utilizator
+Write: Scriere
+SecurityUnknownAccount: Cont Necunoscut
+SecurityCannotReadProperties:
+  Text: Nu aveți permisiuni pentru a vizualiza proprietățile de securitate ale acestui obiect. Faceți clic pe „Permisiuni avansate” pentru a continua.
+SecurityOwnerLabel:
+  Text: 'Proprietar:'
+SecurityUnknownOwnerText:
+  Text: Proprietar necunoscut
+ExtractArchive: Extrage Arhiva
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Deschideți folderul de destinație când se finalizează
+BaseLayoutItemContextFlyoutExtractToChildFolder: Extragere în {0}\
+SideBarCreateNewLibrary:
+  Text: Creați o bibliotecă nouă
+SideBarRestoreLibraries:
+  Text: Restabilire biblioteci implicite
+DialogRestoreLibrariesSubtitleText: Sigur doriți să restaurați bibliotecile implicite? Toate fișierele dvs. vor rămâne în spațiul de stocare.
+DialogRestoreLibrariesTitleText: Restabilire biblioteci
+PropertyFileOwner: Proprietar
+SecuritySpecialLabel:
+  Text: Special
+Access: Acces
+SecurityAdvancedAppliesTo: Se aplică la
+Principal: Principal
+SecurityAdvancedFlagsFilesLabel: fișiere
+SecurityAdvancedFlagsFolderLabel: acest folder
+SecurityAdvancedFlagsSubfoldersLabel: subfoldere
+Inherited: Moștenite
+Permissions: Permisiuni
+SecurityAdvancedCannotReadProperties:
+  Text: Nu aveți permisiuni pentru a vizualiza proprietățile de securitate ale acestui obiect. Puteți încerca să preluați proprietatea asupra acestui obiect.
+SecurityAdvancedFolderFiles:
+  Text: Acest folder și fișiere
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Acest folder, subfoldere și fișiere
+SecurityAdvancedOnlyFiles:
+  Text: Doar fișiere
+SecurityAdvancedOnlySubfolders:
+  Text: Doar subfoldere
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Doar subfoldere şi fişiere
+SecurityAdvancedOnlyThisFolder:
+  Text: Doar acest folder
+SecurityAdvancedFolderSubfolders:
+  Text: Acest folder și subfoldere
+SecurityAppendDataLabel:
+  Text: Adăugați date
+SecurityChangePermissionsLabel:
+  Text: Schimbați permisiunea
+SecurityCreateDirectoriesLabel:
+  Text: Creați foldere
+SecurityCreateFilesLabel:
+  Text: Creați fișiere
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Ștergeți subdirectoarele și fișierele
+SecurityExecuteFileLabel:
+  Text: Execută fişierele
+SecurityReadAttributesLabel:
+  Text: Citește atributele
+SecurityReadDataLabel:
+  Text: Citire date
+SecurityReadExtendedAttributesLabel:
+  Text: Citire atribute extinse
+SecurityReadPermissionsLabel:
+  Text: Citire permisiuni
+SecurityTakeOwnershipLabel:
+  Text: Preluați permisiune
+SecurityTraverseLabel:
+  Text: Vizitați folderul
+SecurityWriteAttributesLabel:
+  Text: Scriere atribute
+SecurityWriteDataLabel:
+  Text: Scriere date
+SecurityWriteExtendedAttributesLabel:
+  Text: Scriere atribute extinse
+SecurityAdvancedInheritedConvert:
+  Text: Convertiți permisiunile moștenite în permisiuni explicite
+SecurityAdvancedInheritedEnable:
+  Text: Activați moștenirea
+SecurityAdvancedInheritedRemove:
+  Text: Eliminați toate permisiunile moștenite
+SecurityAdvancedReplaceChildPermissions:
+  Text: Resetare permisiuni copil
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Înlocuiți toate intrările de permisiuni ale obiectului copil cu intrări de permisiuni moștenite de la acest obiect
+NavigationToolbarClosePane:
+  Label: Închidere panou
+EnterCompactOverlay: Intrare în suprapunere compactă
+ExitCompactOverlay: Ieșire din suprapunere compactă
+PropertyFileDescription: Descriere fişier
+PropertyCompany: Companie
+PropertyLanguage: Limbă
+PropertyTrademarks: Mărci înregistrate
+PropertyFileVersion: Versiune fişier
+PreviewPaneLoadCloudItemButton:
+  Text: Încărcați previzualizarea completă
+  ToolTipService:
+    ToolTip: Descarcă elementul din cloud si încarcă previzualizarea
+DetailsArchiveItems: '{0, plural, one {# element} other {# elemente}} ({1, plural, one {# fișier} other {# fișiere}}, {2, plural, one {# folder} other {# foldere}})'
+PropertyUncompressedSize: Mărime necomprimată
+WSL: SLW
+SideBarHideSectionFromSideBar:
+  Text: Ascundeți secțiunea {0}
+AddFile: Adaugă fișier
+ConsentDialogTitle: Sunt disponibile actualizări
+ConsentDialogContent: Actualizările sunt gata de instalare
+Close: Închidere
+ConsentDialogPrimaryButtonText: Actualizare
+Home: Pornire
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Extragerea arhivei s-a finalizat cu succes.
+ExtractingArchiveText: Se extrage arhiva
+ExtractingCompleteText: Extragere completă!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Deschideți folderul părinte
+Unknown: Necunoscut
+EditTags: Editare etichete
+PropertyPartOfSet: Parte din set
+InsertDiscDialog:
+  OpenDriveButton: Deschidere unitate
+  Text: Introduceți un disc în unitatea {0}
+  Title: Introduceți un disc
+OK: OK
+AskCredentialDialog:
+  Title: Acreditări necesare
+CredentialDialogAnonymous:
+  Content: Anonim
+CredentialDialogDescription:
+  Text: 'Furnizați datele de autentificare:'
+CredentialDialogUserName:
+  PlaceholderText: Nume de utilizator
+NoSearchResultsFound: Niciun element găsit
+OpenLogLocation: Deschide locația jurnalului
+LinkToFolderCaptionText: Creează legătură în {0}
+Columns: Coloane
+Tiles: Dale
+OpenFoldersInNewTab: Deschide foldere în filă nouă
+StatusCenter: Centru de stare
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Coloană dată de creare
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Coloană cu dimensiunea elementului
+ExperimentalFeatureFlags: Caracteristici experimentale
+HelpAndSupport: Asistenţă şi suport
+SubmitFeatureRequest: Trimiteți o cerere de funcție
+SubmitBugReport: Trimiteți un raport despre o problemă
+SettingsSetAsDefaultFileManager: Setați Files ca manager de fișiere implicit
+SettingsSetAsOpenDialog: Utilizați Files ca dialog de deschidere fișiere
+Tag: Etichetă
+SettingsOpenItemsWithOneClick: Deschide elementele cu un singur clic
+FolderPath: Cale folder
+ExportSettings: Exportare setări
+ImportSettings: Importare setări
+SettingsImportErrorDescription: Nu s-au putut importa setările. Fișierul de setări este corupt.
+SettingsImportErrorTitle: Eroare la importarea setărilor
+EmptyRecycleBin: Golire Coș de Reciclare
+Sidebar: Bară laterală
+ChooseCustomIcon: Alegeți o pictogramă personalizată pentru folder
+Customization: Personalizare
+RestoreDefault: Restabiliți valorile implicite
+OpenTabInExistingInstance: Deschide fila în instanța existentă la deschiderea Files dintr-o altă aplicație
+StartupSettings: Setări pornire
+Compatibility: Compatibilitate
+None: Niciuna
+CompatibilityOnWindowsLogin: Când mă conectez la Windows
+CompatibilityOnProgramStart: La pornirea programului
+System: Sistem
+CompatibilitySystemEnhanced: Sistem (Îmbunătățit)
+CompatibilityReducedColorModeColor16bit: Culoare 16-bit (65536)
+CompatibilityReducedColorModeColor8bit: Culoare 8-bit (256)
+CompatibilityDisableFullscreenOptimizations: Dezactivați optimizările pe ecran complet
+CompatibilityRunIn640x480Resolution: Rulați la rezoluția ecranului de 640 x 480
+CompatibilityOverrideHighDPIBehavior: Suprascrieți comportamentul de scalare DPI mare
+CompatibilityReducedColorMode: Mod de culoare redus
+CompatibilityRegisterThisProgramForRestart: Înregistrați acest program pentru repornire
+RunAsAdministrator: Rulare ca administrator
+CompatibilityRunTroubleshooter: Rulați depanatorul pentru compatibilitate
+CompatibilityUseDPISettings: Utilizați setările DPI ale monitorului principal
+CompatibilityDoNotAdjustDPI: Nu ajustați setările DPI
+CompatibilityDoNotOverrideDPI: Nu suprascrieți setările DPI
+CompatibilityMode: Mod compatibilitate
+CompatibilityNoReducedColor: Fără culoare redusă
+ThirdPartyLicenses: Licențe terță parte
+SettingsSetAsDefaultFileManagerDescription: Această opțiune modifică registrul sistemului și poate avea efecte secundare neașteptate pe dispozitiv. Continuați pe propriul risc.
+FolderWidgetCreateNewLibraryDialogTitleText: Creați o bibliotecă
+FolderWidgetCreateNewLibraryInputPlaceholderText: Introduceți numele Bibliotecii
+CalculateFolderSizes: Calculează mărimea folderelor
+RecentFiles: Fişiere recente
+SettingsOpenInLogin: Deschideți Files la pornirea Windows
+Attributes: Atribute
+Hidden: Ascuns
+MoreDetails: Mai multe detalii
+ReadOnly: Doar citire
+CleanupDrive: Curățați conținutul unității
+Type: Tip
+Bytes: Octeți
+Extract: Extragere
+ExtractFiles: Extragere fişiere
+ExtractHere: Extrageți aici
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Extragere în {0}
+RunScript: Execută scriptul
+RunWithPowerShell: Execută cu PowerShell
+ShowFolderSizesWarning: Calcularea dimensiunilor folderelor consumă multe resurse şi poate creşte utilizarea procesorului.
+RotateLeft: Rotire la stânga
+RotateRight: Rotire la dreapta
+Install: Instalare
+CloseTabsToTheLeft: Închide filele din stânga
+CloseTabsToTheRight: Închide filele din dreapta
+CloseOtherTabs: Închideţi celelalte file
+Music: Muzică
+Pictures: Imagini
+UpdateFiles: Actualizați Files
+FileTags: Etichete
+Universal: Universal
+DateFormatSample: 'ex: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Afișați miniaturi
+Retry: Reîncercați
+ErrorDialogUnsupportedMoveOperation: Operațiunea de mutare nu este suportată în acest context. Doriți să copiați elementele în schimb?
+HiddenItems: Elemente ascunse
+Custom: Personalizat
+SetAsSlideshow: Setează ca diapozitiv pe desktop
+SizeAllColumnsToFit: Poziționează toate coloanele să încapă
+Adaptive: Aspect adaptabil
+AdaptiveShortcutTooltip: Aspect adaptiv (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Arată fluxuri alternative de date
+Behaviors: Comportamente
+ReviewFiles: Lăsați o recenzie pentru Files
+ReviewFilesContent: Doriți să revizuiți Files?
+SetAsBackgroundFlyout: Setați ca fundal
+SetAsBackground: Stabilire ca imagine de fundal pentru desktop
+SetAsDefault: Setați ca implicit
+DateColumn: Coloană dată
+DateCreatedColumn: Coloană data creării
+SizeColumn: Coloană dimensiune
+TagColumn: Coloană etichetă
+TypeColumn: Coloană tip
+Lockscreen: Ecran de blocare
+OpenFolderWithOneClickColumnsLayout: Deschide folderele cu un singur clic în aspectul coloană
+OpeningItems: Deschidere elemente
+Compress: Comprimare
+SelectFilesAndFoldersOnHover: Selectați fișiere și foldere când treceți cu mouse-ul peste ele
+ConfirmRestoreBinDialogContent: Sunteți sigur că vreți să restaurați toate elementele din coșul de reciclare?
+ConfirmRestoreBinDialogTitle: Restaurați toate elementele
+ConfirmRestoreSelectionBinDialogContent: Doriți să restaurați cele {0} elemente selectate?
+ConfirmRestoreSelectionBinDialogTitle: Restaurare selecție
+RestoreAllItems: Restaurați toate elementele
+Restore: Restaurare
+ShortcutCannotBeOpened: Comanda rapidă nu poate fi deschisă
+DeleteShortcutDescription: Destinația țintă nu poate fi găsită {0}. Doriți să ștergeți această comandă rapidă?
+AccessDeniedToFolder: Nu aveți permisiunea de a accesa acest folder.
+ArchivePassword: Parolă arhivă
+ExtractToPath: Cale
+SortingAndGrouping: Sortare și grupare
+CreateArchive: Creare arhivă
+Create: Creare
+CreateNamedArchive: Creare {0}
+EnterName: Introduceți un nume
+CompressionLevel: Nivel de comprimare
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Ridicat
+CompressionLevelNormal: Normal
+CompressionLevelLow: Scăzută
+CompressionLevelFast: Rapidă
+CompressionLevelNone: Niciuna
+SplittingSize: Dimensiune împărțită
+Do not split: Nu despărți
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Criptare
+Password: Parolă
+Format: Format
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Sincronizați coloana de status
+GroupBy: Grupaţi după
+SortBy: Sortare după
+GroupInDescendingOrder: Grupare în ordine descrescătoare
+SortInDescendingOrder: Sortare în ordine descrescătoare
+NewShortcutDialogTitle: Creați o comandă rapidă nouă
+NewShortcutDialogDescription: Creați comenzi rapide la programele locale sau de rețea, fișiere, dosare, computere sau adrese de internet.
+NewShortcutDialogPrompt: 'Introduceți locația elementului:'
+AddDialogListShortcutSubHeader: Creați o comandă rapidă
+RecentFilesDisabledOnWindowsWarning: Fișierele utilizate recent sunt dezactivate în Windows File Explorer.
+EditSettingsFile: Editați fișierul de setări
+WhatsNew: Ce e nou
+CannotCreateShortcutDialogTitle: Crearea unei comenzi rapide în această locație necesită privilegii de administrator
+CannotCreateShortcutDialogMessage: Doriți în schimb să creați o comandă rapidă pe desktop?
+ErrorDialogNameNotAllowed: Numele elementului specificat nu este valid
+Settings: Setări
+DoubleClickBlankSpaceToGoUp: Dublu-clic pe un spațiu gol pentru a urca un director
+ViewMore: Vedeți mai mult
+ShowEditTagsMenu: Afișează editarea etichetelor
+ShowCompressionOptions: Afișați opțiunile de compresie
+ShowSendToMenu: Afișați trimitere la meniu
+ShowOpenInNewTab: Arată opțiunea pentru a deschide foldere într-o filă nouă
+ShowOpenInNewWindow: Arată opțiunea pentru a deschide foldere într-o fereastră nouă
+QuickAccess: Acces rapid
+NetworkAuthenticationDialogMessage: 'Introduceți acreditările pentru a vă conecta la: {0}'
+NetworkAuthenticationDialogTitle: Introduceți acreditările rețelei
+NetworkAuthenticationSaveCheckbox: Memorează-mi acreditările
+NetworkFolderErrorDialogTitle: Eroare la dosarul rețelei
+AppVersion: Versiune aplicație
+WindowsVersion: Versiune Windows
+Always: Întotdeauna
+PermanentDeletionOnly: Doar ștergere permanentă
+Never: Niciodată
+TagColor: Culoare etichetă
+NewTag: Etichetă nouă
+CreateNewTag: Creați o etichetă nouă
+Loading: Se încarcă...
+ContextMenuOptions: Opțiuni meniu contextual
+ShowFileExtensions: Afișare extensii nume de fișier
+ShowHiddenItems: Afișați elementele ascunse
+FormatDriveText: Formatare...
+Help: Ajutor
+FullScreen: Comutare la ecran complet
+ConfirmDeleteTag: Ești sigur că vrei să ștergi această etichetă?
+PlayAll: Redați tot
+Height: Înălţime
+Width: Lățime
+ApplyToAllConflictingItems: Aplică această acțiune tuturor elementelor contradictorii
+OpenTerminal: Deschideți în Terminal Windows
+OpenTerminalAsAdmin: Deschideți în Terminal Windows ca administrator
+Save: Salvare
+MultiSelect: Selectare multiplă
+ReorderSidebarItemsDialogText: Reordonarați elementele din bara laterală
+Hashes: Hash-uri
+CalculationError: A apărut o eroare in timpul calculului
+CalculationErrorFileIsOpen: Nu s-a putut calcula hash-ul, te rugăm să închizi fișierul și să încerci din nou.
+CalculationOnlineFileHashError: Hash-urile nu sunt disponibile pentru fișierele online
+Algorithm: Algoritm
+HashValue: Valoare hash
+SelectHashesToShow: Selectați hash-uri de afișat
+Calculating: Se calculează...
+JumpListPinnedGroupHeader: Elemente fixate
+DecreaseSize: Reduceți dimensiunea
+IncreaseSize: Măriți dimensiunea
+ToggleSortDirection: Comutare direcție sortare
+InvalidTagNameWarning: Nume invalid
+TagNameRules: Numele nu trebuie să fie gol sau să înceapă sau să se termine cu un punct.
+Videos: Videoclipuri
+LaunchPreviewPopup: Lansați fereastra de previzualizare
+ToggleCompactOverlay: Comutare suprapunere compactă
+OpenHelpDescription: Deschideți pagina de ajutor online în browser
+ToggleFullScreenDescription: Comutare la ecran complet
+EnterCompactOverlayDescription: Intrare în suprapunere compactă
+ExitCompactOverlayDescription: Ieșire din suprapunere compactă
+ToggleCompactOverlayDescription: Comutare suprapunere compactă
+SearchDescription: Mergeți la caseta de căutare
+ToggleShowHiddenItemsDescription: Comută dacă se afișează elementele ascunse
+ToggleShowFileExtensionsDescription: Comută dacă se afișează extensiile fișierelor
+TogglePreviewPaneDescription: Comută panoul de previzualizare pentru a vizualiza previzualizări ale fișierelor
+ToggleSidebarDescription: Comută dacă se afișează bara laterală
+CopyItemDescription: Copiază elementul/le în clipboard
+CopyPathDescription: Copiați calea elementelor selectate în clipboard
+CopyPathWithQuotesDescription: Copiați calea elementelor selectate cu ghilimele în clipboard
+CutItemDescription: Decupează elementul/le în clipboard
+PasteItemDescription: Lipiți element(ele) din clipboard în folderul curent
+PasteItemToSelectionDescription: Lipiți element(ele) din clipboard în folderul selectat
+DeleteItemDescription: Ștergere element(e)
+CreateFolderDescription: Crează un folder nou
+CreateShortcutDescription: Creaţi comenzi rapide noi la articolul/ele selectat/e
+CreateShortcutFromDialogDescription: Creați o comandă rapidă către orice element
+EmptyRecycleBinDescription: Golire Coș de Reciclare
+FormatDriveDescription: Deschideți meniul "Formatare unitate" pentru elementul selectat
+RestoreRecycleBinDescription: Restaurați element(ele) selectate din coșul de reciclare
+RestoreAllRecycleBinDescription: Restaurați toate elementele din coșul de reciclare
+OpenItemDescription: Deschideți elementul/ele
+OpenItemWithApplicationPickerDescription: Deschideți element(ele) cu aplicația selectată
+OpenParentFolderDescription: Deschide folderul părinte al elementului căutat
+RefreshItemsDescription: Reîmprospătați conținutul paginii
+RenameDescription: Redenumiți elementul selectat
+SelectAllDescription: Selectați toate elementele
+InvertSelectionDescription: Inversare selecție
+ClearSelectionDescription: Ștergeți selecția elementelor
+ToggleSelectDescription: Comută selecția elementelor
+ShareItemDescription: Partajați fișierul/fișierele selectate cu alții
+PinToStartDescription: Fixați element(ele) la Meniul Start
+UnpinFromStartDescription: Anulați fixarea la Meniul Start a elementului/lor
+PinFolderToSidebarDescription: Fixați un folder/foldere la Bara Laterală
+UnpinFolderFromSidebarDescription: Anulați fixarea folderului/folderelor la Bara Laterală
+SetAsWallpaperBackgroundDescription: Setați imaginea selectată ca imagine de fundal
+SetAsSlideshowBackgroundDescription: Setați imaginea selectată ca expunere de diapozitiv
+SetAsLockscreenBackgroundDescription: Setați imaginea selectată ca imagine de fundal pentru ecranul de blocare
+SetAsAppBackgroundDescription: Setează imaginea selectată ca fundal al aplicației
+InstallFontDescription: Instalați fonturile selectate
+InstallInfDriverDescription: Instalați drivere utilizând fișierele inf selectate
+InstallCertificateDescription: Instalați certificatele selectate
+RunAsAdminDescription: Executați aplicația selectată ca administrator
+RunAsAnotherUserDescription: Executați aplicația selectată ca alt utilizator
+RunWithPowershellDescription: Executați scriptul PowerShell selectat
+LaunchPreviewPopupDescription: Lansați previzualizarea în fereastra pop-up
+CompressIntoArchiveDescription: Creare arhivă cu elementele selectate
+CompressIntoSevenZipDescription: Creare arhivă 7z instant cu elementele selectate
+CompressIntoZipDescription: Creare arhivă zip instant cu elementele selectate
+DecompressArchiveDescription: Extragere elemente din arhivele selectate în orice folder
+DecompressArchiveHereDescription: Extragere elemente din arhivele selectate în folderul curent
+DecompressArchiveToChildFolderDescription: Extragere elemente din arhivele selectate într-un folder nou
+RotateLeftDescription: Rotiți imaginile selectate la stânga
+RotateRightDescription: Rotiți imaginile selectate la dreapta
+OpenSettingsDescription: Deschideți pagina de setări
+OpenTerminalDescription: Deschidere folder în terminal
+OpenTerminalAsAdminDescription: Deschidere folder în terminal ca administrator
+LayoutDecreaseSizeDescription: Micșorați dimensiunea elementului în vizualizarea curentă
+LayoutIncreaseSizeDescription: Măriți dimensiunea elementului în vizualizarea curentă
+LayoutDetailsDescription: Comutare la vizualizare detalii
+LayoutTilesDescription: Comutare la vizualizare dale
+LayoutListDescription: Comutare la vizualizare listă
+List: Listă
+Grid: Grilă
+LayoutGridDescription: Comutare la vizualizare grilă
+LayoutColumnsDescription: Comutare la vizualizare coloane
+LayoutAdaptiveDescription: Comutare vizualizări în mod adaptiv
+SortByNameDescription: Sortați elementele după nume
+SortByDateModifiedDescription: Sortare elemente după data modificării
+SortByDateCreatedDescription: Sortare elemente după data creării
+SortBySizeDescription: Sortare elemente după dimensiune
+SortByTypeDescription: Sortare elemente după tip
+SortBySyncStatusDescription: Sortare elemente după starea de sincronizare
+SortByTagDescription: Sortare elemente după etichete
+SortByOriginalFolderDescription: Sortare elemente după folderul original
+SortByDateDeletedDescription: Sortare elemente după data ștergerii
+SortAscendingDescription: Sortare elemente în ordine crescătoare
+SortDescendingDescription: Sortare elemente în ordine descrescătoare
+ToggleSortDirectionDescription: Comutare direcție sortare
+GroupByNoneDescription: Listare elemente fără grupare
+GroupByNameDescription: Grupați elementele după nume
+GroupByDateModifiedDescription: Grupați elementele după data modificării
+GroupByDateCreatedDescription: Grupați elementele după data creării
+GroupBySizeDescription: Grupați elementele după dimensiune
+GroupByTypeDescription: Grupați elementele după tip
+GroupBySyncStatusDescription: Grupați elementele după starea de sincronizare
+GroupByTagDescription: Grupați elementele după etichete
+GroupByOriginalFolderDescription: Grupați elementele după folderul original
+GroupByDateDeletedDescription: Grupați elementele după data ștergerii
+GroupByFolderPathDescription: Grupați elementele după calea folderului
+GroupAscendingDescription: Sortare grupuri în ordine crescătoare
+GroupDescendingDescription: Sortare grupuri în ordine descrescătoare
+ToggleGroupDirectionDescription: Comutare direcție sortare grup
+NewTabDescription: Deschidere filă nouă
+NavigateBackDescription: Navigați înapoi în istoricul navigației
+NavigateForwardDescription: Navigați înainte în istoricul navigației
+NavigateUpDescription: Navigați în sus într-un director
+DuplicateCurrentTabDescription: Duplicați fila curentă
+DuplicateSelectedTabDescription: Duplicați fila selectată
+CloseTabsToTheLeftCurrentDescription: Închideți filele din stânga filei curente
+CloseTabsToTheLeftSelectedDescription: Închideți filele din stânga filei selectate
+CloseTabsToTheRightCurrentDescription: Închideți filele din dreapta filei curente
+CloseTabsToTheRightSelectedDescription: Închideți filele din dreapta filei selectate
+CloseOtherTabsCurrentDescription: Închideți alte file decât fila curentă
+CloseOtherTabsSelectedDescription: Închideți alte file decât fila selectată
+ReopenClosedTabDescription: Redeschideți ultima filă închisă
+PreviousTabDescription: Treceți la fila anterioară
+NextTabDescription: Treceți la fila următoare
+CloseSelectedTabDescription: Închideți fila curentă
+OpenNewPaneDescription: Deschideți un nou panou
+ClosePaneDescription: Închideți panoul din dreapta
+FocusLeftPane: Focalizare pe panoul stâng
+FocusLeftPaneDescription: Comutați focalizarea la panoul stâng
+FocusRightPane: Focalizare pe panoul drept
+FocusRightPaneDescription: Comutați focalizarea la panoul drept
+ToggleSidebar: Comutare bară laterală
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Spaţiu
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Înapoi
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Stânga
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Dreapta
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Jos
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Sus
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Pornire
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pauză
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Hibernare
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Clear
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Ajutor
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Aplicație
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Aplicație1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Aplicație2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Pornire
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Înapoi
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Înainte
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: BrowserReîmprospătare
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Căutare
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Favorite
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: RedarePauză
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: MelodiaPrecedentă
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: MelodiaUrmătoare
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelectare
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Silențios
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: VolumJos
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: VolumSus
+Change: Modificare
+ToggleSelect: Comutare selecție
+ShowFileExtensionWarning: Afișați un avertisment la modificarea extensiilor de fișiere
+ThisPC: Acest PC
+RecycleBin: Coș de Reciclare
+Untagged: Fără etichetă
+PreviousTab: Mută la fila anterioară
+NextTab: Mută la fila următoare
+CloseTab: Închideți fila curentă
+EditPath: Editare cale
+Redo: Refacere
+Undo: Anulare
+InvalidLocation: Locație nevalidă
+CopyFileWithoutProperties: Sunteţi sigur că doriţi să copiaţi aceste fişiere fără proprietăţile lor?
+FilePropertiesCannotBeCopied: Aceste fișiere au proprietăți care nu pot fi copiate la noua locație
+FilePropertiesCannotBeMoved: Aceste fișiere au proprietăți care nu pot fi mutate la noua locație
+MoveFileWithoutProperties: Sunteți sigur că doriți să mutați aceste fișiere fără proprietățile lor?
+ShowCheckboxesWhenSelectingItems: Afișați casete de selectare când selectați elemente
+EditPathDescription: Focusare pe bara de cale
+AddItemDescription: Creare element nou
+SecurityNoAccessControlEntriesText: Niciun grup sau utilizatori nu au permisiunea de a accesa acest obiect. Cu toate acestea, proprietarul acestui obiect poate atribui permisiuni.
+OpenFileLocationDescription: Deschideți locația elementului
+DeletePermanently: Ștergeți definitiv
+DeleteItemPermanentlyDescription: Ștergeți elementele definitiv
+PlayAllDescription: Redați fișierele media selectate
+UndoDescription: Anulați ultima operație de fișier
+RedoDescription: Refaceți ultima operație de fișier
+Location: 'Locație:'
+GroupByMonthDescription: Grupați elementele după lună
+GroupByYearDescription: Grupați elementele după an
+Month: Lună
+Day: Zi
+ToggleGroupByDateUnitDescription: Comută unitatea pentru grupare după dată
+ToggleGroupingUnit: Comutare unitate de grupare
+Year: An
+GroupByDateUnit: Grupați după unitatea de dată
+GroupByDateCreatedDayDescription: Grupați elementele după ziua datei create
+GroupByDateCreatedMonthDescription: Grupați elementele după luna datei creării
+GroupByDateCreatedYearDescription: Grupați elementele după anul datei creării
+GroupByDateDeletedDayDescription: Grupați elementele după ziua datei ștergerii
+GroupByDateDeletedMonthDescription: Grupați elementele după luna datei ștergerii
+GroupByDateDeletedYearDescription: Grupați elementele după anul datei ștergerii
+GroupByDateModifiedDayDescription: Grupați elementele după ziua datei modificării
+GroupByDateModifiedMonthDescription: Grupați elementele după luna datei modificării
+GroupByDateModifiedYearDescription: Grupați elementele după anul datei modificării
+SecurityClickAdvancedPermissions: Faceți clic pe „Permisiuni avansate” pentru a continua.
+SecurityRequireReadPermissions: Trebuie să aveți Permisiuni de citire pentru a vizualiza proprietățile acestui element.
+SecuritySuggestToTakeOwnership: Pentru a încerca să preluați proprietatea asupra elementului, care include permisiunea de a-i vedea proprietățile, faceți clic pe Modificare mai sus.
+SecurityUnableToDisplayPermissions: Nu se pot afișa permisiunile.
+StashChanges: Lăsați modificările mele pe '{0}'
+DiscardChanges: Renunțați la modificările mele
+BringChanges: Aduceți modificările mele la „{0}”
+UncommittedChanges: Aveți modificări neconfirmate în această ramură. Ce doriți să faceți cu ele?
+SwitchBranch: Comutare ramură
+Branches: Ramuri
+Switch: Comutare
+NewBranch: Ramură nouă
+InvalidBranchName: Nume ramură nevalid
+CreateBranch: Creare ramură
+CreateNewBranch: Creare ramură
+BasedOn: Bazat pe
+SwitchToNewBranch: Comutați la o ramură nouă
+CreateFolderWithSelectionDescription: Creați un folder cu elementele selectate curent
+OpenProperties: Deschidere proprietăți
+OpenPropertiesDescription: Deschideți fereastra proprietăți
+Locals: Locale
+Remotes: La distanţă
+ImproveTranslation: Traduceți pe Crowdin
+GitFetch: Preluare
+GitPull: Pull
+GitFetchDescription: Rulare preluarea git
+GitPullDescription: Rulare git pull
+Preview: Previzualizare
+GitStatus: Status Git
+GitError: Eroare Git
+PullTimeoutError: git pull eșuat datorită unei erori timeout
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (valori multiple)
+Author: Autor
+DateCommitted: Data comiterii
+CommitMessage: Mesajul comiterii
+CommitSha: Comitere SHA
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Material Fundal
+Solid: Solid
+ManageBranches: Gestionare ramuri
+Push: Push
+GitPushDescription: Rulare git push
+GitSync: Sincronizare
+GitSyncDescription: Rulați git pull și apoi git push
+GitSyncStatusExtendedInfo: '{0} ieșiri / {1} comiteri de intrare'
+ConnectGitHub: Conectați-vă la GitHub
+ConnectGitHubDescription: Introduceți următorul cod la link-ul de mai jos pentru a începe să lucrați cu repozitoriile GitHub.
+CannotReachGitHubError: Files nu poate accesa GitHub momentan.
+OpenInVSCode: Deschideți folderul în VS Code
+OpenInVSCodeDescription: Deschideți directorul curent în Visual Studio Code
+OpenRepoInVSCode: Deschideți repozitoriul în VS Code
+OpenRepoInVSCodeDescription: Deschideți rădăcina repozitoriului Git în Visual Studio Code
+CopyCode: Copiere cod
+Added: Adaugat
+Deleted: Șters
+Modified: Modificat
+Untracked: Neurmărit
+UnableToDisplayOwner: Imposibil de afișat proprietarul curent.
+AuthorizationSucceded: Minunat! Acum ești autorizat.
+InitRepo: Inițializați repozitoriul
+InitRepoDescription: Inițializați un repozitoriu Git
+GitOriginRepositoryName: Nume Repozitoriu la Distanță
+GitCurrentBranch: Ramura Curentă
+PathColumn: Coloană cale
+SortByPathDescription: Sortare elemente după cale
+OpenDirectoryInNewPaneDescription: Deschideți directorul într-un panou nou
+OpenDirectoryInNewTabDescription: Deschideți directorul într-o filă nouă
+OpenInNewWindowDescription: Deschideți directorul într-o fereastră nouă
+OpenAllTaggedItems: Deschideți toate
+OpenAllTaggedItemsDescription: Deschideți toate elementele etichetate
+#{0} is the drive letter.
+DriveWithLetter: Unitate ({0})
+InvalidCommand: Comandă invalidă
+InvalidCommandContent: "'{0}' nu este recunoscut ca o comandă."
+CommandNotExecutable: Comanda nu este executabilă
+CommandNotExecutableContent: Comanda '{0}' nu este gata pentru a fi executată.
+CommandPalette: Paletă de comenzi
+OpenCommandPaletteDescription: Deschidere paletă de comenzi
+ShortcutItemWorkingDir: 'Pornire în:'
+TurnOnBitLocker: Activați BitLocker
+ManageBitLocker: Gestionați BitLocker
+CopyFailureFileToLarge: Următoarele elemente sunt prea mari pentru a fi copiate la această unitate
+FormatDrive: Formatare unitate
+DontShowAgain: Nu mai afișa
+FilesRunningAsAdmin: Files rulează ca administrator
+FilesRunningAsAdminContent: Din cauza unei limitări a Windows și WinAppSdk, tragerea și fixarea nu sunt disponibile atunci când executați Files ca administrator. Dacă doriți să folosiți caracteristica tragere și fixare puteți lucra în jurul acestei limitări deschizând CCU (Control Cont Utilizator) din Meniul Start și selectând al treilea nivel, și apoi reporniți Windows. Altfel, puteți continua să utilizați Files fără caracteristica tragere și fixare.
+SettingsLeaveAppRunning: Lăsați aplicația să ruleze în fundal atunci când fereastra este închisă
+#One of the custom color themes
+Blue: Albastru
+#One of the custom color themes
+BlueGray: Gri Albăstrui
+#One of the custom color themes
+BrickRed: Cărămiziu
+#One of the custom color themes
+Camouflage: Camuflaj
+#One of the custom color themes
+CoolBlueBright: Albastru Deschis
+#One of the custom color themes
+Gray: Gri
+#One of the custom color themes
+GrayDark: Gri Închis
+#One of the custom color themes
+Green: Verde
+#One of the custom color themes
+IrisPastel: Iris Pastelat
+#One of the custom color themes
+MintLight: Mentă Deschisă
+#One of the custom color themes
+ModRed: Roșu Aprins
+#One of the custom color themes
+OrangeBright: Portocaliu Strălucitor
+#One of the custom color themes
+Overcast: Înnorat
+#One of the custom color themes
+Red: Roșu
+#One of the custom color themes
+RoseBright: Roz Deschis
+#One of the custom color themes
+Seafoam: Spuma Mării
+#One of the custom color themes
+Storm: Furtună
+#One of the custom color themes
+VioletRedLight: Roșu-violet Deschis
+#One of the custom color themes
+YellowGold: Auriu
+ClearCompleted: Finalizat
+NameWithColon: 'Nume:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} din {1} procesat'
+ItemsLower: elemente
+CannotInitializeGitRepo: Files nu poate inițializa acest director ca un repozitoriu Git.
+ContributingArtist: Artiști Contribuitori
+AddPage: Adăugare pagină
+ProcessingItems: Se procesează elementele...
+SpeedWithColon: 'Viteză:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: S-a anulat comprimarea a {0} elemente în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: S-a anulat comprimarea a {0} elemente din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: S-au comprimat {0} element(e) în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: S-au comprimat {0} element(e) din "{1}" în {2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Eroare la comprimarea {0} element(e) la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Copierea a {0} element(e) de la "{1}" la "{2}" a eșuat
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Se comprimă {0} element(e) la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Se comprimă {0} element(e) de la "{1}" la "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: S-a anulat copierea a {0} element(e) la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: S-a anulat copierea a {0} element(e) de la "{1}" la "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: S-au copiat {0} element(e) la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: S-au copiat {0} element(e) de la "{1}" la "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Eroare la copierea a {0} element(e) la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Copierea a {0} element(e) de la "{1}" la "{2}" a eșuat
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Se copiază {0} element(e) în {1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Se copiază {0} element(e) de la "{1}" la "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: S-a anulat extragerea "{0}" la "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: S-a anulat extragerea "{0}" din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: S-a extras "{0}" în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: S-a extras "{0}" din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Eroare la extragerea "{0}" în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Nu s-a putut extrage "{0}" din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Se extrage "{0}" în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Se extrage "{0}" din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: S-a anulat ștergerea a {0} element(e) din "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: S-au șters {0} element(e) din "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Eroare la ștergerea a {0} element(e) din "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Ștergerea a {0} elemente din {1} a eșuat
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Se șterg {0} element(e) din "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: S-a anulat mutarea a {0} element(e) în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: S-a anulat mutarea a {0} element(e) din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: S-au mutat {0} element(e) în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: S-au mutat {0} element(e) din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Se mută {0} element(e) în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Se mută {0} element(e) din "{1}" în "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Eroare la mutarea a {0} element(e) în "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Mutarea a {0} element(e) din "{1}" la "{2}" a eșuat
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: S-a anulat golirea Coșului de Reciclare
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Coș de Reciclare Golit
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Se Golește Coșul de Reciclare
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Eroare la golirea Coșului de Reciclare
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Golirea Coșului de Reciclare a eșuat
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Se pregătește operațiunea...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} element(e) procesate'
+UnblockDownloadedFile: Deblochează fișierul descărcat
+NoFileOperations: Fără operațiuni de fișiere în curs
+OpenOnStartupDisabled: Opțiunea de a deschide Files la pornirea Windows nu este disponibilă din cauza setărilor de sistem sau a politicii de grup. Pentru a reîncerca, deschideți pagina de pornire în Managerul de Activități.
+FailedToRestore: Nu s-au putut restaura elementele din Coșul de Reciclare
+FailedToSetBackground: Nu s-a putut seta imaginea de fundal
+GitDeleteBranch: Ștergere Ramură Git
+GitDeleteBranchSubtitle: Sigur doriți să ștergeți definitiv ramura "{0}"?
+ConnectedToGitHub: Conectat la GitHub
+Logout: Deconectare
+ConnectToGitHub: Conectați-vă la GitHub
+Login: Conectare
+ErrorApplyingTagContent: Etichetele sunt în prezent compatibile doar pe unitățile formatate ca NTFS.
+ErrorApplyingTagTitle: A apărut o eroare la aplicarea acestei etichete
+DecompressArchiveHereSmartDescription: Extrage elementele din arhivele selectate în folderul curent pentru arhivele cu un singur element, sau într-un folder nou pentru arhivele cu mai multe elemente
+ExtractHereSmart: Extrageți aici (Smart)
+SortFilesAndFoldersTogether: Sortați fișierele și folderele împreună
+SortFilesAndFoldersTogetherDescription: Sortați fișierele și folderele împreună
+SortFilesFirst: Sortați mai întâi fișierele
+SortFilesFirstDescription: Sortați mai întâi fișierele apoi folderele
+SortFoldersFirst: Sortați mai întâi folderele
+SortFoldersFirstDescription: Sortați mai întâi folderele apoi fișierele
+SortPriority: Prioritate de sortare
+FailedToRotateImage: Rotirea imaginii a eșuat
+Restart: Repornire
+Quit: Ieșire
+FaildToShareItems: Partajarea elementelor a eșuat
+ScrollToPreviousFolderWhenNavigatingUp: Derulează la folderul anterior când navighezi în sus
+NewWindowDescription: Deschideți o fereastră nouă
+ChangeAlbumCover: Schimbați coperta albumului
+ItemRenameFailed: Nu s-a putut redenumi elementul
+HigherPermissionsRequired: Editarea „{0}” necesită permisiuni suplimentare
+EditPermissions: Editare permisiuni
+BackgroundRunningNotificationBody: Files încă rulează în fundal pentru a îmbunătăți performanța la pornire.
+BackgroundRunningNotificationHeader: Unde s-a dus Files?
+QuestionsAndDiscussions: Întrebări și discuții
+TilesViewSizeInfo: Alte mărimi nu sunt încă disponibile pentru Vizualizarea Dale.
+#Used to describe layout sizes
+Compact: Compact
+#Used to describe layout sizes
+Small: Mic
+#Used to describe layout sizes
+Medium: Mediu
+#Used to describe layout sizes
+Medium+: Mediu +
+#Used to describe layout sizes
+Medium++: Mediu ++
+#Used to describe layout sizes
+Medium+++: Mediu +++
+#Used to describe layout sizes
+Medium++++: Mediu ++++
+#Used to describe layout sizes
+Medium+++++: Mediu +++++
+#Used to describe layout sizes
+Large: Mare
+#Used to describe layout sizes
+Large+: Mare +
+#Used to describe layout sizes
+Large++: Mare ++
+#Used to describe layout sizes
+Large+++: Mare +++
+#Used to describe layout sizes
+ExtraLarge: Foarte mare
+DetailsView: Vizualizare detalii
+LayoutType: Tip aspect
+Actions: Acțiuni
+Commands: Comenzi
+AddCommand: Adăugare comandă
+RestoreDefaults: Restabiliți la valorile implicite
+ChooseAnAction: Alegeți o acțiune
+RestoreDefaultKeybindingsConfirmation: Sunteți sigur că doriți să restaurați comenzile rapide la valorile implicite? Această acțiune nu poate fi anulată.
+KeybindingAlreadyUsedNotification: Această comandă rapidă este deja utilizată, vă rugăm să alegeți o comandă rapidă diferită pentru a continua.
+KeybindingInvalidKeyNotification: Comanda rapidă pe care ați ales-o nu poate fii folosită, vă rugăm să încercați o altă comandă rapidă.
+Customized: Personalizat
+AdaptiveLayoutDisabledNotification: Aspectul Adaptiv nu este disponibil atunci când preferințele sunt sincronizate, aspectul implicit a fost schimbat la Detalii.
+BackgroundImage: Imagine de fundal
+#Image alignment type
+Bottom: Partea de jos
+#Image alignment type
+Center: Centrare
+#Image stretch type
+Fill: Umplere
+HorizontalAlignment: Aliniere orizontală
+ImageFit: Potrivire imagine
+#Image alignment type
+Left: Stânga
+Opacity: Opacitate
+#Image alignment type
+Right: Dreapta
+#Image alignment type
+Top: Deasupra
+#Image stretch type
+Uniform: Uniformă
+#Image stretch type
+UniformToFill: Umplere uniformă
+VerticalAlignment: Aliniere verticală
+#This is a type of backdrop for the application background
+ThinAcrylic: Acrilic subțire
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Arată pentru toate locațiile
+DevTools: Instrumente pentru dezvoltatori
+DisplayOpenIDE: Configurați butonul "Deschide IDE" pe bara de stare
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Arată pentru Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Extensie aplicație
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Fişier ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Fișier Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Fișiere Bitmap
+NumPadTypeName: Num
+NetworkLocations: Locațiile rețelei
+NoNetworkLocationsInfo: Nu există locații de rețea. Dacă nu utilizați locații de rețea, puteți dezactiva widgetul.
+Disable: Dezactivează
+EditInNotepad: Editare în Notepad
+EditInNotepadDescription: Editați fișierul selectat în Notepad

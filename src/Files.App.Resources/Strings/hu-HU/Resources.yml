@@ -1,0 +1,1467 @@
+NewWindow: Új ablak
+CopyPath: Útvonal másolása
+CopyPathWithQuotes: Útvonal másolása idézőjelekkel
+Browse: Tallózás
+Size: Méret
+PropertiesCreated:
+  Text: 'Létrehozva:'
+Path: Elérési út
+SizeLabel: 'Méret:'
+SizeOnDiskLabel: 'Méret a lemezen:'
+UncompressedSize: 'Tömörítetlen méret:'
+ErrorDialogThisActionCannotBeDone: Ez a művelet nem hajtható végre
+ErrorDialogTheDestinationFolder: A célmappa
+ErrorDialogIsASubfolder: almappája a forrásmappának
+Skip: Kihagyás
+SelectAll: Összes kijelölése
+InvertSelection: Kijelölés megfordítása
+ClearSelection: Kijelölés megszüntetése 
+PropertiesModified:
+  Text: 'Módosítva:'
+Accessed: 'Hozzáférés:'
+RecentItemClearAll:
+  Text: Minden elem eltávolítása
+NavigationToolbarVisiblePath:
+  PlaceholderText: Adja meg a navigáció útvonalát vagy írjon ">"-t a parancspanel megnyitásához
+Search: Keresés
+RecentItemDescription:
+  Text: Itt fognak megjelenni a korábban megnyitott fájlok
+RecentItemRemove:
+  Text: Elem eltávolítása
+OpenGitHubRepo: GitHub adattár
+About: Névjegy
+OpenSource: Nyílt forráskód
+DateFormat: Dátum formátum
+SettingsAppearanceTheme: Téma
+SettingsFilesAndFoldersShowFileExtensions: Fájlkiterjesztések megjelenítése ismert fájltípusoknál
+SettingsFilesAndFoldersShowHiddenItems: Rejtett fájlok és mappák megjelenítése
+ShowDotFiles: Ponttal kezdődő nevű fájlok megjelenítése
+Appearance: Megjelenés
+BackgroundColor: Háttérszín
+Advanced: Haladó
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Folytassa ott, ahol bezárta a programot
+SettingsOnStartupOpenANewTab:
+  Content: Új lap megnyitása
+SettingsOnStartupOpenASpecificPage:
+  Content: Megadott mappák megnyitása
+Desktop: Asztal
+Documents: Dokumentumok
+Downloads: Letöltések
+Name: Név
+Ascending: Növekvő
+Paste: Beillesztés
+BaseLayoutContextFlyoutNew:
+  Label: Új
+Properties: Tulajdonságok
+Open: Megnyitás
+OpenInNewTab: Megnyitás új lapon
+OpenInNewWindow: Megnyitás új ablakban
+Share: Megosztás
+Cut: Kivágás
+Delete: Törlés
+PinFolderToSidebar: Kitűzés az oldalsávra
+WelcomeDialog:
+  Title: Üdv a Files-ban!
+  PrimaryButtonText: Engedélyezés
+WelcomeDialogTextBlock:
+  Text: Kezdésként, engedélyt kell adnia a fájljai megjelenítéséhez. Ez meg fogja nyitni a Gépházat ahol ezt elvégezheti. Az engedély megadása és a Gépház bezárása után nyissa meg újra a Files-t.
+Display: Megjelenés
+EnterAnItemName: Adja meg az elem nevét
+RenameDialog:
+  PrimaryButtonText: Név beállítása
+LightTheme: Világos
+DarkTheme: Sötét
+Application: Alkalmazás
+SystemTimeStyle: Rendszer
+NewFolder: Új mappa
+NewFile: Új fájl
+EmptyFolder:
+  Text: Ez a mappa üres.
+Back: Vissza (Alt + Bal nyíl)
+Forward: Előre (Alt + Jobb nyíl)
+Up: Szülőmappába (Alt + Felfelé nyíl)
+Refresh: Frissítés
+ItemAlreadyExistsDialogContent: Ezzel a névvel már létezik elem ebben a mappában.
+ItemAlreadyExistsDialogSecondaryButtonText: Felülírás/összefésülés
+ItemAlreadyExistsDialogTitle: Az elem már létezik
+SetAsLockscreen: Beállítás zárolási képernyő háttérként
+SetAsAppBackground: Beállítás alkalmazás háttérképként
+AccessDeniedDeleteDialog:
+  Text: Nem sikerült törölni ezt az elemet
+DriveUnpluggedDialog:
+  Text: Helyezze be a meghajtót a fájlhoz való hozzáféréshez.
+  Title: Meghajtó leválasztva
+FileNotFoundDialog:
+  Text: A fájl, amit próbál megnyitni, már nem található ezen a helyen.
+  Title: A fájl nem található
+CannotAccessPropertiesTitle: A fájl tulajdonságait nem lehet megnyitni
+CannotAccessPropertiesContent: A fájl, amit próbál megnyitni, már nem található ezen a helyen.
+FolderNotFoundDialog:
+  Text: A mappa, amit próbál megnyitni, már nem található ezen a helyen.
+  Title: Ön törölte ezt a mappát?
+FileInUseByDialog:
+  Text: A fájl meg van nyitva a(z) {0} alkalmazásban, ezért jelenleg nem lehet hozzáférni
+FileInUseDialog:
+  Text: A fájl meg van nyitva egy másik alkalmazásban, ezért jelenleg nem lehet hozzáférni
+  Title: A fájl használatban van
+Layout: Elrendezés
+PropertiesDialogReadOnly:
+  Text: Írásvédett
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Most
+ErrorDialogUnsupportedOperation: Ez a művelet nem támogatott
+DriveFreeSpaceAndCapacity: 'Szabad hely: {0} / {1}'
+SendTo: Küldés
+FileNameTeachingTip:
+  Subtitle: 'A név nem tartalmazhatja a következő karaktereket: \ / : * ? " < > |'
+InvalidFilename:
+  Text: A megadott név érvénytelen
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# elem kiválasztva} other {# elem kiválasztva}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {elem} other {elem}}'
+Yes: Igen
+ConfirmEmptyBinDialogContent: Biztosan véglegesen törölni szeretné ezeket az elemeket?
+ConfirmEmptyBinDialogTitle: Lomtár ürítése
+ItemSizeBytes: bájt
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Futtatás másik felhasználóként
+PropertiesDriveItemTypesEquals: '{0} (mindegyik)'
+PropertiesDriveItemTypeDifferent: Különböző típusok
+PropertiesCombinedItemLocation: Minden az {0}-ben
+PropertiesDriveUsedSpace:
+  Text: 'Foglalt:'
+PropertiesDriveFreeSpace:
+  Text: 'Szabad:'
+PropertiesDriveCapacity:
+  Text: 'Kapacitás:'
+PropertiesDriveFileSystem:
+  Text: 'Fájlrendszer:'
+JumpListRecentGroupHeader: Előzmények
+TabStripDragAndDropUIOverrideCaption: Lap áthelyezése ide
+syncStatusColumn:
+  Header: Állapot
+SettingsPreferencesSystemDefaultLanguageOption: Rendszer
+NavigationToolbarVisiblePathNoResults: Nincs találat
+SubDirectoryAccessDenied: Egy megjeleníthető elem sem elérhető
+MoveToFolderCaptionText: 'Áthelyezés ide: {0}'
+CopyToFolderCaptionText: 'Másolás ide: {0}'
+CreateShortcut: Parancsikon létrehozása
+OpenFileLocation: Fájlt tartalmazó mappa megnyitása
+PropertiesShortcutItemArgs:
+  Text: 'Argumentumok:'
+PropertiesShortcutItemPath:
+  Text: 'Cél:'
+PropertiesShortcutItemType:
+  Text: 'Parancsikon típusa:'
+PropertiesShortcutTypeLink: Internet parancsikon
+General: Általános
+Shortcut: Parancsikon
+ShortcutWebLinkFileType: Internet parancsikon
+ShortcutCreateNewSuffix: '{0} - parancsikon'
+ExceptionNotificationBody: A Files egy problémába ütközött, amire a fejlesztők még nem készültek fel.
+ExceptionNotificationHeader: Valami hiba történt!
+ExceptionNotificationReportButton: Hiba jelentése
+InvalidItemDialogContent: A hivatkozott elem érvénytelen vagy nem elérhető.{0}Hibaüzenet:{0}{1}
+InvalidItemDialogTitle: Érvénytelen elem
+SettingsAboutVersionTitle: 'Verzió:'
+ShareDialogFailMessage: Nincs mit megosztani...
+ShareDialogMultipleItemsDescription: A kijelölt elemek meg lesznek osztva
+ShareDialogSingleItemDescription: A kijelölt elem meg lesz osztva
+ShareDialogTitle: '{0} megosztása'
+ShareDialogTitleMultipleItems: '{0} {1} megosztása'
+RenameError:
+  ItemDeleted:
+    Text: Az elem, amit át szeretne nevezni már nem létezik.
+    Title: Az elem már nem létezik
+  NameInvalid:
+    Text: A megadott név helytelen. Ellenőrizze és próbálja újra!
+    Title: Helytelen név
+  TooLong:
+    Text: A név hosszabb, mint ami maximálisan megengedett. Kérjük válasszon rövidebb nevet!
+    Title: Túl hosszú név
+ShowMoreOptions: További lehetőségek
+RestartNotificationText:
+  Text: A Files újraindítása szükséges a nyelv beállítás érvénybe lépéséhez. Szeretné most újraindítani?
+SponsorUsOnGitHub: Támogass minket GitHub-on
+AccessDeniedCreateDialog:
+  Text: Nem sikerült létrehozni a fájlt
+AccessDenied: Hozzáférés megtagadva
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Beállítás mint
+Cancel: Mégse
+AddDialog:
+  Title: Egy új elem létrehozása
+AddDialogDescription:
+  Text: Válasszon típust az alábbiak közül
+File: Fájl
+AddDialogListFileSubHeader: Üres fájl létrehozása
+Folder: Mappa
+AddDialogListFolderSubHeader: Új mappa létrehozása
+NavResfreshButton:
+  AutomationProperties:
+    Name: Könyvtár frissítése
+Language: Nyelv
+SettingsContextMenuOverflow: Shell bővítmények elemei áthelyezése almenübe
+ShowConfirmationWhenDeletingItems: Megerősítés kérése törlésekor
+PropertySaveErrorMessage:
+  Text: Probléma adódott a tulajdonságok mentése közben.
+PropertySaveErrorDialog:
+  Title: Hiba
+  SecondaryButtonText: Bezárás mindenképpen
+PropertyRatingText: Minősítés
+PropertyParsingPath: Elérési út
+PropertyItemTypeText: Típus
+PropertyTitle: Cím
+PropertySubject: Tárgy
+PropertyComment: Megjegyzés
+PropertyCopyright: Szerzői jog
+PropertyDateModified: Módosítás dátuma
+PropertyBitDepth: Bitmélység
+PropertyDimensions: Méretek
+PropertyHorizontalSize: Széleség
+PropertyVerticalSize: Magasság
+PropertyHorizontalResolution: Vízszintes felbontás
+PropertyVerticalResolution: Függőleges felbontás
+PropertyColorSpace: Színtér
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Nem meghatározott
+PropertyLongitudeDecimal: GPS hosszúság
+PropertyLatitudeDecimal: GPS szélesség
+PropertyAltitude: GPS magasság
+PropertyDateTaken: Készítés dátuma
+PropertyCameraManufacturer: Fényképezőgép gyártója
+PropertyCameraModel: Fényképezőgép modell
+PropertyExposureTime: Expozíciós idő
+PropertyFocalLength: Fókusztávolság
+PropertyAperture: Rekesz
+PropertyPeopleNames: Megjelenő személyek
+PropertyChannelCount: Csatornák száma
+PropertyFormat: Formátum
+PropertySampleRate: Mintavételi frekvencia
+PropertyAlbumArtist: Album előadója
+PropertyAlbumTitle: Album
+Artist: Előadó
+PropertyBeatsPerMinute: Ütem / perc
+PropertyComposer: Zeneszerző
+Conductor: Karmester
+PropertyDiscNumber: Lemez száma
+PropertyGenre: Műfaj
+PropertyTrackNumber: Szám száma
+PropertyDuration: Hossz
+PropertyFrameCount: Képkockák száma
+PropertyProtectionType: Védelem típusa
+PropertyAuthorUrl: Szerző weboldal
+PropertyContentDistributor: Tartalomszolgáltató
+PropertyDateReleased: Megjelenés dátuma
+PropertySeriesName: Sorozat
+PropertySeasonNumber: Évad
+PropertyEpisodeNumber: Epizód
+PropertyProducer: Producer
+PropertyPromotionUrl: Promóciós weboldal
+PropertyProviderStyle: Szolgáltatói műfaj
+PropertyPublisher: Kiadó
+PropertyThumbnailLargePath: Nagy indexkép elérési útja
+PropertyThumbnailLargeUri: Nagy indexkép URI
+PropertyThumbnailSmallPath: Kis indexkép elérési útja
+PropertyThumbnailSmallUri: Kis indexkép URI
+PropertyUserWebUrl: Személyes weboldal
+PropertyWriter: Író
+PropertyYear: Év
+PropertyContributor: Közreműködő
+PropertyLastAuthor: Legutóbb módosította
+PropertyRevisionNumber: Felülvizsgálat száma
+PropertyVersion: Verzió
+PropertyDateCreated: Létrehozás dátuma
+PropertyTotalEditingTime: Teljes szerkesztési idő
+PropertyTemplate: Sablon
+PropertyWordCount: Szavak száma
+PropertyCharacterCount: Karakterek száma
+PropertyLineCount: Sorok száma
+PropertyParagraphCount: Bekezdések száma
+PropertyPageCount: Oldalak száma
+PropertySlideCount: Diák száma
+PropertyFrameRate: Képkockasebesség
+PropertyEncodingBitrate: Kódolási bitráta
+PropertyPreviewAudioEncodingBitrate: Kódolási bitráta
+PropertyPreviewVideoEncodingBitrate: Kódolási bitráta
+Compression: Tömörítés
+PropertyFrameWidth: Szélesség
+PropertyFrameHeight: Magasság
+PropertyOrientation: Tájolás
+PropertySectionCore: Alap információk
+PropertySectionImage: Kép
+PropertySectionPhoto: Fotó
+PropertySectionGPS: GPS
+PropertySectionMedia: Média
+PropertySectionAudio: Audió
+PropertySectionMusic: Zene
+PropertySectionVideo: Videó
+Document: Dokumentum
+Address: Cím
+SelectionOptions: Kijelölési lehetőségek
+NavToolbarSelectionOptions:
+  Label: Kiválasztás
+RecycleBinItemAutomation: Lomtár elem
+ShortcutItemAutomation: Parancsikon elem
+Drives: Meghajtók
+PinToSidebarByDraggingCaptionText: Áthelyezés ide
+EjectNotificationHeader: Eszköz kiadása
+EjectNotificationBody: Az eszköz biztonságosan eltávolítható.
+EjectNotificationErrorDialogHeader: Hiba történt az eszköz kiadása közben
+EjectNotificationErrorDialogBody: Az eszköz jelenleg használatban van. Zárjon be minden programot, ablakot vagy oldalt, ami használhatja, majd próbálja újra.
+Eject: Kiadás
+DuplicateTab: Lap megkettőzése
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Lap áthelyezése új ablakba
+NewTab: Új lap
+ClearPropertiesFlyoutText:
+  Text: Némelyik tulajdonság személyes adatokat tartalmazhat.
+ClearPropertiesButton:
+  Content: Mindegyik tulajdonság eltávolítása
+OngoingTasksTeachingTip:
+  Subtitle: Itt ellenőrizheti a fájlműveletek állapotát
+  Title: Állapotközpont
+SearchPagePathBoxOverrideText: '"{0}" keresése itt: {1}'
+Details: Részletek
+No: Nem
+ShowProtectedSystemFiles: Az operációs rendszer védett fájljainak megjelenítése
+SyncFolderPreferencesAcrossDirectories: Egységes sorrend és elrendezés beállítások használata minden mappához
+SettingsContextMenu:
+  Text: Helyi menü testreszabása
+OriginalPath: Eredeti elérési út
+Add: Hozzáadás
+Edit: Szerkesztés
+Remove: Törlés
+SettingsMultitaskingAlwaysOpenDualPane: Lapok megnyitása osztott paneles módban
+ShowOpenInNewPane: Mappa megnyitása új panelen
+ShowCopyPath: Az elérési útvonal másolásának megjelenítése
+ShowCreateFolderWithSelection: Mappa létrehozásának lehetősége a kiválasztással
+ShowCreateShortcut: A parancsikon létrehozásának lehetősége
+NavigationToolbarNewPane:
+  Label: Új panel
+OpenInNewPane: Megnyitás új panelen
+FilesAndFolders: Fájlok és mappák
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Részletek (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Lista (Ctrl+Shift+2)
+DateDeleted: Törlés dátuma
+SidebarCloudDrives: Felhőtárhely
+Confirm: Létrehozás
+DesiredName: Munkaterület neve
+TogglePreviewPane: Előnézet elrejtése/megjelenítése
+ToggleDetailsPane: Részletek megjelenítése a panelben
+ToggleDetailsPaneDescription: A részleteket tartalmazó ablaktábla váltása a fájl alapvető tulajdonságainak megtekintéséhez
+ToggleInfoPane: Az információs ablaktábla be- és kikapcsolása
+ToggleInfoPaneDescription: Az információs ablaktábla be- és kikapcsolása a részlet/előnézet ablaktáblák megtekintéséhez
+DetailsPanePreviewNotAvaliableText: Nincs elérhető előnézet
+PropertyItemName: Név
+UnpinFolderFromSidebar: Levétel az oldalsávról
+Network: Hálózat
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Fájl részletei
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Fájl előnézet
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Kiválasztott fájl előnézeti panele
+Feedback: Visszajelzés
+CloudDriveSyncStatus_Online: Online elérhető
+Documentation: Dokumentáció
+CloudDriveSyncStatus_Offline: Offline is elérhető
+CloudDriveSyncStatus_PartialOffline: Offline részben elérhető
+CloudDriveSyncStatus_Sync: Szinkronizálás
+CloudDriveSyncStatus_Excluded: Kizárva a szinkronizálásból
+ItemSizeNotCalculated: Nem meghatározott
+CloudDriveSyncStatus_Unknown: Ismeretlen
+RenameFileDialog:
+  Text: Ha módosítja egy fájl kiterjesztését, akkor az használhatatlanná válhat. Végrehajtja a módosítást?
+DriveTypeCDRom: CD meghajtó
+DriveTypeCloudDrive: Felhőtárhely
+DriveTypeFixed: Helyi lemez
+DriveTypeFloppyDisk: Floppy meghajtó
+DriveTypeNetwork: Hálózati meghajtó
+DriveTypeNoRootDirectory: Objektumnév nélküli helyi lemez
+DriveTypeRam: RAM meghajtó
+DriveTypeRemovable: Eltávolítható meghajtó
+DriveTypeUnknown: Ismeretlen
+DriveTypeVirtualDrive: Virtuális meghajtó
+DateCreated: Létrehozás dátuma
+MoreOptions: További lehetőségek...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Hálózati meghajtó csatlakoztatása
+Pinned: Kitűzve
+SidebarLibraries: Könyvtárak
+NoItemSelected: Nincs elem kiválasztva
+PropertyItemTarget: Cél
+Arguments: Argumentumok
+Default: Alapértelmezett
+PropertyItemCount: Elemek száma
+ElevateConfirmDialog:
+  Title: Ehhez a művelethez rendszergazdai jogosultságok szükségesek
+  Content: Szeretné rendszergazdaként folytatni?
+ColumnsShortcutTooltip: Oszlopok (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Kitűzés a Start menübe
+UnpinItemFromStart:
+  Text: Levétel a Start menüből
+Library: Könyvtár
+LibraryLocations:
+  Text: 'Helyek:'
+SetAsDefaultSavePath: Beállítás alapértelmezett mentési útvonalként
+LibraryNoLocations:
+  Text: Nincsenek helyek
+ErrorInputEmpty: A mező nem lehet üres!
+ErrorNameInputRestrictedCharacters: 'A név nem tartalmazhatja a következő karaktereket: \ / : * ? " < > |'
+ErrorNameInputRestricted: Ez a név nem támogatott
+CreateLibraryErrorAlreadyExists: Már létezik könyvtár ezzel a névvel!
+OpenStorageSense: Tárterületsegéd megnyitása
+Copy: Másolás
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Áthelyezés
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Folytatás
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Végleges törlés
+PropertyISO: ISO sebesség
+ReplaceExisting: Célhelyen lévő fájl felülírása
+GenerateNewName: Új név létrehozása
+CreateFolderWithSelection: Mappa létrehozása a kijelölt elemekkel
+ItemType: 'Típus:'
+ToolTipDescriptionDate: 'Módosítás dátuma:'
+OpenWith: Társítás
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Fájl ikon
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Volt elérési út
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Elem típusa
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Módosítás dátuma
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Törlés dátuma
+Sort: Rendezés
+DateModifiedLowerCase: Módosítás dátuma
+OriginalFolder: Eredeti mappa
+Descending: Csökkenő
+ItemSizeText_Huge: Hatalmas
+ItemSizeText_VeryLarge: Nagyon nagy
+ItemSizeText_Large: Nagy
+ItemSizeText_Medium: Közepes
+ItemSizeText_Small: Kicsi
+ItemSizeText_Tiny: Apró
+Future: Jövő
+Today: Ma
+Yesterday: Tegnap
+EarlierThisWeek: Ezen a héten
+LastWeek: Előző héten
+EarlierThisMonth: Ebben a hónapban
+LastMonth: Előző hónapban
+EarlierThisYear: Ebben az évben
+LastYear: Utolsó év
+YearN: '{0}. Ev'
+GroupItemsCount_Singular: '{0} elem'
+GroupItemsCount_Plural: '{0} elem'
+ReopenClosedTab: Bezárt lap újranyitása
+Rename: Átnevezés
+Privacy: Adatvédelem
+TheRecycleBin: a Lomtár
+Canceling: Megszakítás
+Clear: Eltávolítás
+Widgets: Widgetek
+SyncStatus: Szinkronizálás állapota
+Security: Biztonság
+AdvancedPermissions: Speciális engedélyek
+Allow: Engedélyzés
+Deny: Megtagadás
+SecurityFullControlLabel:
+  Text: Teljes hozzáférés
+SecurityListDirectoryLabel:
+  Text: Mappa tartalmának listázása
+Modify: Módosítás
+SecurityPermissionsHeaderText: Jogok a {0}-hoz/hez/höz
+SecurityReadAndExecuteLabel:
+  Text: Olvasás és végrehajtás
+SecurityReadLabel:
+  Text: Olvasás
+SecurityUsersGroupLabel:
+  Text: Csoport vagy felhasználó neve
+Write: Írás
+SecurityUnknownAccount: Ismeretlen fiók
+SecurityCannotReadProperties:
+  Text: Nincs engedélye az elem biztonsági tulajdonságainak megtekintésére. Kattintson a "Speciális engedélyek" gombra a folytatáshoz.
+SecurityOwnerLabel:
+  Text: 'Tulajdonos:'
+SecurityUnknownOwnerText:
+  Text: Ismeretlen tulajdonos
+ExtractArchive: Archívum kicsomagolása
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Célhely megnyitása amikor kész
+BaseLayoutItemContextFlyoutExtractToChildFolder: 'Kicsomagolás ide: {0}\'
+SideBarCreateNewLibrary:
+  Text: Új könyvtár
+SideBarRestoreLibraries:
+  Text: Alapértelmezett könyvtárak visszaállítása
+DialogRestoreLibrariesSubtitleText: Biztosan visszaállítaná az alapértelmezett könytárakat? Minden fájl megmarad a tárhelyen.
+DialogRestoreLibrariesTitleText: Könyvtárak visszaállítása
+PropertyFileOwner: Tulajdonos
+SecuritySpecialLabel:
+  Text: Speciális
+Access: Hozzáférés
+SecurityAdvancedAppliesTo: Erre érvényes
+Principal: Rendszerbiztonsági tag
+SecurityAdvancedFlagsFilesLabel: fájlok
+SecurityAdvancedFlagsFolderLabel: ez a mappa
+SecurityAdvancedFlagsSubfoldersLabel: almappák
+Inherited: Örökölt
+Permissions: Engedélyek
+SecurityAdvancedCannotReadProperties:
+  Text: Nincs engedélye az objektum biztonási tulajdonságainak megtekintéséhez. Az objektum tulajdonosságának átvételét megpróbálhatja.
+SecurityAdvancedFolderFiles:
+  Text: Ez a mappa, és fájlok
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Ez a mappa, almammák és fájlok
+SecurityAdvancedOnlyFiles:
+  Text: Csak fájlok
+SecurityAdvancedOnlySubfolders:
+  Text: Csak almappák
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Csak almappák és fájlok
+SecurityAdvancedOnlyThisFolder:
+  Text: Csak ez a mappa
+SecurityAdvancedFolderSubfolders:
+  Text: Ez a mappa, és almappák
+SecurityAppendDataLabel:
+  Text: Hozzáfűzés
+SecurityChangePermissionsLabel:
+  Text: Engedély megváltoztatása
+SecurityCreateDirectoriesLabel:
+  Text: Mappák létrehozása
+SecurityCreateFilesLabel:
+  Text: Fájlok létrehozása
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Almappák és fájlok törlése
+SecurityExecuteFileLabel:
+  Text: Fájlok futtatása
+SecurityReadAttributesLabel:
+  Text: Attribútumok olvasása
+SecurityReadDataLabel:
+  Text: Adat olvasása
+SecurityReadExtendedAttributesLabel:
+  Text: Kiterjesztett attribútumok olvasása
+SecurityReadPermissionsLabel:
+  Text: Engedélyek olvasása
+SecurityTakeOwnershipLabel:
+  Text: Tulajdonossá tétel
+SecurityTraverseLabel:
+  Text: Mappa megtekintése
+SecurityWriteAttributesLabel:
+  Text: Attribútumok írása
+SecurityWriteDataLabel:
+  Text: Adat írása
+SecurityWriteExtendedAttributesLabel:
+  Text: Kiterjesztett attribútumok írása
+SecurityAdvancedInheritedConvert:
+  Text: Örökölt engedélyek határozottá alakítása
+SecurityAdvancedInheritedEnable:
+  Text: Öröklés engedélyezése
+SecurityAdvancedInheritedRemove:
+  Text: Örökölt engedélyek megszüntetése
+SecurityAdvancedReplaceChildPermissions:
+  Text: Almappák engedélyeinek visszaállítása
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Almappák engedélyeinek lecserélése ennek az objektum engedélyeivel
+NavigationToolbarClosePane:
+  Label: Panel bezárása
+EnterCompactOverlay: Kompakt nézet
+ExitCompactOverlay: Kilépés a kompakt nézetből
+PropertyFileDescription: Fájl leírása
+PropertyCompany: Cég
+PropertyLanguage: Nyelv
+PropertyTrademarks: Védjegyek
+PropertyFileVersion: Fájl verzió
+PreviewPaneLoadCloudItemButton:
+  Text: Teljes felbontás
+  ToolTipService:
+    ToolTip: Elem letöltése a felhőből, majd előnézet betöltése
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Tömörítetlen méret
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: '{0} elrejtése'
+AddFile: Fájl hozzáadása
+ConsentDialogTitle: Frissítések elérhetőek
+ConsentDialogContent: A frissítés készen áll a telepítésre
+Close: Bezárás
+ConsentDialogPrimaryButtonText: Frissítés
+Home: Kezdőlap
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Az archívum kicsomagolása sikeresen befelyeződött.
+ExtractingArchiveText: Archívum kicsomagolása
+ExtractingCompleteText: Kicsomagolás befelyezve!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Tartalmazó mappa megnyitása
+Unknown: Ismeretlen
+EditTags: Címkék módosítása
+PropertyPartOfSet: Gyűjtemény eleme
+InsertDiscDialog:
+  OpenDriveButton: Meghajtó megnyitása
+  Text: Helyezzen be egy lemezt a(z) {0} meghajtóba
+  Title: Helyezzen be egy lemezt
+OK: OK
+AskCredentialDialog:
+  Title: Hitelesítés szükséges
+CredentialDialogAnonymous:
+  Content: Anonim
+CredentialDialogDescription:
+  Text: 'Adja meg a hitelesítési adatait:'
+CredentialDialogUserName:
+  PlaceholderText: Felhasználónév
+NoSearchResultsFound: Nincs a keresésnek megfelelő elem
+OpenLogLocation: Naplózás helyének megnyitása
+LinkToFolderCaptionText: 'Parancsikon létrehozása itt: {0}'
+Columns: Oszlopok
+Tiles: Lista
+OpenFoldersInNewTab: Mappák megnyitása új lapon
+StatusCenter: Állapotközpont
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Létrehozás dátuma
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Méret
+ExperimentalFeatureFlags: Kísérleti funkciók
+HelpAndSupport: Súgó és támogatás
+SubmitFeatureRequest: Funkció kérés küldése
+SubmitBugReport: Hibabejelentés küldése
+SettingsSetAsDefaultFileManager: A Files beállítása alapértelmezett fájlkezelőként
+SettingsSetAsOpenDialog: A Files használata Open File Dialog
+Tag: Címkék
+SettingsOpenItemsWithOneClick: Elemek megnyitása egy kattintással
+FolderPath: Mappa útvonala
+ExportSettings: Beállítások exportálása
+ImportSettings: Beállítások importálása
+SettingsImportErrorDescription: Nem sikerült a beállítások importálása, a fájl sérült lehet.
+SettingsImportErrorTitle: Hiba történt az importálás közben
+EmptyRecycleBin: Lomtár ürítése
+Sidebar: Oldalsáv
+ChooseCustomIcon: Egyéni mappa ikon
+Customization: Testreszabás
+RestoreDefault: Visszaállítás
+OpenTabInExistingInstance: Új lap megnyitása egy meglévő ablakban amikor másik alkalmazásból nyitja meg a Files-t
+StartupSettings: Indítás
+Compatibility: Kompatibilitás
+None: Egyik sem
+CompatibilityOnWindowsLogin: Windows belépéskor
+CompatibilityOnProgramStart: Program indításakor
+System: Rendszer
+CompatibilitySystemEnhanced: Rendszer (bővített)
+CompatibilityReducedColorModeColor16bit: 16 bites (65536) szín
+CompatibilityReducedColorModeColor8bit: 8 bites (256) szín
+CompatibilityDisableFullscreenOptimizations: Teljes képernyős optimalizálás letiltása
+CompatibilityRunIn640x480Resolution: Futtatás 640 x 480-as képernyőfelbontásban
+CompatibilityOverrideHighDPIBehavior: Nagy DIP-beállítások módosítása
+CompatibilityReducedColorMode: Csökkentett színmód
+CompatibilityRegisterThisProgramForRestart: Regisztráld ezt a programot az újraindításhoz
+RunAsAdministrator: Futtatás rendszergazdaként
+CompatibilityRunTroubleshooter: Kompatibilitási hibaelhárító futtatása
+CompatibilityUseDPISettings: A főmonitor DPI-beállításainak használata
+CompatibilityDoNotAdjustDPI: Ne állítsa be a DPI-t
+CompatibilityDoNotOverrideDPI: Ne írja felül a DPI-t
+CompatibilityMode: Kompatibilis üzemmód
+CompatibilityNoReducedColor: Nincs csökkentett szín
+ThirdPartyLicenses: Harmadik fél licencei
+SettingsSetAsDefaultFileManagerDescription: Ez az opció beállításjegyzék értékeket módosít és nem várt következményei is lehetnek az eszközén. Csak saját felelősségre engedélyezze.
+FolderWidgetCreateNewLibraryDialogTitleText: Könyvtár létrehozása
+FolderWidgetCreateNewLibraryInputPlaceholderText: A könyvtár neve
+CalculateFolderSizes: Mappák méretének számolása
+RecentFiles: Előzmények
+SettingsOpenInLogin: A Files futtatása a Windows indulásakor
+Attributes: Attribútumok
+Hidden: Rejtett
+MoreDetails: Részletek
+ReadOnly: Írásvédett
+CleanupDrive: Meghajtó tárterület kezelése
+Type: Típus
+Bytes: Méret bájtokban
+Extract: Kicsomagolás
+ExtractFiles: Fájlok kicsomagolása
+ExtractHere: Kicsomagolás ide
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: 'Kicsomagolás ide: {0}'
+RunScript: Szkript futtatása
+RunWithPowerShell: Futtatás PowerShell használatával
+ShowFolderSizesWarning: A mappák méretek számolása erőforrás-igényes és a processzorhasználat növekedésével járhat.
+RotateLeft: Balra forgatás
+RotateRight: Jobbra forgatás
+Install: Telepítés
+CloseTabsToTheLeft: Balra lévő lapok bezárása
+CloseTabsToTheRight: Jobbra lévő lapok bezárása
+CloseOtherTabs: Többi lap bezárása
+Music: Zene
+Pictures: Képek
+UpdateFiles: Frissítés érhető el
+FileTags: Címkék
+Universal: Univerzális
+DateFormatSample: 'pl: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Miniatűrök megjelenítése
+Retry: Újra
+ErrorDialogUnsupportedMoveOperation: Itt nem támogatott az áthelyezés művelet. Szeretné inkább másolni az elemeket?
+HiddenItems: Rejtett elemek
+Custom: Egyéni
+SetAsSlideshow: Beállítás asztali háttérképként
+SizeAllColumnsToFit: Oszlopok méretezése a tartalomhoz
+Adaptive: Adaptív elrendezés
+AdaptiveShortcutTooltip: Adaptív (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Alternatív adatfolyamok megjelenítése
+Behaviors: Működés
+ReviewFiles: Értékelés
+ReviewFilesContent: Szeretné értékelni az alkalmazást?
+SetAsBackgroundFlyout: Beállítás háttérképként
+SetAsBackground: Beállítás asztali háttérképként
+SetAsDefault: Beállítás alapértelmezettként
+DateColumn: Dátum
+DateCreatedColumn: Létrehozás dátuma
+SizeColumn: Méret
+TagColumn: Címkék
+TypeColumn: Típus
+Lockscreen: Zárolási képernyő
+OpenFolderWithOneClickColumnsLayout: Mappák megnyitása egy kattintással Oszlopok nézetben
+OpeningItems: Elemek megnyitása
+Compress: Tömörítés
+SelectFilesAndFoldersOnHover: Fájlok és mappák kiválasztása kattintás nélkül
+ConfirmRestoreBinDialogContent: Biztosan vissza szeretné állítani a Lomtárban lévő összes elemet?
+ConfirmRestoreBinDialogTitle: Összes elem visszaállítása
+ConfirmRestoreSelectionBinDialogContent: Biztosan vissza szeretne állítani {0} kijelölt elemet?
+ConfirmRestoreSelectionBinDialogTitle: Kiválasztott visszaállítása
+RestoreAllItems: Összes elem visszaállítása
+Restore: Visszaállítás
+ShortcutCannotBeOpened: A parancsikon nem nyitható meg
+DeleteShortcutDescription: Nem található az elem, amire a parancsikon mutat ({0}). Szeretné eltávolítani a parancsikont?
+AccessDeniedToFolder: Nincs engedélyed hozzáférni ehhez a mappához.
+ArchivePassword: Jelszó
+ExtractToPath: Célmappa
+SortingAndGrouping: Rendezés és csoportosítás
+CreateArchive: Archívum létrehozása
+Create: Létrehozás
+CreateNamedArchive: '{0} létrehozása'
+EnterName: Adjon meg egy nevet
+CompressionLevel: Tömörítési szint
+CompressionLevelUltra: Nagyon magas
+CompressionLevelHigh: Magas
+CompressionLevelNormal: Normál
+CompressionLevelLow: Alacsony
+CompressionLevelFast: Gyors
+CompressionLevelNone: Nincs
+SplittingSize: Max. fájlméret
+Do not split: Feldarabolás nélkül
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Titkosítás
+Password: Jelszó
+Format: Formátum
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Szinkronizálás állapota
+GroupBy: Csoportosítás
+SortBy: Rendezés
+GroupInDescendingOrder: Csoportosítás sorrendjének megfordítása
+SortInDescendingOrder: Rendezés sorrendjének megfordítása
+NewShortcutDialogTitle: Új parancsikon létrehozása
+NewShortcutDialogDescription: Parancsikont hozhat létre helyi, vagy hálózaton keresztül elérhető programokhoz, fájlokhoz, mappákhoz, számítógépekhez és internetes címekhez.
+NewShortcutDialogPrompt: 'Adja meg az elem helyét:'
+AddDialogListShortcutSubHeader: Parancsikon létrehozása
+RecentFilesDisabledOnWindowsWarning: Az előzmények jelenleg le vannak tiltva a Windows Fájlkezelőben.
+EditSettingsFile: Beállítási fájl szerkesztése
+WhatsNew: Újdonságok
+CannotCreateShortcutDialogTitle: Rendszergazdai jogosultságok szükségesek parancsikon lérehozásához ezen a helyen
+CannotCreateShortcutDialogMessage: Szeretné inkább az Asztalon létrehozni a parancsikont?
+ErrorDialogNameNotAllowed: A megadott név érvénytelen
+Settings: Beállítások
+DoubleClickBlankSpaceToGoUp: Szülőmappába navigálás üres területen dupla kattintással
+ViewMore: Továbbiak megtekintése
+ShowEditTagsMenu: Címkék módosítása
+ShowCompressionOptions: Tömörítési beállítások megjelenítése
+ShowSendToMenu: Menühöz küldés mutatása
+ShowOpenInNewTab: Mappa megnyitása új lapon
+ShowOpenInNewWindow: Mappa megnyitása új ablakban
+QuickAccess: Gyors elérés
+NetworkAuthenticationDialogMessage: Adja meg {0} eléréséhez szükséges adatokat
+NetworkAuthenticationDialogTitle: Hálózati hitelesítő adatok megadása
+NetworkAuthenticationSaveCheckbox: Hitelesítőadatok megjegyzése
+NetworkFolderErrorDialogTitle: Hálózati mappa hiba
+AppVersion: Alkalmazás verzió
+WindowsVersion: Windows verzió
+Always: Mindig
+PermanentDeletionOnly: Csak végleges törléskor
+Never: Soha
+TagColor: Címke színe
+NewTag: Új címke
+CreateNewTag: Új címke létrehozása
+Loading: Betöltés...
+ContextMenuOptions: Helyi menü elemek
+ShowFileExtensions: Fájlkiterjesztések
+ShowHiddenItems: Rejtett fájlok és mappák
+FormatDriveText: Formázás...
+Help: Súgó
+FullScreen: Teljes képernyő
+ConfirmDeleteTag: Biztosan törölni szeretné ezt a címkét?
+PlayAll: Összes lejátszása
+Height: Magasság
+Width: Szélesség
+ApplyToAllConflictingItems: Művelet végrehajtása minden ütközés esetén
+OpenTerminal: Megnyitás a Windows Terminálban
+OpenTerminalAsAdmin: Megnyitás a Windows Terminálban rendszergazdaként
+Save: Mentés
+MultiSelect: Több elem kijelölése
+ReorderSidebarItemsDialogText: Oldalsáv átrendezése
+Hashes: Hash-ek
+CalculationError: Hiba történt a számolás során
+CalculationErrorFileIsOpen: Nem sikerült kiszámítani a hash-t, kérem zárja be a fájlt és próbálkozzon újra.
+CalculationOnlineFileHashError: A hash-ek nem érhetők el online fájloknál
+Algorithm: Algoritmus
+HashValue: Hash érték
+SelectHashesToShow: Megjelenítendő hash típusok
+Calculating: Számolás...
+JumpListPinnedGroupHeader: Rögzített elemek
+DecreaseSize: Kicsinyítés
+IncreaseSize: Nagyítás
+ToggleSortDirection: Rendezés irányának megfordítása
+InvalidTagNameWarning: Érvénytelen név
+TagNameRules: A név nem lehet üres és nem kezdődhet, vagy fejeződhet be kötőjellel.
+Videos: Videók
+LaunchPreviewPopup: Előnézet indítása
+ToggleCompactOverlay: Kompakt mód ki-/bekapcsolása
+OpenHelpDescription: Online sugóoldal megnyitása a böngészőben
+ToggleFullScreenDescription: Teljes képernyő
+EnterCompactOverlayDescription: Kompakt nézet
+ExitCompactOverlayDescription: Kilépés a kompakt nézetből
+ToggleCompactOverlayDescription: Kompakt mód ki-/bekapcsolása
+SearchDescription: Lépjen a keresőmezőbe
+ToggleShowHiddenItemsDescription: Rejtett elemek megjelenítésének ki-/bekapcsolása
+ToggleShowFileExtensionsDescription: Fájlkiterjesztések megjelenítésének ki-/bekapcsolása
+TogglePreviewPaneDescription: Az előnézeti ablaktábla be- és kikapcsolása a fájlelőnézetek megtekintéséhez
+ToggleSidebarDescription: Oldalsáv megjelenítésének ki-/bekapcsolása
+CopyItemDescription: Vágólapra másolás
+CopyPathDescription: A kiválasztott elemek elérési útjának másolása a vágólapra
+CopyPathWithQuotesDescription: A kiválasztott elemek elérési útjának másolása a vágólapra idézőjelekkel
+CutItemDescription: Vágólapra áthelyezés
+PasteItemDescription: Elem(ek) beillesztése a vágólapról az aktuális mappába
+PasteItemToSelectionDescription: Elem(ek) beillesztése a vágólapról a kiválasztott mappába
+DeleteItemDescription: Elem(ek) törlése
+CreateFolderDescription: Új mappa létrehozása
+CreateShortcutDescription: Új parancsikon(ok) létrehozása a kiválasztott elem(ek)hez
+CreateShortcutFromDialogDescription: Új parancsikon létrehozása
+EmptyRecycleBinDescription: Lomtár ürítése
+FormatDriveDescription: A "Meghajtó Formázása" menü megnyitása a kiválasztott elemhez
+RestoreRecycleBinDescription: A kiválasztott elem(ek) visszaállítása a lomtárból
+RestoreAllRecycleBinDescription: Minden elem visszaállítása a lomtárból
+OpenItemDescription: Elem(ek) megnyitása
+OpenItemWithApplicationPickerDescription: Elem(ek) megnyitása a kiválasztott alkalmazással
+OpenParentFolderDescription: A keresett elem forrás mappájának megnyitása
+RefreshItemsDescription: Oldal tartalmának frissítése
+RenameDescription: Kiválasztott elem átnevezése
+SelectAllDescription: Összes elem kiválasztása
+InvertSelectionDescription: Elem kiválasztás invertálása
+ClearSelectionDescription: Elem kiválasztás törlése
+ToggleSelectDescription: Elem kiválasztás ki-/bekapcsolása
+ShareItemDescription: Kiválasztott fájl(ok) megosztása másokkal
+PinToStartDescription: Kiválasztott elem(ek) kitűzése a Start menübe
+UnpinFromStartDescription: Elem(ek) levétele a Start menüből
+PinFolderToSidebarDescription: Mappa(k) az oldalsávra tűzése
+UnpinFolderFromSidebarDescription: Mappá(k) levétele az oldalsávról
+SetAsWallpaperBackgroundDescription: Kiválasztott kép beállítása háttérképként
+SetAsSlideshowBackgroundDescription: Kiválasztott kép beállítása diavetítésként
+SetAsLockscreenBackgroundDescription: Kiválasztott kép beállítása képernyővédőként
+SetAsAppBackgroundDescription: Kiválasztott kép beállítása alkalmazás háttérképként
+InstallFontDescription: Kiválasztott betűtípus(ok) letöltése
+InstallInfDriverDescription: Driver(ek) letöltése a kiválasztott inf fájl(okkal/lal)
+InstallCertificateDescription: Kiválasztott tanusítvány(ok) letöltése
+RunAsAdminDescription: Kiválasztott alkalmazás futtatása rendszergazdaként
+RunAsAnotherUserDescription: Kiválasztott alkalmazás futtatása adminisztrátorként
+RunWithPowershellDescription: Kiválasztott PowerShell script futtatása
+LaunchPreviewPopupDescription: Előnézet elindítása felugró ablakban
+CompressIntoArchiveDescription: Archívum létrehozása a kiválasztott elem(ek)-el
+CompressIntoSevenZipDescription: 7z archívum létrehozása a kiválasztott elem(ek)-el
+CompressIntoZipDescription: ZIP archívum létrehozása a kiválasztott elem(ek)-el
+DecompressArchiveDescription: Eemek kicsomagolása a kiválasztott archívum(ok)-ból bármely mappába
+DecompressArchiveHereDescription: Eemek kicsomagolása a kiválasztott archívum(ok)-ból az aktuális mappába
+DecompressArchiveToChildFolderDescription: Eemek kicsomagolása a kiválasztott archívum(ok)-ból egy új mappába
+RotateLeftDescription: Kiválasztott kép(ek) elforgatása balra
+RotateRightDescription: Kiválasztott kép(ek) jobbra forgatása
+OpenSettingsDescription: Beállítások oldal megnyitása
+OpenTerminalDescription: Mappa megnyitásba terminálban
+OpenTerminalAsAdminDescription: Mappa megnyitása terminálban rendszergazdaként
+LayoutDecreaseSizeDescription: Az elem méretének csökkentése az aktuális nézetben
+LayoutIncreaseSizeDescription: Az elem méretének növelése az aktuális nézetben
+LayoutDetailsDescription: Váltás a részletetes nézetre
+LayoutTilesDescription: Váltás a csempés nézetre
+LayoutListDescription: Váltás lista nézetre
+List: Lista
+Grid: Rács
+LayoutGridDescription: Váltás rács nézetre
+LayoutColumnsDescription: Váltás az oszlopos nézetre
+LayoutAdaptiveDescription: Adaptív nézet
+SortByNameDescription: Elemek rendezése név alapján
+SortByDateModifiedDescription: Elemek rendezése módosítás ideje alapján
+SortByDateCreatedDescription: Elemek rendezése létrehozás ideje alapján
+SortBySizeDescription: Elemek rendezése méret alapján
+SortByTypeDescription: Elemek rendezése típusok alapján
+SortBySyncStatusDescription: Elemek rendezése szinkronizálási státusz alapján
+SortByTagDescription: Elemek rendezése címkék alapján
+SortByOriginalFolderDescription: Elemek rendezése eredeti mappa alapján
+SortByDateDeletedDescription: Elemek rendezése törlés ideje alapján
+SortAscendingDescription: Elemek rendezése betűrend szerint
+SortDescendingDescription: Elemek rendezése nem betűrend szerint
+ToggleSortDirectionDescription: Rendezés irányának megfordítása
+GroupByNoneDescription: Elemek megjelenítése csoportosítás nélkül
+GroupByNameDescription: Elemek csoportosítása név alapján
+GroupByDateModifiedDescription: Elemek csoportosítása módosítás ideje alapján
+GroupByDateCreatedDescription: Elemek csoportosítása létrehozás ideje alapján
+GroupBySizeDescription: Elemek csoportosítása méret alapján
+GroupByTypeDescription: Elemek csoportosítása típus alapján
+GroupBySyncStatusDescription: Elemek csoportosítása szinkronizálási státusz alapján
+GroupByTagDescription: Elemek csoportosítása címkék alapján
+GroupByOriginalFolderDescription: Elemek csoportosítása eredeti mappa alapján
+GroupByDateDeletedDescription: Elemek csoportosítása törlés ideje alapján
+GroupByFolderPathDescription: Elemek csoportosítása elérési útvonal alapján
+GroupAscendingDescription: Elemek csoportosítása betűrend szerint
+GroupDescendingDescription: Elemek csoportosítása nem betűrend szerint
+ToggleGroupDirectionDescription: Csoportosítás irányának módosítása
+NewTabDescription: Új lap megnyitása
+NavigateBackDescription: Visszalépés a navigációs történetben
+NavigateForwardDescription: Előrelépés a navigációs történetben
+NavigateUpDescription: Felfelé lépés
+DuplicateCurrentTabDescription: Aktuális lap megkettőzése
+DuplicateSelectedTabDescription: Kiválasztott lap megkettőzése
+CloseTabsToTheLeftCurrentDescription: Lapok bezárása az aktuális lap bal oldalán
+CloseTabsToTheLeftSelectedDescription: Lapok bezárása a kiválasztott lap bal oldalán
+CloseTabsToTheRightCurrentDescription: Lapok bezárása az aktuális lap jobb oldalán
+CloseTabsToTheRightSelectedDescription: Lapok bezárása a kiválasztott lap job oldalán
+CloseOtherTabsCurrentDescription: Lapok bezárása az aktuális lapon kívül
+CloseOtherTabsSelectedDescription: A kiválasztotton kívüli lapok bezárása
+ReopenClosedTabDescription: Utolsó bezárt lap újranyitása
+PreviousTabDescription: Mozgatás az előző lapra
+NextTabDescription: Mozgatás a következő lapra
+CloseSelectedTabDescription: Aktuális lap bezárása
+OpenNewPaneDescription: Új ablaktábla nyitása
+ClosePaneDescription: Jobb oldali ablak bezárása
+FocusLeftPane: Fókusz bal oldalra
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Oldalsáv átállítása
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Belép
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Szóköz
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Törlés
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Insert
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Balra
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Jobbra
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Le
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Fel
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Kezdőlap
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Alvó üzemmód
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Eltávolítás
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Nyomtatás
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Súgó
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Alkalmazás
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Alkalmazás1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Alkalmazás2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Posta
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Kezdőlapra
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Vissza
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Tovább
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Böngészőfrissítés
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: Böngészőleállítása
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Keresés
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Kedvencek
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: ElőzőSzám
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: KövetkezőSzám
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelect
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Némítás
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: HangerőFel
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: HangerőLa
+Change: Módosítás
+ToggleSelect: Kijelölés megfordítása
+ShowFileExtensionWarning: Figyelmeztetés fájl kiterjesztés módosításakor
+ThisPC: Ez a gép
+RecycleBin: Lomtár
+Untagged: Jelöletlen
+PreviousTab: Mozgatás az előző lapra
+NextTab: Mozgatás a következő lapra
+CloseTab: Jelenlegi lap bezárása
+EditPath: Útvonal szerkesztése
+Redo: Újra
+Undo: Visszavonás
+InvalidLocation: Érvénytelen útvonal
+CopyFileWithoutProperties: Biztos, hogy ezeket a fájlokat a tulajdonságaik nélkül szeretnéd másolni?
+FilePropertiesCannotBeCopied: Ezek a fájlok olyan tulajdonságokkal rendelkeznek, amelyeket nem lehet átmásolni az új helyre
+FilePropertiesCannotBeMoved: Ezek a fájlok olyan tulajdonságokkal rendelkeznek, amelyeket nem lehet áthelyezni az új helyre
+MoveFileWithoutProperties: Biztos, hogy ezeket a fájlokat a tulajdonságaik nélkül szeretnéd áthelyezni?
+ShowCheckboxesWhenSelectingItems: Jelölőnégyzetek megjelenítése elemek kiválasztásakor
+EditPathDescription: Fókuszálás az útvonalra
+AddItemDescription: Új elem létrehozása
+SecurityNoAccessControlEntriesText: Nincs olyan csoport vagy felhasználó, amely hozzáférhetne ehhez az objektumhoz. Az objektum tulajdonosa azonban engedélyeket adhat ki.
+OpenFileLocationDescription: Elem helyének megnyitása
+DeletePermanently: Törlés végelgesen
+DeleteItemPermanentlyDescription: Elem(ek) végleges törlése
+PlayAllDescription: A kiválasztott médiafájlok lejátszása
+UndoDescription: Előző tevékenység visszavonása
+RedoDescription: Előző tevékenység újra
+Location: 'Hely:'
+GroupByMonthDescription: Elemek csoportosítása hónap alapján
+GroupByYearDescription: Elemek csoportosítása év alapján
+Month: Hónap
+Day: Nap
+ToggleGroupByDateUnitDescription: Csoportosítási egység váltása dátum szerinti csoportosításhoz
+ToggleGroupingUnit: Csoportosítási egység váltása
+Year: Év
+GroupByDateUnit: Dátum csoportosítás ez alapján
+GroupByDateCreatedDayDescription: Elemek csoportosítása létrehozás napja alapján
+GroupByDateCreatedMonthDescription: Elemek csoportosítása létrehozás hónapja alapján
+GroupByDateCreatedYearDescription: Elemek csoportosítása létrehozás éve alapján
+GroupByDateDeletedDayDescription: Elemek csoportosítása törlés napja alapján
+GroupByDateDeletedMonthDescription: Elemek csoportosítása törlés hónapja alapján
+GroupByDateDeletedYearDescription: Elemek csoportosítása törlés éve alapján
+GroupByDateModifiedDayDescription: Elemek csoportosítása módosítás napja alapján
+GroupByDateModifiedMonthDescription: Elemek csoportosítása módosítás hónapja alapján
+GroupByDateModifiedYearDescription: Elemek csoportosítása módosítás éve alapján
+SecurityClickAdvancedPermissions: A folytatáshoz kattintson a „Speciális engedélyek” lehetőségre.
+SecurityRequireReadPermissions: Az elem tulajdonságainak megtekintéséhez olvasási jogosultsággal kell rendelkeznie.
+SecuritySuggestToTakeOwnership: Ha meg szeretné próbálni átvenni az elem tulajdonjogát, beleértve a tulajdonságainak megtekintésére vonatkozó engedélyt, kattintson a fenti Módosítás gombra.
+SecurityUnableToDisplayPermissions: Az engedélyek nem jeleníthetők meg.
+StashChanges: "Változtatások meghagyása a következőn: '{0}'"
+DiscardChanges: Változtatások elvetése
+BringChanges: "Változtatások áthozása a következőre: '{0}'"
+UncommittedChanges: Ezen az ágon nem publikált változtatások vannak. Mit szeretnél csinálni velük?
+SwitchBranch: Ág átváltása
+Branches: Ágak
+Switch: Átkapcsolás
+NewBranch: Új ág
+InvalidBranchName: Érvénytelen ág név
+CreateBranch: Ág létrehozása
+CreateNewBranch: Ág létrehozása
+BasedOn: Alapján
+SwitchToNewBranch: Váltás az új ágra
+CreateFolderWithSelectionDescription: Új mappa létrehozása a kiválasztott elem(ek)-el
+OpenProperties: Tulajdonságok megnyitása
+OpenPropertiesDescription: Tulajdonságok ablak megnyitása
+Locals: Helyiek
+Remotes: Távoliak
+ImproveTranslation: Fordítás a Crowdin-en
+GitFetch: Lekérés
+GitPull: Lehúzás
+GitFetchDescription: Git fetch futtatása
+GitPullDescription: Git pull futtatása
+Preview: Előnézet
+GitStatus: Git státusz
+GitError: Git hiba
+PullTimeoutError: git lehúzás hiba
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (több érték)
+Author: Szerző
+DateCommitted: Publikálás dátuma
+CommitMessage: Publikálás üzenete
+CommitSha: Publikálás SHA
+Git: Git
+Acrylic: Akril
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Háttér típus
+Solid: Szolid
+ManageBranches: Ágak kezelése
+Push: Push
+GitPushDescription: Git push futtatása
+GitSync: Szinkronizálás
+GitSyncDescription: Futtasd a git pull-t, majd a git push-t
+GitSyncStatusExtendedInfo: '{0} kimenő / {1} bejövő commitok'
+ConnectGitHub: Csatlakozás a GitHubhoz
+ConnectGitHubDescription: Írd be a következő kódot az alábbi linken, hogy elkezdhess dolgozni a GitHub tárolókkal.
+CannotReachGitHubError: A Files jelenleg nem éri el a GitHubot.
+OpenInVSCode: Megnyitás VS Codeban
+OpenInVSCodeDescription: Az aktuális könyvtár megnyitása a Visual Studio Code-ban
+OpenRepoInVSCode: Megnyitás VS Code-ban
+OpenRepoInVSCodeDescription: Git tároló főmappájának megnyitása Visual Studio Code-ban
+CopyCode: Kód másolása
+Added: Hozzáadva
+Deleted: Törölve
+Modified: Módosítva
+Untracked: Nem követett
+UnableToDisplayOwner: Az aktuális tulajdonos megjelenítése nem lehetséges.
+AuthorizationSucceded: Nagyszerű! Most már jogosult vagy.
+InitRepo: Új git tároló
+InitRepoDescription: Git tároló inicializálása
+GitOriginRepositoryName: Távoli tároló neve
+GitCurrentBranch: Jelenlegi ág
+PathColumn: Elérés oszlop
+SortByPathDescription: Elemek rendezése elérési útvonal szerint
+OpenDirectoryInNewPaneDescription: Mappa megnyitása új panelen
+OpenDirectoryInNewTabDescription: Mappa megnyitása új lapon
+OpenInNewWindowDescription: Mappa megnyitása új ablaban
+OpenAllTaggedItems: Összes megnyitása
+OpenAllTaggedItemsDescription: Összes kijelölt elem megnyitása
+#{0} is the drive letter.
+DriveWithLetter: '{0} meghajtó'
+InvalidCommand: Érvénytelen parancs
+InvalidCommandContent: Nem ismertük fel a '{0}' parancsot.
+CommandNotExecutable: A parancs nem futtatható
+CommandNotExecutableContent: A '{0}' parancs nem áll készen a végrehajtásra.
+CommandPalette: Parancspanel
+OpenCommandPaletteDescription: Parancspanel megnyitása
+ShortcutItemWorkingDir: 'Kezdés:'
+TurnOnBitLocker: BitLocker bekapcsolása
+ManageBitLocker: BitLocker kezelése
+CopyFailureFileToLarge: A következő elemek túl nagyok ahhoz, hogy erre a meghajtóra másolhatók legyenek
+FormatDrive: Meghajtó formázása
+DontShowAgain: Ne jelenjen meg újra
+FilesRunningAsAdmin: A Files rendszergazdaként fut
+FilesRunningAsAdminContent: A Windows és a WinAppSdk korlátozása miatt a drag & drop nem érhető el, ha a Files rendszergazdaként fut. Ha szeretné használni ezt a funkciót, akkor a korlátozást úgy tudja megkerülni, hogy a Start menüből megnyitja az UAC (User Account Control - Felhasználói fiókvezérlés) programot, és kiválasztja a harmadik szintet, majd újraindítja a Windowst. Ellenkező esetben továbbra is használhatja a Files-t drag & drop nélkül.
+SettingsLeaveAppRunning: A háttérben futó alkalmazás hagyása az ablak bezárásakor
+#One of the custom color themes
+Blue: Kék
+#One of the custom color themes
+BlueGray: Kékesszürke
+#One of the custom color themes
+BrickRed: Téglavörös
+#One of the custom color themes
+Camouflage: Álca
+#One of the custom color themes
+CoolBlueBright: Hideg világoskék
+#One of the custom color themes
+Gray: Szürke
+#One of the custom color themes
+GrayDark: Sötétszürke
+#One of the custom color themes
+Green: Zöld
+#One of the custom color themes
+IrisPastel: Írisz pasztell
+#One of the custom color themes
+MintLight: Világos menta
+#One of the custom color themes
+ModRed: Világos vörös
+#One of the custom color themes
+OrangeBright: Világos narancssárga
+#One of the custom color themes
+Overcast: Borult
+#One of the custom color themes
+Red: Vörös
+#One of the custom color themes
+RoseBright: Világos rózsaszín
+#One of the custom color themes
+Seafoam: Tengeri hab
+#One of the custom color themes
+Storm: Vihar
+#One of the custom color themes
+VioletRedLight: Világos vörös-ibolya
+#One of the custom color themes
+YellowGold: Aranysárga
+ClearCompleted: Befejezettek törlése
+NameWithColon: 'Név:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} / {1} kész'
+ItemsLower: elem
+CannotInitializeGitRepo: A Files nem tudja ezt a könyvtárat Git tárolóként inicializálni.
+ContributingArtist: Közreműködő előadó
+AddPage: Oldal hozzáadása
+ProcessingItems: Elemek feldolgozása...
+SpeedWithColon: 'Sebesség:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: 'Nem sikerült {0} elem(ek)et tömöríteni ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: '{0} elem tömörítése innen: "{1}" ide: "{2}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: '{0} elem tömörítve ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: '{0} elem(ek) tömörítése "{1}"-ről "{2}"-re'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: 'Nem sikerült {0} elemet tömöríteni ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Nem sikerült {0} elem(ek) tömörítése "{1}"-ről "{2}"-re
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: '{0} elem tömörítése ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: '{0} elem(ek) tömörítése "{1}"-ről "{2}"-re'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: '{0} elem átmásolása ide: "{1}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: '{0} elem átmásolása innen: "{1}" ide: "{2}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: '{0} elem másolva ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: '{0} elem átmásolva innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: 'Nem sikerült {0} elemet másolni ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: 'Nem sikerült átmásolni {0} elemet innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: '{0} elem másolása ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: '{0} elem átmásolása innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: '"{1}" kicsomagolása ide: "{2}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: '{0} elem kicsomagolása innen: "{1}" ide: "{2}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: '"{0}" kicsomagolva ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: '"{0}" kicsomagolva innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: 'Nem sikerült "{0}" kicsomagolása ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: 'Nem sikerült "{0}" kicsomagolása innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: '"{0}" kicsomagolása ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: '"{0}" kicsomagolása innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: '{0} elem törlése innen: "{1}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: '{0} elem törölve innen: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: 'Nem sikerült {0} elemet törölni innen: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: 'Nem sikerült törölni {0} elemet innen: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: '{0} elem törlése innen: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: '{0} elem áthelyezése ide: "{1}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: '{0} elem átmásolása innen: "{1}" ide: "{2}" megszakítva'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: '{0} elem áthelyezve ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: '{0} elem áthelyezve innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: '{0} elem áthelyezése ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: '{0} elem áthelyezése innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: 'Nem sikerült {0} elemet áthelyezni ide: "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: 'Nem sikerült áthelyezni {0} elemet innen: "{1}" ide: "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Lomtár kiürítése megszakítva
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Lomtár kiürítve
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Lomtár kiürítése
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Hiba történt a Lomtár kiürítése közben
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: A Lomtár kiürítése sikertelen
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Művelet előkészítése...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} elem feldolgozva'
+UnblockDownloadedFile: Letöltött fájl blokkolásának feloldása
+NoFileOperations: Nincsenek folyamatban lévő fájlműveletek
+OpenOnStartupDisabled: A Files megnyitása a Windows indításakor nem lehetéges rendszerbeállítások, vagy csoportházirend beállítás miatt. Ha be szeretné kapcsolni az opcitót, azt a Feladatkezelő "Indítás" lapfülén teheti meg.
+FailedToRestore: Nem sikerült visszaállítani az elemeket a lomtárból
+FailedToSetBackground: Nem sikerült beállítani a háttérképet
+GitDeleteBranch: Git ág kitörlése
+GitDeleteBranchSubtitle: Biztos, hogy véglegesen törli a(z) {0} ágat?
+ConnectedToGitHub: Csatlakozva a GitHubhoz
+Logout: Kijelentkezés
+ConnectToGitHub: Csatlakozás a GitHubhoz
+Login: Bejelentkezés
+ErrorApplyingTagContent: A címkék funkció jelenleg csak NTFS fájlrendszerrel formázott meghajtókkal kompatibilis.
+ErrorApplyingTagTitle: Hiba történt a címke alkalmazása közben
+DecompressArchiveHereSmartDescription: Kicsomagolja a kijelölt archívum(ok)ból az elemeket a jelenlegi mappába, ha egyelemű archívumról van szó, vagy új mappába, ha többelemű archívumról van szó
+ExtractHereSmart: Intelligens kicsomagolás ide
+SortFilesAndFoldersTogether: Fájlok és mappák együtt
+SortFilesAndFoldersTogetherDescription: Fájlok és mappák rendezése együtt
+SortFilesFirst: Fájlok elől
+SortFilesFirstDescription: Fájlok rendezése mappák előtt
+SortFoldersFirst: Mappák elől
+SortFoldersFirstDescription: Fájlok rendezése mappák után
+SortPriority: Rendezési prioritás
+FailedToRotateImage: Nem sikerült a kép forgatása
+Restart: Újraindítás
+Quit: Kilépés
+FaildToShareItems: Az elemek megosztása sikertelen
+ScrollToPreviousFolderWhenNavigatingUp: Felfelé navigáláskor görgessen az előző mappához
+NewWindowDescription: Új ablak megnyitása
+ChangeAlbumCover: Albumborító módosítása
+ItemRenameFailed: Nem sikerült átnevezni az elemet
+HigherPermissionsRequired: A "{0}" szerkesztéséhez további engedélyek szükségesek
+EditPermissions: Engedélyek szerkesztése
+BackgroundRunningNotificationBody: A Files továbbra is fut a háttérben rendszerindítási teljesítmény javítása érdekében.
+BackgroundRunningNotificationHeader: Hova tűnt a Files?
+QuestionsAndDiscussions: Kérdések és beszélgetések
+TilesViewSizeInfo: További méretek még nem állnak rendelkezésre a Csempe nézethez.
+#Used to describe layout sizes
+Compact: Kompakt
+#Used to describe layout sizes
+Small: Kicsi
+#Used to describe layout sizes
+Medium: Közepes
+#Used to describe layout sizes
+Medium+: Közepes +
+#Used to describe layout sizes
+Medium++: Közepes ++
+#Used to describe layout sizes
+Medium+++: Közepes +++
+#Used to describe layout sizes
+Medium++++: Közepes ++++
+#Used to describe layout sizes
+Medium+++++: Közepes +++++
+#Used to describe layout sizes
+Large: Nagy
+#Used to describe layout sizes
+Large+: Nagy +
+#Used to describe layout sizes
+Large++: Nagy ++
+#Used to describe layout sizes
+Large+++: Nagy +++
+#Used to describe layout sizes
+ExtraLarge: Nagyon nagy
+DetailsView: Részletek nézet
+LayoutType: Elrendezés tipusa
+Actions: Műveletek
+Commands: Parancsok
+AddCommand: Parancs hozzáadása
+RestoreDefaults: Alaphelyzetbe állítás
+ChooseAnAction: Művelet választása
+RestoreDefaultKeybindingsConfirmation: Biztos, hogy vissza akarja állítani az alapértelmezett billentyűparancsokat? Ezt a műveletet nem lehet visszacsinálni.
+KeybindingAlreadyUsedNotification: Ez a billentyűparancs már használatban van, kérjük, válasszon másik billentyűkötést a folytatáshoz.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Testreszabva
+AdaptiveLayoutDisabledNotification: A beállítások szinkronizálásakor az adaptív elrendezés nem érhető el, az alapértelmezett elrendezés Részletek lett.
+BackgroundImage: Háttérkép
+#Image alignment type
+Bottom: Alulra
+#Image alignment type
+Center: Középre
+#Image stretch type
+Fill: Kitöltés
+HorizontalAlignment: Vízszintes igazítás
+ImageFit: Kép pozíciója
+#Image alignment type
+Left: Balra
+Opacity: Áttetszőség
+#Image alignment type
+Right: Jobbra
+#Image alignment type
+Top: Felül
+#Image stretch type
+Uniform: Arányos
+#Image stretch type
+UniformToFill: Arányosan kitöltött
+VerticalAlignment: Függőleges igazítás
+#This is a type of backdrop for the application background
+ThinAcrylic: Vékony akril
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Mindenhol
+DevTools: Fejlesztői eszközök
+DisplayOpenIDE: Az állapotsoron lévő "Open IDE" gomb megjelenítése
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Git repókban
+#This is the friendly name for DLL files.
+ApplicationExtension: Alkalmazás kiegészítő
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO Fájl
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip fájl
+#This is the friendly name for bitmap files.
+BitmapFiles: Bitmap fájlok
+NumPadTypeName: Num
+NetworkLocations: Hálózati helyek
+NoNetworkLocationsInfo: There are no network locations. If you don't use network locations, you can disable the widget.
+Disable: Disable
+EditInNotepad: Szerkesztés a Jegyzettömbben
+EditInNotepadDescription: A kiválasztott fájl szerkesztése a Jegyzettömbben

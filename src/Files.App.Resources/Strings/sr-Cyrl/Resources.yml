@@ -1,133 +1,133 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: Нов прозор
+CopyPath: Копирај путању
+CopyPathWithQuotes: Копирај путању са наводницима
+Browse: Потражи
+Size: Величина
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'Направљено:'
+Path: Путања
+SizeLabel: 'Величина:'
+SizeOnDiskLabel: 'Величина на диску:'
+UncompressedSize: 'Некомпромитована величина:'
+ErrorDialogThisActionCannotBeDone: Није могуће извршити ову радњу
+ErrorDialogTheDestinationFolder: Одредишна фасцикла
+ErrorDialogIsASubfolder: је подфасцикла изворне фасцикле
+Skip: Прескочи
+SelectAll: Изабери све
+InvertSelection: Обрни селекцију
+ClearSelection: Поништи селекцију
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Измењено:'
+Accessed: 'Приступљено:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Обриши све ставке
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: Унеси путању или укуцај ">" да отвориш листу команди
+Search: Претражи
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Овде ће се појављивати датотеке којима сте скоро приступили
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
+  Text: Уклони ову ставку
+OpenGitHubRepo: Репозиторијум на платформи GitHub
+About: О апликацији
+OpenSource: Отворени код
+DateFormat: Формат датума
+SettingsAppearanceTheme: Изглед
+SettingsFilesAndFoldersShowFileExtensions: Прикажи екстензије за познате типове датотека
+SettingsFilesAndFoldersShowHiddenItems: Прикажи скривене датотеке и фасцикле
+ShowDotFiles: Прикажи датотеке без екстензије
+Appearance: Изглед
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: Напредна подешавања
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: Настави од задњег пута
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: Отвори нову картицу
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+  Content: Отвори одређену страницу или странице
+Desktop: Радна површина
+Documents: Документа
+Downloads: Преузимања
+Name: Назив
+Ascending: Од растућег
+Paste: Налепи
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
-PinFolderToSidebar: Pin to Sidebar
+  Label: Нов
+Properties: Подаци о датотеци
+Open: Отвори
+OpenInNewTab: Отвори у новом табу
+OpenInNewWindow: Отвори у новом прозору
+Share: Подели
+Cut: Исеци
+Delete: Обриши
+PinFolderToSidebar: Закачи на леву траку
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: Добро дошао у апликацију Files!
+  PrimaryButtonText: Дозволи
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+  Text: 'Потребно је да нам даш дозволу за приступ твојим датотекама како бисмо почели. Отвориће се страница у Windows подешавањима где нам можеш дати приступ. Чим завршиш са овим кораком, поново отвори апликацију Files. '
+Display: Приказ
+EnterAnItemName: Унеси нови назив
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: Подеси назив
+LightTheme: Светла тема
+DarkTheme: Тамна тема
+Application: Формат по апликацији
+SystemTimeStyle: Формат по систему
+NewFolder: Нова фасцикла
+NewFile: Нова датотека
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
-Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
+  Text: Ова фасцикла је празна.
+Back: Назад
+Forward: Напред
+Up: Претходна фасцикла
+Refresh: Освежи
+ItemAlreadyExistsDialogContent: Датотека са овим именом већ постоји у овој фасцикли.
+ItemAlreadyExistsDialogSecondaryButtonText: Замени постојећу датотеку са овом
+ItemAlreadyExistsDialogTitle: Датотека већ постоји
+SetAsLockscreen: Постави као позадина закључаног екрана
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: Нисмо могли да обришемо ову датотеку
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
+  Text: Молимо привежите потребан диск како бисте приступили овој ставци.
   Title: Drive unplugged
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
+  Text: Датотека којој покушавате да приступите је можда премештена или обрисана.
+  Title: Датотека није пронађена
 CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+CannotAccessPropertiesContent: Датотека којој покушавате да приступите је можда премештена или обрисана.
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: Фасцикла којој покушавате да приступите је можда премештена или обрисана.
+  Title: Да ли сте обрисали ову фасциклу?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: Датотеку којој покушавате да приступите тренутно користи програм {0}
 FileInUseDialog:
   Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
-Layout: Layout
+  Title: Датотека је у употреби
+Layout: Распоред
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: Само за читање
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
 Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
+ErrorDialogUnsupportedOperation: Затражена радња није подржана
+DriveFreeSpaceAndCapacity: '{0} слободно од {1}'
 SendTo: Send to
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'Име ставке не сме да садржи следеће карактере: \ / : * ? " < > |'
 InvalidFilename:
   Text: The item name specified is invalid
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, one {# item selected} few {# items selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
+Items: '{0, plural, one {item} few {items} other {items}}'
+Yes: Да
+ConfirmEmptyBinDialogContent: Да ли сте сигурни да желите да трајно обришете све ове ставке?
+ConfirmEmptyBinDialogTitle: Испразни корпу за отпатке
+ItemSizeBytes: бајт(ова)
 KiloByteSymbol: KB
 MegaByteSymbol: MB
 GigaByteSymbol: GB
@@ -153,13 +153,13 @@ JumpListRecentGroupHeader: Recent
 TabStripDragAndDropUIOverrideCaption: Move tab here
 syncStatusColumn:
   Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
+SettingsPreferencesSystemDefaultLanguageOption: Језик Windows окружења
 NavigationToolbarVisiblePathNoResults: No results
 SubDirectoryAccessDenied: Can't access any items to display
 MoveToFolderCaptionText: Move to {0}
 CopyToFolderCaptionText: Copy to {0}
 CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+OpenFileLocation: Отвори извор датотеке
 PropertiesShortcutItemArgs:
   Text: 'Arguments:'
 PropertiesShortcutItemPath:
@@ -167,7 +167,7 @@ PropertiesShortcutItemPath:
 PropertiesShortcutItemType:
   Text: 'Shortcut type:'
 PropertiesShortcutTypeLink: Web link
-General: General
+General: Општа
 Shortcut: Shortcut
 ShortcutWebLinkFileType: Internet shortcut
 ShortcutCreateNewSuffix: '{0} - shortcut'
@@ -187,173 +187,173 @@ RenameError:
     Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
     Title: Item no longer exists
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: Унето име садржи грешке. Молимо проверите унето име и покушајте поново.
+    Title: Погрешно име ставке
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
-ShowMoreOptions: Show more options
+    Text: Дужина имена ставке прелази ограничење броја карактера. Молимо проверите име и покушајте поново.
+    Title: Име ставке предугачко
+ShowMoreOptions: Остале опције...
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
+  Text: Потребно је поново покренути програм како бисте применили ова подешавања. Да ли желите да поново покренете програм?
 SponsorUsOnGitHub: Sponsor us on GitHub
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: Нисмо могли да креирамо ову ставку
+AccessDenied: Забрањен приступ
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: Постави као
+Cancel: Откажи
 AddDialog:
-  Title: Create a new item
+  Title: Направи нову датотеку
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: Одаберите тип датотеке за нову ставку испод
+File: Датотека
+AddDialogListFileSubHeader: Прави празну датотеку
+Folder: Фасцикла
+AddDialogListFolderSubHeader: Прави празну фасциклу
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
-Language: Language
-SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+    Name: Освежи директоријум
+Language: Језик
+SettingsContextMenuOverflow: Проширења окружења смести у подмени
+ShowConfirmationWhenDeletingItems: Питај још једном пре брисања датотека
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: Настао је проблем приликом чувања подешавања.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
+  Title: Грешка
+  SecondaryButtonText: Ипак затвори
+PropertyRatingText: Оцена
+PropertyParsingPath: Путања датотеке
+PropertyItemTypeText: Врста ставке
+PropertyTitle: Наслов
+PropertySubject: Предмет
+PropertyComment: Коментар
 PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+PropertyDateModified: Датум измене
+PropertyBitDepth: Дубина битова
+PropertyDimensions: Димензије
+PropertyHorizontalSize: Хоризонтална дужина
+PropertyVerticalSize: Вертикална висина
+PropertyHorizontalResolution: Хоризонтална резолуција
+PropertyVerticalResolution: Вертикална резолуција
+PropertyColorSpace: Распон боја
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
+PropertyColorSpace_Value65535: није наведено
 PropertyLongitudeDecimal: Longitude Decimal
 PropertyLatitudeDecimal: Latitude Decimal
 PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
-PropertyCameraManufacturer: Camera Manufacturer
-PropertyCameraModel: Camera Model
+PropertyDateTaken: Датум сликања
+PropertyCameraManufacturer: Произвођач камере
+PropertyCameraModel: Модел камере
 PropertyExposureTime: Exposure Time
 PropertyFocalLength: Focal Length
 PropertyAperture: Aperture
-PropertyPeopleNames: People Names
+PropertyPeopleNames: Имена људи
 PropertyChannelCount: Channel Count
-PropertyFormat: Format
+PropertyFormat: Формат
 PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
+PropertyAlbumArtist: Извођач албума
+PropertyAlbumTitle: Наслов албума
+Artist: Извођач
 PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
+PropertyComposer: Композитор
 Conductor: Conductor
 PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
+PropertyGenre: Жанр
+PropertyTrackNumber: Број нумере
+PropertyDuration: Трајање
 PropertyFrameCount: Frame Count
-PropertyProtectionType: Protection Type
-PropertyAuthorUrl: Author Url
-PropertyContentDistributor: Content Distributor
-PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
-PropertySeasonNumber: Season Number
-PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
-PropertyPromotionUrl: Promotion Url
+PropertyProtectionType: Врста заштите
+PropertyAuthorUrl: Веб адреса креатора
+PropertyContentDistributor: Дистрибутер садржаја
+PropertyDateReleased: Датум издавања
+PropertySeriesName: Наслов серије
+PropertySeasonNumber: Редни број сезоне
+PropertyEpisodeNumber: Редни број епизоде
+PropertyProducer: Продуцент
+PropertyPromotionUrl: Промотивни веб-сајт
 PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
+PropertyPublisher: Издавач
 PropertyThumbnailLargePath: Thumbnail Large Path
 PropertyThumbnailLargeUri: Thumbnail Large Uri
 PropertyThumbnailSmallPath: Thumbnail Small Path
 PropertyThumbnailSmallUri: Thumbnail Small Uri
 PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
+PropertyWriter: Писац
+PropertyYear: Година
+PropertyContributor: Сарадник
 PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
+PropertyRevisionNumber: Број ревизије
 PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
-PropertyCharacterCount: Character Count
-PropertyLineCount: Line Count
-PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
-PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
-PropertyEncodingBitrate: Encoding Bitrate
+PropertyDateCreated: Датум прављења
+PropertyTotalEditingTime: Укупно време уређивања
+PropertyTemplate: Образац
+PropertyWordCount: Број речи
+PropertyCharacterCount: Број карактера
+PropertyLineCount: Број редова
+PropertyParagraphCount: Број параграфа
+PropertyPageCount: Број страница
+PropertySlideCount: Број слајдова
+PropertyFrameRate: FPS
+PropertyEncodingBitrate: Битрејт
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
+Compression: Компримовање
+PropertyFrameWidth: Дужина кадра
+PropertyFrameHeight: Висина кадра
+PropertyOrientation: Оријентација
+PropertySectionCore: Језгро
+PropertySectionImage: Слика
+PropertySectionPhoto: Фотографија
 PropertySectionGPS: GPS
-PropertySectionMedia: Media
-PropertySectionAudio: Audio
-PropertySectionMusic: Music
-PropertySectionVideo: Video
-Document: Document
-Address: Address
+PropertySectionMedia: Мултимедија
+PropertySectionAudio: Аудио
+PropertySectionMusic: Музика
+PropertySectionVideo: Видео
+Document: Документ
+Address: Адреса
 SelectionOptions: Selection options
 NavToolbarSelectionOptions:
-  Label: Select
-RecycleBinItemAutomation: Recycle bin item
-ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
-EjectNotificationHeader: Safe to remove hardware
-EjectNotificationBody: The device can now be safely removed from the computer.
-EjectNotificationErrorDialogHeader: Problem Ejecting Device
-EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
+  Label: Одабери
+RecycleBinItemAutomation: Ставка у корпи за отпатке
+ShortcutItemAutomation: Пречица
+Drives: Дискови
+PinToSidebarByDraggingCaptionText: Премести овде
+EjectNotificationHeader: Безбедно уклањање уређаја
+EjectNotificationBody: Сада можете уклонити уређај из рачунара.
+EjectNotificationErrorDialogHeader: Проблем приликом избацивања уређаја
+EjectNotificationErrorDialogBody: Овај уређај је тренутно у употреби. Затворите било које програме који можда користе уређај, потом покушајте поново.
 Eject: Eject
 DuplicateTab: Duplicate tab
 HorizontalMultitaskingControlMoveTabToNewWindow:
-  Text: Move tab to new window
+  Text: Премести картицу у нови прозор
 NewTab: New tab
 ClearPropertiesFlyoutText:
-  Text: Some properties may contain personal information.
+  Text: Нека од својстава можда садрже личне податке.
 ClearPropertiesButton:
-  Content: Clear All Properties
+  Content: Очисти сва својства
 OngoingTasksTeachingTip:
-  Subtitle: Check the status of file operations here
+  Subtitle: Проверите статус радњи овде
   Title: Status center
-SearchPagePathBoxOverrideText: Search results in {1} for {0}
+SearchPagePathBoxOverrideText: Резултати претраге "{0}" у фасцикли {1}
 Details: Details
-No: 'No'
-ShowProtectedSystemFiles: Show protected system files
+No: Не
+ShowProtectedSystemFiles: Прикажи заштићене системске датотеке
 SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
 SettingsContextMenu:
-  Text: Customize the right click context menu
+  Text: Подеси мени за десни клик
 OriginalPath: Original path
 Add: Add
 Edit: Edit
 Remove: Remove
-SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
-ShowOpenInNewPane: Show option to open folders in a new pane
-ShowCopyPath: Show option to copy path
-ShowCreateFolderWithSelection: Show option to create folder with selection
-ShowCreateShortcut: Show option to create shortcut
+SettingsMultitaskingAlwaysOpenDualPane: Отварај табове на другој страни прозора
+ShowOpenInNewPane: Прикажи опцију за отварање фасцикли у новој траци
+ShowCopyPath: Прикажи опцију за копирање путање
+ShowCreateFolderWithSelection: Прикажи опцију за прављење фасцикле са изабраним датотекама
+ShowCreateShortcut: Прикажи опцију за прављење пречице
 NavigationToolbarNewPane:
   Label: New pane
-OpenInNewPane: Open in new pane
-FilesAndFolders: Files & folders
+OpenInNewPane: Отвори у новој траци
+FilesAndFolders: Датотеке и фасцикле
 NavToolbarDetails:
   ToolTipService:
     ToolTip: Details (Ctrl+Shift+1)
@@ -362,37 +362,37 @@ NavToolbarTiles:
     ToolTip: Tiles (Ctrl+Shift+2)
 DateDeleted: Date deleted
 SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
-DesiredName: Desired name
+Confirm: Потврди
+DesiredName: Жељено име
 TogglePreviewPane: Toggle the preview pane
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
-UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+DetailsPanePreviewNotAvaliableText: Брзи преглед датотеке није доступан
+PropertyItemName: Име ставке
+UnpinFolderFromSidebar: Откачи са леве траке
+Network: Мрежа
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: Детаљи о датотеци
 PreviewPaneFilePreview:
   AutomationProperties:
-    Name: File preview
+    Name: Брзи преглед датотеке
 SelectedFilePreviewPane:
   AutomationProperties:
-    Name: Selected file preview pane
-Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
-Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
-CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
-CloudDriveSyncStatus_Excluded: Excluded from sync
-ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+    Name: Изабран је пано за брзо прегледање датотека
+Feedback: Повратне информације
+CloudDriveSyncStatus_Online: Доступно на мрежи
+Documentation: Документација
+CloudDriveSyncStatus_Offline: Доступно офлајн
+CloudDriveSyncStatus_PartialOffline: Делом доступно офлајн
+CloudDriveSyncStatus_Sync: Синхронизација у току
+CloudDriveSyncStatus_Excluded: Изузето од синхронизовања
+ItemSizeNotCalculated: Није израчунато
+CloudDriveSyncStatus_Unknown: Непознато
 RenameFileDialog:
-  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
+  Text: Уколико промениш екстензију датотека, можда ће постати неупотребљива? Да ли си сигуран да желиш да је промениш?
 DriveTypeCDRom: CD ROM Drive
 DriveTypeCloudDrive: Cloud Drive
 DriveTypeFixed: Fixed Disk Drive
@@ -401,42 +401,42 @@ DriveTypeNetwork: Network Drive
 DriveTypeNoRootDirectory: Unmounted Drive
 DriveTypeRam: RAM Disk Drive
 DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
+DriveTypeUnknown: Непознато
 DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+DateCreated: Датум креирања
+MoreOptions: Остале опције...
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
   Text: Map network drive
-Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
+Pinned: Закачено
+SidebarLibraries: Библиотеке
+NoItemSelected: Нема изабраних датотека
 PropertyItemTarget: Target
 Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+Default: Подразумевана тема
+PropertyItemCount: Број датотека
 ElevateConfirmDialog:
-  Title: This action requires administrator rights
-  Content: Would you like to continue as administrator?
-ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+  Title: Потребна је дозвола администратора
+  Content: Желиш ли да наставиш као администратор?
+ColumnsShortcutTooltip: Колоне (Ctrl+Shift+6)
 PinItemToStart:
-  Text: Pin to the Start Menu
+  Text: Закачи на Старт мени
 UnpinItemFromStart:
-  Text: Unpin from the Start Menu
-Library: Library
+  Text: Откачи са Старт менија
+Library: Библиотека
 LibraryLocations:
-  Text: 'Locations:'
-SetAsDefaultSavePath: Set as default save path
+  Text: 'Путање:'
+SetAsDefaultSavePath: Постави као подразумевану путању чувања
 LibraryNoLocations:
-  Text: No locations
-ErrorInputEmpty: Input field cannot be empty!
-ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
-CreateLibraryErrorAlreadyExists: Library with the same name already exists!
-OpenStorageSense: Open Storage Sense
-Copy: Copy
+  Text: Без путање
+ErrorInputEmpty: Поље не сме бити празно!
+ErrorNameInputRestrictedCharacters: 'Назив не сме садржати следеће карактере: \ / : * ? " < > |'
+ErrorNameInputRestricted: Овај назив није дозвољен!
+CreateLibraryErrorAlreadyExists: Библиотека са овим називом већ постоји!
+OpenStorageSense: Отвори подешавања Storage Sense
+Copy: Копирај
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: Премести
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
@@ -446,7 +446,7 @@ ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is 
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
+  Content: Трајно обриши
 PropertyISO: ISO speed
 ReplaceExisting: Replace existing
 GenerateNewName: Generate new name
@@ -476,69 +476,69 @@ ItemSizeText_Medium: Medium
 ItemSizeText_Small: Small
 ItemSizeText_Tiny: Tiny
 Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
-EarlierThisMonth: Earlier this month
-LastMonth: Last month
-EarlierThisYear: Earlier this year
-LastYear: Last year
-YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
-Rename: Rename
-Privacy: Privacy
-TheRecycleBin: the Recycle Bin
-Canceling: Canceling
-Clear: Clear
-Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
-Deny: Deny
+Today: Данас
+Yesterday: Јуче
+EarlierThisWeek: Раније ове недеље
+LastWeek: Прошле недеље
+EarlierThisMonth: Раније овог месеца
+LastMonth: Прошлог месеца
+EarlierThisYear: Раније ове године
+LastYear: Прошле године
+YearN: Године {0}.
+GroupItemsCount_Singular: '{0} датотека'
+GroupItemsCount_Plural: '{0} датотеке'
+ReopenClosedTab: Отвори малопре затворени таб
+Rename: Преименовање
+Privacy: Приватност
+TheRecycleBin: Корпа за отпатке
+Canceling: Радња се поништава
+Clear: Очисти
+Widgets: Виџети
+SyncStatus: Статус синхронизацаије
+Security: Безбедност
+AdvancedPermissions: Напредне дозволе
+Allow: Дозволи
+Deny: Одбиј
 SecurityFullControlLabel:
-  Text: Full control
+  Text: Пун приступ
 SecurityListDirectoryLabel:
-  Text: List directory contents
-Modify: Modify
-SecurityPermissionsHeaderText: Permissions for {0}
+  Text: Прикажи садржај фасцикле
+Modify: Измени
+SecurityPermissionsHeaderText: Дозволе за датотеку {0}
 SecurityReadAndExecuteLabel:
-  Text: Read and execute
+  Text: Приступи и отвори
 SecurityReadLabel:
-  Text: Read
+  Text: Приступи
 SecurityUsersGroupLabel:
-  Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+  Text: Група или корисничка имена
+Write: Измени
+SecurityUnknownAccount: Непознат налог
 SecurityCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
+  Text: Немаш дозволу да видиш податке о безбедности ове датотеке. Кликни на "Напредне дозволе" да би наставио.
 SecurityOwnerLabel:
-  Text: 'Owner:'
+  Text: 'Власник:'
 SecurityUnknownOwnerText:
-  Text: Unknown owner
-ExtractArchive: Extract archive
+  Text: Власник непознат
+ExtractArchive: Отпакуј архиву
 DecompressArchiveDialogOpenDestinationWhenComplete:
-  Content: Open destination folder when complete
-BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+  Content: Отвори фасциклу чим се архива отпакује
+BaseLayoutItemContextFlyoutExtractToChildFolder: Отпакуј у фасциклу {0}\
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: Направи нову библиотеку
 SideBarRestoreLibraries:
-  Text: Restore default libraries
-DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
-DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+  Text: Врати подразумеване библиотеке
+DialogRestoreLibrariesSubtitleText: Желиш ли да вратиш подразумеване библиотеке? Твоје датотеке ће бити нетакнуте.
+DialogRestoreLibrariesTitleText: Врати подразумеване библиотеке
+PropertyFileOwner: Власник
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
-SecurityAdvancedAppliesTo: Applies to
-Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
-SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
-Inherited: Inherited
+  Text: Посебни
+Access: Приступ
+SecurityAdvancedAppliesTo: Односи се на
+Principal: Главни
+SecurityAdvancedFlagsFilesLabel: датотеке
+SecurityAdvancedFlagsFolderLabel: ова фасцикла
+SecurityAdvancedFlagsSubfoldersLabel: подфасцикле
+Inherited: Наслеђено
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
   Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
@@ -603,7 +603,7 @@ EnterCompactOverlay: Enter compact overlay
 ExitCompactOverlay: Exit compact overlay
 PropertyFileDescription: File description
 PropertyCompany: Company
-PropertyLanguage: Language
+PropertyLanguage: Језик
 PropertyTrademarks: Trademarks
 PropertyFileVersion: File version
 PreviewPaneLoadCloudItemButton:
@@ -627,27 +627,27 @@ BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
-ExtractingArchiveText: Extracting archive
-ExtractingCompleteText: Extracting complete!
+ArchiveExtractionCompletedSuccessfullyText: Архива је успешно отпакована.
+ExtractingArchiveText: У току је отпакивање архиве...
+ExtractingCompleteText: Отпакивање завршено!
 BaseLayoutItemContextFlyoutOpenParentFolder:
-  Text: Open parent folder
-Unknown: Unknown
-EditTags: Edit tags
-PropertyPartOfSet: Part of set
+  Text: Отвори вишу фасциклу
+Unknown: Непознато
+EditTags: Измени ознаке
+PropertyPartOfSet: Део
 InsertDiscDialog:
-  OpenDriveButton: Open drive
-  Text: Please insert a disc into drive {0}
-  Title: Insert a disc
-OK: OK
+  OpenDriveButton: Отвори диск
+  Text: Убаци диск у {0}
+  Title: Убаци диск
+OK: У реду
 AskCredentialDialog:
-  Title: Credential required
+  Title: Лозинка је потребна
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: Непознат
 CredentialDialogDescription:
-  Text: 'Provide your credential:'
+  Text: 'Унеси податке:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
+  PlaceholderText: Корисничко име
 NoSearchResultsFound: No items found
 OpenLogLocation: Open log location
 LinkToFolderCaptionText: Create link in {0}
@@ -677,13 +677,13 @@ Sidebar: Sidebar
 ChooseCustomIcon: Choose a custom folder icon
 Customization: Customization
 RestoreDefault: Restore default
-OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
+OpenTabInExistingInstance: Отвори таб у већ отвореној инстанци када се апликација отвара из другог извора
 StartupSettings: Startup settings
 Compatibility: Compatibility
 None: None
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: Формат по систему
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,7 +692,7 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: Покрени као администратор
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
@@ -703,40 +703,40 @@ ThirdPartyLicenses: Third party licenses
 SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
 FolderWidgetCreateNewLibraryDialogTitleText: Create Library
 FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
-CalculateFolderSizes: Calculate folder sizes
+CalculateFolderSizes: Рачунај величине фасцикли
 RecentFiles: Recent files
 SettingsOpenInLogin: Open Files on Windows startup
 Attributes: Attributes
-Hidden: Hidden
+Hidden: Сакривено
 MoreDetails: More details
 ReadOnly: Read only
 CleanupDrive: Cleanup your drive contents
 Type: Type
 Bytes: Bytes
-Extract: Extract
+Extract: Отпакуј
 ExtractFiles: Extract files
 ExtractHere: Extract here
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
 ExtractToChildFolder: Extract to {0}
 RunScript: Run script
 RunWithPowerShell: Run with PowerShell
-ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
+ShowFolderSizesWarning: Рачунање величина фасцикли је захтевно и можда ће повисити употребу процесора.
 RotateLeft: Rotate left
 RotateRight: Rotate right
 Install: Install
 CloseTabsToTheLeft: Close tabs to the left
 CloseTabsToTheRight: Close tabs to the right
 CloseOtherTabs: Close other tabs
-Music: Music
+Music: Музика
 Pictures: Pictures
 UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
+FileTags: Ознаке
+Universal: Универзални формат
 DateFormatSample: 'ex: {0}, {1}'
-SettingsFilesAndFoldersShowThumbnails: Show thumbnails
+SettingsFilesAndFoldersShowThumbnails: Прикажи сличице
 Retry: Retry
 ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
-HiddenItems: Hidden items
+HiddenItems: Скривене ставке
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
@@ -745,7 +745,7 @@ AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
-Behaviors: Behaviors
+Behaviors: Понашање
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
@@ -758,9 +758,9 @@ TagColumn: Tag column
 TypeColumn: Type column
 Lockscreen: Lockscreen
 OpenFolderWithOneClickColumnsLayout: Open folders with a single click in the Columns Layout
-OpeningItems: Opening items
+OpeningItems: При отварању датотека
 Compress: Compress
-SelectFilesAndFoldersOnHover: Select files and folders when hovering over them
+SelectFilesAndFoldersOnHover: Селектуј датотеке и фасцикле преласком миша
 ConfirmRestoreBinDialogContent: Are you sure you want to restore all items in the recycle bin?
 ConfirmRestoreBinDialogTitle: Restore all items
 ConfirmRestoreSelectionBinDialogContent: Do you want to restore the {0} selected item(s)?
@@ -774,7 +774,7 @@ ArchivePassword: Archive password
 ExtractToPath: Path
 SortingAndGrouping: Sorting and grouping
 CreateArchive: Create archive
-Create: Create
+Create: Креирај
 CreateNamedArchive: Create {0}
 EnterName: Enter a name
 CompressionLevel: Compression level
@@ -792,11 +792,11 @@ FAT: FAT
 Bluray: Blu-ray
 Encryption: Encryption
 Password: Password
-Format: Format
+Format: Формат
 DetailsViewHeaderFlyout_ShowSyncStatus:
   Text: Sync status column
-GroupBy: Group by
-SortBy: Sort by
+GroupBy: Групиши по
+SortBy: Сортирај по
 GroupInDescendingOrder: Group in descending order
 SortInDescendingOrder: Sort in descending order
 NewShortcutDialogTitle: Create a new shortcut
@@ -809,14 +809,14 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
-DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
+Settings: Подешавања
+DoubleClickBlankSpaceToGoUp: Дуплим кликом на празан простор врати се корак уназад
 ViewMore: View more
-ShowEditTagsMenu: Show edit tags flyout
-ShowCompressionOptions: Show compression options
-ShowSendToMenu: Show send to menu
-ShowOpenInNewTab: Show option to open folders in a new tab
-ShowOpenInNewWindow: Show option to open folders in a new window
+ShowEditTagsMenu: Прикажи опције за измену ознака
+ShowCompressionOptions: Прикажи опције за архивирање
+ShowSendToMenu: Прикажи мени "Пошаљи у"
+ShowOpenInNewTab: Прикажи опцију за отварање фасцикли у новом табу
+ShowOpenInNewWindow: Прикажи опцију за отварање фасцикли у новом прозору
 QuickAccess: Quick access
 NetworkAuthenticationDialogMessage: 'Enter your credentials to connect to: {0}'
 NetworkAuthenticationDialogTitle: Enter network credentials
@@ -824,14 +824,14 @@ NetworkAuthenticationSaveCheckbox: Remember my credentials
 NetworkFolderErrorDialogTitle: Network folder error
 AppVersion: App version
 WindowsVersion: Windows version
-Always: Always
+Always: Увек
 PermanentDeletionOnly: Permanent deletion only
 Never: Never
 TagColor: Tag color
-NewTag: New tag
-CreateNewTag: Create new tag
+NewTag: Нова ознака
+CreateNewTag: Креирај нову ознаку
 Loading: Loading...
-ContextMenuOptions: Context menu options
+ContextMenuOptions: Подешавања контекстуалног менија
 ShowFileExtensions: Show file extensions
 ShowHiddenItems: Show hidden items
 FormatDriveText: Format...
@@ -844,7 +844,7 @@ Width: Width
 ApplyToAllConflictingItems: Apply this action to all conflicting items
 OpenTerminal: Open in Windows Terminal
 OpenTerminalAsAdmin: Open in Windows Terminal as administrator
-Save: Save
+Save: Сачувај
 MultiSelect: Multiselect
 ReorderSidebarItemsDialogText: Reorder sidebar items
 Hashes: Hashes
@@ -880,11 +880,11 @@ CopyPathWithQuotesDescription: Copy path of selected items with quotes to the cl
 CutItemDescription: Cut item(s) to clipboard
 PasteItemDescription: Paste item(s) from clipboard to current folder
 PasteItemToSelectionDescription: Paste item(s) from clipboard to selected folder
-DeleteItemDescription: Delete item(s)
+DeleteItemDescription: Обриши датотеку(е)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: Испразни корпу за отпатке
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,7 +1013,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Претходна фасцикла
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Home: Home
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: Очисти
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,7 +1057,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: Претражи
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserFavorites: Favorites
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1078,7 +1078,7 @@ Key:
   MediaVolumeUp: VolUp
 Change: Change
 ToggleSelect: Toggle selection
-ShowFileExtensionWarning: Show warning when changing file extensions
+ShowFileExtensionWarning: Упозори приликом промене екстензије датотеке
 ThisPC: This PC
 RecycleBin: Recycle Bin
 Untagged: Untagged
@@ -1093,7 +1093,7 @@ CopyFileWithoutProperties: Are you sure you want to copy these files without the
 FilePropertiesCannotBeCopied: These files have properties that can't be copied to the new location
 FilePropertiesCannotBeMoved: These files have properties that can't be moved to the new location
 MoveFileWithoutProperties: Are you sure you want to move these files without their properties?
-ShowCheckboxesWhenSelectingItems: Show checkboxes when selecting items
+ShowCheckboxesWhenSelectingItems: Прикажи опције за селектовање приликом селектовања ставки
 EditPathDescription: Focus path bar
 AddItemDescription: Create new item
 SecurityNoAccessControlEntriesText: No groups or users have permission to access this object. However, the owner of this object can assign permissions.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: Година
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1205,7 +1205,7 @@ CommandPalette: Command palette
 OpenCommandPaletteDescription: Open command palette
 ShortcutItemWorkingDir: 'Start in:'
 TurnOnBitLocker: Turn on BitLocker
-ManageBitLocker: Manage BitLocker
+ManageBitLocker: Управљај BitLocker подешавањима
 CopyFailureFileToLarge: The following items are too large to be copied to this drive
 FormatDrive: Format drive
 DontShowAgain: Don't show again
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: ставке
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1412,7 +1412,7 @@ Large+++: Large +++
 ExtraLarge: Extra large
 DetailsView: Details view
 LayoutType: Layout type
-Actions: Actions
+Actions: Тастерске пречице
 Commands: Commands
 AddCommand: Add command
 RestoreDefaults: Restore defaults

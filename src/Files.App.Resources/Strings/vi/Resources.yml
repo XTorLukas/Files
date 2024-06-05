@@ -1,0 +1,1467 @@
+NewWindow: Cửa sổ mới
+CopyPath: Sao chép đường dẫn
+CopyPathWithQuotes: Sao chép đường dẫn kèm dấu ngoặc kép
+Browse: Duyệt tìm
+Size: Kích cỡ
+PropertiesCreated:
+  Text: 'Đã tạo:'
+Path: Đường dẫn
+SizeLabel: 'Kích cỡ:'
+SizeOnDiskLabel: 'Kích cỡ trên đĩa:'
+UncompressedSize: 'Kích cỡ không nén:'
+ErrorDialogThisActionCannotBeDone: Không thể thực hiện hành động này
+ErrorDialogTheDestinationFolder: Thư mục đích
+ErrorDialogIsASubfolder: là một thư mục con của thư mục nguồn
+Skip: Bỏ qua
+SelectAll: Chọn tất cả
+InvertSelection: Đảo lựa chọn
+ClearSelection: Bỏ lựa chọn
+PropertiesModified:
+  Text: 'Đã sửa đổi:'
+Accessed: 'Đã truy cập:'
+RecentItemClearAll:
+  Text: Loại bỏ tất cả khoản mục
+NavigationToolbarVisiblePath:
+  PlaceholderText: Nhập đường dẫn hoặc gõ ">" để mở bảng lệnh
+Search: Tìm kiếm
+RecentItemDescription:
+  Text: Tệp bạn đã truy cập trước đó sẽ hiển thị tại đây
+RecentItemRemove:
+  Text: Loại bỏ khoản mục này
+OpenGitHubRepo: Kho lưu trữ GitHub
+About: Giới thiệu
+OpenSource: Mã nguồn mở
+DateFormat: Định dạng thời gian
+SettingsAppearanceTheme: Chủ đề
+SettingsFilesAndFoldersShowFileExtensions: Hiện phần mở rộng của các tệp đã biết
+SettingsFilesAndFoldersShowHiddenItems: Hiện tệp và thư mục bị ẩn
+ShowDotFiles: Hiện tệp có tên bắt đầu bằng dấu chấm
+Appearance: Giao diện
+BackgroundColor: Màu nền
+Advanced: Nâng cao
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Tiếp tục từ nơi bạn đã dừng lại
+SettingsOnStartupOpenANewTab:
+  Content: Mở một thẻ mới
+SettingsOnStartupOpenASpecificPage:
+  Content: Mở một trang cụ thể hoặc tập hợp các trang
+Desktop: Màn hình chính
+Documents: Tài liệu
+Downloads: Tải xuống
+Name: Tên
+Ascending: Tăng dần
+Paste: Dán
+BaseLayoutContextFlyoutNew:
+  Label: Mới
+Properties: Thuộc tính
+Open: Mở
+OpenInNewTab: Mở trong thẻ mới
+OpenInNewWindow: Mở trong cửa sổ mới
+Share: Chia sẻ
+Cut: Cắt
+Delete: Xóa bỏ
+PinFolderToSidebar: Ghim vào thanh bên
+WelcomeDialog:
+  Title: Chào mừng bạn đến với Files!
+  PrimaryButtonText: Cấp quyền
+WelcomeDialogTextBlock:
+  Text: 'Để bắt đầu, bạn sẽ cần cho phép chúng tôi hiển thị các tệp của bạn. Hành động này sẽ mở trang Cài đặt để bạn có thể cấp quyền truy cập cho chúng tôi. Bạn sẽ cần khởi động lại ứng dụng sau khi hoàn thành bước này. '
+Display: Hiển thị
+EnterAnItemName: Nhập tên khoản mục
+RenameDialog:
+  PrimaryButtonText: Đặt tên
+LightTheme: Sáng
+DarkTheme: Tối
+Application: Ứng dụng
+SystemTimeStyle: Hệ thống
+NewFolder: Thư mục mới
+NewFile: Tệp mới
+EmptyFolder:
+  Text: Thư mục này trống.
+Back: Quay lại
+Forward: Tiến
+Up: Lùi về
+Refresh: Làm mới
+ItemAlreadyExistsDialogContent: Một khoản mục có cùng tên đã tồn tại trong thư mục.
+ItemAlreadyExistsDialogSecondaryButtonText: Thay thế khoản mục đã tồn tại
+ItemAlreadyExistsDialogTitle: Khoản mục đã tồn tại
+SetAsLockscreen: Hình nền màn hình khóa
+SetAsAppBackground: Đặt làm hình nền ứng dụng
+AccessDeniedDeleteDialog:
+  Text: Chúng tôi không thể xóa khoản mục này
+DriveUnpluggedDialog:
+  Text: Vui lòng kết nối ổ lưu trữ cần để truy cập mục này.
+  Title: Ổ lưu trữ đã bị ngắt kết nối
+FileNotFoundDialog:
+  Text: Tệp bạn cố truy cập có thể đã bị di chuyển hoặc xóa bỏ.
+  Title: Không tìm thấy tệp
+CannotAccessPropertiesTitle: Không thể mở thuộc tính của tệp này
+CannotAccessPropertiesContent: Tệp bạn cố truy cập có thể đã bị di chuyển hoặc xóa bỏ.
+FolderNotFoundDialog:
+  Text: Thư mục bạn cố truy cập có thể đã bị di chuyển hoặc xóa bỏ.
+  Title: Thư mục không tồn tại
+FileInUseByDialog:
+  Text: Tệp bạn cố truy cập hiện đang được sử dụng bởi {0}
+FileInUseDialog:
+  Text: Tệp bạn cố truy cập hiện đang được sử dụng bởi ứng dụng khác
+  Title: Tệp đang được sử dụng
+Layout: Bố cục
+PropertiesDialogReadOnly:
+  Text: Chỉ đọc
+DaysAgo: '{0, plural, other {# ngày trước}}'
+HoursAgo: '{0, plural, other {# giờ trước}}'
+MinutesAgo: '{0, plural, other {# phút trước}}'
+SecondsAgo: '{0, plural, other {# giây trước}}'
+Now: Vừa xong
+ErrorDialogUnsupportedOperation: Thao tác đã yêu cầu không được hỗ trợ
+DriveFreeSpaceAndCapacity: '{0} trống trong {1}'
+SendTo: Gửi tới
+FileNameTeachingTip:
+  Subtitle: 'Tên khoản mục không được chứa những ký tự sau: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Tên khoản mục đã nhập không hợp lệ
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, other {# mục được chọn}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, other {mục}}'
+Yes: Có
+ConfirmEmptyBinDialogContent: Bạn có chắc chắn muốn xóa vĩnh viễn các khoản mục này không?
+ConfirmEmptyBinDialogTitle: Dọn sạch thùng rác
+ItemSizeBytes: byte
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, other {tệp}}, {1, number} {1, plural, other {thư mục}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Chạy với vai trò là người dùng khác
+PropertiesDriveItemTypesEquals: Loại chung của {0}
+PropertiesDriveItemTypeDifferent: Loại khác nhau
+PropertiesCombinedItemLocation: Tất cả trong {0}
+PropertiesDriveUsedSpace:
+  Text: 'Không gian đã dùng:'
+PropertiesDriveFreeSpace:
+  Text: 'Không gian trống:'
+PropertiesDriveCapacity:
+  Text: 'Dung lượng:'
+PropertiesDriveFileSystem:
+  Text: 'Hệ thống tệp:'
+JumpListRecentGroupHeader: Gần đây
+TabStripDragAndDropUIOverrideCaption: Di chuyển thẻ đến đây
+syncStatusColumn:
+  Header: Trạng thái
+SettingsPreferencesSystemDefaultLanguageOption: Mặc định của Windows
+NavigationToolbarVisiblePathNoResults: Không có kết quả
+SubDirectoryAccessDenied: Không hiển thị được khoản mục do không có quyền truy cập
+MoveToFolderCaptionText: Di chuyển đến {0}
+CopyToFolderCaptionText: Sao chép đến {0}
+CreateShortcut: Tạo lối tắt
+OpenFileLocation: Mở vị trí tệp
+PropertiesShortcutItemArgs:
+  Text: 'Đối số:'
+PropertiesShortcutItemPath:
+  Text: 'Đích:'
+PropertiesShortcutItemType:
+  Text: 'Loại lối tắt:'
+PropertiesShortcutTypeLink: Liên kết web
+General: Chung
+Shortcut: Lối tắt
+ShortcutWebLinkFileType: Lối tắt Internet
+ShortcutCreateNewSuffix: '{0} - lối tắt'
+ExceptionNotificationBody: Files đã gặp một vấn đề chưa được xem xét trước đó.
+ExceptionNotificationHeader: Đã xảy ra lỗi!
+ExceptionNotificationReportButton: Báo cáo sự cố này
+InvalidItemDialogContent: Khoản mục được chỉ định không truy cập được hoặc không hợp lệ.{0}Mã lỗi:{0}{1}
+InvalidItemDialogTitle: Khoản mục không hợp lệ
+SettingsAboutVersionTitle: 'Phiên bản:'
+ShareDialogFailMessage: Hiện không có gì để chia sẻ...
+ShareDialogMultipleItemsDescription: Các khoản mục bạn đã chọn sẽ được chia sẻ
+ShareDialogSingleItemDescription: Khoản mục đã chọn sẽ được chia sẻ
+ShareDialogTitle: Đang chia sẻ {0}
+ShareDialogTitleMultipleItems: Đang chia sẻ {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Khoản mục bạn cố đặt lại tên không còn tồn tại nữa. Vui lòng kiểm tra lại vị trí chính xác của khoản mục.
+    Title: Mục không còn tồn tại
+  NameInvalid:
+    Text: Tên đã nhập không hợp lệ. Vui lòng kiểm tra và thử lại.
+    Title: Tên khoản mục không hợp lệ
+  TooLong:
+    Text: Độ dài của tên khoản mục đã nhập vượt quá giới hạn tối đa. Vui lòng kiểm tra và thử lại.
+    Title: Tên khoản mục quá dài
+ShowMoreOptions: Hiển thị thêm tùy chọn
+RestartNotificationText:
+  Text: Ứng dụng cần khởi động lại để áp dụng các thay đổi, bạn có muốn khởi động lại ứng dụng không?
+SponsorUsOnGitHub: Ủng hộ chúng tôi trên GitHub
+AccessDeniedCreateDialog:
+  Text: Chúng tôi không thể tạo khoản mục này
+AccessDenied: Truy cập bị từ chối
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Đặt làm
+Cancel: Hủy bỏ
+AddDialog:
+  Title: Tạo khoản mục mới
+AddDialogDescription:
+  Text: Chọn loại khoản mục
+File: Tệp
+AddDialogListFileSubHeader: Tạo một tệp trống
+Folder: Thư mục
+AddDialogListFolderSubHeader: Tạo một thư mục trống
+NavResfreshButton:
+  AutomationProperties:
+    Name: Làm mới thư mục
+Language: Ngôn ngữ
+SettingsContextMenuOverflow: Chuyển các tùy chọn mở rộng vào menu phụ
+ShowConfirmationWhenDeletingItems: Hiện hộp thoại xác nhận khi xóa khoản mục
+PropertySaveErrorMessage:
+  Text: Đã xảy ra vấn đề khi lưu một số thuộc tính.
+PropertySaveErrorDialog:
+  Title: Lỗi
+  SecondaryButtonText: Vẫn đóng
+PropertyRatingText: Xếp hạng
+PropertyParsingPath: Đường dẫn khoản mục
+PropertyItemTypeText: Loại khoản mục
+PropertyTitle: Tiêu đề
+PropertySubject: Chủ đề
+PropertyComment: Nhận xét
+PropertyCopyright: Bản quyền
+PropertyDateModified: Ngày sửa đổi
+PropertyBitDepth: Độ sâu bit
+PropertyDimensions: Kích thước
+PropertyHorizontalSize: Kích thước ngang
+PropertyVerticalSize: Kích thước dọc
+PropertyHorizontalResolution: Độ phân giải ngang
+PropertyVerticalResolution: Độ phân giải dọc
+PropertyColorSpace: Không gian màu
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Không xác định
+PropertyLongitudeDecimal: Kinh độ
+PropertyLatitudeDecimal: Vĩ độ
+PropertyAltitude: Độ cao
+PropertyDateTaken: Ngày chụp
+PropertyCameraManufacturer: Nhà sản xuất máy ảnh
+PropertyCameraModel: Hiệu máy ảnh
+PropertyExposureTime: Thời gian phơi sáng
+PropertyFocalLength: Tiêu cự
+PropertyAperture: Khẩu độ
+PropertyPeopleNames: Tên người
+PropertyChannelCount: Số kênh
+PropertyFormat: Định dạng
+PropertySampleRate: Tốc độ lấy mẫu
+PropertyAlbumArtist: Nghệ sĩ Album
+PropertyAlbumTitle: Tiêu đề Album
+Artist: Nghệ sĩ
+PropertyBeatsPerMinute: Nhịp mỗi phút
+PropertyComposer: Nhạc sĩ
+Conductor: Nhạc trưởng
+PropertyDiscNumber: Số đĩa
+PropertyGenre: Thể loại
+PropertyTrackNumber: Số rãnh âm
+PropertyDuration: Thời lượng
+PropertyFrameCount: Số khung hình
+PropertyProtectionType: Loại trình bảo vệ
+PropertyAuthorUrl: Url tác giả
+PropertyContentDistributor: Bên phân phối nội dung
+PropertyDateReleased: Ngày phát hành
+PropertySeriesName: Tên loạt
+PropertySeasonNumber: Số mùa
+PropertyEpisodeNumber: Số tập
+PropertyProducer: Nhà sản xuất
+PropertyPromotionUrl: Url quảng cáo
+PropertyProviderStyle: Hình thức cung cấp
+PropertyPublisher: Nhà phát hành
+PropertyThumbnailLargePath: Đường dẫn hình xem trước lớn
+PropertyThumbnailLargeUri: Uri hình xem trước lớn
+PropertyThumbnailSmallPath: Đường dẫn hình xem trước nhỏ
+PropertyThumbnailSmallUri: Uri hình xem trước nhỏ
+PropertyUserWebUrl: Url Web người dùng
+PropertyWriter: Nhà văn
+PropertyYear: Năm
+PropertyContributor: Người đóng góp
+PropertyLastAuthor: Tác giả cuối
+PropertyRevisionNumber: Số hiệu đính
+PropertyVersion: Phiên bản
+PropertyDateCreated: Ngày tạo
+PropertyTotalEditingTime: Tổng thời gian chỉnh sửa
+PropertyTemplate: Mẫu
+PropertyWordCount: Số từ
+PropertyCharacterCount: Số ký tự
+PropertyLineCount: Số hàng
+PropertyParagraphCount: Số đoạn văn
+PropertyPageCount: Số trang
+PropertySlideCount: Số trang trình bày
+PropertyFrameRate: Tốc độ khung hình
+PropertyEncodingBitrate: Tốc độ mã hóa bit
+PropertyPreviewAudioEncodingBitrate: Tốc độ bit mã hóa âm thanh
+PropertyPreviewVideoEncodingBitrate: Tốc độ bit mã hóa video
+Compression: Phương thức nén
+PropertyFrameWidth: Chiều rộng khung hình
+PropertyFrameHeight: Chiều cao khung hình
+PropertyOrientation: Hướng
+PropertySectionCore: Thông tin cơ bản
+PropertySectionImage: Hình ảnh
+PropertySectionPhoto: Ảnh chụp
+PropertySectionGPS: GPS
+PropertySectionMedia: Phương tiện
+PropertySectionAudio: Âm thanh
+PropertySectionMusic: Nhạc
+PropertySectionVideo: Video
+Document: Tài liệu
+Address: Địa chỉ
+SelectionOptions: Thao tác lựa chọn
+NavToolbarSelectionOptions:
+  Label: Chọn
+RecycleBinItemAutomation: Mục thùng rác
+ShortcutItemAutomation: Mục lối tắt
+Drives: Ổ lưu trữ
+PinToSidebarByDraggingCaptionText: Di chuyển đến đây
+EjectNotificationHeader: An toàn để ngắt kết nối phần cứng
+EjectNotificationBody: Thiết bị hiện có thể được ngắt kết nối khỏi máy tính.
+EjectNotificationErrorDialogHeader: Xảy ra vấn đề khi ngắt kết nối thiết bị
+EjectNotificationErrorDialogBody: Thiết bị này đang được sử dụng. Đóng các ứng dụng, cửa sổ, hoặc thẻ có thể đang sử dụng thiết bị và thử lại.
+Eject: Gỡ bỏ
+DuplicateTab: Nhân đôi thẻ
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Di chuyển thẻ đến cửa sổ mới
+NewTab: Thẻ mới
+ClearPropertiesFlyoutText:
+  Text: Một số thuộc tính có thể chứa thông tin cá nhân.
+ClearPropertiesButton:
+  Content: Xóa tất cả thuộc tính
+OngoingTasksTeachingTip:
+  Subtitle: Kiểm tra trạng thái của các thao tác tệp tại đây
+  Title: Trung tâm trạng thái
+SearchPagePathBoxOverrideText: Kết quả tìm kiếm {0} trong {1}
+Details: Chi tiết
+No: Không
+ShowProtectedSystemFiles: Hiện tệp hệ thống được bảo vệ
+SyncFolderPreferencesAcrossDirectories: Áp dụng lựa chọn bố cục và sắp xếp ở mọi thư mục
+SettingsContextMenu:
+  Text: Tùy chỉnh menu chuột phải
+OriginalPath: Đường dẫn gốc
+Add: Thêm
+Edit: Chỉnh sửa
+Remove: Loại bỏ
+SettingsMultitaskingAlwaysOpenDualPane: Mở thẻ trong chế độ hai ngăn
+ShowOpenInNewPane: Hiện tùy chọn mở thư mục trong ngăn mới
+ShowCopyPath: Hiện tùy chọn sao chép đường dẫn
+ShowCreateFolderWithSelection: Hiện tùy chọn tạo thư mục với lựa chọn
+ShowCreateShortcut: Hiện tùy chọn tạo lối tắt
+NavigationToolbarNewPane:
+  Label: Ngăn mới
+OpenInNewPane: Mở trong ngăn mới
+FilesAndFolders: Tệp & thư mục
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Chi tiết (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Lát (Ctrl+Shift+2)
+DateDeleted: Ngày xóa
+SidebarCloudDrives: Ổ lưu trữ đám mây
+Confirm: Xác nhận
+DesiredName: Tên mong muốn
+TogglePreviewPane: Bật/Tắt ngăn xem trước
+ToggleDetailsPane: Bật/Tắt ngăn chi tiết
+ToggleDetailsPaneDescription: Chuyển đổi ẩn/hiện ngăn chi tiết để xem các thuộc tính cơ bản của tệp
+ToggleInfoPane: Bật/Tắt ngăn thông tin
+ToggleInfoPaneDescription: Chuyển đổi ẩn/hiện ngăn thông tin để xem chi tiết hoặc xem trước tệp
+DetailsPanePreviewNotAvaliableText: Không có bản xem trước
+PropertyItemName: Tên khoản mục
+UnpinFolderFromSidebar: Bỏ ghim khỏi thanh bên
+Network: Mạng
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Chi tiết tệp
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Xem trước tệp
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Ngăn xem trước tệp đã chọn
+Feedback: Phản hồi
+CloudDriveSyncStatus_Online: Khả dụng khi trực tuyến
+Documentation: Tài liệu hướng dẫn
+CloudDriveSyncStatus_Offline: Khả dụng khi ngoại tuyến
+CloudDriveSyncStatus_PartialOffline: Khả dụng một phần khi ngoại tuyến
+CloudDriveSyncStatus_Sync: Đang đồng bộ hóa
+CloudDriveSyncStatus_Excluded: Đã loại trừ khỏi đồng bộ hóa
+ItemSizeNotCalculated: Chưa tính toán
+CloudDriveSyncStatus_Unknown: Không xác định
+RenameFileDialog:
+  Text: Nếu bạn thay đổi phần mở rộng, tệp có thể không sử dụng được nữa. Bạn có chắc chắn muốn thay đổi phần mở rộng không?
+DriveTypeCDRom: Ổ đĩa CD ROM
+DriveTypeCloudDrive: Ổ lưu trữ đám mây
+DriveTypeFixed: Ổ lưu trữ cố định
+DriveTypeFloppyDisk: Ổ đĩa mềm
+DriveTypeNetwork: Ổ đĩa mạng
+DriveTypeNoRootDirectory: Ổ lưu trữ chưa gán
+DriveTypeRam: Ổ lưu trữ RAM
+DriveTypeRemovable: Thiết bị lưu trữ di động
+DriveTypeUnknown: Không xác định
+DriveTypeVirtualDrive: Ổ lưu trữ ảo
+DateCreated: Ngày tạo
+MoreOptions: Nhiều tùy chọn hơn...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Ánh xạ ổ đĩa mạng
+Pinned: Đã ghim
+SidebarLibraries: Thư viện
+NoItemSelected: Chưa chọn khoản mục nào
+PropertyItemTarget: Đích
+Arguments: Đối số
+Default: Mặc định
+PropertyItemCount: Số lượng khoản mục
+ElevateConfirmDialog:
+  Title: Hành động này yêu cầu quyền quản trị viên
+  Content: Bạn có muốn tiếp tục với quyền quản trị viên không?
+ColumnsShortcutTooltip: Cột (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Ghim vào menu Bắt đầu
+UnpinItemFromStart:
+  Text: Bỏ ghim khỏi menu Bắt đầu
+Library: Thư viện
+LibraryLocations:
+  Text: 'Vị trí:'
+SetAsDefaultSavePath: Đặt làm đường dẫn lưu mặc định
+LibraryNoLocations:
+  Text: Không có vị trí
+ErrorInputEmpty: Trường nhập không được để trống!
+ErrorNameInputRestrictedCharacters: 'Tên không được chứa những kí tự sau: \ / : * ? " < > |'
+ErrorNameInputRestricted: Tên này không được phép sử dụng!
+CreateLibraryErrorAlreadyExists: Thư viện có cùng tên đã tồn tại!
+OpenStorageSense: Mở Storage Sense
+Copy: Sao chép
+CopyItemsDialogTitle: Sao chép {0, plural, other {khoản mục}}
+DeleteItemsDialogTitle: Xoá bỏ {0, plural, other {khoản mục}}
+MoveItemsDialogPrimaryButtonText: Di chuyển
+MoveItemsDialogSubtitle: '{0, plural, other {# khoản mục sẽ được di chuyển}}'
+MoveItemsDialogTitle: Di chuyển {0, plural, other {khoản mục}}
+DeleteItemsDialogSubtitle: '{0, plural, other {# khoản mục sẽ bị xoá bỏ}}'
+ConflictingItemsDialogPrimaryButtonText: Tiếp tục
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, other {Có # tên tệp xung đột}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Xung đột {0, plural, other {tên tệp}}
+CopyItemsDialogSubtitle: '{0, plural, other {# khoản mục sẽ được sao chép}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Xóa vĩnh viễn
+PropertyISO: Tốc độ ISO
+ReplaceExisting: Thay thế hiện có
+GenerateNewName: Tạo tên mới
+CreateFolderWithSelection: Tạo thư mục với lựa chọn
+ItemType: 'Loại:'
+ToolTipDescriptionDate: 'Ngày sửa đổi:'
+OpenWith: Mở bằng
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Biểu tượng tệp
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Cột đường dẫn gốc
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Cột loại khoản mục
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Cột ngày sửa đổi
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Cột ngày xóa
+Sort: Sắp xếp
+DateModifiedLowerCase: Ngày sửa đổi
+OriginalFolder: Thư mục gốc
+Descending: Giảm dần
+ItemSizeText_Huge: Cực lớn
+ItemSizeText_VeryLarge: Rất lớn
+ItemSizeText_Large: Lớn
+ItemSizeText_Medium: Vừa
+ItemSizeText_Small: Nhỏ
+ItemSizeText_Tiny: Rất nhỏ
+Future: Tương lai
+Today: Hôm nay
+Yesterday: Hôm qua
+EarlierThisWeek: Đầu tuần này
+LastWeek: Tuần trước
+EarlierThisMonth: Đầu tháng này
+LastMonth: Tháng trước
+EarlierThisYear: Đầu năm nay
+LastYear: Năm ngoái
+YearN: Năm {0}
+GroupItemsCount_Singular: '{0} mục'
+GroupItemsCount_Plural: '{0} mục'
+ReopenClosedTab: Mở lại thẻ đã đóng
+Rename: Đổi tên
+Privacy: Quyền riêng tư
+TheRecycleBin: Thùng rác
+Canceling: Đang hủy bỏ
+Clear: Xóa
+Widgets: Tiện ích
+SyncStatus: Trạng thái đồng bộ hóa
+Security: Bảo mật
+AdvancedPermissions: Quyền truy cập nâng cao
+Allow: Cho phép
+Deny: Từ chối
+SecurityFullControlLabel:
+  Text: Kiểm soát đầy đủ
+SecurityListDirectoryLabel:
+  Text: Liệt kê nội dung thư mục
+Modify: Sửa đổi
+SecurityPermissionsHeaderText: Quyền truy cập cho {0}
+SecurityReadAndExecuteLabel:
+  Text: Đọc và thực thi
+SecurityReadLabel:
+  Text: Đọc
+SecurityUsersGroupLabel:
+  Text: Nhóm hoặc tên người dùng
+Write: Ghi
+SecurityUnknownAccount: Tài khoản không xác định
+SecurityCannotReadProperties:
+  Text: Bạn không có quyền để xem thuộc tính bảo mật của đối tượng này. Vui lòng nhấp vào "Quyền truy cập nâng cao" để tiếp tục.
+SecurityOwnerLabel:
+  Text: 'Chủ sở hữu:'
+SecurityUnknownOwnerText:
+  Text: Chủ sở hữu không xác định
+ExtractArchive: Giải nén
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Mở thư mục đích khi hoàn tất
+BaseLayoutItemContextFlyoutExtractToChildFolder: Giải nén vào {0}\
+SideBarCreateNewLibrary:
+  Text: Tạo thư viện mới
+SideBarRestoreLibraries:
+  Text: Khôi phục thư viện mặc định
+DialogRestoreLibrariesSubtitleText: Bạn có chắc chắn muốn khôi phục các thư viện mặc định không? Các tệp của bạn sẽ không bị ảnh hưởng.
+DialogRestoreLibrariesTitleText: Khôi phục thư viện
+PropertyFileOwner: Chủ sở hữu
+SecuritySpecialLabel:
+  Text: Đặc biệt
+Access: Truy cập
+SecurityAdvancedAppliesTo: Áp dụng cho
+Principal: Đối tượng
+SecurityAdvancedFlagsFilesLabel: tệp
+SecurityAdvancedFlagsFolderLabel: Thư mục này
+SecurityAdvancedFlagsSubfoldersLabel: thư mục con
+Inherited: Được kế thừa
+Permissions: Quyền truy cập
+SecurityAdvancedCannotReadProperties:
+  Text: Bạn không có quyền để xem thuộc tính bảo mật của đối tượng này. Bạn có thể thử lấy quyền chủ sở hữu của đối tượng.
+SecurityAdvancedFolderFiles:
+  Text: Thư mục này và các tệp
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Thư mục này, thư mục con và các tệp
+SecurityAdvancedOnlyFiles:
+  Text: Chỉ các tệp
+SecurityAdvancedOnlySubfolders:
+  Text: Chỉ thư mục con
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Chỉ thư mục con và các tệp
+SecurityAdvancedOnlyThisFolder:
+  Text: Chỉ thư mục này
+SecurityAdvancedFolderSubfolders:
+  Text: Thư mục này và thư mục con
+SecurityAppendDataLabel:
+  Text: Bổ sung dữ liệu
+SecurityChangePermissionsLabel:
+  Text: Thay đổi quyền
+SecurityCreateDirectoriesLabel:
+  Text: Tạo thư mục
+SecurityCreateFilesLabel:
+  Text: Tạo các tệp
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Xóa bỏ thư mục con và các tệp
+SecurityExecuteFileLabel:
+  Text: Thực thi tệp
+SecurityReadAttributesLabel:
+  Text: Đọc thuộc tính
+SecurityReadDataLabel:
+  Text: Đọc dữ liệu
+SecurityReadExtendedAttributesLabel:
+  Text: Đọc thuộc tính mở rộng
+SecurityReadPermissionsLabel:
+  Text: Quyền đọc
+SecurityTakeOwnershipLabel:
+  Text: Lấy quyền sở hữu
+SecurityTraverseLabel:
+  Text: Xem thư mục
+SecurityWriteAttributesLabel:
+  Text: Ghi thuộc tính
+SecurityWriteDataLabel:
+  Text: Ghi dữ liệu
+SecurityWriteExtendedAttributesLabel:
+  Text: Ghi thuộc tính mở rộng
+SecurityAdvancedInheritedConvert:
+  Text: Chuyển đổi quyền được kế thừa thành quyền tách biệt
+SecurityAdvancedInheritedEnable:
+  Text: Bật kế thừa quyền
+SecurityAdvancedInheritedRemove:
+  Text: Xóa bỏ mọi quyền được kế thừa
+SecurityAdvancedReplaceChildPermissions:
+  Text: Đặt lại quyền của mục con
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Thay thế mọi quyền truy cập của đối tượng con bằng quyền được kế thừa từ đối tượng này
+NavigationToolbarClosePane:
+  Label: Đóng ngăn
+EnterCompactOverlay: Bật chế độ thu gọn
+ExitCompactOverlay: Tắt chế độ thu gọn
+PropertyFileDescription: Mô tả tệp
+PropertyCompany: Công ty
+PropertyLanguage: Ngôn ngữ
+PropertyTrademarks: Thương hiệu
+PropertyFileVersion: Phiên bản tệp
+PreviewPaneLoadCloudItemButton:
+  Text: Tải bản xem trước đầy đủ
+  ToolTipService:
+    ToolTip: Tải xuống khoản mục từ đám mây cùng bản xem trước
+DetailsArchiveItems: '{0, plural, other {# mục}} ({1, plural, other {# tệp}}, {2, plural, other {# thư mục}})'
+PropertyUncompressedSize: Cỡ không nén
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Ẩn phần {0}
+AddFile: Thêm tệp
+ConsentDialogTitle: Có bản cập nhật
+ConsentDialogContent: Bản cập nhật đã sẵn sàng để cài đặt
+Close: Đóng
+ConsentDialogPrimaryButtonText: Cập nhật
+Home: Trang chủ
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Quá trình giải nén tệp đã hoàn tất.
+ExtractingArchiveText: Đang giải nén tệp
+ExtractingCompleteText: Giải nén hoàn tất!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Mở thư mục nguồn
+Unknown: Không xác định
+EditTags: Chỉnh sửa nhãn
+PropertyPartOfSet: Là một phần của bản
+InsertDiscDialog:
+  OpenDriveButton: Mở ổ đĩa
+  Text: Vui lòng cho đĩa vào ổ đĩa {0}
+  Title: Chèn đĩa
+OK: OK
+AskCredentialDialog:
+  Title: Yêu cầu thông tin đăng nhập
+CredentialDialogAnonymous:
+  Content: Ẩn danh
+CredentialDialogDescription:
+  Text: 'Cung cấp thông tin đăng nhập của bạn:'
+CredentialDialogUserName:
+  PlaceholderText: Tên người dùng
+NoSearchResultsFound: Không tìm thấy khoản mục nào
+OpenLogLocation: Mở vị trí nhật ký
+LinkToFolderCaptionText: Tạo liên kết trong {0}
+Columns: Cột
+Tiles: Lát
+OpenFoldersInNewTab: Mở thư mục trong thẻ mới
+StatusCenter: Trung tâm trạng thái
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Cột ngày tạo
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Cột kích cỡ khoản mục
+ExperimentalFeatureFlags: Tính năng thử nghiệm
+HelpAndSupport: Trợ giúp và hỗ trợ
+SubmitFeatureRequest: Gửi yêu cầu tính năng
+SubmitBugReport: Gửi báo cáo lỗi
+SettingsSetAsDefaultFileManager: Đặt Files làm trình quản lý tệp mặc định
+SettingsSetAsOpenDialog: Sử dụng Files làm hộp thoại mở tệp
+Tag: Nhãn
+SettingsOpenItemsWithOneClick: Mở khoản mục bằng một lần nhấp
+FolderPath: Đường dẫn thư mục
+ExportSettings: Xuất cài đặt
+ImportSettings: Nhập cài đặt
+SettingsImportErrorDescription: Không thể nhập các cài đặt. Tệp cài đặt đã bị hỏng.
+SettingsImportErrorTitle: Xảy ra lỗi khi nhập các cài đặt
+EmptyRecycleBin: Dọn sạch thùng rác
+Sidebar: Thanh bên
+ChooseCustomIcon: Chọn biểu tượng thư mục tùy chỉnh
+Customization: Tùy chỉnh
+RestoreDefault: Khôi phục mặc định
+OpenTabInExistingInstance: Mở thẻ mới trong cửa sổ hiện hoạt khi chạy Files từ ứng dụng khác
+StartupSettings: Cài đặt khởi động
+Compatibility: Tương thích
+None: Không
+CompatibilityOnWindowsLogin: Khi đăng nhập Windows
+CompatibilityOnProgramStart: Khi chạy chương trình này
+System: Hệ thống
+CompatibilitySystemEnhanced: Hệ thống (nâng cao)
+CompatibilityReducedColorModeColor16bit: 16-bit (65536) màu
+CompatibilityReducedColorModeColor8bit: 8-bit (256) màu
+CompatibilityDisableFullscreenOptimizations: Tắt tối ưu hóa toàn màn hình
+CompatibilityRunIn640x480Resolution: Chạy ở độ phân giải 640 x 480
+CompatibilityOverrideHighDPIBehavior: Ghi đè hành vi chia tỷ lệ DPI cao
+CompatibilityReducedColorMode: Chế độ giảm màu
+CompatibilityRegisterThisProgramForRestart: Gửi yêu cầu khởi động lại chương trình
+RunAsAdministrator: Chạy với quyền quản trị viên
+CompatibilityRunTroubleshooter: Chạy trình khắc phục sự cố tương thích
+CompatibilityUseDPISettings: Sử dụng cài đặt DPI của màn hình hiển thị chính
+CompatibilityDoNotAdjustDPI: Không điều chỉnh giá trị DPI
+CompatibilityDoNotOverrideDPI: Không ghi đè giá trị DPI
+CompatibilityMode: Chế độ tương thích
+CompatibilityNoReducedColor: Không sử dụng chế độ giảm màu
+ThirdPartyLicenses: Giấy phép bên thứ ba
+SettingsSetAsDefaultFileManagerDescription: Tùy chọn này sửa đổi các khóa registry của hệ thống và có thể gây ra vấn đề trên thiết bị của bạn. Vui lòng cân nhắc trước khi bật tùy chọn.
+FolderWidgetCreateNewLibraryDialogTitleText: Tạo thư viện
+FolderWidgetCreateNewLibraryInputPlaceholderText: Nhập tên thư viện
+CalculateFolderSizes: Tính toán kích cỡ thư mục
+RecentFiles: Tệp gần đây
+SettingsOpenInLogin: Mở Files khi khởi động Windows
+Attributes: Thuộc tính
+Hidden: Ẩn
+MoreDetails: Thông tin
+ReadOnly: Chỉ đọc
+CleanupDrive: Dọn dẹp ổ lưu trữ
+Type: Loại
+Bytes: Byte
+Extract: Giải nén
+ExtractFiles: Giải nén tệp
+ExtractHere: Giải nén tại đây
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Giải nén vào {0}
+RunScript: Chạy kịch bản
+RunWithPowerShell: Chạy bằng PowerShell
+ShowFolderSizesWarning: Việc tính toán kích cỡ thư mục có thể tốn nhiều tài nguyên thiết bị và khiến mức sử dụng CPU tăng lên.
+RotateLeft: Xoay trái
+RotateRight: Xoay phải
+Install: Cài đặt
+CloseTabsToTheLeft: Đóng các thẻ bên trái
+CloseTabsToTheRight: Đóng các thẻ bên phải
+CloseOtherTabs: Đóng các thẻ khác
+Music: Nhạc
+Pictures: Hình ảnh
+UpdateFiles: Cập nhật Files
+FileTags: Nhãn
+Universal: Phổ thông
+DateFormatSample: 'vd: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Hiện hình xem trước
+Retry: Thử lại
+ErrorDialogUnsupportedMoveOperation: Thao tác di chuyển không được hỗ trợ trong ngữ cảnh này. Thay vào đó, bạn có muốn sao chép khoản mục không?
+HiddenItems: Mục bị ẩn
+Custom: Tùy chỉnh
+SetAsSlideshow: Trình chiếu trên màn hình chính
+SizeAllColumnsToFit: Căn chỉnh lại chiều rộng cột
+Adaptive: Chuyển bố cục tự động
+AdaptiveShortcutTooltip: Chuyển bố cục tự động (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Hiện dòng dữ liệu rẽ nhánh
+Behaviors: Hành vi
+ReviewFiles: Đánh giá Files
+ReviewFilesContent: Bạn có muốn đánh giá Files không?
+SetAsBackgroundFlyout: Đặt làm hình nền
+SetAsBackground: Hình nền màn hình chính
+SetAsDefault: Đặt làm mặc định
+DateColumn: Cột ngày
+DateCreatedColumn: Cột ngày tạo
+SizeColumn: Cột kích cỡ
+TagColumn: Cột nhãn
+TypeColumn: Cột loại
+Lockscreen: Màn hình khóa
+OpenFolderWithOneClickColumnsLayout: Mở thư mục bằng một lần nhấp ở bố cục dạng cột
+OpeningItems: Mở các khoản mục
+Compress: Nén
+SelectFilesAndFoldersOnHover: Chọn tệp và thư mục khi di chuột lên
+ConfirmRestoreBinDialogContent: Bạn có chắc chắn muốn khôi phục tất cả khoản mục từ Thùng rác không?
+ConfirmRestoreBinDialogTitle: Khôi phục tất cả khoản mục
+ConfirmRestoreSelectionBinDialogContent: Bạn có muốn khôi phục {0} khoản mục đã chọn không?
+ConfirmRestoreSelectionBinDialogTitle: Khôi phục các khoản mục đã chọn
+RestoreAllItems: Khôi phục tất cả khoản mục
+Restore: Khôi phục
+ShortcutCannotBeOpened: Không thể mở lối tắt
+DeleteShortcutDescription: Không thể tìm thấy khoản mục đích {0}. Bạn có muốn xóa bỏ lối tắt này không?
+AccessDeniedToFolder: Bạn không có quyền truy cập thư mục này.
+ArchivePassword: Mật khẩu tệp nén
+ExtractToPath: Đường dẫn
+SortingAndGrouping: Sắp xếp và nhóm
+CreateArchive: Tạo tệp nén
+Create: Tạo
+CreateNamedArchive: Tạo {0}
+EnterName: Nhập tên
+CompressionLevel: Mức độ nén
+CompressionLevelUltra: Rất cao
+CompressionLevelHigh: Cao
+CompressionLevelNormal: Bình thường
+CompressionLevelLow: Thấp
+CompressionLevelFast: Nhanh
+CompressionLevelNone: Không có
+SplittingSize: Kích cỡ chia nhỏ
+Do not split: Không chia nhỏ
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Mã hóa
+Password: Mật khẩu
+Format: Định dạng
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Cột trạng thái đồng bộ hóa
+GroupBy: Nhóm theo
+SortBy: Sắp xếp theo
+GroupInDescendingOrder: Nhóm theo thứ tự giảm dần
+SortInDescendingOrder: Sắp xếp theo thứ tự giảm dần
+NewShortcutDialogTitle: Tạo lối tắt mới
+NewShortcutDialogDescription: Tạo lối tắt đến địa chỉ Internet hoặc các tài nguyên, máy tính trên mạng/cục bộ.
+NewShortcutDialogPrompt: 'Nhập vị trí khoản mục:'
+AddDialogListShortcutSubHeader: Tạo lối tắt
+RecentFilesDisabledOnWindowsWarning: Tính năng Tệp gần đây hiện đang tắt trong File Explorer của Windows.
+EditSettingsFile: Chỉnh sửa tệp cài đặt
+WhatsNew: Có gì mới
+CannotCreateShortcutDialogTitle: Tạo lối tắt ở vị trí này yêu cầu quyền quản trị viên
+CannotCreateShortcutDialogMessage: Thay vào đó, bạn có muốn tạo lối tắt ở màn hình chính không?
+ErrorDialogNameNotAllowed: Tên khoản mục đã nhập không hợp lệ
+Settings: Cài đặt
+DoubleClickBlankSpaceToGoUp: Nhấn đúp chuột ở vùng trống để quay lại thư mục nguồn
+ViewMore: Xem thêm
+ShowEditTagsMenu: Hiện tùy chọn chỉnh sửa nhãn
+ShowCompressionOptions: Hiện tùy chọn nén
+ShowSendToMenu: Hiện menu gửi tới
+ShowOpenInNewTab: Hiện tùy chọn mở thư mục trong thẻ mới
+ShowOpenInNewWindow: Hiện tùy chọn mở thư mục trong cửa sổ mới
+QuickAccess: Truy cập nhanh
+NetworkAuthenticationDialogMessage: 'Nhập thông tin đăng nhập của bạn để kết nối đến: {0}'
+NetworkAuthenticationDialogTitle: Nhập thông tin đăng nhập mạng
+NetworkAuthenticationSaveCheckbox: Ghi nhớ thông tin đăng nhập
+NetworkFolderErrorDialogTitle: Lỗi thư mục mạng
+AppVersion: Phiên bản ứng dụng
+WindowsVersion: Phiên bản Windows
+Always: Luôn luôn
+PermanentDeletionOnly: Chỉ khi xóa vĩnh viễn
+Never: Không bao giờ
+TagColor: Màu nhãn
+NewTag: Nhãn mới
+CreateNewTag: Tạo nhãn mới
+Loading: Đang tải...
+ContextMenuOptions: Tùy chọn menu ngữ cảnh
+ShowFileExtensions: Hiện phần mở rộng tệp
+ShowHiddenItems: Hiện khoản mục bị ẩn
+FormatDriveText: Định dạng...
+Help: Trợ giúp
+FullScreen: Bật/Tắt toàn màn hình
+ConfirmDeleteTag: Bạn có chắc chắn muốn xóa nhãn này không?
+PlayAll: Phát tất cả
+Height: Chiều cao
+Width: Chiều rộng
+ApplyToAllConflictingItems: Áp dụng hành động này với mọi khoản mục xung đột
+OpenTerminal: Mở trong Windows Terminal
+OpenTerminalAsAdmin: Mở trong Windows Terminal với quyền quản trị viên
+Save: Lưu
+MultiSelect: Chọn nhiều
+ReorderSidebarItemsDialogText: Sắp xếp các mục ở thanh bên
+Hashes: Hash
+CalculationError: Đã xảy ra lỗi trong quá trình tính toán
+CalculationErrorFileIsOpen: Không thể tính toán hash, vui lòng đóng tệp và thử lại.
+CalculationOnlineFileHashError: Hash không khả dụng cho các tệp trực tuyến
+Algorithm: Th.toán
+HashValue: Giá trị hash
+SelectHashesToShow: Chọn hash để hiển thị
+Calculating: Đang tính toán...
+JumpListPinnedGroupHeader: Các mục được ghim
+DecreaseSize: Giảm kích thước
+IncreaseSize: Tăng kích thước
+ToggleSortDirection: Chuyển đổi hướng sắp xếp
+InvalidTagNameWarning: Tên không hợp lệ
+TagNameRules: Tên không được để trống hoặc bắt đầu/kết thúc với một dấu chấm.
+Videos: Video
+LaunchPreviewPopup: Mở cửa sổ xem trước
+ToggleCompactOverlay: Bật/Tắt chế độ thu gọn
+OpenHelpDescription: Mở trang trợ giúp trực tuyến trong trình duyệt
+ToggleFullScreenDescription: Chuyển đổi bật/tắt toàn màn hình
+EnterCompactOverlayDescription: Mở cửa sổ dạng thu gọn
+ExitCompactOverlayDescription: Thoát cửa sổ dạng thu gọn
+ToggleCompactOverlayDescription: Chuyển đổi bật/tắt cửa sổ dạng thu gọn
+SearchDescription: Đặt tiêu điểm vào hộp tìm kiếm
+ToggleShowHiddenItemsDescription: Chuyển đổi ẩn/hiện khoản mục bị ẩn
+ToggleShowFileExtensionsDescription: Chuyển đổi ẩn/hiện phần mở rộng tệp
+TogglePreviewPaneDescription: Chuyển đổi ẩn/hiện ngăn xem trước để xem nhanh nội dung tệp
+ToggleSidebarDescription: Chuyển đổi ẩn/hiện thanh bên
+CopyItemDescription: Sao chép khoản mục vào bộ nhớ tạm
+CopyPathDescription: Sao chép đường dẫn khoản mục đã chọn vào bộ nhớ tạm
+CopyPathWithQuotesDescription: Sao chép đường dẫn khoản mục đã chọn kèm dấu ngoặc kép vào bộ nhớ tạm
+CutItemDescription: Chuyển khoản mục vào bộ nhớ tạm
+PasteItemDescription: Dán khoản mục từ bộ nhớ tạm vào thư mục hiện tại
+PasteItemToSelectionDescription: Dán khoản mục từ bộ nhớ tạm vào thư mục đã chọn
+DeleteItemDescription: Xóa khoản mục
+CreateFolderDescription: Tạo thư mục mới
+CreateShortcutDescription: Tạo lối tắt mới đến khoản mục đã chọn
+CreateShortcutFromDialogDescription: Tạo lối tắt mới đến khoản mục bất kỳ
+EmptyRecycleBinDescription: Dọn sạch thùng rác
+FormatDriveDescription: Mở menu "Định dạng ổ lưu trữ" cho khoản mục đã chọn
+RestoreRecycleBinDescription: Khôi phục khoản mục đã chọn từ thùng rác
+RestoreAllRecycleBinDescription: Khôi phục tất cả khoản mục từ thùng rác
+OpenItemDescription: Mở khoản mục
+OpenItemWithApplicationPickerDescription: Mở khoản mục bằng ứng dụng đã chọn
+OpenParentFolderDescription: Mở thư mục nguồn của khoản mục đã tìm được
+RefreshItemsDescription: Làm mới nội dung hiển thị
+RenameDescription: Đổi tên khoản mục đã chọn
+SelectAllDescription: Chọn tất cả khoản mục
+InvertSelectionDescription: Đảo lựa chọn
+ClearSelectionDescription: Bỏ lựa chọn
+ToggleSelectDescription: Chuyển đổi chọn/bỏ chọn khoản mục đã thao tác gần nhất
+ShareItemDescription: Chia sẻ tệp đã chọn với người khác
+PinToStartDescription: Ghim mục vào menu Bắt đầu
+UnpinFromStartDescription: Bỏ ghim mục khỏi menu Bắt đầu
+PinFolderToSidebarDescription: Ghim thư mục vào thanh bên
+UnpinFolderFromSidebarDescription: Bỏ ghim thư mục khỏi thanh bên
+SetAsWallpaperBackgroundDescription: Đặt hình ảnh đã chọn làm hình nền màn hình chính
+SetAsSlideshowBackgroundDescription: Đặt hình ảnh đã chọn để trình chiếu trên màn hình chính
+SetAsLockscreenBackgroundDescription: Đặt hình ảnh đã chọn làm hình nền màn hình khóa
+SetAsAppBackgroundDescription: Đặt hình ảnh đã chọn làm hình nền ứng dụng
+InstallFontDescription: Cài đặt phông chữ đã chọn
+InstallInfDriverDescription: Cài đặt trình điều khiển bằng tệp inf đã chọn
+InstallCertificateDescription: Cài đặt chứng chỉ đã chọn
+RunAsAdminDescription: Chạy ứng dụng đã chọn với quyền quản trị viên
+RunAsAnotherUserDescription: Chạy ứng dụng đã chọn với vai trò là người dùng khác
+RunWithPowershellDescription: Chạy kịch bản PowerShell đã chọn
+LaunchPreviewPopupDescription: Khởi chạy bản xem trước trong cửa sổ bật lên
+CompressIntoArchiveDescription: Tạo tệp nén từ khoản mục đã chọn
+CompressIntoSevenZipDescription: Tạo tệp nén 7z ngay lập tức từ khoản mục đã chọn
+CompressIntoZipDescription: Tạo tệp nén zip ngay lập tức từ khoản mục đã chọn
+DecompressArchiveDescription: Giải nén tệp đã chọn vào thư mục bất kỳ
+DecompressArchiveHereDescription: Giải nén tệp đã chọn vào thư mục hiện tại
+DecompressArchiveToChildFolderDescription: Giải nén tệp đã chọn vào thư mục mới
+RotateLeftDescription: Xoay hình ảnh đã chọn sang trái
+RotateRightDescription: Xoay hình ảnh đã chọn sang phải
+OpenSettingsDescription: Mở trang cài đặt
+OpenTerminalDescription: Mở thư mục trong cửa sổ lệnh
+OpenTerminalAsAdminDescription: Mở thư mục trong cửa sổ lệnh với quyền quản trị viên
+LayoutDecreaseSizeDescription: Giảm kích thước khoản mục trong bố cục hiện tại
+LayoutIncreaseSizeDescription: Tăng kích thước khoản mục trong bố cục hiện tại
+LayoutDetailsDescription: Chuyển sang bố cục chi tiết
+LayoutTilesDescription: Chuyển sang bố cục lát
+LayoutListDescription: Chuyển sang bố cục danh sách
+List: Danh sách
+Grid: Lưới
+LayoutGridDescription: Chuyển sang bố cục lưới
+LayoutColumnsDescription: Chuyển sang bố cục dạng cột
+LayoutAdaptiveDescription: Tự động lựa chọn bố cục phù hợp
+SortByNameDescription: Sắp xếp khoản mục theo tên
+SortByDateModifiedDescription: Sắp xếp khoản mục theo ngày sửa đổi
+SortByDateCreatedDescription: Sắp xếp khoản mục theo ngày tạo
+SortBySizeDescription: Sắp xếp khoản mục theo kích cỡ
+SortByTypeDescription: Sắp xếp khoản mục theo loại
+SortBySyncStatusDescription: Sắp xếp khoản mục theo trạng thái đồng bộ hóa
+SortByTagDescription: Sắp xếp khoản mục theo nhãn
+SortByOriginalFolderDescription: Sắp xếp khoản mục theo thư mục gốc
+SortByDateDeletedDescription: Sắp xếp khoản mục theo ngày xóa
+SortAscendingDescription: Sắp xếp khoản mục theo thứ tự tăng dần
+SortDescendingDescription: Sắp xếp khoản mục theo thứ tự giảm dần
+ToggleSortDirectionDescription: Chuyển đổi hướng sắp xếp khoản mục
+GroupByNoneDescription: Liệt kê các khoản mục mà không nhóm
+GroupByNameDescription: Nhóm khoản mục theo tên
+GroupByDateModifiedDescription: Nhóm khoản mục theo ngày sửa đổi
+GroupByDateCreatedDescription: Nhóm khoản mục theo ngày tạo
+GroupBySizeDescription: Nhóm khoản mục theo kích cỡ
+GroupByTypeDescription: Nhóm khoản mục theo loại
+GroupBySyncStatusDescription: Nhóm khoản mục theo trạng thái đồng bộ hóa
+GroupByTagDescription: Nhóm khoản mục theo nhãn
+GroupByOriginalFolderDescription: Nhóm khoản mục theo thư mục gốc
+GroupByDateDeletedDescription: Nhóm khoản mục theo ngày xóa
+GroupByFolderPathDescription: Nhóm khoản mục theo đường dẫn thư mục
+GroupAscendingDescription: Sắp xếp nhóm theo thứ tự tăng dần
+GroupDescendingDescription: Sắp xếp nhóm theo thứ tự giảm dần
+ToggleGroupDirectionDescription: Chuyển đổi hướng sắp xếp nhóm
+NewTabDescription: Mở thẻ mới
+NavigateBackDescription: Điều hướng lùi về trong lịch sử duyệt
+NavigateForwardDescription: Điều hướng tiến lên trong lịch sử duyệt
+NavigateUpDescription: Điều hướng về thư mục nguồn
+DuplicateCurrentTabDescription: Nhân đôi thẻ hiện tại
+DuplicateSelectedTabDescription: Nhân đôi thẻ đã chọn
+CloseTabsToTheLeftCurrentDescription: Đóng các thẻ ở phía bên trái thẻ hiện tại
+CloseTabsToTheLeftSelectedDescription: Đóng các thẻ ở phía bên trái thẻ đã chọn
+CloseTabsToTheRightCurrentDescription: Đóng các thẻ ở phía bên phải thẻ hiện tại
+CloseTabsToTheRightSelectedDescription: Đóng các thẻ ở phía bên phải thẻ đã chọn
+CloseOtherTabsCurrentDescription: Đóng các thẻ khác ngoài thẻ hiện tại
+CloseOtherTabsSelectedDescription: Đóng các thẻ khác ngoài thẻ đã chọn
+ReopenClosedTabDescription: Mở lại thẻ đã đóng
+PreviousTabDescription: Chuyển đến thẻ trước đó
+NextTabDescription: Chuyển đến thẻ tiếp theo
+CloseSelectedTabDescription: Đóng thẻ hiện tại
+OpenNewPaneDescription: Mở ngăn mới
+ClosePaneDescription: Đóng ngăn bên phải
+FocusLeftPane: Chuyển đến ngăn bên trái
+FocusLeftPaneDescription: Đặt tiêu điểm vào ngăn bên trái
+FocusRightPane: Chuyển đến ngăn bên phải
+FocusRightPaneDescription: Đặt tiêu điểm vào ngăn bên phải
+ToggleSidebar: Bật/Tắt thanh bên
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Phím cách
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Trái
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Phải
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Xuống
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Lên
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Trang chủ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Dấu phân cách
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Tạm dừng
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Ngủ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Xóa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Trợ giúp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Trang chủ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Lùi trang
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Tiến trang
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Làm mới trang
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: Dừng tải trang
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Tìm kiếm
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Mục yêu thích
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: Phát/T.dừng
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: Dừng phát
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: Phát trước đó
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: Phát tiếp theo
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: Chọn phương tiện
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Tắt tiếng
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: Giảm âm lượng
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: Tăng âm lượng
+Change: Thay đổi
+ToggleSelect: Đảo lựa chọn cuối
+ShowFileExtensionWarning: Hiện cảnh báo khi thay đổi phần mở rộng tệp
+ThisPC: PC này
+RecycleBin: Thùng rác
+Untagged: Chưa gắn nhãn
+PreviousTab: Chuyển đến thẻ trước đó
+NextTab: Chuyển đến thẻ tiếp theo
+CloseTab: Đóng thẻ hiện tại
+EditPath: Chỉnh sửa đường dẫn
+Redo: Làm lại
+Undo: Hoàn tác
+InvalidLocation: Vị trí không hợp lệ
+CopyFileWithoutProperties: Bạn có chắc chắn muốn sao chép các tệp này mà không có thuộc tính không?
+FilePropertiesCannotBeCopied: Các tệp này có các thuộc tính không thể được sao chép sang vị trí mới
+FilePropertiesCannotBeMoved: Các tệp này có các thuộc tính không thể được di chuyển sang vị trí mới
+MoveFileWithoutProperties: Bạn có chắc chắn muốn di chuyển các tệp này mà không có thuộc tính không?
+ShowCheckboxesWhenSelectingItems: Hiện hộp kiểm khi chọn khoản mục
+EditPathDescription: Đặt tiêu điểm vào thanh đường dẫn
+AddItemDescription: Tạo khoản mục mới
+SecurityNoAccessControlEntriesText: Không có nhóm hoặc người dùng nào có quyền truy cập đối tượng này. Tuy nhiên, chủ sở hữu đối tượng này có thể gán quyền truy cập.
+OpenFileLocationDescription: Mở vị trí khoản mục
+DeletePermanently: Xóa vĩnh viễn
+DeleteItemPermanentlyDescription: Xóa vĩnh viễn khoản mục
+PlayAllDescription: Phát các tệp phương tiện đã chọn
+UndoDescription: Hoàn tác thao tác tệp cuối cùng
+RedoDescription: Làm lại thao tác tệp cuối cùng
+Location: 'Vị trí:'
+GroupByMonthDescription: Nhóm khoản mục theo tháng
+GroupByYearDescription: Nhóm khoản mục theo năm
+Month: Tháng
+Day: Ngày
+ToggleGroupByDateUnitDescription: Chuyển đổi ẩn/hiện đơn vị khi nhóm theo ngày tháng
+ToggleGroupingUnit: Ẩn/Hiện đơn vị nhóm
+Year: Năm
+GroupByDateUnit: Nhóm theo đơn vị
+GroupByDateCreatedDayDescription: Nhóm khoản mục theo ngày tạo
+GroupByDateCreatedMonthDescription: Nhóm khoản mục theo tháng tạo
+GroupByDateCreatedYearDescription: Nhóm khoản mục theo năm tạo
+GroupByDateDeletedDayDescription: Nhóm khoản mục theo ngày xóa
+GroupByDateDeletedMonthDescription: Nhóm khoản mục theo tháng xóa
+GroupByDateDeletedYearDescription: Nhóm khoản mục theo năm xóa
+GroupByDateModifiedDayDescription: Nhóm khoản mục theo ngày sửa đổi
+GroupByDateModifiedMonthDescription: Nhóm khoản mục theo tháng sửa đổi
+GroupByDateModifiedYearDescription: Nhóm khoản mục theo năm sửa đổi
+SecurityClickAdvancedPermissions: Nhấp vào 'Quyền truy cập nâng cao' để tiếp tục.
+SecurityRequireReadPermissions: Bạn phải có quyền Đọc để xem các thuộc tính của khoản mục này.
+SecuritySuggestToTakeOwnership: Để lấy quyền sở hữu khoản mục, bao gồm quyền xem các thuộc tính của khoản mục này, hãy thử nhấp vào nút "Thay đổi" ở trên.
+SecurityUnableToDisplayPermissions: Không thể hiển thị quyền truy cập.
+StashChanges: Để các thay đổi của tôi vào '{0}'
+DiscardChanges: Hủy các thay đổi của tôi
+BringChanges: Đưa các thay đổi của tôi vào '{0}'
+UncommittedChanges: Bạn có những thay đổi chưa được phê duyệt ở nhánh này. Bạn muốn làm gì với chúng?
+SwitchBranch: Chuyển nhánh
+Branches: Nhánh
+Switch: Chuyển
+NewBranch: Nhánh mới
+InvalidBranchName: Tên nhánh không hợp lệ
+CreateBranch: Tạo nhánh
+CreateNewBranch: Tạo nhánh
+BasedOn: Dựa trên
+SwitchToNewBranch: Chuyển sang nhánh mới
+CreateFolderWithSelectionDescription: Tạo thư mục với khoản mục đã chọn
+OpenProperties: Thuộc tính
+OpenPropertiesDescription: Mở cửa sổ thuộc tính
+Locals: Cục bộ
+Remotes: Máy chủ
+ImproveTranslation: Dịch thuật trên Crowdin
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Chạy git fetch
+GitPullDescription: Chạy git pull
+Preview: Xem trước
+GitStatus: Trạng thái Git
+GitError: Lỗi Git
+PullTimeoutError: git pull không thành công do hết thời gian chờ
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (đa giá trị)
+Author: Tác giả
+DateCommitted: Ngày phê duyệt
+CommitMessage: Ghi chú phê duyệt
+CommitSha: SHA phê duyệt
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Kết cấu nền
+Solid: Màu đơn
+ManageBranches: Quản lý nhánh
+Push: Push
+GitPushDescription: Chạy git push
+GitSync: Đồng bộ
+GitSyncDescription: Chạy git pull sau đó là git push
+GitSyncStatusExtendedInfo: '{0} phê duyệt ra / {1} phê duyệt tới'
+ConnectGitHub: Kết nối với GitHub
+ConnectGitHubDescription: Nhập mã đang được hiển thị vào liên kết bên dưới để bắt đầu làm việc với kho lưu trữ GitHub.
+CannotReachGitHubError: Files hiện không thể truy cập GitHub.
+OpenInVSCode: Mở thư mục trong VS Code
+OpenInVSCodeDescription: Mở thư mục hiện tại trong Visual Studio Code
+OpenRepoInVSCode: Mở kho lưu trữ trong VS Code
+OpenRepoInVSCodeDescription: Mở gốc của kho lưu trữ Git trong Visual Studio Code
+CopyCode: Sao chép mã
+Added: Đã thêm
+Deleted: Đã xóa
+Modified: Đã sửa đổi
+Untracked: Không được theo dõi
+UnableToDisplayOwner: Không thể hiển thị chủ sở hữu hiện tại.
+AuthorizationSucceded: Tuyệt! Bạn đã được ủy quyền.
+InitRepo: Khởi tạo kho lưu trữ
+InitRepoDescription: Khởi tạo một kho lưu trữ Git
+GitOriginRepositoryName: Tên kho lưu trữ từ xa
+GitCurrentBranch: Nhánh hiện tại
+PathColumn: Cột đường dẫn
+SortByPathDescription: Sắp xếp khoản mục theo đường dẫn
+OpenDirectoryInNewPaneDescription: Mở thư mục trong ngăn mới
+OpenDirectoryInNewTabDescription: Mở thư mục trong thẻ mới
+OpenInNewWindowDescription: Mở thư mục trong cửa sổ mới
+OpenAllTaggedItems: Mở tất cả
+OpenAllTaggedItemsDescription: Mở tất cả khoản mục được gắn nhãn
+#{0} is the drive letter.
+DriveWithLetter: Ổ lưu trữ ({0})
+InvalidCommand: Lệnh không hợp lệ
+InvalidCommandContent: "'{0}' không phải là một lệnh."
+CommandNotExecutable: Lệnh không thể thực thi
+CommandNotExecutableContent: Lệnh '{0}' chưa sẵn sàng để thực thi.
+CommandPalette: Bảng lệnh
+OpenCommandPaletteDescription: Mở bảng lệnh
+ShortcutItemWorkingDir: 'Bắt đầu trong:'
+TurnOnBitLocker: Bật BitLocker
+ManageBitLocker: Quản lý BitLocker
+CopyFailureFileToLarge: Những khoản mục sau là quá lớn để có thể sao chép vào ổ lưu trữ này
+FormatDrive: Định dạng ổ lưu trữ
+DontShowAgain: Không hiện lại
+FilesRunningAsAdmin: Files đang chạy với quyền quản trị
+FilesRunningAsAdminContent: Do giới hạn của Windows và WinAppSdk, tính năng kéo thả sẽ không khả dụng khi chạy Files với quyền quản trị viên. Để khắc phục, hãy mở cài đặt UAC (User Account Control) từ menu Bắt đầu, chọn mức thứ ba rồi khởi động lại máy. Lưu ý rằng bạn vẫn có thể tiếp tục sử dụng Files mà không cần tính năng này.
+SettingsLeaveAppRunning: Chạy ứng dụng trong nền khi đóng cửa sổ
+#One of the custom color themes
+Blue: Xanh dương
+#One of the custom color themes
+BlueGray: Xanh xám
+#One of the custom color themes
+BrickRed: Đỏ gạch
+#One of the custom color themes
+Camouflage: Rằn ri
+#One of the custom color themes
+CoolBlueBright: Xanh dương sáng
+#One of the custom color themes
+Gray: Xám
+#One of the custom color themes
+GrayDark: Xám tối
+#One of the custom color themes
+Green: Xanh lục
+#One of the custom color themes
+IrisPastel: Tím pastel
+#One of the custom color themes
+MintLight: Bạc hà sáng
+#One of the custom color themes
+ModRed: Đỏ phai
+#One of the custom color themes
+OrangeBright: Cam sáng
+#One of the custom color themes
+Overcast: Âm u
+#One of the custom color themes
+Red: Đỏ
+#One of the custom color themes
+RoseBright: Hồng sáng
+#One of the custom color themes
+Seafoam: Xanh pastel
+#One of the custom color themes
+Storm: Giông bão
+#One of the custom color themes
+VioletRedLight: Đỏ tím sáng
+#One of the custom color themes
+YellowGold: Vàng kim
+ClearCompleted: Xóa t.vụ đã hoàn tất
+NameWithColon: 'Tên:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} trong tổng {1} đã được xử lý'
+ItemsLower: mục
+CannotInitializeGitRepo: Files không thể khởi tạo thư mục này dưới dạng kho lưu trữ Git.
+ContributingArtist: Nghệ sĩ đóng góp
+AddPage: Thêm trang
+ProcessingItems: Đang xử lý khoản mục...
+SpeedWithColon: 'Tốc độ:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Đã hủy nén {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Đã hủy thao tác nén {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Đã nén {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Đã nén {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Xảy ra lỗi khi nén {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Không thể nén {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Đang nén {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Đang thực hiện nén {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Đã hủy sao chép {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Đã hủy thao tác sao chép {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Đã sao chép {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Đã sao chép {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Xảy ra lỗi khi sao chép {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Không thể sao chép {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Đang sao chép {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Đang thực hiện sao chép {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Đã hủy giải nén "{0}" vào "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Đã hủy thao tác giải nén "{0}" từ "{1}" vào "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Đã giải nén "{0}" vào "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Đã giải nén "{0}" từ "{1}" vào "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Xảy ra lỗi khi giải nén "{0}" vào "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Không thể giải nén "{0}" từ "{1}" vào "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Đang giải nén "{0}" vào "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Đang thực hiện giải nén "{0}" từ "{1}" vào "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Đã hủy xóa {0} mục khỏi "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Đã xóa {0} mục khỏi "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Xảy ra lỗi khi xóa {0} mục khỏi "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Không thể xóa {0} mục khỏi "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Đang xóa {0} mục khỏi "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Đã hủy di chuyển {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Đã hủy thao tác di chuyển {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Đã di chuyển {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Đã di chuyển {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Đang di chuyển {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Đang thực hiện di chuyển {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Xảy ra lỗi khi di chuyển {0} mục đến "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Không thể di chuyển {0} mục từ "{1}" đến "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Đã hủy dọn sạch thùng rác
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Đã dọn sạch thùng rác
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Đang dọn sạch thùng rác
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Xảy ra lỗi khi dọn sạch thùng rác
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Không thể dọn sạch thùng rác
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Đang chuẩn bị thực hiện...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} khoản mục đã được xử lý'
+UnblockDownloadedFile: Bỏ chặn tệp đã tải xuống
+NoFileOperations: Không có tác vụ đang thực hiện nào
+OpenOnStartupDisabled: Tùy chọn mở Files khi khởi động Windows không khả dụng do các cài đặt hệ thống hoặc group policy của bạn. Để kích hoạt lại, hãy mở mục khởi động trong Trình quản lý Tác vụ.
+FailedToRestore: Không thể khôi phục khoản mục từ thùng rác
+FailedToSetBackground: Không thể đặt làm hình nền
+GitDeleteBranch: Xóa nhánh Git
+GitDeleteBranchSubtitle: Bạn có chắc chắn muốn xóa vĩnh viễn nhánh "{0}" không?
+ConnectedToGitHub: Đã kết nối với GitHub
+Logout: Đăng xuất
+ConnectToGitHub: Kết nối với GitHub
+Login: Đăng nhập
+ErrorApplyingTagContent: Nhãn hiện chỉ tương thích với các ổ lưu trữ ở định dạng NTFS.
+ErrorApplyingTagTitle: Đã xảy ra lỗi khi gắn nhãn
+DecompressArchiveHereSmartDescription: Giải nén tệp đã chọn vào thư mục hiện tại nếu tệp chỉ chứa một khoản mục, hoặc vào thư mục mới nếu tệp chứa nhiều khoản mục
+ExtractHereSmart: Giải nén tại đây (Thông minh)
+SortFilesAndFoldersTogether: Sắp xếp tệp chung với thư mục
+SortFilesAndFoldersTogetherDescription: Sắp xếp tệp và thư mục chung với nhau
+SortFilesFirst: Sắp xếp tệp lên đầu
+SortFilesFirstDescription: Sắp xếp tệp lên đầu tiên rồi đến thư mục
+SortFoldersFirst: Sắp xếp thư mục lên đầu
+SortFoldersFirstDescription: Sắp xếp thư mục lên đầu tiên rồi đến tệp
+SortPriority: Ưu tiên sắp xếp
+FailedToRotateImage: Không thể xoay hình ảnh
+Restart: Khởi động lại
+Quit: Thoát
+FaildToShareItems: Không thể chia sẻ khoản mục
+ScrollToPreviousFolderWhenNavigatingUp: Cuộn đến vị trí thư mục trước đó khi điều hướng lùi về
+NewWindowDescription: Mở cửa sổ mới
+ChangeAlbumCover: Thay đổi bìa album
+ItemRenameFailed: Không thể đổi tên khoản mục
+HigherPermissionsRequired: Chỉnh sửa "{0}" yêu cầu quyền truy cập bổ sung
+EditPermissions: Chỉnh sửa quyền
+BackgroundRunningNotificationBody: Files sẽ chạy trong nền để cải thiện tốc độ khởi động ứng dụng.
+BackgroundRunningNotificationHeader: Files đang chạy trong nền
+QuestionsAndDiscussions: Câu hỏi & thảo luận
+TilesViewSizeInfo: Các lựa chọn kích thước bổ sung hiện chưa khả dụng trong bố cục lát.
+#Used to describe layout sizes
+Compact: Thu gọn
+#Used to describe layout sizes
+Small: Nhỏ
+#Used to describe layout sizes
+Medium: Vừa
+#Used to describe layout sizes
+Medium+: Vừa +
+#Used to describe layout sizes
+Medium++: Vừa ++
+#Used to describe layout sizes
+Medium+++: Vừa +++
+#Used to describe layout sizes
+Medium++++: Vừa ++++
+#Used to describe layout sizes
+Medium+++++: Vừa +++++
+#Used to describe layout sizes
+Large: Lớn
+#Used to describe layout sizes
+Large+: Lớn +
+#Used to describe layout sizes
+Large++: Lớn ++
+#Used to describe layout sizes
+Large+++: Lớn +++
+#Used to describe layout sizes
+ExtraLarge: Rất lớn
+DetailsView: Bố cục chi tiết
+LayoutType: Bố cục
+Actions: Tác vụ
+Commands: Lệnh
+AddCommand: Thêm lệnh
+RestoreDefaults: Khôi phục mặc định
+ChooseAnAction: Chọn một tác vụ
+RestoreDefaultKeybindingsConfirmation: Bạn có chắc chắn muốn khôi phục tổ hợp phím mặc định không? Bạn sẽ không thể hoàn tác sau khi tiếp tục.
+KeybindingAlreadyUsedNotification: Tổ hợp phím này đã được sử dụng, vui lòng chọn một tổ hợp phím khác để tiếp tục.
+KeybindingInvalidKeyNotification: Không thể sử dụng tổ hợp phím này, vui lòng chọn một tổ hợp phím khác.
+Customized: Tùy chỉnh
+AdaptiveLayoutDisabledNotification: Tuỳ chọn bố cục tự động không khả dụng khi các thiết đặt được đồng bộ. Vì vậy, bố cục sẽ được đặt lại thành Chi tiết.
+BackgroundImage: Hình nền
+#Image alignment type
+Bottom: Bên dưới
+#Image alignment type
+Center: Chính giữa
+#Image stretch type
+Fill: Kéo giãn
+HorizontalAlignment: Căn ngang
+ImageFit: Khớp cỡ ảnh
+#Image alignment type
+Left: Bên trái
+Opacity: Độ trong suốt
+#Image alignment type
+Right: Bên phải
+#Image alignment type
+Top: Bên trên
+#Image stretch type
+Uniform: Vừa cửa sổ
+#Image stretch type
+UniformToFill: Lấp đầy
+VerticalAlignment: Căn dọc
+#This is a type of backdrop for the application background
+ThinAcrylic: Acrylic nhẹ
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Hiện ở mọi vị trí
+DevTools: Công cụ nhà phát triển
+DisplayOpenIDE: Cấu hình nút "Mở IDE" trên thanh trạng thái
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Hiện ở kho lưu trữ Git
+#This is the friendly name for DLL files.
+ApplicationExtension: Phần mở rộng ứng dụng
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Tệp ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Tệp Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Tệp Bitmap
+NumPadTypeName: Num
+NetworkLocations: Vị trí mạng
+NoNetworkLocationsInfo: Hiện không có vị trí mạng nào. Bạn có thể tắt tiện ích này nếu không sử dụng tính năng.
+Disable: Tắt
+EditInNotepad: Chỉnh sửa bằng Notepad
+EditInNotepadDescription: Chỉnh sửa tệp đã chọn bằng Notepad

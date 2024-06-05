@@ -1,65 +1,65 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: Dritare e re
+CopyPath: Kopjo vendndodhjen
+CopyPathWithQuotes: Kopje vendndodhjen me thonjëza
+Browse: Shfleto
+Size: Madhësia
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'Krijuar:'
+Path: Vendndodhja
+SizeLabel: 'Madhësia:'
+SizeOnDiskLabel: 'Madhësia në disk:'
+UncompressedSize: 'Madhësia e pakompresuar:'
+ErrorDialogThisActionCannotBeDone: Ky veprim nuk mund të zhbëhet
+ErrorDialogTheDestinationFolder: Dosja mbërritëse
+ErrorDialogIsASubfolder: është një nëndosje e dosjes burim
+Skip: Anashkalo
+SelectAll: Përzgjidhi të gjitha
+InvertSelection: Përkëmbe përzgjedhjen
+ClearSelection: Pastro përzgjedhjen
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Modifikuar:'
+Accessed: 'Qasur:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Pastro të gjithë artikujt
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: Fut vendndodhjen ku kërkon të shkosh ose shkruaj ">" për të hapur panelin e komandës
+Search: Kërko
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Skedarët që ke qasur më parë do të shfaqen këtu
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
-BackgroundColor: Background color
-Advanced: Advanced
+  Text: Hiqe këtë artikull
+OpenGitHubRepo: depo GitHub
+About: Rreth kësaj
+OpenSource: Burim i hapur
+DateFormat: Formati i datës
+SettingsAppearanceTheme: Paraqitja
+SettingsFilesAndFoldersShowFileExtensions: Shfaq prapashtesat për tipet e njohura të skedarëve
+SettingsFilesAndFoldersShowHiddenItems: Shfaq skedarët dhe dosjet e fshehura
+ShowDotFiles: Shfaq skedarët që fillojnë me pikë
+Appearance: Pamja e jashtme
+BackgroundColor: Ngjyra në sfond
+Advanced: I avancuar
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: Vazhdo aty ku e kishe lënë
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: Hap një skedë të re
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
+  Content: Hap një ose disa faqe specifike
 Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+Documents: Documentat
+Downloads: Shkarkimet
+Name: Emrit
+Ascending: Në ngjitje
+Paste: Ngjit
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
+  Label: i/e Re
+Properties: Cilësimet
+Open: Hap
+OpenInNewTab: Hap në një skedë të re
+OpenInNewWindow: Hap në një dritare të re
+Share: Shpërndaje
+Cut: Prite
+Delete: Fshije
 PinFolderToSidebar: Pin to Sidebar
 WelcomeDialog:
   Title: Welcome to Files!
@@ -1057,7 +1057,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: Kërko
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserFavorites: Favorites
   #Key name for hotkeys in menus. Use abbreviation if possible.

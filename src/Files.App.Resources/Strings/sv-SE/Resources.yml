@@ -1,0 +1,1467 @@
+NewWindow: Nytt fönster
+CopyPath: Kopiera sökväg
+CopyPathWithQuotes: Kopiera sökväg med citattecken
+Browse: Bläddra
+Size: Storlek
+PropertiesCreated:
+  Text: 'Skapad:'
+Path: Sökväg
+SizeLabel: 'Storlek:'
+SizeOnDiskLabel: 'Storlek på disken:'
+UncompressedSize: 'Okomprimerad storlek:'
+ErrorDialogThisActionCannotBeDone: Denna åtgärd kan inte utföras
+ErrorDialogTheDestinationFolder: Målmappen
+ErrorDialogIsASubfolder: är en undermapp till källmappen
+Skip: Hoppa över
+SelectAll: Markera alla
+InvertSelection: Omvänd markering
+ClearSelection: Rensa markering
+PropertiesModified:
+  Text: 'Ändrad:'
+Accessed: 'Använd:'
+RecentItemClearAll:
+  Text: Rensa alla objekt
+NavigationToolbarVisiblePath:
+  PlaceholderText: Ange en sökväg att navigera till eller skriv ">" för att öppna kommandopaletten
+Search: Sök
+RecentItemDescription:
+  Text: Filer som du använt tidigare kommer att visas här
+RecentItemRemove:
+  Text: Ta bort det här objektet
+OpenGitHubRepo: GitHub repository
+About: Om
+OpenSource: Öppen källkod
+DateFormat: Datumformat
+SettingsAppearanceTheme: Tema
+SettingsFilesAndFoldersShowFileExtensions: Visa filnamnstillägg för kända filtyper
+SettingsFilesAndFoldersShowHiddenItems: Visa dolda filer och mappar
+ShowDotFiles: Visa punktfiler
+Appearance: Utseende
+BackgroundColor: Bakgrundsfärg
+Advanced: Avancerat
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Fortsätt där du slutade
+SettingsOnStartupOpenANewTab:
+  Content: Öppna en ny flik
+SettingsOnStartupOpenASpecificPage:
+  Content: Öppna en specifik sida eller specifika sidor
+Desktop: Skrivbord
+Documents: Dokument
+Downloads: Hämtade filer
+Name: Namn
+Ascending: Stigande
+Paste: Klistra in
+BaseLayoutContextFlyoutNew:
+  Label: Nya
+Properties: Egenskaper
+Open: Öppna
+OpenInNewTab: Öppna i ny flik
+OpenInNewWindow: Öppna i nytt fönster
+Share: Dela
+Cut: Klipp ut
+Delete: Ta bort
+PinFolderToSidebar: Fäst i sidofältet
+WelcomeDialog:
+  Title: Välkommen till Files!
+  PrimaryButtonText: Ge tillstånd
+WelcomeDialogTextBlock:
+  Text: För att komma igång behöver du bevilja behörighet till oss att visa dina filer. En sida kommer att öppnas i Inställningar där du kan bevilja behörigheten. Du behöver starta om appen efter att du har gjort detta.
+Display: Visa
+EnterAnItemName: Ange ett namn för objektet
+RenameDialog:
+  PrimaryButtonText: Ange namn
+LightTheme: Ljust
+DarkTheme: Mörkt
+Application: App
+SystemTimeStyle: systemet
+NewFolder: Ny mapp
+NewFile: Ny fil
+EmptyFolder:
+  Text: Denna mapp är tom.
+Back: Tillbaka
+Forward: Framåt
+Up: Upp
+Refresh: Uppdatera
+ItemAlreadyExistsDialogContent: Det finns redan ett objekt med samma namn på den här platsen.
+ItemAlreadyExistsDialogSecondaryButtonText: Ersätt existerande objekt
+ItemAlreadyExistsDialogTitle: Objektet finns redan.
+SetAsLockscreen: Använd som låsskärmsbakgrund
+SetAsAppBackground: Ange som app bakgrund
+AccessDeniedDeleteDialog:
+  Text: Vi kunde inte ta bort det här objektet
+DriveUnpluggedDialog:
+  Text: Vänligen sätt i enheten som krävs för att komma åt det här objektet.
+  Title: Enheten frånkopplad
+FileNotFoundDialog:
+  Text: Filen som du försöker komma åt kan ha flyttats eller tagits bort.
+  Title: Filen hittades inte
+CannotAccessPropertiesTitle: Kan inte öppna egenskaper för denna fil
+CannotAccessPropertiesContent: Filen som du försöker komma åt kan ha flyttats eller tagits bort.
+FolderNotFoundDialog:
+  Text: Mappen som du försöker komma åt kan ha flyttats eller tagits bort.
+  Title: Tog du bort den här mappen?
+FileInUseByDialog:
+  Text: Filen du försöker komma åt används just nu av {0}
+FileInUseDialog:
+  Text: Filen du försöker komma åt används just nu av ett annat program
+  Title: Filen används
+Layout: Layout
+PropertiesDialogReadOnly:
+  Text: Skrivskyddad
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Nu
+ErrorDialogUnsupportedOperation: Den begärda åtgärden stöds inte.
+DriveFreeSpaceAndCapacity: '{0} ledigt av {1}'
+SendTo: Skicka till
+FileNameTeachingTip:
+  Subtitle: 'Filnamn kan inte innehålla något av följande tecken: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Föremålets namn är ogiltigt
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# objekt valda} other {# objekt valda}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {item} other {items}}'
+Yes: Ja
+ConfirmEmptyBinDialogContent: Vill du radera alla dessa objekt permanent?
+ConfirmEmptyBinDialogTitle: Töm papperskorgen
+ItemSizeBytes: byte
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Kör som en annan användare
+PropertiesDriveItemTypesEquals: Allt med typen {0}
+PropertiesDriveItemTypeDifferent: Olika typer
+PropertiesCombinedItemLocation: Allt i {0}
+PropertiesDriveUsedSpace:
+  Text: 'Använt utrymme:'
+PropertiesDriveFreeSpace:
+  Text: 'Ledigt utrymme:'
+PropertiesDriveCapacity:
+  Text: 'Kapacitet:'
+PropertiesDriveFileSystem:
+  Text: 'Filsystem:'
+JumpListRecentGroupHeader: Senaste
+TabStripDragAndDropUIOverrideCaption: Flytta flik hit
+syncStatusColumn:
+  Header: Status
+SettingsPreferencesSystemDefaultLanguageOption: Windows-standard
+NavigationToolbarVisiblePathNoResults: Inga sökresultat
+SubDirectoryAccessDenied: Kan inte komma åt några objekt att visa
+MoveToFolderCaptionText: Flytta till {0}
+CopyToFolderCaptionText: Kopiera till {0}
+CreateShortcut: Skapa genväg
+OpenFileLocation: Öppna filsökväg
+PropertiesShortcutItemArgs:
+  Text: 'Argument:'
+PropertiesShortcutItemPath:
+  Text: Mål
+PropertiesShortcutItemType:
+  Text: 'Genvägstyp:'
+PropertiesShortcutTypeLink: Webblänk
+General: Allmänt
+Shortcut: Genväg
+ShortcutWebLinkFileType: Internetgenväg
+ShortcutCreateNewSuffix: '{0} - genväg'
+ExceptionNotificationBody: Files stötte på ett problem som utvecklarna inte ännu var förberedda för.
+ExceptionNotificationHeader: Något gick fel!
+ExceptionNotificationReportButton: Rapportera det här problemet
+InvalidItemDialogContent: Det hänvisade objektet är antingen ogiltigt eller oåtkomligt.{0}Felmeddelande:{0}{1}
+InvalidItemDialogTitle: Ogiltigt objekt
+SettingsAboutVersionTitle: 'Version:'
+ShareDialogFailMessage: Det finns inget att dela just nu...
+ShareDialogMultipleItemsDescription: De valda objekten kommer att delas
+ShareDialogSingleItemDescription: Det valda objektet kommer att delas
+ShareDialogTitle: Delar {0}
+ShareDialogTitleMultipleItems: Delar {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Objektet du försöker byta namn på finns inte längre. Kontrollera rätt plats för objektet du behöver byta namn på.
+    Title: Objektet finns inte längre
+  NameInvalid:
+    Text: Det angivna namnet var ogiltigt. Vänligen kontrollera önskat filnamn och försök igen.
+    Title: Ogiltigt filnamn
+  TooLong:
+    Text: Längden på det angivna filnamnet överskrider maxgränsen. Kontrollera önskat namn och försök igen.
+    Title: Filnamnet är för långt
+ShowMoreOptions: Visa fler alternativ
+RestartNotificationText:
+  Text: Appen måste startas om för att tillämpa språkinställningen. Vill du starta om appen?
+SponsorUsOnGitHub: Stöd oss på GitHub
+AccessDeniedCreateDialog:
+  Text: Vi kunde inte skapa det här objektet
+AccessDenied: Åtkomst nekad
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Använd som
+Cancel: Avbryt
+AddDialog:
+  Title: Skapa ett nytt föremål
+AddDialogDescription:
+  Text: Välj en objekttyp nedan
+File: Fil
+AddDialogListFileSubHeader: Skapar en tom fil
+Folder: Mapp
+AddDialogListFolderSubHeader: Skapar en tom mapp
+NavResfreshButton:
+  AutomationProperties:
+    Name: Uppdatera mappen
+Language: Språk
+SettingsContextMenuOverflow: Flytta innehållsmenytillägg till en submeny
+ShowConfirmationWhenDeletingItems: Visa en bekräftelseruta när du tar bort objekt
+PropertySaveErrorMessage:
+  Text: Det uppstod problem med att spara vissa egenskaper.
+PropertySaveErrorDialog:
+  Title: Fel
+  SecondaryButtonText: Stäng ändå
+PropertyRatingText: Klassificering
+PropertyParsingPath: Objektsökväg
+PropertyItemTypeText: Objekttyp
+PropertyTitle: Titel
+PropertySubject: Ämne
+PropertyComment: Kommentar
+PropertyCopyright: Upphovsrätt
+PropertyDateModified: Senast ändrad
+PropertyBitDepth: Bitdjup
+PropertyDimensions: Bildstorlek
+PropertyHorizontalSize: Vågrät storlek
+PropertyVerticalSize: Lodrät storlek
+PropertyHorizontalResolution: Vågrät upplösning
+PropertyVerticalResolution: Lodrät upplösning
+PropertyColorSpace: Färgrymd
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Ej angivet
+PropertyLongitudeDecimal: Longitud decimal
+PropertyLatitudeDecimal: Latitud decimal
+PropertyAltitude: Altitud
+PropertyDateTaken: Fotodatum
+PropertyCameraManufacturer: Kameratillverkare
+PropertyCameraModel: Kameramodell
+PropertyExposureTime: Exponeringstid
+PropertyFocalLength: Brännvidd
+PropertyAperture: Bländartal
+PropertyPeopleNames: Personnamn
+PropertyChannelCount: Antal kanaler
+PropertyFormat: Format
+PropertySampleRate: Samplingshastighet
+PropertyAlbumArtist: Albumartist
+PropertyAlbumTitle: Album
+Artist: Artist
+PropertyBeatsPerMinute: Slag per minut
+PropertyComposer: Kompositör
+Conductor: Dirigent
+PropertyDiscNumber: Skivnummer
+PropertyGenre: Genre
+PropertyTrackNumber: Låtnummer
+PropertyDuration: Längd
+PropertyFrameCount: Antal bildrutor
+PropertyProtectionType: Typ av skydd
+PropertyAuthorUrl: Författar-URL
+PropertyContentDistributor: Innehållsdistributör
+PropertyDateReleased: Utgivningsdatum
+PropertySeriesName: Serienamn
+PropertySeasonNumber: Säsongsnummer
+PropertyEpisodeNumber: Avsnittsnummer
+PropertyProducer: Producent
+PropertyPromotionUrl: Kampanj-URL
+PropertyProviderStyle: Leverantörsstil
+PropertyPublisher: Utgivare
+PropertyThumbnailLargePath: Sökväg till stor miniatyr
+PropertyThumbnailLargeUri: URI för stor miniatyr
+PropertyThumbnailSmallPath: Sökväg till liten miniatyr
+PropertyThumbnailSmallUri: URI för liten miniatyr
+PropertyUserWebUrl: Användar-URL
+PropertyWriter: Skribent
+PropertyYear: År
+PropertyContributor: Medarbetare
+PropertyLastAuthor: Senaste författare
+PropertyRevisionNumber: Versionsnummer
+PropertyVersion: Version
+PropertyDateCreated: Skapad den
+PropertyTotalEditingTime: Total redigeringstid
+PropertyTemplate: Mall
+PropertyWordCount: Antal ord
+PropertyCharacterCount: Antal tecken
+PropertyLineCount: Antal rader
+PropertyParagraphCount: Antal stycken
+PropertyPageCount: Antal sidor
+PropertySlideCount: Antal bilder
+PropertyFrameRate: Bildfrekvens
+PropertyEncodingBitrate: Bithastighet
+PropertyPreviewAudioEncodingBitrate: Ljud kodning bithastighet
+PropertyPreviewVideoEncodingBitrate: Videokodning bithastighet
+Compression: Komprimering
+PropertyFrameWidth: Bildrutebredd
+PropertyFrameHeight: Bildrutehöjd
+PropertyOrientation: Orientering
+PropertySectionCore: Fil
+PropertySectionImage: Bild
+PropertySectionPhoto: Foto
+PropertySectionGPS: GPS
+PropertySectionMedia: Media
+PropertySectionAudio: Ljud
+PropertySectionMusic: Musik
+PropertySectionVideo: Video
+Document: Dokument
+Address: Adress
+SelectionOptions: Markeringsalternativ
+NavToolbarSelectionOptions:
+  Label: Välj
+RecycleBinItemAutomation: Objekt i Papperskorgen
+ShortcutItemAutomation: Genvägsobjekt
+Drives: Enheter
+PinToSidebarByDraggingCaptionText: Flytta hit
+EjectNotificationHeader: Säker att ta bort hårdvara
+EjectNotificationBody: Enheten kan nu säkert tas bort från datorn.
+EjectNotificationErrorDialogHeader: Problem vid enhetsutmatning
+EjectNotificationErrorDialogBody: Enheten används för närvarande. Stäng alla program, fönster eller flikar som kan använda enheten och försök sedan igen.
+Eject: Mata ut
+DuplicateTab: Duplicera flik
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Flytta flik till nytt fönster
+NewTab: Ny flik
+ClearPropertiesFlyoutText:
+  Text: Vissa egenskaper kan innehålla personlig information.
+ClearPropertiesButton:
+  Content: Rensa alla egenskaper
+OngoingTasksTeachingTip:
+  Subtitle: Kontrollera status för filåtgärder här
+  Title: Statuscenter
+SearchPagePathBoxOverrideText: Sökresultat i
+Details: Information
+No: Nej
+ShowProtectedSystemFiles: Visa skyddade systemfiler
+SyncFolderPreferencesAcrossDirectories: Synkronisera layout- och sorteringspreferenser mellan mappar
+SettingsContextMenu:
+  Text: Anpassa högerklicksmenyn
+OriginalPath: Ursprunglig sökväg
+Add: Lägg till
+Edit: Redigera
+Remove: Ta bort
+SettingsMultitaskingAlwaysOpenDualPane: Öppna flikar sida vid sida
+ShowOpenInNewPane: Visa alternativ för att öppna mappar i en ny ruta
+ShowCopyPath: Visa alternativet för att kopiera sökvägen
+ShowCreateFolderWithSelection: Visa alternativ för att skapa mapp med markering
+ShowCreateShortcut: Visa alternativ för att skapa genväg
+NavigationToolbarNewPane:
+  Label: Ny ruta
+OpenInNewPane: Öppna i ny ruta
+FilesAndFolders: Filer och mappar
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Detaljvy
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Panelvy
+DateDeleted: Borttagningsdatum
+SidebarCloudDrives: Molnenheter
+Confirm: Bekräfta
+DesiredName: Önskat namn
+TogglePreviewPane: Växla förhandsgranskningsrutan
+ToggleDetailsPane: Slå av eller på detaljpanelen
+ToggleDetailsPaneDescription: Slå på detaljpanelen för att visa grundläggande filegenskaper
+ToggleInfoPane: Slå av eller på informationspanelen
+ToggleInfoPaneDescription: Växla infopanelen för att se detaljerna/förhandsgranskningsrutorna
+DetailsPanePreviewNotAvaliableText: Ingen förhandsgranskning är tillgänglig
+PropertyItemName: Filnamn
+UnpinFolderFromSidebar: Lossa från sidofältet
+Network: Prickar
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Filinformation
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Filförhandsgranskning
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Förhandsgranskningsfönster för vald fil
+Feedback: Feedback
+CloudDriveSyncStatus_Online: Tillgänglig när du är online
+Documentation: Dokumentation
+CloudDriveSyncStatus_Offline: Tillgänglig offline
+CloudDriveSyncStatus_PartialOffline: Delvis tillgänglig offline
+CloudDriveSyncStatus_Sync: Synkroniserar
+CloudDriveSyncStatus_Excluded: Undantagen från synkronisering
+ItemSizeNotCalculated: Inte beräknat
+CloudDriveSyncStatus_Unknown: Okänd
+RenameFileDialog:
+  Text: Om du ändrar filtillägg kan filen bli obrukbar. Är du säker på att du vill ändra filtillägget?
+DriveTypeCDRom: CD-ROM-enhet
+DriveTypeCloudDrive: Molnenhet
+DriveTypeFixed: Fast diskenhet
+DriveTypeFloppyDisk: Diskettenhet
+DriveTypeNetwork: Nätverksenhet
+DriveTypeNoRootDirectory: Ej monterad enhet
+DriveTypeRam: RAM-diskenhet
+DriveTypeRemovable: Flyttbar lagringsenhet
+DriveTypeUnknown: Okänd
+DriveTypeVirtualDrive: Virtuell disk
+DateCreated: Skapad
+MoreOptions: Fler alternativ...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Anslut nätverksenhet
+Pinned: Klistrad
+SidebarLibraries: Bibliotek
+NoItemSelected: Inga artiklar har markerats
+PropertyItemTarget: Mål
+Arguments: 'Argument:'
+Default: Standard
+PropertyItemCount: Antal objekt
+ElevateConfirmDialog:
+  Title: Denna åtgärd kräver administratörsrättigheter
+  Content: Vill du fortsätta som administratör?
+ColumnsShortcutTooltip: Kolumner (Ctrl+Skift+6)
+PinItemToStart:
+  Text: Fäst i startmenyn
+UnpinItemFromStart:
+  Text: Ta bort från startmenyn
+Library: Bibliotek
+LibraryLocations:
+  Text: Platser
+SetAsDefaultSavePath: Ange som standard sparsökväg
+LibraryNoLocations:
+  Text: Inga platser
+ErrorInputEmpty: Inmatningsfältet får inte vara tomt!
+ErrorNameInputRestrictedCharacters: 'Namnet kan inte innehålla följande tecken: \ / : * ? " < > |'
+ErrorNameInputRestricted: Det är inte tillåtet att använda detta namn!
+CreateLibraryErrorAlreadyExists: Bibliotek med samma namn finns redan!
+OpenStorageSense: Öppna Storage Sense
+Copy: Kopiera
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Flytta
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Fortsätt
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Ta bort permanent
+PropertyISO: ISO-hastighet
+ReplaceExisting: Ersätt befintlig
+GenerateNewName: Generera nytt namn
+CreateFolderWithSelection: Skapa mapp med markering
+ItemType: 'Typ:'
+ToolTipDescriptionDate: 'Ändrat den:'
+OpenWith: Öppna med
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Filikon
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Ursprunglig sökvägskolumn
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Objekttypkolumn
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Ändringsdatumkolumn
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Borttagningsdatumkolumn
+Sort: Sortera
+DateModifiedLowerCase: Ändrad
+OriginalFolder: Ursprunglig mapp
+Descending: Fallande
+ItemSizeText_Huge: mycket stor|jättestor|huge
+ItemSizeText_VeryLarge: Mycket stor
+ItemSizeText_Large: Stor
+ItemSizeText_Medium: Medel
+ItemSizeText_Small: LITEN
+ItemSizeText_Tiny: mycket liten
+Future: Kommande
+Today: I dag
+Yesterday: I går
+EarlierThisWeek: Tidigare den här veckan
+LastWeek: Förra veckan
+EarlierThisMonth: Tidigare denna månad
+LastMonth: Förra månaden
+EarlierThisYear: Tidigare i år
+LastYear: Förra året
+YearN: År {0}
+GroupItemsCount_Singular: '{0} objekt'
+GroupItemsCount_Plural: '{0} objekt'
+ReopenClosedTab: Öppna stängd flik igen
+Rename: Byt namn
+Privacy: Integritet
+TheRecycleBin: Papperskorgen
+Canceling: Avbryter
+Clear: Rensa
+Widgets: Widgetar
+SyncStatus: Synkroniseringsstatus
+Security: Säkerhet
+AdvancedPermissions: 'Avancerade behörigheter:'
+Allow: Tillåt
+Deny: Neka
+SecurityFullControlLabel:
+  Text: Fullständig kontroll
+SecurityListDirectoryLabel:
+  Text: Lista mappinnehåll
+Modify: Redigera
+SecurityPermissionsHeaderText: Rättigheter för {0}
+SecurityReadAndExecuteLabel:
+  Text: Läsa och köra
+SecurityReadLabel:
+  Text: Läs
+SecurityUsersGroupLabel:
+  Text: 'Grupp- eller användarnamn:'
+Write: Skriva
+SecurityUnknownAccount: Okänt konto
+SecurityCannotReadProperties:
+  Text: Du har inte behörighet för att visa säkerhetsegenskaperna för detta objekt. Klicka på "Avancerade rättigheter" för att fortsätta.
+SecurityOwnerLabel:
+  Text: 'Ägare:'
+SecurityUnknownOwnerText:
+  Text: Okänd ägare.
+ExtractArchive: Extrahera arkiv
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Öppna målmappen när slutfört
+BaseLayoutItemContextFlyoutExtractToChildFolder: Extrahera till {0}\
+SideBarCreateNewLibrary:
+  Text: Skapa nytt bibliotek.
+SideBarRestoreLibraries:
+  Text: Återställ standardbibliotek
+DialogRestoreLibrariesSubtitleText: Är du säker på att du vill återställa standardbiblioteken? Alla dina filer kommer att finnas kvar.
+DialogRestoreLibrariesTitleText: Återställ bibliotek
+PropertyFileOwner: Ägare
+SecuritySpecialLabel:
+  Text: SPECIAL
+Access: Åtkomst
+SecurityAdvancedAppliesTo: Gäller för
+Principal: Huvudsaklig
+SecurityAdvancedFlagsFilesLabel: filer
+SecurityAdvancedFlagsFolderLabel: denna mapp
+SecurityAdvancedFlagsSubfoldersLabel: undermappar
+Inherited: Ärvd
+Permissions: Rättigheter
+SecurityAdvancedCannotReadProperties:
+  Text: Du har inte behörighet för att visa säkerhetsegenskaperna för detta objekt. Du kan försöka att ta ägarskap av detta objekt.
+SecurityAdvancedFolderFiles:
+  Text: Den här mappen och filer
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Den här mappen, undermappar och filer
+SecurityAdvancedOnlyFiles:
+  Text: Endast filer
+SecurityAdvancedOnlySubfolders:
+  Text: Endast undermappar
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Endast undermappar och filer
+SecurityAdvancedOnlyThisFolder:
+  Text: Endast denna mapp
+SecurityAdvancedFolderSubfolders:
+  Text: Den här mappen och undermappar
+SecurityAppendDataLabel:
+  Text: Lägg till data
+SecurityChangePermissionsLabel:
+  Text: Ändra behörighet
+SecurityCreateDirectoriesLabel:
+  Text: Skapa mappar.
+SecurityCreateFilesLabel:
+  Text: Skapa filer
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Ta bort undermappar och filer
+SecurityExecuteFileLabel:
+  Text: Kör filer
+SecurityReadAttributesLabel:
+  Text: Läsa attribut
+SecurityReadDataLabel:
+  Text: Läs data
+SecurityReadExtendedAttributesLabel:
+  Text: Läsa utökade attribut
+SecurityReadPermissionsLabel:
+  Text: Läsa behörigheter
+SecurityTakeOwnershipLabel:
+  Text: Bli ägare
+SecurityTraverseLabel:
+  Text: Besök mapp
+SecurityWriteAttributesLabel:
+  Text: Skriva attribut
+SecurityWriteDataLabel:
+  Text: Skriv data
+SecurityWriteExtendedAttributesLabel:
+  Text: Skriva utökade attribut
+SecurityAdvancedInheritedConvert:
+  Text: Konvertera ärvda rättigheter till fasta rättigheter
+SecurityAdvancedInheritedEnable:
+  Text: Aktivera arv
+SecurityAdvancedInheritedRemove:
+  Text: Ta bort alla ärvda behörigheter
+SecurityAdvancedReplaceChildPermissions:
+  Text: Återställ underordnade rättigheter
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Ersätt alla underordnade objekträttighetsposter med ärftliga rättighetsposter från detta objekt
+NavigationToolbarClosePane:
+  Label: Stäng fönster
+EnterCompactOverlay: Öppna kompakt överlägg
+ExitCompactOverlay: Stäng kompakt överlägg
+PropertyFileDescription: Filbeskrivning
+PropertyCompany: Företag
+PropertyLanguage: Språk
+PropertyTrademarks: Varumärken
+PropertyFileVersion: Filversion
+PreviewPaneLoadCloudItemButton:
+  Text: Läs in full förhandsgranskning
+  ToolTipService:
+    ToolTip: Hämtar objektet från molnet och laddar förhandsgranskningen
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Okomprimerad storlek
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Dölj {0} sektion
+AddFile: Lägg till fil
+ConsentDialogTitle: Uppdateringar är tillgängliga
+ConsentDialogContent: Uppdateringar kan installeras
+Close: Stäng
+ConsentDialogPrimaryButtonText: Uppdatera
+Home: Hem
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Skift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Skift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Skift+6
+ArchiveExtractionCompletedSuccessfullyText: Arkivet har extraherats.
+ExtractingArchiveText: Extraherar arkiv
+ExtractingCompleteText: Extrahering slutförd!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Öppna överordnad mapp
+Unknown: Okänd
+EditTags: Redigera taggar
+PropertyPartOfSet: Del av uppsättning
+InsertDiscDialog:
+  OpenDriveButton: Öppna enhet
+  Text: Vänligen, sätt i en skiva i enhet {0}
+  Title: Sätt in en skiva
+OK: OK
+AskCredentialDialog:
+  Title: Autentiseringsuppgifter krävs
+CredentialDialogAnonymous:
+  Content: Anonym
+CredentialDialogDescription:
+  Text: 'Ange dina autentiseringsuppgifter:'
+CredentialDialogUserName:
+  PlaceholderText: Användarnamn
+NoSearchResultsFound: Inga objekt hittades
+OpenLogLocation: Öppna loggsökväg
+LinkToFolderCaptionText: Skapa länk i {0}
+Columns: Kolumner
+Tiles: Paneler
+OpenFoldersInNewTab: Öppna mappar i ny flik
+StatusCenter: Statuscenter
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Skapelsedatumskolumn
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Objektstorlekskolumn
+ExperimentalFeatureFlags: Experimentella funktioner
+HelpAndSupport: Hjälp och stöd
+SubmitFeatureRequest: Skicka funktionsförfrågan
+SubmitBugReport: Skicka felrapport
+SettingsSetAsDefaultFileManager: Ange Files som standardfilhanterare
+SettingsSetAsOpenDialog: Använd Files för att öppna fildialoger
+Tag: Tagg
+SettingsOpenItemsWithOneClick: Enkelklicka för att öppna
+FolderPath: Mappsökväg
+ExportSettings: Exportera inställningar
+ImportSettings: Importera inställningar
+SettingsImportErrorDescription: Kunde inte importera inställningar. Inställningsfilen är skadad.
+SettingsImportErrorTitle: Fel vid import av inställningar
+EmptyRecycleBin: Töm papperskorgen
+Sidebar: Sidofält
+ChooseCustomIcon: Välj en anpassad mappikon
+Customization: Anpassning
+RestoreDefault: Återställ standard
+OpenTabInExistingInstance: Öppna flik i befintlig instans när du öppnar filer från en annan app
+StartupSettings: Startinställningar
+Compatibility: Kompatibilitet
+None: Ingen
+CompatibilityOnWindowsLogin: Vid inloggning i Windows
+CompatibilityOnProgramStart: På detta program start
+System: systemet
+CompatibilitySystemEnhanced: System (Förbättrad)
+CompatibilityReducedColorModeColor16bit: 16-bitars (65536) färg
+CompatibilityReducedColorModeColor8bit: 8-bitars (256) färg
+CompatibilityDisableFullscreenOptimizations: Inaktivera helskärmsoptimeringar
+CompatibilityRunIn640x480Resolution: Kör med 640 x 480 skärmupplösning
+CompatibilityOverrideHighDPIBehavior: Åsidosätt högt DPI-skalningsbeteende
+CompatibilityReducedColorMode: Reducerat färgläge
+CompatibilityRegisterThisProgramForRestart: Registrera detta program för omstart
+RunAsAdministrator: Kör som administratör
+CompatibilityRunTroubleshooter: Kör kompatibilitetsfelsökare
+CompatibilityUseDPISettings: Använd DPI-inställningar för huvudskärmen
+CompatibilityDoNotAdjustDPI: Justera inte DPI
+CompatibilityDoNotOverrideDPI: Åsidosätt inte DPI
+CompatibilityMode: Kompatibilitetsläge
+CompatibilityNoReducedColor: Ingen reducerad färg
+ThirdPartyLicenses: Tredjepartslicenser
+SettingsSetAsDefaultFileManagerDescription: Det här alternativet ändrar systemregistret och kan ha oväntade effekter på din enhet. Fortsätt på egen risk.
+FolderWidgetCreateNewLibraryDialogTitleText: Skapa bibliotek
+FolderWidgetCreateNewLibraryInputPlaceholderText: Ange biblioteksnamn
+CalculateFolderSizes: Beräkna mappstorlekar
+RecentFiles: Senaste filer
+SettingsOpenInLogin: Öppna Files vid Windowsstart
+Attributes: Attribut
+Hidden: Dold
+MoreDetails: Mer information
+ReadOnly: Skrivskyddad
+CleanupDrive: Rensa din enhets innehåll
+Type: Typ
+Bytes: Byte
+Extract: Extrahera
+ExtractFiles: Extrahera filer
+ExtractHere: Extrahera här
+ExtractKeyboardAcceleratorTextOverride: Ctrl+B
+ExtractToChildFolder: Extrahera till {0}
+RunScript: Kör skript
+RunWithPowerShell: Kör med PowerShell
+ShowFolderSizesWarning: Beräkning av mappstorlekar är resurskrävande och kan orsaka din CPU-användning att öka.
+RotateLeft: Rotera åt vänster
+RotateRight: Rotera åt höger
+Install: Installera
+CloseTabsToTheLeft: Stäng flikar till vänster
+CloseTabsToTheRight: Stäng flikar till höger
+CloseOtherTabs: Stäng övriga flikar
+Music: Musik
+Pictures: Bilder
+UpdateFiles: Uppdateringsfiler
+FileTags: Taggar
+Universal: Universell
+DateFormatSample: 'ex: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Visa miniatyrer
+Retry: Försök igen
+ErrorDialogUnsupportedMoveOperation: Flyttningsåtgärden stöds inte i denna kontext. Vill du kopiera objekten istället?
+HiddenItems: Dolda objekt
+Custom: Anpassad
+SetAsSlideshow: Ställ in som skrivbordsbildspel
+SizeAllColumnsToFit: Anpassa kolumner för att passa
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptiv (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Skift+7
+ShowAlternateStreams: Visa alternativa dataströmmar
+Behaviors: Beteenden
+ReviewFiles: Betygsätt Files
+ReviewFilesContent: Vill du betygsätta Files?
+SetAsBackgroundFlyout: Ange som bakgrund
+SetAsBackground: Använd som skrivbordsbakgrund
+SetAsDefault: Ange som standard
+DateColumn: Datumkolumn
+DateCreatedColumn: Skapelsedatumskolumn
+SizeColumn: Storlekskolumn
+TagColumn: Taggkolumn
+TypeColumn: Typkolumn
+Lockscreen: Låsskärm
+OpenFolderWithOneClickColumnsLayout: Öppna mappar med enkelklick i Kolumnlayouten
+OpeningItems: Öppnar objekt
+Compress: Komprimera
+SelectFilesAndFoldersOnHover: Välj filer och mappar när man hovrar över dem
+ConfirmRestoreBinDialogContent: Är du säker på att du vill återställa alla objekt i papperskorgen?
+ConfirmRestoreBinDialogTitle: Återställ alla objekt
+ConfirmRestoreSelectionBinDialogContent: Vill du återställa {0} valda objekt?
+ConfirmRestoreSelectionBinDialogTitle: Återställ valda
+RestoreAllItems: Återställ alla objekt
+Restore: Återställ
+ShortcutCannotBeOpened: Genvägen kan inte öppnas
+DeleteShortcutDescription: Målvägen kan inte hittas {0}. Vill du ta bort denna genväg?
+AccessDeniedToFolder: Du har inte rättigheter för att komma åt denna mapp.
+ArchivePassword: Arkivlösenord
+ExtractToPath: Sökväg
+SortingAndGrouping: Sortering och gruppering
+CreateArchive: Skapa arkiv
+Create: Skapa
+CreateNamedArchive: Skapa {0}
+EnterName: Ange ett namn
+CompressionLevel: Kompressionsnivå
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Hög
+CompressionLevelNormal: Normal
+CompressionLevelLow: Låg
+CompressionLevelFast: Snabb
+CompressionLevelNone: Ingen
+SplittingSize: Delningsstorlek
+Do not split: Dela inte upp
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Kryptering
+Password: Losenord
+Format: Format
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Synkronieringsstatuskolumn
+GroupBy: Gruppera efter
+SortBy: Sortera efter
+GroupInDescendingOrder: Gruppera i fallande ordning
+SortInDescendingOrder: Sortera i fallande ordning
+NewShortcutDialogTitle: Skapa en ny genväg
+NewShortcutDialogDescription: Skapa genvägar till lokala program eller nätverksprogram, filer, mappar, datorer eller internetadresser.
+NewShortcutDialogPrompt: 'Ange objektets plats:'
+AddDialogListShortcutSubHeader: Skapar en genväg
+RecentFilesDisabledOnWindowsWarning: Nyligen använda filer är för närvarande inaktiverat i Utforskaren i Windows.
+EditSettingsFile: Redigera inställningsfil
+WhatsNew: Vad är nytt
+CannotCreateShortcutDialogTitle: Att skapa en genväg på den här platsen kräver administratörsrättigheter
+CannotCreateShortcutDialogMessage: Vill du skapa genvägen på skrivbordet istället?
+ErrorDialogNameNotAllowed: Det specificerade objektnamnet är ogiltigt
+Settings: Inställningar
+DoubleClickBlankSpaceToGoUp: Dubbelklicka på ett tomt utrymme för att gå upp en mapp
+ViewMore: Visa mer
+ShowEditTagsMenu: Visa taggredigeringsmeny
+ShowCompressionOptions: Visa komprimeringsalternativ
+ShowSendToMenu: Visa skicka till menyn
+ShowOpenInNewTab: Visa alternativ för att öppna mappar i en ny flik
+ShowOpenInNewWindow: Visa alternativ för att öppna mappar i ett nytt fönster
+QuickAccess: Snabbåtkomst
+NetworkAuthenticationDialogMessage: 'Ange dina uppgifter för att ansluta till: {0}'
+NetworkAuthenticationDialogTitle: Ange nätverksautentiseringsuppgifter
+NetworkAuthenticationSaveCheckbox: Kom ihåg mina inloggningsuppgifter
+NetworkFolderErrorDialogTitle: Fel i nätverksmappen
+AppVersion: App-version
+WindowsVersion: Windows-version
+Always: Alltid
+PermanentDeletionOnly: Endast permanent radering
+Never: Aldrig
+TagColor: Taggfärg
+NewTag: Ny tagg
+CreateNewTag: Skapa ny tagg
+Loading: Laddar...
+ContextMenuOptions: Inställningar för innehållsmeny
+ShowFileExtensions: Visa filnamnstillägg
+ShowHiddenItems: Visa dolda objekt
+FormatDriveText: Formatera...
+Help: Hjälp
+FullScreen: Växla helskärm
+ConfirmDeleteTag: Är du säker på att du vill radera den här taggen?
+PlayAll: Spela alla
+Height: Höjd
+Width: Bredd
+ApplyToAllConflictingItems: Tillämpa denna åtgärd på alla objekt i konflikt
+OpenTerminal: Öppna i Windowsterminal
+OpenTerminalAsAdmin: Öppna i Windowsterminal som administratör
+Save: Spara
+MultiSelect: Markera flera
+ReorderSidebarItemsDialogText: Ordna om sidofältet
+Hashes: Hashar
+CalculationError: Ett problem uppstod vid beräkningen
+CalculationErrorFileIsOpen: Det gick inte att beräkna hashen, vänligen stäng filen och försök igen.
+CalculationOnlineFileHashError: Hashar är inte tillgängliga för online filer
+Algorithm: Algoritm
+HashValue: Hashvärde
+SelectHashesToShow: Välj hashar att visa
+Calculating: Beräknar...
+JumpListPinnedGroupHeader: Fästa objekt
+DecreaseSize: Minska storlek
+IncreaseSize: Öka storlek
+ToggleSortDirection: Växla sorteringsriktning
+InvalidTagNameWarning: Ogiltigt namn
+TagNameRules: Namnet får inte vara tomt, starta med eller avsluta med en punkt.
+Videos: Videor
+LaunchPreviewPopup: Öppna förhandsgranskningspopup
+ToggleCompactOverlay: Växla kompakt överlägg
+OpenHelpDescription: Öppna onlinehjälp i en webbläsare
+ToggleFullScreenDescription: Växla helskärm
+EnterCompactOverlayDescription: Öppna kompakt överlägg
+ExitCompactOverlayDescription: Stäng kompakt överlägg
+ToggleCompactOverlayDescription: Växla kompakt överlägg
+SearchDescription: Hoppa till sökrutan
+ToggleShowHiddenItemsDescription: Växla om dolda objekt ska visas
+ToggleShowFileExtensionsDescription: Växla om filnamnstillägg ska visas
+TogglePreviewPaneDescription: Slå på förhandsgranskningsrutan för att visa förhandsgranskningar av filer
+ToggleSidebarDescription: Växla om sidofältet ska visas
+CopyItemDescription: Kopiera objekt(en) till urklipp
+CopyPathDescription: Kopiera sökväg för valda objekt till urklipp
+CopyPathWithQuotesDescription: Kopiera sökväg för valda objekt med citat till urklipp
+CutItemDescription: Klipp ut objekt till urklipp
+PasteItemDescription: Klistra in objekt från urklipp till nuvarande mapp
+PasteItemToSelectionDescription: Klistra in objekt från urklipp till den valda mappen
+DeleteItemDescription: Ta bort objekt
+CreateFolderDescription: Skapa ny mapp
+CreateShortcutDescription: Skapa nya genvägar till valda objekt
+CreateShortcutFromDialogDescription: Skapa ny genväg till ett objekt
+EmptyRecycleBinDescription: Töm papperskorgen
+FormatDriveDescription: Öppna formateringsmenyn för valt objekt
+RestoreRecycleBinDescription: Återställ valda objekt från papperskorgen
+RestoreAllRecycleBinDescription: Återställ alla objekt från papperskorgen
+OpenItemDescription: Öppna objekt
+OpenItemWithApplicationPickerDescription: Öppna objekt med vald applikation
+OpenParentFolderDescription: Öppna överordnad mapp av sökt objekt
+RefreshItemsDescription: Uppdatera sidans innehåll
+RenameDescription: Byt namn på valt objekt
+SelectAllDescription: Markera alla objekt
+InvertSelectionDescription: Omvänd markering
+ClearSelectionDescription: Rensa markering
+ToggleSelectDescription: Växla val av objekt
+ShareItemDescription: Dela markerade fil(er) med andra
+PinToStartDescription: Fäst objekt i Start-menyn
+UnpinFromStartDescription: Lossa objekt från Start-menyn
+PinFolderToSidebarDescription: Fäst mapp(ar) till sidofält
+UnpinFolderFromSidebarDescription: Lossa mapp(er) från sidofält
+SetAsWallpaperBackgroundDescription: Ställ in vald bild som skrivbordsbakgrund
+SetAsSlideshowBackgroundDescription: Ställ in valda bilder som bildspel på skrivbordet
+SetAsLockscreenBackgroundDescription: Ställ in den valda bilden som bakgrund på låsskärmen
+SetAsAppBackgroundDescription: Ange vald bild som appbakgrund
+InstallFontDescription: Installera valda teckensnitt
+InstallInfDriverDescription: Installera drivrutin(er) med valda 'Inf' fil(er)
+InstallCertificateDescription: Installera markerade certifikat
+RunAsAdminDescription: Kör vald applikation som administratör
+RunAsAnotherUserDescription: Kör vald applikation som en annan användare
+RunWithPowershellDescription: Kör valt PowerShell-skript
+LaunchPreviewPopupDescription: Starta förhandsgranskning i popup-fönster
+CompressIntoArchiveDescription: Skapa arkiv med valda objekt
+CompressIntoSevenZipDescription: Skapa ett 7z arkiv direkt med valda objekt
+CompressIntoZipDescription: Skapa ett zip-arkiv direkt med valda objekt
+DecompressArchiveDescription: Extrahera objekt från valda arkiv till valfri mapp
+DecompressArchiveHereDescription: Extrahera objekt från valda arkiv till aktuell mapp
+DecompressArchiveToChildFolderDescription: Extrahera objekt från markerade arkiv till ny mapp
+RotateLeftDescription: Rotera valda bild(er) till vänster
+RotateRightDescription: Rotera valda bild(er) till höger
+OpenSettingsDescription: Öppna Inställningarna
+OpenTerminalDescription: Öppna mappen i terminal
+OpenTerminalAsAdminDescription: Öppna mappen i terminalen som administratör
+LayoutDecreaseSizeDescription: Minska artikelstorleken i den aktuella vyn
+LayoutIncreaseSizeDescription: Öka artikelstorleken i den aktuella vyn
+LayoutDetailsDescription: Växla till detaljvy
+LayoutTilesDescription: Växla till panelvy
+LayoutListDescription: Växla till listvy
+List: Lista
+Grid: Rutnät
+LayoutGridDescription: Växla till rutnätsvy
+LayoutColumnsDescription: Växla till kolumnvy
+LayoutAdaptiveDescription: Växla vyer adaptivt
+SortByNameDescription: Sortera objekt efter namn
+SortByDateModifiedDescription: Sortera objekt efter ändringsdatum
+SortByDateCreatedDescription: Sortera objekt efter datum då de skapades
+SortBySizeDescription: Sortera objekt efter storlek
+SortByTypeDescription: Sortera objekt efter typ
+SortBySyncStatusDescription: Sortera objekt efter synkroniseringsstatus
+SortByTagDescription: Sortera objekt efter taggar
+SortByOriginalFolderDescription: Sortera objekt efter originalmapp
+SortByDateDeletedDescription: Sortera objekt efter borttaget datum
+SortAscendingDescription: Sortera föremål i stigande ordning
+SortDescendingDescription: Sortera föremål i fallande ordning
+ToggleSortDirectionDescription: Växla sorteringsriktning
+GroupByNoneDescription: Lista föremål utan gruppering
+GroupByNameDescription: Gruppera föremål efter namn
+GroupByDateModifiedDescription: Gruppera föremål efter redigeringsdatum
+GroupByDateCreatedDescription: Gruppera föremål efter datum då de skapades
+GroupBySizeDescription: Gruppera objekt efter storlek
+GroupByTypeDescription: Sortera objekt efter typ
+GroupBySyncStatusDescription: Gruppera objekt efter synkroniseringsstatus
+GroupByTagDescription: Gruppera objekt efter taggar
+GroupByOriginalFolderDescription: Gruppera objekt efter ursprunglig mapp
+GroupByDateDeletedDescription: Gruppera objekt efter raderingsdatum
+GroupByFolderPathDescription: Gruppera föremål efter mappsökväg
+GroupAscendingDescription: Sortera grupper i stigande ordning
+GroupDescendingDescription: Sortera grupper i fallande ordning
+ToggleGroupDirectionDescription: Växla gruppsorteringsriktning
+NewTabDescription: Öppna ny flik
+NavigateBackDescription: Gå bakåt i navigeringshistoriken
+NavigateForwardDescription: Gå framåt i navigeringshistoriken
+NavigateUpDescription: Gå upp en mapp
+DuplicateCurrentTabDescription: Duplicera nuvarande flik
+DuplicateSelectedTabDescription: Duplicera vald flik
+CloseTabsToTheLeftCurrentDescription: Stäng flikar till vänster om nuvarande flik
+CloseTabsToTheLeftSelectedDescription: Stäng flikar till vänster om den valda fliken
+CloseTabsToTheRightCurrentDescription: Stäng flikar till höger om nuvarande flik
+CloseTabsToTheRightSelectedDescription: Stäng flikar till höger om den valda fliken
+CloseOtherTabsCurrentDescription: Stäng alla andra flikar än den nuvarande fliken
+CloseOtherTabsSelectedDescription: Stäng alla andra flikar än den valda fliken
+ReopenClosedTabDescription: Öppna den senast stängda fliken
+PreviousTabDescription: Flytta till föregående flik
+NextTabDescription: Flytta till nästa flik
+CloseSelectedTabDescription: Stäng den nuvarande fliken
+OpenNewPaneDescription: Öppna ny ruta
+ClosePaneDescription: Stäng höger ruta
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Växla sidofältet
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Skift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Vinn
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Ange
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Mellanslag
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backsteg
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Vänster
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Höger
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Ner
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Upp en nivå (Alt + Uppåtpil)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Hem
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: Slut
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: Sidan ned
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: Sidaup
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pausa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sov
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Rensa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Skriv ut
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Hjälp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mus4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mus5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: E-post
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Gå hem
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GoBack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Gå framåt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: WebbläsareUppdatera
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Sök
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Favoriter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPausa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PrevTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: NextTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaVälj
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Tysta
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: Volvos
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: Volym
+Change: Ändra
+ToggleSelect: Växla markering
+ShowFileExtensionWarning: Visa varning vid ändring av filtillägg
+ThisPC: Den här datorn
+RecycleBin: Papperskorgen
+Untagged: Otaggad(e)
+PreviousTab: Flyttar till föregående flik
+NextTab: Flyttar till nästa flik
+CloseTab: Stänger aktuell flik
+EditPath: Redigera sökväg
+Redo: Göra om
+Undo: Ångra
+InvalidLocation: Ogiltig plats
+CopyFileWithoutProperties: Är du säker på att du vill kopiera dessa filer utan deras egenskaper?
+FilePropertiesCannotBeCopied: Dessa filer har egenskaper som inte kan kopieras till den nya platsen
+FilePropertiesCannotBeMoved: Dessa filer har egenskaper som inte kan flyttas till den nya platsen
+MoveFileWithoutProperties: Är du säker på att du vill flytta dessa filer utan deras egenskaper?
+ShowCheckboxesWhenSelectingItems: Visa kryssrutor när du väljer objekt
+EditPathDescription: Fokus sökfält
+AddItemDescription: Skapa nytt objekt
+SecurityNoAccessControlEntriesText: Inga grupper eller användare har behörighet att komma åt det här objektet. Ägaren till det här objektet kan dock tilldela behörigheter.
+OpenFileLocationDescription: Öppna objektets sökväg
+DeletePermanently: Radera permanent
+DeleteItemPermanentlyDescription: Ta bort objekt permanent
+PlayAllDescription: Spela upp de valda mediefilerna
+UndoDescription: Ångra den senaste filåtgärden
+RedoDescription: Gör om den senaste filåtgärden
+Location: 'Plats:'
+GroupByMonthDescription: Gruppera poster efter månad
+GroupByYearDescription: Gruppera poster efter år
+Month: Månad
+Day: Dag
+ToggleGroupByDateUnitDescription: Växla enhet för gruppering efter datum
+ToggleGroupingUnit: Växla grupperingsenhet
+Year: År
+GroupByDateUnit: Gruppera efter datumenhet
+GroupByDateCreatedDayDescription: Gruppera objekt efter dag skapad
+GroupByDateCreatedMonthDescription: Gruppera objekt efter månad skapad
+GroupByDateCreatedYearDescription: Gruppera poster efter år skapade
+GroupByDateDeletedDayDescription: Gruppera objekt efter datum borttagna
+GroupByDateDeletedMonthDescription: Gruppera objekt efter månad borttagna
+GroupByDateDeletedYearDescription: Gruppera objekt efter år borttagna
+GroupByDateModifiedDayDescription: Gruppera objekt efter dag ändrad
+GroupByDateModifiedMonthDescription: Gruppera poster efter månad ändrad
+GroupByDateModifiedYearDescription: Gruppposter efter datum ändrades
+SecurityClickAdvancedPermissions: Klicka på "Avancerade behörigheter" för att fortsätta.
+SecurityRequireReadPermissions: Du måste ha Läsbehörighet för att visa egenskaperna för detta objekt.
+SecuritySuggestToTakeOwnership: För att försöka ta äganderätten till objektet, vilket inkluderar tillstånd att visa dess egenskaper, klicka på Ändra ovan.
+SecurityUnableToDisplayPermissions: Det går inte att visa behörigheter.
+StashChanges: Lämna mina ändringar på '{0}'
+DiscardChanges: Ignorera mina ändringar
+BringChanges: Ta med mina ändringar till '{0}'
+UncommittedChanges: Du har oengagerade ändringar på denna gren. Vad skulle du vilja göra med dem?
+SwitchBranch: Växla gren
+Branches: Grenar
+Switch: Växla
+NewBranch: Ny affärsenhet
+InvalidBranchName: Ogiltigt branchnamn
+CreateBranch: Skapa affärsenhet
+CreateNewBranch: Skapa affärsenhet
+BasedOn: Baserat på
+SwitchToNewBranch: Växla till ny affärsenhet
+CreateFolderWithSelectionDescription: Skapa en mapp med de valda objekten
+OpenProperties: Öppna egenskaper
+OpenPropertiesDescription: Öppna egenskapsfönstret
+Locals: Lokalbefolkningen
+Remotes: Fjärrkontroller
+ImproveTranslation: Översätt på Crowdin
+GitFetch: Hämta
+GitPull: Dra
+GitFetchDescription: Kör hämtning av git
+GitPullDescription: Run git pull
+Preview: Förhandsgranska
+GitStatus: Git status
+GitError: Git fel
+PullTimeoutError: git pull misslyckades på grund av ett timeout-fel
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (flera värden)
+Author: Författare
+DateCommitted: Datum har angivits
+CommitMessage: Skicka meddelande
+CommitSha: Inaktivera SHA
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Bakgrundsmaterial
+Solid: Solid
+ManageBranches: Hantera affärsenheter
+Push: Tryck
+GitPushDescription: Kör git push
+GitSync: Synk
+GitSyncDescription: Kör git pull och sedan git push
+GitSyncStatusExtendedInfo: '{0} utgående / {1} inkommande incheckningar'
+ConnectGitHub: Anslut till GitHub
+ConnectGitHubDescription: Ange följande kod på länken nedan för att börja arbeta med GitHub utvecklingskataloger.
+CannotReachGitHubError: Filer kan inte komma åt GitHub just nu.
+OpenInVSCode: Öppna mapp i VS-kod
+OpenInVSCodeDescription: Öppna den aktuella katalogen i Visual Studio Code
+OpenRepoInVSCode: Öppna repo i VS-kod
+OpenRepoInVSCodeDescription: Öppna roten av Git repo i Visual Studio Code
+CopyCode: Kopiera kod
+Added: Tillagd
+Deleted: Borttagen
+Modified: Ändrad
+Untracked: Ospårad
+UnableToDisplayOwner: Kunde inte visa nuvarande ägare.
+AuthorizationSucceded: Bra! Du är nu auktoriserad.
+InitRepo: Initiera repo
+InitRepoDescription: Initiera ett Git-arkiv
+GitOriginRepositoryName: Namn på fjärrutvecklingskatalogen
+GitCurrentBranch: Nuvarande gren
+PathColumn: Sökväg kolumn
+SortByPathDescription: Sortera objekt efter sökväg
+OpenDirectoryInNewPaneDescription: Öppna katalogen i ny ruta
+OpenDirectoryInNewTabDescription: Öppna katalogen i ny flik
+OpenInNewWindowDescription: Öppna katalogen i nytt fönster
+OpenAllTaggedItems: Öppna alla
+OpenAllTaggedItemsDescription: Öppna alla taggade objekt
+#{0} is the drive letter.
+DriveWithLetter: Enhet ({0})
+InvalidCommand: Ogiltigt kommando
+InvalidCommandContent: "'{0}' känns inte igen som ett kommando."
+CommandNotExecutable: Kommandot är inte körbart
+CommandNotExecutableContent: Kommandot '{0}' är inte redo att köras.
+CommandPalette: Kommando palett
+OpenCommandPaletteDescription: Öppna kommandopaletten
+ShortcutItemWorkingDir: 'Börja om:'
+TurnOnBitLocker: Slå på BitLocker
+ManageBitLocker: Hantera BitLocker
+CopyFailureFileToLarge: Följande objekt är för stora för att kopieras till denna enhet
+FormatDrive: Formatera enhet
+DontShowAgain: Visa inte igen
+FilesRunningAsAdmin: Filer körs som administratör
+FilesRunningAsAdminContent: På grund av en begränsning med Windows och WinAppSdk, dra och släpp är inte tillgänglig när du kör filer som administratör. Om du vill använda dra och släpp, du kan arbeta runt denna begränsning genom att öppna UAC (User Account Control) från Start-menyn och välja den tredje nivån, och starta om Windows. Annars kan du fortsätta använda filer utan att dra och släppa.
+SettingsLeaveAppRunning: Lämna appen igång i bakgrunden när fönstret är stängt
+#One of the custom color themes
+Blue: Blå
+#One of the custom color themes
+BlueGray: Blå Grå
+#One of the custom color themes
+BrickRed: Tegel Röd
+#One of the custom color themes
+Camouflage: Kamouflage
+#One of the custom color themes
+CoolBlueBright: Cool blå ljus
+#One of the custom color themes
+Gray: Grå
+#One of the custom color themes
+GrayDark: Grå mörk
+#One of the custom color themes
+Green: Grön
+#One of the custom color themes
+IrisPastel: Iris pastell
+#One of the custom color themes
+MintLight: Mint Ljus
+#One of the custom color themes
+ModRed: Mod Red
+#One of the custom color themes
+OrangeBright: Orange Ljus
+#One of the custom color themes
+Overcast: Mulet
+#One of the custom color themes
+Red: Röd
+#One of the custom color themes
+RoseBright: Ros ljus
+#One of the custom color themes
+Seafoam: Seafoam
+#One of the custom color themes
+Storm: Storm
+#One of the custom color themes
+VioletRedLight: Violett rött ljus
+#One of the custom color themes
+YellowGold: Gul Guld
+ClearCompleted: Rensa slutförd
+NameWithColon: 'Namn:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} av {1} bearbetade'
+ItemsLower: objekt
+CannotInitializeGitRepo: Filer kan inte initiera denna katalog som ett Git-förråd.
+ContributingArtist: Bidragande artist
+AddPage: Lägg till sida
+ProcessingItems: Bearbetar objekt...
+SpeedWithColon: 'Hastighet:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Avbröt komprimering av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Avbröt komprimering av {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Komprimerat {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Komprimerat {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Fel vid komprimering av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Det gick inte att komprimera {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Komprimerar {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Komprimerar {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Avbröt kopiering av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Avbröt kopiering av {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Kopierade {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Kopierade {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Fel vid kopiering av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Det gick inte att kopiera {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Kopierar {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Kopierar {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Avbröt extraheringen "{0}" till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Avbröt extraheringen "{0}" från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Extraherade "{0}" till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Extraherade "{0}" från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Fel vid extrahering av "{0}" till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Det gick inte att extrahera "{0}" från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Extraherar "{0}" till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Extraherar "{0}" från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Avbröt borttagning av {0} objekt från "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Tog bort {0} objekt från "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Fel vid borttagning av {0} objekt från "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Det gick inte att ta bort {0} objekt från "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Tar bort {0} objekt från "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Avbröt flyttningen av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Avbröt flyttningen av {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Flyttade {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Flyttade {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Flyttar {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Flyttar {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Fel vid flytt av {0} objekt till "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Misslyckades att flytta {0} objekt från "{1}" till "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Avbruten tömning papperskorgen
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Töm papperskorgen
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Tömmer papperskorgen
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Fel vid tömning av papperskorgen
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Det gick inte att tömma papperskorgen
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Förbereder operationen...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} objekt bearbetade'
+UnblockDownloadedFile: Avblockera hämtad fil
+NoFileOperations: Inga pågående filoperationer
+OpenOnStartupDisabled: Alternativet att öppna filer på Windows Start är inte tillgängligt på grund av dina systeminställningar eller grupppolicy. För att återaktivera, öppna startsidan i Aktivitetshanteraren.
+FailedToRestore: Det gick inte att återställa objekt från papperskorgen
+FailedToSetBackground: Det gick inte att ange bakgrundsbild
+GitDeleteBranch: Ta bort Git branch
+GitDeleteBranchSubtitle: Är du säker på att du vill ta bort "{0}" branchen?
+ConnectedToGitHub: Ansluten till GitHub
+Logout: Utloggning
+ConnectToGitHub: Anslut till GitHub
+Login: Inloggning
+ErrorApplyingTagContent: Taggar är för närvarande endast kompatibla på enheter formaterade som NTFS.
+ErrorApplyingTagTitle: Det gick inte att tillämpa denna tagg
+DecompressArchiveHereSmartDescription: Extrahera objekt från valda arkiv till aktuell mapp för ett objekts arkiv, eller till ny mapp för flera objekts arkiv
+ExtractHereSmart: Extrahera här (Smart)
+SortFilesAndFoldersTogether: Sortera filer och mappar tillsammans
+SortFilesAndFoldersTogetherDescription: Sortera filer och mappar tillsammans
+SortFilesFirst: Sortera filer först
+SortFilesFirstDescription: Sortera filer först och sedan mappar
+SortFoldersFirst: Sortera mappar först
+SortFoldersFirstDescription: Sortera mappar först och sedan filer
+SortPriority: Sortera prioritet
+FailedToRotateImage: Det gick inte att rotera bilden
+Restart: Starta om
+Quit: Avsluta
+FaildToShareItems: Misslyckades att dela objekt
+ScrollToPreviousFolderWhenNavigatingUp: Bläddra till föregående mapp när du navigerar upp
+NewWindowDescription: Öppna nytt fönster
+ChangeAlbumCover: Ändra skivomslag
+ItemRenameFailed: Det gick inte att byta namn på objekt
+HigherPermissionsRequired: Redigering "{0}" kräver ytterligare behörigheter
+EditPermissions: Redigera behörigheter
+BackgroundRunningNotificationBody: Filer körs fortfarande i bakgrunden för att förbättra uppstartsprestanda.
+BackgroundRunningNotificationHeader: Vart gick filerna?
+QuestionsAndDiscussions: Frågor & diskussioner
+TilesViewSizeInfo: Ytterligare storlekar är ännu inte tillgängliga för kakel vy.
+#Used to describe layout sizes
+Compact: Kompakt
+#Used to describe layout sizes
+Small: LITEN
+#Used to describe layout sizes
+Medium: Medel
+#Used to describe layout sizes
+Medium+: Mellan +
+#Used to describe layout sizes
+Medium++: Medel ++
+#Used to describe layout sizes
+Medium+++: Medel +++
+#Used to describe layout sizes
+Medium++++: Medium ++++
+#Used to describe layout sizes
+Medium+++++: Medium +++++
+#Used to describe layout sizes
+Large: Stor
+#Used to describe layout sizes
+Large+: Stor +
+#Used to describe layout sizes
+Large++: Stor ++
+#Used to describe layout sizes
+Large+++: Stor +++
+#Used to describe layout sizes
+ExtraLarge: Extra stor
+DetailsView: Visa detaljer
+LayoutType: Layout typ
+Actions: Åtgärder
+Commands: Kommandon
+AddCommand: Lägg till kommando
+RestoreDefaults: Återställ standardinställningar
+ChooseAnAction: Välj en åtgärd
+RestoreDefaultKeybindingsConfirmation: Är du säker på att du vill återställa standardnyckelbindningar? Denna åtgärd kan inte ångras.
+KeybindingAlreadyUsedNotification: Denna nyckelbindning används redan, välj en annan nyckelbindning för att fortsätta.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Anpassad
+AdaptiveLayoutDisabledNotification: Adaptiv layout är inte tillgänglig när inställningar synkroniseras, standardlayouten har ändrats till Detaljer.
+BackgroundImage: Bakgrundsbild
+#Image alignment type
+Bottom: Botten
+#Image alignment type
+Center: Centrera
+#Image stretch type
+Fill: Fyll
+HorizontalAlignment: Horisontell justering
+ImageFit: Bild passar
+#Image alignment type
+Left: Vänster
+Opacity: Genomskinlighet
+#Image alignment type
+Right: Höger
+#Image alignment type
+Top: Överst
+#Image stretch type
+Uniform: Enhetlig
+#Image stretch type
+UniformToFill: Enhetligt att fylla
+VerticalAlignment: Vertikal justering
+#This is a type of backdrop for the application background
+ThinAcrylic: Tunn akryl
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Visa för alla platser
+DevTools: Verktyg för utvecklare
+DisplayOpenIDE: Konfigurera knappen "Öppna IDE" på statusfältet
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Visa för Git-repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Ansökan förlängning
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO Fil
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip Fil
+#This is the friendly name for bitmap files.
+BitmapFiles: Bitmap filer
+NumPadTypeName: Num
+NetworkLocations: Nätverkets platser
+NoNetworkLocationsInfo: Det finns inga nätverksplatser. Om du inte använder nätverksplatser kan du inaktivera widgeten.
+Disable: Inaktivera
+EditInNotepad: Redigera i Anteckningar
+EditInNotepadDescription: Redigera den valda filen i Anteckningar

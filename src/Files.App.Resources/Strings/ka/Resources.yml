@@ -1,133 +1,133 @@
 NewWindow: New window
 CopyPath: Copy path
 CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+Browse: გადათვალიერება
+Size: ზომა
 PropertiesCreated:
-  Text: 'Created:'
+  Text: 'შექმნილია:'
 Path: Path
 SizeLabel: 'Size:'
 SizeOnDiskLabel: 'Size on disk:'
 UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
+ErrorDialogThisActionCannotBeDone: ეს მოქმედება ვერ განხორციელდება
+ErrorDialogTheDestinationFolder: დანიშნულების საქაღალდე
+ErrorDialogIsASubfolder: არის წყაროს საქაღალდის ქვე-საქაღალდე
+Skip: გამოტოვება
 SelectAll: Select All
 InvertSelection: Invert selection
 ClearSelection: Clear selection
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'განახლდა:'
+Accessed: 'წვდომა:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: ყველა ნივთის გასუფთავება
 NavigationToolbarVisiblePath:
   PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
 Search: Search
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: საქაღალდეებზე, რომლებზეც წვდომა ადრე გქონდათ აქ გამოჩნდებიან
 RecentItemRemove:
-  Text: Remove this item
+  Text: ამ ნივთის წაშლა
 OpenGitHubRepo: GitHub repository
-About: About
+About: შესახებ
 OpenSource: Open source
-DateFormat: Date format
+DateFormat: თარიღის ფორმატი
 SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
+SettingsFilesAndFoldersShowFileExtensions: გაფართოებების ჩვენება ცნობილი ფაილის ნიმუშებისთვის
+SettingsFilesAndFoldersShowHiddenItems: დამალული ფაილების და საქაღალდეების ჩვენება
+ShowDotFiles: წერტილოვანი ფაილების ჩვენება
+Appearance: შესახედაობა
 BackgroundColor: Background color
 Advanced: Advanced
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: გააგრძელეთ იქ სადაც შეჩერდით
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: ახალი ჩანართის გახსნა
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
+  Content: კონკრეტული გვერდის ან გვერდების გახსნა
+Desktop: სამუშაო მაგიდა
+Documents: დოკუმენტები
+Downloads: გადმოწერილები
+Name: სახელი
+Ascending: ზრდადობის მიხედვით
 Paste: Paste
 BaseLayoutContextFlyoutNew:
-  Label: New
+  Label: ახალი
 Properties: Properties
-Open: Open
+Open: გახსნა
 OpenInNewTab: Open in new tab
 OpenInNewWindow: Open in new window
-Share: Share
+Share: გაზიარება
 Cut: Cut
-Delete: Delete
+Delete: წაშლა
 PinFolderToSidebar: Pin to Sidebar
 WelcomeDialog:
-  Title: Welcome to Files!
+  Title: მოგესალმებით ფაილებში!
   PrimaryButtonText: Grant permission
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
+  Text: დასაწყებად, თქვენ ჩვენ ნებართვა უნდა მოგვანიჭოთ, რათა გამოვაჩინოთ თქვენი ფაილები. ეს მოქმედება გახსნის პარამეტრების გვერდს, საიდანაც თქვენ შეგეძლებათ ჩვენთვის ნებართვის მონიჭება. ამ ნაბიჯების შესრულების შემდეგ კი აპლიკაციის ხელახლა გახსნა მოგიწევთ.
 Display: Display
 EnterAnItemName: Enter an item name
 RenameDialog:
   PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
+LightTheme: ნათელი
+DarkTheme: ბნელი
+Application: აპლიკაცია
+SystemTimeStyle: სისტემა
 NewFolder: New folder
 NewFile: New file
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
+  Text: ეს საქაღალდე ცარიელია.
+Back: უკან (Alt+Left Arrow)
+Forward: წინ (Alt+Right Arrow)
+Up: ზემოთ (Alt+Up Arrow)
 Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
+ItemAlreadyExistsDialogContent: ამ სახელწოდების მქონე ნივთი უკვე არსებობს ამ კატალოგში.
+ItemAlreadyExistsDialogSecondaryButtonText: არსებული ნივთის ჩანაცვლება
+ItemAlreadyExistsDialogTitle: ნივთი უკვე არსებობს
 SetAsLockscreen: Set as lockscreen background
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: ჩვენ ვერ შევძელით ამ ნივთის წაშლა
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
+  Text: გთხოვთ, ჩასვათ საჭირო დრაივი ამ ერთეულზე წვდომის მოსაპოვებლად.
   Title: Drive unplugged
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
+  Text: ფაილი, რომელზეც თქვენ ცდილობთ წვდომას, შეიძლება გადატანილი ან წაშლილი იყოს.
+  Title: ფაილი არ მოიძებნა
 CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+CannotAccessPropertiesContent: ფაილი, რომელზეც თქვენ ცდილობთ წვდომას, შეიძლება გადატანილი ან წაშლილი იყოს.
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: საქაღალდე, რომელშიც შესვლას ცდილობთ, შეიძლება გადატანილი ან წაშლილი იყოს.
+  Title: თქვენ წაშალეთ ეს საქაღალდე?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: ფაილზე, რომელზეც წვდომას ცდილობთ, ამჟამად იყენებს {0}
 FileInUseDialog:
   Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
+  Title: ფაილი გამოიყენება
 Layout: Layout
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: წაიკითხეთ-მხოლოდ
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
 Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
+ErrorDialogUnsupportedOperation: მოთხოვნილი მოქმედება მხარდაჭერილი არ არის
+DriveFreeSpaceAndCapacity: '{1} -დან თავისუფალია {0}'
 SendTo: Send to
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'ნივთის სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \ / : * ? " < > |'
 InvalidFilename:
   Text: The item name specified is invalid
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
 SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
 Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
+Yes: დიახ
+ConfirmEmptyBinDialogContent: დარწმუნებული ხართ, რომ გსურთ ყველა ამ ნივთის სამუდამოდ წაშლა?
+ConfirmEmptyBinDialogTitle: სანაგვე ყუთის გასუფთავება
+ItemSizeBytes: ბაიტი
 KiloByteSymbol: KB
 MegaByteSymbol: MB
 GigaByteSymbol: GB
@@ -137,522 +137,522 @@ ByteSymbol: B
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
-  Text: Run as another user
-PropertiesDriveItemTypesEquals: All type of {0}
-PropertiesDriveItemTypeDifferent: Different types
+  Text: სხვა მომხმარებლის სახელით გაშვება
+PropertiesDriveItemTypesEquals: ყველა ტიპის {0}
+PropertiesDriveItemTypeDifferent: განსხვავებული ნიმუშები
 PropertiesCombinedItemLocation: All in {0}
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'გამოყენებული სივრცე:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'თავისუფალი სივრცე:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: 'მოცულობა:'
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
-TabStripDragAndDropUIOverrideCaption: Move tab here
+  Text: 'ფაილის სისტემა:'
+JumpListRecentGroupHeader: ბოლოდროინდელი
+TabStripDragAndDropUIOverrideCaption: ჩანართის გადმოტანა აქ
 syncStatusColumn:
-  Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
-SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
+  Header: სტატუსი
+SettingsPreferencesSystemDefaultLanguageOption: ვინდოუსის ნაგულისხმევი
+NavigationToolbarVisiblePathNoResults: შედეგები არ არის
+SubDirectoryAccessDenied: საჩვენებლად ვერცერთ ნივთზე ვერ ხერხდება წვდომა
+MoveToFolderCaptionText: გადატანა {0} -ში
+CopyToFolderCaptionText: ასლის გადატანა {0} -ში
 CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+OpenFileLocation: ფაილის ადგილმდებარეობის გახსნა
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: 'არგუმენტები:'
 PropertiesShortcutItemPath:
-  Text: 'Destination:'
+  Text: 'დანიშნულება:'
 PropertiesShortcutItemType:
-  Text: 'Shortcut type:'
-PropertiesShortcutTypeLink: Web link
-General: General
-Shortcut: Shortcut
-ShortcutWebLinkFileType: Internet shortcut
-ShortcutCreateNewSuffix: '{0} - shortcut'
-ExceptionNotificationBody: Files ran into a problem that the developers didn't prepare for yet.
-ExceptionNotificationHeader: Something went wrong!
-ExceptionNotificationReportButton: Report this issue
-InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
-InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
-ShareDialogMultipleItemsDescription: The items you've selected will be shared
-ShareDialogSingleItemDescription: The selected item will be shared
-ShareDialogTitle: Sharing {0}
-ShareDialogTitleMultipleItems: Sharing {0} {1}
+  Text: 'მალსახმობის ტიპი:'
+PropertiesShortcutTypeLink: ვებ ბმული
+General: ზოგადი
+Shortcut: მალსახმობი
+ShortcutWebLinkFileType: ინტერნეტ მალსახმობი
+ShortcutCreateNewSuffix: '{0} - მალსახმობი'
+ExceptionNotificationBody: ფაილებს შეექმნა პრობლემა, რისთვისაც დეველოპერები ჯერ არ მომზადებულან.
+ExceptionNotificationHeader: Რაღაც არასწორად წავიდა!
+ExceptionNotificationReportButton: ამ საკითხის გასაჩივრება
+InvalidItemDialogContent: მითითებული ნივთი არასწორი ან მიუწვდომელია..{0}შეცდომის შეტყობინება:{0}{1}
+InvalidItemDialogTitle: არასწორი ნივთი
+SettingsAboutVersionTitle: 'ვერსია:'
+ShareDialogFailMessage: ამჟამად აქ გასაზიარებელი არაფერია...
+ShareDialogMultipleItemsDescription: ელემენტები, რომლებიც თქვენ მონიშნეთ გაზიარდებიან
+ShareDialogSingleItemDescription: მონიშნული ელემენტები გაზიარდებიან
+ShareDialogTitle: გაზიარდება {0}
+ShareDialogTitleMultipleItems: გაზიარდება {0} {1}
 RenameError:
   ItemDeleted:
-    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
-    Title: Item no longer exists
+    Text: ნივთი, რომლის სახელის გადარქმევასაც თქვენ ცდილობთ აღარ არსებობს. გთხოვთ გადაამოწმოთ იმ ნივთის სწორი მდებარეობა, რომლის სახელის გადარქმევაც გსურთ.
+    Title: ნივთი აღარ არსებობს
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: მითითებული სახელი არასწორი იყო. გთხოვთ შეამოწმოთ სასურველი ნივთის სახელი და ხელახლა სცადოთ.
+    Title: არასწორი ნივთის სახელი
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
+    Text: მითითებული ნივთის სიგრძე აღემატება მაქსიმალურ ლიმიტს. გთხოვთ შეამოწმოთ სასურველი სახელი და ხელახლა სცადოთ.
+    Title: ნივთის სახელი საკმაოდ გრძელი იყო
 ShowMoreOptions: Show more options
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
+  Text: ამ პარამეტრების გამოსაყენებლად საჭიროა აპლიკაციის გადატვირთვა, გსურთ აპლიკაციის გადატვირთვა?
 SponsorUsOnGitHub: Sponsor us on GitHub
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: ჩვენ ვერ შევძელით ამ ერთეულის შექმნა
+AccessDenied: წვდომა უარყოფილია
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: დაყენება როგორც
+Cancel: გაუქმება
 AddDialog:
   Title: Create a new item
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: აირჩიეთ ნიმუში ამ ახალი ერთეულისთვის ქვემოთ
+File: ფაილი
+AddDialogListFileSubHeader: ჰქმნის ცარიელ ფაილს
+Folder: საქაღალდე
+AddDialogListFolderSubHeader: ჰქმნის ცარიელ საქაღალდეს
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
+    Name: კატალოგის განახლება
 Language: Language
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
 ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: გარკვეული თვისებების დამახსოვრებისას მოხდა შეცდომა.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+  Title: შეცდომა
+  SecondaryButtonText: მაინც დახურვა
+PropertyRatingText: რეიტინგი
+PropertyParsingPath: ნივთის გზა
+PropertyItemTypeText: ნივთის ნიმუში
+PropertyTitle: სათაური
+PropertySubject: თემა
+PropertyComment: კომენტარი
+PropertyCopyright: საავტორო უფლებები
+PropertyDateModified: შეცვლის თარიღი
+PropertyBitDepth: Bit სიღრმე
+PropertyDimensions: ზომები
+PropertyHorizontalSize: ჰორიზონტალური ზომა
+PropertyVerticalSize: ვერტიკალური ზომა
+PropertyHorizontalResolution: ჰორიზონტალური გარჩევადობა
+PropertyVerticalResolution: ვერტიკალური გარჩევადობა
+PropertyColorSpace: ფერის სივრცე
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
-PropertyLongitudeDecimal: Longitude Decimal
-PropertyLatitudeDecimal: Latitude Decimal
-PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
-PropertyCameraManufacturer: Camera Manufacturer
-PropertyCameraModel: Camera Model
-PropertyExposureTime: Exposure Time
-PropertyFocalLength: Focal Length
-PropertyAperture: Aperture
-PropertyPeopleNames: People Names
-PropertyChannelCount: Channel Count
-PropertyFormat: Format
-PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
-PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
-Conductor: Conductor
-PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
-PropertyFrameCount: Frame Count
-PropertyProtectionType: Protection Type
-PropertyAuthorUrl: Author Url
-PropertyContentDistributor: Content Distributor
-PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
-PropertySeasonNumber: Season Number
-PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
-PropertyPromotionUrl: Promotion Url
-PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
-PropertyThumbnailLargePath: Thumbnail Large Path
-PropertyThumbnailLargeUri: Thumbnail Large Uri
-PropertyThumbnailSmallPath: Thumbnail Small Path
-PropertyThumbnailSmallUri: Thumbnail Small Uri
-PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
-PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
-PropertyCharacterCount: Character Count
-PropertyLineCount: Line Count
-PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
-PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
+PropertyColorSpace_Value65535: მიუთითებელი
+PropertyLongitudeDecimal: გრძივი ათწილადი
+PropertyLatitudeDecimal: გრძედი ათწილადი
+PropertyAltitude: სიმაღლე
+PropertyDateTaken: აღების თარიღი
+PropertyCameraManufacturer: კამერის მწარმოებელი
+PropertyCameraModel: კამერის მოდელი
+PropertyExposureTime: გამოფენის დრო
+PropertyFocalLength: ფოკალური სიგრძე
+PropertyAperture: დიაფრაგმა
+PropertyPeopleNames: ხალხის სახელები
+PropertyChannelCount: არხების რაოდენობა
+PropertyFormat: ფორმატი
+PropertySampleRate: ნიმუშის შეფასება
+PropertyAlbumArtist: ალბომის შემსრულებელი
+PropertyAlbumTitle: ალბომის სათაური
+Artist: ხელოვანი
+PropertyBeatsPerMinute: ურტყამს ყოველ წუთში
+PropertyComposer: კომპოზიტორი
+Conductor: კონდუქტორი
+PropertyDiscNumber: დისკის ნომერი
+PropertyGenre: ჟანრი
+PropertyTrackNumber: ტრეკის ნომერი
+PropertyDuration: ხანგრძლივობა
+PropertyFrameCount: ჩარჩოების რაოდენობა
+PropertyProtectionType: დაცვის ტიპი
+PropertyAuthorUrl: ავტორის მისამართი
+PropertyContentDistributor: კონტენტის გამავრცელებელი
+PropertyDateReleased: გამოშვების თარიღი
+PropertySeriesName: სერიის სახელი
+PropertySeasonNumber: სეზონის ნომერი
+PropertyEpisodeNumber: ეპიზოდის ნომერი
+PropertyProducer: პროდიუსერი
+PropertyPromotionUrl: მეორე ბმული
+PropertyProviderStyle: მომწოდებლის სტილი
+PropertyPublisher: გამომცემელი
+PropertyThumbnailLargePath: ესკიზის დიდი გზა
+PropertyThumbnailLargeUri: ესკიზის დიდი რესურსების ერთიანი იდენტიფიკატორი
+PropertyThumbnailSmallPath: ესკიზის პატარა გზა
+PropertyThumbnailSmallUri: ესკიზის პატარა რესურსების ერთიანი იდენტიფიკატორი
+PropertyUserWebUrl: მომხმარებლის ვებ ბმული
+PropertyWriter: მწერალი
+PropertyYear: წელი
+PropertyContributor: კონტრიბუტორი
+PropertyLastAuthor: ბოლო ავტორი
+PropertyRevisionNumber: შესწორების ნომერი
+PropertyVersion: ვერსია
+PropertyDateCreated: შექმნის თარიღი
+PropertyTotalEditingTime: რედაქტირების სრული დრო
+PropertyTemplate: შაბლონი
+PropertyWordCount: სიტყვების რაოდენობა
+PropertyCharacterCount: სიმბოლოების რაოდენობა
+PropertyLineCount: ხაზების რაოდენობა
+PropertyParagraphCount: აბზაცების რაოდენობა
+PropertyPageCount: გვერდების რაოდენობა
+PropertySlideCount: სლაიდების რაოდენობა
+PropertyFrameRate: კადრების სიხშირე
 PropertyEncodingBitrate: Encoding Bitrate
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
+Compression: შეკუმშვა
+PropertyFrameWidth: ჩარჩოს სიგანე
+PropertyFrameHeight: ჩარჩოს სიმაღლე
+PropertyOrientation: ორიენტაცია
+PropertySectionCore: ძირითადი
+PropertySectionImage: სურათი
+PropertySectionPhoto: ფოტო
 PropertySectionGPS: GPS
-PropertySectionMedia: Media
-PropertySectionAudio: Audio
-PropertySectionMusic: Music
-PropertySectionVideo: Video
-Document: Document
-Address: Address
+PropertySectionMedia: მედია
+PropertySectionAudio: აუდიო
+PropertySectionMusic: მუსიკა
+PropertySectionVideo: ვიდეო
+Document: დოკუმენტი
+Address: მისამართი
 SelectionOptions: Selection options
 NavToolbarSelectionOptions:
-  Label: Select
-RecycleBinItemAutomation: Recycle bin item
-ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
-EjectNotificationHeader: Safe to remove hardware
-EjectNotificationBody: The device can now be safely removed from the computer.
-EjectNotificationErrorDialogHeader: Problem Ejecting Device
-EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
-Eject: Eject
+  Label: არჩევა
+RecycleBinItemAutomation: სანაგვე ურნის ნივთი
+ShortcutItemAutomation: მალსახმობის ელემენტი
+Drives: დისკები
+PinToSidebarByDraggingCaptionText: აქ გადმოტანა
+EjectNotificationHeader: უსაფრთხოა აპარატურის ამოშლა
+EjectNotificationBody: მოწყობილობა უკვე შესაძლებელია უსაფრთხოდ ამოიშალოს კომპიუტერიდან.
+EjectNotificationErrorDialogHeader: პრობლემა მოწყობილობის მოცილებისას
+EjectNotificationErrorDialogBody: ეს მოწყობილობა ამჟამად გამოიყენება. დახურეთ ნებისმიერი პროგრამა, ფანჯარა ან ჩანართი, რომელიც შესაძლოა მოწყობილობას იყენებდეს და სცადეთ ხელახლა.
+Eject: მოცილება
 DuplicateTab: Duplicate tab
 HorizontalMultitaskingControlMoveTabToNewWindow:
-  Text: Move tab to new window
+  Text: ჩანართის ახალ ფანჯარაში გადატანა
 NewTab: New tab
 ClearPropertiesFlyoutText:
-  Text: Some properties may contain personal information.
+  Text: ზოგიერთი თვისება შეიძლება შეიცავდეს პირად ინფორმაციას.
 ClearPropertiesButton:
-  Content: Clear All Properties
+  Content: ყველა თვისების გასუფთავება
 OngoingTasksTeachingTip:
-  Subtitle: Check the status of file operations here
+  Subtitle: შეამოწმეთ ფაილების მოქმედებების სტატუსი აქ
   Title: Status center
-SearchPagePathBoxOverrideText: Search results in {1} for {0}
-Details: Details
-No: 'No'
-ShowProtectedSystemFiles: Show protected system files
+SearchPagePathBoxOverrideText: ძიების შედეგები {0} -(ს)თვის {1} -ში
+Details: დეტალები
+No: არა
+ShowProtectedSystemFiles: დაცული სისტემის ფაილების ჩვენება
 SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
 SettingsContextMenu:
-  Text: Customize the right click context menu
+  Text: მარჯვენა ღილაკით დაჭერილი კონტექსტის მენიუს მორგება
 OriginalPath: Original path
-Add: Add
-Edit: Edit
-Remove: Remove
+Add: დამატება
+Edit: რედაქტირება
+Remove: წაშლა
 SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
 ShowOpenInNewPane: Show option to open folders in a new pane
 ShowCopyPath: Show option to copy path
 ShowCreateFolderWithSelection: Show option to create folder with selection
 ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
-  Label: New pane
+  Label: ახალი სარკმელი
 OpenInNewPane: Open in new pane
 FilesAndFolders: Files & folders
 NavToolbarDetails:
   ToolTipService:
-    ToolTip: Details (Ctrl+Shift+1)
+    ToolTip: დეტალების ხედი (Ctrl+Shift+1)
 NavToolbarTiles:
   ToolTipService:
-    ToolTip: Tiles (Ctrl+Shift+2)
-DateDeleted: Date deleted
-SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
-DesiredName: Desired name
+    ToolTip: ფილები (Ctrl+Shift+2)
+DateDeleted: წაშლის თარიღი
+SidebarCloudDrives: ღრუბლოვანი დისკები
+Confirm: დადასტურება
+DesiredName: სასურველი სახელი
 TogglePreviewPane: Toggle the preview pane
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+DetailsPanePreviewNotAvaliableText: გადახედვა არ არის შესაძლებელი
+PropertyItemName: ნივთის სახელი
 UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+Network: ქსელი
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: ფაილის დეტალები
 PreviewPaneFilePreview:
   AutomationProperties:
-    Name: File preview
+    Name: ფაილის გადახედვა
 SelectedFilePreviewPane:
   AutomationProperties:
-    Name: Selected file preview pane
+    Name: არჩეულია ფაილის გადახედვის სარკმელი
 Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
+CloudDriveSyncStatus_Online: ხელმისაწვდომია ონლაინ რეჟიმში
 Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
-CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
-CloudDriveSyncStatus_Excluded: Excluded from sync
-ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+CloudDriveSyncStatus_Offline: ხაზგარეშე რეჟიმშიცაა ხელმისაწვდომი
+CloudDriveSyncStatus_PartialOffline: ნაწილობრივ ხელმისაწვდომია ხაზგარეშე რეჟიმში
+CloudDriveSyncStatus_Sync: მიმდინარეობს სინქრონიზაცია
+CloudDriveSyncStatus_Excluded: გამორიცხულია სინქრონიზაციისგან
+ItemSizeNotCalculated: არ არის გათვლილი
+CloudDriveSyncStatus_Unknown: უცნობი
 RenameFileDialog:
-  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
-DriveTypeCDRom: CD ROM Drive
-DriveTypeCloudDrive: Cloud Drive
-DriveTypeFixed: Fixed Disk Drive
-DriveTypeFloppyDisk: Floppy Disk Drive
-DriveTypeNetwork: Network Drive
-DriveTypeNoRootDirectory: Unmounted Drive
+  Text: ფაილის გაფართოების შეცვლის შემთხვევაში, ფაილი შესაძლოა გამოუსადეგარი გახდეს. დარწმუნებული ხართ, რომ გსურთ მისი შეცვლა?
+DriveTypeCDRom: CD ROM დისკი
+DriveTypeCloudDrive: ღრუბლოვანი დისკი
+DriveTypeFixed: გასწორებული დისკი
+DriveTypeFloppyDisk: ფლოპი დისკი
+DriveTypeNetwork: ქსელოვანი დისკი
+DriveTypeNoRootDirectory: დაუმონტაჟებელი დისკი
 DriveTypeRam: RAM Disk Drive
-DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
-DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+DriveTypeRemovable: ამოშლადი შესანახი მოწყობილობა
+DriveTypeUnknown: უცნობი
+DriveTypeVirtualDrive: ვირტუალური დისკი
+DateCreated: შექმნის თარიღი
+MoreOptions: მეტი არჩევანი...
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
-  Text: Map network drive
+  Text: რუკის ქსელური დისკი
 Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
-PropertyItemTarget: Target
-Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+SidebarLibraries: ბიბლიოთეკა
+NoItemSelected: ელემენტი არ არის არჩეული
+PropertyItemTarget: სამიზნე
+Arguments: არგუმენტები
+Default: ნაგულისხმევი
+PropertyItemCount: ნივთების რაოდენობა
 ElevateConfirmDialog:
-  Title: This action requires administrator rights
-  Content: Would you like to continue as administrator?
-ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+  Title: ეს მოქმედება მოითხოვს ადმინისტრატორის უფლებებს
+  Content: გსურთ გააგრძელოთ, როგორც ადმინისტრატორმა?
+ColumnsShortcutTooltip: სვეტები (Ctrl+Shift+6)
 PinItemToStart:
-  Text: Pin to the Start Menu
+  Text: საწყის მენიუში ჩამაგრება
 UnpinItemFromStart:
-  Text: Unpin from the Start Menu
-Library: Library
+  Text: საწყისი მენიუდან ჩამაგრების მოხსნა
+Library: ბიბლიოთეკა
 LibraryLocations:
-  Text: 'Locations:'
-SetAsDefaultSavePath: Set as default save path
+  Text: 'მდებარეობები:'
+SetAsDefaultSavePath: ნაგულისხმევ დასამახსოვრებელ გზად დაყენება
 LibraryNoLocations:
-  Text: No locations
-ErrorInputEmpty: Input field cannot be empty!
-ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
-CreateLibraryErrorAlreadyExists: Library with the same name already exists!
+  Text: ადგილმდებარეობები არ არის
+ErrorInputEmpty: შეყვანის ველი არ შეიძლება იყოს ცარიელი!
+ErrorNameInputRestrictedCharacters: 'სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \ / : * ? " < > |'
+ErrorNameInputRestricted: დაუშვებელია ამ სახელის გამოყენება!
+CreateLibraryErrorAlreadyExists: ბიბლიოთეკა მსგავსი სახელით უკვე არსებობს!
 OpenStorageSense: Open Storage Sense
-Copy: Copy
+Copy: ასლის შექმნა
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: გადატანა
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
-ConflictingItemsDialogPrimaryButtonText: Continue
+ConflictingItemsDialogPrimaryButtonText: გაგრძელება
 ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
 ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
-PropertyISO: ISO speed
+  Content: სამუდამოდ წაშლა
+PropertyISO: ISO სიჩქარე
 ReplaceExisting: Replace existing
-GenerateNewName: Generate new name
+GenerateNewName: არსებულის ჩანაცვლება
 CreateFolderWithSelection: Create folder with selection
-ItemType: 'Type:'
-ToolTipDescriptionDate: 'Date modified:'
-OpenWith: Open with
+ItemType: 'ტიპი:'
+ToolTipDescriptionDate: 'შეცვლის თარიღი:'
+OpenWith: გახსნა
 FileBrowserThumbnailIconColumnGrid:
   AutomationProperties:
-    Name: File icon
+    Name: ფაილის ხატულა
 DetailsViewHeaderFlyout_ShowOriginalPath:
-  Text: Original path column
+  Text: თავდაპირველი გზის სვეტი
 DetailsViewHeaderFlyout_ShowItemType:
-  Text: Item type column
+  Text: ნივთის ტიპის სვეტი
 DetailsViewHeaderFlyout_ShowDateModified:
-  Text: Date modified column
+  Text: თარიღის შეცვლის სვეტი
 DetailsViewHeaderFlyout_ShowDateDeleted:
-  Text: Date deleted column
+  Text: თარიღის წაშლის სვეტი
 Sort: Sort
-DateModifiedLowerCase: Date modified
+DateModifiedLowerCase: შეცვლის თარიღი
 OriginalFolder: Original folder
-Descending: Descending
-ItemSizeText_Huge: Huge
-ItemSizeText_VeryLarge: Very large
-ItemSizeText_Large: Large
-ItemSizeText_Medium: Medium
-ItemSizeText_Small: Small
-ItemSizeText_Tiny: Tiny
+Descending: კლებადობის მიხედვით
+ItemSizeText_Huge: უზარმაზარი
+ItemSizeText_VeryLarge: ძალიან დიდი
+ItemSizeText_Large: დიდი
+ItemSizeText_Medium: საშუალო
+ItemSizeText_Small: პატარა
+ItemSizeText_Tiny: პაწაწინა
 Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
+Today: დღეს
+Yesterday: გუშინ
+EarlierThisWeek: ამ კვირის დასაწყისში
+LastWeek: გასულ კვირას
 EarlierThisMonth: Earlier this month
-LastMonth: Last month
+LastMonth: გასულ თვეში
 EarlierThisYear: Earlier this year
 LastYear: Last year
 YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
+GroupItemsCount_Singular: '{0} ელემენტი'
+GroupItemsCount_Plural: '{0} ელემენტი'
+ReopenClosedTab: დახურული ჩანართების ხელახლა გახსნა
 Rename: Rename
 Privacy: Privacy
-TheRecycleBin: the Recycle Bin
+TheRecycleBin: სანაგვე ურნა
 Canceling: Canceling
-Clear: Clear
+Clear: გასუფთავება
 Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
+SyncStatus: სინქრონიზაციის სტატუსი
+Security: უსაფრთხოება
+AdvancedPermissions: დამატებითი უფლებები
+Allow: დაშვება
 Deny: Deny
 SecurityFullControlLabel:
-  Text: Full control
+  Text: სრული კონტროლი
 SecurityListDirectoryLabel:
-  Text: List directory contents
+  Text: კატალოგთა კონტენტის ჩამოთვლა
 Modify: Modify
 SecurityPermissionsHeaderText: Permissions for {0}
 SecurityReadAndExecuteLabel:
-  Text: Read and execute
+  Text: წაკითხვა და შესრულება
 SecurityReadLabel:
-  Text: Read
+  Text: წაკითხვა
 SecurityUsersGroupLabel:
-  Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+  Text: ჯგუფის ან მომხმარებლის სახელები
+Write: დაწერა
+SecurityUnknownAccount: უცნობი ანგარიში
 SecurityCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
+  Text: თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება. გასაგრძელებლად დააჭირეთ "დამატებით უფლებებს".
 SecurityOwnerLabel:
   Text: 'Owner:'
 SecurityUnknownOwnerText:
-  Text: Unknown owner
+  Text: უცნობი მფლობელი
 ExtractArchive: Extract archive
 DecompressArchiveDialogOpenDestinationWhenComplete:
-  Content: Open destination folder when complete
-BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+  Content: გახსენით დანიშნულების საქაღალდე დასრულების შემდეგ
+BaseLayoutItemContextFlyoutExtractToChildFolder: ამოიღეთ {0}\ -ში
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: ახალი ბიბლიოთეკის შექმნა
 SideBarRestoreLibraries:
-  Text: Restore default libraries
-DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
-DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+  Text: ნაგულისხმევი ბიბლიოთეკების აღდგენა
+DialogRestoreLibrariesSubtitleText: დარწმუნებული ხართ, რომ გსურთ ნაგულისხმევი ბიბლიოთეკების აღდგენა? თქვენი ყველა ფაილი თქვენს სისტემაში მაინც დარჩება.
+DialogRestoreLibrariesTitleText: ბიბლიოთეკების აღდგენა
+PropertyFileOwner: მფლობელი
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
+  Text: განსაკუთრებული
+Access: დაშვება
 SecurityAdvancedAppliesTo: Applies to
 Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
-SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
+SecurityAdvancedFlagsFilesLabel: ფაილები
+SecurityAdvancedFlagsFolderLabel: ეს საქაღალდე
+SecurityAdvancedFlagsSubfoldersLabel: ქვესაქაღალდეები
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
+  Text: თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება, თუმცა შეგიძლიათ სცადოთ ამ ობიექტის მფლობელობის აღება.
 SecurityAdvancedFolderFiles:
-  Text: This folder and files
+  Text: ეს საქაღალდე და ფაილები
 SecurityAdvancedFolderSubfoldersFiles:
-  Text: This folder, subfolders and files
+  Text: ეს საქაღალდე, ქვესაქაღალდეები და ფაილები
 SecurityAdvancedOnlyFiles:
-  Text: Only files
+  Text: მხოლოდ ფაილები
 SecurityAdvancedOnlySubfolders:
-  Text: Only subfolders
+  Text: მხოლოდ ქვესაქაღალდეები
 SecurityAdvancedOnlySubfoldersFiles:
-  Text: Only subfolders and files
+  Text: მხოლოდ ქვესაქაღალდეები და ფაილები
 SecurityAdvancedOnlyThisFolder:
-  Text: Only this folder
+  Text: მხოლოდ ეს საქაღალდე
 SecurityAdvancedFolderSubfolders:
-  Text: This folder and subfolders
+  Text: ეს საქაღალდე და ქვესაქაღალდეები
 SecurityAppendDataLabel:
-  Text: Append data
+  Text: მონაცემების დამატება
 SecurityChangePermissionsLabel:
-  Text: Change permission
+  Text: ნებართვის შეცვლა
 SecurityCreateDirectoriesLabel:
-  Text: Create folders
+  Text: საქაღალდეების შექმნა
 SecurityCreateFilesLabel:
-  Text: Create files
+  Text: ფაილების შექმნა
 SecurityDeleteSubdirectoriesAndFilesLabel:
-  Text: Delete subdirectories and files
+  Text: ქვეკატალოგების და ფაილების წაშლა
 SecurityExecuteFileLabel:
-  Text: Execute files
+  Text: ფაილების შესრულება
 SecurityReadAttributesLabel:
-  Text: Read attributes
+  Text: თვისებების წაკითხვა
 SecurityReadDataLabel:
-  Text: Read data
+  Text: მონაცემების წაკითხვა
 SecurityReadExtendedAttributesLabel:
-  Text: Read extended attributes
+  Text: გაფართოებული თვისებების წაკითხვა
 SecurityReadPermissionsLabel:
-  Text: Read permissions
+  Text: უფლებების წაკითხვა
 SecurityTakeOwnershipLabel:
-  Text: Take ownership
+  Text: მფლობელობის მიღება
 SecurityTraverseLabel:
-  Text: Visit folder
+  Text: საქაღალდის მონახულება
 SecurityWriteAttributesLabel:
-  Text: Write attributes
+  Text: თვისებების დაწერა
 SecurityWriteDataLabel:
-  Text: Write data
+  Text: მონაცემების დაწერა
 SecurityWriteExtendedAttributesLabel:
-  Text: Write extended attributes
+  Text: გაფართოებული თვისებების წაკითხვა
 SecurityAdvancedInheritedConvert:
-  Text: Convert inherited permissions into explicit permissions
+  Text: მემკვიდრეობით მიღებული უფლებების აშკარა ნებართვებად გადაქცევა
 SecurityAdvancedInheritedEnable:
-  Text: Enable inheritance
+  Text: მემკვიდრეობის ჩართვა
 SecurityAdvancedInheritedRemove:
-  Text: Remove all inherited permissions
+  Text: ყველა მემკვიდრეობით მიღებული უფლებების წაშლა
 SecurityAdvancedReplaceChildPermissions:
-  Text: Reset child permissions
+  Text: ბავშვის ნებართვების გადაყენება
 SecurityAdvancedReplaceChildPermissions2:
   ToolTipService:
-    ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
+    ToolTip: ყველა ბავშვის ობიექტის ნებართვის ჩანაწერის ჩანაცვლება ამ ობიექტის მემკვიდრეობითი ნებართვის ჩანაწერიდან
 NavigationToolbarClosePane:
-  Label: Close pane
-EnterCompactOverlay: Enter compact overlay
-ExitCompactOverlay: Exit compact overlay
-PropertyFileDescription: File description
-PropertyCompany: Company
-PropertyLanguage: Language
-PropertyTrademarks: Trademarks
-PropertyFileVersion: File version
+  Label: ფანჯრის დახურვა
+EnterCompactOverlay: შეერთებული გადაფარვის ჩართვა
+ExitCompactOverlay: შეერთებული გადაფარვის გამორთვა
+PropertyFileDescription: ფაილის აღწერა
+PropertyCompany: კომპანია
+PropertyLanguage: ენა
+PropertyTrademarks: სავაჭრო ნიშნები
+PropertyFileVersion: ფაილის ვერსია
 PreviewPaneLoadCloudItemButton:
-  Text: Load full preview
+  Text: სრული გადახედვის ჩატვირთვა
   ToolTipService:
-    ToolTip: Downloads the item from the cloud and loads the preview
+    ToolTip: ჩამოტვირთავს ნივთს ღრუბლიდან და ჩატვირთავს გადახედვას
 DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
-PropertyUncompressedSize: Uncompressed size
+PropertyUncompressedSize: შეუკუმშავი ზომა
 WSL: WSL
 SideBarHideSectionFromSideBar:
-  Text: Hide {0} section
-AddFile: Add file
-ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
-Close: Close
-ConsentDialogPrimaryButtonText: Update
-Home: Home
+  Text: '{0} განყოფილების დამალვა'
+AddFile: ფაილის დამატება
+ConsentDialogTitle: განახლებები ხელმისაწვდომია
+ConsentDialogContent: განახლებები მზად არიან დასაყენებლად
+Close: დახურვა
+ConsentDialogPrimaryButtonText: განახლება
+Home: მთავარი
 BaseLayoutContextFlyoutDetails:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+1
 BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
-ExtractingArchiveText: Extracting archive
-ExtractingCompleteText: Extracting complete!
+ArchiveExtractionCompletedSuccessfullyText: არქივის ამოღება წარმატებით დასრულდა.
+ExtractingArchiveText: მიმდინარეობს არქივის ამოღება
+ExtractingCompleteText: ამოღება დასრულებულია!
 BaseLayoutItemContextFlyoutOpenParentFolder:
-  Text: Open parent folder
+  Text: მშობელი საქაღალდის გახსნა
 Unknown: Unknown
-EditTags: Edit tags
-PropertyPartOfSet: Part of set
+EditTags: ფაილის იარლიყების რედაქტირება
+PropertyPartOfSet: ნაკრების ნაწილი
 InsertDiscDialog:
   OpenDriveButton: Open drive
-  Text: Please insert a disc into drive {0}
-  Title: Insert a disc
+  Text: გთხოვთ ჩასვათ დისკი {0} დისკში
+  Title: დისკის ჩასმა
 OK: OK
 AskCredentialDialog:
   Title: Credential required
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: უსახელო
 CredentialDialogDescription:
-  Text: 'Provide your credential:'
+  Text: 'მიუთითეთ თქვენი სერთიფიკატი:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
-NoSearchResultsFound: No items found
-OpenLogLocation: Open log location
-LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
-Tiles: Tiles
+  PlaceholderText: მომხმარებლის სახელი
+NoSearchResultsFound: ნივთები ვერ მოიძებნა
+OpenLogLocation: ჟურნალის ადგილმდებარეობის გახსნა
+LinkToFolderCaptionText: ბმულის შექმნა {0} -ში
+Columns: სვეტები
+Tiles: მოზაიკა
 OpenFoldersInNewTab: Open folders in new tab
 StatusCenter: Status center
 DetailsViewHeaderFlyout_ShowDateCreated:
@@ -665,25 +665,25 @@ SubmitFeatureRequest: Submit feature request
 SubmitBugReport: Submit bug report
 SettingsSetAsDefaultFileManager: Set Files as the default file manager
 SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
+Tag: ფაილის იარლიყი
 SettingsOpenItemsWithOneClick: Open items with a single click
 FolderPath: Folder path
 ExportSettings: Export settings
 ImportSettings: Import settings
 SettingsImportErrorDescription: Couldn't import settings. The settings file is corrupted.
 SettingsImportErrorTitle: Error importing settings
-EmptyRecycleBin: Empty Recycle Bin
-Sidebar: Sidebar
+EmptyRecycleBin: სანაგვე ურნის გასუფთავება
+Sidebar: გვერდითი ზოლი
 ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
+Customization: მორგება
 RestoreDefault: Restore default
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
 StartupSettings: Startup settings
-Compatibility: Compatibility
-None: None
+Compatibility: თავსებადობა
+None: არცერთი
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: სისტემა
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,7 +692,7 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: ადმინისტრატორის სახელით გაშვება
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
@@ -706,42 +706,42 @@ FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
 CalculateFolderSizes: Calculate folder sizes
 RecentFiles: Recent files
 SettingsOpenInLogin: Open Files on Windows startup
-Attributes: Attributes
-Hidden: Hidden
-MoreDetails: More details
-ReadOnly: Read only
+Attributes: 'ატრიბუტები:'
+Hidden: დამალული
+MoreDetails: დამატებითი დეტალები
+ReadOnly: მხოლოდ წაკითხვადი
 CleanupDrive: Cleanup your drive contents
-Type: Type
-Bytes: Bytes
-Extract: Extract
-ExtractFiles: Extract files
-ExtractHere: Extract here
+Type: ნიმუში
+Bytes: 'ბაიტი:'
+Extract: ამოღება
+ExtractFiles: ფაილების ამოღება
+ExtractHere: ამოღება აქ
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
 ExtractToChildFolder: Extract to {0}
 RunScript: Run script
 RunWithPowerShell: Run with PowerShell
 ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
-RotateLeft: Rotate left
-RotateRight: Rotate right
-Install: Install
+RotateLeft: შეტრიალება მარცხნივ
+RotateRight: შეტრიალება მარჯვნივ
+Install: დაინსტალირება
 CloseTabsToTheLeft: Close tabs to the left
-CloseTabsToTheRight: Close tabs to the right
-CloseOtherTabs: Close other tabs
-Music: Music
-Pictures: Pictures
+CloseTabsToTheRight: მარჯვენა გრაფების დახურვა
+CloseOtherTabs: სხვა ჩანართების დახურვა
+Music: მუსიკა
+Pictures: სურათები
 UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
+FileTags: ტეგები
+Universal: უნივერსალური
 DateFormatSample: 'ex: {0}, {1}'
 SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
+Retry: ხელახლა ცდა
 ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
 HiddenItems: Hidden items
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
@@ -749,7 +749,7 @@ Behaviors: Behaviors
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
-SetAsBackground: Set as desktop background
+SetAsBackground: სამუშაო მაგიდის ფონად დაყენება
 SetAsDefault: Set as default
 DateColumn: Date column
 DateCreatedColumn: Date created column
@@ -774,7 +774,7 @@ ArchivePassword: Archive password
 ExtractToPath: Path
 SortingAndGrouping: Sorting and grouping
 CreateArchive: Create archive
-Create: Create
+Create: შექმნა
 CreateNamedArchive: Create {0}
 EnterName: Enter a name
 CompressionLevel: Compression level
@@ -783,7 +783,7 @@ CompressionLevelHigh: High
 CompressionLevelNormal: Normal
 CompressionLevelLow: Low
 CompressionLevelFast: Fast
-CompressionLevelNone: None
+CompressionLevelNone: არცერთი
 SplittingSize: Splitting size
 Do not split: Do not split
 CD: CD
@@ -791,12 +791,12 @@ DVD: DVD
 FAT: FAT
 Bluray: Blu-ray
 Encryption: Encryption
-Password: Password
-Format: Format
+Password: პაროლი
+Format: ფორმატი
 DetailsViewHeaderFlyout_ShowSyncStatus:
   Text: Sync status column
 GroupBy: Group by
-SortBy: Sort by
+SortBy: დახარისხება
 GroupInDescendingOrder: Group in descending order
 SortInDescendingOrder: Sort in descending order
 NewShortcutDialogTitle: Create a new shortcut
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: პარამეტრები
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -861,13 +861,13 @@ IncreaseSize: Increase size
 ToggleSortDirection: Toggle sort direction
 InvalidTagNameWarning: Invalid name
 TagNameRules: Name must not be empty or start or end with a period.
-Videos: Videos
+Videos: ვიდეოები
 LaunchPreviewPopup: Launch preview popup
 ToggleCompactOverlay: Toggle compact overlay
 OpenHelpDescription: Open online help page in browser
 ToggleFullScreenDescription: Toggle full screen
-EnterCompactOverlayDescription: Enter compact overlay
-ExitCompactOverlayDescription: Exit compact overlay
+EnterCompactOverlayDescription: შეერთებული გადაფარვის ჩართვა
+ExitCompactOverlayDescription: შეერთებული გადაფარვის გამორთვა
 ToggleCompactOverlayDescription: Toggle compact overlay
 SearchDescription: Go to search box
 ToggleShowHiddenItemsDescription: Toggle whether to show hidden items
@@ -880,11 +880,11 @@ CopyPathWithQuotesDescription: Copy path of selected items with quotes to the cl
 CutItemDescription: Cut item(s) to clipboard
 PasteItemDescription: Paste item(s) from clipboard to current folder
 PasteItemToSelectionDescription: Paste item(s) from clipboard to selected folder
-DeleteItemDescription: Delete item(s)
+DeleteItemDescription: ელემენტ(ებ)ის წაშლა
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: სანაგვე ყუთის გასუფთავება
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,9 +1013,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: ზემოთ (Alt+Up Arrow)
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Home: Home
+  Home: მთავარი
   #Key name for hotkeys in menus. Use abbreviation if possible.
   End: End
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: გასუფთავება
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1059,7 +1059,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserSearch: Search
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: ფავორიტები
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: წელი
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: ნივთი
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1387,9 +1387,9 @@ TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
 #Used to describe layout sizes
-Small: Small
+Small: პატარა
 #Used to describe layout sizes
-Medium: Medium
+Medium: საშუალო
 #Used to describe layout sizes
 Medium+: Medium +
 #Used to describe layout sizes
@@ -1401,7 +1401,7 @@ Medium++++: Medium ++++
 #Used to describe layout sizes
 Medium+++++: Medium +++++
 #Used to describe layout sizes
-Large: Large
+Large: დიდი
 #Used to describe layout sizes
 Large+: Large +
 #Used to describe layout sizes

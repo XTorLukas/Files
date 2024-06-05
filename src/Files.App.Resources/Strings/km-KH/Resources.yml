@@ -1,87 +1,87 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: ផ្ទាំងថ្មី
+CopyPath: ចម្លងទីតាំង
+CopyPathWithQuotes: ចម្លងផ្លូវទីតាំង
+Browse: រកមើល
+Size: ទំហំ
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
+  Text: បានបង្កើត
+Path: ផ្លូវ
+SizeLabel: ទំហំ៖
+SizeOnDiskLabel: ទំហំលើថាស
+UncompressedSize: ទំហំបានបង្ហាប់
+ErrorDialogThisActionCannotBeDone: សកម្មភាពនេះមិនអាចត្រូវបានមិនធ្វើវិញទេ
+ErrorDialogTheDestinationFolder: គោលដៅថតឯកសារ
 ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
+Skip: រំលង
+SelectAll: ជ្រើស​​​ទាំង​អស់
+InvertSelection: បញ្ច្រាស់ការជ្រើសរើស​
 ClearSelection: Clear selection
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: បាន​កែប្រែ
+Accessed: បាន​ចូលដំណើរការ
 RecentItemClearAll:
-  Text: Clear all items
+  Text: សម្អាត​ធាតុ​ទាំងអស់
 NavigationToolbarVisiblePath:
   PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+Search: ស្វែងរក
 RecentItemDescription:
   Text: Files you've previously accessed will show up here
 RecentItemRemove:
-  Text: Remove this item
+  Text: លុបធាតុមួយនេះ
 OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
+About: អំពី
+OpenSource: កូដចំហ
+DateFormat: ទ្រង់ទ្រាយ​​​កាល​បរិច្ឆេទ
+SettingsAppearanceTheme: ស្បែក
 SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
 SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
 ShowDotFiles: Show dot files
-Appearance: Appearance
+Appearance: រូបរាង
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: កម្រិតខ្ពស់
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: បន្តវិញកន្លែងចាកចេញ
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: បើកទំព័រថេបថ្មី
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
+  Content: បើកទំហំជាក់លាក់
 Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+Documents: ឯកសារ
+Downloads: ទាញយក
+Name: ឈ្មោះ
+Ascending: លំដាប់​ឡើង
+Paste: បិទភ្ជាប់
 BaseLayoutContextFlyoutNew:
-  Label: New
+  Label: ថ្មី
 Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
+Open: បើក
+OpenInNewTab: បើកទំព័រថេបថ្មី
 OpenInNewWindow: Open in new window
-Share: Share
+Share: ចែក​រំលែក​
 Cut: Cut
-Delete: Delete
+Delete: លុប
 PinFolderToSidebar: Pin to Sidebar
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: សូមស្វាគមន៏មកកាន់កម្មវីធីឯកសារ
+  PrimaryButtonText: ផ្តល់ការអនុញ្ញាតិ
 WelcomeDialogTextBlock:
   Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+Display: បង្ហាញ
+EnterAnItemName: បញ្ចូលឈ្មោះ
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: កំណត់ឈ្មោះ
+LightTheme: ភ្លឺ
+DarkTheme: ងងឹត
+Application: កម្មវិធី
+SystemTimeStyle: ប្រព័ន្ធ
+NewFolder: ថត​ថ្មី
+NewFile: ឯកសារ​ថ្មី​
 EmptyFolder:
   Text: This folder is empty.
-Back: Back
-Forward: Forward
+Back: ត្រលប់
+Forward: បញ្ចូនបន្ត
 Up: Up
-Refresh: Refresh
+Refresh: ធ្វើឱ្យស្អាត
 ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
 ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
 ItemAlreadyExistsDialogTitle: Item already exists
@@ -105,34 +105,34 @@ FileInUseByDialog:
 FileInUseDialog:
   Text: The file you are attempting to access is currently being used by another application
   Title: File is in use
-Layout: Layout
+Layout: ប្លង់
 PropertiesDialogReadOnly:
   Text: Read-only
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
+Now: ឥឡូវនេះ
+ErrorDialogUnsupportedOperation: ប្រតិបត្តិការស្នើសុំត្រូវបានបដិសេដ
 DriveFreeSpaceAndCapacity: '{0} free of {1}'
-SendTo: Send to
+SendTo: ផ្ញើ​ទៅ៖
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'ឈ្មោះធាតុមិនត្រូវមានតួអក្សរខាងក្រោមទេ៖ \ / : * ? " < > |'
 InvalidFilename:
-  Text: The item name specified is invalid
+  Text: ឈ្មោះធាតុដែលបានបញ្ជាក់គឺមិនត្រឹមត្រូវទេ
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
+Items: '{0, plural, other {items}}'
+Yes: បាទ/ចាស
 ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
 ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
-KiloByteSymbol: KB
-MegaByteSymbol: MB
-GigaByteSymbol: GB
-TeraByteSymbol: TB
-PetaByteSymbol: PB
+ItemSizeBytes: បៃ
+KiloByteSymbol: គីឡូបៃ
+MegaByteSymbol: មេកាបៃ
+GigaByteSymbol: ជីកាបៃ
+TeraByteSymbol: ថេរ៉ាបៃ
+PetaByteSymbol: ប៉េរ៉ាបៃ
 ByteSymbol: B
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
@@ -144,22 +144,22 @@ PropertiesCombinedItemLocation: All in {0}
 PropertiesDriveUsedSpace:
   Text: 'Used space:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: ទំហំ​ទំនេរ៖
 PropertiesDriveCapacity:
   Text: 'Capacity:'
 PropertiesDriveFileSystem:
   Text: 'File system:'
-JumpListRecentGroupHeader: Recent
+JumpListRecentGroupHeader: ថ្មីៗ
 TabStripDragAndDropUIOverrideCaption: Move tab here
 syncStatusColumn:
-  Header: Status
+  Header: ស្ថានភាព
 SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
+NavigationToolbarVisiblePathNoResults: គ្មានលទ្ធផល
 SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
-CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+MoveToFolderCaptionText: ប្តូរទៅ​ {0}
+CopyToFolderCaptionText: ចម្លងទៅ​ {0}
+CreateShortcut: បង្កើតផ្លូវកាត់
+OpenFileLocation: បើកទៅកាន់ទីតាំងឯកសារ
 PropertiesShortcutItemArgs:
   Text: 'Arguments:'
 PropertiesShortcutItemPath:
@@ -167,7 +167,7 @@ PropertiesShortcutItemPath:
 PropertiesShortcutItemType:
   Text: 'Shortcut type:'
 PropertiesShortcutTypeLink: Web link
-General: General
+General: ទូទៅ
 Shortcut: Shortcut
 ShortcutWebLinkFileType: Internet shortcut
 ShortcutCreateNewSuffix: '{0} - shortcut'
@@ -176,7 +176,7 @@ ExceptionNotificationHeader: Something went wrong!
 ExceptionNotificationReportButton: Report this issue
 InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
 InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
+SettingsAboutVersionTitle: 'ជំនាន់:'
 ShareDialogFailMessage: There's nothing to share right now...
 ShareDialogMultipleItemsDescription: The items you've selected will be shared
 ShareDialogSingleItemDescription: The selected item will be shared
@@ -195,25 +195,25 @@ RenameError:
 ShowMoreOptions: Show more options
 RestartNotificationText:
   Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
-SponsorUsOnGitHub: Sponsor us on GitHub
+SponsorUsOnGitHub: ឧត្ថម្ភយើងតាមរយៈហ្គិតហាប់
 AccessDeniedCreateDialog:
   Text: We weren't able to create this item
 AccessDenied: Access Denied
 BaseLayoutItemContextFlyoutSetAs:
   Text: Set as
-Cancel: Cancel
+Cancel: បោះបង់
 AddDialog:
   Title: Create a new item
 AddDialogDescription:
   Text: Choose a type for this new item below
 File: File
 AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+Folder: ថត
+AddDialogListFolderSubHeader: បង្កើតថតទំនេរ
 NavResfreshButton:
   AutomationProperties:
     Name: Refresh the directory
-Language: Language
+Language: ភាសា
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
 ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
 PropertySaveErrorMessage:
@@ -225,11 +225,11 @@ PropertyRatingText: Rating
 PropertyParsingPath: Item Path
 PropertyItemTypeText: Item Type
 PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
+PropertySubject: ប្រធាន​បទ
+PropertyComment: វិចារ
+PropertyCopyright: រក្សាសិទ្ធិ
+PropertyDateModified: កាលបរិច្ឆេទកែប្រែ
+PropertyBitDepth: ជម្រៅ​ប៊ីត ៖
 PropertyDimensions: Dimensions
 PropertyHorizontalSize: Horizontal Size
 PropertyVerticalSize: Vertical Size
@@ -237,7 +237,7 @@ PropertyHorizontalResolution: Horizontal Resolution
 PropertyVerticalResolution: Vertical Resolution
 PropertyColorSpace: Color Space
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
+PropertyColorSpace_Value65535: មិនបានបញ្ជាក់
 PropertyLongitudeDecimal: Longitude Decimal
 PropertyLatitudeDecimal: Latitude Decimal
 PropertyAltitude: Altitude
@@ -272,7 +272,7 @@ PropertyEpisodeNumber: Episode Number
 PropertyProducer: Producer
 PropertyPromotionUrl: Promotion Url
 PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
+PropertyPublisher: អ្នក​​បោះ​ពុម្ព​ផ្សាយ
 PropertyThumbnailLargePath: Thumbnail Large Path
 PropertyThumbnailLargeUri: Thumbnail Large Uri
 PropertyThumbnailSmallPath: Thumbnail Small Path
@@ -283,7 +283,7 @@ PropertyYear: Year
 PropertyContributor: Contributor
 PropertyLastAuthor: Last Author
 PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
+PropertyVersion: 'ជំនាន់:'
 PropertyDateCreated: Date Created
 PropertyTotalEditingTime: Total Editing Time
 PropertyTemplate: Template
@@ -326,7 +326,7 @@ Eject: Eject
 DuplicateTab: Duplicate tab
 HorizontalMultitaskingControlMoveTabToNewWindow:
   Text: Move tab to new window
-NewTab: New tab
+NewTab: ថេបថ្មី
 ClearPropertiesFlyoutText:
   Text: Some properties may contain personal information.
 ClearPropertiesButton:
@@ -353,7 +353,7 @@ ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
   Label: New pane
 OpenInNewPane: Open in new pane
-FilesAndFolders: Files & folders
+FilesAndFolders: ឯកសារ និងថត
 NavToolbarDetails:
   ToolTipService:
     ToolTip: Details (Ctrl+Shift+1)
@@ -382,9 +382,9 @@ PreviewPaneFilePreview:
 SelectedFilePreviewPane:
   AutomationProperties:
     Name: Selected file preview pane
-Feedback: Feedback
+Feedback: ផ្តល់យោបល់
 CloudDriveSyncStatus_Online: Available when online
-Documentation: Documentation
+Documentation: ឯកសារ
 CloudDriveSyncStatus_Offline: Available offline
 CloudDriveSyncStatus_PartialOffline: Partially available offline
 CloudDriveSyncStatus_Sync: Syncing
@@ -433,7 +433,7 @@ ErrorNameInputRestrictedCharacters: 'The name must not contain the following cha
 ErrorNameInputRestricted: Using this name is not allowed!
 CreateLibraryErrorAlreadyExists: Library with the same name already exists!
 OpenStorageSense: Open Storage Sense
-Copy: Copy
+Copy: ចម្លង
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
 MoveItemsDialogPrimaryButtonText: Move
@@ -603,7 +603,7 @@ EnterCompactOverlay: Enter compact overlay
 ExitCompactOverlay: Exit compact overlay
 PropertyFileDescription: File description
 PropertyCompany: Company
-PropertyLanguage: Language
+PropertyLanguage: ភាសា
 PropertyTrademarks: Trademarks
 PropertyFileVersion: File version
 PreviewPaneLoadCloudItemButton:
@@ -649,9 +649,9 @@ CredentialDialogDescription:
 CredentialDialogUserName:
   PlaceholderText: UserName
 NoSearchResultsFound: No items found
-OpenLogLocation: Open log location
+OpenLogLocation: បើកទៅកាន់ទីតាំងឯកសារ
 LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
+Columns: ជួរឈរ
 Tiles: Tiles
 OpenFoldersInNewTab: Open folders in new tab
 StatusCenter: Status center
@@ -660,9 +660,9 @@ DetailsViewHeaderFlyout_ShowDateCreated:
 DetailsViewHeaderFlyout_ShowItemSize:
   Text: Item size column
 ExperimentalFeatureFlags: Experimental feature flags
-HelpAndSupport: Help and support
-SubmitFeatureRequest: Submit feature request
-SubmitBugReport: Submit bug report
+HelpAndSupport: ជំនួយ
+SubmitFeatureRequest: ដាក់ស្នើសុំមុខងារ
+SubmitBugReport: ដាក់រាយការណ៏កំហុស
 SettingsSetAsDefaultFileManager: Set Files as the default file manager
 SettingsSetAsOpenDialog: Use Files as Open File Dialog
 Tag: Tag
@@ -683,7 +683,7 @@ Compatibility: Compatibility
 None: None
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: ប្រព័ន្ធ
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -730,7 +730,7 @@ CloseOtherTabs: Close other tabs
 Music: Music
 Pictures: Pictures
 UpdateFiles: Update Files
-FileTags: Tags
+FileTags: ស្លាក
 Universal: Universal
 DateFormatSample: 'ex: {0}, {1}'
 SettingsFilesAndFoldersShowThumbnails: Show thumbnails
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: ការកំណត់
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -822,8 +822,8 @@ NetworkAuthenticationDialogMessage: 'Enter your credentials to connect to: {0}'
 NetworkAuthenticationDialogTitle: Enter network credentials
 NetworkAuthenticationSaveCheckbox: Remember my credentials
 NetworkFolderErrorDialogTitle: Network folder error
-AppVersion: App version
-WindowsVersion: Windows version
+AppVersion: ជំនាន់កម្មវិធី
+WindowsVersion: ជំនាន់វីនដូ
 Always: Always
 PermanentDeletionOnly: Permanent deletion only
 Never: Never
@@ -930,9 +930,9 @@ LayoutDetailsDescription: Switch to details view
 LayoutTilesDescription: Switch to tiles view
 LayoutListDescription: Switch to list view
 List: List
-Grid: Grid
-LayoutGridDescription: Switch to grid view
-LayoutColumnsDescription: Switch to columns view
+Grid: ក្រឡាចត្រង្គ
+LayoutGridDescription: ប្តូរទៅក្រឡាចត្រង្គ
+LayoutColumnsDescription: ប្តូរទៅទម្រង់ជួរឈរ
 LayoutAdaptiveDescription: Switch views adaptively
 SortByNameDescription: Sort items by name
 SortByDateModifiedDescription: Sort items by date modified
@@ -960,7 +960,7 @@ GroupByFolderPathDescription: Group items by folder path
 GroupAscendingDescription: Sort groups in ascending order
 GroupDescendingDescription: Sort groups in descending order
 ToggleGroupDirectionDescription: Toggle group sort direction
-NewTabDescription: Open new tab
+NewTabDescription: បើកទំព័រថេបថ្មី
 NavigateBackDescription: Navigate backward in navigation history
 NavigateForwardDescription: Navigate forward in navigation history
 NavigateUpDescription: Navigate up one directory
@@ -1057,7 +1057,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: ស្វែងរក
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserFavorites: Favorites
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1143,7 +1143,7 @@ OpenProperties: Open properties
 OpenPropertiesDescription: Open properties window
 Locals: Locals
 Remotes: Remotes
-ImproveTranslation: Translate on Crowdin
+ImproveTranslation: បកប្រែលើ Crowdin
 GitFetch: Fetch
 GitPull: Pull
 GitFetchDescription: Run git fetch
@@ -1158,7 +1158,7 @@ Author: Author
 DateCommitted: Date committed
 CommitMessage: Commit message
 CommitSha: Commit SHA
-Git: Git
+Git: ហ្គិត
 Acrylic: Acrylic
 Mica: Mica
 MicaAlt: Mica Alt
@@ -1375,14 +1375,14 @@ Restart: Restart
 Quit: Quit
 FaildToShareItems: Failed to share items
 ScrollToPreviousFolderWhenNavigatingUp: Scroll to previous folder when navigating up
-NewWindowDescription: Open new window
+NewWindowDescription: បើកផ្ទាំងថ្មី
 ChangeAlbumCover: Change album cover
 ItemRenameFailed: Failed to rename item
 HigherPermissionsRequired: Editing "{0}" requires additional permissions
 EditPermissions: Edit permissions
 BackgroundRunningNotificationBody: Files is still running in the background to improve startup performance.
 BackgroundRunningNotificationHeader: Where did Files go?
-QuestionsAndDiscussions: Questions & discussions
+QuestionsAndDiscussions: សំណួរ​និងពិភាក្សា
 TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
@@ -1412,7 +1412,7 @@ Large+++: Large +++
 ExtraLarge: Extra large
 DetailsView: Details view
 LayoutType: Layout type
-Actions: Actions
+Actions: សកម្មភាព
 Commands: Commands
 AddCommand: Add command
 RestoreDefaults: Restore defaults

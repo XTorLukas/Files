@@ -1,135 +1,135 @@
-NewWindow: New window
-CopyPath: Copy path
+NewWindow: חלון חדש
+CopyPath: העתק נתיב
 CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+Browse: צפייה
+Size: גודל
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'נוצר:'
+Path: נתיב
+SizeLabel: 'גודל:'
+SizeOnDiskLabel: 'גודל על הדיסק:'
+UncompressedSize: 'גודל לפני דחיסה:'
+ErrorDialogThisActionCannotBeDone: אין אפשרות לבצע פעולה זו
+ErrorDialogTheDestinationFolder: תיקיית היעד
+ErrorDialogIsASubfolder: היא תיקייה הנמצאת בתוך תיקיית המקור
+Skip: דלג
+SelectAll: בחר הכל
+InvertSelection: הפוך בחירה
+ClearSelection: ניקוי בחירה
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: השתנה
+Accessed: 'נפתח:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: נקה את כל פריטים
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: הזן נתיב על מנת להוות אליו או הקלד ">" כדי לפתוח את לוח הפקודות
+Search: חיפוש
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: הקבצים שניגשת אליהם בעבר יופיעו כאן
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
-BackgroundColor: Background color
-Advanced: Advanced
+  Text: הסר פריט זה
+OpenGitHubRepo: הפרויקט ב-GitHub
+About: אודות
+OpenSource: קוד פתוח
+DateFormat: תבנית תאריך
+SettingsAppearanceTheme: ערכת עיצוב
+SettingsFilesAndFoldersShowFileExtensions: הצג סיומות עבור סוגי קבצים ידועים
+SettingsFilesAndFoldersShowHiddenItems: ‏‏הצג קבצים ותיקיות מוסתרים
+ShowDotFiles: הראה קבצים המתחילים בנקודה
+Appearance: מראה
+BackgroundColor: צבע רקע
+Advanced: הגדרות מתקדמות
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: המשך מאיפה שעצרת
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: פתח כרטיסיה חדשה
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+  Content: פתח דף או דפים מסוימים
+Desktop: שולחן עבודה
+Documents: מסמכים
+Downloads: הורדות
+Name: שם
+Ascending: סדר עולה
+Paste: הדבק
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
-PinFolderToSidebar: Pin to Sidebar
+  Label: חדשות
+Properties: מאפיינים
+Open: פתח
+OpenInNewTab: פתח בכרטיסיה חדשה
+OpenInNewWindow: פתח בחלון חדש
+Share: שתף
+Cut: גזור
+Delete: מחק
+PinFolderToSidebar: הצמד לסרגל הצד
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: ברוכים הבאים לFiles!
+  PrimaryButtonText: מתן הרשאה
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+  Text: 'על מנת להתחיל, תצטרכו לתת לנו הרשאה להציג את הקבצים שלכם. זה יפתח עמוד הגדרות שבו תוכלו לתת לנו את ההרשאה. לאחר השלמת שלב זה, תצטרכו לפתוח מחדש את האפליקציה. '
+Display: הצג
+EnterAnItemName: הזן שם פריט
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: הגדר שם
+LightTheme: בהיר
+DarkTheme: כהה
+Application: אפליקציה
+SystemTimeStyle: מערכת
+NewFolder: תיקייה חדשה
+NewFile: קובץ חדש
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
-Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
-SetAsAppBackground: Set as app background
+  Text: תיקיה זו ריקה.
+Back: "הקודם\t Alt+חץ ימינה"
+Forward: "קדימה\t Alt+חץ ימינה"
+Up: מעלה (Alt+חץ למעלה)
+Refresh: רענן
+ItemAlreadyExistsDialogContent: פריט עם שם זהה כבר קיים בתיקיה זו
+ItemAlreadyExistsDialogSecondaryButtonText: החלף פריט קיים
+ItemAlreadyExistsDialogTitle: הפריט כבר קיים.
+SetAsLockscreen: השתמש בתור רקע מסך הנעילה
+SetAsAppBackground: הגדר כרקע לאפליקציה
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: לא יכולנו למחוק את הפריט הזה
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
-  Title: Drive unplugged
+  Text: אנא חבר את הכונן הנדרש עבור גישה לפריט זה
+  Title: הכונן נותק
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
+  Text: הקובץ אליו אתה מנסה לגשת עשוי להיות מוזז או מחוק
+  Title: הקובץ לא נמצא
 CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+CannotAccessPropertiesContent: הקובץ אליו אתה מנסה לגשת עשוי להיות מוזז או מחוק
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: התיקיה אליה אתה מנסה לגשת עשויה להיות מוזזת או מחוקה
+  Title: האם מחקת תיקיה זו?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: הקובץ שאתם מנסים לגשת אליו כרגע משומש על ידי {0}
 FileInUseDialog:
-  Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
-Layout: Layout
+  Text: הקובץ שאתם מנסים לגשת אליו כרגע משומש על ידי אפליקציה אחרת
+  Title: קובץ בשימוש
+Layout: פריסה
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: לקריאה בלבד
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
-SendTo: Send to
+Now: עכשיו
+ErrorDialogUnsupportedOperation: הפעולה המבוקשת לא נתמכת
+DriveFreeSpaceAndCapacity: '{0} פנויים מתוך {1}'
+SendTo: שלח אל
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'שם הפריט לא יכול להכיל את האותיות הבאות: / \ : * ? " < > |'
 InvalidFilename:
-  Text: The item name specified is invalid
+  Text: שם הפריט שצויין אינו חוקי
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, one {# item selected} two {# items selected} many {# items selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
+Items: '{0, plural, one {item} two {items} many {items} other {items}}'
+Yes: אישור
+ConfirmEmptyBinDialogContent: האם אתם בטוחים שאתם רוצים למחוק את הפריטים האלו לצמיתות?
+ConfirmEmptyBinDialogTitle: רוקן את סל המיחזור
+ItemSizeBytes: בייטים
 KiloByteSymbol: KB
-MegaByteSymbol: MB
+MegaByteSymbol: מ"ב
 GigaByteSymbol: GB
 TeraByteSymbol: TB
 PetaByteSymbol: PB
@@ -137,326 +137,326 @@ ByteSymbol: B
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
-  Text: Run as another user
-PropertiesDriveItemTypesEquals: All type of {0}
-PropertiesDriveItemTypeDifferent: Different types
-PropertiesCombinedItemLocation: All in {0}
+  Text: הפעל כמשתמש אחר
+PropertiesDriveItemTypesEquals: כל סוגי {0}
+PropertiesDriveItemTypeDifferent: סוגים שונים
+PropertiesCombinedItemLocation: הכל ב {0}
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'שטח בשימוש:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'שטח פנוי:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: קיבולת
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
-TabStripDragAndDropUIOverrideCaption: Move tab here
+  Text: 'מערכת קבצים:'
+JumpListRecentGroupHeader: לאחרונה
+TabStripDragAndDropUIOverrideCaption: הזז כרטיסיה לכאן
 syncStatusColumn:
-  Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
-SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
-CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+  Header: מצב
+SettingsPreferencesSystemDefaultLanguageOption: ברירת מחדל של Windows
+NavigationToolbarVisiblePathNoResults: אין תוצאות
+SubDirectoryAccessDenied: לא ניתן לגשת לאף פריט לצורך תצוגה
+MoveToFolderCaptionText: העבר לתיקיה {0}
+CopyToFolderCaptionText: העתק אל {0}
+CreateShortcut: צור קיצור דרך
+OpenFileLocation: פתח מיקום קובץ
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: ארגומנטים
 PropertiesShortcutItemPath:
-  Text: 'Destination:'
+  Text: יעד
 PropertiesShortcutItemType:
-  Text: 'Shortcut type:'
-PropertiesShortcutTypeLink: Web link
-General: General
-Shortcut: Shortcut
-ShortcutWebLinkFileType: Internet shortcut
-ShortcutCreateNewSuffix: '{0} - shortcut'
-ExceptionNotificationBody: Files ran into a problem that the developers didn't prepare for yet.
-ExceptionNotificationHeader: Something went wrong!
-ExceptionNotificationReportButton: Report this issue
-InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
-InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
-ShareDialogMultipleItemsDescription: The items you've selected will be shared
-ShareDialogSingleItemDescription: The selected item will be shared
-ShareDialogTitle: Sharing {0}
-ShareDialogTitleMultipleItems: Sharing {0} {1}
+  Text: 'סוג קיצור דרך:'
+PropertiesShortcutTypeLink: קישור אינטרנט
+General: כללי
+Shortcut: קיצור דרך
+ShortcutWebLinkFileType: קיצור דרך לאינטרנט
+ShortcutCreateNewSuffix: '{0} - קיצור דרך'
+ExceptionNotificationBody: Files נתקל בבעיה שהמפתחים עוד לא התכוננו אליה.
+ExceptionNotificationHeader: משהו השתבש
+ExceptionNotificationReportButton: דווח על בעיה זו
+InvalidItemDialogContent: הפריט המיוחס הוא בלתי נגיש או פסול. {0}הודעת שגיאה:{0}{1}
+InvalidItemDialogTitle: פריט פסול
+SettingsAboutVersionTitle: גירסה
+ShareDialogFailMessage: אין כרגע פריטים לשיתוף.
+ShareDialogMultipleItemsDescription: הפריטים שבחרו ישותפו
+ShareDialogSingleItemDescription: הפריט הנבחר ישותף
+ShareDialogTitle: 'שיתוף: {0}%'
+ShareDialogTitleMultipleItems: שיתוף {0} {1}
 RenameError:
   ItemDeleted:
-    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
-    Title: Item no longer exists
+    Text: הפריט המיועד לעדכון שם אינו קיים יותר. אנא ודא את המיקם הנכון של הפריט.
+    Title: הפריט לא קיים יותר
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: השם שסופק אינו חוקי. אנא ודא את השם הרצוי ונסה שוב.
+    Title: שם הפריט לא חוקי
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
-ShowMoreOptions: Show more options
+    Text: שם הפריט ארוך מהמותר. אנא ודא את השם הרצוי ונסה שוב.
+    Title: שם הפריט ארוך מדי
+ShowMoreOptions: הצג אפשרויות נוספות
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
-SponsorUsOnGitHub: Sponsor us on GitHub
+  Text: על מנת להחיל הגדרות שפה יש להפעיל את האפליקציה מחדש, האם ברצונך לבצע זאת כעת?
+SponsorUsOnGitHub: תנו לנו חסות ב-GitHub
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: לא הצלחנו לייצר פריט זה
+AccessDenied: הגישה נדחתה
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: קבע כ-
+Cancel: ביטול
 AddDialog:
-  Title: Create a new item
+  Title: יצירת פריט חדש
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: בחרו סוג עבור הפריט החדש מתחת
+File: קובץ
+AddDialogListFileSubHeader: יוצר קובץ חדש
+Folder: תיקיה
+AddDialogListFolderSubHeader: מייצר תיקיה ריקה
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
-Language: Language
+    Name: רענן את התיקיה
+Language: שפה
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+ShowConfirmationWhenDeletingItems: הצג חלון אישור בעת מחיקת עצמים
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: היתה בעיה בשמירת תכונות.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+  Title: שגיאה
+  SecondaryButtonText: סגור בכל זאת
+PropertyRatingText: דירוג
+PropertyParsingPath: נתיב פריט
+PropertyItemTypeText: סוג פריט
+PropertyTitle: כותרת
+PropertySubject: נושא
+PropertyComment: הערה
+PropertyCopyright: זכויות יוצרים
+PropertyDateModified: תאריך שינוי
+PropertyBitDepth: עומק סיביות
+PropertyDimensions: ממדים
+PropertyHorizontalSize: גודל אופקי
+PropertyVerticalSize: גודל אנכי
+PropertyHorizontalResolution: רזולוציה אופקית
+PropertyVerticalResolution: רזולוציה אנכית
+PropertyColorSpace: 'מרחב צבעים:'
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
-PropertyLongitudeDecimal: Longitude Decimal
-PropertyLatitudeDecimal: Latitude Decimal
-PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
-PropertyCameraManufacturer: Camera Manufacturer
-PropertyCameraModel: Camera Model
-PropertyExposureTime: Exposure Time
-PropertyFocalLength: Focal Length
-PropertyAperture: Aperture
-PropertyPeopleNames: People Names
-PropertyChannelCount: Channel Count
-PropertyFormat: Format
-PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
-PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
-Conductor: Conductor
-PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
-PropertyFrameCount: Frame Count
-PropertyProtectionType: Protection Type
-PropertyAuthorUrl: Author Url
-PropertyContentDistributor: Content Distributor
-PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
-PropertySeasonNumber: Season Number
-PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
-PropertyPromotionUrl: Promotion Url
-PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
-PropertyThumbnailLargePath: Thumbnail Large Path
-PropertyThumbnailLargeUri: Thumbnail Large Uri
-PropertyThumbnailSmallPath: Thumbnail Small Path
-PropertyThumbnailSmallUri: Thumbnail Small Uri
-PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
-PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
-PropertyCharacterCount: Character Count
-PropertyLineCount: Line Count
-PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
-PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
-PropertyEncodingBitrate: Encoding Bitrate
+PropertyColorSpace_Value65535: לא צוין
+PropertyLongitudeDecimal: קו אורך עשרוני
+PropertyLatitudeDecimal: קו רוחב עשרוני
+PropertyAltitude: גובה
+PropertyDateTaken: תאריך צילום
+PropertyCameraManufacturer: יצרן מצלמה
+PropertyCameraModel: דגם מצלמה
+PropertyExposureTime: זמן חשיפה
+PropertyFocalLength: מרחק מהמוקד
+PropertyAperture: פתח
+PropertyPeopleNames: שמות של אנשים
+PropertyChannelCount: ספירת ערוצים
+PropertyFormat: עיצוב
+PropertySampleRate: קצב דגימה
+PropertyAlbumArtist: 'אמן האלבום:'
+PropertyAlbumTitle: שם אלבום
+Artist: אמן
+PropertyBeatsPerMinute: פעימות לדקה (BPM)
+PropertyComposer: 'מלחין:'
+Conductor: 'מנצח:'
+PropertyDiscNumber: מספר תקליט
+PropertyGenre: ז'אנר
+PropertyTrackNumber: מספר רצועה
+PropertyDuration: משך זמן
+PropertyFrameCount: מספר פריימים
+PropertyProtectionType: סוג הגנה
+PropertyAuthorUrl: כתובת מחבר
+PropertyContentDistributor: מפיץ תוכן
+PropertyDateReleased: תאריך שחרור
+PropertySeriesName: שם סידרה
+PropertySeasonNumber: מספר העונה
+PropertyEpisodeNumber: מספר הפרק
+PropertyProducer: מפיק
+PropertyPromotionUrl: כתובת קידום
+PropertyProviderStyle: סגנון ספק
+PropertyPublisher: מפרסם
+PropertyThumbnailLargePath: נתיב לתמונה ממוזערת גדולה
+PropertyThumbnailLargeUri: קישור לתמונה ממוזערת גדולה
+PropertyThumbnailSmallPath: נתיב לתמונה ממוזערת קטנה
+PropertyThumbnailSmallUri: קישור לתמונה ממוזערת קטנה
+PropertyUserWebUrl: כתובת רשת של משתמש
+PropertyWriter: כתבן
+PropertyYear: שנה
+PropertyContributor: משתתף
+PropertyLastAuthor: מחבר אחרון
+PropertyRevisionNumber: 'מספר מהדורה:'
+PropertyVersion: גירסה
+PropertyDateCreated: תאריך יצירה
+PropertyTotalEditingTime: 'זמן עריכה כולל:'
+PropertyTemplate: תבנית
+PropertyWordCount: ספירת מילים
+PropertyCharacterCount: ספירת תווים
+PropertyLineCount: ספירת שורות
+PropertyParagraphCount: מספר פסקאות
+PropertyPageCount: ספירת עמודים
+PropertySlideCount: מספר שקופיות
+PropertyFrameRate: קצב תמונות
+PropertyEncodingBitrate: קצב קידוד נתונים
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
+Compression: דחיסה
+PropertyFrameWidth: רוחב מסגרת
+PropertyFrameHeight: גובה מסגרת
+PropertyOrientation: כיוון
+PropertySectionCore: ליבה
+PropertySectionImage: רכיב תמונה
+PropertySectionPhoto: תצלום
 PropertySectionGPS: GPS
-PropertySectionMedia: Media
-PropertySectionAudio: Audio
-PropertySectionMusic: Music
-PropertySectionVideo: Video
-Document: Document
-Address: Address
-SelectionOptions: Selection options
+PropertySectionMedia: מדיה
+PropertySectionAudio: שמע
+PropertySectionMusic: מוסיקה
+PropertySectionVideo: וידאו
+Document: מסמך
+Address: כתובת
+SelectionOptions: אפשרויות בחירה
 NavToolbarSelectionOptions:
-  Label: Select
-RecycleBinItemAutomation: Recycle bin item
-ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
-EjectNotificationHeader: Safe to remove hardware
-EjectNotificationBody: The device can now be safely removed from the computer.
-EjectNotificationErrorDialogHeader: Problem Ejecting Device
-EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
-Eject: Eject
-DuplicateTab: Duplicate tab
+  Label: בחר
+RecycleBinItemAutomation: פריט סל המיחזור
+ShortcutItemAutomation: קיצור דרך
+Drives: 'כוננים:'
+PinToSidebarByDraggingCaptionText: העבר לכאן
+EjectNotificationHeader: ניתן להסיר חומרה בבטחה
+EjectNotificationBody: כעת ניתן להסיר את ההתקן בבטחה ממחשב זה
+EjectNotificationErrorDialogHeader: הוצאת התקן לא צלחה
+EjectNotificationErrorDialogBody: ההתקן נמצא בשימוש. אנא סגור את כל התוכנות, חולונות או חלוניות שעשויים לעשות שימוש בהתקן ואז נסה שוב.
+Eject: הוצא
+DuplicateTab: שכפל כרטיסיה
 HorizontalMultitaskingControlMoveTabToNewWindow:
-  Text: Move tab to new window
-NewTab: New tab
+  Text: הזז כרטיסיה לחלון חדש
+NewTab: כרטיסיה חדשה
 ClearPropertiesFlyoutText:
-  Text: Some properties may contain personal information.
+  Text: חלק מהמאפיינים עשויים להכיל מידע פרטי
 ClearPropertiesButton:
-  Content: Clear All Properties
+  Content: נקה את כל המאפיינים
 OngoingTasksTeachingTip:
-  Subtitle: Check the status of file operations here
+  Subtitle: בדקו את המצב של פעולות קבצים פה
   Title: Status center
-SearchPagePathBoxOverrideText: Search results in {1} for {0}
-Details: Details
-No: 'No'
-ShowProtectedSystemFiles: Show protected system files
-SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
+SearchPagePathBoxOverrideText: תוצאות חיפוש ב{1} עבור {0}
+Details: פרטים
+No: לא
+ShowProtectedSystemFiles: הצג קבצי מערכת מוגנים
+SyncFolderPreferencesAcrossDirectories: סנכרן הגדרות פריסה ומיון לכל התיקיות
 SettingsContextMenu:
-  Text: Customize the right click context menu
-OriginalPath: Original path
-Add: Add
-Edit: Edit
-Remove: Remove
-SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
-ShowOpenInNewPane: Show option to open folders in a new pane
+  Text: התאם אישית את התפריט תלוי-ההקשר המופעל בלחיצה ימנית
+OriginalPath: מיקום מקורי
+Add: הוסף
+Edit: ערוך
+Remove: הסר
+SettingsMultitaskingAlwaysOpenDualPane: פתח כרטיסיות במצב חלון כפול
+ShowOpenInNewPane: הראה אפשרות לפתוח תיקיות בחלון חדש
 ShowCopyPath: Show option to copy path
 ShowCreateFolderWithSelection: Show option to create folder with selection
 ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
-  Label: New pane
-OpenInNewPane: Open in new pane
+  Label: חלון חדש
+OpenInNewPane: פתחו בחלון חדש
 FilesAndFolders: Files & folders
 NavToolbarDetails:
   ToolTipService:
-    ToolTip: Details (Ctrl+Shift+1)
+    ToolTip: תצוגת פרטים
 NavToolbarTiles:
   ToolTipService:
-    ToolTip: Tiles (Ctrl+Shift+2)
-DateDeleted: Date deleted
-SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
-DesiredName: Desired name
-TogglePreviewPane: Toggle the preview pane
+    ToolTip: אריחים (Ctrl+Shift+2)
+DateDeleted: תאריך מחיקה
+SidebarCloudDrives: כונני ענן
+Confirm: אשר
+DesiredName: שם רצוי
+TogglePreviewPane: מתג את חלון התצוגה המקדימה
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+DetailsPanePreviewNotAvaliableText: אין תצוגה מקדימה זמינה
+PropertyItemName: שם פריט
 UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+Network: רשת
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: פרטי קובץ
 PreviewPaneFilePreview:
   AutomationProperties:
-    Name: File preview
+    Name: תצוגת קובץ מקדימה
 SelectedFilePreviewPane:
   AutomationProperties:
-    Name: Selected file preview pane
-Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
-Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
-CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
-CloudDriveSyncStatus_Excluded: Excluded from sync
-ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+    Name: חלון תצוגה מקדימה של הקובץ הנבחר
+Feedback: משוב
+CloudDriveSyncStatus_Online: זמין במצב מקוון
+Documentation: תיעוד
+CloudDriveSyncStatus_Offline: זמין במצב לא מקוון
+CloudDriveSyncStatus_PartialOffline: זמין באופן חלקי ללא חיבור
+CloudDriveSyncStatus_Sync: מתבצע סינכרון
+CloudDriveSyncStatus_Excluded: לא כלול בסינכרון
+ItemSizeNotCalculated: לא חושב
+CloudDriveSyncStatus_Unknown: לא ידוע
 RenameFileDialog:
-  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
-DriveTypeCDRom: CD ROM Drive
-DriveTypeCloudDrive: Cloud Drive
-DriveTypeFixed: Fixed Disk Drive
-DriveTypeFloppyDisk: Floppy Disk Drive
-DriveTypeNetwork: Network Drive
-DriveTypeNoRootDirectory: Unmounted Drive
-DriveTypeRam: RAM Disk Drive
-DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
-DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+  Text: אם תשנו סיומת קובץ, הוא עלול להפוך לבלתי שמיש. האם אתם בטוחים שתרצו לשנות אותה?
+DriveTypeCDRom: כונן CD ROM
+DriveTypeCloudDrive: כונן ענן
+DriveTypeFixed: כונן דיסק קבוע
+DriveTypeFloppyDisk: כונן דיסק נשלף
+DriveTypeNetwork: כונן רשת
+DriveTypeNoRootDirectory: כונן לא מחובר
+DriveTypeRam: כונן דיסק RAM
+DriveTypeRemovable: מכשיר אחסון נייד
+DriveTypeUnknown: לא ידוע
+DriveTypeVirtualDrive: כונן וירטואלי
+DateCreated: תאריך יצירה
+MoreOptions: אפשרויות נוספות
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
-  Text: Map network drive
+  Text: מפה כונן רשת
 Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
-PropertyItemTarget: Target
-Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+SidebarLibraries: ספריות
+NoItemSelected: לא נבחר אף פריט
+PropertyItemTarget: יעד
+Arguments: ארגומנטים
+Default: ברירת מחדל
+PropertyItemCount: ספירת פריטים
 ElevateConfirmDialog:
-  Title: This action requires administrator rights
-  Content: Would you like to continue as administrator?
-ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+  Title: פעולה זו דורשת זכויות מנהל
+  Content: האם תרצו להמשיך בתור מנהלים?
+ColumnsShortcutTooltip: טורים (Ctrl+Shift+6)
 PinItemToStart:
-  Text: Pin to the Start Menu
+  Text: הצמד לתפריט ההתחלה
 UnpinItemFromStart:
-  Text: Unpin from the Start Menu
-Library: Library
+  Text: בטל הצמדה לתפריט ההתחלה
+Library: ספריה
 LibraryLocations:
-  Text: 'Locations:'
-SetAsDefaultSavePath: Set as default save path
+  Text: מיקומים
+SetAsDefaultSavePath: קבעו בתור ברירת המחדל למיקום שמירה
 LibraryNoLocations:
-  Text: No locations
-ErrorInputEmpty: Input field cannot be empty!
-ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
-CreateLibraryErrorAlreadyExists: Library with the same name already exists!
-OpenStorageSense: Open Storage Sense
-Copy: Copy
+  Text: אין מיקומים
+ErrorInputEmpty: שדה קלט לא יכול להיות ריק!
+ErrorNameInputRestrictedCharacters: 'שם הפריט לא יכול להכיל את האותיות הבאות: / \ : * ? " < > |'
+ErrorNameInputRestricted: שימוש בשם זה לא מורשה!
+CreateLibraryErrorAlreadyExists: ספריה עם אותו שם כבר קיימת!
+OpenStorageSense: פתח את Storage Sense
+Copy: העתק
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: העבר
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
-ConflictingItemsDialogPrimaryButtonText: Continue
+ConflictingItemsDialogPrimaryButtonText: המשך
 ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
 ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
-PropertyISO: ISO speed
-ReplaceExisting: Replace existing
-GenerateNewName: Generate new name
+  Content: ‏‏מחק לצמיתות
+PropertyISO: ‏‏מהירות ISO
+ReplaceExisting: החלף קבצים קיימים
+GenerateNewName: צור שם חדש
 CreateFolderWithSelection: Create folder with selection
-ItemType: 'Type:'
-ToolTipDescriptionDate: 'Date modified:'
-OpenWith: Open with
+ItemType: סוג
+ToolTipDescriptionDate: תאריך שינוי
+OpenWith: פתיחה באמצעות
 FileBrowserThumbnailIconColumnGrid:
   AutomationProperties:
-    Name: File icon
+    Name: סמל קובץ
 DetailsViewHeaderFlyout_ShowOriginalPath:
   Text: Original path column
 DetailsViewHeaderFlyout_ShowItemType:
@@ -465,131 +465,131 @@ DetailsViewHeaderFlyout_ShowDateModified:
   Text: Date modified column
 DetailsViewHeaderFlyout_ShowDateDeleted:
   Text: Date deleted column
-Sort: Sort
-DateModifiedLowerCase: Date modified
-OriginalFolder: Original folder
-Descending: Descending
-ItemSizeText_Huge: Huge
-ItemSizeText_VeryLarge: Very large
-ItemSizeText_Large: Large
-ItemSizeText_Medium: Medium
-ItemSizeText_Small: Small
-ItemSizeText_Tiny: Tiny
-Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
-EarlierThisMonth: Earlier this month
-LastMonth: Last month
-EarlierThisYear: Earlier this year
-LastYear: Last year
+Sort: מיין
+DateModifiedLowerCase: תאריך שינוי
+OriginalFolder: תיקייה מקורית
+Descending: סדר יורד
+ItemSizeText_Huge: ענק
+ItemSizeText_VeryLarge: גדול מאוד
+ItemSizeText_Large: גדול
+ItemSizeText_Medium: בינוני
+ItemSizeText_Small: קטן
+ItemSizeText_Tiny: '&זעיר'
+Future: עתיד
+Today: היום
+Yesterday: אתמול
+EarlierThisWeek: ‏‏מוקדם יותר השבוע
+LastWeek: בשבוע שעבר
+EarlierThisMonth: מוקדם יותר החודש
+LastMonth: בחודש שעבר
+EarlierThisYear: ‏‏מוקדם יותר השנה
+LastYear: שנה שעברה
 YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
+GroupItemsCount_Singular: פריט {0}
+GroupItemsCount_Plural: '{0} פריטים'
+ReopenClosedTab: פתח מחדש כרטיסיה שנסגרה
 Rename: Rename
 Privacy: Privacy
-TheRecycleBin: the Recycle Bin
+TheRecycleBin: פח האשפה
 Canceling: Canceling
-Clear: Clear
-Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
+Clear: נקה
+Widgets: ווידג'טים
+SyncStatus: ‏‏מצב סינכרון
+Security: אבטחה
+AdvancedPermissions: 'הרשאות מתקדמות:'
+Allow: אפשר
 Deny: Deny
 SecurityFullControlLabel:
-  Text: Full control
+  Text: שליטה מלאה
 SecurityListDirectoryLabel:
-  Text: List directory contents
-Modify: Modify
-SecurityPermissionsHeaderText: Permissions for {0}
+  Text: הצגת תוכן התיקייה
+Modify: שנה
+SecurityPermissionsHeaderText: הרשאות ל{0}
 SecurityReadAndExecuteLabel:
-  Text: Read and execute
+  Text: קריאה והרצה
 SecurityReadLabel:
-  Text: Read
+  Text: קריאה
 SecurityUsersGroupLabel:
-  Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+  Text: 'שמות קבוצות או משתמשים:'
+Write: כתיבה
+SecurityUnknownAccount: חשבון לא ידוע
 SecurityCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
+  Text: אין לך את ההרשאות הנדרשות לצפייה בהרשאות האבטחה של הפריט. אנא לחץ על "הרשאות מתקדמות" כדי להתקדם.
 SecurityOwnerLabel:
-  Text: 'Owner:'
+  Text: 'בעלים:'
 SecurityUnknownOwnerText:
-  Text: Unknown owner
+  Text: בעלים לא ידוע
 ExtractArchive: Extract archive
 DecompressArchiveDialogOpenDestinationWhenComplete:
   Content: Open destination folder when complete
-BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+BaseLayoutItemContextFlyoutExtractToChildFolder: חלץ אל {0}/
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: יצירת ספריה חדשה
 SideBarRestoreLibraries:
-  Text: Restore default libraries
+  Text: שחזור ספריות ברירת המחדל
 DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
 DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+PropertyFileOwner: בעלים
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
+  Text: מיוחד
+Access: גישה
 SecurityAdvancedAppliesTo: Applies to
 Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
+SecurityAdvancedFlagsFilesLabel: קבצים
 SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
+SecurityAdvancedFlagsSubfoldersLabel: תיקיות משנה
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
   Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
 SecurityAdvancedFolderFiles:
-  Text: This folder and files
+  Text: תיקיה זו וקבצים
 SecurityAdvancedFolderSubfoldersFiles:
-  Text: This folder, subfolders and files
+  Text: תיקיה זו, תיקיות משנה וקבצים
 SecurityAdvancedOnlyFiles:
-  Text: Only files
+  Text: קבצים בלבד
 SecurityAdvancedOnlySubfolders:
-  Text: Only subfolders
+  Text: תיקיות משנה בלבד
 SecurityAdvancedOnlySubfoldersFiles:
-  Text: Only subfolders and files
+  Text: תיקיות משנה וקבצים בלבד
 SecurityAdvancedOnlyThisFolder:
-  Text: Only this folder
+  Text: תיקייה זו בלבד
 SecurityAdvancedFolderSubfolders:
-  Text: This folder and subfolders
+  Text: תיקיה זו ותיקיות משנה
 SecurityAppendDataLabel:
   Text: Append data
 SecurityChangePermissionsLabel:
-  Text: Change permission
+  Text: שנה הרשאה
 SecurityCreateDirectoriesLabel:
-  Text: Create folders
+  Text: יצירת תיקיות
 SecurityCreateFilesLabel:
-  Text: Create files
+  Text: יצירת קבצים
 SecurityDeleteSubdirectoriesAndFilesLabel:
   Text: Delete subdirectories and files
 SecurityExecuteFileLabel:
   Text: Execute files
 SecurityReadAttributesLabel:
-  Text: Read attributes
+  Text: קריאת תכונות
 SecurityReadDataLabel:
   Text: Read data
 SecurityReadExtendedAttributesLabel:
-  Text: Read extended attributes
+  Text: קריאת תכונות מורחבות
 SecurityReadPermissionsLabel:
-  Text: Read permissions
+  Text: הרשאות קריאה
 SecurityTakeOwnershipLabel:
-  Text: Take ownership
+  Text: קבל בעלות
 SecurityTraverseLabel:
   Text: Visit folder
 SecurityWriteAttributesLabel:
-  Text: Write attributes
+  Text: כתיבת תכונות
 SecurityWriteDataLabel:
   Text: Write data
 SecurityWriteExtendedAttributesLabel:
-  Text: Write extended attributes
+  Text: כתיבת תכונות מורחבות
 SecurityAdvancedInheritedConvert:
   Text: Convert inherited permissions into explicit permissions
 SecurityAdvancedInheritedEnable:
-  Text: Enable inheritance
+  Text: הפוך ירושה לזמינה
 SecurityAdvancedInheritedRemove:
   Text: Remove all inherited permissions
 SecurityAdvancedReplaceChildPermissions:
@@ -598,14 +598,14 @@ SecurityAdvancedReplaceChildPermissions2:
   ToolTipService:
     ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
 NavigationToolbarClosePane:
-  Label: Close pane
+  Label: סגור חלונית
 EnterCompactOverlay: Enter compact overlay
 ExitCompactOverlay: Exit compact overlay
-PropertyFileDescription: File description
-PropertyCompany: Company
-PropertyLanguage: Language
-PropertyTrademarks: Trademarks
-PropertyFileVersion: File version
+PropertyFileDescription: ‏‏תיאור קובץ
+PropertyCompany: חברה
+PropertyLanguage: שפה
+PropertyTrademarks: סימנים מסחריים
+PropertyFileVersion: 'גירסת קובץ:'
 PreviewPaneLoadCloudItemButton:
   Text: Load full preview
   ToolTipService:
@@ -615,44 +615,44 @@ PropertyUncompressedSize: Uncompressed size
 WSL: WSL
 SideBarHideSectionFromSideBar:
   Text: Hide {0} section
-AddFile: Add file
-ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
-Close: Close
-ConsentDialogPrimaryButtonText: Update
-Home: Home
+AddFile: הוסף קובץ
+ConsentDialogTitle: עדכון חדש זמין
+ConsentDialogContent: העדכון מוכן להתקנה
+Close: סגירה
+ConsentDialogPrimaryButtonText: עדכן
+Home: בית
 BaseLayoutContextFlyoutDetails:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+1
 BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
-ExtractingArchiveText: Extracting archive
-ExtractingCompleteText: Extracting complete!
+ArchiveExtractionCompletedSuccessfullyText: החילוץ מהארכיון בוצע בהצלחה.
+ExtractingArchiveText: מתבצע חילוץ מהארכיון
+ExtractingCompleteText: החילוץ הושלם!
 BaseLayoutItemContextFlyoutOpenParentFolder:
-  Text: Open parent folder
+  Text: פתח תיקיית אם
 Unknown: Unknown
-EditTags: Edit tags
-PropertyPartOfSet: Part of set
+EditTags: ערוך תגיות
+PropertyPartOfSet: חלק מסט
 InsertDiscDialog:
   OpenDriveButton: Open drive
   Text: Please insert a disc into drive {0}
-  Title: Insert a disc
+  Title: ‏‏הכנס דיסק
 OK: OK
 AskCredentialDialog:
   Title: Credential required
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: אנונימי
 CredentialDialogDescription:
   Text: 'Provide your credential:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
-NoSearchResultsFound: No items found
+  PlaceholderText: שם משתמש
+NoSearchResultsFound: לא נמצאו פריטים
 OpenLogLocation: Open log location
 LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
-Tiles: Tiles
+Columns: עמודות
+Tiles: אריחים
 OpenFoldersInNewTab: Open folders in new tab
 StatusCenter: Status center
 DetailsViewHeaderFlyout_ShowDateCreated:
@@ -665,25 +665,25 @@ SubmitFeatureRequest: Submit feature request
 SubmitBugReport: Submit bug report
 SettingsSetAsDefaultFileManager: Set Files as the default file manager
 SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
+Tag: תגית
 SettingsOpenItemsWithOneClick: Open items with a single click
 FolderPath: Folder path
 ExportSettings: Export settings
 ImportSettings: Import settings
 SettingsImportErrorDescription: Couldn't import settings. The settings file is corrupted.
 SettingsImportErrorTitle: Error importing settings
-EmptyRecycleBin: Empty Recycle Bin
-Sidebar: Sidebar
+EmptyRecycleBin: רוקן את סל המיחזור
+Sidebar: סרגל צידי
 ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
-RestoreDefault: Restore default
+Customization: התאמה אישית
+RestoreDefault: שחזר ברירת מחדל
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
 StartupSettings: Startup settings
-Compatibility: Compatibility
-None: None
+Compatibility: תאימות
+None: ללא
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: מערכת
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,56 +692,56 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: הפעל כמנהל
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
 CompatibilityDoNotOverrideDPI: Do not override DPI
-CompatibilityMode: Compatibility mode
+CompatibilityMode: מצב תאימות
 CompatibilityNoReducedColor: No reduced color
-ThirdPartyLicenses: Third party licenses
+ThirdPartyLicenses: רשיונות צד שלישי
 SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
-FolderWidgetCreateNewLibraryDialogTitleText: Create Library
+FolderWidgetCreateNewLibraryDialogTitleText: ‏‏צור ספריה
 FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
 CalculateFolderSizes: Calculate folder sizes
 RecentFiles: Recent files
 SettingsOpenInLogin: Open Files on Windows startup
-Attributes: Attributes
-Hidden: Hidden
-MoreDetails: More details
-ReadOnly: Read only
+Attributes: תכונות
+Hidden: מוסתר
+MoreDetails: פרטים נוספים
+ReadOnly: לקריאה בלבד
 CleanupDrive: Cleanup your drive contents
-Type: Type
-Bytes: Bytes
-Extract: Extract
-ExtractFiles: Extract files
-ExtractHere: Extract here
+Type: סוג
+Bytes: בתים
+Extract: חלץ
+ExtractFiles: חלץ קבצים
+ExtractHere: חלץ לכאן
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
-ExtractToChildFolder: Extract to {0}
-RunScript: Run script
+ExtractToChildFolder: חלץ אל {0}
+RunScript: הפעל קובץ Script
 RunWithPowerShell: Run with PowerShell
 ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
-RotateLeft: Rotate left
-RotateRight: Rotate right
-Install: Install
+RotateLeft: סובב שמאלה
+RotateRight: סובב ימינה
+Install: ‏‏התקן את
 CloseTabsToTheLeft: Close tabs to the left
-CloseTabsToTheRight: Close tabs to the right
-CloseOtherTabs: Close other tabs
-Music: Music
-Pictures: Pictures
-UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
+CloseTabsToTheRight: סגור כרטיסיות משמאל
+CloseOtherTabs: סגור כרטיסיות אחרות
+Music: מוסיקה
+Pictures: תמונות
+UpdateFiles: עדכן קבצים
+FileTags: תגיות
+Universal: אוניברסלי
 DateFormatSample: 'ex: {0}, {1}'
-SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
+SettingsFilesAndFoldersShowThumbnails: הצג תמונות ממוזערות
+Retry: נסה שנית
 ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
 HiddenItems: Hidden items
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
@@ -749,7 +749,7 @@ Behaviors: Behaviors
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
-SetAsBackground: Set as desktop background
+SetAsBackground: קבע כרקע שולחן העבודה
 SetAsDefault: Set as default
 DateColumn: Date column
 DateCreatedColumn: Date created column
@@ -774,7 +774,7 @@ ArchivePassword: Archive password
 ExtractToPath: Path
 SortingAndGrouping: Sorting and grouping
 CreateArchive: Create archive
-Create: Create
+Create: ‏‏צור
 CreateNamedArchive: Create {0}
 EnterName: Enter a name
 CompressionLevel: Compression level
@@ -783,7 +783,7 @@ CompressionLevelHigh: High
 CompressionLevelNormal: Normal
 CompressionLevelLow: Low
 CompressionLevelFast: Fast
-CompressionLevelNone: None
+CompressionLevelNone: ללא
 SplittingSize: Splitting size
 Do not split: Do not split
 CD: CD
@@ -791,12 +791,12 @@ DVD: DVD
 FAT: FAT
 Bluray: Blu-ray
 Encryption: Encryption
-Password: Password
-Format: Format
+Password: סיסמה
+Format: עיצוב
 DetailsViewHeaderFlyout_ShowSyncStatus:
   Text: Sync status column
 GroupBy: Group by
-SortBy: Sort by
+SortBy: מיין לפי
 GroupInDescendingOrder: Group in descending order
 SortInDescendingOrder: Sort in descending order
 NewShortcutDialogTitle: Create a new shortcut
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: הגדרות
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -861,7 +861,7 @@ IncreaseSize: Increase size
 ToggleSortDirection: Toggle sort direction
 InvalidTagNameWarning: Invalid name
 TagNameRules: Name must not be empty or start or end with a period.
-Videos: Videos
+Videos: סרטוני וידאו
 LaunchPreviewPopup: Launch preview popup
 ToggleCompactOverlay: Toggle compact overlay
 OpenHelpDescription: Open online help page in browser
@@ -880,11 +880,11 @@ CopyPathWithQuotesDescription: Copy path of selected items with quotes to the cl
 CutItemDescription: Cut item(s) to clipboard
 PasteItemDescription: Paste item(s) from clipboard to current folder
 PasteItemToSelectionDescription: Paste item(s) from clipboard to selected folder
-DeleteItemDescription: Delete item(s)
+DeleteItemDescription: מחק פריט(ים)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: רוקן את סל המיחזור
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,9 +1013,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: מעלה (Alt+חץ למעלה)
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Home: Home
+  Home: בית
   #Key name for hotkeys in menus. Use abbreviation if possible.
   End: End
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: נקה
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,9 +1057,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: חיפוש
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: מועדפים
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: שנה
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: פריטים
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1387,9 +1387,9 @@ TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
 #Used to describe layout sizes
-Small: Small
+Small: קטן
 #Used to describe layout sizes
-Medium: Medium
+Medium: בינוני
 #Used to describe layout sizes
 Medium+: Medium +
 #Used to describe layout sizes
@@ -1401,7 +1401,7 @@ Medium++++: Medium ++++
 #Used to describe layout sizes
 Medium+++++: Medium +++++
 #Used to describe layout sizes
-Large: Large
+Large: גדול
 #Used to describe layout sizes
 Large+: Large +
 #Used to describe layout sizes

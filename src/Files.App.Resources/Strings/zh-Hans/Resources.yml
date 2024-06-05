@@ -1,0 +1,1467 @@
+NewWindow: 新建窗口
+CopyPath: 复制路径
+CopyPathWithQuotes: 复制路径（带引号）
+Browse: 浏览
+Size: 大小
+PropertiesCreated:
+  Text: '创建日期:'
+Path: 路径
+SizeLabel: '大小:'
+SizeOnDiskLabel: '占用空间:'
+UncompressedSize: '压缩前大小:'
+ErrorDialogThisActionCannotBeDone: 操作无法完成
+ErrorDialogTheDestinationFolder: 目标文件夹
+ErrorDialogIsASubfolder: 是源文件夹的子文件夹
+Skip: 跳过
+SelectAll: 全选
+InvertSelection: 反选
+ClearSelection: 清除选择
+PropertiesModified:
+  Text: '修改日期:'
+Accessed: '访问日期:'
+RecentItemClearAll:
+  Text: 清空所有项目
+NavigationToolbarVisiblePath:
+  PlaceholderText: 输入要定位到的路径，或键入">"以打开命令面板
+Search: 搜索
+RecentItemDescription:
+  Text: 将在此显示访问过的文件(夹)
+RecentItemRemove:
+  Text: 移除此项
+OpenGitHubRepo: GitHub 存储库
+About: 关于
+OpenSource: 开放源代码
+DateFormat: 日期格式
+SettingsAppearanceTheme: 主题
+SettingsFilesAndFoldersShowFileExtensions: 显示已知文件类型的扩展名
+SettingsFilesAndFoldersShowHiddenItems: 显示隐藏的文件(夹)
+ShowDotFiles: 显示仅有扩展名的项
+Appearance: 外观
+BackgroundColor: 背景颜色
+Advanced: 高级选项
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: 从离开的位置继续
+SettingsOnStartupOpenANewTab:
+  Content: 打开新标签页
+SettingsOnStartupOpenASpecificPage:
+  Content: 打开指定页面
+Desktop: 桌面
+Documents: 文档
+Downloads: 下载
+Name: 名称
+Ascending: 升序
+Paste: 粘贴
+BaseLayoutContextFlyoutNew:
+  Label: 新建
+Properties: 属性
+Open: 打开
+OpenInNewTab: 在新标签页中打开
+OpenInNewWindow: 在新窗口中打开
+Share: 共享
+Cut: 剪切
+Delete: 删除
+PinFolderToSidebar: 固定到侧边栏
+WelcomeDialog:
+  Title: 欢迎使用 Files！
+  PrimaryButtonText: 授予权限
+WelcomeDialogTextBlock:
+  Text: '使用此应用需授予我们访问文件系统的权限。你可在稍后打开的设置页面中授权。完成设置后，需重启应用程序。 '
+Display: 显示
+EnterAnItemName: 输入项目名称
+RenameDialog:
+  PrimaryButtonText: 命名
+LightTheme: 浅色
+DarkTheme: 深色
+Application: 应用
+SystemTimeStyle: 系统
+NewFolder: 新建文件夹
+NewFile: 新建文件
+EmptyFolder:
+  Text: 此文件夹为空。
+Back: 后退 (Alt+左方向键)
+Forward: 前进 (Alt+右方向键)
+Up: 上移 (Alt+上方向键)
+Refresh: 刷新
+ItemAlreadyExistsDialogContent: 此文件夹中已有同名项目。
+ItemAlreadyExistsDialogSecondaryButtonText: 替换已有的项目
+ItemAlreadyExistsDialogTitle: 项目已存在
+SetAsLockscreen: 设为锁屏背景
+SetAsAppBackground: 设置为应用程序背景
+AccessDeniedDeleteDialog:
+  Text: 该项目无法删除
+DriveUnpluggedDialog:
+  Text: 要打开此项，请插入所需的驱动器。
+  Title: 驱动器已弹出
+FileNotFoundDialog:
+  Text: 要访问的文件可能已被移动或删除。
+  Title: 找不到文件
+CannotAccessPropertiesTitle: 无法打开此文件的属性
+CannotAccessPropertiesContent: 要访问的文件可能已被移动或删除。
+FolderNotFoundDialog:
+  Text: 要访问的文件夹可能已被移动或删除。
+  Title: 此文件夹是否已被删除？
+FileInUseByDialog:
+  Text: 此文件正被 {0} 使用
+FileInUseDialog:
+  Text: 此文件正被另一程序使用
+  Title: 文件正在使用中
+Layout: 布局
+PropertiesDialogReadOnly:
+  Text: 只读
+DaysAgo: '{0, plural, other {# 天前}}'
+HoursAgo: '{0, plural, other {# 小时前}}'
+MinutesAgo: '{0, plural, other {# 分钟前}}'
+SecondsAgo: '{0, plural, other {# 秒前}}'
+Now: 现在
+ErrorDialogUnsupportedOperation: 不支持请求的操作
+DriveFreeSpaceAndCapacity: '{0} 可用，共 {1}'
+SendTo: 发送到
+FileNameTeachingTip:
+  Subtitle: '项目名不能包含下列任何字符：\ / : * ? " < > |'
+InvalidFilename:
+  Text: 指定的项目名称无效
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, other {选中 # 个项目}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, other {个项目}}'
+Yes: 是
+ConfirmEmptyBinDialogContent: 确定要永久删除所有项目吗？
+ConfirmEmptyBinDialogTitle: 清空回收站
+ItemSizeBytes: 字节
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, other {个文件}}, {1, number} {1, plural, other {个文件夹}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: 以其他用户身份运行
+PropertiesDriveItemTypesEquals: '{0} 中的全部类型'
+PropertiesDriveItemTypeDifferent: 不同类型
+PropertiesCombinedItemLocation: '{0} 中全部'
+PropertiesDriveUsedSpace:
+  Text: '已用空间:'
+PropertiesDriveFreeSpace:
+  Text: '可用空间:'
+PropertiesDriveCapacity:
+  Text: '容量:'
+PropertiesDriveFileSystem:
+  Text: '文件系统:'
+JumpListRecentGroupHeader: 近期访问
+TabStripDragAndDropUIOverrideCaption: 移动标签页到此处
+syncStatusColumn:
+  Header: 状态
+SettingsPreferencesSystemDefaultLanguageOption: Windows 默认
+NavigationToolbarVisiblePathNoResults: 无结果
+SubDirectoryAccessDenied: 无法访问任何要显示的项
+MoveToFolderCaptionText: 移动到 {0}
+CopyToFolderCaptionText: 复制到 {0}
+CreateShortcut: 创建快捷方式
+OpenFileLocation: 打开文件位置
+PropertiesShortcutItemArgs:
+  Text: '参数:'
+PropertiesShortcutItemPath:
+  Text: '目标位置:'
+PropertiesShortcutItemType:
+  Text: '快捷方式类型:'
+PropertiesShortcutTypeLink: Web 链接
+General: 常规
+Shortcut: 快捷方式
+ShortcutWebLinkFileType: Internet 快捷方式
+ShortcutCreateNewSuffix: '{0} - 快捷方式'
+ExceptionNotificationBody: Files 发生未知错误。
+ExceptionNotificationHeader: 发生错误！
+ExceptionNotificationReportButton: 报告此问题
+InvalidItemDialogContent: 引用的项目无效或无法访问。{0}代码:{0}{1}
+InvalidItemDialogTitle: 无效项
+SettingsAboutVersionTitle: '版本:'
+ShareDialogFailMessage: 目前没有可共享的内容。
+ShareDialogMultipleItemsDescription: 将共享你选择的项目
+ShareDialogSingleItemDescription: 将共享已选项目
+ShareDialogTitle: 正在共享 {0}
+ShareDialogTitleMultipleItems: 正在共享 {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: 要重命名的项不存在。请确认需重命名的项目位置是否正确。
+    Title: 该项不存在
+  NameInvalid:
+    Text: 指定的名称无效。请检查目标项目名称并重试。
+    Title: 项目名称错误
+  TooLong:
+    Text: 指定的名称长度超出最大限制。请检查名称并重试。
+    Title: 项目名称过长
+ShowMoreOptions: 显示更多选项
+RestartNotificationText:
+  Text: 若要应用这些设置，需要重新启动应用程序。是否立即重启？
+SponsorUsOnGitHub: 在 GitHub 上赞助我们
+AccessDeniedCreateDialog:
+  Text: 无法创建此项
+AccessDenied: 拒绝访问
+BaseLayoutItemContextFlyoutSetAs:
+  Text: 设为
+Cancel: 取消
+AddDialog:
+  Title: 创建新项目
+AddDialogDescription:
+  Text: 从下面选择新项目的类型
+File: 文件
+AddDialogListFileSubHeader: 创建空文件
+Folder: 文件夹
+AddDialogListFolderSubHeader: 创建空文件夹
+NavResfreshButton:
+  AutomationProperties:
+    Name: 刷新目录
+Language: 语言
+SettingsContextMenuOverflow: 将 Shell 扩展菜单移入子菜单中
+ShowConfirmationWhenDeletingItems: 删除项目时显示确认对话框
+PropertySaveErrorMessage:
+  Text: 保存某些属性时出现错误。
+PropertySaveErrorDialog:
+  Title: 错误
+  SecondaryButtonText: 仍要关闭
+PropertyRatingText: 分级
+PropertyParsingPath: 项目路径
+PropertyItemTypeText: 项目类型
+PropertyTitle: 标题
+PropertySubject: 主题
+PropertyComment: 备注
+PropertyCopyright: 版权
+PropertyDateModified: 修改日期
+PropertyBitDepth: 位深度
+PropertyDimensions: 分辨率
+PropertyHorizontalSize: 水平大小
+PropertyVerticalSize: 垂直大小
+PropertyHorizontalResolution: 水平分辨率
+PropertyVerticalResolution: 垂直分辨率
+PropertyColorSpace: 颜色空间
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: 未指定
+PropertyLongitudeDecimal: 经度（十进制）
+PropertyLatitudeDecimal: 纬度（十进制）
+PropertyAltitude: 海拔高度
+PropertyDateTaken: 拍摄日期
+PropertyCameraManufacturer: 相机制造商
+PropertyCameraModel: 相机型号
+PropertyExposureTime: 曝光时间
+PropertyFocalLength: 焦距
+PropertyAperture: 光圈
+PropertyPeopleNames: 人员姓名
+PropertyChannelCount: 声道数
+PropertyFormat: 格式
+PropertySampleRate: 采样率
+PropertyAlbumArtist: 唱片集艺术家
+PropertyAlbumTitle: 唱片集标题
+Artist: 艺术家
+PropertyBeatsPerMinute: 每分钟节拍数
+PropertyComposer: 作曲者
+Conductor: 指挥者
+PropertyDiscNumber: 光盘编号
+PropertyGenre: 流派
+PropertyTrackNumber: 曲目编号
+PropertyDuration: 持续时间
+PropertyFrameCount: 帧数
+PropertyProtectionType: 保护类型
+PropertyAuthorUrl: 作者 URL
+PropertyContentDistributor: 内容分发商
+PropertyDateReleased: 发布日期
+PropertySeriesName: 系列名称
+PropertySeasonNumber: 季号
+PropertyEpisodeNumber: 集数
+PropertyProducer: 制作人
+PropertyPromotionUrl: 推广 URL
+PropertyProviderStyle: 供应商风格
+PropertyPublisher: 发布者
+PropertyThumbnailLargePath: 大缩略图路径
+PropertyThumbnailLargeUri: 大缩略图 URI
+PropertyThumbnailSmallPath: 小缩略图路径
+PropertyThumbnailSmallUri: 小缩略图 URI
+PropertyUserWebUrl: 用户 URL
+PropertyWriter: 作者
+PropertyYear: 年
+PropertyContributor: 贡献者
+PropertyLastAuthor: 上一作者
+PropertyRevisionNumber: 修订号
+PropertyVersion: 版本
+PropertyDateCreated: 创建日期
+PropertyTotalEditingTime: 总编辑时间
+PropertyTemplate: 模板
+PropertyWordCount: 字数
+PropertyCharacterCount: 字符数
+PropertyLineCount: 行数
+PropertyParagraphCount: 段落数
+PropertyPageCount: 页数
+PropertySlideCount: 幻灯片数
+PropertyFrameRate: 帧速率
+PropertyEncodingBitrate: 编码比特率
+PropertyPreviewAudioEncodingBitrate: 音频编码比特率
+PropertyPreviewVideoEncodingBitrate: 视频编码比特率
+Compression: 压缩
+PropertyFrameWidth: 帧宽度
+PropertyFrameHeight: 帧高度
+PropertyOrientation: 方向
+PropertySectionCore: 基本
+PropertySectionImage: 图像
+PropertySectionPhoto: 照片
+PropertySectionGPS: GPS
+PropertySectionMedia: 媒体
+PropertySectionAudio: 音频
+PropertySectionMusic: 音乐
+PropertySectionVideo: 视频
+Document: 文档
+Address: 地址
+SelectionOptions: 项目选择选项
+NavToolbarSelectionOptions:
+  Label: 选择
+RecycleBinItemAutomation: 回收站项
+ShortcutItemAutomation: 快捷方式项
+Drives: 驱动器
+PinToSidebarByDraggingCaptionText: 移到此处
+EjectNotificationHeader: 安全地移除硬件
+EjectNotificationBody: 该设备现在可安全地从计算机移除。
+EjectNotificationErrorDialogHeader: 弹出设备时出现问题
+EjectNotificationErrorDialogBody: 该设备正在使用中。请关闭所有正在使用该设备的程序、窗口和标签页，然后重试。
+Eject: 弹出
+DuplicateTab: 复制标签页
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: 将标签页移动到新窗口
+NewTab: 新建标签页
+ClearPropertiesFlyoutText:
+  Text: 某些属性可能包含个人信息。
+ClearPropertiesButton:
+  Content: 清除所有属性
+OngoingTasksTeachingTip:
+  Subtitle: 在此处检查文件操作状态
+  Title: 状态中心
+SearchPagePathBoxOverrideText: 在“{1}”中搜索“{0}”的结果
+Details: 详细信息
+No: 否
+ShowProtectedSystemFiles: 显示受保护的系统文件
+SyncFolderPreferencesAcrossDirectories: 在不同目录之间使用相同的布局和排序设置
+SettingsContextMenu:
+  Text: 自定义右键菜单
+OriginalPath: 原始路径
+Add: 添加
+Edit: 编辑
+Remove: 移除
+SettingsMultitaskingAlwaysOpenDualPane: 以双面板模式打开标签页
+ShowOpenInNewPane: 显示“在新面板中打开”
+ShowCopyPath: 显示“复制路径”选项
+ShowCreateFolderWithSelection: 显示“用选中的项目创建文件夹”选项
+ShowCreateShortcut: 显示“创建快捷方式”选项
+NavigationToolbarNewPane:
+  Label: 新面板
+OpenInNewPane: 在新面板中打开
+FilesAndFolders: 文件和文件夹
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: 详细信息 (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: 平铺 (Ctrl+Shift+2)
+DateDeleted: 删除日期
+SidebarCloudDrives: 云盘
+Confirm: 确认
+DesiredName: 期望名称
+TogglePreviewPane: 显示/隐藏预览窗格
+ToggleDetailsPane: 显示/隐藏详细信息窗格
+ToggleDetailsPaneDescription: 切换到详细信息窗格以查看文件的基本属性
+ToggleInfoPane: 显示/隐藏信息窗格
+ToggleInfoPaneDescription: 打开信息窗格以查看详细信息/预览窗格
+DetailsPanePreviewNotAvaliableText: 没有预览
+PropertyItemName: 项目名称
+UnpinFolderFromSidebar: 从侧边栏取消固定
+Network: 网络
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: 文件详细信息
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: 文件预览
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: 已选文件的预览面板
+Feedback: 意见反馈
+CloudDriveSyncStatus_Online: 联机时可用
+Documentation: 文档
+CloudDriveSyncStatus_Offline: 脱机可用
+CloudDriveSyncStatus_PartialOffline: 部分脱机可用
+CloudDriveSyncStatus_Sync: 正在同步
+CloudDriveSyncStatus_Excluded: 已从同步排除
+ItemSizeNotCalculated: 未计算
+CloudDriveSyncStatus_Unknown: 未知
+RenameFileDialog:
+  Text: 如果改变文件扩展名，可能会导致文件不可用。确实要更改吗？
+DriveTypeCDRom: CD-ROM 驱动器
+DriveTypeCloudDrive: 云端驱动器
+DriveTypeFixed: 固定磁盘驱动器
+DriveTypeFloppyDisk: 软盘驱动器
+DriveTypeNetwork: 网络驱动器
+DriveTypeNoRootDirectory: 未挂载驱动器
+DriveTypeRam: 内存驱动器
+DriveTypeRemovable: 可移动存储设备
+DriveTypeUnknown: 未知
+DriveTypeVirtualDrive: 虚拟驱动器
+DateCreated: 创建日期
+MoreOptions: 更多选项...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: 映射网络驱动器
+Pinned: 已固定
+SidebarLibraries: 库
+NoItemSelected: 未选择任何项
+PropertyItemTarget: 目标
+Arguments: 参数
+Default: 默认
+PropertyItemCount: 包含的项目数
+ElevateConfirmDialog:
+  Title: 此操作需要管理员权限
+  Content: 要以管理员身份继续吗？
+ColumnsShortcutTooltip: 列 (Ctrl+Shift+6)
+PinItemToStart:
+  Text: 固定到开始菜单
+UnpinItemFromStart:
+  Text: 从开始菜单取消固定
+Library: 库
+LibraryLocations:
+  Text: '位置:'
+SetAsDefaultSavePath: 设置为默认保存路径
+LibraryNoLocations:
+  Text: 没有位置
+ErrorInputEmpty: 输入框不能为空。
+ErrorNameInputRestrictedCharacters: '名称不能包含下列任何字符：\ / : * ? " < > |'
+ErrorNameInputRestricted: 不允许使用此名称。
+CreateLibraryErrorAlreadyExists: 同名称的库已存在。
+OpenStorageSense: 打开存储感知
+Copy: 复制
+CopyItemsDialogTitle: 复制{0, plural, other {项目}}
+DeleteItemsDialogTitle: 删除{0, plural, other {项目}}
+MoveItemsDialogPrimaryButtonText: 移动
+MoveItemsDialogSubtitle: '{0, plural, other {将移动 # 个项目}}'
+MoveItemsDialogTitle: 移动{0, plural, other {项目}}
+DeleteItemsDialogSubtitle: '{0, plural, other {将删除 # 个项目}}'
+ConflictingItemsDialogPrimaryButtonText: 继续
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, other {有 # 个文件名冲突}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: '{0, plural, other {文件名冲突}}'
+CopyItemsDialogSubtitle: '{0, plural, other {将复制 # 个项目}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: 永久删除
+PropertyISO: ISO 感光度
+ReplaceExisting: 替换已有的项目
+GenerateNewName: 生成新名称
+CreateFolderWithSelection: 用选中的项目创建文件夹
+ItemType: '类型:'
+ToolTipDescriptionDate: '修改日期:'
+OpenWith: 打开方式
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: 文件图标
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: 原始路径列
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: 类型
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: 修改日期
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: 删除日期列
+Sort: 排序
+DateModifiedLowerCase: 修改日期
+OriginalFolder: 原始文件夹
+Descending: 递减
+ItemSizeText_Huge: 特大
+ItemSizeText_VeryLarge: 超大
+ItemSizeText_Large: 大
+ItemSizeText_Medium: 中
+ItemSizeText_Small: 小
+ItemSizeText_Tiny: 微小
+Future: 未来
+Today: 今天
+Yesterday: 昨天
+EarlierThisWeek: 本周早些时候
+LastWeek: 上周
+EarlierThisMonth: 本月早些时候
+LastMonth: 上月
+EarlierThisYear: 今年早些时候
+LastYear: 去年
+YearN: '{0} 年'
+GroupItemsCount_Singular: '{0} 个项目'
+GroupItemsCount_Plural: '{0} 个项目'
+ReopenClosedTab: 重新打开关闭的标签页
+Rename: 重命名
+Privacy: 隐私
+TheRecycleBin: 回收站
+Canceling: 正在取消
+Clear: 清除
+Widgets: 主页小组件
+SyncStatus: 同步状态
+Security: 安全
+AdvancedPermissions: 高级权限
+Allow: 允许
+Deny: 拒绝
+SecurityFullControlLabel:
+  Text: 完全控制
+SecurityListDirectoryLabel:
+  Text: 列出目录内容
+Modify: 修改
+SecurityPermissionsHeaderText: '{0} 的权限'
+SecurityReadAndExecuteLabel:
+  Text: 读取和执行
+SecurityReadLabel:
+  Text: 读取
+SecurityUsersGroupLabel:
+  Text: 组或用户名
+Write: 写入
+SecurityUnknownAccount: 未知帐户
+SecurityCannotReadProperties:
+  Text: 你无权查看此对象的安全属性。 单击“高级权限”继续。
+SecurityOwnerLabel:
+  Text: '所有者:'
+SecurityUnknownOwnerText:
+  Text: 未知所有者
+ExtractArchive: 解压缩
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: 完成后打开目标文件夹
+BaseLayoutItemContextFlyoutExtractToChildFolder: 解压缩到 {0}\
+SideBarCreateNewLibrary:
+  Text: 新建库
+SideBarRestoreLibraries:
+  Text: 恢复为默认库
+DialogRestoreLibrariesSubtitleText: 确定要恢复为默认库吗？ 所有文件都将保留在存储空间中。
+DialogRestoreLibrariesTitleText: 恢复库
+PropertyFileOwner: 所有者
+SecuritySpecialLabel:
+  Text: 特殊
+Access: 访问
+SecurityAdvancedAppliesTo: 应用到
+Principal: 主体
+SecurityAdvancedFlagsFilesLabel: 文件
+SecurityAdvancedFlagsFolderLabel: 此文件夹
+SecurityAdvancedFlagsSubfoldersLabel: 子文件夹
+Inherited: 继承而来
+Permissions: 权限
+SecurityAdvancedCannotReadProperties:
+  Text: 你无权查看此对象的安全属性。 你可以尝试获取此对象的所有权。
+SecurityAdvancedFolderFiles:
+  Text: 此文件夹和文件
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: 此文件夹、子文件夹和文件
+SecurityAdvancedOnlyFiles:
+  Text: 仅文件
+SecurityAdvancedOnlySubfolders:
+  Text: 仅子文件夹
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: 仅子文件夹和文件
+SecurityAdvancedOnlyThisFolder:
+  Text: 仅此文件夹
+SecurityAdvancedFolderSubfolders:
+  Text: 此文件夹和子文件夹
+SecurityAppendDataLabel:
+  Text: 追加数据
+SecurityChangePermissionsLabel:
+  Text: 更改权限
+SecurityCreateDirectoriesLabel:
+  Text: 创建文件夹
+SecurityCreateFilesLabel:
+  Text: 创建文件
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: 删除子目录和文件
+SecurityExecuteFileLabel:
+  Text: 执行文件
+SecurityReadAttributesLabel:
+  Text: 读取属性
+SecurityReadDataLabel:
+  Text: 读取数据
+SecurityReadExtendedAttributesLabel:
+  Text: 读取扩展属性
+SecurityReadPermissionsLabel:
+  Text: 读取权限
+SecurityTakeOwnershipLabel:
+  Text: 取得所有权
+SecurityTraverseLabel:
+  Text: 访问文件夹
+SecurityWriteAttributesLabel:
+  Text: 写入属性
+SecurityWriteDataLabel:
+  Text: 写入数据
+SecurityWriteExtendedAttributesLabel:
+  Text: 写入扩展属性
+SecurityAdvancedInheritedConvert:
+  Text: 将继承的权限转换为显式权限
+SecurityAdvancedInheritedEnable:
+  Text: 启用继承
+SecurityAdvancedInheritedRemove:
+  Text: 删除所有继承的权限
+SecurityAdvancedReplaceChildPermissions:
+  Text: 重置子权限
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: 用来自该对象的可继承权限条目替换所有子对象权限条目
+NavigationToolbarClosePane:
+  Label: 关闭面板
+EnterCompactOverlay: 进入精简模式
+ExitCompactOverlay: 退出精简模式
+PropertyFileDescription: 文件描述
+PropertyCompany: 公司
+PropertyLanguage: 语言
+PropertyTrademarks: 商标
+PropertyFileVersion: 文件版本
+PreviewPaneLoadCloudItemButton:
+  Text: 加载完整预览
+  ToolTipService:
+    ToolTip: 从云端下载该项并加载预览
+DetailsArchiveItems: '{0, plural, other {# 个项目}} ({1, plural, other {# 个文件}}, {2, plural, other {# 个文件夹}})'
+PropertyUncompressedSize: 解压缩大小
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: 隐藏 {0} 部分
+AddFile: 添加文件
+ConsentDialogTitle: 可用更新
+ConsentDialogContent: 更新已准备好安装
+Close: 关闭
+ConsentDialogPrimaryButtonText: 更新
+Home: 主页
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: 压缩文件解压完成。
+ExtractingArchiveText: 正在解压压缩文件
+ExtractingCompleteText: 解压完成。
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: 打开上级目录
+Unknown: 未知
+EditTags: 编辑文件标签
+PropertyPartOfSet: 部分集合
+InsertDiscDialog:
+  OpenDriveButton: 打开驱动器
+  Text: 请将盘片插入驱动器 {0}
+  Title: 插入盘片
+OK: 确定
+AskCredentialDialog:
+  Title: 需要凭据
+CredentialDialogAnonymous:
+  Content: 匿名
+CredentialDialogDescription:
+  Text: 请提供你的访问凭据
+CredentialDialogUserName:
+  PlaceholderText: 用户名
+NoSearchResultsFound: 没有与搜索条件匹配的项
+OpenLogLocation: 打开日志文件夹
+LinkToFolderCaptionText: 在 {0} 处创建链接
+Columns: 列视图
+Tiles: 平铺
+OpenFoldersInNewTab: 在新标签页中打开文件夹
+StatusCenter: 状态中心
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: 创建日期列
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: 大小列
+ExperimentalFeatureFlags: 实验性功能开关
+HelpAndSupport: 帮助和支持
+SubmitFeatureRequest: 提交新功能请求
+SubmitBugReport: 提交错误报告
+SettingsSetAsDefaultFileManager: 将 Files 设为默认文件管理器
+SettingsSetAsOpenDialog: 使用 Files 作为打开文件对话框
+Tag: 文件标签
+SettingsOpenItemsWithOneClick: 通过单击打开项目
+FolderPath: 文件夹路径
+ExportSettings: 导出设置
+ImportSettings: 导入设置
+SettingsImportErrorDescription: 无法导入设置。此设置文件已损坏。
+SettingsImportErrorTitle: 导入设置错误
+EmptyRecycleBin: 清空回收站
+Sidebar: 侧边栏
+ChooseCustomIcon: 选择自定义文件夹图标
+Customization: 自定义
+RestoreDefault: 恢复默认
+OpenTabInExistingInstance: 从另一个应用程序打开 Files 时，在现有窗口中新建标签页
+StartupSettings: 启动设置
+Compatibility: 兼容性
+None: 无
+CompatibilityOnWindowsLogin: 登录到 Windows 时
+CompatibilityOnProgramStart: 打开此程序时
+System: 系统
+CompatibilitySystemEnhanced: 系统 (增强)
+CompatibilityReducedColorModeColor16bit: 16 位 (65536) 色
+CompatibilityReducedColorModeColor8bit: 8 位 (256) 色
+CompatibilityDisableFullscreenOptimizations: 禁用全屏优化
+CompatibilityRunIn640x480Resolution: 用 640 x 480 屏幕分辨率运行
+CompatibilityOverrideHighDPIBehavior: 替代高 DPI 缩放行为
+CompatibilityReducedColorMode: 简化的颜色模式
+CompatibilityRegisterThisProgramForRestart: 注册此程序以重新启动
+RunAsAdministrator: 以管理员身份运行
+CompatibilityRunTroubleshooter: 运行兼容性疑难解答
+CompatibilityUseDPISettings: 使用主显示器的 DPI 设置
+CompatibilityDoNotAdjustDPI: 不调整 DPI
+CompatibilityDoNotOverrideDPI: 不覆盖 DPI
+CompatibilityMode: 兼容模式
+CompatibilityNoReducedColor: 不使用简化的颜色
+ThirdPartyLicenses: 第三方许可
+SettingsSetAsDefaultFileManagerDescription: 此选项会修改系统注册表，并可能对你的设备产生意想不到的副作用。 继续即代表您自行承担风险。
+FolderWidgetCreateNewLibraryDialogTitleText: 创建库
+FolderWidgetCreateNewLibraryInputPlaceholderText: 输入库名
+CalculateFolderSizes: 计算文件夹大小
+RecentFiles: 最近使用的文件
+SettingsOpenInLogin: 在 Windows 启动时打开 Files
+Attributes: 属性
+Hidden: 隐藏
+MoreDetails: 更多详细信息
+ReadOnly: 只读
+CleanupDrive: 清理驱动器内容
+Type: 类型
+Bytes: 字节
+Extract: 解压缩
+ExtractFiles: 解压缩文件
+ExtractHere: 解压缩到此处
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: 解压缩到 {0}
+RunScript: 运行脚本
+RunWithPowerShell: 使用 PowerShell 运行
+ShowFolderSizesWarning: 计算文件夹大小会占用大量资源，可能会增加 CPU 使用量。
+RotateLeft: 向左旋转
+RotateRight: 向右旋转
+Install: 安装
+CloseTabsToTheLeft: 关闭左侧选项卡
+CloseTabsToTheRight: 关闭右侧选项卡
+CloseOtherTabs: 关闭其他选项卡
+Music: 音乐
+Pictures: 图片
+UpdateFiles: 更新 Files
+FileTags: 标签
+Universal: 通用
+DateFormatSample: 例如： {0}, {1}
+SettingsFilesAndFoldersShowThumbnails: 显示缩略图
+Retry: 重试
+ErrorDialogUnsupportedMoveOperation: 当前无法执行移动操作。要复制此项目吗？
+HiddenItems: 隐藏项目
+Custom: 自定义
+SetAsSlideshow: 设置为桌面幻灯片
+SizeAllColumnsToFit: 自动调整所有列宽
+Adaptive: 自适应布局
+AdaptiveShortcutTooltip: 自适应 (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: 显示备用数据流(Alternate Data Streams)
+Behaviors: 行为
+ReviewFiles: 评价 Files
+ReviewFilesContent: 给个好评呗
+SetAsBackgroundFlyout: 设置为背景
+SetAsBackground: 设置为桌面背景
+SetAsDefault: 设为默认
+DateColumn: “日期”列
+DateCreatedColumn: “创建日期”列
+SizeColumn: “大小”列
+TagColumn: “标签”列
+TypeColumn: “类型”列
+Lockscreen: 锁屏界面
+OpenFolderWithOneClickColumnsLayout: 在“列”布局下，通过单击打开文件夹
+OpeningItems: 打开项目
+Compress: 压缩
+SelectFilesAndFoldersOnHover: 鼠标悬停在项目上时自动选择
+ConfirmRestoreBinDialogContent: 确定要还原回收站中的所有项目吗？
+ConfirmRestoreBinDialogTitle: 还原所有项目
+ConfirmRestoreSelectionBinDialogContent: 是否还原选中的 {0} 个项目？
+ConfirmRestoreSelectionBinDialogTitle: 还原选定的项目
+RestoreAllItems: 还原所有项目
+Restore: 还原
+ShortcutCannotBeOpened: 无法打开快捷方式
+DeleteShortcutDescription: 在目标位置找不到 {0}。要删除此快捷方式吗？
+AccessDeniedToFolder: 你无权访问此文件夹。
+ArchivePassword: 压缩文件密码
+ExtractToPath: 路径
+SortingAndGrouping: 排序和分组
+CreateArchive: 创建压缩文件
+Create: 创建
+CreateNamedArchive: 创建 {0}
+EnterName: 输入名称
+CompressionLevel: 压缩级别
+CompressionLevelUltra: 最高
+CompressionLevelHigh: 高
+CompressionLevelNormal: 正常
+CompressionLevelLow: 低
+CompressionLevelFast: 快速
+CompressionLevelNone: 无
+SplittingSize: 分卷大小
+Do not split: 不分卷
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: 蓝光
+Encryption: 加密
+Password: 密码
+Format: 格式
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: “同步状态”列
+GroupBy: 分组依据
+SortBy: 排序方式
+GroupInDescendingOrder: 降序分组
+SortInDescendingOrder: 降序排序
+NewShortcutDialogTitle: 创建新的快捷方式
+NewShortcutDialogDescription: 创建本地或网络程序、文件、目录、计算机或 Internet 地址的快捷方式。
+NewShortcutDialogPrompt: 输入此项目的位置：
+AddDialogListShortcutSubHeader: 创建快捷方式
+RecentFilesDisabledOnWindowsWarning: “最近使用的文件”已在 Windows 文件管理器中停用。
+EditSettingsFile: 编辑设置文件
+WhatsNew: 新功能
+CannotCreateShortcutDialogTitle: 在此位置创建快捷方式需要管理员权限
+CannotCreateShortcutDialogMessage: 您要在桌面上创建快捷方式吗？
+ErrorDialogNameNotAllowed: 指定的项目名称无效
+Settings: 设置
+DoubleClickBlankSpaceToGoUp: 双击空白处以转到上级目录
+ViewMore: 查看更多
+ShowEditTagsMenu: 显示“编辑文件标签”
+ShowCompressionOptions: 显示压缩选项
+ShowSendToMenu: 显示“发送到”菜单
+ShowOpenInNewTab: 显示“在新标签页中打开”
+ShowOpenInNewWindow: 显示“在新窗口中打开”
+QuickAccess: 快速访问
+NetworkAuthenticationDialogMessage: 输入你的凭据以连接到 {0}
+NetworkAuthenticationDialogTitle: 输入网络凭据
+NetworkAuthenticationSaveCheckbox: 记住我的凭据
+NetworkFolderErrorDialogTitle: 网络文件夹错误
+AppVersion: 应用程序版本
+WindowsVersion: Windows 版本
+Always: 始终
+PermanentDeletionOnly: 仅在永久删除时
+Never: 从不
+TagColor: 标签颜色
+NewTag: 新标签
+CreateNewTag: 创建新标签
+Loading: 正在加载...
+ContextMenuOptions: 右键菜单选项
+ShowFileExtensions: 显示文件扩展名
+ShowHiddenItems: 显示隐藏的项目
+FormatDriveText: 格式化...
+Help: 帮助
+FullScreen: 切换全屏
+ConfirmDeleteTag: 确定要删除此标签吗？
+PlayAll: 播放全部
+Height: 高度
+Width: 宽度
+ApplyToAllConflictingItems: 将此操作应用到所有冲突项
+OpenTerminal: 在 Windows 终端中打开
+OpenTerminalAsAdmin: 以管理员身份在终端中打开
+Save: 保存
+MultiSelect: 多重选择
+ReorderSidebarItemsDialogText: 重新排列侧边栏项目
+Hashes: 哈希值
+CalculationError: 计算时发生错误
+CalculationErrorFileIsOpen: 计算哈希失败，请关闭该文件并重试。
+CalculationOnlineFileHashError: 在线文件无法计算哈希值
+Algorithm: 算法
+HashValue: 哈希值
+SelectHashesToShow: 选择要显示的哈希值
+Calculating: 正在计算...
+JumpListPinnedGroupHeader: 已固定的项目
+DecreaseSize: 减小大小
+IncreaseSize: 增加大小
+ToggleSortDirection: 切换排序方向
+InvalidTagNameWarning: 无效名称
+TagNameRules: 名称不能为空，也不能以英文句点 (.) 开头或结尾。
+Videos: 视频
+LaunchPreviewPopup: 打开预览弹窗
+ToggleCompactOverlay: 开关精简模式
+OpenHelpDescription: 在浏览器中打开在线帮助页面
+ToggleFullScreenDescription: 切换全屏显示
+EnterCompactOverlayDescription: 进入精简模式
+ExitCompactOverlayDescription: 退出精简模式
+ToggleCompactOverlayDescription: 开关精简模式
+SearchDescription: 转到搜索框
+ToggleShowHiddenItemsDescription: 切换隐藏项目显示
+ToggleShowFileExtensionsDescription: 切换文件扩展名显示
+TogglePreviewPaneDescription: 切换到预览窗格以预览文件
+ToggleSidebarDescription: 切换侧边栏显示
+CopyItemDescription: 复制项目到剪贴板
+CopyPathDescription: 复制选中项的路径到剪贴板
+CopyPathWithQuotesDescription: 复制选中项的路径（带引号）到剪贴板
+CutItemDescription: 剪切项目到剪贴板
+PasteItemDescription: 将剪贴板中的项目粘贴到当前文件夹
+PasteItemToSelectionDescription: 将剪贴板中的项目粘贴到所选文件夹
+DeleteItemDescription: 删除项目
+CreateFolderDescription: 创建新文件夹
+CreateShortcutDescription: 创建所选项目的快捷方式
+CreateShortcutFromDialogDescription: 创建指向项目的快捷方式
+EmptyRecycleBinDescription: 清空回收站
+FormatDriveDescription: 打开所选项目的“格式化驱动器”菜单
+RestoreRecycleBinDescription: 从回收站中还原所选项目
+RestoreAllRecycleBinDescription: 从回收站中还原所有项目
+OpenItemDescription: 打开项目
+OpenItemWithApplicationPickerDescription: 用所选程序打开项目
+OpenParentFolderDescription: 打开搜索项所在的文件夹
+RefreshItemsDescription: 刷新页面内容
+RenameDescription: 重命名所选项目
+SelectAllDescription: 选择所有项目
+InvertSelectionDescription: 反选项目
+ClearSelectionDescription: 清除项目选择
+ToggleSelectDescription: 切换项目选择
+ShareItemDescription: 共享所选文件
+PinToStartDescription: 固定项目到开始菜单
+UnpinFromStartDescription: 从开始菜单取消固定
+PinFolderToSidebarDescription: 固定文件夹到侧边栏
+UnpinFolderFromSidebarDescription: 从侧边栏取消固定文件夹
+SetAsWallpaperBackgroundDescription: 设置所选图片为桌面背景
+SetAsSlideshowBackgroundDescription: 设置所选图片为桌面幻灯片
+SetAsLockscreenBackgroundDescription: 设置所选图片为锁屏背景
+SetAsAppBackgroundDescription: 设置所选图片为此应用程序的背景
+InstallFontDescription: 安装所选字体
+InstallInfDriverDescription: 使用所选的 .inf 文件安装驱动程序
+InstallCertificateDescription: 安装所选证书
+RunAsAdminDescription: 以管理员身份运行所选程序
+RunAsAnotherUserDescription: 以另一用户身份运行所选程序
+RunWithPowershellDescription: 运行选中的 PowerShell 脚本
+LaunchPreviewPopupDescription: 在弹出窗口中打开预览
+CompressIntoArchiveDescription: 创建包含所选项目的压缩文件
+CompressIntoSevenZipDescription: 创建包含所选项目的 7z 压缩文件
+CompressIntoZipDescription: 创建包含所选项目的 zip 压缩文件
+DecompressArchiveDescription: 将所选压缩文件解压到文件夹
+DecompressArchiveHereDescription: 将所选压缩文件解压到当前文件夹
+DecompressArchiveToChildFolderDescription: 将所选压缩文件解压到新文件夹
+RotateLeftDescription: 向左旋转所选图像
+RotateRightDescription: 向右旋转所选图像
+OpenSettingsDescription: 打开设置页
+OpenTerminalDescription: 在终端中打开文件夹
+OpenTerminalAsAdminDescription: 以管理员身份在终端中打开文件夹
+LayoutDecreaseSizeDescription: 减小当前视图中项目的大小
+LayoutIncreaseSizeDescription: 增加当前视图中项目的大小
+LayoutDetailsDescription: 切换至详细信息视图
+LayoutTilesDescription: 切换至平铺视图
+LayoutListDescription: 切换到列表视图
+List: 列表
+Grid: 网格
+LayoutGridDescription: 切换到网格视图
+LayoutColumnsDescription: 切换至列视图
+LayoutAdaptiveDescription: 自适应切换视图
+SortByNameDescription: 按名称排序
+SortByDateModifiedDescription: 按修改日期排序
+SortByDateCreatedDescription: 按创建日期排序
+SortBySizeDescription: 按大小排序
+SortByTypeDescription: 按类型排序
+SortBySyncStatusDescription: 按同步状态排序
+SortByTagDescription: 按标签排序
+SortByOriginalFolderDescription: 按原位置排序
+SortByDateDeletedDescription: 按删除日期排序
+SortAscendingDescription: 升序排序
+SortDescendingDescription: 降序排序
+ToggleSortDirectionDescription: 切换排序方向
+GroupByNoneDescription: 不分组而直接列出
+GroupByNameDescription: 按名称分组
+GroupByDateModifiedDescription: 按修改日期分组
+GroupByDateCreatedDescription: 按创建日期分组
+GroupBySizeDescription: 按大小分组
+GroupByTypeDescription: 按类型分组
+GroupBySyncStatusDescription: 按同步状态分组
+GroupByTagDescription: 按标签分组
+GroupByOriginalFolderDescription: 按原位置分组
+GroupByDateDeletedDescription: 按删除日期分组
+GroupByFolderPathDescription: 按文件夹路径分组
+GroupAscendingDescription: 在分组内升序排序
+GroupDescendingDescription: 在分组内降序排序
+ToggleGroupDirectionDescription: 切换分组内排序方向
+NewTabDescription: 打开新标签页
+NavigateBackDescription: 在导航历史中向后导航
+NavigateForwardDescription: 在导航历史中向前导航
+NavigateUpDescription: 导航至上一级目录
+DuplicateCurrentTabDescription: 复制当前标签页
+DuplicateSelectedTabDescription: 复制所选标签页
+CloseTabsToTheLeftCurrentDescription: 关闭当前标签页左侧的标签页
+CloseTabsToTheLeftSelectedDescription: 关闭所选标签页左侧的标签页
+CloseTabsToTheRightCurrentDescription: 关闭当前标签页右侧的标签页
+CloseTabsToTheRightSelectedDescription: 关闭所选标签页右侧的标签页
+CloseOtherTabsCurrentDescription: 关闭除当前标签页以外的标签页
+CloseOtherTabsSelectedDescription: 关闭除所选标签页以外的标签页
+ReopenClosedTabDescription: 打开上一个关闭的标签页
+PreviousTabDescription: 移到上一标签页
+NextTabDescription: 移到下一标签页
+CloseSelectedTabDescription: 关闭当前标签页
+OpenNewPaneDescription: 打开新面板
+ClosePaneDescription: 关闭右侧标签页
+FocusLeftPane: 聚焦到左侧窗格
+FocusLeftPaneDescription: 切换焦点到左侧窗格
+FocusRightPane: 聚焦到右侧窗格
+FocusRightPaneDescription: 切换焦点到右侧窗格
+ToggleSidebar: 打开/关闭侧边栏
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: 空格
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: 左方向键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: 右方向键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: 下方向键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: 上方向键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: 主页
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: 竖分隔符 (|)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: 睡眠键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: 清除
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: 打印键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: 帮助
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: 鼠标按键4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: 鼠标按键5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: 应用程序
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: 应用程序 1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: 应用程序 2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: 邮件键
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: 主页
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: 后退
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: 前进
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: 刷新
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: 停止加载
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: 搜索
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: 收藏夹
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: 播放/暂停
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: 停止播放
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: 上一曲目
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: 下一曲目
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: 媒体选择
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: 静音
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: 音量减小
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: 音量增大
+Change: 更改
+ToggleSelect: 全选/全不选
+ShowFileExtensionWarning: 更改文件扩展名时显示警告
+ThisPC: 此电脑
+RecycleBin: 回收站
+Untagged: 无标签
+PreviousTab: 移到上一标签页
+NextTab: 移到下一标签页
+CloseTab: 关闭当前标签页
+EditPath: 编辑路径
+Redo: 重做
+Undo: 撤销
+InvalidLocation: 无效位置
+CopyFileWithoutProperties: 确定要复制这些文件而不同时复制其属性吗？
+FilePropertiesCannotBeCopied: 这些文件的某些属性不能复制到新位置
+FilePropertiesCannotBeMoved: 这些文件的某些属性不能移动到新位置
+MoveFileWithoutProperties: 确定要移动这些文件而不同时移动其属性吗？
+ShowCheckboxesWhenSelectingItems: 选择项目时显示复选框
+EditPathDescription: 移动焦点到路径栏
+AddItemDescription: 创建新项目
+SecurityNoAccessControlEntriesText: 没有组或用户有权访问此对象。然而，此对象的所有者可以分配权限。
+OpenFileLocationDescription: 打开项目的位置
+DeletePermanently: 永久删除
+DeleteItemPermanentlyDescription: 永久删除项目
+PlayAllDescription: 播放选中的媒体文件
+UndoDescription: 撤销上一次文件操作
+RedoDescription: 重做上一次文件操作
+Location: '位置:'
+GroupByMonthDescription: 按月份分组
+GroupByYearDescription: 按年份分组
+Month: 月
+Day: 日
+ToggleGroupByDateUnitDescription: 切换按日期分组时所用的日期单位
+ToggleGroupingUnit: 切换分组时所用的单位
+Year: 年
+GroupByDateUnit: 按日期单位分组
+GroupByDateCreatedDayDescription: 按创建日期分组
+GroupByDateCreatedMonthDescription: 按创建日期的月份分组
+GroupByDateCreatedYearDescription: 按创建日期的年份分组
+GroupByDateDeletedDayDescription: 按删除日期分组
+GroupByDateDeletedMonthDescription: 按删除日期的月份分组
+GroupByDateDeletedYearDescription: 按删除日期的年份分组
+GroupByDateModifiedDayDescription: 按修改日期分组
+GroupByDateModifiedMonthDescription: 按修改日期的月份分组
+GroupByDateModifiedYearDescription: 按修改日期的年份分组
+SecurityClickAdvancedPermissions: 点击“高级权限”继续。
+SecurityRequireReadPermissions: 你必须拥有读取权限才能查看此项目的属性。
+SecuritySuggestToTakeOwnership: 若要尝试获取项目的所有权（包括查看属性的权限），请点击上面的“更改”。
+SecurityUnableToDisplayPermissions: 无法显示权限。
+StashChanges: 保留我对“{0}”所做的更改
+DiscardChanges: 放弃我的更改
+BringChanges: 应用我对“{0}”所做的更改
+UncommittedChanges: 你在此分支上有未提交的更改。如何处理这些更改？
+SwitchBranch: 切换分支
+Branches: 分支
+Switch: 切换
+NewBranch: 新建分支
+InvalidBranchName: 分支名称无效
+CreateBranch: 创建分支
+CreateNewBranch: 创建分支
+BasedOn: 基于
+SwitchToNewBranch: 切换到新分支
+CreateFolderWithSelectionDescription: 用当前选中的项创建文件夹
+OpenProperties: 查看属性
+OpenPropertiesDescription: 打开属性窗口
+Locals: 本地
+Remotes: 远程
+ImproveTranslation: 在 Crowdin 上翻译此应用
+GitFetch: 抓取
+GitPull: 拉取
+GitFetchDescription: 运行 git fetch
+GitPullDescription: 运行 git pull
+Preview: 预览
+GitStatus: Git 状态
+GitError: Git 错误
+PullTimeoutError: 由于超时错误，git pull 失败
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (多个值)
+Author: 作者
+DateCommitted: 提交日期
+CommitMessage: 提交消息
+CommitSha: 提交 SHA
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: 背景材质
+Solid: 实心
+ManageBranches: 管理分支
+Push: 推送
+GitPushDescription: 运行 git push
+GitSync: 同步
+GitSyncDescription: 运行 git pull 随后 git push
+GitSyncStatusExtendedInfo: '{0} 个传出提交 / {1} 个传入提交'
+ConnectGitHub: 连接到 GitHub
+ConnectGitHubDescription: 若要开始使用 GitHub 存储库，请在下方的链接中输入以下验证码。
+CannotReachGitHubError: Files 目前无法访问 GitHub。
+OpenInVSCode: 在 VS Code 中打开文件夹
+OpenInVSCodeDescription: 在 Visual Studio Code 中打开当前目录
+OpenRepoInVSCode: 在 VS Code 中打开仓库
+OpenRepoInVSCodeDescription: 在 Visual Studio Code 中打开 Git 仓库的根目录
+CopyCode: 复制代码
+Added: 已添加
+Deleted: 已删除
+Modified: 已修改
+Untracked: 未跟踪
+UnableToDisplayOwner: 无法显示当前所有者。
+AuthorizationSucceded: 针不戳！你现在已获得授权。
+InitRepo: 初始化存储库
+InitRepoDescription: 初始化 Git 存储库
+GitOriginRepositoryName: 远程仓库名称
+GitCurrentBranch: 当前分支
+PathColumn: “路径”列
+SortByPathDescription: 按路径排序
+OpenDirectoryInNewPaneDescription: 在新面板中打开目录
+OpenDirectoryInNewTabDescription: 在新标签页中打开目录
+OpenInNewWindowDescription: 在新窗口中打开目录
+OpenAllTaggedItems: 全部打开
+OpenAllTaggedItemsDescription: 打开所有有标签的项目
+#{0} is the drive letter.
+DriveWithLetter: 驱动器 ({0})
+InvalidCommand: 无效的命令
+InvalidCommandContent: 无法将“{0}”识别为命令。
+CommandNotExecutable: 命令无法执行
+CommandNotExecutableContent: 命令“{0}”尚未准备好执行。
+CommandPalette: 命令面板
+OpenCommandPaletteDescription: 打开命令面板
+ShortcutItemWorkingDir: '起始位置:'
+TurnOnBitLocker: 打开 BitLocker
+ManageBitLocker: 管理 BitLocker
+CopyFailureFileToLarge: 以下项目过大，无法复制到此驱动器
+FormatDrive: 格式化驱动器
+DontShowAgain: 不再显示
+FilesRunningAsAdmin: Files 正在以管理员身份运行
+FilesRunningAsAdminContent: 由于 Windows 和 WinAppSdk 的限制，当以管理员身份运行 Files 时，拖动和拖放不可用。 若要启用拖放， 你可以从开始菜单中打开 UAC（用户帐户控制）设置，选择第三个保护等级并重启 Windows，以解除这一限制。 否则，你可以继续使用 Files，但无法使用拖放。
+SettingsLeaveAppRunning: 当窗口关闭后保持应用程序后台运行
+#One of the custom color themes
+Blue: 蓝色
+#One of the custom color themes
+BlueGray: 蓝灰色
+#One of the custom color themes
+BrickRed: 砖红色
+#One of the custom color themes
+Camouflage: 迷彩色
+#One of the custom color themes
+CoolBlueBright: 亮酷蓝色
+#One of the custom color themes
+Gray: 灰色
+#One of the custom color themes
+GrayDark: 暗灰色
+#One of the custom color themes
+Green: 绿色
+#One of the custom color themes
+IrisPastel: 粉鸢尾花色
+#One of the custom color themes
+MintLight: 浅薄荷色
+#One of the custom color themes
+ModRed: 现代红色
+#One of the custom color themes
+OrangeBright: 亮橙色
+#One of the custom color themes
+Overcast: 阴天
+#One of the custom color themes
+Red: 红色
+#One of the custom color themes
+RoseBright: 亮玫红色
+#One of the custom color themes
+Seafoam: 海泡石
+#One of the custom color themes
+Storm: 风暴
+#One of the custom color themes
+VioletRedLight: 浅紫红色
+#One of the custom color themes
+YellowGold: 金黄色
+ClearCompleted: 清除已完成的条目
+NameWithColon: '名称:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: 已处理 {0}，共 {1}
+ItemsLower: 个项目
+CannotInitializeGitRepo: Files 无法将此目录初始化为 Git 仓库.
+ContributingArtist: 参与创作的艺术家
+AddPage: 添加页面
+ProcessingItems: 正在处理项目...
+SpeedWithColon: '速度:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: 已取消将 {0} 个项目压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: 已取消将 {0} 个项目从“{1}”压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: 已将 {0} 个项目压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: 已将 {0} 个项目从“{1}”压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: 将 {0} 个项目压缩到“{1}”时出错
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: 无法将 {0} 个项目从“{1}”压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: 正在将 {0} 个项目压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: 正在将 {0} 个项目从“{1}”压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: 已取消将 {0} 个项目复制到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: 已取消将 {0} 个项目从“{1}”复制到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: 已将 {0} 个项目复制到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: 已将 {0} 个项目从“{1}”复制到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: 将 {0} 个项目复制到“{1}”时出错
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: 无法将 {0} 个项目从“{1}”复制到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: 正在将 {0} 个项目复制到 {1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: 正在将 {0} 个项目从“{1}”复制到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: 已取消将 {0} 解压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: 已取消将 {0} 从“{1}”解压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: 已将“{0}”解压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: 已将“{0}”从“{1}”解压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: 将“{0}”解压缩到“{1}”时出错
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: 无法将“{0}”从“{1}”解压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: 正在将“{0}”解压缩到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: 正在将“{0}”从“{1}”解压缩到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: 已取消从“{1}”中删除 {0} 个项目
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: 已从“{1}”中删除 {0} 个项目
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: 从“{1}”中删除 {0} 个项目时出错
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: 无法从“{1}”中删除 {0} 个项目
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: 正在从 "{1}" 中删除 {0} 个项目
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: 已取消将 {0} 个项目移动到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: 已取消将 {0} 个项目从“{1}”移动到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: 已将 {0} 个项目移动到“{1}”
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: 已将 {0} 个项目从“{1}”移动到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: 正在将 {0} 个项目移动到 {1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: 正在将 {0} 个项目从“{1}”移动到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: 将 {0} 个项目移动到“{1}”时出错
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: 无法将 {0} 个项目从“{1}”移动到“{2}”
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: 已取消清空回收站
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: 回收站已清空
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: 正在清空回收站
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: 清空回收站出错
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: 无法清空回收站
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: 正在准备操作...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: 已处理 {0}/{1} 个项目
+UnblockDownloadedFile: 取消屏蔽已下载的文件
+NoFileOperations: 没有正在进行的文件操作
+OpenOnStartupDisabled: 由于您的系统设置或组策略，选项“在 Windows 启动时打开 Files”不可用。 若要重新启用，请在任务管理器中打开“启动”页。
+FailedToRestore: 从回收站还原项目失败
+FailedToSetBackground: 设置背景壁纸失败
+GitDeleteBranch: 删除 Git 分支
+GitDeleteBranchSubtitle: 确定要永久删除分支 "{0}" 吗?
+ConnectedToGitHub: 已连接到 GitHub
+Logout: 登出
+ConnectToGitHub: 连接到 GitHub
+Login: 登录
+ErrorApplyingTagContent: 标签目前只兼容 NTFS 格式的驱动器。
+ErrorApplyingTagTitle: 应用此标签时发生错误
+DecompressArchiveHereSmartDescription: 解压缩选中的压缩文件：若其中仅有一个项目，则解压缩到当前目录下；否则，解压缩到当前目录下的新文件夹
+ExtractHereSmart: 智能解压
+SortFilesAndFoldersTogether: 将文件和文件夹一同排序
+SortFilesAndFoldersTogetherDescription: 将文件和文件夹一同排序
+SortFilesFirst: 先排序文件
+SortFilesFirstDescription: 先排序文件，再排序文件夹
+SortFoldersFirst: 先排序文件夹
+SortFoldersFirstDescription: 先排序文件夹，再排序文件
+SortPriority: 排序优先级
+FailedToRotateImage: 旋转图像失败
+Restart: 重新开始
+Quit: 退出
+FaildToShareItems: 共享项目失败
+ScrollToPreviousFolderWhenNavigatingUp: 向上导航时滚动至上一目录
+NewWindowDescription: 打开新窗口
+ChangeAlbumCover: 更改专辑封面
+ItemRenameFailed: 重命名项目失败
+HigherPermissionsRequired: 编辑“{0}”需要额外的权限
+EditPermissions: 编辑权限
+BackgroundRunningNotificationBody: Files 仍在后台运行，这可以使其更快启动。
+BackgroundRunningNotificationHeader: Files 到哪里去了？
+QuestionsAndDiscussions: 问题和讨论
+TilesViewSizeInfo: 平铺视图尚未支持更多项目尺寸。
+#Used to describe layout sizes
+Compact: 紧凑
+#Used to describe layout sizes
+Small: 小
+#Used to describe layout sizes
+Medium: 中
+#Used to describe layout sizes
+Medium+: 中等 +
+#Used to describe layout sizes
+Medium++: 中等 ++
+#Used to describe layout sizes
+Medium+++: 中等 +++
+#Used to describe layout sizes
+Medium++++: 中等 ++++
+#Used to describe layout sizes
+Medium+++++: 中等 +++++
+#Used to describe layout sizes
+Large: 大
+#Used to describe layout sizes
+Large+: 大 +
+#Used to describe layout sizes
+Large++: 大 ++
+#Used to describe layout sizes
+Large+++: 大 +++
+#Used to describe layout sizes
+ExtraLarge: 超大
+DetailsView: 详细信息视图
+LayoutType: 布局类型
+Actions: 操作
+Commands: 命令
+AddCommand: 添加命令
+RestoreDefaults: 恢复默认
+ChooseAnAction: 选择一个操作
+RestoreDefaultKeybindingsConfirmation: 确定要恢复为默认按键绑定吗？此操作无法撤消。
+KeybindingAlreadyUsedNotification: 此按键绑定已被使用，请选择一个不同的按键绑定以继续。
+KeybindingInvalidKeyNotification: 所选的按键绑定无法使用，请用其他按键绑定重试。
+Customized: 自定义
+AdaptiveLayoutDisabledNotification: 当选项“在不同目录之间使用相同的布局和排序设置”启用时，自适应布局不可用。默认布局已更改为“详细信息”。
+BackgroundImage: 背景图片
+#Image alignment type
+Bottom: 底端对齐
+#Image alignment type
+Center: 居中
+#Image stretch type
+Fill: 填充
+HorizontalAlignment: 水平对齐方式
+ImageFit: 图片契合方式
+#Image alignment type
+Left: 左对齐
+Opacity: 不透明度
+#Image alignment type
+Right: 右对齐
+#Image alignment type
+Top: 顶端对齐
+#Image stretch type
+Uniform: 均匀
+#Image stretch type
+UniformToFill: 均匀填充
+VerticalAlignment: 垂直对齐方式
+#This is a type of backdrop for the application background
+ThinAcrylic: 薄 Acrylic
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: 在所有位置中显示
+DevTools: 开发者工具
+DisplayOpenIDE: 配置状态栏上的“打开 IDE”按钮
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: 在 Git 存储库中显示
+#This is the friendly name for DLL files.
+ApplicationExtension: 应用程序扩展
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO 图标文件
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip 压缩文件
+#This is the friendly name for bitmap files.
+BitmapFiles: 位图文件
+NumPadTypeName: 小键盘
+NetworkLocations: 网络位置
+NoNetworkLocationsInfo: 没有网络位置。如果你不使用网络位置，可以禁用该小组件。
+Disable: 禁用
+EditInNotepad: 在记事本中编辑
+EditInNotepadDescription: 在记事本中编辑选中的文件

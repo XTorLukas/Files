@@ -1,133 +1,133 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: Novi prozor
+CopyPath: Kopiraj putanju
+CopyPathWithQuotes: Kopiraj putanju sa navodnicima
+Browse: Pregled
+Size: Veličina
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'Napravljeno:'
+Path: Putanja
+SizeLabel: 'Veličina:'
+SizeOnDiskLabel: 'Veličina na disku:'
+UncompressedSize: 'Nekomprimirana veličina:'
+ErrorDialogThisActionCannotBeDone: Ova akcija se ne može napraviti
+ErrorDialogTheDestinationFolder: Destinacijska mapa
+ErrorDialogIsASubfolder: je podmapa izvorne mape
+Skip: Preskoči
+SelectAll: Odaberi sve
+InvertSelection: Obrnuti izbor
+ClearSelection: Poništi odabir
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Promijenjeno:'
+Accessed: 'Pristupano:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Očisti sve stavke
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: Unesite putanju ili upišite ">" kao bi otvorili paletu naredbi
+Search: Traži
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Datoteke kojima ste pristupili prije pojaviti će se ovdje
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
+  Text: Ukloni ovu stavku
+OpenGitHubRepo: GitHub Repozitorij
+About: O aplikaciji
+OpenSource: Otvoren kod
+DateFormat: Format datuma
+SettingsAppearanceTheme: Tema
+SettingsFilesAndFoldersShowFileExtensions: Prikaži ekstenzije za poznate vrste datoteka
+SettingsFilesAndFoldersShowHiddenItems: Prikaz skrivenih datoteka i mapa
+ShowDotFiles: Prikaz skrivenih datoteka
+Appearance: Izgled
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: Napredno
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: Nastavite gdje ste završili
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: Otvori novu karticu
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+  Content: Otvori specifičnu stranicu ili stranice
+Desktop: Radna površina
+Documents: Dokumenti
+Downloads: Preuzimanja
+Name: Naziv
+Ascending: Uzlazno
+Paste: Zalijepi
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
+  Label: Novo
+Properties: Svojstva
+Open: Otvori
+OpenInNewTab: Otvori u novoj kartici
+OpenInNewWindow: Otvori u novom prozoru
+Share: Podijeli
+Cut: Izreži
+Delete: Izbriši
 PinFolderToSidebar: Pin to Sidebar
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: Dobrodošli u Files!
+  PrimaryButtonText: Odobri dopuštenje
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+  Text: Za početak, morat ćete nam dati dopuštenje za prikaz vaših datoteka. Ovo će otvoriti stranicu Postavki na kojoj nam možete dodijeliti ovo dopuštenje. Nakon što dovršite ovaj korak, morate ponovno pokrenuti aplikaciju.
+Display: Prikaz
+EnterAnItemName: Unesite naziv stavke
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: Postavi ime
+LightTheme: Svijetlo
+DarkTheme: Tamno
+Application: Aplikacija
+SystemTimeStyle: Sustav
+NewFolder: Nova mapa
+NewFile: Nova datoteka
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
-Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
+  Text: Ova je mapa prazna.
+Back: Natrag (Alt+lijeva strelica)
+Forward: "Naprijed\t(Alt+strelica desno)"
+Up: Gore (Alt+strelica gore)
+Refresh: Osvježi
+ItemAlreadyExistsDialogContent: Stavka s ovim nazivom već postoji u ovoj mapi.
+ItemAlreadyExistsDialogSecondaryButtonText: Zamijeni postojeću stavku
+ItemAlreadyExistsDialogTitle: Stavka već postoji
+SetAsLockscreen: Postavi kao pozadinu zaključanog zaslona
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: Ovu stavku je nemoguće izbrisati
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
-  Title: Drive unplugged
+  Text: Molimo umetnite potreban pogon za pristup ovoj stavci.
+  Title: Pogon isključen
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
-CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+  Text: Datoteka kojoj pokušavate pristupiti je možda premještena ili izbrisana.
+  Title: Datoteka nije pronađena
+CannotAccessPropertiesTitle: Nije moguće otvoriti svojstva za ovu datoteku
+CannotAccessPropertiesContent: Datoteka kojoj pokušavate pristupiti je možda premještena ili izbrisana.
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: Mapa kojoj pokušavate pristupiti možda je premještena ili izbrisana.
+  Title: Jeste li izbrisali ovu mapu?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: Dadoteku koju pokušavate pristupiti trenutno koristi {0}
 FileInUseDialog:
-  Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
-Layout: Layout
+  Text: Datoteku kojoj pokušavate pristupiti trenutno koristi druga aplikacija
+  Title: Datoteka je u upotrebi
+Layout: Raspored
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: Samo za čitanje
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
-SendTo: Send to
+Now: Sada
+ErrorDialogUnsupportedOperation: Zatražena operacija nije podržana.
+DriveFreeSpaceAndCapacity: '{0} slobodno od {1}'
+SendTo: Pošalji
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'Naziv stavke ne smije sadržavati sljedeće znakove: \ / : * ? " < > |'
 InvalidFilename:
-  Text: The item name specified is invalid
+  Text: Navedeni naziv stavke nije valjan
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, one {# item selected} few {# items selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
+Items: '{0, plural, one {item} few {items} other {items}}'
+Yes: Da
+ConfirmEmptyBinDialogContent: Jeste li sigurni da želite trajno izbrisati sve ove stavke?
+ConfirmEmptyBinDialogTitle: Isprazni koš za smeće
+ItemSizeBytes: bajtova
 KiloByteSymbol: KB
 MegaByteSymbol: MB
 GigaByteSymbol: GB
@@ -137,553 +137,553 @@ ByteSymbol: B
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
-  Text: Run as another user
-PropertiesDriveItemTypesEquals: All type of {0}
-PropertiesDriveItemTypeDifferent: Different types
-PropertiesCombinedItemLocation: All in {0}
+  Text: Pokreni kao neki drugi korisnik
+PropertiesDriveItemTypesEquals: Sve vrste od {0}
+PropertiesDriveItemTypeDifferent: Različite vrste
+PropertiesCombinedItemLocation: Sve u {0}
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'Iskorišten prostor:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'Slobodan prostor:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: 'Kapacitet:'
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
-TabStripDragAndDropUIOverrideCaption: Move tab here
+  Text: 'Datotečni sustav:'
+JumpListRecentGroupHeader: Nedavno
+TabStripDragAndDropUIOverrideCaption: Premjesti karticu ovdje
 syncStatusColumn:
   Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
-SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
-CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+SettingsPreferencesSystemDefaultLanguageOption: Windows zadana postavka
+NavigationToolbarVisiblePathNoResults: Nema rezultata
+SubDirectoryAccessDenied: Nije moguće pristupiti nijednoj stavci za prikaz
+MoveToFolderCaptionText: Premjesti u {0}
+CopyToFolderCaptionText: Kopiraj u {0}
+CreateShortcut: Stvori prečac
+OpenFileLocation: Otvori lokaciju datoteke
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: 'Argumenti:'
 PropertiesShortcutItemPath:
-  Text: 'Destination:'
+  Text: 'Odredište:'
 PropertiesShortcutItemType:
-  Text: 'Shortcut type:'
-PropertiesShortcutTypeLink: Web link
-General: General
-Shortcut: Shortcut
-ShortcutWebLinkFileType: Internet shortcut
-ShortcutCreateNewSuffix: '{0} - shortcut'
-ExceptionNotificationBody: Files ran into a problem that the developers didn't prepare for yet.
-ExceptionNotificationHeader: Something went wrong!
-ExceptionNotificationReportButton: Report this issue
-InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
-InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
-ShareDialogMultipleItemsDescription: The items you've selected will be shared
-ShareDialogSingleItemDescription: The selected item will be shared
-ShareDialogTitle: Sharing {0}
-ShareDialogTitleMultipleItems: Sharing {0} {1}
+  Text: 'Vrsta prečaca:'
+PropertiesShortcutTypeLink: Web veze
+General: Općenito
+Shortcut: Prečac
+ShortcutWebLinkFileType: Internet prečac
+ShortcutCreateNewSuffix: '{0} - prečac'
+ExceptionNotificationBody: Files je naišao na problem za koji se programeri još nisu pripremili.
+ExceptionNotificationHeader: Nešto je pošlo po zlu!
+ExceptionNotificationReportButton: Prijavi ovaj problem
+InvalidItemDialogContent: Referentna stavka je nevaljana ili nedostupna.{0}Poruka o grešci:{0}{1}
+InvalidItemDialogTitle: Nevaljana stavka
+SettingsAboutVersionTitle: 'Verzija:'
+ShareDialogFailMessage: Trenutno nema ničeg za podijeliti...
+ShareDialogMultipleItemsDescription: Stavke koje ste odabrali bit će podijeljene
+ShareDialogSingleItemDescription: Odabrana stavka bit će podijeljena
+ShareDialogTitle: Dijeljenje {0}
+ShareDialogTitleMultipleItems: Dijeljenje {0} {1}
 RenameError:
   ItemDeleted:
-    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
-    Title: Item no longer exists
+    Text: Stavka koju pokušavate preimenovati više ne postoji. Molimo provjerite ispravnu lokaciju stavke koju trebate preimenovati.
+    Title: Stavka više ne postoji
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: Navedeni naziv nije valjan. Provjerite naziv željene stavke i pokušajte ponovno.
+    Title: Nevaljani naziv stavke
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
-ShowMoreOptions: Show more options
+    Text: Duljina navedenog naziva stavke premašuje maksimalno ograničenje. Provjerite željeni naziv i pokušajte ponovno.
+    Title: Naziv stavke je predugačak
+ShowMoreOptions: Pokaži više mogućnosti
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
-SponsorUsOnGitHub: Sponsor us on GitHub
+  Text: Aplikaciju je potrebno ponovno pokrenuti da biste primijenili ove postavke. Želite li ponovo pokrenuti aplikaciju?
+SponsorUsOnGitHub: Sponzorirajte nas na GitHubu
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: Nismo uspjeli napraviti ovu stavku
+AccessDenied: Pristup odbijen
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: Postavi kao
+Cancel: Odustani
 AddDialog:
-  Title: Create a new item
+  Title: Stvori novu stavku
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: Odaberite vrstu za ovu novu stavku dolje
+File: Datoteka
+AddDialogListFileSubHeader: Stvara praznu datoteku
+Folder: Mapa
+AddDialogListFolderSubHeader: Stvara praznu mapu
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
-Language: Language
+    Name: Osvježi mapu
+Language: Jezik
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+ShowConfirmationWhenDeletingItems: Prikaz dijaloga za potvrdu prilikom brisanja
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: Došlo je do problema prilikom spremanja nekih svojstava.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+  Title: Greška
+  SecondaryButtonText: Ipak zatvori
+PropertyRatingText: Ocjena
+PropertyParsingPath: Putanja stavke
+PropertyItemTypeText: Vrsta stavke
+PropertyTitle: Naslov
+PropertySubject: Predmet
+PropertyComment: Komentar
+PropertyCopyright: Autorska prava
+PropertyDateModified: Datum promjene
+PropertyBitDepth: Dubina u bitovima
+PropertyDimensions: Dimenzije
+PropertyHorizontalSize: Horizontalna veličina
+PropertyVerticalSize: Vertikalna veličina
+PropertyHorizontalResolution: Horizontalna rezolucija
+PropertyVerticalResolution: Vertikalna rezolucija
+PropertyColorSpace: Prostor boja
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
-PropertyLongitudeDecimal: Longitude Decimal
-PropertyLatitudeDecimal: Latitude Decimal
-PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
-PropertyCameraManufacturer: Camera Manufacturer
-PropertyCameraModel: Camera Model
-PropertyExposureTime: Exposure Time
-PropertyFocalLength: Focal Length
-PropertyAperture: Aperture
-PropertyPeopleNames: People Names
-PropertyChannelCount: Channel Count
-PropertyFormat: Format
-PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
-PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
-Conductor: Conductor
-PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
-PropertyFrameCount: Frame Count
-PropertyProtectionType: Protection Type
-PropertyAuthorUrl: Author Url
-PropertyContentDistributor: Content Distributor
-PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
-PropertySeasonNumber: Season Number
-PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
-PropertyPromotionUrl: Promotion Url
-PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
-PropertyThumbnailLargePath: Thumbnail Large Path
-PropertyThumbnailLargeUri: Thumbnail Large Uri
-PropertyThumbnailSmallPath: Thumbnail Small Path
-PropertyThumbnailSmallUri: Thumbnail Small Uri
-PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
-PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
-PropertyCharacterCount: Character Count
-PropertyLineCount: Line Count
-PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
-PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
-PropertyEncodingBitrate: Encoding Bitrate
+PropertyColorSpace_Value65535: Neodređeno
+PropertyLongitudeDecimal: Longituda decimalno
+PropertyLatitudeDecimal: Latituda decimalno
+PropertyAltitude: Nadmorska visina
+PropertyDateTaken: 'Datum snimanja:'
+PropertyCameraManufacturer: Proizvođač kamere
+PropertyCameraModel: Model kamere
+PropertyExposureTime: Vrijeme ekspozicije
+PropertyFocalLength: Žarišna duljina
+PropertyAperture: Otvor blende
+PropertyPeopleNames: Imena ljudi
+PropertyChannelCount: Broj kanala
+PropertyFormat: Oblik
+PropertySampleRate: Frekvencija uzorkovanja
+PropertyAlbumArtist: Izvođač albuma
+PropertyAlbumTitle: Naslov albuma
+Artist: Izvođač
+PropertyBeatsPerMinute: Otkucaja u minuti
+PropertyComposer: Skladatelj
+Conductor: Dirigent
+PropertyDiscNumber: Broj diska
+PropertyGenre: Žanr
+PropertyTrackNumber: Broj pjesme
+PropertyDuration: Trajanje
+PropertyFrameCount: Broj okvira
+PropertyProtectionType: Vrsta zaštite
+PropertyAuthorUrl: URL Autora
+PropertyContentDistributor: Distributer sadržaja
+PropertyDateReleased: Datum objave
+PropertySeriesName: Naziv serije
+PropertySeasonNumber: Broj sezone
+PropertyEpisodeNumber: Broj epizode
+PropertyProducer: Producent
+PropertyPromotionUrl: URL promocije
+PropertyProviderStyle: Stil pružatelja usluga
+PropertyPublisher: Izdavač
+PropertyThumbnailLargePath: Putanja velike sličice
+PropertyThumbnailLargeUri: URI velike slikice
+PropertyThumbnailSmallPath: Putanja male sličice
+PropertyThumbnailSmallUri: URI male sličice
+PropertyUserWebUrl: URL korisničkog weba
+PropertyWriter: Pisac
+PropertyYear: Godina
+PropertyContributor: Suradnik
+PropertyLastAuthor: Posljednji autor
+PropertyRevisionNumber: Broj revizije
+PropertyVersion: Verzija
+PropertyDateCreated: Datum stvaranja
+PropertyTotalEditingTime: Ukupno vrijeme uređivanja
+PropertyTemplate: Predložak
+PropertyWordCount: Broj riječi
+PropertyCharacterCount: Broj znakova
+PropertyLineCount: Broj linija
+PropertyParagraphCount: Broj paragrafa
+PropertyPageCount: Broj stranica
+PropertySlideCount: Broj slajdova
+PropertyFrameRate: Broj uzoraka u sekundi
+PropertyEncodingBitrate: Bitrata kodiranja
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
+Compression: Kompresija
+PropertyFrameWidth: Širina okvira
+PropertyFrameHeight: Visina okvira
+PropertyOrientation: Orijentacija
+PropertySectionCore: Osnovno
+PropertySectionImage: Slika
+PropertySectionPhoto: Fotografija
 PropertySectionGPS: GPS
-PropertySectionMedia: Media
-PropertySectionAudio: Audio
-PropertySectionMusic: Music
-PropertySectionVideo: Video
-Document: Document
-Address: Address
-SelectionOptions: Selection options
+PropertySectionMedia: Mediji
+PropertySectionAudio: Zvuk
+PropertySectionMusic: Glazba
+PropertySectionVideo: Videozapis
+Document: Dokument
+Address: Adresa
+SelectionOptions: Mogućnosti odabira
 NavToolbarSelectionOptions:
-  Label: Select
-RecycleBinItemAutomation: Recycle bin item
-ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
-EjectNotificationHeader: Safe to remove hardware
-EjectNotificationBody: The device can now be safely removed from the computer.
-EjectNotificationErrorDialogHeader: Problem Ejecting Device
-EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
-Eject: Eject
-DuplicateTab: Duplicate tab
+  Label: Odabir
+RecycleBinItemAutomation: Stavka Koša za smeće
+ShortcutItemAutomation: Stavka prečaca
+Drives: Pogoni
+PinToSidebarByDraggingCaptionText: Premjesti ovdje
+EjectNotificationHeader: Sigurno za uklanjanje hardvera
+EjectNotificationBody: Uređaj se sada može sigurno ukloniti s računala.
+EjectNotificationErrorDialogHeader: Problem s izbacivanjem uređaja
+EjectNotificationErrorDialogBody: Ovaj uređaj je trenutno u upotrebi. Zatvorite sve programe, prozore ili kartice koji možda koriste uređaj, te zatim pokušajte ponovno.
+Eject: Izbaci
+DuplicateTab: Dupliciraj karticu
 HorizontalMultitaskingControlMoveTabToNewWindow:
-  Text: Move tab to new window
-NewTab: New tab
+  Text: Premjesti karticu u novi prozor
+NewTab: Nova kartica
 ClearPropertiesFlyoutText:
-  Text: Some properties may contain personal information.
+  Text: Neka svojstva mogu sadržavati osobne podatke.
 ClearPropertiesButton:
-  Content: Clear All Properties
+  Content: Obriši sva svojstva
 OngoingTasksTeachingTip:
-  Subtitle: Check the status of file operations here
+  Subtitle: Ovdje provjerite status operacija s datotekama
   Title: Status center
-SearchPagePathBoxOverrideText: Search results in {1} for {0}
-Details: Details
-No: 'No'
-ShowProtectedSystemFiles: Show protected system files
+SearchPagePathBoxOverrideText: Traži rezultate u {1} za {0}
+Details: Detalji
+No: Ne
+ShowProtectedSystemFiles: Prikaži zaštićene Sistemske Datoteke
 SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
 SettingsContextMenu:
-  Text: Customize the right click context menu
-OriginalPath: Original path
-Add: Add
-Edit: Edit
-Remove: Remove
+  Text: Prilagodi kontekstni izbornik desnog klika
+OriginalPath: Izvorna putanja
+Add: Dodaj
+Edit: Uredi
+Remove: Ukloni
 SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
 ShowOpenInNewPane: Show option to open folders in a new pane
 ShowCopyPath: Show option to copy path
 ShowCreateFolderWithSelection: Show option to create folder with selection
 ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
-  Label: New pane
+  Label: Novo okno
 OpenInNewPane: Open in new pane
 FilesAndFolders: Files & folders
 NavToolbarDetails:
   ToolTipService:
-    ToolTip: Details (Ctrl+Shift+1)
+    ToolTip: Detalji (Ctrl+Shift+1)
 NavToolbarTiles:
   ToolTipService:
-    ToolTip: Tiles (Ctrl+Shift+2)
-DateDeleted: Date deleted
-SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
-DesiredName: Desired name
+    ToolTip: Pločice (Ctrl+Shift+2)
+DateDeleted: Datum brisanja
+SidebarCloudDrives: Pogoni u oblaku
+Confirm: Potvrdi
+DesiredName: Željeni naziv
 TogglePreviewPane: Toggle the preview pane
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+DetailsPanePreviewNotAvaliableText: Pregled nedostupan
+PropertyItemName: Naziv stavke
 UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+Network: Mreža
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: Detalji datoteke
 PreviewPaneFilePreview:
   AutomationProperties:
-    Name: File preview
+    Name: Pregled datoteke
 SelectedFilePreviewPane:
   AutomationProperties:
-    Name: Selected file preview pane
+    Name: Odabrano okno za pregled datoteke
 Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
+CloudDriveSyncStatus_Online: Dostupno kada je online
 Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
-CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
-CloudDriveSyncStatus_Excluded: Excluded from sync
-ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+CloudDriveSyncStatus_Offline: Dostupno izvan mreže
+CloudDriveSyncStatus_PartialOffline: Djelomično dostupno izvanmrežno
+CloudDriveSyncStatus_Sync: Sinkronizacija
+CloudDriveSyncStatus_Excluded: Isključeno iz sinkronizacije
+ItemSizeNotCalculated: Nije izračunato
+CloudDriveSyncStatus_Unknown: Nepoznato
 RenameFileDialog:
-  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
-DriveTypeCDRom: CD ROM Drive
-DriveTypeCloudDrive: Cloud Drive
-DriveTypeFixed: Fixed Disk Drive
-DriveTypeFloppyDisk: Floppy Disk Drive
-DriveTypeNetwork: Network Drive
-DriveTypeNoRootDirectory: Unmounted Drive
-DriveTypeRam: RAM Disk Drive
-DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
-DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+  Text: Ako promijenite ekstenziju datoteke, datoteka bi mogla postati neupotrebljiva. Jeste li sigurni da želite promijeniti ekstenziju?
+DriveTypeCDRom: CD ROM pogon
+DriveTypeCloudDrive: Pogon u oblaku
+DriveTypeFixed: Pogon tvrdog diska
+DriveTypeFloppyDisk: Pogon za floppy disk
+DriveTypeNetwork: Mrežni pogon
+DriveTypeNoRootDirectory: Demontirani pogon
+DriveTypeRam: RAM disk pogon
+DriveTypeRemovable: Uklonjivi uređaj za pohranu
+DriveTypeUnknown: Nepoznato
+DriveTypeVirtualDrive: Virtualni pogon
+DateCreated: Datum stvaranja
+MoreOptions: Više postavki...
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
-  Text: Map network drive
+  Text: Mapiranje mrežnog pogona
 Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
-PropertyItemTarget: Target
-Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+SidebarLibraries: Biblioteke
+NoItemSelected: Nije odabrana nijedna stavka
+PropertyItemTarget: Odredište
+Arguments: Argumenti
+Default: Zadano
+PropertyItemCount: Broj stavki
 ElevateConfirmDialog:
-  Title: This action requires administrator rights
-  Content: Would you like to continue as administrator?
-ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+  Title: Ova akcija zahtijeva administratorska prava
+  Content: Želite li nastaviti kao administrator?
+ColumnsShortcutTooltip: Stupci (Ctrl+Shift+6)
 PinItemToStart:
-  Text: Pin to the Start Menu
+  Text: Prikvači na izbornik Start
 UnpinItemFromStart:
-  Text: Unpin from the Start Menu
-Library: Library
+  Text: Otkvači s izbornika Start
+Library: Biblioteka
 LibraryLocations:
-  Text: 'Locations:'
-SetAsDefaultSavePath: Set as default save path
+  Text: 'Lokacije:'
+SetAsDefaultSavePath: Postavi kao zadanu putanju za spremanje
 LibraryNoLocations:
-  Text: No locations
-ErrorInputEmpty: Input field cannot be empty!
-ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
-CreateLibraryErrorAlreadyExists: Library with the same name already exists!
+  Text: Nema lokacija
+ErrorInputEmpty: Polje za unos ne može biti prazno!
+ErrorNameInputRestrictedCharacters: 'Naziv ne smije sadržavati sljedeće znakove: \ / : * ? " < > |'
+ErrorNameInputRestricted: Korištenje ovog naziva nije dopušteno!
+CreateLibraryErrorAlreadyExists: Biblioteka s istim nazivom već postoji!
 OpenStorageSense: Open Storage Sense
-Copy: Copy
+Copy: Kopiraj
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: Premjesti
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
-ConflictingItemsDialogPrimaryButtonText: Continue
+ConflictingItemsDialogPrimaryButtonText: Nastavi
 ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
 ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
-PropertyISO: ISO speed
-ReplaceExisting: Replace existing
-GenerateNewName: Generate new name
-CreateFolderWithSelection: Create folder with selection
-ItemType: 'Type:'
-ToolTipDescriptionDate: 'Date modified:'
-OpenWith: Open with
+  Content: Trajno izbrisati
+PropertyISO: ISO brzina
+ReplaceExisting: Zamijeni postojeće
+GenerateNewName: Generirajte novi naziv
+CreateFolderWithSelection: Napravi mapu s odabirom
+ItemType: 'Vrsta:'
+ToolTipDescriptionDate: 'Datum promjene:'
+OpenWith: Otvori sa
 FileBrowserThumbnailIconColumnGrid:
   AutomationProperties:
-    Name: File icon
+    Name: Ikona datoteke
 DetailsViewHeaderFlyout_ShowOriginalPath:
-  Text: Original path column
+  Text: Stupac izvorne putanje
 DetailsViewHeaderFlyout_ShowItemType:
-  Text: Item type column
+  Text: Stupac vrste stavke
 DetailsViewHeaderFlyout_ShowDateModified:
-  Text: Date modified column
+  Text: Stupac datum promjene
 DetailsViewHeaderFlyout_ShowDateDeleted:
-  Text: Date deleted column
-Sort: Sort
-DateModifiedLowerCase: Date modified
-OriginalFolder: Original folder
-Descending: Descending
-ItemSizeText_Huge: Huge
-ItemSizeText_VeryLarge: Very large
-ItemSizeText_Large: Large
-ItemSizeText_Medium: Medium
-ItemSizeText_Small: Small
-ItemSizeText_Tiny: Tiny
-Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
-EarlierThisMonth: Earlier this month
-LastMonth: Last month
-EarlierThisYear: Earlier this year
-LastYear: Last year
-YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
-Rename: Rename
-Privacy: Privacy
-TheRecycleBin: the Recycle Bin
+  Text: Stupac datuma brisanja
+Sort: Sortiraj
+DateModifiedLowerCase: Datum promjene
+OriginalFolder: Originalna mapa
+Descending: Silazno
+ItemSizeText_Huge: Ogromno
+ItemSizeText_VeryLarge: Vrlo veliko
+ItemSizeText_Large: Veliko
+ItemSizeText_Medium: Srednje
+ItemSizeText_Small: Malo
+ItemSizeText_Tiny: Vrlo malo
+Future: Budućnost
+Today: Danas
+Yesterday: Jučer
+EarlierThisWeek: Ranije ovog tjedna
+LastWeek: Prošli tjedan
+EarlierThisMonth: Ranije ovog mjeseca
+LastMonth: Prošli mjesec
+EarlierThisYear: Ranije ove godine
+LastYear: Prošla godina
+YearN: Godina {0}
+GroupItemsCount_Singular: '{0} stavka'
+GroupItemsCount_Plural: '{0} stavki'
+ReopenClosedTab: Ponovno otvori zatvorenu karticu
+Rename: Preimenuj
+Privacy: Privatnost
+TheRecycleBin: Koš za smeće
 Canceling: Canceling
-Clear: Clear
+Clear: Očisti
 Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
+SyncStatus: Status sinkronizacije
+Security: Sigurnost
+AdvancedPermissions: Napredne dozvole
+Allow: Dopusti
 Deny: Deny
 SecurityFullControlLabel:
-  Text: Full control
+  Text: Potpuna kontrola
 SecurityListDirectoryLabel:
-  Text: List directory contents
+  Text: Popis sadržaja mape
 Modify: Modify
 SecurityPermissionsHeaderText: Permissions for {0}
 SecurityReadAndExecuteLabel:
-  Text: Read and execute
+  Text: Čitanje i izvršavanje
 SecurityReadLabel:
-  Text: Read
+  Text: Čitanje
 SecurityUsersGroupLabel:
-  Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+  Text: Grupna ili korisnička imena
+Write: Pisanje
+SecurityUnknownAccount: Nepoznat račun
 SecurityCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
+  Text: Nemate dopuštenja za pregled sigurnosnih svojstava ovog objekta. Kliknite "Napredna dopuštenja" za nastavak.
 SecurityOwnerLabel:
-  Text: 'Owner:'
+  Text: 'Vlasnik:'
 SecurityUnknownOwnerText:
-  Text: Unknown owner
+  Text: Nepoznati vlasnik
 ExtractArchive: Extract archive
 DecompressArchiveDialogOpenDestinationWhenComplete:
-  Content: Open destination folder when complete
-BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+  Content: Otvori odredišnu mapu pri završetku
+BaseLayoutItemContextFlyoutExtractToChildFolder: Raspakiraj u {0}\
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: Stvori novu biblioteku
 SideBarRestoreLibraries:
-  Text: Restore default libraries
-DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
-DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+  Text: Vrati zadane biblioteke
+DialogRestoreLibrariesSubtitleText: Jeste li sigurni da želite vratiti zadane biblioteke? Sve vaše datoteke ostat će u vašoj pohrani.
+DialogRestoreLibrariesTitleText: Vrati biblioteke
+PropertyFileOwner: Vlasnik
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
+  Text: Posebno
+Access: Pristup
 SecurityAdvancedAppliesTo: Applies to
 Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
-SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
+SecurityAdvancedFlagsFilesLabel: datoteke
+SecurityAdvancedFlagsFolderLabel: ovu mapu
+SecurityAdvancedFlagsSubfoldersLabel: podmape
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
+  Text: Nemate dopuštenja za pregled sigurnosnih svojstava ovog objekta. Možete pokušati preuzeti vlasništvo nad ovim objektom.
 SecurityAdvancedFolderFiles:
-  Text: This folder and files
+  Text: Ova mapa i datoteke
 SecurityAdvancedFolderSubfoldersFiles:
-  Text: This folder, subfolders and files
+  Text: Ovu mapu, podmape i datoteke
 SecurityAdvancedOnlyFiles:
-  Text: Only files
+  Text: Samo datoteke
 SecurityAdvancedOnlySubfolders:
-  Text: Only subfolders
+  Text: Samo podmape
 SecurityAdvancedOnlySubfoldersFiles:
-  Text: Only subfolders and files
+  Text: Samo podmape i datoteke
 SecurityAdvancedOnlyThisFolder:
-  Text: Only this folder
+  Text: Samo ova mapa
 SecurityAdvancedFolderSubfolders:
-  Text: This folder and subfolders
+  Text: Ova mapa i podmape
 SecurityAppendDataLabel:
-  Text: Append data
+  Text: Dodaj podatke
 SecurityChangePermissionsLabel:
-  Text: Change permission
+  Text: Promijeni dopuštenje
 SecurityCreateDirectoriesLabel:
-  Text: Create folders
+  Text: Napravi mape
 SecurityCreateFilesLabel:
-  Text: Create files
+  Text: Napravi datoteke
 SecurityDeleteSubdirectoriesAndFilesLabel:
-  Text: Delete subdirectories and files
+  Text: Izbriši podmape i datoteke
 SecurityExecuteFileLabel:
-  Text: Execute files
+  Text: Izvrši datoteke
 SecurityReadAttributesLabel:
-  Text: Read attributes
+  Text: Atributi čitanja
 SecurityReadDataLabel:
-  Text: Read data
+  Text: Podaci čitanja
 SecurityReadExtendedAttributesLabel:
-  Text: Read extended attributes
+  Text: Dodatni atributi čitanja
 SecurityReadPermissionsLabel:
-  Text: Read permissions
+  Text: Dozvola čitanja
 SecurityTakeOwnershipLabel:
-  Text: Take ownership
+  Text: Preuzmi vlasništvo
 SecurityTraverseLabel:
-  Text: Visit folder
+  Text: Posjeti mapu
 SecurityWriteAttributesLabel:
-  Text: Write attributes
+  Text: Atributi pisanja
 SecurityWriteDataLabel:
-  Text: Write data
+  Text: Podaci pisanja
 SecurityWriteExtendedAttributesLabel:
-  Text: Write extended attributes
+  Text: Dodatni atributi pisanja
 SecurityAdvancedInheritedConvert:
-  Text: Convert inherited permissions into explicit permissions
+  Text: Pretvori naslijeđena dopuštenja u eksplicitna dopuštenja
 SecurityAdvancedInheritedEnable:
-  Text: Enable inheritance
+  Text: Omogući nasljeđivanje
 SecurityAdvancedInheritedRemove:
-  Text: Remove all inherited permissions
+  Text: Ukloni sva naslijeđena dopuštenja
 SecurityAdvancedReplaceChildPermissions:
-  Text: Reset child permissions
+  Text: 'Poništi dopuštenja podređenih objekata '
 SecurityAdvancedReplaceChildPermissions2:
   ToolTipService:
-    ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
+    ToolTip: Zamijeni sve unose dopuštenja podređenih objekata s nasljednim unosima dopuštenja iz ovog objekta
 NavigationToolbarClosePane:
-  Label: Close pane
-EnterCompactOverlay: Enter compact overlay
-ExitCompactOverlay: Exit compact overlay
-PropertyFileDescription: File description
-PropertyCompany: Company
-PropertyLanguage: Language
-PropertyTrademarks: Trademarks
-PropertyFileVersion: File version
+  Label: Zatvori okno
+EnterCompactOverlay: Otvori kompaktni sloj
+ExitCompactOverlay: Izađi iz kompaktnog sloja
+PropertyFileDescription: Opis datoteke
+PropertyCompany: Tvrtka
+PropertyLanguage: Jezik
+PropertyTrademarks: Zaštitni znakovi
+PropertyFileVersion: Verzija datoteke
 PreviewPaneLoadCloudItemButton:
-  Text: Load full preview
+  Text: Učitaj puni pregled
   ToolTipService:
-    ToolTip: Downloads the item from the cloud and loads the preview
+    ToolTip: Preuzima stavku iz oblaka i učitava pregled
 DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
-PropertyUncompressedSize: Uncompressed size
+PropertyUncompressedSize: Nekomprimirana veličina
 WSL: WSL
 SideBarHideSectionFromSideBar:
-  Text: Hide {0} section
-AddFile: Add file
-ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
-Close: Close
-ConsentDialogPrimaryButtonText: Update
-Home: Home
+  Text: Sakrij {0} odjeljak
+AddFile: Dodajte datoteku
+ConsentDialogTitle: Dostupna ažuriranja
+ConsentDialogContent: Ažuriranja su spremna za instalaciju
+Close: Zatvori
+ConsentDialogPrimaryButtonText: Ažuriraj
+Home: Početno
 BaseLayoutContextFlyoutDetails:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+1
 BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
-ExtractingArchiveText: Extracting archive
-ExtractingCompleteText: Extracting complete!
+ArchiveExtractionCompletedSuccessfullyText: Raspakiranje arhive je uspješno završeno.
+ExtractingArchiveText: Raspakiranje arhive
+ExtractingCompleteText: Raspakiranje završeno!
 BaseLayoutItemContextFlyoutOpenParentFolder:
-  Text: Open parent folder
-Unknown: Unknown
-EditTags: Edit tags
-PropertyPartOfSet: Part of set
+  Text: Otvori nadređenu mapu
+Unknown: Nepoznato
+EditTags: Uredi oznake datoteke
+PropertyPartOfSet: Dio skupa
 InsertDiscDialog:
   OpenDriveButton: Open drive
-  Text: Please insert a disc into drive {0}
-  Title: Insert a disc
+  Text: Umetnite disk u pogon {0}
+  Title: Umetnite disk
 OK: OK
 AskCredentialDialog:
   Title: Credential required
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: Anonimno
 CredentialDialogDescription:
-  Text: 'Provide your credential:'
+  Text: 'Navedite svoju vjerodajnicu:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
-NoSearchResultsFound: No items found
-OpenLogLocation: Open log location
-LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
-Tiles: Tiles
-OpenFoldersInNewTab: Open folders in new tab
+  PlaceholderText: Korisničko ime
+NoSearchResultsFound: Nisu pronađene stavke
+OpenLogLocation: Otvori lokaciju zapisnika
+LinkToFolderCaptionText: Napravi vezu u {0}
+Columns: Stupci
+Tiles: Pločice
+OpenFoldersInNewTab: Otvori mape u novoj kartici
 StatusCenter: Status center
 DetailsViewHeaderFlyout_ShowDateCreated:
-  Text: Date created column
+  Text: Stupac datum stvaranja
 DetailsViewHeaderFlyout_ShowItemSize:
-  Text: Item size column
-ExperimentalFeatureFlags: Experimental feature flags
-HelpAndSupport: Help and support
-SubmitFeatureRequest: Submit feature request
-SubmitBugReport: Submit bug report
-SettingsSetAsDefaultFileManager: Set Files as the default file manager
-SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
-SettingsOpenItemsWithOneClick: Open items with a single click
-FolderPath: Folder path
-ExportSettings: Export settings
-ImportSettings: Import settings
-SettingsImportErrorDescription: Couldn't import settings. The settings file is corrupted.
-SettingsImportErrorTitle: Error importing settings
-EmptyRecycleBin: Empty Recycle Bin
-Sidebar: Sidebar
-ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
-RestoreDefault: Restore default
+  Text: Stupac veličine stavke
+ExperimentalFeatureFlags: Probne mogućnosti
+HelpAndSupport: Pomoć i podrška
+SubmitFeatureRequest: Pošaljite zahtjev za dodavanje mogućnosti
+SubmitBugReport: Prijavite grešku
+SettingsSetAsDefaultFileManager: Postavi Files kao zadani upravitelj datotekama
+SettingsSetAsOpenDialog: Koristi Files aplikciju kao dijalog za otvarenje datoteka
+Tag: Oznaka datoteke
+SettingsOpenItemsWithOneClick: Otvori datoteke jednim klikom
+FolderPath: Putanja do mape
+ExportSettings: Izvezi postavke
+ImportSettings: Uvezi postavke
+SettingsImportErrorDescription: Nije moguće uvesti postavke. Datoteka postavki je oštećena.
+SettingsImportErrorTitle: Pogreška pri uvozu postavki
+EmptyRecycleBin: Isprazni Koš za smeće
+Sidebar: Bočna traka
+ChooseCustomIcon: Odaberite prilagođenu ikonu za mapu
+Customization: Prilagodba
+RestoreDefault: Vrati izvorno
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
-StartupSettings: Startup settings
-Compatibility: Compatibility
-None: None
+StartupSettings: Postavke kod pokretanja
+Compatibility: Kompatibilnost
+None: Ništa
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: Sustav
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,56 +692,56 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: Pokreni kao administrator
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
 CompatibilityDoNotOverrideDPI: Do not override DPI
-CompatibilityMode: Compatibility mode
+CompatibilityMode: Način kompatibilnosti
 CompatibilityNoReducedColor: No reduced color
-ThirdPartyLicenses: Third party licenses
-SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
-FolderWidgetCreateNewLibraryDialogTitleText: Create Library
+ThirdPartyLicenses: Licence trećih strana
+SettingsSetAsDefaultFileManagerDescription: Ova opcija izmjenjuje registry i može imati nepredviđene posljedice na vašem uređaju. Nastavite na vlastitu odgovornost.
+FolderWidgetCreateNewLibraryDialogTitleText: Stvaranje biblioteke
 FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
-CalculateFolderSizes: Calculate folder sizes
-RecentFiles: Recent files
-SettingsOpenInLogin: Open Files on Windows startup
-Attributes: Attributes
-Hidden: Hidden
-MoreDetails: More details
-ReadOnly: Read only
-CleanupDrive: Cleanup your drive contents
-Type: Type
-Bytes: Bytes
-Extract: Extract
-ExtractFiles: Extract files
-ExtractHere: Extract here
+CalculateFolderSizes: Izračunaj veličinu mape
+RecentFiles: Nedavno korištene datoteke
+SettingsOpenInLogin: Otvori Files kod pokretanja Windowsa
+Attributes: 'Atributi:'
+Hidden: Skriveno
+MoreDetails: Više pojedinosti
+ReadOnly: Samo za čitanje
+CleanupDrive: Očisti sadržaj diska
+Type: Vrsta
+Bytes: Bajtovi
+Extract: Raspakiraj
+ExtractFiles: Raspakiraj datoteke
+ExtractHere: Raspakiraj ovdje
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
-ExtractToChildFolder: Extract to {0}
-RunScript: Run script
-RunWithPowerShell: Run with PowerShell
-ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
-RotateLeft: Rotate left
-RotateRight: Rotate right
-Install: Install
-CloseTabsToTheLeft: Close tabs to the left
-CloseTabsToTheRight: Close tabs to the right
-CloseOtherTabs: Close other tabs
-Music: Music
-Pictures: Pictures
-UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
+ExtractToChildFolder: Raspakiraj u {0}
+RunScript: Pokreni skriptu
+RunWithPowerShell: Pokreni sa PowerShell programom
+ShowFolderSizesWarning: Izračunavanje veličina mapa je zahtjevna radnja i može uzrokovati povećanje upotrebe procesora.
+RotateLeft: Rotiraj ulijevo
+RotateRight: Rotiraj udesno
+Install: Instaliraj
+CloseTabsToTheLeft: Zatvori kartice lijevo
+CloseTabsToTheRight: Zatvori kartice zdesna
+CloseOtherTabs: Zatvori ostale kartice
+Music: Glazba
+Pictures: Slike
+UpdateFiles: Ažuriraj datoteke
+FileTags: Oznake
+Universal: Univerzalno
 DateFormatSample: 'ex: {0}, {1}'
-SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
-ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
-HiddenItems: Hidden items
-Custom: Custom
+SettingsFilesAndFoldersShowThumbnails: Prikaži minijature
+Retry: Pokušaj ponovno
+ErrorDialogUnsupportedMoveOperation: Operacija premještanja nije podržana u ovom kontekstu. Želite li umjesto toga kopirati stavke?
+HiddenItems: Skrivene stavke
+Custom: Prilagođeno
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
@@ -749,10 +749,10 @@ Behaviors: Behaviors
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
-SetAsBackground: Set as desktop background
+SetAsBackground: Postavi kao pozadinu radne površine
 SetAsDefault: Set as default
 DateColumn: Date column
-DateCreatedColumn: Date created column
+DateCreatedColumn: Stupac datum stvaranja
 SizeColumn: Size column
 TagColumn: Tag column
 TypeColumn: Type column
@@ -774,7 +774,7 @@ ArchivePassword: Archive password
 ExtractToPath: Path
 SortingAndGrouping: Sorting and grouping
 CreateArchive: Create archive
-Create: Create
+Create: Napravi
 CreateNamedArchive: Create {0}
 EnterName: Enter a name
 CompressionLevel: Compression level
@@ -783,7 +783,7 @@ CompressionLevelHigh: High
 CompressionLevelNormal: Normal
 CompressionLevelLow: Low
 CompressionLevelFast: Fast
-CompressionLevelNone: None
+CompressionLevelNone: Ništa
 SplittingSize: Splitting size
 Do not split: Do not split
 CD: CD
@@ -791,12 +791,12 @@ DVD: DVD
 FAT: FAT
 Bluray: Blu-ray
 Encryption: Encryption
-Password: Password
-Format: Format
+Password: Lozinka
+Format: Oblik
 DetailsViewHeaderFlyout_ShowSyncStatus:
   Text: Sync status column
 GroupBy: Group by
-SortBy: Sort by
+SortBy: Sortiraj po
 GroupInDescendingOrder: Group in descending order
 SortInDescendingOrder: Sort in descending order
 NewShortcutDialogTitle: Create a new shortcut
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: Postavke
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -861,13 +861,13 @@ IncreaseSize: Increase size
 ToggleSortDirection: Toggle sort direction
 InvalidTagNameWarning: Invalid name
 TagNameRules: Name must not be empty or start or end with a period.
-Videos: Videos
+Videos: Videozapisi
 LaunchPreviewPopup: Launch preview popup
 ToggleCompactOverlay: Toggle compact overlay
 OpenHelpDescription: Open online help page in browser
 ToggleFullScreenDescription: Toggle full screen
-EnterCompactOverlayDescription: Enter compact overlay
-ExitCompactOverlayDescription: Exit compact overlay
+EnterCompactOverlayDescription: Otvori kompaktni sloj
+ExitCompactOverlayDescription: Izađi iz kompaktnog sloja
 ToggleCompactOverlayDescription: Toggle compact overlay
 SearchDescription: Go to search box
 ToggleShowHiddenItemsDescription: Toggle whether to show hidden items
@@ -880,11 +880,11 @@ CopyPathWithQuotesDescription: Copy path of selected items with quotes to the cl
 CutItemDescription: Cut item(s) to clipboard
 PasteItemDescription: Paste item(s) from clipboard to current folder
 PasteItemToSelectionDescription: Paste item(s) from clipboard to selected folder
-DeleteItemDescription: Delete item(s)
+DeleteItemDescription: Izbriši stavku(e)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: Isprazni koš za smeće
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,9 +1013,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Gore (Alt+strelica gore)
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Home: Home
+  Home: Početno
   #Key name for hotkeys in menus. Use abbreviation if possible.
   End: End
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: Očisti
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,9 +1057,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: Traži
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: Favoriti
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: Godina
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: stavki
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1387,9 +1387,9 @@ TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
 #Used to describe layout sizes
-Small: Small
+Small: Malo
 #Used to describe layout sizes
-Medium: Medium
+Medium: Srednje
 #Used to describe layout sizes
 Medium+: Medium +
 #Used to describe layout sizes
@@ -1401,7 +1401,7 @@ Medium++++: Medium ++++
 #Used to describe layout sizes
 Medium+++++: Medium +++++
 #Used to describe layout sizes
-Large: Large
+Large: Veliko
 #Used to describe layout sizes
 Large+: Large +
 #Used to describe layout sizes

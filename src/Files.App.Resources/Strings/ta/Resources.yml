@@ -1,0 +1,1467 @@
+NewWindow: புது சாளரம்
+CopyPath: பாதையை நகலெடு
+CopyPathWithQuotes: மேற்கோள்குறியுடன் பாதையை நகலெடு
+Browse: உலாவு
+Size: அளவு
+PropertiesCreated:
+  Text: 'உருவாக்கியது:'
+Path: பாதை
+SizeLabel: 'அளவு:'
+SizeOnDiskLabel: 'வட்டிலுள்ள அளவு:'
+UncompressedSize: 'Uncompressed size:'
+ErrorDialogThisActionCannotBeDone: இந்த செயலை செய்ய முடியாது
+ErrorDialogTheDestinationFolder: இலக்கு கோப்புறை
+ErrorDialogIsASubfolder: மூல கோப்புறையின் துணைக்கோப்புறை
+Skip: தவிர்
+SelectAll: அனைத்தையும் தேர்ந்தெடு
+InvertSelection: Invert selection
+ClearSelection: தேர்வை அழி
+PropertiesModified:
+  Text: திருத்தியது;
+Accessed: 'அணுகியது:'
+RecentItemClearAll:
+  Text: எல்லா உருப்படிகளையும் அழி
+NavigationToolbarVisiblePath:
+  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
+Search: Search
+RecentItemDescription:
+  Text: நீங்கள் முன்பு அணுகிய கோப்புகளும் கோப்புறைகளும் இங்கு காட்டப்படும்
+RecentItemRemove:
+  Text: இந்த உருப்படியை அகற்று
+OpenGitHubRepo: GitHub களஞ்சியம்
+About: பற்றி
+OpenSource: திறமூல
+DateFormat: தேதி வடிவம்
+SettingsAppearanceTheme: கருப்பொருள்
+SettingsFilesAndFoldersShowFileExtensions: தெரிந்த கோப்பு வகைகளுக்கு நீடிப்புகளை காட்டு
+SettingsFilesAndFoldersShowHiddenItems: மறைக்கப்பட்ட கோப்புகளையும் கோப்புறைகளையும் காட்டு
+ShowDotFiles: புள்ளியில் தொடங்கும் கோப்புகளை காட்டு
+Appearance: தோற்றம்
+BackgroundColor: Background color
+Advanced: மேம்பட்ட
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: நீங்கள் விட்ட இடத்திலிருந்தே தொடரவும்
+SettingsOnStartupOpenANewTab:
+  Content: புது தாவலைத் திற
+SettingsOnStartupOpenASpecificPage:
+  Content: குறிப்பிட்ட பக்கத்தையோ பக்கங்களையோ திற
+Desktop: திரைப்பலகம்
+Documents: ஆவணங்கள்
+Downloads: பதிவிறக்கங்கள்
+Name: பேர்
+Ascending: ஏறுவரிசை
+Paste: ஒட்டு
+BaseLayoutContextFlyoutNew:
+  Label: புது
+Properties: பண்புகள்
+Open: திற
+OpenInNewTab: புது தாவலில் திற
+OpenInNewWindow: புது சாளரத்தில் திற
+Share: பகிர்
+Cut: வெட்டு
+Delete: நீக்கு
+PinFolderToSidebar: Pin to Sidebar
+WelcomeDialog:
+  Title: Files'இற்கு வருக!
+  PrimaryButtonText: அனுமதியை வழங்கு
+WelcomeDialogTextBlock:
+  Text: 'தொடங்க, உங்கள் கோப்புகளை காண்பிக்க எங்களுக்கு அனுமதி வழங்க வேண்டும். இது ஓர் அமைப்புகள் பக்கத்தை திறக்கும். நிறைவடைந்தவுடன் நிரலை நீங்கள் மீண்டும் திறக்க வேண்டும். '
+Display: காட்சி
+EnterAnItemName: ஒரு உருப்படி பெயரை உள்ளிடுங்கள்
+RenameDialog:
+  PrimaryButtonText: பேரை அமை
+LightTheme: வெளிச்சம்
+DarkTheme: இருள்
+Application: நிரல்
+SystemTimeStyle: முறைமை
+NewFolder: புது கோப்புறை
+NewFile: புது கோப்பு
+EmptyFolder:
+  Text: இந்த கோப்புறை வெறுமையாய் கிடக்கு.
+Back: பின்
+Forward: முன்
+Up: மேல்
+Refresh: புதுப்பி
+ItemAlreadyExistsDialogContent: இந்த பேருடன் ஏற்கனவே ஓர் உருப்படி இந்த கோப்புறையில் உள்ளது.
+ItemAlreadyExistsDialogSecondaryButtonText: ஏற்கனவே உள்ள உருப்படியை மாற்று
+ItemAlreadyExistsDialogTitle: உருப்படி ஏற்கனவே உள்ளது
+SetAsLockscreen: பூட்டுத்திரை பின்புலமாக அமை
+SetAsAppBackground: Set as app background
+AccessDeniedDeleteDialog:
+  Text: இந்த உருப்படியை எங்களால் நீக்க முடியவில்லை
+DriveUnpluggedDialog:
+  Text: இந்த உருப்படியை அணுகத் தேவையான இயக்கத்தைச் சொருகவும்.
+  Title: Drive unplugged
+FileNotFoundDialog:
+  Text: நீங்கள் அணுக முயற்சிக்கும் கோப்பு நகர்த்தப்பட்டோ நீக்கப்பட்டோ இருக்கலாம்.
+  Title: கோப்பு கண்டுப்பிடிக்கப்படவில்லை
+CannotAccessPropertiesTitle: Cannot open properties for this file
+CannotAccessPropertiesContent: நீங்கள் அணுக முயற்சிக்கும் கோப்பு நகர்த்தப்பட்டோ நீக்கப்பட்டோ இருக்கலாம்.
+FolderNotFoundDialog:
+  Text: நீங்கள் அணுக முயற்சிக்கும் கோப்புறை நகர்த்தப்பட்டோ நீக்கப்பட்டோ இருக்கலாம்.
+  Title: நீங்கள் இந்தக் கோப்புறையை நீக்குனீர்களா?
+FileInUseByDialog:
+  Text: நீங்கள் அணுக முயற்சிக்கும் கோப்பானது தற்போது {0}'ஆல் பயன்படுத்தப்படுகிறது
+FileInUseDialog:
+  Text: நீங்கள் அணுக முயற்சிக்கும் கோப்பானது தற்போது மற்றொரு நிரலால் பயன்படுத்தப்படுகிறது
+  Title: கோப்பு பயன்பாட்டில் உள்ளது
+Layout: தளவமைப்பு
+PropertiesDialogReadOnly:
+  Text: படிக்க-மட்டும்
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: இப்போது
+ErrorDialogUnsupportedOperation: The requested operation is not supported
+DriveFreeSpaceAndCapacity: "{1}'இல் {0} வெறுமை"
+SendTo: இற்கு அனுப்பு
+FileNameTeachingTip:
+  Subtitle: 'பின்வரும் எழுத்துகுறிகள் உருப்படி பேரில் இருக்கக் கூடாது: \ / : * ? " < > |'
+InvalidFilename:
+  Text: கொடுதுள்ள பேர் செல்லதது
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {item} other {items}}'
+Yes: ஆம்
+ConfirmEmptyBinDialogContent: நிச்சயமாக இந்த உருப்படிகள் அனைத்தையும் நிரந்தரமாக நீக்க விரும்புகிறீர்களா?
+ConfirmEmptyBinDialogTitle: மறுசுழற்சி கூடையை வெறுமையாக்கு
+ItemSizeBytes: பைட்கள்
+KiloByteSymbol: kB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: மற்றொரு பயனராக இயக்கு
+PropertiesDriveItemTypesEquals: "{0}'இன் எல்லா வகை"
+PropertiesDriveItemTypeDifferent: வெவ்வேறு வகைகள்
+PropertiesCombinedItemLocation: எல்லாம் {0}'இல்
+PropertiesDriveUsedSpace:
+  Text: 'பயன்படுத்தப்பட்ட இடம்:'
+PropertiesDriveFreeSpace:
+  Text: 'வெற்றிடம்:'
+PropertiesDriveCapacity:
+  Text: 'கொள்ளளவு:'
+PropertiesDriveFileSystem:
+  Text: 'கோப்பு முறைமை:'
+JumpListRecentGroupHeader: சமீபத்திய
+TabStripDragAndDropUIOverrideCaption: இங்கு தாவலை நகர்த்து
+syncStatusColumn:
+  Header: நிலை
+SettingsPreferencesSystemDefaultLanguageOption: Windows இயல்புநிலை
+NavigationToolbarVisiblePathNoResults: முடிவுகள் இல்லை
+SubDirectoryAccessDenied: காட்ட எந்த உருப்படியையும் அணுக முடியவில்லை
+MoveToFolderCaptionText: "{0}'இற்கு நகர்த்து"
+CopyToFolderCaptionText: "{0}'இற்கு நகலெடு"
+CreateShortcut: குறுக்குவழியை உருவாக்கு
+OpenFileLocation: கோப்பு இருப்பிடத்தை திற
+PropertiesShortcutItemArgs:
+  Text: 'நியாயவாதம்:'
+PropertiesShortcutItemPath:
+  Text: 'இலக்கு:'
+PropertiesShortcutItemType:
+  Text: 'குறுக்குவழி வகை:'
+PropertiesShortcutTypeLink: வலை இணைப்பு
+General: பொது
+Shortcut: குறுக்குவழி
+ShortcutWebLinkFileType: இணைய குறுக்குவழி
+ShortcutCreateNewSuffix: '{0} - குறுக்குவழி'
+ExceptionNotificationBody: உருவாக்குனர் தயாராகத சிக்கல் ஒன்றில் Files சிக்கிக்கொண்டது.
+ExceptionNotificationHeader: ஏதோ தவறாகிவிட்டது!
+ExceptionNotificationReportButton: இந்த சிக்கலை தெரிவியுங்கள்
+InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
+InvalidItemDialogTitle: செல்லாத உருப்படி
+SettingsAboutVersionTitle: 'பதிப்பு:'
+ShareDialogFailMessage: இப்போது பகிர எதுவுமில்லை...
+ShareDialogMultipleItemsDescription: நீங்கள் தேர்ந்தெடுத்துள்ள உருப்படிகள் பகிரப்படும்
+ShareDialogSingleItemDescription: தேர்ந்தெடுத்துள்ள உருப்படி பகிரப்படும்
+ShareDialogTitle: "{0}'ஐ பகிர்தல்"
+ShareDialogTitleMultipleItems: '{0} {1} பகிர்தல்'
+RenameError:
+  ItemDeleted:
+    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
+    Title: உருப்படி இனி இல்லை
+  NameInvalid:
+    Text: கொடுக்கப்பட்ட பேர் செல்லதது. தயவுசெய்து பேரைச் சரிப்பார்த்து மீண்டும் முயற்சிக்கவும்.
+    Title: செல்லாத உருப்படி பேர்
+  TooLong:
+    Text: குறிப்பிடப்பட்ட பொருளின் பெயரின் நீளம் அதிகபட்ச வரம்பை மீறுகிறது. விரும்பிய பெயரைச் சரிபார்த்து, மீண்டும் முயற்சிக்கவும்.
+    Title: உருப்படி பேர் மிகவும் நீளமாக இருந்தது
+ShowMoreOptions: கூடுதல் விருப்பங்களை காட்டு
+RestartNotificationText:
+  Text: மொழி மாற்றத்தை செயற்படுத்த இந்த நிரலை மறுதொடங்க வேண்டும். இப்போது மறுதொடக்கம் செய்ய விரும்புகிறீர்களா?
+SponsorUsOnGitHub: Sponsor us on GitHub
+AccessDeniedCreateDialog:
+  Text: இந்த உருப்படியை எங்களால் உருவாக்க முடியவில்லை
+AccessDenied: அணுகல் மறுக்கப்பட்டது
+BaseLayoutItemContextFlyoutSetAs:
+  Text: இதுவாக அமை
+Cancel: இரத்துசெய்
+AddDialog:
+  Title: ஒரு புது உருப்படியை உருவாக்கு
+AddDialogDescription:
+  Text: இந்த புது உருப்படியின் வகையை கீழே தேர்ந்தெடுங்கள்
+File: கோப்பு
+AddDialogListFileSubHeader: வெறுமை கோப்பு ஒன்றை உருவாக்கும்
+Folder: கோப்புறை
+AddDialogListFolderSubHeader: வெறுமை கோப்புறை ஒன்றை உருவாக்கும்
+NavResfreshButton:
+  AutomationProperties:
+    Name: கோப்புறையை புதுப்பி
+Language: மொழி
+SettingsContextMenuOverflow: Move shell extensions into a sub menu
+ShowConfirmationWhenDeletingItems: உருப்படிகளை நீக்கும்போது உறுதிப்படுத்தல் பெட்டியை காட்டு
+PropertySaveErrorMessage:
+  Text: சில பண்புகளை சேமிப்பதில் ஒரு சிக்கல் இருந்தது.
+PropertySaveErrorDialog:
+  Title: பிழை
+  SecondaryButtonText: எப்படியிருந்தாலும் மூடு
+PropertyRatingText: தரமதிப்பு
+PropertyParsingPath: உருப்படி பாதை
+PropertyItemTypeText: உருப்படி வகை
+PropertyTitle: தலைப்பு
+PropertySubject: பொருள்
+PropertyComment: கருத்துரை
+PropertyCopyright: பதிப்புரிமை
+PropertyDateModified: திருத்திய தேதி
+PropertyBitDepth: பிட் செறிவு
+PropertyDimensions: பரிமாணங்கள்
+PropertyHorizontalSize: கிடைமட்ட அளவு
+PropertyVerticalSize: செங்குத்து அளவு
+PropertyHorizontalResolution: கிடைமட்ட அளவு
+PropertyVerticalResolution: செங்குத்து அளவு
+PropertyColorSpace: வண்ண இடம்
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: குறிப்பிடப்படாதது
+PropertyLongitudeDecimal: Longitude Decimal
+PropertyLatitudeDecimal: Latitude Decimal
+PropertyAltitude: Altitude
+PropertyDateTaken: 'எடுக்கப்பட்ட தேதி:'
+PropertyCameraManufacturer: கேமரா உற்பத்தியாளர்
+PropertyCameraModel: கேமரா மாடல்
+PropertyExposureTime: Exposure Time
+PropertyFocalLength: Focal Length
+PropertyAperture: துளை
+PropertyPeopleNames: ஆள்களின் பேர்கள்
+PropertyChannelCount: அலைவரிசை எண்ணிக்கை
+PropertyFormat: வடிவமைப்பு
+PropertySampleRate: மாதிரி விகிதம்
+PropertyAlbumArtist: ஆல்பக் கலைஞர்
+PropertyAlbumTitle: ஆல்பத் தலைப்பு
+Artist: கலைஞர்
+PropertyBeatsPerMinute: Beats Per Minute
+PropertyComposer: இயற்றியவர்
+Conductor: நடத்துபவர்
+PropertyDiscNumber: வட்டு எண்
+PropertyGenre: நடை வகை
+PropertyTrackNumber: தடம் எண்
+PropertyDuration: கால அளவு
+PropertyFrameCount: சட்டக எண்ணிக்கை
+PropertyProtectionType: பாதுகாப்பு வகை
+PropertyAuthorUrl: ஆசிரியர் உரலி
+PropertyContentDistributor: Content Distributor
+PropertyDateReleased: Date Released
+PropertySeriesName: தொடர் பேர்
+PropertySeasonNumber: Season Number
+PropertyEpisodeNumber: Episode Number
+PropertyProducer: தயாரித்தவர்
+PropertyPromotionUrl: Promotion Url
+PropertyProviderStyle: வழங்குனர் நடை
+PropertyPublisher: வெளியீட்டாளர்
+PropertyThumbnailLargePath: Thumbnail Large Path
+PropertyThumbnailLargeUri: Thumbnail Large Uri
+PropertyThumbnailSmallPath: Thumbnail Small Path
+PropertyThumbnailSmallUri: Thumbnail Small Uri
+PropertyUserWebUrl: பயனர் வலை உரலி
+PropertyWriter: எழுதியவர்
+PropertyYear: ஆண்டு
+PropertyContributor: பங்களிப்பாளர்
+PropertyLastAuthor: கடைசியாக எழுதியவர்
+PropertyRevisionNumber: திருத்த எண்
+PropertyVersion: பதிப்பு
+PropertyDateCreated: உருவாக்கிய தேதி
+PropertyTotalEditingTime: மொத்த திருத்தல் நேரம்
+PropertyTemplate: வார்ப்புரு
+PropertyWordCount: சொல் எண்ணிக்கை
+PropertyCharacterCount: எழுத்து எண்ணிக்கை
+PropertyLineCount: வரி எண்ணிக்கை
+PropertyParagraphCount: பத்தி எண்ணிக்கை
+PropertyPageCount: பக்க எண்ணிக்கை
+PropertySlideCount: Slide Count
+PropertyFrameRate: சட்டக விகிதம்
+PropertyEncodingBitrate: Encoding Bitrate
+PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
+PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
+Compression: Compression
+PropertyFrameWidth: சட்டக அகலம்
+PropertyFrameHeight: சட்டக உயரம்
+PropertyOrientation: நோக்குதிசை
+PropertySectionCore: கோர்
+PropertySectionImage: படம்
+PropertySectionPhoto: புகைப்படம்
+PropertySectionGPS: GPS
+PropertySectionMedia: ஊடகம்
+PropertySectionAudio: கேட்பொலி
+PropertySectionMusic: இசை
+PropertySectionVideo: காணொளி
+Document: ஆவணம்
+Address: முகவரி
+SelectionOptions: தேர்வு விருப்பங்கள்
+NavToolbarSelectionOptions:
+  Label: தேர்ந்தெடு
+RecycleBinItemAutomation: மறுசுழற்சி கூடை உருப்படி
+ShortcutItemAutomation: குறுக்குவழி உருப்படி
+Drives: இயக்ககங்கள்
+PinToSidebarByDraggingCaptionText: இங்கு நகர்த்து
+EjectNotificationHeader: வன்பொருள் வெளியேற்றுவது பாதுகாப்பானது
+EjectNotificationBody: சாதனம் இப்போது கணினியிலிருந்து பாதுகாப்பாக வெளியேற்றப்படலாம்.
+EjectNotificationErrorDialogHeader: சாதனத்தை வெளியேற்றுவதில் சிக்கல்
+EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
+Eject: வெளியேற்று
+DuplicateTab: Duplicate tab
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: தாவலைப் புது சாளரத்திற்கு நகர்த்து
+NewTab: புது தாவல்
+ClearPropertiesFlyoutText:
+  Text: சில பண்புகளில் தனிப்பட்ட தகவல்கள் இருக்கலாம்.
+ClearPropertiesButton:
+  Content: எல்லா பண்புகளையும் அழி
+OngoingTasksTeachingTip:
+  Subtitle: Check the status of file operations here
+  Title: நிலை மையம்
+SearchPagePathBoxOverrideText: "{1}'இல் {0}'இற்கான தேடல் முடிவுகள்"
+Details: விவரங்கள்
+No: இல்லை
+ShowProtectedSystemFiles: பாதுகாக்கப்பட்ட முறைமை கோப்புகளை காட்டு
+SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
+SettingsContextMenu:
+  Text: Customize the right click context menu
+OriginalPath: அசல் பாதை
+Add: சேர்
+Edit: திருத்து
+Remove: அகற்று
+SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
+ShowOpenInNewPane: Show option to open folders in a new pane
+ShowCopyPath: Show option to copy path
+ShowCreateFolderWithSelection: Show option to create folder with selection
+ShowCreateShortcut: Show option to create shortcut
+NavigationToolbarNewPane:
+  Label: New pane
+OpenInNewPane: Open in new pane
+FilesAndFolders: Files & folders
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: விவரங்கள் (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Tiles (Ctrl+Shift+2)
+DateDeleted: நீக்கப்பட்டத் தேதி
+SidebarCloudDrives: Cloud Drives
+Confirm: உறுதிசெய்
+DesiredName: விரும்பும் பேர்
+TogglePreviewPane: Toggle the preview pane
+ToggleDetailsPane: Toggle the details pane
+ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
+ToggleInfoPane: Toggle the info pane
+ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
+DetailsPanePreviewNotAvaliableText: எந்த முற்பார்வையும் இல்லை
+PropertyItemName: உருப்படி பேர்
+UnpinFolderFromSidebar: Unpin from Sidebar
+Network: பிணையம்
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: கோப்பு விவரங்கள்
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: கோப்பு முற்பார்வை
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Selected file preview pane
+Feedback: பின்னூட்டம்
+CloudDriveSyncStatus_Online: இணையத்திலுள்ளப்போதே கிடைக்கும்
+Documentation: Documentation
+CloudDriveSyncStatus_Offline: இணையமில்லாமலும் கிடைக்கும்
+CloudDriveSyncStatus_PartialOffline: Partially available offline
+CloudDriveSyncStatus_Sync: ஒத்திசைகிறது
+CloudDriveSyncStatus_Excluded: Excluded from sync
+ItemSizeNotCalculated: கணக்கிடப்படவில்லை
+CloudDriveSyncStatus_Unknown: தெரியாதவை
+RenameFileDialog:
+  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
+DriveTypeCDRom: CD ROM Drive
+DriveTypeCloudDrive: Cloud Drive
+DriveTypeFixed: Fixed Disk Drive
+DriveTypeFloppyDisk: நெகிழ் வட்டு இயக்ககம்
+DriveTypeNetwork: பிணைய இயக்ககம்
+DriveTypeNoRootDirectory: Unmounted Drive
+DriveTypeRam: RAM Disk Drive
+DriveTypeRemovable: Removable Storage Device
+DriveTypeUnknown: தெரியாதவை
+DriveTypeVirtualDrive: Virtual Drive
+DateCreated: உருவாக்கிய தேதி
+MoreOptions: கூடுதல் விருப்பங்கள்...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: பிணைய இயக்ககத்தை இணை
+Pinned: Pinned
+SidebarLibraries: கோப்பகங்கள்
+NoItemSelected: No item selected
+PropertyItemTarget: இலக்கு
+Arguments: இணைப்பு மாறிகள்
+Default: இயல்புநிலை
+PropertyItemCount: உருப்படி எண்ணிக்கை
+ElevateConfirmDialog:
+  Title: This action requires administrator rights
+  Content: Would you like to continue as administrator?
+ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+PinItemToStart:
+  Text: தொடக்க மெனுவில் பொருத்து
+UnpinItemFromStart:
+  Text: தொடக்க மெனுவிலிருந்து விடுவி
+Library: கோப்பகம்
+LibraryLocations:
+  Text: 'இருப்பிடங்கள்:'
+SetAsDefaultSavePath: இயல்புநிலை சேமிப்பு பாதையாக அமை
+LibraryNoLocations:
+  Text: இருப்பிடங்கள் இல்லை
+ErrorInputEmpty: Input field cannot be empty!
+ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
+ErrorNameInputRestricted: இந்த பேரைப் பயன்படுத்துவது அனுமதிக்கப்படுவது இல்லை!
+CreateLibraryErrorAlreadyExists: அதே பேருடன் கோப்பகம் ஏற்கனவே உள்ளது!
+OpenStorageSense: Open Storage Sense
+Copy: நகலெடு
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: நகர்த்து
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: தொடர்
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: நிரந்தரமாக நீக்கு
+PropertyISO: ISO வேகம்
+ReplaceExisting: Replace existing
+GenerateNewName: புது பேரை உருவாக்கு
+CreateFolderWithSelection: தேர்வுடன் கோப்புறையை உருவாக்கு
+ItemType: 'வகை:'
+ToolTipDescriptionDate: 'திருத்திய தேதி:'
+OpenWith: இதனுடன் திற
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: கோப்பு படவுரு
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Original path column
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Item type column
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Date modified column
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Date deleted column
+Sort: வரிசைப்படுத்து
+DateModifiedLowerCase: மாற்றப்பட்ட தேதி
+OriginalFolder: அசல் கோப்புறை
+Descending: இறங்குவரிசை
+ItemSizeText_Huge: மிகப்பெரிய
+ItemSizeText_VeryLarge: Very large
+ItemSizeText_Large: பெரிய
+ItemSizeText_Medium: நடுநிலை
+ItemSizeText_Small: சிறிய
+ItemSizeText_Tiny: மிகச்சிறிய
+Future: எதிர்காலம்
+Today: இன்று
+Yesterday: நேற்று
+EarlierThisWeek: இந்த வாரம் முதலில்
+LastWeek: கடந்த வாரம்
+EarlierThisMonth: இந்த மாதம் முதலில்
+LastMonth: கடந்த மாதம்
+EarlierThisYear: இந்த ஆண்டு முதலில்
+LastYear: கடந்த ஆண்டு
+YearN: "{0}'ஆம் ஆண்டு"
+GroupItemsCount_Singular: '{0} உருப்படி'
+GroupItemsCount_Plural: '{0} உருப்படிகள்'
+ReopenClosedTab: மூடிய தாவலை மீண்டும் திற
+Rename: மறுபேரிடு
+Privacy: தனியுரிமை
+TheRecycleBin: மறுசுழற்சி கூடை
+Canceling: இரத்துசெய்கிறது
+Clear: அழி
+Widgets: Widgets
+SyncStatus: ஒத்திசைவு நிலை
+Security: பாதுகாப்பு
+AdvancedPermissions: மேம்பட்ட அனுமதிகள்
+Allow: அனுமதி
+Deny: மறு
+SecurityFullControlLabel:
+  Text: முழு கட்டுப்பாடு
+SecurityListDirectoryLabel:
+  Text: List directory contents
+Modify: Modify
+SecurityPermissionsHeaderText: "{0}'இற்கான அனுமதிகள்"
+SecurityReadAndExecuteLabel:
+  Text: Read and execute
+SecurityReadLabel:
+  Text: படி
+SecurityUsersGroupLabel:
+  Text: குழு அல்லது பயனர் பேர்கள்
+Write: எழுது
+SecurityUnknownAccount: தெரியாத கணக்கு
+SecurityCannotReadProperties:
+  Text: இந்த பொருளின் பாதுகாப்பு பண்புகளை பார்க்க உங்களுக்கு அனுமதி இல்லை. தொடர, 'மேம்பட்ட அனுமதிகள்'-ஐ அழுத்தவும்.
+SecurityOwnerLabel:
+  Text: 'உரிமையாளர்:'
+SecurityUnknownOwnerText:
+  Text: அறியாத உரிமையாளர்
+ExtractArchive: காப்பகத்தை பிரித்தெடு
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Open destination folder when complete
+BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+SideBarCreateNewLibrary:
+  Text: புது கோப்பகத்தை உருவாக்கு
+SideBarRestoreLibraries:
+  Text: இயல்புநிலை கோப்பகங்களை மீட்டெடு
+DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
+DialogRestoreLibrariesTitleText: கோப்பகங்களை மீட்டெடு
+PropertyFileOwner: உரிமையாளர்
+SecuritySpecialLabel:
+  Text: சிறப்பு
+Access: அணுகல்
+SecurityAdvancedAppliesTo: இற்கு பொருந்தும்
+Principal: Principal
+SecurityAdvancedFlagsFilesLabel: கோப்புகள்
+SecurityAdvancedFlagsFolderLabel: இந்த கோப்புறை
+SecurityAdvancedFlagsSubfoldersLabel: துணைக்கோப்புறைகள்
+Inherited: Inherited
+Permissions: அனுமதிகள்
+SecurityAdvancedCannotReadProperties:
+  Text: இந்த பொருளின் பாதுகாப்பு பண்புகளைப் பார்க்க உங்களுக்கு அனுமதி இல்லை. பொருளின் உரிமையை எடுத்துகொள்ள நீங்கள் முயற்சிக்கலாம்.
+SecurityAdvancedFolderFiles:
+  Text: இந்த கோப்புறையும் அதன் கோப்புகளும்
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: இந்த கோப்புறை மற்றும் அதன் துணைக்கோப்புறைகளும் கோப்புகளும்
+SecurityAdvancedOnlyFiles:
+  Text: கோப்புகள் மட்டும்
+SecurityAdvancedOnlySubfolders:
+  Text: துணைக்கோப்புறைகள் மட்டும்
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: துணைக்கோப்புறைகளும் கோப்புகளும் மட்டும்
+SecurityAdvancedOnlyThisFolder:
+  Text: இந்த கோப்புறை மட்டும்
+SecurityAdvancedFolderSubfolders:
+  Text: இந்த கோப்புறையும் அதன் துணைக்கோப்புறைகளும்
+SecurityAppendDataLabel:
+  Text: தரவை சேர்த்தல்
+SecurityChangePermissionsLabel:
+  Text: அனுமதியை மாற்று
+SecurityCreateDirectoriesLabel:
+  Text: கோப்புறைகளை உருவாக்கு
+SecurityCreateFilesLabel:
+  Text: கோப்புகளை உருவாக்கு
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: துணைக்கோப்புறைகளையும் கோப்புகளையும் நீக்கு
+SecurityExecuteFileLabel:
+  Text: கோப்புகளை இயக்குதல்
+SecurityReadAttributesLabel:
+  Text: Read attributes
+SecurityReadDataLabel:
+  Text: தரவை படித்தல்
+SecurityReadExtendedAttributesLabel:
+  Text: Read extended attributes
+SecurityReadPermissionsLabel:
+  Text: Read permissions
+SecurityTakeOwnershipLabel:
+  Text: Take ownership
+SecurityTraverseLabel:
+  Text: கோப்புறையை காண்க
+SecurityWriteAttributesLabel:
+  Text: Write attributes
+SecurityWriteDataLabel:
+  Text: Write data
+SecurityWriteExtendedAttributesLabel:
+  Text: Write extended attributes
+SecurityAdvancedInheritedConvert:
+  Text: Convert inherited permissions into explicit permissions
+SecurityAdvancedInheritedEnable:
+  Text: Enable inheritance
+SecurityAdvancedInheritedRemove:
+  Text: Remove all inherited permissions
+SecurityAdvancedReplaceChildPermissions:
+  Text: Reset child permissions
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
+NavigationToolbarClosePane:
+  Label: பலகையை மூடு
+EnterCompactOverlay: Enter compact overlay
+ExitCompactOverlay: Exit compact overlay
+PropertyFileDescription: கோப்பு விளக்கம்
+PropertyCompany: நிறுவனம்
+PropertyLanguage: மொழி
+PropertyTrademarks: வர்த்தக முத்திரைகள்
+PropertyFileVersion: கோப்பு பதிப்பு
+PreviewPaneLoadCloudItemButton:
+  Text: முழு முற்பார்வையை ஏற்று
+  ToolTipService:
+    ToolTip: Downloads the item from the cloud and loads the preview
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Uncompressed size
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: '{0} பிரிவை மறை'
+AddFile: கோப்பை சேர்
+ConsentDialogTitle: புதுப்பிப்புகள் கிடைக்கின்றன
+ConsentDialogContent: புதுப்பிப்புகள் நிறுவ தயாராக உள்ளன
+Close: மூடு
+ConsentDialogPrimaryButtonText: புதுப்பி
+Home: முகப்பு
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: காப்பக பிரிப்பு வெற்றுகரமாக முடிந்தது.
+ExtractingArchiveText: காப்பகத்தை பிரிக்கிறது
+ExtractingCompleteText: பிரித்தெடுத்தல் முடிந்தது!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Open parent folder
+Unknown: Unknown
+EditTags: குறிக்குழுகளைத் திருத்து
+PropertyPartOfSet: Part of set
+InsertDiscDialog:
+  OpenDriveButton: Open drive
+  Text: Please insert a disc into drive {0}
+  Title: வட்டை சொருகவும்
+OK: சரி
+AskCredentialDialog:
+  Title: Credential required
+CredentialDialogAnonymous:
+  Content: பெயரில்லா
+CredentialDialogDescription:
+  Text: 'Provide your credential:'
+CredentialDialogUserName:
+  PlaceholderText: பயனர்பெயர்
+NoSearchResultsFound: உருப்படிகள் எதுவும் கண்டுப்பிடிக்கப்படவில்லை
+OpenLogLocation: பதிவுகோப்பு இருப்பிடத்தை திற
+LinkToFolderCaptionText: "{0}'இல் இணைப்பை உருவாக்கு"
+Columns: நெடுவரிசைகள்
+Tiles: டைல்கள்
+OpenFoldersInNewTab: கோப்புறைகளைப் புது தாவலில் திற
+StatusCenter: நிலை மையம்
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Date created column
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Item size column
+ExperimentalFeatureFlags: பரிசோதனை-வசதி அறிகுறிகள்
+HelpAndSupport: உதவியும் ஆதரவும்
+SubmitFeatureRequest: வசதி கோரிக்கை சமர்ப்பி
+SubmitBugReport: பிழை அறிக்கையை சமர்ப்பி
+SettingsSetAsDefaultFileManager: Set Files as the default file manager
+SettingsSetAsOpenDialog: Use Files as Open File Dialog
+Tag: குறிக்குழு
+SettingsOpenItemsWithOneClick: ஓர் அழுத்ததில் உருப்படிகளை திற
+FolderPath: கோப்புறை பாதை
+ExportSettings: அமைப்புகளை ஏற்றுமதி செய்
+ImportSettings: அமைப்புகளை இறக்குமதி செய்
+SettingsImportErrorDescription: அமைப்புகளை இறக்குமதி செய்ய முடியவில்லை. அமைப்புகள் கோப்பானது பாழடைந்துவிட்டது.
+SettingsImportErrorTitle: அமைப்புகளை இறக்குமதி செய்வதில் பிழை
+EmptyRecycleBin: மறுசுழற்சி கூடையை வெறுமையாக்கு
+Sidebar: பக்கப்பட்டி
+ChooseCustomIcon: Choose a custom folder icon
+Customization: தனிப்பயனாக்கம்
+RestoreDefault: இயல்புநிலையை மீட்டெடு
+OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
+StartupSettings: Startup settings
+Compatibility: இணக்கத்தன்மை
+None: எதுவுமில்லை
+CompatibilityOnWindowsLogin: On Windows login
+CompatibilityOnProgramStart: On this program start
+System: முறைமை
+CompatibilitySystemEnhanced: System (Enhanced)
+CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
+CompatibilityReducedColorModeColor8bit: 8-bit (256) color
+CompatibilityDisableFullscreenOptimizations: Disable full-screen optimizations
+CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
+CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
+CompatibilityReducedColorMode: Reduced color mode
+CompatibilityRegisterThisProgramForRestart: Register this program for restart
+RunAsAdministrator: நிர்வாகியாக இயக்கு
+CompatibilityRunTroubleshooter: Run compatibility troubleshooter
+CompatibilityUseDPISettings: Use DPI settings of the main monitor
+CompatibilityDoNotAdjustDPI: Do not adjust DPI
+CompatibilityDoNotOverrideDPI: Do not override DPI
+CompatibilityMode: இணக்கத்தன்மை பயன்முறை
+CompatibilityNoReducedColor: No reduced color
+ThirdPartyLicenses: மூன்றாம்-தரப்பு உரிமங்கள்
+SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
+FolderWidgetCreateNewLibraryDialogTitleText: கோப்பகத்தை உருவாக்கு
+FolderWidgetCreateNewLibraryInputPlaceholderText: கோப்பகப் பேரை உள்ளிடுங்கள்
+CalculateFolderSizes: கோப்புறை அளவுகளை கணக்கிடு
+RecentFiles: சமீபத்திய கோப்புகள்
+SettingsOpenInLogin: Windows தொடங்கும்போது Files'ஐ திற
+Attributes: பண்புக்கூறுகள்
+Hidden: மறைக்கப்பட்ட
+MoreDetails: மேலும் விவரங்கள்
+ReadOnly: படிக்க-மட்டும்
+CleanupDrive: Cleanup your drive contents
+Type: வகை
+Bytes: பைட்கள்
+Extract: பிரித்தெடு
+ExtractFiles: கோப்புகளை பிரித்தெடு
+ExtractHere: இங்கு பிரித்தெடு
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: "{0}'இற்கு பிரித்தெடு"
+RunScript: சிறுநிரலை இயக்கு
+RunWithPowerShell: PowerShell'உடன் இயக்கு
+ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
+RotateLeft: இடப்புறம் சுழற்று
+RotateRight: வலப்புறம் சுழற்று
+Install: நிறுவு
+CloseTabsToTheLeft: Close tabs to the left
+CloseTabsToTheRight: வலது பக்கம் இருக்கும் தாவல்களை மூடு
+CloseOtherTabs: மற்ற தாவல்களை மூடு
+Music: இசை
+Pictures: புகைப்படங்கள்
+UpdateFiles: Files-ஐ புதுப்பி
+FileTags: குறிக்குழுகள்
+Universal: Universal
+DateFormatSample: 'எ.கா: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Show thumbnails
+Retry: மீண்டும் முயல்க
+ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
+HiddenItems: மறைக்கபட்டுள்ள உருப்படிகள்
+Custom: தனிப்பயன்
+SetAsSlideshow: Set as desktop slideshow
+SizeAllColumnsToFit: Size all columns to fit
+Adaptive: Adaptive layout
+AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Show alternate data streams
+Behaviors: Behaviors
+ReviewFiles: Review Files
+ReviewFilesContent: Would you like to review Files?
+SetAsBackgroundFlyout: பின்புலமாக அமை
+SetAsBackground: திரைப்பலகப் பின்புலமாக அமை
+SetAsDefault: இயல்புநிலையாக அமை
+DateColumn: Date column
+DateCreatedColumn: Date created column
+SizeColumn: Size column
+TagColumn: Tag column
+TypeColumn: Type column
+Lockscreen: பூட்டுத்திரை
+OpenFolderWithOneClickColumnsLayout: Open folders with a single click in the Columns Layout
+OpeningItems: உருப்படிகளத் திறக்குது
+Compress: Compress
+SelectFilesAndFoldersOnHover: Select files and folders when hovering over them
+ConfirmRestoreBinDialogContent: Are you sure you want to restore all items in the recycle bin?
+ConfirmRestoreBinDialogTitle: எல்லா உருப்படியையும் மீட்டெடு
+ConfirmRestoreSelectionBinDialogContent: Do you want to restore the {0} selected item(s)?
+ConfirmRestoreSelectionBinDialogTitle: Restore selection
+RestoreAllItems: Restore All Items
+Restore: மீட்டெடு
+ShortcutCannotBeOpened: குறுக்குவழியை திறக்க முடியவில்லை
+DeleteShortcutDescription: The target destination cannot be found {0}. Do you want to delete this shortcut?
+AccessDeniedToFolder: You don't have permission to access this folder.
+ArchivePassword: காப்பகக் கடவுச்சொல்
+ExtractToPath: பாதை
+SortingAndGrouping: Sorting and grouping
+CreateArchive: காப்பகத்தை உருவாக்கு
+Create: உருவாக்கு
+CreateNamedArchive: '{0}-ஐ உருவாக்கு'
+EnterName: ஒரு பேரை உள்ளிடுங்கள்
+CompressionLevel: Compression level
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: High
+CompressionLevelNormal: Normal
+CompressionLevelLow: Low
+CompressionLevelFast: Fast
+CompressionLevelNone: எதுவுமில்லை
+SplittingSize: Splitting size
+Do not split: Do not split
+CD: குறுந்தட்டு
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: குறியாக்கம்
+Password: கடவுச்சொல்
+Format: வடிவமைப்பு
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Sync status column
+GroupBy: இதன்படி குழுப்படுத்து
+SortBy: இதன்படி வரிசைப்படுத்து
+GroupInDescendingOrder: Group in descending order
+SortInDescendingOrder: Sort in descending order
+NewShortcutDialogTitle: ஒரு குறுக்குவழியை உருவாக்கு
+NewShortcutDialogDescription: Create shortcuts to local or network programs, files, folders, computers or Internet addresses.
+NewShortcutDialogPrompt: 'உருப்படியின் இருபிடத்தை உள்ளிடுங்கள்:'
+AddDialogListShortcutSubHeader: ஒரு குறுக்குவழியை உருவாக்கும்
+RecentFilesDisabledOnWindowsWarning: Recently used files is currently disabled in Windows File Explorer.
+EditSettingsFile: அமைப்புகள் கோப்பைத் திருத்து
+WhatsNew: புதிது என்ன
+CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
+CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
+ErrorDialogNameNotAllowed: கொடுதுள்ள பேர் செல்லதது
+Settings: அமைப்புகள்
+DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
+ViewMore: மேலும் காண்க
+ShowEditTagsMenu: Show edit tags flyout
+ShowCompressionOptions: Show compression options
+ShowSendToMenu: இற்கு அனுப்பு மெனுவை காட்டு
+ShowOpenInNewTab: Show option to open folders in a new tab
+ShowOpenInNewWindow: Show option to open folders in a new window
+QuickAccess: விரைவு அணுகல்
+NetworkAuthenticationDialogMessage: 'Enter your credentials to connect to: {0}'
+NetworkAuthenticationDialogTitle: Enter network credentials
+NetworkAuthenticationSaveCheckbox: Remember my credentials
+NetworkFolderErrorDialogTitle: பிணைய-கோப்புறை பிழை
+AppVersion: நிரல் பதிப்பு
+WindowsVersion: Windows பதிப்பு
+Always: எப்போதும்
+PermanentDeletionOnly: நிரந்திர நீக்கம் மட்டும்
+Never: எப்போதுமில்லை
+TagColor: குறிக்குழு வண்ணம்
+NewTag: புது குறிக்குழு
+CreateNewTag: புது குறிக்குழுவை உருவக்கு
+Loading: ஏற்றுது...
+ContextMenuOptions: Context menu options
+ShowFileExtensions: கோப்பு நீட்டிப்புகளைக் காட்டு
+ShowHiddenItems: மறைக்கப்பட்ட உருப்படிகளைக் காட்டு
+FormatDriveText: வடிவமை...
+Help: உதவி
+FullScreen: Toggle full screen
+ConfirmDeleteTag: Are you sure you want to delete this tag?
+PlayAll: அனைத்தயும் இயக்கு
+Height: உயரம்
+Width: அகலம்
+ApplyToAllConflictingItems: Apply this action to all conflicting items
+OpenTerminal: Windows முனையத்தில் திற
+OpenTerminalAsAdmin: Windows முனையத்தில் நிர்வாகியாகத் திற
+Save: சேமி
+MultiSelect: Multiselect
+ReorderSidebarItemsDialogText: Reorder sidebar items
+Hashes: Hashes
+CalculationError: கணக்கிடும்போது ஒரு பிழை ஏற்பட்டது
+CalculationErrorFileIsOpen: Failed to calculate the hash, please close the file and try again.
+CalculationOnlineFileHashError: Hashes aren't available for online files
+Algorithm: வழிமுறை
+HashValue: Hash value
+SelectHashesToShow: Select hashes to show
+Calculating: கணக்கிடுது...
+JumpListPinnedGroupHeader: பொருத்தப்பட்ட உருப்படிகள்
+DecreaseSize: அளவை குறை
+IncreaseSize: அளவை அதிகரி
+ToggleSortDirection: Toggle sort direction
+InvalidTagNameWarning: செல்லாத பேர்
+TagNameRules: Name must not be empty or start or end with a period.
+Videos: காணொளிகள்
+LaunchPreviewPopup: Launch preview popup
+ToggleCompactOverlay: Toggle compact overlay
+OpenHelpDescription: இணைய-உதவி பக்கத்தை உலாவியில் திற
+ToggleFullScreenDescription: Toggle full screen
+EnterCompactOverlayDescription: Enter compact overlay
+ExitCompactOverlayDescription: Exit compact overlay
+ToggleCompactOverlayDescription: Toggle compact overlay
+SearchDescription: தேடல் பெட்டிக்குப் போ
+ToggleShowHiddenItemsDescription: Toggle whether to show hidden items
+ToggleShowFileExtensionsDescription: Toggle whether to show file extensions
+TogglePreviewPaneDescription: Toggle the preview pane to view file previews
+ToggleSidebarDescription: Toggle whether to show sidebar
+CopyItemDescription: நகலகத்திற்கு உருப்படி(கள்)-ஐ நகலெடு
+CopyPathDescription: தேர்ந்தெடுத்துள்ள உருப்படிகளின் பாதையை நகலகத்தில் நகலெடு
+CopyPathWithQuotesDescription: தேர்ந்தெடுத்துள்ள உருப்படிகளின் பாதையை மேற்கோள்குறியுடன் நகலகத்தில் நகலெடு
+CutItemDescription: நகலகத்திற்கு உருப்படி(கள்)-ஐ வெட்டு
+PasteItemDescription: நகலகத்திலுள்ள உருப்படி(கள்)-ஐ தற்போதய கோப்புறையில் ஒட்டு
+PasteItemToSelectionDescription: நகலகத்திலுள்ள உருப்படி(கள்)-ஐ தேர்ந்தெடுத்துள்ள கோப்புறையில் ஒட்டு
+DeleteItemDescription: உருப்படி(கள்)-ஐ நீக்கு
+CreateFolderDescription: புது கோப்புறையை உருவாக்கு
+CreateShortcutDescription: Create new shortcut(s) to selected item(s)
+CreateShortcutFromDialogDescription: Create new shortcut to any item
+EmptyRecycleBinDescription: மறுசுழற்சி கூடையை வெறுமையாக்கு
+FormatDriveDescription: Open "Format Drive" menu for selected item
+RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
+RestoreAllRecycleBinDescription: Restore all items from recycle bin
+OpenItemDescription: உருப்படி(கள்)-ஐ திற
+OpenItemWithApplicationPickerDescription: Open item(s) with selected application
+OpenParentFolderDescription: Open parent folder of searched item
+RefreshItemsDescription: பக்க உள்ளடங்களைப் புதுப்பி
+RenameDescription: தேர்ந்தெடுத்துள்ள உருப்படியை மறுபேரிடு
+SelectAllDescription: எல்லா உருப்படிகளையும் தேர்ந்தெடு
+InvertSelectionDescription: Invert item selection
+ClearSelectionDescription: உருப்படி தேர்வை அழி
+ToggleSelectDescription: Toggle item selection
+ShareItemDescription: தேர்ந்தெடுதுள்ள உருப்படி(கள்)-ஐ மற்றவருடன் பகிர்
+PinToStartDescription: தொடக்க மெனுவில் உருப்படி(கள்)-ஐ பொருத்து
+UnpinFromStartDescription: தொடக்க மெனுவிலிருந்து உருப்படி(கள்)-ஐ விடுவு
+PinFolderToSidebarDescription: Pin folder(s) to Sidebar
+UnpinFolderFromSidebarDescription: Unpin folder(s) from Sidebar
+SetAsWallpaperBackgroundDescription: தேர்ந்தெடுத்துள்ள புகைப்படத்தைத் திரைப்பலகப் பின்புலமாக அமை
+SetAsSlideshowBackgroundDescription: Set selected pictures as desktop slideshow
+SetAsLockscreenBackgroundDescription: தேர்ந்தெடுத்துள்ள புகைப்படத்தைப் பூட்டுத்திரை பின்புலமாக அமை
+SetAsAppBackgroundDescription: Set selected picture as the app background
+InstallFontDescription: தேர்ந்தெடுத்துள்ள எழுத்துரு(கள்)-ஐ நிறுவு
+InstallInfDriverDescription: தேர்ந்தெடுத்துள்ள inf கோப்பு(கள்) மூலம் இயக்குநிரல்(கள்)-ஐ நிறுவு
+InstallCertificateDescription: தேர்ந்தெடுத்துள்ள சான்றிதழ்(கள்)-ஐ நிறுவு
+RunAsAdminDescription: தேர்ந்தெடுத்துள்ள நிரலை நிர்வாகியாக இயக்கு
+RunAsAnotherUserDescription: தேர்ந்தெடுத்துள்ள நிரலை வேறோரு பயனராக இயக்கு
+RunWithPowershellDescription: தேர்ந்தெடுத்துள்ள PowerShell சிறுநிரலை இயக்கு
+LaunchPreviewPopupDescription: Launch preview in popup window
+CompressIntoArchiveDescription: தேர்ந்தெடுத்துள்ள உருப்படி(கள்)-உடன் காப்பகத்தை உருவாக்கு
+CompressIntoSevenZipDescription: Create 7z archive instantly with selected item(s)
+CompressIntoZipDescription: Create zip archive instantly with selected item(s)
+DecompressArchiveDescription: Extract items from selected archive(s) to any folder
+DecompressArchiveHereDescription: Extract items from selected archive(s) to current folder
+DecompressArchiveToChildFolderDescription: Extract items from selected archive(s) to new folder
+RotateLeftDescription: தேர்ந்தெடுத்துள்ள படம்(கள்)-ஐ இடப்புறமாகச் சுழற்று
+RotateRightDescription: தேர்ந்தெடுத்துள்ள படம்(கள்)-ஐ வலப்புறமாகச் சுழற்று
+OpenSettingsDescription: அமைப்புகள் பக்கத்தைத் திற
+OpenTerminalDescription: முனையத்தில் கோப்புறையைத் திற
+OpenTerminalAsAdminDescription: நிர்வாகியாக முனையத்தில் கோப்புறையைத் திற
+LayoutDecreaseSizeDescription: Decrease item size in the current view
+LayoutIncreaseSizeDescription: Increase item size in the current view
+LayoutDetailsDescription: விவரக் காட்டிக்கு மாறு
+LayoutTilesDescription: டைல் காட்சிக்கு மாறு
+LayoutListDescription: பட்டியல் காட்சிக்கு மாறு
+List: பட்டியல்
+Grid: Grid
+LayoutGridDescription: Switch to grid view
+LayoutColumnsDescription: Switch to columns view
+LayoutAdaptiveDescription: Switch views adaptively
+SortByNameDescription: பேரால் உருப்படிகளை வரிசைப்படுத்து
+SortByDateModifiedDescription: திருத்தப்பட்ட தேதியால் உருப்படிகளை வரிசைப்படுத்து
+SortByDateCreatedDescription: உருவாக்கப்பட்ட தேதியால் உருப்படிகளை வரிசைப்படுத்து
+SortBySizeDescription: அளவால் உருப்படிகளை வரிசைப்படுத்து
+SortByTypeDescription: வகையால் உருப்படிகளை வரிசைப்படுத்து
+SortBySyncStatusDescription: ஒத்திசைவு நிலையால் உருப்படிகளை வரிசைப்படுத்து
+SortByTagDescription: குறிக்குழுகளால் உருப்படிகளை வரிசைப்படுத்து
+SortByOriginalFolderDescription: அசல் கோப்புறையால் உருப்படிகளை வரிசைப்படுத்து
+SortByDateDeletedDescription: நீக்கப்பட்ட தேதியால் உருப்படிகளை வரிசைப்படுத்து
+SortAscendingDescription: Sort items in ascending order
+SortDescendingDescription: Sort items in descending order
+ToggleSortDirectionDescription: Toggle item sort direction
+GroupByNoneDescription: குழுப்படுத்தாமல் உருப்படிகளைப் பட்டியலிடு
+GroupByNameDescription: பேரால் உருப்படிகளைக் குழுப்படுத்து
+GroupByDateModifiedDescription: திருத்தப்பட்ட தேதியால் உருப்படிகளை குழுப்படுத்து
+GroupByDateCreatedDescription: உருவாக்கப்பட்ட தேதியால் உருப்படிகளை குழுப்படுத்து
+GroupBySizeDescription: அளவால் உருப்படிகளைக் குழுப்படுத்து
+GroupByTypeDescription: வகையால் உருப்படிகளைக் குழுப்படுத்து
+GroupBySyncStatusDescription: ஒத்திசைவு நிலையால் உருப்படிகளைக் குழுப்படுத்து
+GroupByTagDescription: குறிக்குழுகளால் உருப்படிகளைக் குழுப்படுத்து
+GroupByOriginalFolderDescription: அசல் கோப்புறையால் உருப்படிகளைக் குழுப்படுத்து
+GroupByDateDeletedDescription: நீக்கப்பட்ட தேதியால் உருப்படிகளைக் குழுப்படுத்து
+GroupByFolderPathDescription: கோப்புறை பாதையால் உருப்படிகளைக் குழுப்படுத்து
+GroupAscendingDescription: Sort groups in ascending order
+GroupDescendingDescription: Sort groups in descending order
+ToggleGroupDirectionDescription: Toggle group sort direction
+NewTabDescription: புது தாவலைத் திற
+NavigateBackDescription: Navigate backward in navigation history
+NavigateForwardDescription: Navigate forward in navigation history
+NavigateUpDescription: Navigate up one directory
+DuplicateCurrentTabDescription: Duplicate current tab
+DuplicateSelectedTabDescription: Duplicate selected tab
+CloseTabsToTheLeftCurrentDescription: Close tabs to the left of current tab
+CloseTabsToTheLeftSelectedDescription: Close tabs to the left of selected tab
+CloseTabsToTheRightCurrentDescription: Close tabs to the right of current tab
+CloseTabsToTheRightSelectedDescription: Close tabs to the right of selected tab
+CloseOtherTabsCurrentDescription: Close tabs other than current tab
+CloseOtherTabsSelectedDescription: தேர்ந்தெடுத்துள்ள தாவலை தவிர மற்றதை மூடு
+ReopenClosedTabDescription: கடைசியாக மூடிய தாவலை மீண்டும் திற
+PreviousTabDescription: Move to the previous tab
+NextTabDescription: Move to the next tab
+CloseSelectedTabDescription: தற்போதைய தாவலை மூடு
+OpenNewPaneDescription: Open new pane
+ClosePaneDescription: Close right pane
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Toggle the sidebar
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Space
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Left
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Right
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Down
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: மேல்
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: முகப்பு
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sleep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: அழி
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: உதவி
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: நிரல்
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: நிரல்2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: நிரல்2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: GoHome
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GoBack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: GoForward
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: BrowserRefresh
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Search
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: பிடித்தவை
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PrevTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: NextTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelect
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Mute
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: VolDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: VolUp
+Change: மாற்று
+ToggleSelect: Toggle selection
+ShowFileExtensionWarning: கோப்பு நீட்டிப்புகளை மாற்றும்போது எச்சரிக்கை காட்டு
+ThisPC: இந்த PC
+RecycleBin: மறுசுழற்சி கூடை
+Untagged: Untagged
+PreviousTab: Moves to the previous tab
+NextTab: Moves to the next tab
+CloseTab: தற்போதைய தாவலை மூடும்
+EditPath: பாதையைத் திருத்து
+Redo: Redo
+Undo: செயல்தவிர்
+InvalidLocation: இல்லாத இருப்பிடம்
+CopyFileWithoutProperties: Are you sure you want to copy these files without their properties?
+FilePropertiesCannotBeCopied: These files have properties that can't be copied to the new location
+FilePropertiesCannotBeMoved: These files have properties that can't be moved to the new location
+MoveFileWithoutProperties: Are you sure you want to move these files without their properties?
+ShowCheckboxesWhenSelectingItems: Show checkboxes when selecting items
+EditPathDescription: Focus path bar
+AddItemDescription: புது உருப்படியை உருவாக்கு
+SecurityNoAccessControlEntriesText: No groups or users have permission to access this object. However, the owner of this object can assign permissions.
+OpenFileLocationDescription: உருப்படியின் இருப்பிடத்தைத் திற
+DeletePermanently: நிரந்தரமாக நீக்கு
+DeleteItemPermanentlyDescription: உருப்படி(கள்)-ஐ நிரந்தரமாக நீக்கு
+PlayAllDescription: தேர்ந்தெடுத்துள்ள ஊடகக் கோப்புகளை இயக்கு
+UndoDescription: Undo the last file operation
+RedoDescription: Redo the last file operation
+Location: 'இருப்பிடம்:'
+GroupByMonthDescription: மாதத்தால் உருப்படிகளைக் குழுப்படுத்து
+GroupByYearDescription: ஆண்டால் உருப்படிகளைக் குழுப்படுத்து
+Month: மாதம்
+Day: நாள்
+ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
+ToggleGroupingUnit: Toggle grouping unit
+Year: ஆண்டு
+GroupByDateUnit: Group by date unit
+GroupByDateCreatedDayDescription: Group items by day of date created
+GroupByDateCreatedMonthDescription: Group items by month of date created
+GroupByDateCreatedYearDescription: Group items by year of date created
+GroupByDateDeletedDayDescription: Group items by day of date deleted
+GroupByDateDeletedMonthDescription: Group items by month of date deleted
+GroupByDateDeletedYearDescription: Group items by year of date deleted
+GroupByDateModifiedDayDescription: Group items by day of date modified
+GroupByDateModifiedMonthDescription: Group items by month of date modified
+GroupByDateModifiedYearDescription: Group items by year of date modified
+SecurityClickAdvancedPermissions: Click 'Advanced permissions' to continue.
+SecurityRequireReadPermissions: You must have Read permissions to view the properties of this item.
+SecuritySuggestToTakeOwnership: To try taking ownership of the item, which includes permission to view its properties, click Change above.
+SecurityUnableToDisplayPermissions: அனுமதிகளைக் காட்ட முடியவில்லை.
+StashChanges: "'{0}'-இல் என் மாற்றங்களை விடு"
+DiscardChanges: என் மாற்றங்களை நிராகரி
+BringChanges: "'{0}'-கு எனது மாற்றங்களைக் கொண்டு வா"
+UncommittedChanges: You have uncommitted changes on this branch. What would you like to do with them?
+SwitchBranch: கிளையை மாற்று
+Branches: கிளைகள்
+Switch: மாறு
+NewBranch: புது கிளை
+InvalidBranchName: செல்லாத கிளை பேர்
+CreateBranch: கிளையை உருவாக்கு
+CreateNewBranch: கிளையை உருவாக்கு
+BasedOn: Based on
+SwitchToNewBranch: புது கிளைக்கு மாறு
+CreateFolderWithSelectionDescription: தற்போது தேர்ந்தெடுத்துள்ள உருப்படி(கள்)-உடன் ஒரு கோப்புறையை உருவாக்கு
+OpenProperties: பண்புகளை திற
+OpenPropertiesDescription: பண்புகள் சாளரத்தை திற
+Locals: உள்ளகங்கள்
+Remotes: தொலைவுகள்
+ImproveTranslation: Crowdin-இல் மொழிபெயருங்கள்
+GitFetch: Fetch
+GitPull: இழு
+GitFetchDescription: git fetch-ஐ இயக்கு
+GitPullDescription: git pull-ஐ இயக்கு
+Preview: முற்பார்வை
+GitStatus: Git நிலை
+GitError: Git பிழை
+PullTimeoutError: git pull failed due to a timeout error
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (பல மதிப்புகள்)
+Author: ஆசிரியர்
+DateCommitted: Date committed
+CommitMessage: Commit message
+CommitSha: Commit SHA
+Git: Git
+Acrylic: அக்ரிலிக்
+Mica: மைக்கா
+MicaAlt: மாற்று மைக்கா
+BackdropMaterial: Backdrop Material
+Solid: Solid
+ManageBranches: கிளைகளை நிர்வகி
+Push: தள்ளு
+GitPushDescription: git push-ஐ இயக்கு
+GitSync: ஒத்திசை
+GitSyncDescription: git pull-ஐ இயக்கி பிறகு git push-ஐ இயக்கு
+GitSyncStatusExtendedInfo: '{0} outgoing / {1} incoming commits'
+ConnectGitHub: GitHub-உடன் இணை
+ConnectGitHubDescription: Enter the following code at the link below to start working with GitHub repositories.
+CannotReachGitHubError: Files-ஆல் தற்போது GitHub-ஐ அணுக முடியவில்லை.
+OpenInVSCode: கோப்புறையை VS Code-இல் திற
+OpenInVSCodeDescription: தற்போதய கோப்புறையை Visual Studio-இல் திற
+OpenRepoInVSCode: களஞ்சியத்தை VS Code-இல் திற
+OpenRepoInVSCodeDescription: Open the root of the Git repo in Visual Studio Code
+CopyCode: குறியீட்டை நகலெடு
+Added: Added
+Deleted: Deleted
+Modified: Modified
+Untracked: Untracked
+UnableToDisplayOwner: Unable to display current owner.
+AuthorizationSucceded: Great! You are now authorized.
+InitRepo: களஞ்சியத்தை துவங்கிவை
+InitRepoDescription: ஒரு Git களஞ்சியத்தை துவங்கு
+GitOriginRepositoryName: தொலைநிலை-களஞ்சியப் பேர்
+GitCurrentBranch: தற்போதய கிளை
+PathColumn: Path column
+SortByPathDescription: பாதையால் உருப்படிகளை வரிசைப்படுத்து
+OpenDirectoryInNewPaneDescription: Open directory in new pane
+OpenDirectoryInNewTabDescription: கோப்புறையை புது தாவலில் திற
+OpenInNewWindowDescription: கோப்புறையை புது சாளரத்தில் திற
+OpenAllTaggedItems: எல்லாவற்றையும் திற
+OpenAllTaggedItemsDescription: Open all tagged items
+#{0} is the drive letter.
+DriveWithLetter: Drive ({0})
+InvalidCommand: செல்லாத கட்டளை
+InvalidCommandContent: "'{0}' கட்டளையாய் அறியப்படவில்லை."
+CommandNotExecutable: Command not executable
+CommandNotExecutableContent: The '{0}' command is not ready to be executed.
+CommandPalette: Command palette
+OpenCommandPaletteDescription: Open command palette
+ShortcutItemWorkingDir: 'இல் தொடங்கு:'
+TurnOnBitLocker: BitLocker-ஐ துவங்கு
+ManageBitLocker: BitLocker-ஐ நிர்வகி
+CopyFailureFileToLarge: The following items are too large to be copied to this drive
+FormatDrive: Format drive
+DontShowAgain: இனிமேல் காட்டாதே
+FilesRunningAsAdmin: நீர்வாகியாக Files இயங்குது
+FilesRunningAsAdminContent: Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.
+SettingsLeaveAppRunning: சாளரத்தை மூடிய பிறகும் நிரலை பின்புலத்தில் இயங்க விடு
+#One of the custom color themes
+Blue: நீலம்
+#One of the custom color themes
+BlueGray: நீலச் சாம்பல்
+#One of the custom color themes
+BrickRed: Brick Red
+#One of the custom color themes
+Camouflage: Camouflage
+#One of the custom color themes
+CoolBlueBright: Cool Blue Bright
+#One of the custom color themes
+Gray: சாம்பல்
+#One of the custom color themes
+GrayDark: Gray Dark
+#One of the custom color themes
+Green: பச்சை
+#One of the custom color themes
+IrisPastel: Iris Pastel
+#One of the custom color themes
+MintLight: Mint Light
+#One of the custom color themes
+ModRed: Mod Red
+#One of the custom color themes
+OrangeBright: Orange Bright
+#One of the custom color themes
+Overcast: Overcast
+#One of the custom color themes
+Red: சிவப்பு
+#One of the custom color themes
+RoseBright: Rose Bright
+#One of the custom color themes
+Seafoam: Seafoam
+#One of the custom color themes
+Storm: Storm
+#One of the custom color themes
+VioletRedLight: ஊதா-சிவப்பு ஒளி
+#One of the custom color themes
+YellowGold: மஞ்சள் தங்கம்
+ClearCompleted: அழிப்பு முடிக்கப்பட்டது
+NameWithColon: 'பேர்:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
+ItemsLower: உருப்படிகள்
+CannotInitializeGitRepo: இந்த கோப்புறையை Git களஞ்சியமாய் Files-ஆல் துவங்கிவைக்க முடியவில்லை.
+ContributingArtist: Contributing Artist
+AddPage: பக்கத்தை சேர்
+ProcessingItems: Processing items...
+SpeedWithColon: 'வேகம்:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Canceled compressing {0} items to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Canceled compressing {0} items from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Compressed {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Compressed {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Error compressing {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Failed to compress {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Compressing {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Compressing {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Canceled copying {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Canceled copying {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Copied {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Copied {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Error copying {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Failed to copy {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Copying {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Copying {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Canceled extracting "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Canceled extracting "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Extracted "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Extracted "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Error extracting "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Failed to extract "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Extracting "{0}" to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Extracting "{0}" from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Canceled deleting {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Deleted {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Error deleting {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Failed to delete {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Deleting {0} item(s) from "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Canceled moving {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Canceled moving {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Moved {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Moved {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Moving {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Moving {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Error moving {0} item(s) to "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Failed to move {0} item(s) from "{1}" to "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Canceled emptying Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Emptied Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Emptying Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: மறுசுழற்சி கூடையை வெறுமையப்பதில் பிழை
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Failed to empty Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Preparing the operation...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} item(s) processed'
+UnblockDownloadedFile: பதிவிறக்கப்பட்ட கோப்புறையைத் தடைநீக்கு
+NoFileOperations: No ongoing file operations
+OpenOnStartupDisabled: The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.
+FailedToRestore: Failed to restore items from Recycle Bin
+FailedToSetBackground: Failed to set the background wallpaper
+GitDeleteBranch: Git கிளையை நீக்கு
+GitDeleteBranchSubtitle: Are you sure you want to permanently delete "{0}" branch?
+ConnectedToGitHub: GitHub-உடன் இணைக்கப்பட்டிருக்கு
+Logout: வெளியேறு
+ConnectToGitHub: GitHub-உடன் இணை
+Login: உள்நுழை
+ErrorApplyingTagContent: Tags are currently only compatible on drives formatted as NTFS.
+ErrorApplyingTagTitle: There was an error applying this tag
+DecompressArchiveHereSmartDescription: Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive
+ExtractHereSmart: இங்கு பிரித்தெடு (திறன்)
+SortFilesAndFoldersTogether: Sort files and folders together
+SortFilesAndFoldersTogetherDescription: Sort files and folders together
+SortFilesFirst: கோப்புகளை முதலில் வரிசைப்படுத்து
+SortFilesFirstDescription: கோப்புகளை முதலிலும் கோப்புறைகளை பிறகும் வரிசைப்படுத்து
+SortFoldersFirst: கோப்புறைகளை முதலில் வரிசைப்படுத்து
+SortFoldersFirstDescription: Sort folders first then files
+SortPriority: Sort priority
+FailedToRotateImage: Failed to rotate the image
+Restart: Restart
+Quit: வெளியேறு
+FaildToShareItems: Failed to share items
+ScrollToPreviousFolderWhenNavigatingUp: Scroll to previous folder when navigating up
+NewWindowDescription: புது சாளரத்தை திற
+ChangeAlbumCover: ஆல்ப உறையை மாற்று
+ItemRenameFailed: Failed to rename item
+HigherPermissionsRequired: Editing "{0}" requires additional permissions
+EditPermissions: Edit permissions
+BackgroundRunningNotificationBody: Files is still running in the background to improve startup performance.
+BackgroundRunningNotificationHeader: Where did Files go?
+QuestionsAndDiscussions: Questions & discussions
+TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
+#Used to describe layout sizes
+Compact: Compact
+#Used to describe layout sizes
+Small: சிறிய
+#Used to describe layout sizes
+Medium: நடுநிலை
+#Used to describe layout sizes
+Medium+: Medium +
+#Used to describe layout sizes
+Medium++: Medium ++
+#Used to describe layout sizes
+Medium+++: Medium +++
+#Used to describe layout sizes
+Medium++++: Medium ++++
+#Used to describe layout sizes
+Medium+++++: Medium +++++
+#Used to describe layout sizes
+Large: பெரிய
+#Used to describe layout sizes
+Large+: Large +
+#Used to describe layout sizes
+Large++: Large ++
+#Used to describe layout sizes
+Large+++: Large +++
+#Used to describe layout sizes
+ExtraLarge: Extra large
+DetailsView: Details view
+LayoutType: Layout type
+Actions: Actions
+Commands: Commands
+AddCommand: Add command
+RestoreDefaults: Restore defaults
+ChooseAnAction: Choose an action
+RestoreDefaultKeybindingsConfirmation: Are you sure you want to restore the default key bindings? This action cannot be undone.
+KeybindingAlreadyUsedNotification: This key binding is already being used, please choose a different key binding to continue.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Customized
+AdaptiveLayoutDisabledNotification: Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.
+BackgroundImage: Background image
+#Image alignment type
+Bottom: Bottom
+#Image alignment type
+Center: Center
+#Image stretch type
+Fill: Fill
+HorizontalAlignment: Horizontal alignment
+ImageFit: Image fit
+#Image alignment type
+Left: Left
+Opacity: Opacity
+#Image alignment type
+Right: Right
+#Image alignment type
+Top: Top
+#Image stretch type
+Uniform: Uniform
+#Image stretch type
+UniformToFill: Uniform to fill
+VerticalAlignment: Vertical alignment
+#This is a type of backdrop for the application background
+ThinAcrylic: Thin Acrylic
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Show for all locations
+DevTools: Developer tools
+DisplayOpenIDE: Configure the "Open IDE" button on the status bar
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Show for Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Application extension
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO File
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip File
+#This is the friendly name for bitmap files.
+BitmapFiles: Bitmap Files
+NumPadTypeName: Num
+NetworkLocations: Network locations
+NoNetworkLocationsInfo: There are no network locations. If you don't use network locations, you can disable the widget.
+Disable: Disable
+EditInNotepad: Edit in Notepad
+EditInNotepadDescription: Edit the selected file in Notepad

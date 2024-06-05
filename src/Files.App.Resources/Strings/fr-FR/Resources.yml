@@ -1,0 +1,1467 @@
+NewWindow: Nouvelle fenêtre
+CopyPath: Copier le chemin
+CopyPathWithQuotes: Copier le chemin entre guillemets
+Browse: Parcourir
+Size: Taille
+PropertiesCreated:
+  Text: 'Créé :'
+Path: Chemin
+SizeLabel: 'Taille :'
+SizeOnDiskLabel: 'Taille sur le disque :'
+UncompressedSize: 'Taille décompressée :'
+ErrorDialogThisActionCannotBeDone: Cette action ne peut pas être effectuée
+ErrorDialogTheDestinationFolder: Le dossier de destination
+ErrorDialogIsASubfolder: est un sous-dossier du dossier source
+Skip: Passer
+SelectAll: Sélectionner tout
+InvertSelection: Inverser la sélection
+ClearSelection: Effacer la sélection
+PropertiesModified:
+  Text: 'Modifié :'
+Accessed: 'Accédé :'
+RecentItemClearAll:
+  Text: Supprimer tous les éléments
+NavigationToolbarVisiblePath:
+  PlaceholderText: Entrez un chemin pour naviguer ou tapez ">" pour ouvrir la palette de commandes
+Search: Rechercher
+RecentItemDescription:
+  Text: Les fichiers précédemment ouverts s'afficheront ici
+RecentItemRemove:
+  Text: Supprimer cet élément
+OpenGitHubRepo: Dépôt GitHub
+About: À propos
+OpenSource: Libre de droits
+DateFormat: Format de date
+SettingsAppearanceTheme: Thème
+SettingsFilesAndFoldersShowFileExtensions: Afficher les extensions des types de fichiers connus
+SettingsFilesAndFoldersShowHiddenItems: Afficher les fichiers et dossiers cachés
+ShowDotFiles: Afficher les fichiers dont le nom commence par un point
+Appearance: Apparence
+BackgroundColor: Couleurs du fond
+Advanced: Avancé
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Continuez là où vous vous êtes arrêté
+SettingsOnStartupOpenANewTab:
+  Content: Ouvrir un nouvel onglet
+SettingsOnStartupOpenASpecificPage:
+  Content: Ouvrir un ensemble de pages
+Desktop: Bureau
+Documents: Documents
+Downloads: Téléchargements
+Name: Nom
+Ascending: Croissant
+Paste: Coller
+BaseLayoutContextFlyoutNew:
+  Label: Nouveau
+Properties: Propriétés
+Open: Ouvrir
+OpenInNewTab: Ouvrir dans un nouvel onglet
+OpenInNewWindow: Ouvrir dans une nouvelle fenêtre
+Share: Partager
+Cut: Couper
+Delete: Supprimer
+PinFolderToSidebar: Épingler à la barre latérale
+WelcomeDialog:
+  Title: Bienvenue dans Files !
+  PrimaryButtonText: Accorder l'autorisation
+WelcomeDialogTextBlock:
+  Text: Pour commencer, vous devrez nous accorder l'autorisation d'afficher vos fichiers. Cela ouvrira une page de paramètres où vous pourrez nous accorder cette autorisation. Vous devrez relancer l'application une fois cette étape terminée.
+Display: Affichage
+EnterAnItemName: Entrez un nom d'élément
+RenameDialog:
+  PrimaryButtonText: Définir le nom
+LightTheme: Clair
+DarkTheme: Sombre
+Application: Application
+SystemTimeStyle: Système
+NewFolder: Nouveau dossier
+NewFile: Nouveau fichier
+EmptyFolder:
+  Text: Ce dossier est vide.
+Back: Précédent
+Forward: Suivant
+Up: Haut
+Refresh: Rafraîchir
+ItemAlreadyExistsDialogContent: Un élément avec ce nom existe déjà dans ce dossier.
+ItemAlreadyExistsDialogSecondaryButtonText: Remplacer l'élément existant
+ItemAlreadyExistsDialogTitle: L‘élément existe déjà
+SetAsLockscreen: Définir comme fond d'écran de verrouillage
+SetAsAppBackground: Définir comme fond d'écran de l'application
+AccessDeniedDeleteDialog:
+  Text: Impossible de supprimer cet élément
+DriveUnpluggedDialog:
+  Text: Veuillez insérer le disque nécessaire pour accéder à cet élément.
+  Title: Disque déconnecté
+FileNotFoundDialog:
+  Text: Le fichier auquel vous tentez d'accéder a peut-être été déplacé ou supprimé.
+  Title: Fichier introuvable
+CannotAccessPropertiesTitle: Impossible d'ouvrir les propriétés pour ce fichier
+CannotAccessPropertiesContent: Le fichier auquel vous tentez d'accéder a peut-être été déplacé ou supprimé.
+FolderNotFoundDialog:
+  Text: Le dossier auquel vous tentez d'accéder a peut-être été déplacé ou supprimé.
+  Title: Avez-vous supprimé ce dossier ?
+FileInUseByDialog:
+  Text: Le fichier auquel vous tentez d'accéder est actuellement utilisé par {0}
+FileInUseDialog:
+  Text: Le fichier auquel vous tentez d'accéder est actuellement utilisé par une autre application
+  Title: Le fichier est en cours d'utilisation
+Layout: Disposition
+PropertiesDialogReadOnly:
+  Text: Lecture seule
+DaysAgo: '{0, plural, one {Il y a # jour} other {Il y a # jours}}'
+HoursAgo: '{0, plural, one {Il y a # heure} other {Il y a # heures}}'
+MinutesAgo: '{0, plural, one {Il y a # minute} other {Il y a # minutes}}'
+SecondsAgo: '{0, plural, one {Il y a # seconde} other {Il y a # secondes}}'
+Now: Maintenant
+ErrorDialogUnsupportedOperation: L'opération demandée n'est pas prise en charge
+DriveFreeSpaceAndCapacity: '{0} libre(s) sur {1}'
+SendTo: Envoyer vers
+FileNameTeachingTip:
+  Subtitle: "Le nom de l'élément ne doit pas contenir les caractères suivants : \\ / : * ? \" < > |"
+InvalidFilename:
+  Text: Le nom de l'élément n'est pas valide
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# élément sélectionné} other {# éléments sélectionnés}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {élément} other {éléments}}'
+Yes: Oui
+ConfirmEmptyBinDialogContent: Êtes-vous sûr de vouloir supprimer définitivement tous les éléments ?
+ConfirmEmptyBinDialogTitle: Vider la corbeille
+ItemSizeBytes: octets
+KiloByteSymbol: Ko
+MegaByteSymbol: Mo
+GigaByteSymbol: Go
+TeraByteSymbol: To
+PetaByteSymbol: Po
+ByteSymbol: o
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {fichier} other {fichiers}}, {1, number} {1, plural, one {dossier} other {dossiers}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {fichier} other {fichiers}}, {1, number} {1, plural, one {dossier} other {dossiers}} de {2, number} {2, plural, one {emplacement} other {emplacements}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Exécuter en tant qu'autre utilisateur
+PropertiesDriveItemTypesEquals: Tous de type {0}
+PropertiesDriveItemTypeDifferent: Différents types
+PropertiesCombinedItemLocation: Tout dans {0}
+PropertiesDriveUsedSpace:
+  Text: 'Espace utilisé :'
+PropertiesDriveFreeSpace:
+  Text: 'Espace libre :'
+PropertiesDriveCapacity:
+  Text: 'Capacité :'
+PropertiesDriveFileSystem:
+  Text: 'Système de fichiers :'
+JumpListRecentGroupHeader: Récent
+TabStripDragAndDropUIOverrideCaption: Déplacer l'onglet ici
+syncStatusColumn:
+  Header: Statut
+SettingsPreferencesSystemDefaultLanguageOption: Par défaut de Windows
+NavigationToolbarVisiblePathNoResults: Aucun résultat
+SubDirectoryAccessDenied: Impossible d'accéder aux éléments à afficher
+MoveToFolderCaptionText: Déplacer vers {0}
+CopyToFolderCaptionText: Copier vers {0}
+CreateShortcut: Créer un raccourci
+OpenFileLocation: Ouvrir l'emplacement du fichier
+PropertiesShortcutItemArgs:
+  Text: 'Arguments :'
+PropertiesShortcutItemPath:
+  Text: 'Destination :'
+PropertiesShortcutItemType:
+  Text: 'Type de raccourci :'
+PropertiesShortcutTypeLink: Lien web
+General: Général
+Shortcut: Raccourci
+ShortcutWebLinkFileType: Raccourci internet
+ShortcutCreateNewSuffix: '{0} - raccourci'
+ExceptionNotificationBody: Files a rencontré un problème auquel les développeurs ne s'attendaient pas.
+ExceptionNotificationHeader: Une erreur s'est produite !
+ExceptionNotificationReportButton: Signaler ce problème
+InvalidItemDialogContent: L'élément référencé est invalide ou inaccessible.{0}Message d'erreur :{0}{1}
+InvalidItemDialogTitle: Élément invalide
+SettingsAboutVersionTitle: 'Version :'
+ShareDialogFailMessage: Il n'y a rien à partager pour le moment…
+ShareDialogMultipleItemsDescription: Les éléments sélectionnés seront partagés
+ShareDialogSingleItemDescription: L'élément sélectionné sera partagé
+ShareDialogTitle: Partage de {0}
+ShareDialogTitleMultipleItems: Partage {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: L'élément que vous essayez de renommer n'existe plus. Veuillez vérifier l'emplacement exact de l'élément que vous avez besoin de renommer.
+    Title: L'élément n'existe plus
+  NameInvalid:
+    Text: Le nom spécifié est invalide. Veuillez vérifier le nom désiré et essayez à nouveau.
+    Title: Nom d'élément invalide
+  TooLong:
+    Text: La longueur du nom de l'élément dépasse la limite maximum. Veuillez vérifier le nom désiré et essayer à nouveau.
+    Title: Le nom de l'élément est trop long
+ShowMoreOptions: Afficher plus d'options
+RestartNotificationText:
+  Text: L'application a besoin d'être redémarrée pour appliquer les nouveaux paramètres, voulez-vous redémarrer l'application ?
+SponsorUsOnGitHub: Soutenez-nous sur GitHub
+AccessDeniedCreateDialog:
+  Text: Cet élément n'a pas pu être créé
+AccessDenied: Accès refusé
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Définir comme
+Cancel: Annuler
+AddDialog:
+  Title: Créer un nouvel élément
+AddDialogDescription:
+  Text: Choisissez le type du nouvel élément ci-dessous
+File: Fichier
+AddDialogListFileSubHeader: Crée un fichier vide
+Folder: Dossier
+AddDialogListFolderSubHeader: Crée un dossier vide
+NavResfreshButton:
+  AutomationProperties:
+    Name: Actualiser le dossier
+Language: Langue
+SettingsContextMenuOverflow: Déplacer les extensions shell dans un sous-menu
+ShowConfirmationWhenDeletingItems: Afficher une boîte de dialogue lors de la suppression d'éléments
+PropertySaveErrorMessage:
+  Text: Il y a eu un problème lors de l'enregistrement de certaines propriétés.
+PropertySaveErrorDialog:
+  Title: Erreur
+  SecondaryButtonText: Fermer quand même
+PropertyRatingText: Notation
+PropertyParsingPath: Chemin de l'élément
+PropertyItemTypeText: Type d'élément
+PropertyTitle: Titre
+PropertySubject: Objet
+PropertyComment: Commentaire
+PropertyCopyright: Droits d'auteur
+PropertyDateModified: Date de modification
+PropertyBitDepth: Profondeur de bits
+PropertyDimensions: Dimensions
+PropertyHorizontalSize: Largeur
+PropertyVerticalSize: Hauteur
+PropertyHorizontalResolution: Résolution horizontale
+PropertyVerticalResolution: Résolution verticale
+PropertyColorSpace: Espace de couleurs
+PropertyColorSpace_Value0: sRVB
+PropertyColorSpace_Value65535: Non spécifié
+PropertyLongitudeDecimal: Longitude décimale
+PropertyLatitudeDecimal: Latitude décimale
+PropertyAltitude: Altitude
+PropertyDateTaken: Date de prise
+PropertyCameraManufacturer: Marque d'appareil
+PropertyCameraModel: Modèle d'appareil
+PropertyExposureTime: Temps d'exposition
+PropertyFocalLength: Distance focale
+PropertyAperture: Ouverture
+PropertyPeopleNames: Noms de personnes
+PropertyChannelCount: Nombre de canaux
+PropertyFormat: Format
+PropertySampleRate: Taux d'échantillonnage
+PropertyAlbumArtist: Artiste de l'album
+PropertyAlbumTitle: Titre de l'album
+Artist: Artiste
+PropertyBeatsPerMinute: Battements par minute
+PropertyComposer: Compositeur
+Conductor: Conducteur
+PropertyDiscNumber: Numéro du disque
+PropertyGenre: Genre
+PropertyTrackNumber: Numéro de piste
+PropertyDuration: Durée
+PropertyFrameCount: Nombre d'images
+PropertyProtectionType: Type de protection
+PropertyAuthorUrl: URL de l'auteur
+PropertyContentDistributor: Distributeur
+PropertyDateReleased: Date de sortie
+PropertySeriesName: Nom de la série
+PropertySeasonNumber: Numéro de saison
+PropertyEpisodeNumber: Numéro d'épisode
+PropertyProducer: Producteur
+PropertyPromotionUrl: URL de promotion
+PropertyProviderStyle: Style du fournisseur
+PropertyPublisher: Éditeur
+PropertyThumbnailLargePath: Chemin de la grande vignette
+PropertyThumbnailLargeUri: URI de la grande vignette
+PropertyThumbnailSmallPath: Chemin de la petite vignette
+PropertyThumbnailSmallUri: URI de la petite vignette
+PropertyUserWebUrl: URL du site de l'utilisateur
+PropertyWriter: Auteur
+PropertyYear: Année
+PropertyContributor: Contributeur
+PropertyLastAuthor: Dernier auteur
+PropertyRevisionNumber: Numéro de révision
+PropertyVersion: Version
+PropertyDateCreated: Date de création
+PropertyTotalEditingTime: Temps total d'édition
+PropertyTemplate: Modèle
+PropertyWordCount: Nombre de mots
+PropertyCharacterCount: Nombre de caractères
+PropertyLineCount: Nombre de lignes
+PropertyParagraphCount: Nombre de paragraphes
+PropertyPageCount: Nombre de pages
+PropertySlideCount: Nombre de diapositives
+PropertyFrameRate: Fréquence d'images
+PropertyEncodingBitrate: Débit binaire
+PropertyPreviewAudioEncodingBitrate: Débit binaire de codage audio
+PropertyPreviewVideoEncodingBitrate: Débit binaire de codage vidéo
+Compression: Compression
+PropertyFrameWidth: Largeur de cadre
+PropertyFrameHeight: Hauteur de cadre
+PropertyOrientation: Orientation
+PropertySectionCore: Cœur
+PropertySectionImage: Image
+PropertySectionPhoto: Photo
+PropertySectionGPS: GPS
+PropertySectionMedia: Média
+PropertySectionAudio: Audio
+PropertySectionMusic: Musique
+PropertySectionVideo: Vidéo
+Document: Document
+Address: Adresse
+SelectionOptions: Options de sélection
+NavToolbarSelectionOptions:
+  Label: Sélectionner
+RecycleBinItemAutomation: Élément de la corbeille
+ShortcutItemAutomation: Raccourci
+Drives: Disques
+PinToSidebarByDraggingCaptionText: Déplacer ici
+EjectNotificationHeader: Le matériel peut être retiré en toute sécurité
+EjectNotificationBody: Le périphérique peut maintenant être retiré en toute sécurité de l'ordinateur.
+EjectNotificationErrorDialogHeader: Problème lors de l'éjection du périphérique
+EjectNotificationErrorDialogBody: Le périphérique est actuellement utilisé. Fermez tous les programmes, fenêtres, ou onglets qui peuvent utiliser le périphérique, et essayez à nouveau.
+Eject: Éjecter
+DuplicateTab: Dupliquer l'onglet
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Déplacer l'onglet vers une nouvelle fenêtre
+NewTab: Nouvel onglet
+ClearPropertiesFlyoutText:
+  Text: Certaines propriétés peuvent contenir des informations personnelles.
+ClearPropertiesButton:
+  Content: Effacer toutes les propriétés
+OngoingTasksTeachingTip:
+  Subtitle: Vérifiez le statut des opérations de fichiers ici
+  Title: Centre de statut
+SearchPagePathBoxOverrideText: Résultats de la recherche dans {1} pour {0}
+Details: Détails
+No: Non
+ShowProtectedSystemFiles: Afficher les fichiers système protégés
+SyncFolderPreferencesAcrossDirectories: Synchroniser les préférences de disposition et de tri entre les dossiers
+SettingsContextMenu:
+  Text: Personnaliser le menu contextuel du clic droit
+OriginalPath: Chemin d'origine
+Add: Ajouter
+Edit: Modifier
+Remove: Enlever
+SettingsMultitaskingAlwaysOpenDualPane: Ouvrir les onglets en mode double panneau
+ShowOpenInNewPane: Afficher l'option pour ouvrir les dossiers dans un nouveau volet
+ShowCopyPath: Afficher l'option pour copier le chemin
+ShowCreateFolderWithSelection: Afficher l'option pour créer un dossier avec la sélection
+ShowCreateShortcut: Afficher l'option pour créer un raccourci
+NavigationToolbarNewPane:
+  Label: Nouveau volet
+OpenInNewPane: Ouvrir dans un nouveau volet
+FilesAndFolders: Fichiers & dossiers
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Détails (Ctrl+Maj+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Tuiles (Ctrl+Maj+2)
+DateDeleted: Date de suppression
+SidebarCloudDrives: Disques Cloud
+Confirm: Confirmer
+DesiredName: Nom désiré
+TogglePreviewPane: Afficher le volet de prévisualisation
+ToggleDetailsPane: Afficher le volet des détails
+ToggleDetailsPaneDescription: Activer le volet des détails pour afficher les propriétés de base du fichier
+ToggleInfoPane: Afficher le volet d'informations
+ToggleInfoPaneDescription: Afficher le volet d'informations pour afficher les volets de détails/aperçu
+DetailsPanePreviewNotAvaliableText: Pas d'aperçu disponible
+PropertyItemName: Nom de l'élément
+UnpinFolderFromSidebar: Désépingler de la barre latérale
+Network: Réseau
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Détails du fichier
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Aperçu du fichier
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Volet d'aperçu du fichier sélectionné
+Feedback: Commentaires
+CloudDriveSyncStatus_Online: Disponible en ligne
+Documentation: Documentation
+CloudDriveSyncStatus_Offline: Disponible hors ligne
+CloudDriveSyncStatus_PartialOffline: Partiellement disponible hors ligne
+CloudDriveSyncStatus_Sync: Synchronisation
+CloudDriveSyncStatus_Excluded: Exclu de la synchronisation
+ItemSizeNotCalculated: Non calculé
+CloudDriveSyncStatus_Unknown: Inconnu
+RenameFileDialog:
+  Text: Si vous changez l'extension du fichier, celui-ci peut devenir inutilisable. Êtes-vous sûr de vouloir la changer ?
+DriveTypeCDRom: Lecteur CD
+DriveTypeCloudDrive: Disque Cloud
+DriveTypeFixed: Disque local
+DriveTypeFloppyDisk: Lecteur de disquette
+DriveTypeNetwork: Disque réseau
+DriveTypeNoRootDirectory: Disque démonté
+DriveTypeRam: Lecteur de disque RAM
+DriveTypeRemovable: Stockage amovible
+DriveTypeUnknown: Inconnu
+DriveTypeVirtualDrive: Disque virtuel
+DateCreated: Date de création
+MoreOptions: Plus d'options…
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Connecter un lecteur réseau
+Pinned: Épinglé
+SidebarLibraries: Bibliothèques
+NoItemSelected: Aucun élément sélectionné
+PropertyItemTarget: Destination
+Arguments: Arguments
+Default: Défaut
+PropertyItemCount: Nombre d'éléments
+ElevateConfirmDialog:
+  Title: Cette action nécessite des droits d'administrateur
+  Content: Voulez-vous continuer en tant qu'administrateur ?
+ColumnsShortcutTooltip: Colonnes (Ctrl+Maj+6)
+PinItemToStart:
+  Text: Épingler au menu Démarrer
+UnpinItemFromStart:
+  Text: Détacher du menu Démarrer
+Library: Bibliothèque
+LibraryLocations:
+  Text: 'Emplacements :'
+SetAsDefaultSavePath: Définir comme chemin de sauvegarde par défaut
+LibraryNoLocations:
+  Text: Pas d'emplacements
+ErrorInputEmpty: Le champ ne peut pas être vide !
+ErrorNameInputRestrictedCharacters: 'Le nom ne doit pas contenir les caractères suivants : \ / : * ? " < > |'
+ErrorNameInputRestricted: Ce nom n'est pas autorisé !
+CreateLibraryErrorAlreadyExists: Une bibliothèque avec ce nom existe déjà !
+OpenStorageSense: Ouvrir l'Assistant Stockage
+Copy: Copier
+CopyItemsDialogTitle: Copier {0, plural, one {l'élément} other {les éléments}}
+DeleteItemsDialogTitle: Supprimer {0, plural, one {l'élément} other {les éléments}}
+MoveItemsDialogPrimaryButtonText: Déplacer
+MoveItemsDialogSubtitle: '{0, plural, one {1 élément sera déplacé} other {# éléments seront déplacés}}'
+MoveItemsDialogTitle: Déplacer {0, plural, one {l'élément} other {les éléments}}
+DeleteItemsDialogSubtitle: '{0, plural, one {1 élément sera supprimé} other {# éléments seront supprimés}}'
+ConflictingItemsDialogPrimaryButtonText: Continuer
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {Il y a 1 nom de fichier en conflit} other {Il y a # noms de fichiers en conflit}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {Il y a 1 nom de fichier en conflit} other {Il y a # noms de fichiers en conflit}}, et {1, plural, one {1 élément sortant} other {# éléments sortants}}'
+ConflictingItemsDialogTitle: En conflit {0, plural, one {avec un nom de fichier} other {avec des noms de fichiers}}
+CopyItemsDialogSubtitle: '{0, plural, one {1 élément sera copié} other {# éléments seront copiés}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Effacer définitivement
+PropertyISO: Vitesse ISO
+ReplaceExisting: Remplacer l'existant
+GenerateNewName: Générer un nouveau nom
+CreateFolderWithSelection: Créer un dossier avec la sélection
+ItemType: 'Type :'
+ToolTipDescriptionDate: 'Date de modification :'
+OpenWith: Ouvrir avec
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Icône de fichier
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Chemin d'origine
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Type
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Date de modification
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Date de suppression
+Sort: Trier
+DateModifiedLowerCase: Date de modification
+OriginalFolder: Dossier d'origine
+Descending: Décroissant
+ItemSizeText_Huge: Gigantesque
+ItemSizeText_VeryLarge: Très grand
+ItemSizeText_Large: Grand
+ItemSizeText_Medium: Moyen
+ItemSizeText_Small: Petit
+ItemSizeText_Tiny: Minuscule
+Future: Futur
+Today: Aujourd'hui
+Yesterday: Hier
+EarlierThisWeek: Plus tôt cette semaine
+LastWeek: La semaine dernière
+EarlierThisMonth: Plus tôt ce mois
+LastMonth: Le mois dernier
+EarlierThisYear: Plus tôt cette année
+LastYear: L'année dernière
+YearN: Année {0}
+GroupItemsCount_Singular: '{0} élement'
+GroupItemsCount_Plural: '{0} éléments'
+ReopenClosedTab: Restaurer l'onglet fermé
+Rename: Renommer
+Privacy: Confidentialité
+TheRecycleBin: la corbeille
+Canceling: Annulation
+Clear: Effacer
+Widgets: Widgets
+SyncStatus: Statut de la synchronisation
+Security: Sécurité
+AdvancedPermissions: Autorisations avancées
+Allow: Autoriser
+Deny: Refuser
+SecurityFullControlLabel:
+  Text: Contrôle total
+SecurityListDirectoryLabel:
+  Text: Lister le contenu du dossier
+Modify: Modifier
+SecurityPermissionsHeaderText: Autorisations pour {0}
+SecurityReadAndExecuteLabel:
+  Text: Lire et exécuter
+SecurityReadLabel:
+  Text: Lire
+SecurityUsersGroupLabel:
+  Text: Noms de groupe ou d'utilisateur
+Write: Écrire
+SecurityUnknownAccount: Compte inconnu
+SecurityCannotReadProperties:
+  Text: Vous n'êtes pas autorisé à afficher les propriétés de sécurité de cet objet. Cliquez sur "Autorisations avancées" pour continuer.
+SecurityOwnerLabel:
+  Text: 'Propriétaire :'
+SecurityUnknownOwnerText:
+  Text: Propriétaire inconnu
+ExtractArchive: Extraire l'archive
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Ouvrir le dossier de destination quand l'opération est terminée
+BaseLayoutItemContextFlyoutExtractToChildFolder: Extraire vers {0}\
+SideBarCreateNewLibrary:
+  Text: Créer une nouvelle bibliothèque
+SideBarRestoreLibraries:
+  Text: Restaurer les bibliothèques par défaut
+DialogRestoreLibrariesSubtitleText: Êtes-vous sûr de vouloir restaurer les bibliothèques par défaut ? Tous vos fichiers resteront sur votre stockage.
+DialogRestoreLibrariesTitleText: Restaurer les bibliothèques
+PropertyFileOwner: Propriétaire
+SecuritySpecialLabel:
+  Text: Autorisations spéciales
+Access: Accéder
+SecurityAdvancedAppliesTo: S'applique à
+Principal: Principal
+SecurityAdvancedFlagsFilesLabel: fichiers
+SecurityAdvancedFlagsFolderLabel: ce dossier
+SecurityAdvancedFlagsSubfoldersLabel: sous-dossiers
+Inherited: Hérité
+Permissions: Autorisations
+SecurityAdvancedCannotReadProperties:
+  Text: Vous n'êtes pas autorisé à afficher les propriétés de sécurité de cet objet. Vous pouvez essayer de vous approprier cet objet.
+SecurityAdvancedFolderFiles:
+  Text: Ce dossier et ses fichiers
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Ce dossier, ses sous-dossiers et fichiers
+SecurityAdvancedOnlyFiles:
+  Text: Seulement les fichiers
+SecurityAdvancedOnlySubfolders:
+  Text: Seulement les sous-dossiers
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Seulement les sous-dossiers et fichiers
+SecurityAdvancedOnlyThisFolder:
+  Text: Seulement ce dossier
+SecurityAdvancedFolderSubfolders:
+  Text: Ce dossier et ses sous-dossiers
+SecurityAppendDataLabel:
+  Text: Ajouter des données
+SecurityChangePermissionsLabel:
+  Text: Modifier l'autorisation
+SecurityCreateDirectoriesLabel:
+  Text: Créer des dossiers
+SecurityCreateFilesLabel:
+  Text: Créer des fichiers
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Supprimer les sous-dossiers et fichiers
+SecurityExecuteFileLabel:
+  Text: Exécuter les fichiers
+SecurityReadAttributesLabel:
+  Text: Lire les attributs
+SecurityReadDataLabel:
+  Text: Lire les données
+SecurityReadExtendedAttributesLabel:
+  Text: Lire les attributs étendus
+SecurityReadPermissionsLabel:
+  Text: Lire les autorisations
+SecurityTakeOwnershipLabel:
+  Text: Prendre possession
+SecurityTraverseLabel:
+  Text: Visiter le dossier
+SecurityWriteAttributesLabel:
+  Text: Écrire les attributs
+SecurityWriteDataLabel:
+  Text: Écrire les données
+SecurityWriteExtendedAttributesLabel:
+  Text: Écrire les attributs étendus
+SecurityAdvancedInheritedConvert:
+  Text: Convertir les autorisations héritées en autorisations explicites
+SecurityAdvancedInheritedEnable:
+  Text: Activer l'héritage
+SecurityAdvancedInheritedRemove:
+  Text: Supprimer toutes les autorisations héritées
+SecurityAdvancedReplaceChildPermissions:
+  Text: Réinitialiser les autorisations des sous-éléments
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Remplacer toutes les autorisations des sous-éléments par des autorisations héritées de cet objet
+NavigationToolbarClosePane:
+  Label: Fermer le panneau
+EnterCompactOverlay: Entrer en mode compact
+ExitCompactOverlay: Quitter le mode compact
+PropertyFileDescription: Description du fichier
+PropertyCompany: Société
+PropertyLanguage: Langue
+PropertyTrademarks: Marques
+PropertyFileVersion: Version du fichier
+PreviewPaneLoadCloudItemButton:
+  Text: Charger l'aperçu complet
+  ToolTipService:
+    ToolTip: Télécharger l'élément depuis le cloud et charger l'aperçu
+DetailsArchiveItems: '{0, plural, one {# élément} other {# éléments}} ({1, plural, one {# fichier} other {# fichiers}}, {2, plural, one {# dossier} other {# dossiers}})'
+PropertyUncompressedSize: Taille décompressée
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Cacher la section {0}
+AddFile: Ajouter un fichier
+ConsentDialogTitle: Mises à jour disponibles
+ConsentDialogContent: Les mises à jour sont prêtes à être installées
+Close: Fermer
+ConsentDialogPrimaryButtonText: Mise à jour
+Home: Accueil
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Maj+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Maj+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Maj+6
+ArchiveExtractionCompletedSuccessfullyText: L'extraction des archives s'est terminée avec succès.
+ExtractingArchiveText: Extraction de l'archive
+ExtractingCompleteText: Extraction terminée !
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Ouvrir le dossier parent
+Unknown: Inconnu
+EditTags: Éditer les étiquettes
+PropertyPartOfSet: Partie de l'ensemble
+InsertDiscDialog:
+  OpenDriveButton: Ouvrir le disque
+  Text: Veuillez insérer un disque dans le lecteur {0}
+  Title: Insérer un disque
+OK: OK
+AskCredentialDialog:
+  Title: Identification requise
+CredentialDialogAnonymous:
+  Content: Anonyme
+CredentialDialogDescription:
+  Text: 'Fournissez votre identifiant :'
+CredentialDialogUserName:
+  PlaceholderText: Nom d'utilisateur
+NoSearchResultsFound: Aucun élément trouvé
+OpenLogLocation: Ouvrir l'emplacement des fichiers journaux
+LinkToFolderCaptionText: Créer un lien dans {0}
+Columns: Colonnes
+Tiles: Tuiles
+OpenFoldersInNewTab: Ouvrir les dossiers dans un nouvel onglet
+StatusCenter: Centre de statut
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Date de création
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Taille
+ExperimentalFeatureFlags: Fonctionnalités expérimentales
+HelpAndSupport: Aide et support
+SubmitFeatureRequest: Soumettre une demande de fonctionnalité
+SubmitBugReport: Envoyer un rapport de bug
+SettingsSetAsDefaultFileManager: Définir Files comme explorateur de fichiers par défaut
+SettingsSetAsOpenDialog: Utiliser Files comme sélecteur de fichiers
+Tag: Étiquette
+SettingsOpenItemsWithOneClick: Ouvrir les éléments d'un seul clic
+FolderPath: Chemin du dossier
+ExportSettings: Exporter les paramètres
+ImportSettings: Importer les paramètres
+SettingsImportErrorDescription: Importation des paramètres impossible. Le fichier de paramètres est corrompu.
+SettingsImportErrorTitle: Erreur lors de l'importation des paramètres
+EmptyRecycleBin: Vider la corbeille
+Sidebar: Panneau latéral
+ChooseCustomIcon: Choisir une icône de dossier personnalisée
+Customization: Personnalisation
+RestoreDefault: Restaurer les valeurs par défaut
+OpenTabInExistingInstance: Ouvrir l'onglet dans l'instance existante lors de l'ouverture de Files à partir d'une autre application
+StartupSettings: Paramètres de démarrage
+Compatibility: Compatibilité
+None: Aucun
+CompatibilityOnWindowsLogin: À la connexion de Windows
+CompatibilityOnProgramStart: Au démarrage de ce programme
+System: Système
+CompatibilitySystemEnhanced: Système (Amélioré)
+CompatibilityReducedColorModeColor16bit: Couleur 16 bits (65536)
+CompatibilityReducedColorModeColor8bit: Couleur 8 bits (256)
+CompatibilityDisableFullscreenOptimizations: Désactiver les optimisations plein écran
+CompatibilityRunIn640x480Resolution: Exécuter en résolution d'écran 640 x 480
+CompatibilityOverrideHighDPIBehavior: Remplacer le comportement de mise à l'échelle PPP élevée
+CompatibilityReducedColorMode: Mode couleur réduit
+CompatibilityRegisterThisProgramForRestart: Enregistrer ce programme pour le redémarrage
+RunAsAdministrator: Exécuter en tant qu'administrateur
+CompatibilityRunTroubleshooter: Lancer le dépannage de compatibilité
+CompatibilityUseDPISettings: Utiliser les paramètres PPP du moniteur principal
+CompatibilityDoNotAdjustDPI: Ne pas ajuster le PPP
+CompatibilityDoNotOverrideDPI: Ne pas remplacer le PPP
+CompatibilityMode: Mode compatibilité
+CompatibilityNoReducedColor: Aucune réduction de couleur
+ThirdPartyLicenses: Licences tierces
+SettingsSetAsDefaultFileManagerDescription: Cette option modifie le registre système et peut avoir des effets secondaires inattendus sur votre système. Continuez à vos propres risques.
+FolderWidgetCreateNewLibraryDialogTitleText: Créer une bibliothèque
+FolderWidgetCreateNewLibraryInputPlaceholderText: Entrer le nom de la bibliothèque
+CalculateFolderSizes: Calculer la taille des dossiers
+RecentFiles: Fichiers récents
+SettingsOpenInLogin: Ouvrir Files au démarrage de Windows
+Attributes: Attributs
+Hidden: Caché
+MoreDetails: Plus de détails
+ReadOnly: Lecture seule
+CleanupDrive: Nettoyer le contenu du disque
+Type: Type
+Bytes: Octets
+Extract: Extraire
+ExtractFiles: Extraire les fichiers
+ExtractHere: Extraire ici
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Extraire vers {0}
+RunScript: Exécuter le script
+RunWithPowerShell: Exécuter avec PowerShell
+ShowFolderSizesWarning: Le calcul de la taille des dossiers consomme beaucoup de ressources et peut entraîner une augmentation de l'utilisation du processeur.
+RotateLeft: Tourner à gauche
+RotateRight: Tourner à droite
+Install: Installer
+CloseTabsToTheLeft: Fermer les onglets à gauche
+CloseTabsToTheRight: Fermer les onglets à droite
+CloseOtherTabs: Fermer les autres onglets
+Music: Musique
+Pictures: Images
+UpdateFiles: Mettre à jour Files
+FileTags: Étiquettes
+Universal: Universel
+DateFormatSample: 'ex : {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Afficher les vignettes
+Retry: Réessayer
+ErrorDialogUnsupportedMoveOperation: L'opération de déplacement n'est pas prise en charge dans ce contexte. Voulez-vous copier les éléments ?
+HiddenItems: Éléments masqués
+Custom: Personnalisé
+SetAsSlideshow: Définir comme fond d'écran en diaporama
+SizeAllColumnsToFit: Adapter la largeur des colonnes
+Adaptive: Adaptatif
+AdaptiveShortcutTooltip: Adaptatif (Ctrl+Maj+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Maj+7
+ShowAlternateStreams: Afficher les flux de données alternatifs
+Behaviors: Comportements
+ReviewFiles: Évaluer Files
+ReviewFilesContent: Souhaitez-vous laisser une évaluation de Files ?
+SetAsBackgroundFlyout: Définir comme fond d'écran
+SetAsBackground: Définir comme fond d'écran du bureau
+SetAsDefault: Définir par défaut
+DateColumn: Date
+DateCreatedColumn: Date de création
+SizeColumn: Taille
+TagColumn: Étiquette
+TypeColumn: Type
+Lockscreen: Écran de verrouillage
+OpenFolderWithOneClickColumnsLayout: Ouvrir les dossiers d'un seul clic dans la disposition colonnes
+OpeningItems: Ouverture des éléments
+Compress: Compresser
+SelectFilesAndFoldersOnHover: Sélectionner les fichiers et dossiers lorsqu'ils sont survolés
+ConfirmRestoreBinDialogContent: Êtes-vous sûr de vouloir restaurer tous les éléments de la corbeille ?
+ConfirmRestoreBinDialogTitle: Restaurer tous les éléments
+ConfirmRestoreSelectionBinDialogContent: Voulez-vous restaurer le(s) {0} élément(s) sélectionné(s) ?
+ConfirmRestoreSelectionBinDialogTitle: Restaurer la sélection
+RestoreAllItems: Restaurer tous les éléments
+Restore: Restaurer
+ShortcutCannotBeOpened: Le raccourci ne peut pas être ouvert
+DeleteShortcutDescription: La destination cible {0} est introuvable. Voulez-vous supprimer ce raccourci ?
+AccessDeniedToFolder: Vous n'avez pas l'autorisation pour accéder à ce dossier.
+ArchivePassword: Mot de passe de l'archive
+ExtractToPath: Chemin
+SortingAndGrouping: Tri et groupement
+CreateArchive: Créer une archive
+Create: Créer
+CreateNamedArchive: Créer {0}
+EnterName: Saisir un nom
+CompressionLevel: Niveau de compression
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Élevé
+CompressionLevelNormal: Normal
+CompressionLevelLow: Faible
+CompressionLevelFast: Rapide
+CompressionLevelNone: Aucun
+SplittingSize: Taille de séparation
+Do not split: Ne pas séparer
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Chiffrement
+Password: Mot de passe
+Format: Format
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Statut de la synchronisation
+GroupBy: Grouper par
+SortBy: Trier par
+GroupInDescendingOrder: Grouper dans l'ordre descendant
+SortInDescendingOrder: Trier dans l'ordre descendant
+NewShortcutDialogTitle: Créer un nouveau raccourci
+NewShortcutDialogDescription: Créez des raccourcis vers des programmes locaux ou réseau, des fichiers, des dossiers, des ordinateurs ou des adresses Internet.
+NewShortcutDialogPrompt: "Saisissez la localisation de l'élément :"
+AddDialogListShortcutSubHeader: Crée un raccourci
+RecentFilesDisabledOnWindowsWarning: Les fichiers récemment utilisés sont actuellement désactivés dans l'explorateur de fichiers Windows.
+EditSettingsFile: Modifier le fichier des paramètres
+WhatsNew: Quoi de neuf
+CannotCreateShortcutDialogTitle: La création d'un raccourci à cet emplacement nécessite des droits d'administrateur
+CannotCreateShortcutDialogMessage: Souhaitez-vous plutôt créer le raccourci sur le bureau ?
+ErrorDialogNameNotAllowed: Le nom d'élément spécifié est invalide
+Settings: Paramètres
+DoubleClickBlankSpaceToGoUp: Double-cliquer sur un espace vide pour remonter d'un niveau de dossier
+ViewMore: Voir plus
+ShowEditTagsMenu: Afficher l'édition des étiquettes en survolant
+ShowCompressionOptions: Afficher les options de compression
+ShowSendToMenu: Afficher le menu "Envoyer vers"
+ShowOpenInNewTab: Afficher l'option pour ouvrir les dossiers dans un nouvel onglet
+ShowOpenInNewWindow: Afficher l'option pour ouvrir les dossiers dans une nouvelle fenêtre
+QuickAccess: Accès rapide
+NetworkAuthenticationDialogMessage: 'Entrez vos identifiants afin de vous connecter à : {0}'
+NetworkAuthenticationDialogTitle: Entrer les identifiants réseau
+NetworkAuthenticationSaveCheckbox: Se souvenir de mes identifiants
+NetworkFolderErrorDialogTitle: Erreur de dossier réseau
+AppVersion: Version de l'application
+WindowsVersion: Version Windows
+Always: Toujours
+PermanentDeletionOnly: Suppression définitive uniquement
+Never: Jamais
+TagColor: Couleur de l'étiquette
+NewTag: Nouvelle étiquette
+CreateNewTag: Créer une nouvelle étiquette
+Loading: Chargement...
+ContextMenuOptions: Options du menu contextuel
+ShowFileExtensions: Afficher les extensions de fichiers
+ShowHiddenItems: Afficher les éléments masqués
+FormatDriveText: Formater...
+Help: Aide
+FullScreen: Basculer en plein écran
+ConfirmDeleteTag: Êtes-vous sûr de vouloir supprimer cette étiquette ?
+PlayAll: Tout lire
+Height: Hauteur
+Width: Largeur
+ApplyToAllConflictingItems: Appliquer cette action pour tous les conflits
+OpenTerminal: Ouvrir dans le Terminal Windows
+OpenTerminalAsAdmin: Ouvrir dans le Terminal Windows en tant qu'administrateur
+Save: Enregistrer
+MultiSelect: Sélection multiple
+ReorderSidebarItemsDialogText: Réorganiser les éléments de la barre latérale
+Hashes: Hachages
+CalculationError: Une erreur s'est produite lors du calcul
+CalculationErrorFileIsOpen: Échec du calcul du hachage, veuillez fermer le fichier et réessayer.
+CalculationOnlineFileHashError: Les hachages ne sont pas disponibles pour les fichiers en ligne
+Algorithm: Algorithme
+HashValue: Valeur de hachage
+SelectHashesToShow: Sélectionnez les hachages à afficher
+Calculating: Calcul en cours...
+JumpListPinnedGroupHeader: Éléments épinglés
+DecreaseSize: Diminuer la taille
+IncreaseSize: Augmenter la taille
+ToggleSortDirection: Activer/désactiver la direction de tri
+InvalidTagNameWarning: Nom invalide
+TagNameRules: Le nom ne doit pas être vide, ni commencer ou se terminer par un point.
+Videos: Vidéos
+LaunchPreviewPopup: Lancer la fenêtre de prévisualisation
+ToggleCompactOverlay: Activer/désactiver le mode compact
+OpenHelpDescription: Ouvrir la page d'aide en ligne dans votre navigateur
+ToggleFullScreenDescription: Basculer en plein écran
+EnterCompactOverlayDescription: Entrer en mode compact
+ExitCompactOverlayDescription: Quitter le mode compact
+ToggleCompactOverlayDescription: Activer/désactiver le mode compact
+SearchDescription: Accéder à la zone de recherche
+ToggleShowHiddenItemsDescription: Afficher/Masquer les éléments cachés
+ToggleShowFileExtensionsDescription: Afficher/Masquer les extensions de fichiers
+TogglePreviewPaneDescription: Activer le volet d’aperçu pour afficher les aperçus des fichiers
+ToggleSidebarDescription: Afficher/Masquer la barre latérale
+CopyItemDescription: Copier le(s) élément(s) vers le presse-papiers
+CopyPathDescription: Copier le chemin des éléments sélectionnés dans le presse-papier
+CopyPathWithQuotesDescription: Copier le chemin des éléments sélectionnés entre guillemets dans le presse-papier
+CutItemDescription: Couper le(s) élément(s) dans le presse-papiers
+PasteItemDescription: Coller le(s) élément(s) du presse-papiers dans le dossier actuel
+PasteItemToSelectionDescription: Coller le(s) élément(s) du presse-papiers vers le dossier sélectionné
+DeleteItemDescription: Supprimer le(s) élément(s)
+CreateFolderDescription: Créer un nouveau dossier
+CreateShortcutDescription: Créer le(s) nouveau(x) raccourci(s) vers le(s) élément(s) sélectionné(s)
+CreateShortcutFromDialogDescription: Créer un nouveau raccourci vers n'importe quel élément
+EmptyRecycleBinDescription: Vider la corbeille
+FormatDriveDescription: Ouvrir le menu "Formater le lecteur" pour l'élément sélectionné
+RestoreRecycleBinDescription: Restaurer le(s) élément(s) sélectionné(s) depuis la corbeille
+RestoreAllRecycleBinDescription: Restaurer tous les éléments de la corbeille
+OpenItemDescription: Ouvrir le(s) élément(s)
+OpenItemWithApplicationPickerDescription: Ouvrir le(s) élément(s) avec l'application sélectionnée
+OpenParentFolderDescription: Ouvrir le dossier parent de l'élément recherché
+RefreshItemsDescription: Actualiser le contenu de la page
+RenameDescription: Renommer l'élément sélectionné
+SelectAllDescription: Sélectionner tous les éléments
+InvertSelectionDescription: Inverser la sélection
+ClearSelectionDescription: Annuler la sélection
+ToggleSelectDescription: Activer/désactiver la sélection d'éléments
+ShareItemDescription: Partager le(s) fichier(s) sélectionné(s) avec d'autres personnes
+PinToStartDescription: Ajouter le(s) élément(s) au menu Démarrer
+UnpinFromStartDescription: Supprimer le(s) élément(s) du menu Démarrer
+PinFolderToSidebarDescription: Épingler le(s) dossier(s) à la barre latérale
+UnpinFolderFromSidebarDescription: Désépingler le(s) dossier(s) de la barre latérale
+SetAsWallpaperBackgroundDescription: Définir l'image sélectionnée comme fond d'écran
+SetAsSlideshowBackgroundDescription: Définir les images sélectionnées comme diaporama de bureau
+SetAsLockscreenBackgroundDescription: Définir l'image sélectionnée comme fond d'écran de verrouillage
+SetAsAppBackgroundDescription: Définir l'image sélectionnée comme fond d'écran de l'application
+InstallFontDescription: Installer la ou les polices sélectionnée(s)
+InstallInfDriverDescription: Installer le(s) pilote(s) en utilisant le(s) fichier(s) inf sélectionné(s)
+InstallCertificateDescription: Installer le(s) certificat(s) sélectionné(s)
+RunAsAdminDescription: Exécuter l'application sélectionnée en tant qu'administrateur
+RunAsAnotherUserDescription: Exécuter l'application sélectionnée en tant qu'un autre utilisateur
+RunWithPowershellDescription: Exécuter le script PowerShell sélectionné
+LaunchPreviewPopupDescription: Lancer la prévisualisation dans une fenêtre contextuelle
+CompressIntoArchiveDescription: Créer une archive avec le(s) élément(s) sélectionné(s)
+CompressIntoSevenZipDescription: Créer instantanément une archive 7z avec le(s) élément(s) sélectionné(s)
+CompressIntoZipDescription: Créer instantanément une archive zip avec le(s) élément(s) sélectionné(s)
+DecompressArchiveDescription: Extraire les éléments de(s) archive(s) sélectionnée(s) dans n'importe quel dossier
+DecompressArchiveHereDescription: Extraire les éléments de(s) archive(s) sélectionnée(s) vers le dossier actuel
+DecompressArchiveToChildFolderDescription: Extraire les éléments de(s) archive(s) sélectionnée(s) vers un nouveau dossier
+RotateLeftDescription: Faire pivoter l'(les) image(s) sélectionnée(s) vers la gauche
+RotateRightDescription: Faire pivoter l'(les) image(s) sélectionnée(s) vers la droite
+OpenSettingsDescription: Ouvrir la page des paramètres
+OpenTerminalDescription: Ouvrir terminal à l'emplacement du dossier
+OpenTerminalAsAdminDescription: Ouvrir terminal à l'emplacement du dossier en tant qu'administrateur
+LayoutDecreaseSizeDescription: Réduire la taille des éléments dans la vue actuelle
+LayoutIncreaseSizeDescription: Augmenter la taille des éléments dans la vue actuelle
+LayoutDetailsDescription: Basculer en vue détaillée
+LayoutTilesDescription: Basculer en vue en tuiles
+LayoutListDescription: Basculer en vue liste
+List: Liste
+Grid: Grille
+LayoutGridDescription: Basculer en vue grille
+LayoutColumnsDescription: Basculer en vue colonnes
+LayoutAdaptiveDescription: Basculer les vues en mode adaptatif
+SortByNameDescription: Trier les éléments par nom
+SortByDateModifiedDescription: Trier les éléments par date de modification
+SortByDateCreatedDescription: Trier les éléments par date de création
+SortBySizeDescription: Trier les éléments par taille
+SortByTypeDescription: Trier les éléments par type
+SortBySyncStatusDescription: Trier les éléments par statut de synchronisation
+SortByTagDescription: Trier les éléments par étiquette
+SortByOriginalFolderDescription: Trier les éléments par dossier d'origine
+SortByDateDeletedDescription: Trier les éléments par date de suppression
+SortAscendingDescription: Trier les éléments par ordre croissant
+SortDescendingDescription: Trier les éléments par ordre décroissant
+ToggleSortDirectionDescription: Activer/désactiver la direction de tri des éléments
+GroupByNoneDescription: Lister les éléments sans regroupement
+GroupByNameDescription: Grouper les éléments par nom
+GroupByDateModifiedDescription: Grouper les éléments par date de modification
+GroupByDateCreatedDescription: Grouper les éléments par date de création
+GroupBySizeDescription: Grouper les éléments par taille
+GroupByTypeDescription: Grouper les éléments par type
+GroupBySyncStatusDescription: Grouper les éléments par statut de synchronisation
+GroupByTagDescription: Grouper les éléments par étiquettes
+GroupByOriginalFolderDescription: Grouper les éléments par dossier original
+GroupByDateDeletedDescription: Grouper les éléments par date de suppression
+GroupByFolderPathDescription: Grouper les éléments par chemin de dossier
+GroupAscendingDescription: Trier les groupes en ordre croissant
+GroupDescendingDescription: Trier les groupes en ordre décroissant
+ToggleGroupDirectionDescription: Activer/désactiver la direction de tri des groupes
+NewTabDescription: Ouvrir nouvel onglet
+NavigateBackDescription: Naviguer en arrière dans l'historique de navigation
+NavigateForwardDescription: Naviguer en avant dans l'historique de navigation
+NavigateUpDescription: Revenir au dossier précédent
+DuplicateCurrentTabDescription: Dupliquer l'onglet actuel
+DuplicateSelectedTabDescription: Dupliquer l'onglet sélectionné
+CloseTabsToTheLeftCurrentDescription: Fermer les onglets à la gauche de l'onglet actuel
+CloseTabsToTheLeftSelectedDescription: Fermer les onglets à la gauche de l'onglet sélectionné
+CloseTabsToTheRightCurrentDescription: Fermer les onglets à droite de l'onglet actuel
+CloseTabsToTheRightSelectedDescription: Fermer les onglets à la droite de l'onglet sélectionné
+CloseOtherTabsCurrentDescription: Fermer les onglets autres que l'onglet actuel
+CloseOtherTabsSelectedDescription: Fermer les onglets autres que l'onglet sélectionné
+ReopenClosedTabDescription: Restaurer le dernier onglet fermé
+PreviousTabDescription: Revenir à l'onglet précédent
+NextTabDescription: Passer à l'onglet suivant
+CloseSelectedTabDescription: Fermer l'onglet actuel
+OpenNewPaneDescription: Ouvrir dans un nouveau panneau
+ClosePaneDescription: Fermer le panneau de droite
+FocusLeftPane: Focus sur le volet gauche
+FocusLeftPaneDescription: Basculer le focus sur le volet gauche
+FocusRightPane: Focus sur le volet droit
+FocusRightPaneDescription: Basculer le focus sur le volet droit
+ToggleSidebar: Afficher la barre latérale
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Maj
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Entrer
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Espace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Échap
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Retour arrière
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Suppr
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Gauche
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Droite
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Bas
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Haut
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Accueil
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: Fin
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: Page Bas
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: Page Haut
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Veille
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Effacer
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Imprimer
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Aide
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Souris4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Souris5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: E-Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: RetourAccueil
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Retour
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Avancer
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: RafraîchirNavigateur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: StopperNavigateur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Rechercher
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Favoris
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PauseLecture
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: ArrêtMédia
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PistePréc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: PisteSuiv
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: SelectionMédia
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: ModeMuet
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: BaisserVol
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: MonterVol
+Change: Modifier
+ToggleSelect: Basculer la sélection
+ShowFileExtensionWarning: Afficher un avertissement lors du changement d'extensions de fichier
+ThisPC: Ce PC
+RecycleBin: Corbeille
+Untagged: Sans étiquette
+PreviousTab: Revient à l'onglet précédent
+NextTab: Passe à l'onglet suivant
+CloseTab: Ferme l'onglet actuel
+EditPath: Modifier le chemin
+Redo: Rétablir
+Undo: Annuler
+InvalidLocation: Emplacement invalide
+CopyFileWithoutProperties: Êtes-vous sûr de vouloir copier ces fichiers sans leurs propriétés ?
+FilePropertiesCannotBeCopied: Ces fichiers ont des propriétés qui ne peuvent pas être copiées vers le nouvel emplacement
+FilePropertiesCannotBeMoved: Ces fichiers ont des propriétés qui ne peuvent pas être déplacées vers le nouvel emplacement
+MoveFileWithoutProperties: Êtes-vous sûr de vouloir déplacer ces fichiers sans leurs propriétés ?
+ShowCheckboxesWhenSelectingItems: Afficher les cases à cocher lors de la sélection des éléments
+EditPathDescription: Focus sur la barre de chemin
+AddItemDescription: Créer un nouvel élément
+SecurityNoAccessControlEntriesText: Aucun groupe ou utilisateur n'a l'autorisation d'accéder à cet objet. Cependant, le propriétaire de cet objet peut attribuer des autorisations.
+OpenFileLocationDescription: Ouvrir l'emplacement de l'élément
+DeletePermanently: Supprimer définitivement
+DeleteItemPermanentlyDescription: Supprimer ce(s) élément(s) définitivement
+PlayAllDescription: Lire les fichiers médias sélectionnés
+UndoDescription: Annuler la dernière opération
+RedoDescription: Rétablir la dernière opération
+Location: 'Emplacement :'
+GroupByMonthDescription: Grouper les éléments par mois
+GroupByYearDescription: Grouper les éléments par année
+Month: Mois
+Day: Jour
+ToggleGroupByDateUnitDescription: Activer/désactiver l'unité de regroupement par date
+ToggleGroupingUnit: Activer/désactiver l'unité de regroupement
+Year: Année
+GroupByDateUnit: Grouper par unité de date
+GroupByDateCreatedDayDescription: Grouper les éléments par jour de création
+GroupByDateCreatedMonthDescription: Grouper les éléments par mois de création
+GroupByDateCreatedYearDescription: Grouper les éléments par année de création
+GroupByDateDeletedDayDescription: Grouper les éléments par jour de suppression
+GroupByDateDeletedMonthDescription: Grouper les éléments par mois de suppression
+GroupByDateDeletedYearDescription: Grouper les éléments par année de suppression
+GroupByDateModifiedDayDescription: Grouper les éléments par jour de modification
+GroupByDateModifiedMonthDescription: Grouper les éléments par mois de modification
+GroupByDateModifiedYearDescription: Grouper les éléments par année de modification
+SecurityClickAdvancedPermissions: Cliquez sur "Autorisations avancées" pour continuer.
+SecurityRequireReadPermissions: Vous devez avoir des autorisations de lecture pour afficher les propriétés de cet élément.
+SecuritySuggestToTakeOwnership: Pour essayer de prendre possession de l'élément, ce qui inclut l'autorisation de voir ses propriétés, cliquez sur Modifier ci-dessus.
+SecurityUnableToDisplayPermissions: Impossible d'afficher les autorisations.
+StashChanges: Laisser mes modifications sur '{0}'
+DiscardChanges: Annuler mes modifications
+BringChanges: Apporter mes modifications à '{0}'
+UncommittedChanges: Vous avez des modifications non validées sur cette branche. Que souhaitez-vous faire d'elles ?
+SwitchBranch: Changer de branche
+Branches: Branches
+Switch: Changer
+NewBranch: Nouvelle branche
+InvalidBranchName: Nom de branche invalide
+CreateBranch: Créer une branche
+CreateNewBranch: Créer une branche
+BasedOn: Basé sur
+SwitchToNewBranch: Passer à une nouvelle branche
+CreateFolderWithSelectionDescription: Créer un dossier avec le(s) élément(s) sélectionné(s)
+OpenProperties: Ouvrir les propriétés
+OpenPropertiesDescription: Ouvrir la fenêtre des propriétés
+Locals: Locaux
+Remotes: Distants
+ImproveTranslation: Traduire sur Crowdin
+GitFetch: Récupérer
+GitPull: Tirer
+GitFetchDescription: Exécuter git fetch
+GitPullDescription: Exécuter git pull
+Preview: Prévisualisation
+GitStatus: Statut Git
+GitError: Erreur Git
+PullTimeoutError: git pull a échoué en raison d'une erreur de délai
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (plusieurs valeurs)
+Author: Auteur
+DateCommitted: Date de validation
+CommitMessage: Message de révision
+CommitSha: SHA de révision
+Git: Git
+Acrylic: Acrylique
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Matériau de fond
+Solid: Solide
+ManageBranches: Gérer les branches
+Push: Envoyer
+GitPushDescription: Exécuter git push
+GitSync: Synchroniser
+GitSyncDescription: Exécuter git pull puis git push
+GitSyncStatusExtendedInfo: '{0} révisions sortantes / {1} révisions entrantes'
+ConnectGitHub: Connectez-vous à GitHub
+ConnectGitHubDescription: Entrez le code suivant dans le lien ci-dessous pour commencer à travailler avec des dépôts GitHub.
+CannotReachGitHubError: Files ne peut pas accéder à GitHub pour le moment.
+OpenInVSCode: Ouvrir le dossier dans VS Code
+OpenInVSCodeDescription: Ouvrir le dossier actuel dans Visual Studio Code
+OpenRepoInVSCode: Ouvrir le dépôt dans VS Code
+OpenRepoInVSCodeDescription: Ouvrir la racine du dépôt Git dans Visual Studio Code
+CopyCode: Copier le code
+Added: Ajouté
+Deleted: Supprimé
+Modified: Modifié
+Untracked: Non suivi
+UnableToDisplayOwner: Impossible d'afficher le propriétaire actuel.
+AuthorizationSucceded: Super ! Vous êtes maintenant autorisé.
+InitRepo: Initialiser le dépôt
+InitRepoDescription: Initialiser un dépôt Git
+GitOriginRepositoryName: Nom du dépôt distant
+GitCurrentBranch: Branche actuelle
+PathColumn: Chemin
+SortByPathDescription: Trier les éléments par chemin
+OpenDirectoryInNewPaneDescription: Ouvrir le dossier dans un nouveau volet
+OpenDirectoryInNewTabDescription: Ouvrir le dossier dans un nouvel onglet
+OpenInNewWindowDescription: Ouvrir le dossier dans une nouvelle fenêtre
+OpenAllTaggedItems: Ouvrir tout
+OpenAllTaggedItemsDescription: Ouvrir tous les éléments étiquetés
+#{0} is the drive letter.
+DriveWithLetter: Disque ({0})
+InvalidCommand: Commande invalide
+InvalidCommandContent: "'{0}' n'est pas reconnu comme une commande."
+CommandNotExecutable: Commande non exécutable
+CommandNotExecutableContent: La commande '{0}' n'est pas prête à être exécutée.
+CommandPalette: Palette de commandes
+OpenCommandPaletteDescription: Ouvrir la palette de commandes
+ShortcutItemWorkingDir: 'Démarrer dans :'
+TurnOnBitLocker: Activer BitLocker
+ManageBitLocker: Gérer BitLocker
+CopyFailureFileToLarge: Les éléments suivants sont trop volumineux pour être copiés sur ce disque dur
+FormatDrive: Formater le lecteur
+DontShowAgain: Ne plus afficher
+FilesRunningAsAdmin: Files est exécuté en tant qu'administrateur
+FilesRunningAsAdminContent: En raison d'une limitation avec Windows et WinAppSdk, le glisser-déposer n'est pas disponible lors de l'exécution de Files en tant qu'administrateur. Si vous souhaitez utiliser le glisser-déposer, vous pouvez contourner cette limitation en ouvrant l'UAC (contrôle du compte utilisateur) à partir du menu Démarrer et en sélectionnant le troisième niveau, puis en redémarrant Windows. Sinon, vous pouvez continuer à utiliser Files sans glisser-déposer.
+SettingsLeaveAppRunning: Laisser l'application s'exécuter en arrière-plan lorsque la fenêtre est fermée
+#One of the custom color themes
+Blue: Bleu
+#One of the custom color themes
+BlueGray: Gris bleu
+#One of the custom color themes
+BrickRed: Rouge brique
+#One of the custom color themes
+Camouflage: Camouflage
+#One of the custom color themes
+CoolBlueBright: Bleu froid clair
+#One of the custom color themes
+Gray: Gris
+#One of the custom color themes
+GrayDark: Gris foncé
+#One of the custom color themes
+Green: Vert
+#One of the custom color themes
+IrisPastel: Pastel iris
+#One of the custom color themes
+MintLight: Menthe clair
+#One of the custom color themes
+ModRed: Rouge modéré
+#One of the custom color themes
+OrangeBright: Orange clair
+#One of the custom color themes
+Overcast: Couche nuageuse
+#One of the custom color themes
+Red: Rouge
+#One of the custom color themes
+RoseBright: Rose clair
+#One of the custom color themes
+Seafoam: Écume de mer
+#One of the custom color themes
+Storm: Orage
+#One of the custom color themes
+VioletRedLight: Rouge violet clair
+#One of the custom color themes
+YellowGold: Or jaune
+ClearCompleted: Effacer les tâches terminées
+NameWithColon: 'Nom :'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} sur {1} traité(s)'
+ItemsLower: éléments
+CannotInitializeGitRepo: Files ne peut pas initialiser ce dossier en tant que dépôt Git.
+ContributingArtist: Artiste contributeur
+AddPage: Ajouter une page
+ProcessingItems: Traitement des éléments...
+SpeedWithColon: 'Vitesse :'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Annulation de la compression de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Annulation de la compression de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: '{0} élément(s) compressé(s) vers "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: '{0} élément(s) compressé(s) de "{1}" vers "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Erreur lors de la compression de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Échec de la compression de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Compression de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Compression de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Annulation de la copie de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Annulation de la copie de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: '{0} élément(s) copié(s) vers "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: '{0} élément(s) copié(s) de "{1}" vers "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Erreur lors de la copie de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Échec de la copie de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Copie de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Copie de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Annulation de l'extraction de "{0}" vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Annulation de l'extraction de "{0}" depuis "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: '"{0}" a été extrait dans "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: '"{0}" a été extrait depuis "{1}" vers "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Erreur lors de l'extraction de "{0}" vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Échec de l'extraction de "{0}" depuis "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Extraction de "{0}" vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Extraction de "{0}" depuis "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Annulation de la suppression de {0} élément(s) depuis "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: '{0} élément(s) supprimé(s) depuis "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Erreur lors de la suppression de {0} élément(s) depuis "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Échec de la suppression de {0} élément(s) depuis "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Suppression de {0} élément(s) depuis "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Annulation du déplacement de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Annulation du déplacement de {0} élément(s) de "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: '{0} élément(s) déplacé(s) vers "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: '{0} élément(s) déplacé(s) de "{1}" vers "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Déplacement de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Déplacement de {0} élément(s) depuis "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Erreur lors du déplacement de {0} élément(s) vers "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Échec du déplacement de {0} élément(s) depuis "{1}" vers "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Annulation du vidage de la corbeille
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Corbeille vidée
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Vidage de la corbeille
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Erreur lors du vidage de la corbeille
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Échec du vidage de la corbeille
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Préparation de l'opération...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} élément(s) traité(s)'
+UnblockDownloadedFile: Débloquer le fichier téléchargé
+NoFileOperations: Aucune opération de fichier en cours
+OpenOnStartupDisabled: L'option pour ouvrir Files au démarrage de Windows n'est pas disponible en raison des paramètres de votre système ou de votre stratégie de groupe. Pour la réactiver, ouvrez la page applications de démarrage dans le gestionnaire des tâches.
+FailedToRestore: Échec de la restauration des éléments de la corbeille
+FailedToSetBackground: Échec de la définition du fond d'écran
+GitDeleteBranch: Supprimer la branche Git
+GitDeleteBranchSubtitle: Êtes-vous sûr de vouloir supprimer définitivement la branche {0} ?
+ConnectedToGitHub: Connecté à GitHub
+Logout: Se déconnecter
+ConnectToGitHub: Se connecter à GitHub
+Login: Connexion
+ErrorApplyingTagContent: Les étiquettes sont actuellement uniquement compatibles sur les lecteurs formatés en NTFS.
+ErrorApplyingTagTitle: Une erreur s'est produite lors de l'application de cette étiquette
+DecompressArchiveHereSmartDescription: Extraire les éléments de(s) archive(s) sélectionnée(s) vers le dossier actuel pour une archive à un seul élément, ou vers un nouveau dossier pour une archive à plusieurs éléments
+ExtractHereSmart: Extraire ici (Intelligent)
+SortFilesAndFoldersTogether: Trier les fichiers et les dossiers ensemble
+SortFilesAndFoldersTogetherDescription: Trier les fichiers et les dossiers ensemble
+SortFilesFirst: Trier les fichiers en premier
+SortFilesFirstDescription: Trier les fichiers en premier, puis les dossiers
+SortFoldersFirst: Trier les dossiers en premier
+SortFoldersFirstDescription: Trier les dossiers en premier, puis les fichiers
+SortPriority: Trier par priorité
+FailedToRotateImage: Échec de la rotation de l'image
+Restart: Redémarrer
+Quit: Quitter
+FaildToShareItems: Échec du partage d'éléments
+ScrollToPreviousFolderWhenNavigatingUp: Défiler vers le dossier précédent lors de la navigation vers le haut
+NewWindowDescription: Ouvrir une nouvelle fenêtre
+ChangeAlbumCover: Changer la pochette de l'album
+ItemRenameFailed: Échec du renommage de l'élément
+HigherPermissionsRequired: La modification de "{0}" nécessite des autorisations supplémentaires
+EditPermissions: Modifier les autorisations
+BackgroundRunningNotificationBody: Files est toujours en cours d'exécution en arrière-plan pour améliorer les performances de démarrage.
+BackgroundRunningNotificationHeader: Où est allé Files ?
+QuestionsAndDiscussions: Questions & discussions
+TilesViewSizeInfo: Des tailles supplémentaires ne sont pas encore disponibles pour la vue en tuiles.
+#Used to describe layout sizes
+Compact: Compact
+#Used to describe layout sizes
+Small: Petit
+#Used to describe layout sizes
+Medium: Moyen
+#Used to describe layout sizes
+Medium+: Moyen +
+#Used to describe layout sizes
+Medium++: Moyen ++
+#Used to describe layout sizes
+Medium+++: Moyen +++
+#Used to describe layout sizes
+Medium++++: Moyen ++++
+#Used to describe layout sizes
+Medium+++++: Moyen +++++
+#Used to describe layout sizes
+Large: Grand
+#Used to describe layout sizes
+Large+: Grand +
+#Used to describe layout sizes
+Large++: Grand ++
+#Used to describe layout sizes
+Large+++: Grand +++
+#Used to describe layout sizes
+ExtraLarge: Très grand
+DetailsView: Vue détaillée
+LayoutType: Type de disposition
+Actions: Actions
+Commands: Commandes
+AddCommand: Ajouter une commande
+RestoreDefaults: Rétablir par défaut
+ChooseAnAction: Choisir une action
+RestoreDefaultKeybindingsConfirmation: Êtes-vous sûr de vouloir restaurer les raccourcis par défaut ? Cette action ne peut pas être annulée.
+KeybindingAlreadyUsedNotification: Cette liaison de clé est déjà utilisée, veuillez choisir une autre liaison pour continuer.
+KeybindingInvalidKeyNotification: Le raccourci clavier choisi ne peut pas être utilisé, veuillez réessayer avec un autre raccourci clavier.
+Customized: Personnalisé
+AdaptiveLayoutDisabledNotification: La disposition adaptative n'est pas disponible lorsque les préférences sont synchronisées, la disposition par défaut a été changée en Détails.
+BackgroundImage: Image de fond
+#Image alignment type
+Bottom: Bas
+#Image alignment type
+Center: Centrer
+#Image stretch type
+Fill: Remplir
+HorizontalAlignment: Alignement horizontal
+ImageFit: Ajustement de l'image
+#Image alignment type
+Left: Gauche
+Opacity: Opacité
+#Image alignment type
+Right: Droite
+#Image alignment type
+Top: Haut
+#Image stretch type
+Uniform: Uniforme
+#Image stretch type
+UniformToFill: Remplissage uniforme
+VerticalAlignment: Alignement vertical
+#This is a type of backdrop for the application background
+ThinAcrylic: Acrylique fin
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Afficher pour tous les emplacements
+DevTools: Outils de développement
+DisplayOpenIDE: Configurer le bouton "Ouvrir l'IDE" dans la barre d'état
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Afficher pour les repos Git
+#This is the friendly name for DLL files.
+ApplicationExtension: Extension de l'application
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Fichier ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Fichier Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Fichiers Bitmap
+NumPadTypeName: Num
+NetworkLocations: Emplacements réseau
+NoNetworkLocationsInfo: Il n'y a pas d'emplacements réseau. Si vous n'utilisez pas d'emplacements réseau, vous pouvez désactiver le widget.
+Disable: Désactiver
+EditInNotepad: Modifier dans Bloc-notes
+EditInNotepadDescription: Modifier le fichier sélectionné dans Bloc-notes

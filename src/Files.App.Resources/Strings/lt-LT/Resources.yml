@@ -1,44 +1,44 @@
 NewWindow: New window
 CopyPath: Copy path
 CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+Browse: Naršyti
+Size: Dydis
 PropertiesCreated:
-  Text: 'Created:'
+  Text: 'Sukurta:'
 Path: Path
-SizeLabel: 'Size:'
+SizeLabel: 'Dydis:'
 SizeOnDiskLabel: 'Size on disk:'
 UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
+ErrorDialogThisActionCannotBeDone: Ši veiksma negalima atlikti
+ErrorDialogTheDestinationFolder: Paskirties aplankas
+ErrorDialogIsASubfolder: yra šaltinio aplanko poaplankis
+Skip: Praleisti
+SelectAll: Pažymėti visus
 InvertSelection: Invert selection
 ClearSelection: Clear selection
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Modifikuota:'
+Accessed: 'Atidaryta:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Išvalyti visus elementus
 NavigationToolbarVisiblePath:
   PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+Search: Ieškoti
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Čia bus rodomi failai, kuriuos anksčiau atidarėte
 RecentItemRemove:
   Text: Remove this item
 OpenGitHubRepo: GitHub repository
-About: About
+About: Apie
 OpenSource: Open source
-DateFormat: Date format
+DateFormat: Datos formatas
 SettingsAppearanceTheme: Theme
 SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
 SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
 ShowDotFiles: Show dot files
-Appearance: Appearance
+Appearance: Išvaizda
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: Išplėstinė
 SettingsOnStartupContinueWhereYouLeftOff:
   Content: Continue where you left off
 SettingsOnStartupOpenANewTab:
@@ -72,15 +72,15 @@ RenameDialog:
   PrimaryButtonText: Set name
 LightTheme: Light
 DarkTheme: Dark
-Application: Application
+Application: Paraiška
 SystemTimeStyle: System
 NewFolder: New folder
 NewFile: New file
 EmptyFolder:
   Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
+Back: Back (Alt+Left Arrow)
+Forward: Forward (Alt+Right Arrow)
+Up: Up (Alt+Up Arrow)
 Refresh: Refresh
 ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
 ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
@@ -105,7 +105,7 @@ FileInUseByDialog:
 FileInUseDialog:
   Text: The file you are attempting to access is currently being used by another application
   Title: File is in use
-Layout: Layout
+Layout: Maketavimas
 PropertiesDialogReadOnly:
   Text: Read-only
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
@@ -121,9 +121,9 @@ FileNameTeachingTip:
 InvalidFilename:
   Text: The item name specified is invalid
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, one {# item selected} few {# items selected} many {# items selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
+Items: '{0, plural, one {item} few {items} many {items} other {items}}'
 Yes: 'Yes'
 ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
 ConfirmEmptyBinDialogTitle: Empty recycle bin
@@ -153,7 +153,7 @@ JumpListRecentGroupHeader: Recent
 TabStripDragAndDropUIOverrideCaption: Move tab here
 syncStatusColumn:
   Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
+SettingsPreferencesSystemDefaultLanguageOption: Windows numatytasis
 NavigationToolbarVisiblePathNoResults: No results
 SubDirectoryAccessDenied: Can't access any items to display
 MoveToFolderCaptionText: Move to {0}
@@ -167,7 +167,7 @@ PropertiesShortcutItemPath:
 PropertiesShortcutItemType:
   Text: 'Shortcut type:'
 PropertiesShortcutTypeLink: Web link
-General: General
+General: Bendra
 Shortcut: Shortcut
 ShortcutWebLinkFileType: Internet shortcut
 ShortcutCreateNewSuffix: '{0} - shortcut'
@@ -213,7 +213,7 @@ AddDialogListFolderSubHeader: Creates an empty folder
 NavResfreshButton:
   AutomationProperties:
     Name: Refresh the directory
-Language: Language
+Language: Kalba
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
 ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
 PropertySaveErrorMessage:
@@ -353,7 +353,7 @@ ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
   Label: New pane
 OpenInNewPane: Open in new pane
-FilesAndFolders: Files & folders
+FilesAndFolders: Failai ir aplankai
 NavToolbarDetails:
   ToolTipService:
     ToolTip: Details (Ctrl+Shift+1)
@@ -603,7 +603,7 @@ EnterCompactOverlay: Enter compact overlay
 ExitCompactOverlay: Exit compact overlay
 PropertyFileDescription: File description
 PropertyCompany: Company
-PropertyLanguage: Language
+PropertyLanguage: Kalba
 PropertyTrademarks: Trademarks
 PropertyFileVersion: File version
 PreviewPaneLoadCloudItemButton:
@@ -678,7 +678,7 @@ ChooseCustomIcon: Choose a custom folder icon
 Customization: Customization
 RestoreDefault: Restore default
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
-StartupSettings: Startup settings
+StartupSettings: Paleidimo nustatymai
 Compatibility: Compatibility
 None: None
 CompatibilityOnWindowsLogin: On Windows login
@@ -730,7 +730,7 @@ CloseOtherTabs: Close other tabs
 Music: Music
 Pictures: Pictures
 UpdateFiles: Update Files
-FileTags: Tags
+FileTags: Žymos
 Universal: Universal
 DateFormatSample: 'ex: {0}, {1}'
 SettingsFilesAndFoldersShowThumbnails: Show thumbnails
@@ -740,8 +740,8 @@ HiddenItems: Hidden items
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: Nustatymas
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -1013,7 +1013,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Up (Alt+Up Arrow)
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Home: Home
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,7 +1057,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: Ieškoti
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserFavorites: Favorites
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1412,7 +1412,7 @@ Large+++: Large +++
 ExtraLarge: Extra large
 DetailsView: Details view
 LayoutType: Layout type
-Actions: Actions
+Actions: Veiksmai
 Commands: Commands
 AddCommand: Add command
 RestoreDefaults: Restore defaults

@@ -1,0 +1,1467 @@
+NewWindow: Новое окно
+CopyPath: Копировать путь
+CopyPathWithQuotes: Копировать путь с кавычками
+Browse: Обзор
+Size: Размер
+PropertiesCreated:
+  Text: 'Создано:'
+Path: Путь
+SizeLabel: 'Размер:'
+SizeOnDiskLabel: 'Размер на диске:'
+UncompressedSize: 'Размер в несжатом виде:'
+ErrorDialogThisActionCannotBeDone: Это действие не может быть завершено
+ErrorDialogTheDestinationFolder: Папка назначения
+ErrorDialogIsASubfolder: это подпапка исходной папки
+Skip: Пропустить
+SelectAll: Выделить Всё
+InvertSelection: Инвертировать выделение
+ClearSelection: Очистить выделение
+PropertiesModified:
+  Text: 'Изменено:'
+Accessed: 'Открыт:'
+RecentItemClearAll:
+  Text: Очистить все
+NavigationToolbarVisiblePath:
+  PlaceholderText: Введите путь для навигации или введите ">", чтобы открыть командную строку
+Search: Поиск
+RecentItemDescription:
+  Text: Файлы, с которыми Вы ранее взаимодействовали, будут отображаться здесь
+RecentItemRemove:
+  Text: Убрать из списка
+OpenGitHubRepo: Репозиторий на GitHub
+About: О приложении
+OpenSource: С открытым исходным кодом
+DateFormat: Формат даты
+SettingsAppearanceTheme: Тема оформления
+SettingsFilesAndFoldersShowFileExtensions: Показывать расширения для известных типов файлов
+SettingsFilesAndFoldersShowHiddenItems: Показывать скрытые файлы и папки
+ShowDotFiles: Показать расширения имен файлов
+Appearance: Внешний вид
+BackgroundColor: Цвет фона
+Advanced: Расширенные
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Продолжить, где Вы остановились
+SettingsOnStartupOpenANewTab:
+  Content: Открыть новую вкладку
+SettingsOnStartupOpenASpecificPage:
+  Content: Открыть определенную страницу(-ы)
+Desktop: Рабочий стол
+Documents: Документы
+Downloads: Загрузки
+Name: Имя
+Ascending: По возрастанию
+Paste: Вставить
+BaseLayoutContextFlyoutNew:
+  Label: Создать
+Properties: Свойства
+Open: Открыть
+OpenInNewTab: Открыть в новой вкладке
+OpenInNewWindow: Открыть в новом окне
+Share: Поделиться
+Cut: Вырезать
+Delete: Удаление
+PinFolderToSidebar: Закрепить на боковой панели
+WelcomeDialog:
+  Title: Добро пожаловать в Files!
+  PrimaryButtonText: Предоставить разрешение
+WelcomeDialogTextBlock:
+  Text: Для начала вам нужно дать нам разрешение на отображение Ваших файлов. Откроется страница настроек, где Вы можете предоставить нам это разрешение. Вам нужно будет снова открыть приложение после завершения.
+Display: Отображение
+EnterAnItemName: Введите название элемента
+RenameDialog:
+  PrimaryButtonText: Введите имя
+LightTheme: Светлая
+DarkTheme: Темная
+Application: По умолчанию
+SystemTimeStyle: система
+NewFolder: Новая папка
+NewFile: Новый файл
+EmptyFolder:
+  Text: Эта папка пуста.
+Back: Назад
+Forward: Вперед
+Up: Вверх
+Refresh: Обновить
+ItemAlreadyExistsDialogContent: Элемент с таким именем уже существует в этой папке.
+ItemAlreadyExistsDialogSecondaryButtonText: Заменить существующий элемент
+ItemAlreadyExistsDialogTitle: Элемент уже существует
+SetAsLockscreen: Сделать фоном экрана блокировки
+SetAsAppBackground: Установить в качестве фона приложения
+AccessDeniedDeleteDialog:
+  Text: Ошибка при удалении этого элемента
+DriveUnpluggedDialog:
+  Text: Пожалуйста, вставьте необходимый диск для доступа к этому элементу.
+  Title: Диск отключен
+FileNotFoundDialog:
+  Text: Файл, к которому Вы пытаетесь получить доступ, возможно, был перемещен или удален.
+  Title: Файл не найден
+CannotAccessPropertiesTitle: Не удается открыть свойства этого файла
+CannotAccessPropertiesContent: Файл, к которому Вы пытаетесь получить доступ, возможно, был перемещен или удален.
+FolderNotFoundDialog:
+  Text: Возможно, папка, к которой Вы пытаетесь получить доступ, была перемещена или удалена.
+  Title: Вы удалили эту папку?
+FileInUseByDialog:
+  Text: Файл, к которому вы пытаетесь получить доступ, в настоящее время используется {0}
+FileInUseDialog:
+  Text: Файл, к которому вы пытаетесь получить доступ, в настоящее время используется другим приложением
+  Title: Файл используется
+Layout: Макет
+PropertiesDialogReadOnly:
+  Text: Только чтение
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Сейчас
+ErrorDialogUnsupportedOperation: Запрошенная операция не поддерживается
+DriveFreeSpaceAndCapacity: '{0} свободно из {1}'
+SendTo: Отправить в
+FileNameTeachingTip:
+  Subtitle: 'Имя элемента не должно содержать следующих знаков: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Указанное имя элемента недопустимо
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# элемент выбран} few {# предметов выбрано} many {# предметов выбрано} other {# предметов выбрано}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {предмет} few {предметы} many {предметы} other {предметы}}'
+Yes: Да
+ConfirmEmptyBinDialogContent: Вы уверены, что хотите безвозвратно удалить все элементы?
+ConfirmEmptyBinDialogTitle: Очистить корзину
+ItemSizeBytes: байт
+KiloByteSymbol: КБ
+MegaByteSymbol: МБ
+GigaByteSymbol: ГБ
+TeraByteSymbol: ТБ
+PetaByteSymbol: ПБ
+ByteSymbol: Б
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Запуск от имени другого пользователя
+PropertiesDriveItemTypesEquals: Все типа {0}
+PropertiesDriveItemTypeDifferent: Разные типы
+PropertiesCombinedItemLocation: Все в папке {0}
+PropertiesDriveUsedSpace:
+  Text: 'Занято:'
+PropertiesDriveFreeSpace:
+  Text: 'Свободно:'
+PropertiesDriveCapacity:
+  Text: 'Емкость:'
+PropertiesDriveFileSystem:
+  Text: 'Файловая система:'
+JumpListRecentGroupHeader: Недавние
+TabStripDragAndDropUIOverrideCaption: Переместить вкладку
+syncStatusColumn:
+  Header: Статус
+SettingsPreferencesSystemDefaultLanguageOption: Стандартный
+NavigationToolbarVisiblePathNoResults: Нет результатов
+SubDirectoryAccessDenied: Нет доступа
+MoveToFolderCaptionText: Переместить в {0}
+CopyToFolderCaptionText: Копировать в {0}
+CreateShortcut: Создать ярлык
+OpenFileLocation: Открыть расположение файла
+PropertiesShortcutItemArgs:
+  Text: 'Аргументы:'
+PropertiesShortcutItemPath:
+  Text: 'Объект:'
+PropertiesShortcutItemType:
+  Text: 'Тип объекта:'
+PropertiesShortcutTypeLink: Ссылка
+General: Общие
+Shortcut: Ярлык
+ShortcutWebLinkFileType: Интернет-ярлык
+ShortcutCreateNewSuffix: '{0} - ярлык'
+ExceptionNotificationBody: Files столкнулись с проблемой, к которой разработчики еще не подготовились.
+ExceptionNotificationHeader: Что-то пошло не так!
+ExceptionNotificationReportButton: Сообщить о проблеме
+InvalidItemDialogContent: Указанный элемент недействителен или недоступен.{0}Сообщение об ошибке:{0}{1}
+InvalidItemDialogTitle: Неверный элемент
+SettingsAboutVersionTitle: 'Версия:'
+ShareDialogFailMessage: Сейчас нет ничего, что можно было бы опубликовать...
+ShareDialogMultipleItemsDescription: Выбранные Вами элементы будут опубликованы
+ShareDialogSingleItemDescription: Выбранный элемент будет опубликован
+ShareDialogTitle: Предоставляется общий доступ к {0}
+ShareDialogTitleMultipleItems: Предоставляется общий доступ к {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Элемент, который Вы пытаетесь переименовать, больше не существует. Пожалуйста, проверьте правильность расположения элемента, который нужно переименовать.
+    Title: Элемент больше не существует
+  NameInvalid:
+    Text: Указано неверное имя. Пожалуйста, проверьте желаемое название элемента и попробуйте еще раз.
+    Title: Неверное имя элемента
+  TooLong:
+    Text: Длина указанного имени элемента превышает максимальный предел. Пожалуйста, проверьте желаемое имя и попробуйте еще раз.
+    Title: Название элемента слишком длинное
+ShowMoreOptions: Показать больше вариантов
+RestartNotificationText:
+  Text: Чтобы применить новые настройки, необходимо перезапустить приложение. Вы хотите перезапустить приложение?
+SponsorUsOnGitHub: Поддержите нас на GitHub
+AccessDeniedCreateDialog:
+  Text: Элемент не может быть создан
+AccessDenied: Отказано в доступе
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Установить как
+Cancel: Отмена
+AddDialog:
+  Title: Создать новый элемент
+AddDialogDescription:
+  Text: Выберите тип этого нового элемента ниже
+File: Файл
+AddDialogListFileSubHeader: Создает пустой файл
+Folder: Папка
+AddDialogListFolderSubHeader: Создает пустую папку
+NavResfreshButton:
+  AutomationProperties:
+    Name: Обновить каталог
+Language: Язык
+SettingsContextMenuOverflow: Переместить расширения оболочки в подменю
+ShowConfirmationWhenDeletingItems: Показывать диалоговое окно подтверждения при удалении
+PropertySaveErrorMessage:
+  Text: При сохранении некоторых свойств возникла проблема.
+PropertySaveErrorDialog:
+  Title: Ошибка
+  SecondaryButtonText: Закрыть
+PropertyRatingText: Рейтинг
+PropertyParsingPath: Путь элемента
+PropertyItemTypeText: Тип файла
+PropertyTitle: Название
+PropertySubject: Тема
+PropertyComment: Комментарий
+PropertyCopyright: Авторские права
+PropertyDateModified: Дата изменения
+PropertyBitDepth: Глубина цвета
+PropertyDimensions: Размеры
+PropertyHorizontalSize: Размер по горизонтали
+PropertyVerticalSize: Размер по вертикали
+PropertyHorizontalResolution: Разрешение по горизонтали
+PropertyVerticalResolution: Разрешение по вертикали
+PropertyColorSpace: Цветовое пространство
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Не указано
+PropertyLongitudeDecimal: Десятичная долгота
+PropertyLatitudeDecimal: Десятичная широта
+PropertyAltitude: Высота
+PropertyDateTaken: Дата съемки
+PropertyCameraManufacturer: Производитель камеры
+PropertyCameraModel: Модель камеры
+PropertyExposureTime: Выдержка
+PropertyFocalLength: Фокусное расстояние
+PropertyAperture: Диафрагма
+PropertyPeopleNames: Имена людей
+PropertyChannelCount: Число каналов
+PropertyFormat: Формат
+PropertySampleRate: Частота дискретизации
+PropertyAlbumArtist: Исполнитель альбома
+PropertyAlbumTitle: Название альбома
+Artist: Исполнитель
+PropertyBeatsPerMinute: Ударов в минуту
+PropertyComposer: Композитор
+Conductor: Дирижер
+PropertyDiscNumber: № диска
+PropertyGenre: Жанр
+PropertyTrackNumber: Номер дорожки
+PropertyDuration: Длительность
+PropertyFrameCount: Количество кадров
+PropertyProtectionType: Тип защиты
+PropertyAuthorUrl: Url Автора
+PropertyContentDistributor: Дистрибьютор
+PropertyDateReleased: Дата выпуска
+PropertySeriesName: Имя серии
+PropertySeasonNumber: Номер сезона
+PropertyEpisodeNumber: Номер эпизода
+PropertyProducer: Продюсер
+PropertyPromotionUrl: Url Рекламы
+PropertyProviderStyle: Стиль провайдера
+PropertyPublisher: Издатель
+PropertyThumbnailLargePath: Путь к Большой Миниатюре
+PropertyThumbnailLargeUri: Uri Большой Миниатюре
+PropertyThumbnailSmallPath: Путь к Маленькой Миниатюре
+PropertyThumbnailSmallUri: Uri Маленькой Миниатюры
+PropertyUserWebUrl: URL Пользователя
+PropertyWriter: Сценарист
+PropertyYear: Год
+PropertyContributor: Соавтор
+PropertyLastAuthor: Автор изменений
+PropertyRevisionNumber: Номер редакции
+PropertyVersion: Версия
+PropertyDateCreated: Дата создания
+PropertyTotalEditingTime: Общее время правки
+PropertyTemplate: Шаблон
+PropertyWordCount: Количество слов
+PropertyCharacterCount: Количество знаков
+PropertyLineCount: Количество строк
+PropertyParagraphCount: Количество абзацев
+PropertyPageCount: Количество страниц
+PropertySlideCount: Количество слайдов
+PropertyFrameRate: Частота кадров
+PropertyEncodingBitrate: Скорость потока
+PropertyPreviewAudioEncodingBitrate: Аудио кодирование битрейт
+PropertyPreviewVideoEncodingBitrate: Битрейт видео кодирования
+Compression: Сжатие
+PropertyFrameWidth: Ширина кадра
+PropertyFrameHeight: Высота кадра
+PropertyOrientation: Ориентация
+PropertySectionCore: Главное
+PropertySectionImage: Изображения
+PropertySectionPhoto: Фото
+PropertySectionGPS: GPS
+PropertySectionMedia: Медиа
+PropertySectionAudio: Аудио
+PropertySectionMusic: Музыка
+PropertySectionVideo: Видео
+Document: Документ
+Address: Адрес
+SelectionOptions: Настройки выделения
+NavToolbarSelectionOptions:
+  Label: Выделение
+RecycleBinItemAutomation: Корзина
+ShortcutItemAutomation: Ярлык
+Drives: Диски
+PinToSidebarByDraggingCaptionText: Переместить
+EjectNotificationHeader: Оборудование может быть извлечено
+EjectNotificationBody: Теперь устройство может быть безопасно извлечено из компьютера.
+EjectNotificationErrorDialogHeader: Проблема с извлечением устройства
+EjectNotificationErrorDialogBody: Устройство в данный момент используется. Закройте все программы, окна или вкладки, которые могут использовать устройство, а затем повторите попытку.
+Eject: Извлечь
+DuplicateTab: Дублировать вкладку
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Переместить вкладку в новое окно
+NewTab: Новая вкладка
+ClearPropertiesFlyoutText:
+  Text: Некоторые свойства могут содержать личную информацию.
+ClearPropertiesButton:
+  Content: Очистить все свойства
+OngoingTasksTeachingTip:
+  Subtitle: Проверить статус файловых операций здесь
+  Title: Центр операций
+SearchPagePathBoxOverrideText: Результаты поиска в {1} для {0}
+Details: Подробно
+No: Нет
+ShowProtectedSystemFiles: Показать защищённые системные файлы
+SyncFolderPreferencesAcrossDirectories: Синхронизировать настройки макета и сортировки между каталогами
+SettingsContextMenu:
+  Text: Настройки контекстного меню
+OriginalPath: Исходный путь
+Add: Добавить
+Edit: Изменить
+Remove: Убрать
+SettingsMultitaskingAlwaysOpenDualPane: Открывать вкладки в двухпанельном режиме
+ShowOpenInNewPane: Показывать опцию открытия папок в новой панели
+ShowCopyPath: Показать опцию копирования пути
+ShowCreateFolderWithSelection: Показать опцию создания папки с выделением
+ShowCreateShortcut: Показать опцию создания ярлыка
+NavigationToolbarNewPane:
+  Label: Новая панель
+OpenInNewPane: Открыть в новой панели
+FilesAndFolders: Файлы и папки
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Таблица (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Плитка (Ctrl+Shift+2)
+DateDeleted: Дата удаления
+SidebarCloudDrives: Облачные хранилища
+Confirm: Создать
+DesiredName: Имя Коллекции
+TogglePreviewPane: Показать панель предварительного просмотра
+ToggleDetailsPane: Показать панель подробного просмотра
+ToggleDetailsPaneDescription: Показать панель деталей для просмотра основных свойств файла
+ToggleInfoPane: Показать информационную панель
+ToggleInfoPaneDescription: Переключить панель информации для просмотра панелей с подробностями / предварительным просмотром
+DetailsPanePreviewNotAvaliableText: Предпросмотр недоступен
+PropertyItemName: Имя
+UnpinFolderFromSidebar: Убрать из боковой панели
+Network: Сеть
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Подробности о файле
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Предварительный просмотр файла
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Панель предварительного просмотра выбранного файла
+Feedback: Обратная связь
+CloudDriveSyncStatus_Online: Доступно в сети
+Documentation: Документация
+CloudDriveSyncStatus_Offline: Доступно оффлайн
+CloudDriveSyncStatus_PartialOffline: Частично доступно оффлайн
+CloudDriveSyncStatus_Sync: Синхронизация
+CloudDriveSyncStatus_Excluded: Исключено из синхронизации
+ItemSizeNotCalculated: Не рассчитано
+CloudDriveSyncStatus_Unknown: Неизвестно
+RenameFileDialog:
+  Text: Если Вы измените расширение файла, файл может стать непригодным для использования. Вы уверены, что хотите его изменить?
+DriveTypeCDRom: CD ROM привод
+DriveTypeCloudDrive: Облачный диск
+DriveTypeFixed: Фиксированный диск
+DriveTypeFloppyDisk: Дисковод гибких дисков
+DriveTypeNetwork: Сетевой диск
+DriveTypeNoRootDirectory: Не смонтированный диск
+DriveTypeRam: RAM диск
+DriveTypeRemovable: Съемное запоминающее устройство
+DriveTypeUnknown: Неизвестно
+DriveTypeVirtualDrive: Виртуальный диск
+DateCreated: Дата создания
+MoreOptions: Больше опций...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Подключить сетевой диск
+Pinned: Закреплённые
+SidebarLibraries: Библиотеки
+NoItemSelected: Элементы не выбраны
+PropertyItemTarget: Цель
+Arguments: Аргументы
+Default: По умолчанию
+PropertyItemCount: Число элементов
+ElevateConfirmDialog:
+  Title: Для этого действия требуются права администратора
+  Content: Хотели бы Вы продолжить работу в качестве администратора?
+ColumnsShortcutTooltip: Столбцы (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Закрепить на начальном экране
+UnpinItemFromStart:
+  Text: Открепить от начального экрана
+Library: Библиотека
+LibraryLocations:
+  Text: 'Расположения:'
+SetAsDefaultSavePath: Установить как путь по умолчанию
+LibraryNoLocations:
+  Text: Расположения отсутствуют
+ErrorInputEmpty: Поле ввода не может быть пустым!
+ErrorNameInputRestrictedCharacters: 'Имя не должно содержать следующие символы: \ / : * ? " < > |'
+ErrorNameInputRestricted: Использование этого имени запрещено!
+CreateLibraryErrorAlreadyExists: Библиотека с таким названием уже существует!
+OpenStorageSense: Открыть Контроль памяти
+Copy: Копировать
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Переместить
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Продолжить
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Удалить безвозвратно
+PropertyISO: скорость ISO
+ReplaceExisting: Заменить имеющиеся
+GenerateNewName: Сгенерировать новое имя
+CreateFolderWithSelection: Создать папку из выбранных элементов
+ItemType: 'Тип:'
+ToolTipDescriptionDate: 'Дата изменения:'
+OpenWith: Открыть с помощью
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Значок файла
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Путь
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Тип
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Дата изменения
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Дата удаления
+Sort: Сортировка
+DateModifiedLowerCase: Дата изменения
+OriginalFolder: Исходная папка
+Descending: По убыванию
+ItemSizeText_Huge: Огромный
+ItemSizeText_VeryLarge: Очень большой
+ItemSizeText_Large: Большой
+ItemSizeText_Medium: Средний
+ItemSizeText_Small: Маленький
+ItemSizeText_Tiny: Крошечный
+Future: Будущее
+Today: Сегодня
+Yesterday: Вчера
+EarlierThisWeek: Ранее на этой неделе
+LastWeek: На прошлой неделе
+EarlierThisMonth: Ранее в этом месяце
+LastMonth: В прошлом месяце
+EarlierThisYear: Ранее в этом году
+LastYear: Прошлый год
+YearN: Год {0}
+GroupItemsCount_Singular: '{0} элемент'
+GroupItemsCount_Plural: '{0} элементов'
+ReopenClosedTab: Открыть закрытую вкладку
+Rename: Переименовать
+Privacy: Конфиденциальность
+TheRecycleBin: Корзину
+Canceling: Отмена
+Clear: Очистить
+Widgets: Виджеты
+SyncStatus: Состояние синхронизации
+Security: Безопасность
+AdvancedPermissions: Расширенные разрешения
+Allow: Разрешить
+Deny: Запретить
+SecurityFullControlLabel:
+  Text: Полный доступ
+SecurityListDirectoryLabel:
+  Text: Чтение
+Modify: Изменить
+SecurityPermissionsHeaderText: Разрешения для {0}
+SecurityReadAndExecuteLabel:
+  Text: Чтение и выполнение
+SecurityReadLabel:
+  Text: Чтение
+SecurityUsersGroupLabel:
+  Text: Группы или пользователи
+Write: Запись
+SecurityUnknownAccount: Неизвестная учетная запись
+SecurityCannotReadProperties:
+  Text: У Вас нет прав на просмотр свойств безопасности этого объекта. Нажмите «Расширенные разрешения», чтобы продолжить.
+SecurityOwnerLabel:
+  Text: 'Владелец:'
+SecurityUnknownOwnerText:
+  Text: Неизвестный владелец
+ExtractArchive: Распаковать архив
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: По завершении открыть папку назначения
+BaseLayoutItemContextFlyoutExtractToChildFolder: Извлечь в {0}\
+SideBarCreateNewLibrary:
+  Text: Создать библиотеку
+SideBarRestoreLibraries:
+  Text: Восстановить библиотеки по умолчанию
+DialogRestoreLibrariesSubtitleText: Вы уверены, что хотите восстановить библиотеки по умолчанию? Все Ваши файлы останутся на Вашем диске.
+DialogRestoreLibrariesTitleText: Восстановить библиотеки
+PropertyFileOwner: Владелец
+SecuritySpecialLabel:
+  Text: Особые
+Access: Доступ
+SecurityAdvancedAppliesTo: Применяется к
+Principal: Основные
+SecurityAdvancedFlagsFilesLabel: файлы
+SecurityAdvancedFlagsFolderLabel: эта папка
+SecurityAdvancedFlagsSubfoldersLabel: подпапки
+Inherited: Унаследовано
+Permissions: Разрешения
+SecurityAdvancedCannotReadProperties:
+  Text: У Вас нет прав на просмотр свойств безопасности этого объекта. Вы можете попробовать стать владельцем этого объекта.
+SecurityAdvancedFolderFiles:
+  Text: Для этой папки и ее файлов
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Для этой папки, ее подпапок и файлов
+SecurityAdvancedOnlyFiles:
+  Text: Только файлы
+SecurityAdvancedOnlySubfolders:
+  Text: Только подпапки
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Только подпапки и файлы
+SecurityAdvancedOnlyThisFolder:
+  Text: Только эта папка
+SecurityAdvancedFolderSubfolders:
+  Text: Для этой папки и ее подпапок
+SecurityAppendDataLabel:
+  Text: Добавить данные
+SecurityChangePermissionsLabel:
+  Text: Изменить разрешения
+SecurityCreateDirectoriesLabel:
+  Text: Создание папок
+SecurityCreateFilesLabel:
+  Text: Создание файлов
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Удаление подпапок и файлов
+SecurityExecuteFileLabel:
+  Text: Выполнение файлов
+SecurityReadAttributesLabel:
+  Text: Чтение атрибутов
+SecurityReadDataLabel:
+  Text: Чтение данных
+SecurityReadExtendedAttributesLabel:
+  Text: Чтение дополнительных атрибутов
+SecurityReadPermissionsLabel:
+  Text: Чтение разрешений
+SecurityTakeOwnershipLabel:
+  Text: Смена владельца
+SecurityTraverseLabel:
+  Text: Траверс папок
+SecurityWriteAttributesLabel:
+  Text: Запись атрибутов
+SecurityWriteDataLabel:
+  Text: Запись данных
+SecurityWriteExtendedAttributesLabel:
+  Text: Запись дополнительных атрибутов
+SecurityAdvancedInheritedConvert:
+  Text: Преобразовать унаследованные разрешения в явные разрешения
+SecurityAdvancedInheritedEnable:
+  Text: Включить наследование
+SecurityAdvancedInheritedRemove:
+  Text: Удалить все унаследованные разрешения
+SecurityAdvancedReplaceChildPermissions:
+  Text: Сбросить дочерние разрешения
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Заменить все записи разрешений дочернего объекта наследуемыми записями разрешений от этого объекта
+NavigationToolbarClosePane:
+  Label: Закрыть панель
+EnterCompactOverlay: Войти в компактный режим
+ExitCompactOverlay: Выйти из компактного режима
+PropertyFileDescription: Описание файла
+PropertyCompany: Организация
+PropertyLanguage: Язык
+PropertyTrademarks: Товарные знаки
+PropertyFileVersion: Версия файла
+PreviewPaneLoadCloudItemButton:
+  Text: Загрузить предпросмотр полностью
+  ToolTipService:
+    ToolTip: Загружает объект из облака и загружает предварительный просмотр
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Несжатый размер
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Скрыть секцию {0}
+AddFile: Добавить файл
+ConsentDialogTitle: Доступны обновления
+ConsentDialogContent: Обновления готовы к установке
+Close: Закрыть
+ConsentDialogPrimaryButtonText: Обновить
+Home: Главная
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Распаковка архива успешно завершена.
+ExtractingArchiveText: Идет распаковка архива
+ExtractingCompleteText: Распаковка завершена!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Открыть родительскую папку
+Unknown: Неизвестно
+EditTags: Редактировать метки
+PropertyPartOfSet: Часть набора
+InsertDiscDialog:
+  OpenDriveButton: Открыть диск
+  Text: Пожалуйста, вставьте диск в устройство {0}
+  Title: Вставьте диск
+OK: Ок
+AskCredentialDialog:
+  Title: Требуются учетные данные
+CredentialDialogAnonymous:
+  Content: Анонимно
+CredentialDialogDescription:
+  Text: 'Предоставьте Ваши учетные данные:'
+CredentialDialogUserName:
+  PlaceholderText: Имя пользователя
+NoSearchResultsFound: Не найдено
+OpenLogLocation: Перейти к расположению журнала отладки
+LinkToFolderCaptionText: Создать ссылку в {0}
+Columns: Столбцы
+Tiles: Плитки
+OpenFoldersInNewTab: Открывать папки в новой вкладке
+StatusCenter: Центр операций
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Дата создания
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Размер
+ExperimentalFeatureFlags: Экспериментальные функции
+HelpAndSupport: Помощь и поддержка
+SubmitFeatureRequest: Предложить идею
+SubmitBugReport: Сообщить об ошибке
+SettingsSetAsDefaultFileManager: Установить Files как файловый менеджер по умолчанию
+SettingsSetAsOpenDialog: Иcпользовать Files как диалог для открытия файлов
+Tag: Тэг
+SettingsOpenItemsWithOneClick: Открывать файлы и папки одним нажатием
+FolderPath: Путь к папке
+ExportSettings: Экспортировать настройки
+ImportSettings: Импортировать настройки
+SettingsImportErrorDescription: Невозможно импортировать настройки. Файлы настроек некорректны
+SettingsImportErrorTitle: Ошибка при импорте настроек
+EmptyRecycleBin: Очистить Корзину
+Sidebar: Боковая панель
+ChooseCustomIcon: Выбрать иконку для папки
+Customization: Персонализация
+RestoreDefault: Сбросить до заводских
+OpenTabInExistingInstance: Открывать вкладку в существующем экземпляре File при открытии из другого приложения
+StartupSettings: Настройки запуска
+Compatibility: Совместимость
+None: Никак
+CompatibilityOnWindowsLogin: При входе в Windows
+CompatibilityOnProgramStart: При запуске программы
+System: Система
+CompatibilitySystemEnhanced: Система (продвинутый)
+CompatibilityReducedColorModeColor16bit: 16-битный цвет (65536)
+CompatibilityReducedColorModeColor8bit: 8-битный цвет (256)
+CompatibilityDisableFullscreenOptimizations: Отключить полноэкранную оптимизацию
+CompatibilityRunIn640x480Resolution: Запускать в разрешении 640 x 480
+CompatibilityOverrideHighDPIBehavior: Переопределить масштабирование на Hi-DPI
+CompatibilityReducedColorMode: Режим пониженной цветности
+CompatibilityRegisterThisProgramForRestart: Регистрация программы для перезапуска
+RunAsAdministrator: Запустить от имени администратора
+CompatibilityRunTroubleshooter: Запустить средство устранения неполадок совместимости
+CompatibilityUseDPISettings: Использовать масштабирование главного монитора
+CompatibilityDoNotAdjustDPI: Не изменять DPI
+CompatibilityDoNotOverrideDPI: Не переопределить DPI
+CompatibilityMode: Режим совместимости
+CompatibilityNoReducedColor: Без уменьшения цвета
+ThirdPartyLicenses: Лицензии третьих лиц
+SettingsSetAsDefaultFileManagerDescription: Этот параметр изменяет реестр Windows и может иметь неожиданные побочные эффекты на вашем устройстве. Продолжайте на свой страх и риск.
+FolderWidgetCreateNewLibraryDialogTitleText: Создать Библиотеку
+FolderWidgetCreateNewLibraryInputPlaceholderText: Введите название Библиотеки
+CalculateFolderSizes: Вычислить размер папки
+RecentFiles: Недавние файлы
+SettingsOpenInLogin: Добавить Files в автозагрузку Windows
+Attributes: Аттрибуты
+Hidden: Скрытые
+MoreDetails: Больше информации
+ReadOnly: Только для чтения
+CleanupDrive: Очистить содержимое вашего диска
+Type: Тип
+Bytes: Байты
+Extract: Извлечь
+ExtractFiles: Извлечь файлы
+ExtractHere: Извлечь сюда
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Извлечь в {0}
+RunScript: Запустить скрипт
+RunWithPowerShell: Запустить в PowerShell
+ShowFolderSizesWarning: Вычисление размеров папок требует ресурсы ЦП и может увеличить нагрузку.
+RotateLeft: Повернуть влево
+RotateRight: Повернуть вправо
+Install: Установить
+CloseTabsToTheLeft: Закрыть все вкладки слева
+CloseTabsToTheRight: Закрыть вкладки справа
+CloseOtherTabs: Закрыть другие вкладки
+Music: Музыка
+Pictures: Фотографии
+UpdateFiles: Обновить Files
+FileTags: Метки
+Universal: Универсальная
+DateFormatSample: 'например: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Показать эскизы
+Retry: Повторить
+ErrorDialogUnsupportedMoveOperation: В данном случае операция перемещения не поддерживается. Хотите вместо этого скопировать элементы?
+HiddenItems: Скрытые элементы
+Custom: Пользовательский
+SetAsSlideshow: Установить как слайд-шоу рабочего стола
+SizeAllColumnsToFit: Столбцы по размеру содержимого
+Adaptive: Адаптивный макет
+AdaptiveShortcutTooltip: Адаптивный (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Показывать альтернативные потоки данных
+Behaviors: Поведение
+ReviewFiles: Оценить Files
+ReviewFilesContent: Хотели бы вы оценить Files?
+SetAsBackgroundFlyout: Сделать фоном рабочего стола
+SetAsBackground: Сделать фоном рабочего стола
+SetAsDefault: Установить по умолчанию
+DateColumn: Столбец даты изменения
+DateCreatedColumn: Столбец даты создания
+SizeColumn: Столбец размера
+TagColumn: Столбец метки
+TypeColumn: Столбец типа
+Lockscreen: Экран блокировки
+OpenFolderWithOneClickColumnsLayout: Открывать папки одним кликом в макете Столбцы
+OpeningItems: Открытие объектов
+Compress: Сжать
+SelectFilesAndFoldersOnHover: Выделение файлов и папок при наведении на них курсора мыши
+ConfirmRestoreBinDialogContent: Вы уверены, что хотите восстановить все элементы в корзине?
+ConfirmRestoreBinDialogTitle: Восстановить все элементы
+ConfirmRestoreSelectionBinDialogContent: Вы хотите восстановить {0} выбранный(ые) элемент(ы)?
+ConfirmRestoreSelectionBinDialogTitle: Восстановить выбранное
+RestoreAllItems: Восстановить все элементы
+Restore: Восстановить
+ShortcutCannotBeOpened: Ярлык не может быть открыт
+DeleteShortcutDescription: Целевой адресат не может быть найден {0}. Вы хотите удалить этот ярлык?
+AccessDeniedToFolder: У вас нет прав для доступа к этой папке.
+ArchivePassword: Пароль архива
+ExtractToPath: Путь
+SortingAndGrouping: Сортировка и группировка
+CreateArchive: Создать архив
+Create: Создать
+CreateNamedArchive: Создать {0}
+EnterName: Введите имя
+CompressionLevel: Уровень сжатия
+CompressionLevelUltra: Ультра
+CompressionLevelHigh: Высокий
+CompressionLevelNormal: Нормальный
+CompressionLevelLow: Низкий
+CompressionLevelFast: Быстрый
+CompressionLevelNone: Отсутствует
+SplittingSize: Размер тома
+Do not split: Не разбивать
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Шифрование
+Password: Пароль
+Format: Формат
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Синхронизировать колонку статуса
+GroupBy: Группировка по
+SortBy: Сортировка по
+GroupInDescendingOrder: Группировать в порядке убывания
+SortInDescendingOrder: Сортировать в порядке убывания
+NewShortcutDialogTitle: Создать новый ярлык
+NewShortcutDialogDescription: Создавайте ярлыки для локальных или сетевых программ, файлов, папок, компьютеров и Интернет-адресов.
+NewShortcutDialogPrompt: 'Введите местоположение элемента:'
+AddDialogListShortcutSubHeader: Создать ярлык
+RecentFilesDisabledOnWindowsWarning: В настоящее время в Проводнике Windows отключена функция Недавно использованные файлы.
+EditSettingsFile: Редактировать файл настроек
+WhatsNew: Из нового
+CannotCreateShortcutDialogTitle: Создание ярлыка в этом месте требует права администратора
+CannotCreateShortcutDialogMessage: Хотите вместо этого создать ярлык на рабочем столе?
+ErrorDialogNameNotAllowed: Указанное имя элемента недопустимо
+Settings: Настройки
+DoubleClickBlankSpaceToGoUp: Дважды нажмите на пустую область, чтобы перейти на одну папку назад
+ViewMore: Показать еще
+ShowEditTagsMenu: Показывать опцию редактирования Меток
+ShowCompressionOptions: Показать опции сжатия
+ShowSendToMenu: Показать отправить в меню
+ShowOpenInNewTab: Показывать опцию открытия папок в новой вкладке
+ShowOpenInNewWindow: Показывать опцию открытия папок в новом окне
+QuickAccess: Быстрый доступ
+NetworkAuthenticationDialogMessage: 'Введите ваши учетные данные для подключения: {0}'
+NetworkAuthenticationDialogTitle: Введите учетные данные сети
+NetworkAuthenticationSaveCheckbox: Запомнить мои данные
+NetworkFolderErrorDialogTitle: Ошибка сетевой папки
+AppVersion: Версия приложения
+WindowsVersion: Версия Windows
+Always: Всегда
+PermanentDeletionOnly: Удалять навсегда
+Never: Никогда
+TagColor: Цвет тэга
+NewTag: Новая метка
+CreateNewTag: Создать новую тэг
+Loading: Загрузка...
+ContextMenuOptions: Настройки контекстного меню
+ShowFileExtensions: Показывать расширения файлов
+ShowHiddenItems: Показывать скрытые элементы
+FormatDriveText: Форматировать...
+Help: Помощь
+FullScreen: Включить полноэкранный режим
+ConfirmDeleteTag: Вы уверены, что хотите удалить этот тэг?
+PlayAll: Воспроизвести все
+Height: Высота
+Width: Ширина
+ApplyToAllConflictingItems: Применить это действие ко всем конфликтующим элементам
+OpenTerminal: Открыть в Windows Terminal
+OpenTerminalAsAdmin: Открыть в Windows Terminal от имени администратора
+Save: Сохранить
+MultiSelect: Мультивыбор
+ReorderSidebarItemsDialogText: Изменить порядок элементов боковой панели
+Hashes: Хеши
+CalculationError: Произошла ошибка при вычислении
+CalculationErrorFileIsOpen: Не удалось вычислить хэш, пожалуйста, закройте файл и повторите попытку.
+CalculationOnlineFileHashError: Хэши недоступны для онлайн-файлов
+Algorithm: Алгоритм
+HashValue: Значение хеша
+SelectHashesToShow: Выберите хеши для отображения
+Calculating: Вычисление...
+JumpListPinnedGroupHeader: Закрепленные элементы
+DecreaseSize: Уменьшить размер
+IncreaseSize: Увеличить размер
+ToggleSortDirection: Переключить направление сортировки
+InvalidTagNameWarning: Некорректное имя
+TagNameRules: Имя не должно быть пустым или начинаться или заканчиваться точкой.
+Videos: Видео
+LaunchPreviewPopup: Запустить предпросмотр
+ToggleCompactOverlay: Включить компактный режим
+OpenHelpDescription: Открыть страницу онлайн справки в браузере
+ToggleFullScreenDescription: Включить полноэкранный режим
+EnterCompactOverlayDescription: Войти в компактный режим
+ExitCompactOverlayDescription: Выйти из компактного режима
+ToggleCompactOverlayDescription: Включить компактный режим
+SearchDescription: Перейти в окно поиска
+ToggleShowHiddenItemsDescription: Вкл/Выкл отображение скрытых элементов
+ToggleShowFileExtensionsDescription: Вкл/Выкл отображение скрытых элементов
+TogglePreviewPaneDescription: Переключить панель предварительного просмотра для просмотра превью файла
+ToggleSidebarDescription: Вкл/Выкл отображение боковой панели
+CopyItemDescription: Копировать элемент(ы) в буфер обмена
+CopyPathDescription: Копировать путь выбранных элементов в буфер обмена
+CopyPathWithQuotesDescription: Копировать путь выбранных элементов с кавычками в буфер обмена
+CutItemDescription: Вырезать элемент(ы) в буфер обмена
+PasteItemDescription: Вставить элемент(ы) из буфера в текущую папку
+PasteItemToSelectionDescription: Вставить элемент(ы) из буфера обмена в выбранную папку
+DeleteItemDescription: Удалить элемент(ы)
+CreateFolderDescription: Создать папку
+CreateShortcutDescription: Создать ярлык для выбранных элемент(-ов)
+CreateShortcutFromDialogDescription: Создать ярлык для любого элемента
+EmptyRecycleBinDescription: Очистить корзину
+FormatDriveDescription: Открыть меню "форматирование диска"
+RestoreRecycleBinDescription: Восстановить элемент(ы) из корзины
+RestoreAllRecycleBinDescription: Восстановить все элементы из корзины
+OpenItemDescription: Открыть элемент(ы)
+OpenItemWithApplicationPickerDescription: Открыть элемент(ы) в выбранном приложении
+OpenParentFolderDescription: Открыть родительскую папку искомого элемента
+RefreshItemsDescription: Обновить содержимое страницы
+RenameDescription: Переименовать выбранный объект
+SelectAllDescription: Выбрать все
+InvertSelectionDescription: Инвертировать выделение
+ClearSelectionDescription: Очистить выделение
+ToggleSelectDescription: Переключить выбор элемента
+ShareItemDescription: Отправить выбранные файл(ы) другим
+PinToStartDescription: Закрепить элемент(ы) в меню Пуск
+UnpinFromStartDescription: Открепить элемент(ы) из меню Пуск
+PinFolderToSidebarDescription: Закрепить папку(и) на боковую панель
+UnpinFolderFromSidebarDescription: Открепить папку(и) от боковой панели
+SetAsWallpaperBackgroundDescription: Установить как фон рабочего стола
+SetAsSlideshowBackgroundDescription: Установить как слайд-шоу рабочего стола
+SetAsLockscreenBackgroundDescription: Установить как обои экрана блокировки
+SetAsAppBackgroundDescription: Установить выбранное изображение в качестве фона приложения
+InstallFontDescription: Установить выбранный(е) шрифт(ы)
+InstallInfDriverDescription: Установить драйвер(ы) с помощью выбранного inf файла(ов)
+InstallCertificateDescription: Установить выбранный(е) сертификат(ы)
+RunAsAdminDescription: Запустить от имени администратора
+RunAsAnotherUserDescription: Запустить от имени другого пользователя
+RunWithPowershellDescription: Запустить выбранный скрипт PowerShell
+LaunchPreviewPopupDescription: Запустить предпросмотр во всплывающем окне
+CompressIntoArchiveDescription: Создать архив с выбранными элементами
+CompressIntoSevenZipDescription: Создать 7-zip архив с выбранными элементами
+CompressIntoZipDescription: Создать zip архив с выбранными элементами
+DecompressArchiveDescription: Извлечь элементы из выбранного(ых) архива(ов) в любую папку
+DecompressArchiveHereDescription: Извлечь элементы из выбранного(ых) архива(ов) в текущую папку
+DecompressArchiveToChildFolderDescription: Извлечь элементы из выбранного(ых) архива(ов) в новую папку
+RotateLeftDescription: Повернуть выбранное(ые) изображение(ия) влево
+RotateRightDescription: Повернуть выбранное(ые) изображение(ия) вправо
+OpenSettingsDescription: Открыть страницу настроек
+OpenTerminalDescription: Открыть папку в терминале
+OpenTerminalAsAdminDescription: Открыть папку в терминале от имени администратора
+LayoutDecreaseSizeDescription: Уменьшить размер элемента в текущем виде
+LayoutIncreaseSizeDescription: Увеличить размер элемента в текущем виде
+LayoutDetailsDescription: Переключить на подробный вид
+LayoutTilesDescription: Режим плиток
+LayoutListDescription: Переключиться на вид списка
+List: Список
+Grid: Сетка
+LayoutGridDescription: Показать в виде сетки
+LayoutColumnsDescription: Режим столбцов
+LayoutAdaptiveDescription: Адаптивное переключение режимов
+SortByNameDescription: Сортировать элементы по имени
+SortByDateModifiedDescription: Сортировать элементы по дате изменения
+SortByDateCreatedDescription: Сортировать элементы по дате создания
+SortBySizeDescription: Сортировать элементы по размеру
+SortByTypeDescription: Сортировать элементы по типу
+SortBySyncStatusDescription: Сортировать объекты по их статусу
+SortByTagDescription: Сортировать элементы по тэгам
+SortByOriginalFolderDescription: Сортировать объекты по исходной папке
+SortByDateDeletedDescription: Сортировать элементы по дате удаления
+SortAscendingDescription: Сортировать элементы в порядке возрастания
+SortDescendingDescription: Сортировать элементы в порядке убывания
+ToggleSortDirectionDescription: Переключить направление сортировки объектов
+GroupByNoneDescription: Перечислять объекты без группировки
+GroupByNameDescription: Группировать элементы по имени
+GroupByDateModifiedDescription: Группировать элементы по дате изменения
+GroupByDateCreatedDescription: Группировать элементы по дате создания
+GroupBySizeDescription: Группировать элементы по размеру
+GroupByTypeDescription: Группировать элементы по типу
+GroupBySyncStatusDescription: Группировать объекты по их статусу
+GroupByTagDescription: Группировать элементы по тэгам
+GroupByOriginalFolderDescription: Группировать объекты по исходной папке
+GroupByDateDeletedDescription: Группировать элементы по дате удаления
+GroupByFolderPathDescription: Группировать элементы по пути файла
+GroupAscendingDescription: Сортировать группы в порядке возрастания
+GroupDescendingDescription: Сортировать группы в порядке убывания
+ToggleGroupDirectionDescription: Переключить направление сортировки групп
+NewTabDescription: Открыть новую вкладку
+NavigateBackDescription: Переход назад в истории навигации
+NavigateForwardDescription: Переход вперед в истории навигации
+NavigateUpDescription: Перейти на одну папку назад
+DuplicateCurrentTabDescription: Дублировать текущую вкладку
+DuplicateSelectedTabDescription: Дублировать выбранные вкладки
+CloseTabsToTheLeftCurrentDescription: Закрыть вкладки слева от текущей вкладки
+CloseTabsToTheLeftSelectedDescription: Закрыть вкладки слева от выбранной вкладки
+CloseTabsToTheRightCurrentDescription: Закрыть вкладки справа от текущей вкладки
+CloseTabsToTheRightSelectedDescription: Закрыть вкладки справа от выбранной вкладки
+CloseOtherTabsCurrentDescription: Закрыть все вкладки кроме текущей
+CloseOtherTabsSelectedDescription: Закрыть все вкладки кроме выбранной
+ReopenClosedTabDescription: Восстановить последнюю закрытую вкладку
+PreviousTabDescription: Переход на предыдущую вкладку
+NextTabDescription: Переход на следующую вкладку
+CloseSelectedTabDescription: Закрыть текущую вкладку
+OpenNewPaneDescription: Открыть новую панель
+ClosePaneDescription: Закрыть правую панель
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Переключить панель
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Пробел
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Влево
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Вправо
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Вниз
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Вверх (Alt+Стрелка вверх)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Главная
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: Конец
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: '|'
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Пауза
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Сон
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Очистить
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Вывести
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Помощь
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Мышь4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Мышь5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Приложение
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Приложение1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Приложение2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Почта
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Домой
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Назад
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Вперёд
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Обновление браузера
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Поиск
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Избранное
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: Пауза/Продолжить
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: Остановить Медиа
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: Предыдущий трек
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: Следующий трек
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: Выбор медиа
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Заглушить
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: Громкость-
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: Громкость+
+Change: Редактировать
+ToggleSelect: Выбрать выделенные
+ShowFileExtensionWarning: Показывать предупреждение при смене расширений файлов
+ThisPC: Этот компьютер
+RecycleBin: Корзина
+Untagged: Без тегов
+PreviousTab: Перемещает на предыдущую вкладку
+NextTab: Перемещает на следующую вкладку
+CloseTab: Закрывает текущую вкладку
+EditPath: Изменить путь
+Redo: Повторить
+Undo: Отменить
+InvalidLocation: Неправильный путь
+CopyFileWithoutProperties: Вы уверенны, что хотите скопировать эти файлы без их параметров?
+FilePropertiesCannotBeCopied: Эти файлы имеют параметры, которые нельзя скопировать в другое место
+FilePropertiesCannotBeMoved: Эти файлы имеют параметры, которые нельзя переместить в другое место
+MoveFileWithoutProperties: Вы уверенны, что хотите переместить эти файлы без их параметров?
+ShowCheckboxesWhenSelectingItems: Отображать чекбоксы при выборе элементов
+EditPathDescription: Сфокусироваться на строчке поиска
+AddItemDescription: Создать новый элемент
+SecurityNoAccessControlEntriesText: Нет групп или пользователей с разрешением в этот объект. Но создатель этого объекта может назначать разрешения.
+OpenFileLocationDescription: Открыть расположение элементов
+DeletePermanently: Удалить навсегда
+DeleteItemPermanentlyDescription: Удалить элемент(ы) навсегда
+PlayAllDescription: Воспроизвести выбранные медиа файлы
+UndoDescription: Отменить последнюю операцию
+RedoDescription: Переделать последнюю операцию
+Location: 'Расположение:'
+GroupByMonthDescription: Группировать элементы по месяцам
+GroupByYearDescription: Группировать элементы по годам
+Month: Месяц
+Day: День
+ToggleGroupByDateUnitDescription: Включить группировку по дате
+ToggleGroupingUnit: Переключить группировку
+Year: Год
+GroupByDateUnit: Группировать по дате
+GroupByDateCreatedDayDescription: Группировать по дням создания
+GroupByDateCreatedMonthDescription: Группировать элементы по месяцам с даты создания
+GroupByDateCreatedYearDescription: Группировать элементы по годам с даты создания
+GroupByDateDeletedDayDescription: Группировать по дням удаления
+GroupByDateDeletedMonthDescription: Группировать элементы по месяцам с даты удаления
+GroupByDateDeletedYearDescription: Группировать элементы по годам с даты удаления
+GroupByDateModifiedDayDescription: Группировать по дням изменения
+GroupByDateModifiedMonthDescription: Группировать элементы по месяцам с даты изменения
+GroupByDateModifiedYearDescription: Группировать элементы по годам с даты изменения
+SecurityClickAdvancedPermissions: Нажмите 'Расширенные права' для продолжения.
+SecurityRequireReadPermissions: Вы должны иметь разрешение на чтение для просмотра свойств этого элемента.
+SecuritySuggestToTakeOwnership: Чтобы попробовать стать владельцем объекта, включая разрешение на просмотр его свойств, нажмите кнопку «Изменить» выше.
+SecurityUnableToDisplayPermissions: Невозможно отобразить разрешения.
+StashChanges: Оставить мои изменения на '{0}'
+DiscardChanges: Сбросить мои изменения
+BringChanges: Внести мои изменения в '{0}'
+UncommittedChanges: У вас есть незакоммиченные изменения в этой ветке. Что вы хотите с ними сделать?
+SwitchBranch: Сменить ветку
+Branches: Ветки
+Switch: Переключить
+NewBranch: Новая ветка
+InvalidBranchName: Недопустимое имя ветки
+CreateBranch: Создать ветку
+CreateNewBranch: Создать ветку
+BasedOn: На основе
+SwitchToNewBranch: Переключиться на новую ветку
+CreateFolderWithSelectionDescription: Создать папку с выбранными в данный момент элементами
+OpenProperties: Открыть свойства
+OpenPropertiesDescription: Открыть окно свойств
+Locals: Локальные
+Remotes: Удалённые
+ImproveTranslation: Translate on Crowdin
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Запустить git fetch
+GitPullDescription: Запустить git pull
+Preview: Предпросмотр
+GitStatus: Статус git
+GitError: Ошибка с Git
+PullTimeoutError: ошибка git pull из-за времени ожидания
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (несколько значений)
+Author: Автор
+DateCommitted: Дата коммита
+CommitMessage: Сообщение коммита
+CommitSha: SHA коммита
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Материал фона
+Solid: Сплошной
+ManageBranches: Управление ветками
+Push: Push
+GitPushDescription: Запустить git push
+GitSync: Sync
+GitSyncDescription: Запустить git pull, а затем git push
+GitSyncStatusExtendedInfo: '{0} исходящих / {1} входящих коммитов'
+ConnectGitHub: Подключиться к GitHub
+ConnectGitHubDescription: Введите следующий код по ссылке ниже, чтобы начать работу с репозиториями GitHub.
+CannotReachGitHubError: Files не может получить доступ к GitHub сейчас.
+OpenInVSCode: Открыть папку в VS Code
+OpenInVSCodeDescription: Открыть текущую папку в Visual Studio Code
+OpenRepoInVSCode: Открыть репозиторий в VS Code
+OpenRepoInVSCodeDescription: Открыть корень репозитория Git в Visual Studio Code
+CopyCode: Копировать код
+Added: Добавленный
+Deleted: Удаленный
+Modified: Изменённый
+Untracked: Неотслеживаемый
+UnableToDisplayOwner: Невозможно отобразить текущего владельца.
+AuthorizationSucceded: Замечательно! Теперь вы авторизованны.
+InitRepo: Инициализировать репозиторий
+InitRepoDescription: Инициализировать Git репозиторий
+GitOriginRepositoryName: Убрать Имя Репозитория
+GitCurrentBranch: Текущая Ветка
+PathColumn: Таблица путей
+SortByPathDescription: Сортировка элементов по пути
+OpenDirectoryInNewPaneDescription: Открыть папку в новой панели
+OpenDirectoryInNewTabDescription: Открыть папку в новой вкладке
+OpenInNewWindowDescription: Открыть папку в новом окне
+OpenAllTaggedItems: Открыть всё
+OpenAllTaggedItemsDescription: Открыть все отмеченные элементы
+#{0} is the drive letter.
+DriveWithLetter: Диск ({0})
+InvalidCommand: Неверная команда
+InvalidCommandContent: "'{0}' не распознаётся как команда."
+CommandNotExecutable: Команда не является исполняемой
+CommandNotExecutableContent: Команда '{0}' не готова к выполнению.
+CommandPalette: Список команд
+OpenCommandPaletteDescription: Открыть список команд
+ShortcutItemWorkingDir: 'Начало через:'
+TurnOnBitLocker: Включить BitLocker
+ManageBitLocker: Управление BitLocker
+CopyFailureFileToLarge: Следующие элементы слишком велики для копирования на этот диск
+FormatDrive: Форматировать диск
+DontShowAgain: Больше не показывать
+FilesRunningAsAdmin: Files запущены от имени администратора
+FilesRunningAsAdminContent: Из-за ограничений в Windows и WinAppSdk, перетаскивание и перетаскивание не доступно при запуске файлов как администратора. Если вы хотите использовать перетаскивание, Вы можете обойти это ограничение, открыв контроль учетной записи пользователя из меню Пуск и выбрав третий уровень и перезапустив Windows. В противном случае вы можете продолжать использовать файлы без перетаскивания.
+SettingsLeaveAppRunning: Оставить приложение в фоновом режиме при закрытии окна
+#One of the custom color themes
+Blue: Синий
+#One of the custom color themes
+BlueGray: Серо-голубой
+#One of the custom color themes
+BrickRed: Кирпично-красный
+#One of the custom color themes
+Camouflage: Камуфляж
+#One of the custom color themes
+CoolBlueBright: Ясный голубой
+#One of the custom color themes
+Gray: Серый
+#One of the custom color themes
+GrayDark: Тёмно-серый
+#One of the custom color themes
+Green: Зелёный
+#One of the custom color themes
+IrisPastel: Мягкий фиолетовый
+#One of the custom color themes
+MintLight: Светлый мятный
+#One of the custom color themes
+ModRed: Тёмный красный
+#One of the custom color themes
+OrangeBright: Яркий оранжевый
+#One of the custom color themes
+Overcast: Туманный
+#One of the custom color themes
+Red: Красный
+#One of the custom color themes
+RoseBright: Яркий розовый
+#One of the custom color themes
+Seafoam: Морская пена
+#One of the custom color themes
+Storm: Ураган
+#One of the custom color themes
+VioletRedLight: Красно-лиловый
+#One of the custom color themes
+YellowGold: Золотой
+ClearCompleted: Очистить завершённые
+NameWithColon: 'Имя:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} из {1} обработано'
+ItemsLower: элементов
+CannotInitializeGitRepo: Files не может инициализировать Git-репозиторий в этой папке.
+ContributingArtist: Исполнитель
+AddPage: Добавить страницу
+ProcessingItems: Обработка элементов...
+SpeedWithColon: 'Скорость:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Сжатие {0} элементов в "{1}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Сжатие {0} элементов из "{1}" в "{2}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Сжато {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Сжато {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Ошибка сжатия {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Не удалось сжать {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Сжатие {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Сжатие {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Копирование {0} элементов в "{1}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Копирование {0} элементов из "{1}" в "{2}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Скопировано {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Скопировано {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Ошибка копирования {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Не удалось скопировать {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Копирование {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Копирование {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Извлечение "{0}" в "{1}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Извлечение "{0}" из "{1}" в "{2}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Извлечено "{0}" в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Извлечено "{0}" из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Ошибка извлечения "{0}" в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Не удалось извлечь "{0}" из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Извлечение "{0}" в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Извлечение "{0}" из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Удаление {0} элементов из "{1}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Удалено {0} элементов из "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Ошибка удаления {0} элементов из "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Не удалось удалить {0} элементов из {1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Удаление {0} элементов из "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Перемещение {0} элементов в "{1}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Перемещение {0} элементов из "{1}" в "{2}" отменено
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Перемещено {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Перемещено {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Перемещение {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Перемещение {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Ошибка перемещения {0} элементов в "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Не удалось переместить {0} элементов из "{1}" в "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Очистка корзины отменена
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Корзина очищена
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Очистка корзины
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Ошибка очистки корзины
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Не удалось очистить корзину
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Подготовка операции...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} элементов обработано'
+UnblockDownloadedFile: Разблокировать скачанный файл
+NoFileOperations: Нет текущих операций с файлами
+OpenOnStartupDisabled: Возможность открытия Files при запуске Windows недоступна из-за ваших системных настроек или групповой политики. Чтобы снова включить, откройте "Автозагрузка" в Диспетчере задач.
+FailedToRestore: Не удалось восстановить элементы из Корзины
+FailedToSetBackground: Не удалось установить обои рабочего стола
+GitDeleteBranch: Удалить Git ветку
+GitDeleteBranchSubtitle: Вы уверены, что хотите навсегда удалить ветку "{0}"?
+ConnectedToGitHub: Подключено к GitHub
+Logout: Выход
+ConnectToGitHub: Подключиться к GitHub
+Login: Вход
+ErrorApplyingTagContent: В настоящее время теги совместимы только с дисками, отформатированными в NTFS.
+ErrorApplyingTagTitle: Произошла ошибка при применении этого тега
+DecompressArchiveHereSmartDescription: Распаковать элементы из выбранных архивов в текущую папку для архива с одним элементом или в новую папку для архива с несколькими элементами
+ExtractHereSmart: Распаковать здесь (Smart)
+SortFilesAndFoldersTogether: Сортировать файлы и папки вместе
+SortFilesAndFoldersTogetherDescription: Сортировать файлы и папки вместе
+SortFilesFirst: Сортировать файлы сначала
+SortFilesFirstDescription: Сортировать файлы, затем папки
+SortFoldersFirst: Сортировать папки сначала
+SortFoldersFirstDescription: Сортировать папки, а затем файлы
+SortPriority: Приоритет сортировки
+FailedToRotateImage: Не удалось повернуть изображение
+Restart: Перезапустить
+Quit: Выход
+FaildToShareItems: Не удалось поделиться элементами
+ScrollToPreviousFolderWhenNavigatingUp: Прокрутить до предыдущей папки при навигации вверх
+NewWindowDescription: Открыть новое окно
+ChangeAlbumCover: Изменить обложку альбома
+ItemRenameFailed: Не удалось переименовать элемент
+HigherPermissionsRequired: Редактирование "{0}" требует дополнительных прав доступа
+EditPermissions: Изменить права доступа
+BackgroundRunningNotificationBody: Файлы все еще работают в фоновом режиме для повышения производительности запуска.
+BackgroundRunningNotificationHeader: Где были файлы?
+QuestionsAndDiscussions: Вопросы и обсуждение
+TilesViewSizeInfo: Доп. параметры недоступны для плиточного макета.
+#Used to describe layout sizes
+Compact: Компактный
+#Used to describe layout sizes
+Small: Маленький
+#Used to describe layout sizes
+Medium: Средний
+#Used to describe layout sizes
+Medium+: Средний +
+#Used to describe layout sizes
+Medium++: Средний ++
+#Used to describe layout sizes
+Medium+++: Средний +++
+#Used to describe layout sizes
+Medium++++: Средний ++++
+#Used to describe layout sizes
+Medium+++++: Средний +++++
+#Used to describe layout sizes
+Large: Большой
+#Used to describe layout sizes
+Large+: Большой +
+#Used to describe layout sizes
+Large++: Большой ++
+#Used to describe layout sizes
+Large+++: Большой +++
+#Used to describe layout sizes
+ExtraLarge: Огромный
+DetailsView: Подробный вид
+LayoutType: Тип макета
+Actions: Действия
+Commands: Команды
+AddCommand: Добавить команду
+RestoreDefaults: Восстановить по умолчанию
+ChooseAnAction: Выберите действие
+RestoreDefaultKeybindingsConfirmation: Вы уверены, что хотите восстановить назначения клавиш по умолчанию? Это действие не может быть отменено.
+KeybindingAlreadyUsedNotification: Эта клавиша уже используется, выберите другую клавишу для продолжения.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Настроенный
+AdaptiveLayoutDisabledNotification: Адаптивный макет недоступен при синхронизации настроек, макет по умолчанию был изменен на Подробный.
+BackgroundImage: Фоновое изображение
+#Image alignment type
+Bottom: Снизу
+#Image alignment type
+Center: По центру
+#Image stretch type
+Fill: Заполнение
+HorizontalAlignment: Горизонтальное выравнивание
+ImageFit: Изображение
+#Image alignment type
+Left: Влево
+Opacity: Прозрачность
+#Image alignment type
+Right: Вправо
+#Image alignment type
+Top: Сверху
+#Image stretch type
+Uniform: Равномерно
+#Image stretch type
+UniformToFill: Равномерно заполнить
+VerticalAlignment: Вертикальное выравнивание
+#This is a type of backdrop for the application background
+ThinAcrylic: Тонкий акрил
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Показать для всех мест
+DevTools: Инструменты разработчика
+DisplayOpenIDE: Настроить кнопку "Open IDE" на строке состояния
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Показать для Git репозитория
+#This is the friendly name for DLL files.
+ApplicationExtension: Расширение приложения
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Файл ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip файл
+#This is the friendly name for bitmap files.
+BitmapFiles: Растровые файлы
+NumPadTypeName: Num
+NetworkLocations: Местоположение сети
+NoNetworkLocationsInfo: Нет сетевых местоположений. Если вы не используете сетевые местоположения, вы можете отключить виджет.
+Disable: Отключено
+EditInNotepad: Редактировать в Блокноте
+EditInNotepadDescription: Редактировать выбранный файл в Блокноте

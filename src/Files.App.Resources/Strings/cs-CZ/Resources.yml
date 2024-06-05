@@ -1,0 +1,1467 @@
+NewWindow: Nové okno
+CopyPath: Zkopírovat cestu
+CopyPathWithQuotes: Kopírovat cestu s uvozovkami
+Browse: Procházet
+Size: Velikost
+PropertiesCreated:
+  Text: 'Vytvořeno:'
+Path: Cesta
+SizeLabel: 'Velikost:'
+SizeOnDiskLabel: 'Velikost na disku:'
+UncompressedSize: 'Nekomprimovaná velikost:'
+ErrorDialogThisActionCannotBeDone: Tuto akci nelze provést
+ErrorDialogTheDestinationFolder: Cílová složka
+ErrorDialogIsASubfolder: je podsložka zdrojové složky
+Skip: Přeskočit
+SelectAll: Vybrat vše
+InvertSelection: Invertovat výběr
+ClearSelection: Zrušit výběr
+PropertiesModified:
+  Text: 'Upraveno:'
+Accessed: 'Naposledy otevřeno:'
+RecentItemClearAll:
+  Text: Smazat všechny položky
+NavigationToolbarVisiblePath:
+  PlaceholderText: Zadejte cestu k navigaci nebo ">" pro otevření palety příkazů
+Search: Hledat
+RecentItemDescription:
+  Text: Soubory, které jste dříve otevřeli, se zobrazí zde
+RecentItemRemove:
+  Text: Odstranit tuto položku
+OpenGitHubRepo: GitHub repozitář
+About: O aplikaci
+OpenSource: Open Source
+DateFormat: Časový formát
+SettingsAppearanceTheme: Motiv
+SettingsFilesAndFoldersShowFileExtensions: Zobrazit přípony známých typů souborů
+SettingsFilesAndFoldersShowHiddenItems: Zobrazit skryté soubory a složky
+ShowDotFiles: Zobrazit soubory začínající tečkou
+Appearance: Vzhled
+BackgroundColor: Barva pozadí
+Advanced: Pokročilé
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Pokračovat, kde jste přestali
+SettingsOnStartupOpenANewTab:
+  Content: Otevřít novou kartu
+SettingsOnStartupOpenASpecificPage:
+  Content: Otevřít konkrétní stránku nebo stránky
+Desktop: Plocha
+Documents: Dokumenty
+Downloads: Stažené soubory
+Name: Název
+Ascending: Vzestupně
+Paste: Vložit
+BaseLayoutContextFlyoutNew:
+  Label: Nový
+Properties: Vlastnosti
+Open: Otevřít
+OpenInNewTab: Otevřít v nové kartě
+OpenInNewWindow: Otevřít v novém okně
+Share: Sdílet
+Cut: Vyjmout
+Delete: Smazat
+PinFolderToSidebar: Připnout na postranní panel
+WelcomeDialog:
+  Title: Vítejte v aplikaci Files!
+  PrimaryButtonText: Udělit oprávnění
+WelcomeDialogTextBlock:
+  Text: 'Chcete-li začít, musíte nám udělit oprávnění k zobrazení vašich souborů. Toto otevře stránku s nastavením, kde nám můžete toto oprávnění udělit. Po dokončení tohoto kroku budete muset aplikaci znovu otevřít. '
+Display: Zobrazení
+EnterAnItemName: Zadejte název položky
+RenameDialog:
+  PrimaryButtonText: Pojmenovat
+LightTheme: Světlý
+DarkTheme: Tmavý
+Application: Aplikace
+SystemTimeStyle: Systém
+NewFolder: Nová složka
+NewFile: Nový soubor
+EmptyFolder:
+  Text: Tato složka je prázdná.
+Back: Zpět
+Forward: Vpřed
+Up: Nahoru
+Refresh: Obnovit
+ItemAlreadyExistsDialogContent: Položka s tímto názvem již v této složce existuje.
+ItemAlreadyExistsDialogSecondaryButtonText: Nahradit existující položku
+ItemAlreadyExistsDialogTitle: Položka již existuje
+SetAsLockscreen: Nastavit pozadí uzamčené obrazovky
+SetAsAppBackground: Nastavit jako pozadí aplikace
+AccessDeniedDeleteDialog:
+  Text: Nepodařilo se nám odstranit tuto položku
+DriveUnpluggedDialog:
+  Text: Prosím, vložte potřebný disk pro přístup k této položce.
+  Title: Disk odpojen
+FileNotFoundDialog:
+  Text: Soubor, ke kterému se snažíte přistoupit, mohl být přesunut nebo odstraněn.
+  Title: Soubor nenalezen
+CannotAccessPropertiesTitle: Nelze otevřít vlastnosti tohoto souboru
+CannotAccessPropertiesContent: Soubor, ke kterému se snažíte přistoupit, mohl být přesunut nebo odstraněn.
+FolderNotFoundDialog:
+  Text: Složka, ke které se snažíte přistoupit, mohla být přesunuta nebo odstraněna.
+  Title: Smazali jste tuto složku?
+FileInUseByDialog:
+  Text: Soubor, ke kterému se snažíte přistoupit je využíván {0}
+FileInUseDialog:
+  Text: Soubor, ke kterému se snažíte přistoupit, je právě využíván jinou aplikací
+  Title: Soubor je používán
+Layout: Rozvržení
+PropertiesDialogReadOnly:
+  Text: Pouze pro čtení
+DaysAgo: Před {0, plural, one {# dnem} other {# dny}}
+HoursAgo: Před {0, plural, one {# hodinou} other {# hodinami}}
+MinutesAgo: Před {0, plural, one {# minutou} other {# minutami}}
+SecondsAgo: Před {0, plural, one {# sekundou} other {# sekundami}}
+Now: Nyní
+ErrorDialogUnsupportedOperation: Požadovaná operace není podporována
+DriveFreeSpaceAndCapacity: '{0} volných z {1}'
+SendTo: Odeslat do
+FileNameTeachingTip:
+  Subtitle: 'Název položky nesmí obsahovat následující znaky: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Zadaný název položky je neplatný
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# položka vybrána} few {# položky vybrány} other {# položek vybráno}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {položka} few {položky} other {položek}}'
+Yes: Ano
+ConfirmEmptyBinDialogContent: Opravdu chcete trvale odstranit všechny tyto položky?
+ConfirmEmptyBinDialogTitle: Vyprázdnit koš
+ItemSizeBytes: byty
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {soubor} few {soubory} other {souborů}}, {1, number} {1, plural, one {složka} few {složky} other {složek}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {soubor} few {soubory} other {souborů}}, {1, number} {1, plural, one {složka} few {složky} other {složek}} {2, plural, one {z} few {ze} other {z}} {2, number} umístění'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Spustit jako jiný uživatel
+PropertiesDriveItemTypesEquals: Všechny typy {0}
+PropertiesDriveItemTypeDifferent: Rozdílné typy
+PropertiesCombinedItemLocation: Vše v {0}
+PropertiesDriveUsedSpace:
+  Text: 'Využité místo:'
+PropertiesDriveFreeSpace:
+  Text: 'Volné místo:'
+PropertiesDriveCapacity:
+  Text: 'Kapacita:'
+PropertiesDriveFileSystem:
+  Text: 'Souborový systém:'
+JumpListRecentGroupHeader: Nedávné
+TabStripDragAndDropUIOverrideCaption: Přesunout kartu zde
+syncStatusColumn:
+  Header: Stav
+SettingsPreferencesSystemDefaultLanguageOption: Výchozí systému
+NavigationToolbarVisiblePathNoResults: Žádné výsledky
+SubDirectoryAccessDenied: Nelze získat přístup k žádným položkám k zobrazení
+MoveToFolderCaptionText: Přesunout do {0}
+CopyToFolderCaptionText: Kopírovat do {0}
+CreateShortcut: Vytvořit zástupce
+OpenFileLocation: Otevřít umístění souboru
+PropertiesShortcutItemArgs:
+  Text: 'Argumenty:'
+PropertiesShortcutItemPath:
+  Text: 'Cíl:'
+PropertiesShortcutItemType:
+  Text: 'Typ zástupce:'
+PropertiesShortcutTypeLink: Webový odkaz
+General: Obecné
+Shortcut: Zástupce
+ShortcutWebLinkFileType: Internetový zástupce
+ShortcutCreateNewSuffix: '{0} - zástupce'
+ExceptionNotificationBody: Files narazil na problém, na který se vývojáři ještě nepřipravili.
+ExceptionNotificationHeader: Něco se pokazilo!
+ExceptionNotificationReportButton: Nahlásit tento problém
+InvalidItemDialogContent: Odkaz na položku je buď neplatný nebo nedostupný.{0}Chybová zpráva:{0}{1}
+InvalidItemDialogTitle: Neplatná položka
+SettingsAboutVersionTitle: 'Verze:'
+ShareDialogFailMessage: Momentálně zde není co sdílet...
+ShareDialogMultipleItemsDescription: Vybrané položky budou sdíleny
+ShareDialogSingleItemDescription: Vybraná položka bude sdílena
+ShareDialogTitle: Sdílení {0}
+ShareDialogTitleMultipleItems: Sdílení {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Položka, kterou se pokoušíte přejmenovat, již neexistuje. Ověřte prosím správné umístění položky, kterou se snažíte přejmenovat.
+    Title: Položka již neexistuje
+  NameInvalid:
+    Text: Zadaný název byl neplatný. Zkontrolujte prosím název položky a zkuste to znovu.
+    Title: Neplatný název položky
+  TooLong:
+    Text: Délka názvu položky překračuje maximální limit. Zkontrolujte prosím požadovaný název a zkuste to znovu.
+    Title: Název položky je příliš dlouhý
+ShowMoreOptions: Zobrazit více možností
+RestartNotificationText:
+  Text: Aplikace musí být restartována, aby se uplatnila tato nastavení, chcete aplikaci restartovat?
+SponsorUsOnGitHub: Podpořte nás na GitHubu
+AccessDeniedCreateDialog:
+  Text: Nepodařilo se nám vytvořit tuto položku
+AccessDenied: Přístup odepřen
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Nastavit jako
+Cancel: Zrušit
+AddDialog:
+  Title: Vytvořit novou položku
+AddDialogDescription:
+  Text: Vyberte typ pro tuto novou položku níže
+File: Soubor
+AddDialogListFileSubHeader: Vytvořit prázdný soubor
+Folder: Složka
+AddDialogListFolderSubHeader: Vytvoří prázdnou složku
+NavResfreshButton:
+  AutomationProperties:
+    Name: Obnovit složku
+Language: Jazyk
+SettingsContextMenuOverflow: Přesunout rozšíření do podnabídky
+ShowConfirmationWhenDeletingItems: Vyžadovat potvrzení při mazání souborů
+PropertySaveErrorMessage:
+  Text: Při ukládání některých vlastností došlo k chybě.
+PropertySaveErrorDialog:
+  Title: Chyba
+  SecondaryButtonText: Přesto zavřít
+PropertyRatingText: Hodnocení
+PropertyParsingPath: Cesta k položce
+PropertyItemTypeText: Typ položky
+PropertyTitle: Název
+PropertySubject: Předmět
+PropertyComment: Komentář
+PropertyCopyright: Autorská práva
+PropertyDateModified: Datum změny
+PropertyBitDepth: Bitová hloubka
+PropertyDimensions: Rozměry
+PropertyHorizontalSize: Horizontální velikost
+PropertyVerticalSize: Vertikální velikost
+PropertyHorizontalResolution: Horizontální rozlišení
+PropertyVerticalResolution: Vertikální rozlišení
+PropertyColorSpace: Barevný prostor
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Nespecifikováno
+PropertyLongitudeDecimal: Desetinná délka
+PropertyLatitudeDecimal: Desetinná šířka
+PropertyAltitude: Výška
+PropertyDateTaken: Datum pořízení
+PropertyCameraManufacturer: Výrobce fotoaparátu
+PropertyCameraModel: Model fotoaparátu
+PropertyExposureTime: Čas vystavení
+PropertyFocalLength: Ohnisková vzdálenost
+PropertyAperture: Clona
+PropertyPeopleNames: Jména lidí
+PropertyChannelCount: Počet kanálů
+PropertyFormat: Formát
+PropertySampleRate: Vzorkovací frekvence
+PropertyAlbumArtist: Interpret alba
+PropertyAlbumTitle: Název alba
+Artist: Interpret
+PropertyBeatsPerMinute: Údery za minutu
+PropertyComposer: Skladatel
+Conductor: Dirigent
+PropertyDiscNumber: Číslo disku
+PropertyGenre: Žánr
+PropertyTrackNumber: Číslo skladby
+PropertyDuration: Doba trvání
+PropertyFrameCount: Počet snímků
+PropertyProtectionType: Typ ochrany
+PropertyAuthorUrl: URL autora
+PropertyContentDistributor: Distributor obsahu
+PropertyDateReleased: Datum vydání
+PropertySeriesName: Název série
+PropertySeasonNumber: Číslo série
+PropertyEpisodeNumber: Číslo epizody
+PropertyProducer: Producent
+PropertyPromotionUrl: URL propagace
+PropertyProviderStyle: Styl poskytovatele
+PropertyPublisher: Vydavatel
+PropertyThumbnailLargePath: Cesta k velké miniatuře
+PropertyThumbnailLargeUri: Uri k velké miniatuře
+PropertyThumbnailSmallPath: Cesta k malé miniatuře
+PropertyThumbnailSmallUri: Uri k malé miniatuře
+PropertyUserWebUrl: Url adresa uživatele
+PropertyWriter: Spisovatel
+PropertyYear: Rok
+PropertyContributor: Přispěvatel
+PropertyLastAuthor: Naposledy upravil
+PropertyRevisionNumber: Číslo revize
+PropertyVersion: Verze
+PropertyDateCreated: Datum vytvoření
+PropertyTotalEditingTime: Celkový čas úprav
+PropertyTemplate: Šablona
+PropertyWordCount: Počet slov
+PropertyCharacterCount: Počet znaků
+PropertyLineCount: Počet řádků
+PropertyParagraphCount: Počet odstavců
+PropertyPageCount: Počet stránek
+PropertySlideCount: Počet snímků
+PropertyFrameRate: Snímkovací frekvence
+PropertyEncodingBitrate: Přenosová rychlost
+PropertyPreviewAudioEncodingBitrate: Přenosová rychlost zvuku
+PropertyPreviewVideoEncodingBitrate: Přenosová rychlost videa
+Compression: Komprese
+PropertyFrameWidth: Šířka snímku
+PropertyFrameHeight: Výška snímku
+PropertyOrientation: Orientace
+PropertySectionCore: Jádro
+PropertySectionImage: Obrázek
+PropertySectionPhoto: Fotografie
+PropertySectionGPS: GPS
+PropertySectionMedia: Média
+PropertySectionAudio: Zvuk
+PropertySectionMusic: Hudba
+PropertySectionVideo: Video
+Document: Dokument
+Address: Adresa
+SelectionOptions: Možnosti výběru
+NavToolbarSelectionOptions:
+  Label: Vybrat
+RecycleBinItemAutomation: Položka koše
+ShortcutItemAutomation: Položka zástupce
+Drives: Disky
+PinToSidebarByDraggingCaptionText: Přesunout sem
+EjectNotificationHeader: Bezpečně odebrat hardware
+EjectNotificationBody: Zařízení může být nyní bezpečně odebráno z počítače.
+EjectNotificationErrorDialogHeader: Problém s odpojením zařízení
+EjectNotificationErrorDialogBody: Zařízení je v současné době používáno. Zavřete všechny programy, okna nebo karty které mohou používat zařízení, poté to zkuste znovu.
+Eject: Odpojit
+DuplicateTab: Duplikovat kartu
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Přesunout kartu do nového okna
+NewTab: Nová karta
+ClearPropertiesFlyoutText:
+  Text: Některé vlastnosti mohou obsahovat osobní údaje.
+ClearPropertiesButton:
+  Content: Odstranit všechny vlastnosti
+OngoingTasksTeachingTip:
+  Subtitle: Zkontrolovat stav souborových operací
+  Title: Stavové centrum
+SearchPagePathBoxOverrideText: Výsledky vyhledávání v {1} pro {0}
+Details: Podrobnosti
+No: Ne
+ShowProtectedSystemFiles: Zobrazit chráněné systémové soubory
+SyncFolderPreferencesAcrossDirectories: Synchronizovat rozložení a řazení předvoleb napříč adresáři
+SettingsContextMenu:
+  Text: Přizpůsobit kontextovou nabídku pravého tlačítka
+OriginalPath: Původní cesta
+Add: Přidat
+Edit: Upravit
+Remove: Odstranit
+SettingsMultitaskingAlwaysOpenDualPane: Otevřít panely v režimu dvojitého panelu
+ShowOpenInNewPane: Zobrazit možnost otevření složek v novém panelu
+ShowCopyPath: Zobrazit možnost pro zkopírování cesty
+ShowCreateFolderWithSelection: Zobrazit možnost pro vytvoření složky s výběrem
+ShowCreateShortcut: Zobrazit možnost pro vytvoření zástupce
+NavigationToolbarNewPane:
+  Label: Nový panel
+OpenInNewPane: Otevřít v novém panelu
+FilesAndFolders: Soubory & složky
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Podrobnosti (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Dlaždice (Ctrl+Shift+2)
+DateDeleted: Datum smazání
+SidebarCloudDrives: Cloudové disky
+Confirm: Potvrdit
+DesiredName: Požadovaný název
+TogglePreviewPane: Přepnout panel náhledu
+ToggleDetailsPane: Přepnout panel vlastností
+ToggleDetailsPaneDescription: Přepnout panel detailů pro zobrazení základních vlastností souboru
+ToggleInfoPane: Přepnout informační panel
+ToggleInfoPaneDescription: Přepnout informační podokno pro zobrazení detailu/náhledu podoken
+DetailsPanePreviewNotAvaliableText: Není dostupný žádný náhled
+PropertyItemName: Název položky
+UnpinFolderFromSidebar: Odepnout z postranního panelu
+Network: Síť
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Podrobnosti
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Náhled souboru
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Náhled vybraného souboru
+Feedback: Zpětná vazba
+CloudDriveSyncStatus_Online: K dispozici, když jste online
+Documentation: Dokumentace
+CloudDriveSyncStatus_Offline: K dispozici offline
+CloudDriveSyncStatus_PartialOffline: Částečně dostupné offline
+CloudDriveSyncStatus_Sync: Synchronizace
+CloudDriveSyncStatus_Excluded: Vyjmuto ze synchronizace
+ItemSizeNotCalculated: Není vypočteno
+CloudDriveSyncStatus_Unknown: Neznámý
+RenameFileDialog:
+  Text: Pokud změníte příponu souboru, soubor se může stát nepoužitelným. Jste si jist že ji chcete změnit?
+DriveTypeCDRom: Jednotka CD-ROM
+DriveTypeCloudDrive: Cloudový disk
+DriveTypeFixed: Jednotka pevného disku
+DriveTypeFloppyDisk: Disketový disk
+DriveTypeNetwork: Síťový disk
+DriveTypeNoRootDirectory: Odpojený disk
+DriveTypeRam: RAM disk
+DriveTypeRemovable: Odpojitelné paměťové zařízení
+DriveTypeUnknown: Neznámý
+DriveTypeVirtualDrive: Virtuální disk
+DateCreated: Vytvořeno
+MoreOptions: Více možností...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Mapovat síťový disk
+Pinned: Připnuto
+SidebarLibraries: Knihovny
+NoItemSelected: Není vybrána žádná položka
+PropertyItemTarget: Cíl
+Arguments: Argumenty
+Default: Výchozí
+PropertyItemCount: Počet položek
+ElevateConfirmDialog:
+  Title: Tato akce vyžaduje práva správce
+  Content: Chcete pokračovat jako správce?
+ColumnsShortcutTooltip: Sloupce (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Připnout do Menu Start
+UnpinItemFromStart:
+  Text: Odepnout z Menu Start
+Library: Knihovna
+LibraryLocations:
+  Text: 'Lokace:'
+SetAsDefaultSavePath: Nastavit jako výchozí cestu pro uložení
+LibraryNoLocations:
+  Text: Žádná lokace
+ErrorInputEmpty: Pole nemůže být prázdné!
+ErrorNameInputRestrictedCharacters: 'Název nesmí obsahovat následující znaky: \ / : * ? " < > |'
+ErrorNameInputRestricted: Použití tohoto názvu není povoleno!
+CreateLibraryErrorAlreadyExists: Knihovna se stejným názvem již existuje!
+OpenStorageSense: Otevřít úložiště
+Copy: Kopírovat
+CopyItemsDialogTitle: Zkopírovat {0, plural, one {položku} few {položky} other {položek}}
+DeleteItemsDialogTitle: Smazat {0, plural, one {položku} other {položky}}
+MoveItemsDialogPrimaryButtonText: Přesunout
+MoveItemsDialogSubtitle: '{0, plural, one {Jedna položka bude přesunuta} few {# položky budou přesunuty} other {# položek bude přesunuto}}'
+MoveItemsDialogTitle: Přesunout {0, plural, one {položku} other {položky}}
+DeleteItemsDialogSubtitle: '{0, plural, one {Jedna položka bude smazána} few {# položky budou smazány} other {# položek bude smazáno}}'
+ConflictingItemsDialogPrimaryButtonText: Pokračovat
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {Existuje jeden konfliktní název položky} few {Existují # konfliktní názvy položek} other {Existuje # konfliktních názvů položek}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {Existuje jeden konfliktní název položky} few {Existují # konfliktní názvy položek} other {Existuje # konfliktních názvů položek}}, a {1, plural, one {jedna položka} few {# položky} other {# položek}} bez konfliktu'
+ConflictingItemsDialogTitle: Konflikt {0, plural, one {názvu souboru} other {názvů souborů}}
+CopyItemsDialogSubtitle: '{0, plural, one {Jedna položka bude zkopírována} few {# položky budou zkopírovány} other {# položek bude zkopírováno}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Trvale odstranit
+PropertyISO: ISO rychlost
+ReplaceExisting: Nahradit stávající
+GenerateNewName: Generovat nové jméno
+CreateFolderWithSelection: Vytvořit složku s výběrem
+ItemType: 'Typ:'
+ToolTipDescriptionDate: 'Datum změny:'
+OpenWith: Otevřít v
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Ikona souboru
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Původní sloupce cesty
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Sloupec typu položky
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Sloupec data úpravy
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Sloupec data smazání
+Sort: Seřadit
+DateModifiedLowerCase: Datum změny
+OriginalFolder: Původní složka
+Descending: Sestupně
+ItemSizeText_Huge: Obrovský
+ItemSizeText_VeryLarge: Velmi Velký
+ItemSizeText_Large: Velký
+ItemSizeText_Medium: Střední
+ItemSizeText_Small: Malý
+ItemSizeText_Tiny: Drobný
+Future: Budoucnost
+Today: Dnes
+Yesterday: Včera
+EarlierThisWeek: Počátkem tohoto týdne
+LastWeek: Minulý týden
+EarlierThisMonth: Počátkem tohoto měsíce
+LastMonth: Minulý měsíc
+EarlierThisYear: Počátkem tohoto roku
+LastYear: Minulý rok
+YearN: Rok {0}
+GroupItemsCount_Singular: '{0} položka'
+GroupItemsCount_Plural: '{0} položky'
+ReopenClosedTab: Znovu otevřít zavřenou kartu
+Rename: Přejmenovat
+Privacy: Soukromí
+TheRecycleBin: Koš
+Canceling: Rušení
+Clear: Vyčistit
+Widgets: Widgety
+SyncStatus: Stav synchronizace
+Security: Bezpečnost
+AdvancedPermissions: Pokročilá oprávnění
+Allow: Povolit
+Deny: Zamítnout
+SecurityFullControlLabel:
+  Text: Plná kontrola
+SecurityListDirectoryLabel:
+  Text: Vypsat obsah složky
+Modify: Upravit
+SecurityPermissionsHeaderText: Oprávnění pro {0}
+SecurityReadAndExecuteLabel:
+  Text: Číst a spouštět
+SecurityReadLabel:
+  Text: Číst
+SecurityUsersGroupLabel:
+  Text: Skupina nebo uživatelská jména
+Write: Zapisovat
+SecurityUnknownAccount: Neznámý účet
+SecurityCannotReadProperties:
+  Text: Nemáte oprávnění k zobrazení vlastností zabezpečení tohoto objektu. Klikněte na "Pokročilá oprávnění" a pokračujte.
+SecurityOwnerLabel:
+  Text: 'Majitel:'
+SecurityUnknownOwnerText:
+  Text: Neznámý vlastník
+ExtractArchive: Rozbalit archiv
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Otevřít cílovou složku po dokončení
+BaseLayoutItemContextFlyoutExtractToChildFolder: Rozbalit do {0}\
+SideBarCreateNewLibrary:
+  Text: Vytvořit novou knihovnu
+SideBarRestoreLibraries:
+  Text: Obnovit výchozí knihovny
+DialogRestoreLibrariesSubtitleText: Opravdu chcete obnovit výchozí knihovny? Všechny vaše soubory zůstanou v úložišti.
+DialogRestoreLibrariesTitleText: Obnovit knihovny
+PropertyFileOwner: Vlastník
+SecuritySpecialLabel:
+  Text: Speciální
+Access: Přístup
+SecurityAdvancedAppliesTo: Použít na
+Principal: Hlavní
+SecurityAdvancedFlagsFilesLabel: soubory
+SecurityAdvancedFlagsFolderLabel: tato složka
+SecurityAdvancedFlagsSubfoldersLabel: podsložky
+Inherited: Zděděný
+Permissions: Oprávnění
+SecurityAdvancedCannotReadProperties:
+  Text: Nemáte oprávnění k zobrazení vlastností zabezpečení tohoto objektu. Můžete se pokusit převzít vlastnictví tohoto objektu.
+SecurityAdvancedFolderFiles:
+  Text: Tato složka a soubory
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Tato složka, podsložky a soubory
+SecurityAdvancedOnlyFiles:
+  Text: Pouze soubory
+SecurityAdvancedOnlySubfolders:
+  Text: Pouze podsložky
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Pouze podsložky a soubory
+SecurityAdvancedOnlyThisFolder:
+  Text: Pouze tato složka
+SecurityAdvancedFolderSubfolders:
+  Text: Tato složka a podsložky
+SecurityAppendDataLabel:
+  Text: Připojit data
+SecurityChangePermissionsLabel:
+  Text: Změnit oprávnění
+SecurityCreateDirectoriesLabel:
+  Text: Vytvořit složky
+SecurityCreateFilesLabel:
+  Text: Vytvořit soubory
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Odstranit podsložky a soubory
+SecurityExecuteFileLabel:
+  Text: Spustit soubory
+SecurityReadAttributesLabel:
+  Text: Číst atributy
+SecurityReadDataLabel:
+  Text: Číst data
+SecurityReadExtendedAttributesLabel:
+  Text: Číst rozšířené atributy
+SecurityReadPermissionsLabel:
+  Text: Číst oprávnění
+SecurityTakeOwnershipLabel:
+  Text: Převzít vlastnictví
+SecurityTraverseLabel:
+  Text: Přejít do složky
+SecurityWriteAttributesLabel:
+  Text: Zapisovat atributy
+SecurityWriteDataLabel:
+  Text: Zapsat data
+SecurityWriteExtendedAttributesLabel:
+  Text: Zapsat rozšířené atributy
+SecurityAdvancedInheritedConvert:
+  Text: Převést zděděná oprávnění na výslovná oprávnění
+SecurityAdvancedInheritedEnable:
+  Text: Povolit dědičnost
+SecurityAdvancedInheritedRemove:
+  Text: Odstranit všechna zděděná oprávnění
+SecurityAdvancedReplaceChildPermissions:
+  Text: Obnovit podřízená oprávnění
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Nahradit všechny položky oprávnění podřízeného objektu dědičnými záznamy oprávnění z tohoto objektu
+NavigationToolbarClosePane:
+  Label: Zavřít panel
+EnterCompactOverlay: Vstoupit do kompaktního překrytí
+ExitCompactOverlay: Opustit kompaktní překrytí
+PropertyFileDescription: Popis souboru
+PropertyCompany: Společnost
+PropertyLanguage: Jazyk
+PropertyTrademarks: Ochranné známky
+PropertyFileVersion: Verze souboru
+PreviewPaneLoadCloudItemButton:
+  Text: Načíst plný náhled
+  ToolTipService:
+    ToolTip: Stáhne položku z cloudu a načte náhled
+DetailsArchiveItems: '{0, plural, one {# položka} few {# položky} other {# položek}} ({1, plural, one {# soubor} few {# soubory} other {# souborů}}, {2, plural, one {# složka} few {# složky} other {# složek}})'
+PropertyUncompressedSize: Nekomprimovaná velikost
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Skrýt {0} sekci
+AddFile: Přidat soubor
+ConsentDialogTitle: Jsou dostupné aktualizace
+ConsentDialogContent: Aktualizace jsou připraveny k instalaci
+Close: Zavřít
+ConsentDialogPrimaryButtonText: Aktualizovat
+Home: Domov
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Rozbalování archivu bylo úspěšně dokončeno.
+ExtractingArchiveText: Rozbalování archivu
+ExtractingCompleteText: Rozbalování dokončeno!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Otevřít nadřazenou složku
+Unknown: Neznámý
+EditTags: Upravit štítky
+PropertyPartOfSet: Součást setu
+InsertDiscDialog:
+  OpenDriveButton: Otevřít disk
+  Text: Prosím vložte disk do jednotky {0}
+  Title: Vložte disk
+OK: OK
+AskCredentialDialog:
+  Title: Vyžadovány údaje
+CredentialDialogAnonymous:
+  Content: Anonymní
+CredentialDialogDescription:
+  Text: 'Poskytněte vaše údaje:'
+CredentialDialogUserName:
+  PlaceholderText: Uživatelské jméno
+NoSearchResultsFound: Nenalezeny žádné položky
+OpenLogLocation: Otevřít umístění logu
+LinkToFolderCaptionText: Vytvořit odkaz v {0}
+Columns: Sloupce
+Tiles: Dlaždice
+OpenFoldersInNewTab: Otevřít složky v nové kartě
+StatusCenter: Stavové centrum
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Sloupec data vytvoření
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Sloupec velikosti položky
+ExperimentalFeatureFlags: Experimentální funkce
+HelpAndSupport: Pomoc a podpora
+SubmitFeatureRequest: Odeslat žádost o vylepšení
+SubmitBugReport: Odeslat hlášení o chybě
+SettingsSetAsDefaultFileManager: Nastavit Files jako výchozí správce souborů
+SettingsSetAsOpenDialog: Použít Files v dialogu otevření souboru
+Tag: Štítek
+SettingsOpenItemsWithOneClick: Otevřít soubory jedním kliknutím
+FolderPath: Cesta ke složce
+ExportSettings: Exportovat nastavení
+ImportSettings: Importovat nastavení
+SettingsImportErrorDescription: Nastavení nelze importovat. Soubor s nastavením je poškozen.
+SettingsImportErrorTitle: Chyba při importu nastavení
+EmptyRecycleBin: Vysypat Koš
+Sidebar: Postranní panel
+ChooseCustomIcon: Vyberte vlastní ikonu složky
+Customization: Přizpůsobení
+RestoreDefault: Obnovit výchozí
+OpenTabInExistingInstance: Otevřít kartu v existující instanci při otevírání souborů z jiné aplikace
+StartupSettings: Nastavení spouštění
+Compatibility: Kompatibilita
+None: Žádné
+CompatibilityOnWindowsLogin: Po přihlášení do Windows
+CompatibilityOnProgramStart: Při spuštění aplikace
+System: Systém
+CompatibilitySystemEnhanced: Systém (vylepšené)
+CompatibilityReducedColorModeColor16bit: 16-bit (65536) barvy
+CompatibilityReducedColorModeColor8bit: 8-bit (256) barvy
+CompatibilityDisableFullscreenOptimizations: Zakázat optimalizace režimu celé obrazovky
+CompatibilityRunIn640x480Resolution: Spustit s rozlišením 640 x 480
+CompatibilityOverrideHighDPIBehavior: Přepsat chování při vysokém rozlišení DPI
+CompatibilityReducedColorMode: Režim snížených barev
+CompatibilityRegisterThisProgramForRestart: Registrovat tento program pro restart
+RunAsAdministrator: Spustit jako správce
+CompatibilityRunTroubleshooter: Spustit řešení potíží
+CompatibilityUseDPISettings: Použít nastavení DPI hlavního monitoru
+CompatibilityDoNotAdjustDPI: Neupravovat DPI
+CompatibilityDoNotOverrideDPI: Nepřepisovat DPI
+CompatibilityMode: Režim kompatibility
+CompatibilityNoReducedColor: Bez snížených barev
+ThirdPartyLicenses: Licence třetích stran
+SettingsSetAsDefaultFileManagerDescription: Tato možnost upravuje systémový registr a může mít neočekávané vedlejší efekty na vaše zařízení. Pokračujte na vlastní nebezpečí.
+FolderWidgetCreateNewLibraryDialogTitleText: Vytvořit Knihovnu
+FolderWidgetCreateNewLibraryInputPlaceholderText: Zadejte název knihovny
+CalculateFolderSizes: Vypočítat velikost složky
+RecentFiles: Nedávné soubory
+SettingsOpenInLogin: Otevřít aplikaci Files při spuštění systému Windows
+Attributes: Atributy
+Hidden: Skrytý
+MoreDetails: Více informací
+ReadOnly: Jen pro čtení
+CleanupDrive: Vyčistit obsah disku
+Type: Typ
+Bytes: Byty
+Extract: Rozbalit
+ExtractFiles: Rozbalit soubory
+ExtractHere: Rozbalit zde
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Rozbalit do {0}
+RunScript: Spustit skript
+RunWithPowerShell: Spustit v PowerShellu
+ShowFolderSizesWarning: Výpočet velikosti složky je náročný na zdroje a může způsobit zvýšené vytížení procesoru.
+RotateLeft: Otočit doleva
+RotateRight: Otočit doprava
+Install: Instalovat
+CloseTabsToTheLeft: Zavřít karty vlevo
+CloseTabsToTheRight: Zavřít karty vpravo
+CloseOtherTabs: Zavřít ostatní karty
+Music: Hudba
+Pictures: Obrázky
+UpdateFiles: Aktualizovat Files
+FileTags: Štítky
+Universal: Univerzální
+DateFormatSample: 'např.: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Zobrazit náhledy
+Retry: Opakovat
+ErrorDialogUnsupportedMoveOperation: Přesun není v tomto kontextu podporován. Chcete místo toho položky zkopírovat?
+HiddenItems: Skryté položky
+Custom: Vlastní
+SetAsSlideshow: Nastavit jako prezentaci plochy
+SizeAllColumnsToFit: Nastavit velikost všech sloupců tak, aby se vešly
+Adaptive: Adaptivní rozvržení
+AdaptiveShortcutTooltip: Adaptivní rozvržení (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Zobrazit alternativní datové toky
+Behaviors: Chování
+ReviewFiles: Napsat recenzi o aplikaci Files
+ReviewFilesContent: Chcete napsat recenzi aplikace Files?
+SetAsBackgroundFlyout: Nastavit jako pozadí
+SetAsBackground: Nastavit jako pozadí plochy
+SetAsDefault: Nastavit jako výchozí
+DateColumn: Sloupec s datem
+DateCreatedColumn: Sloupec data vytvoření
+SizeColumn: Velikost sloupce
+TagColumn: Sloupec štítků
+TypeColumn: Typ sloupce
+Lockscreen: Zamykací obrazovka
+OpenFolderWithOneClickColumnsLayout: Otevřít složky jedním kliknutím v rozvržení sloupců
+OpeningItems: Otevírání položek
+Compress: Komprimovat
+SelectFilesAndFoldersOnHover: Vyberte soubory a složky při najetí na ně
+ConfirmRestoreBinDialogContent: Opravdu chcete obnovit všechny položky v koši?
+ConfirmRestoreBinDialogTitle: Obnovit všechny položky
+ConfirmRestoreSelectionBinDialogContent: Chcete obnovit {0} vybranou(é) položku(y)?
+ConfirmRestoreSelectionBinDialogTitle: Obnovit výběr
+RestoreAllItems: Obnovit všechny položky
+Restore: Obnovit
+ShortcutCannotBeOpened: Zástupce nelze otevřít
+DeleteShortcutDescription: Cíl nebyl nalezen {0}. Chcete odstranit tohoto zástupce?
+AccessDeniedToFolder: Nemáte oprávnění k přístupu do této složky.
+ArchivePassword: Heslo archivu
+ExtractToPath: Cesta
+SortingAndGrouping: Řazení a seskupování
+CreateArchive: Vytvořit archiv
+Create: Vytvořit
+CreateNamedArchive: Vytvořit {0}
+EnterName: Zadejte název
+CompressionLevel: Úroveň komprese
+CompressionLevelUltra: Nejvyšší
+CompressionLevelHigh: Vysoká
+CompressionLevelNormal: Normální
+CompressionLevelLow: Nízká
+CompressionLevelFast: Rychlá
+CompressionLevelNone: Žádná
+SplittingSize: Velikost rozdělení
+Do not split: Nedělit
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Šifrování
+Password: Heslo
+Format: Formát
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Synchronizovat stavový sloupec
+GroupBy: Seskupit podle
+SortBy: Seřadit dle
+GroupInDescendingOrder: Seskupit sestupně
+SortInDescendingOrder: Seřadit sestupně
+NewShortcutDialogTitle: Vytvořit nového zástupce
+NewShortcutDialogDescription: Vytvořit zástupce pro lokální nebo síťové programy, soubory, složky, počítače nebo internetové adresy.
+NewShortcutDialogPrompt: 'Zadejte umístění položky:'
+AddDialogListShortcutSubHeader: Vytvoří zástupce
+RecentFilesDisabledOnWindowsWarning: Naposledy použité soubory jsou v Průzkumníku souborů Windows zakázány.
+EditSettingsFile: Upravit soubor nastavení
+WhatsNew: Co je nového
+CannotCreateShortcutDialogTitle: Vytvoření zástupce v tomto umístění vyžaduje oprávnění správce
+CannotCreateShortcutDialogMessage: Přejete si místo toho vytvořit zástupce na ploše?
+ErrorDialogNameNotAllowed: Zadaný název položky je neplatný
+Settings: Nastavení
+DoubleClickBlankSpaceToGoUp: Dvojitým kliknutím do prázdného prostoru přejít o složku výše
+ViewMore: Zobrazit více
+ShowEditTagsMenu: Zobrazit výsuvné menu pro upravení štítků
+ShowCompressionOptions: Zobrazit možnosti komprese
+ShowSendToMenu: Zobrazit odeslání do menu
+ShowOpenInNewTab: Zobrazit možnost otevření složek v nové záložce
+ShowOpenInNewWindow: Zobrazit možnost otevření složek v novém okně
+QuickAccess: Rychlý přístup
+NetworkAuthenticationDialogMessage: 'Zadejte vaše přihlašovací údaje pro připojení k: {0}'
+NetworkAuthenticationDialogTitle: Zadejte přihlašovací údaje k síti
+NetworkAuthenticationSaveCheckbox: Pamatovat si mé přihlašovací údaje
+NetworkFolderErrorDialogTitle: Chyba síťového adresáře
+AppVersion: Verze aplikace
+WindowsVersion: Verze Windows
+Always: Vždy
+PermanentDeletionOnly: Pouze trvalé odstranění
+Never: Nikdy
+TagColor: Barva štítku
+NewTag: Nový štítek
+CreateNewTag: Vytvořit nový štítek
+Loading: Načítání...
+ContextMenuOptions: Nastavení kontextového menu
+ShowFileExtensions: Zobrazit přípony souborů
+ShowHiddenItems: Zobrazit skryté položky
+FormatDriveText: Formátování...
+Help: Nápověda
+FullScreen: Přepnout režim celé obrazovky
+ConfirmDeleteTag: Opravdu chcete odstranit tento štítek?
+PlayAll: Přehrát vše
+Height: Výška
+Width: Šířka
+ApplyToAllConflictingItems: Použít tuto akci na všechny konfliktní položky
+OpenTerminal: Otevřít v aplikaci Terminál
+OpenTerminalAsAdmin: Otevřít v aplikaci Terminál jako správce
+Save: Uložit
+MultiSelect: Vícenásobný výběr
+ReorderSidebarItemsDialogText: Změnit položky postranního panelu
+Hashes: Haše
+CalculationError: Během výpočtu došlo k chybě
+CalculationErrorFileIsOpen: Výpočet haše se nezdařil. Zavřete prosím soubor a zkuste to znovu.
+CalculationOnlineFileHashError: Hashe nejsou k dispozici pro online soubory
+Algorithm: Algoritmus
+HashValue: Hodnota haše
+SelectHashesToShow: Vyberte haše, které chcete zobrazit
+Calculating: Probíhá výpočet...
+JumpListPinnedGroupHeader: Připnuté položky
+DecreaseSize: Zmenšit velikost
+IncreaseSize: Zvětšení velikosti
+ToggleSortDirection: Obrátit směr řazení
+InvalidTagNameWarning: Neplatné jméno
+TagNameRules: Název nesmí být prázdný, nebo nesmí začínat či končit tečkou.
+Videos: Videa
+LaunchPreviewPopup: Spustit okno náhledu
+ToggleCompactOverlay: Přepnout kompaktní překrytí
+OpenHelpDescription: Otevřít stránku nápovědy v prohlížeči
+ToggleFullScreenDescription: Přepnout režim celé obrazovky
+EnterCompactOverlayDescription: Vstoupit do kompaktního překrytí
+ExitCompactOverlayDescription: Opustit kompaktní překrytí
+ToggleCompactOverlayDescription: Přepnout kompaktní překrytí
+SearchDescription: Přejít do vyhledávacího pole
+ToggleShowHiddenItemsDescription: Přepnout zobrazení skrytých položek
+ToggleShowFileExtensionsDescription: Určuje, zda se zobrazí přípony souborů
+TogglePreviewPaneDescription: Přepnout panel pro zobrazení náhledu souboru
+ToggleSidebarDescription: Přepněte, zda se zobrazí postranní panel
+CopyItemDescription: Kopírovat do schránky
+CopyPathDescription: Kopírovat cestu vybraných položek do schránky
+CopyPathWithQuotesDescription: Kopírovat cestu vybraných položek do schránky včetně uvozovek
+CutItemDescription: Vyjmout do schránky
+PasteItemDescription: Vložte položku(y) že schránky do aktuální složky
+PasteItemToSelectionDescription: Vložte položku(y) ze schránky do vybrané složky
+DeleteItemDescription: Smazat položku(y)
+CreateFolderDescription: Vytvořit novou složku
+CreateShortcutDescription: Vytvořit nové zástupce pro vybrané položky
+CreateShortcutFromDialogDescription: Vytvořit nového zástupce pro libovolnou položku
+EmptyRecycleBinDescription: Vyprázdnit koš
+FormatDriveDescription: Otevře menu "Formátovat disk" pro vybranou položku
+RestoreRecycleBinDescription: Obnovit vybrané položky z koše
+RestoreAllRecycleBinDescription: Obnoví veškeré položky umístěné v koši
+OpenItemDescription: Otevře položku(y)
+OpenItemWithApplicationPickerDescription: Otevřít vybrané položku(y) pomocí vybrané aplikace
+OpenParentFolderDescription: Otevřít nadřazenou složku vyhledané položky
+RefreshItemsDescription: Aktualizovat obsah stránky
+RenameDescription: Přejmenovat vybranou položku
+SelectAllDescription: Vybrat všechny položky
+InvertSelectionDescription: Invertovat výběr
+ClearSelectionDescription: Vymazat výběr
+ToggleSelectDescription: Přepnout výběr položek
+ShareItemDescription: Sdílet vybraný soubor(y) s ostatníma
+PinToStartDescription: Připnout položku(y) do nabídky Start
+UnpinFromStartDescription: Odepnout položku(y) z nabídky Start
+PinFolderToSidebarDescription: Připnout složku(y) do postranního panelu
+UnpinFolderFromSidebarDescription: Odepnout složku(y) ze postranního panelu
+SetAsWallpaperBackgroundDescription: Použít vybraný obrázek jako pozadí
+SetAsSlideshowBackgroundDescription: Nastaví vybrané obrázky jako prezentaci na ploše
+SetAsLockscreenBackgroundDescription: Nastaví vybraný obrázek jako pozadí zamykací obrazovky
+SetAsAppBackgroundDescription: Nastaví vybraný obrázek jako pozadí aplikace
+InstallFontDescription: Nainstalovat vybraná písma
+InstallInfDriverDescription: Nainstalovat ovladače pomocí vybraných inf souborů
+InstallCertificateDescription: Nainstalovat zvolené certifikáty
+RunAsAdminDescription: Spustit vybranou aplikaci jako správce
+RunAsAnotherUserDescription: Spustit vybranou aplikaci jako jiný uživatel
+RunWithPowershellDescription: Spustit vybraný PowerShell skript
+LaunchPreviewPopupDescription: Spustit náhled ve vyskakovacím okně
+CompressIntoArchiveDescription: Vytvořit archiv s vybranými položkami
+CompressIntoSevenZipDescription: Vytvořit 7z archiv s vybranými položkami
+CompressIntoZipDescription: Vytvořit zip archiv s vybranými položkami
+DecompressArchiveDescription: Extrahovat položky z vybraných archivů do jakékoli složky
+DecompressArchiveHereDescription: Extrahovat položky z vybraných archivů do aktuální složky
+DecompressArchiveToChildFolderDescription: Extrahovat položky z vybraných archivů do nové složky
+RotateLeftDescription: Otočit vybrané obrázky doleva
+RotateRightDescription: Otočit vybrané obrázky doprava
+OpenSettingsDescription: Otevřít stránku s nastavením
+OpenTerminalDescription: Otevřít složku v terminálu
+OpenTerminalAsAdminDescription: Otevřít složku v terminálu jako správce
+LayoutDecreaseSizeDescription: Zmenšit velikost položky v aktuálním zobrazení
+LayoutIncreaseSizeDescription: Zvětšit velikost položky v aktuálním zobrazení
+LayoutDetailsDescription: Přepnout na detailní zobrazení
+LayoutTilesDescription: Přepnout na zobrazení dlaždic
+LayoutListDescription: Přepnout na zobrazení seznamu
+List: Seznam
+Grid: Mřížka
+LayoutGridDescription: Přepnout na mřížkové zobrazení
+LayoutColumnsDescription: Přepnout na sloupcové zobrazení
+LayoutAdaptiveDescription: Přepínat zobrazení adaptivně
+SortByNameDescription: Seřadit položky dle názvu
+SortByDateModifiedDescription: Seřadit položky dle data úprav
+SortByDateCreatedDescription: Seřadit položky dle data vytvoření
+SortBySizeDescription: Seřadit položky dle velikosti
+SortByTypeDescription: Seřadit položky dle typu
+SortBySyncStatusDescription: Seřadit položky dle stavu synchronizace
+SortByTagDescription: Seřadit položky dle štítků
+SortByOriginalFolderDescription: Seřadit položky dle původní složky
+SortByDateDeletedDescription: Seřadit položky dle data smazání
+SortAscendingDescription: Seřadit položky vzestupně
+SortDescendingDescription: Seřadit položky sestupně
+ToggleSortDirectionDescription: Obrátit směr řazení
+GroupByNoneDescription: Zobrazit položky bez seskupování
+GroupByNameDescription: Seřadit položky dle názvu
+GroupByDateModifiedDescription: Seřadit položky dle data úpravy
+GroupByDateCreatedDescription: Seřadit položky dle data vytvoření
+GroupBySizeDescription: Seřadit položky dle velikosti
+GroupByTypeDescription: Seřadit položky dle typu
+GroupBySyncStatusDescription: Seřadit položky dle stavu synchronizace
+GroupByTagDescription: Seřadit položky dle štítků
+GroupByOriginalFolderDescription: Seřadit položky dle původní složky
+GroupByDateDeletedDescription: Seřadit položky dle data smazání
+GroupByFolderPathDescription: Seřadit položky dle cesty složky
+GroupAscendingDescription: Seřadit skupiny vzestupně
+GroupDescendingDescription: Seřadit skupiny sestupně
+ToggleGroupDirectionDescription: Přepnout směr řazení skupin
+NewTabDescription: Otevřít novou kartu
+NavigateBackDescription: Přejít zpět v historii navigace
+NavigateForwardDescription: Přejít vpřed v historii navigace
+NavigateUpDescription: Přejít o složku výše
+DuplicateCurrentTabDescription: Duplikovat aktuální kartu
+DuplicateSelectedTabDescription: Duplikovat vybranou kartu
+CloseTabsToTheLeftCurrentDescription: Zavřít karty vlevo od aktuální karty
+CloseTabsToTheLeftSelectedDescription: Zavřít karty vlevo od vybrané karty
+CloseTabsToTheRightCurrentDescription: Zavřít karty vpravo od aktuální karty
+CloseTabsToTheRightSelectedDescription: Zavřít karty vpravo od vybrané karty
+CloseOtherTabsCurrentDescription: Zavřít všechny ostatní karty
+CloseOtherTabsSelectedDescription: Zavřít všechny ostatní karty
+ReopenClosedTabDescription: Vrátit naposledy uzavřenou kartu
+PreviousTabDescription: Přesunout na předchozí kartu
+NextTabDescription: Přesunout na následující kartu
+CloseSelectedTabDescription: Zavřít aktuální kartu
+OpenNewPaneDescription: Otevřít nový panel
+ClosePaneDescription: Zavřít pravý panel
+FocusLeftPane: Přepnout na levý panel
+FocusLeftPaneDescription: Změna přepnutí se na levý panel
+FocusRightPane: Přepnout na pravý panel
+FocusRightPaneDescription: Změna přepnutí se na pravý panel
+ToggleSidebar: Skrýt/Zobrazit postranní panel
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Mezerník
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Insert
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Delete
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Vlevo
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Vpravo
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Dolů
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Nahoru
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Home
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sleep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Clear
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Help
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Domů
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Zpět
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Vpřed
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Obnovit
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: Zastavit načítání
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Hledat
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Oblíbené
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PrevTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: NextTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelect
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Mute
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: VolDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: VolUp
+Change: Změnit
+ToggleSelect: Přepnout výběr
+ShowFileExtensionWarning: Zobrazit varování při změně přípony souborů
+ThisPC: Tento počítač
+RecycleBin: Koš
+Untagged: Bez štítku
+PreviousTab: Přesune se na předchozí kartu
+NextTab: Přesune se na následující kartu
+CloseTab: Zavře aktuální kartu
+EditPath: Upravit cestu
+Redo: Zopakovat
+Undo: Vrátit zpět
+InvalidLocation: Neplatné umístění
+CopyFileWithoutProperties: Opravdu chcete zkopírovat tyto soubory bez jejich vlastností?
+FilePropertiesCannotBeCopied: Tyto soubory mají vlastnosti, které nelze zkopírovat do nového umístění
+FilePropertiesCannotBeMoved: Tyto soubory mají vlastnosti, které nelze přesunout do nového umístění
+MoveFileWithoutProperties: Opravdu chcete přesunout tyto soubory bez jejich vlastností?
+ShowCheckboxesWhenSelectingItems: Zobrazit zaškrtávací políčka při výběru položek
+EditPathDescription: Zaměřit se na vyhledávací lištu
+AddItemDescription: Vytvořit novou položku
+SecurityNoAccessControlEntriesText: Žádné skupiny nebo uživatelé nemají oprávnění k přístupu k tomuto objektu. Vlastník tohoto objektu však může přiřadit oprávnění.
+OpenFileLocationDescription: Otevřít umístění položky
+DeletePermanently: Trvale odstranit
+DeleteItemPermanentlyDescription: Trvale odstranit položku(y)
+PlayAllDescription: Přehrát vybrané soubory médií
+UndoDescription: Vrátit zpět poslední operaci
+RedoDescription: Zopakovat poslední operaci
+Location: 'Umístění:'
+GroupByMonthDescription: Seskupit položky dle měsíce
+GroupByYearDescription: Seskupit položky dle roku
+Month: Měsíc
+Day: Den
+ToggleGroupByDateUnitDescription: Přepnout jednotku pro seskupování podle data
+ToggleGroupingUnit: Přepnout seskupovací jednotku
+Year: Rok
+GroupByDateUnit: Seskupit dle jednotky data
+GroupByDateCreatedDayDescription: Seskupit položky dle dne vytvoření
+GroupByDateCreatedMonthDescription: Seskupit položky dle měsíce vytvoření
+GroupByDateCreatedYearDescription: Seskupit položky dle roku vytvoření
+GroupByDateDeletedDayDescription: Seskupit položky dle dne smazání
+GroupByDateDeletedMonthDescription: Seskupit položky dle měsíce smazání
+GroupByDateDeletedYearDescription: Seskupit položky dle roku smazání
+GroupByDateModifiedDayDescription: Seskupit položky dle dne úpravy
+GroupByDateModifiedMonthDescription: Seskupit položky dle měsíce úpravy
+GroupByDateModifiedYearDescription: Seskupit položky dle roku úpravy
+SecurityClickAdvancedPermissions: Klikněte na 'Rozšířená oprávnění' pro pokračování.
+SecurityRequireReadPermissions: Pro zobrazení vlastností této položky musíte mít oprávnění ke čtení.
+SecuritySuggestToTakeOwnership: Chcete-li zkusit převzít vlastnictví položky, která obsahuje oprávnění k zobrazení jejích vlastností, klepněte na tlačítko Změnit výše.
+SecurityUnableToDisplayPermissions: Nepodařilo se zobrazit oprávnění.
+StashChanges: Ponechat mé změny na '{0}'
+DiscardChanges: Zahodit změny
+BringChanges: Nastavit mé změny na '{0}'
+UncommittedChanges: V této větvi máte neprovedené změny. Co s nimi chcete udělat?
+SwitchBranch: Přepnout větev
+Branches: Větve
+Switch: Přepínač
+NewBranch: Nová větev
+InvalidBranchName: Neplatný název větve
+CreateBranch: Vytvořit novou větev
+CreateNewBranch: Vytvořit novou větev
+BasedOn: Na základě
+SwitchToNewBranch: Přepnout na novou větev
+CreateFolderWithSelectionDescription: Vytvořit složku s aktuálně vybranými položkami
+OpenProperties: Otevřít vlastnosti
+OpenPropertiesDescription: Otevřít okno s vlastnostmi
+Locals: Místní
+Remotes: Vzdálené
+ImproveTranslation: Pomoc s překladem na Crowdin
+GitFetch: Stáhnout
+GitPull: Stáhnout
+GitFetchDescription: Spustit git stahování
+GitPullDescription: Spustit vložení do gitu
+Preview: Náhled
+GitStatus: Git stav
+GitError: Chyba Gitu
+PullTimeoutError: git vložení selhalo kvůli vypršení limitu spojení
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (vícero hodnot)
+Author: Autor
+DateCommitted: Datum commitu
+CommitMessage: Zpráva commitu
+CommitSha: SHA commitu
+Git: Git
+Acrylic: Akryl
+Mica: Mica
+MicaAlt: Alt. Mica
+BackdropMaterial: Materiál pozadí
+Solid: Plná barva
+ManageBranches: Spravovat větve
+Push: Odeslat
+GitPushDescription: Spustit příkaz git push
+GitSync: Synchronizovat
+GitSyncDescription: Spustit git pull a potom git push
+GitSyncStatusExtendedInfo: '{0} na nahrání / {1} na stažení commitů'
+ConnectGitHub: Připojit GitHub
+ConnectGitHubDescription: Zadejte následující kód na přihlašovací stránce aby jste mohli začít pracovat s repozitářemi GitHub.
+CannotReachGitHubError: Files nemá aktuálně přístup ke GitHubu.
+OpenInVSCode: Otevřít složku v aplikaci VS Code
+OpenInVSCodeDescription: Otevřít aktuální adresář ve VS Code
+OpenRepoInVSCode: Otevřít repozitář v aplikaci VS Code
+OpenRepoInVSCodeDescription: Otevřít kořen repozitáře Gitu v aplikaci Visual Studio Code
+CopyCode: Zkopírovat kód
+Added: Přidáno
+Deleted: Smazáno
+Modified: Změněno
+Untracked: Nesledováno
+UnableToDisplayOwner: Nelze zobrazit aktuálního vlastníka.
+AuthorizationSucceded: Výborně! Jste přihlášen.
+InitRepo: Inicializovat repozitář
+InitRepoDescription: Inicializovat úložiště Git
+GitOriginRepositoryName: Název vzdáleného repozitáře
+GitCurrentBranch: Aktivní větev
+PathColumn: Sloupec cesty
+SortByPathDescription: Seřadit položky dle cesty
+OpenDirectoryInNewPaneDescription: Otevřít složku v novém panelu
+OpenDirectoryInNewTabDescription: Otevřít složku v nové kartě
+OpenInNewWindowDescription: Otevřít složku v novém okně
+OpenAllTaggedItems: Otevřít vše
+OpenAllTaggedItemsDescription: Otevřít všechny položky se štítkem
+#{0} is the drive letter.
+DriveWithLetter: Jednotka ({0})
+InvalidCommand: Neplatný příkaz
+InvalidCommandContent: "'{0}' nebyl rozpoznán jako příkaz."
+CommandNotExecutable: Příkaz není spustitelný
+CommandNotExecutableContent: Příkaz '{0}' není připraven ke spuštění.
+CommandPalette: Paleta příkazů
+OpenCommandPaletteDescription: Otevřít paletu příkazů
+ShortcutItemWorkingDir: 'Začít v:'
+TurnOnBitLocker: Zapnout BitLocker
+ManageBitLocker: Správa BitLockeru
+CopyFailureFileToLarge: Následující položky jsou příliš velké na to, aby mohly být zkopírovány na tuto jednotku
+FormatDrive: Naformátovat disk
+DontShowAgain: Příště nezobrazovat
+FilesRunningAsAdmin: Files je spuštěn s oprávněním správce
+FilesRunningAsAdminContent: Kvůli omezení systému Windows a aplikace WinAppSdk není při spuštění aplikace Files jako správce k dispozici funkce 'drag & drop'. Pokud chcete 'drag & drop' použít, můžete toto omezení obejít tak, že v nabídce Start otevřete UAC (Řízení uživatelských účtů), vyberete třetí úroveň a restartujete systém Windows. V opačném případě můžete nadále používat aplikaci Files bez funkce 'drag & drop'.
+SettingsLeaveAppRunning: Ponechat aplikaci běžet na pozadí, když je okno zavřeno
+#One of the custom color themes
+Blue: Modrá
+#One of the custom color themes
+BlueGray: Modro-šedá
+#One of the custom color themes
+BrickRed: Cihlově červená
+#One of the custom color themes
+Camouflage: Kamufláž
+#One of the custom color themes
+CoolBlueBright: Jasná chladně modrá
+#One of the custom color themes
+Gray: Šedá
+#One of the custom color themes
+GrayDark: Tmavě Šedá
+#One of the custom color themes
+Green: Zelená
+#One of the custom color themes
+IrisPastel: Pastelová Iris
+#One of the custom color themes
+MintLight: Mátově světlá
+#One of the custom color themes
+ModRed: Tmavě červená
+#One of the custom color themes
+OrangeBright: Jasně oranžová
+#One of the custom color themes
+Overcast: Světle šedá
+#One of the custom color themes
+Red: Červená
+#One of the custom color themes
+RoseBright: Jasně růžová
+#One of the custom color themes
+Seafoam: Mořská pěna
+#One of the custom color themes
+Storm: Bouře
+#One of the custom color themes
+VioletRedLight: Světlá červeno-fialová
+#One of the custom color themes
+YellowGold: Žlutozlatá
+ClearCompleted: Smazat dokončené
+NameWithColon: 'Název:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} z {1} zpracováno'
+ItemsLower: položky
+CannotInitializeGitRepo: Soubory nemohou inicializovat tento adresář jako Git repozitář.
+ContributingArtist: Přispívání umělce
+AddPage: Přidat stránku
+ProcessingItems: Zpracovávání položek...
+SpeedWithColon: 'Rychlost:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Zrušeno komprimování {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Zrušeno komprimování {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Komprimováno {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Komprimováno {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Chyba při komprimování {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Nepodařilo se zkomprimovat {0} položek z {1} do {2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Komprimování {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Komprimování {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Zrušeno kopírování {0} položky(položek) do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Zrušeno kopírování {0} položky(položek) z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Kopírováno {0} položky(položek) do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Kopírováno {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Chyba při kopírování {0} položky(položek) do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Nepodařilo se zkopírovat {0} položek z {1} do {2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Kopírování {0} položky(položek) do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Kopírování {0} položky(položek) z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Extrahování "{0}“ do "{1}“ zrušeno
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Extrahování "{0}“ z "{1}“ do "{2}“ zrušeno
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Extrahování "{0}“ do "{1}“ dokončeno
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Extrahování "{0}“ z "{1}“ do "{2}“ dokončeno
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Chyba při extrahování "{0}“ do "{1}“
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Nepodařilo se extrahovat "{0}“ z "{1}“ do "{2}“
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Extrahuji "{0}" do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Extrahuji "{0}" z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Zrušeno mazání {0} položek z "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Smazáno {0} položek z "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Chyba při mazání {0} položek z "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Nepodařilo se smazat {0} položek z {1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Mazání {0} položek z "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Zrušeno přesouvání {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Zrušeno přesouvání {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Přesunuto {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Přesunuto {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Přesouvání {0} položek(y) do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Přesouvání {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Chyba při přesouvání {0} položek do "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Nepodařilo se přesunout {0} položek z "{1}" do "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Zrušeno vyprazdňování Koše
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Koš vyprázdněn
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Vyprazdňování koše
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Chyba při vyprazdňování koše
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Nepodařilo se vyprázdnit koš
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Příprava operace...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} položek zpracováno'
+UnblockDownloadedFile: Odblokovat stažený soubor
+NoFileOperations: Žádné probíhající operace se soubory
+OpenOnStartupDisabled: Možnost otevřít Files při spuštění systému Windows není dostupná kvůli nastavení systému nebo skupinovým pravidlům. Chcete-li ji umožnit, otevřete úvodní stránku ve Správci úloh.
+FailedToRestore: Obnovení položek z koše se nezdařilo
+FailedToSetBackground: Nepodařilo se nastavit tapetu pozadí
+GitDeleteBranch: Smazat Git větev
+GitDeleteBranchSubtitle: Jste si jisti, že chcete navždy smazat větev "{0}"?
+ConnectedToGitHub: Připojeno ke GitHubu
+Logout: Odhlásit se
+ConnectToGitHub: Připojit GitHub
+Login: Přihlásit se
+ErrorApplyingTagContent: Štítky jsou v tuto chvíli dostupné pouze na discích formátovaných jako NTFS.
+ErrorApplyingTagTitle: Při aplikování tohoto štítku došlo k chybě
+DecompressArchiveHereSmartDescription: Extrahovat položky z vybraných archivů do aktuální složky v případě archivu s jednou položkou nebo do nové složky v případě archivu s více položkami
+ExtractHereSmart: Extrahovat zde (Chytře)
+SortFilesAndFoldersTogether: Řadit soubory a složky pohromadě
+SortFilesAndFoldersTogetherDescription: Řadit soubory a složky pohromadě
+SortFilesFirst: Nejprve řadit soubory
+SortFilesFirstDescription: Nejprve řadit soubory, poté složky
+SortFoldersFirst: Nejprve řadit složky
+SortFoldersFirstDescription: Nejprve řadit složky, poté soubory
+SortPriority: Seřadit dle priority
+FailedToRotateImage: Nepodařilo se otočit obrázek
+Restart: Restartovat
+Quit: Odejít
+FaildToShareItems: Sdílení položek se nezdařilo
+ScrollToPreviousFolderWhenNavigatingUp: Přejít na předchozí složku při navigaci nahoru
+NewWindowDescription: Otevřít nové okno
+ChangeAlbumCover: Změnit obal alba
+ItemRenameFailed: Přejmenování položky se nezdařilo
+HigherPermissionsRequired: Úprava "{0}" vyžaduje další oprávnění
+EditPermissions: Upravit oprávnění
+BackgroundRunningNotificationBody: Files stále běží na pozadí za účelem zlepšení rychlosti spouštění.
+BackgroundRunningNotificationHeader: Kam se poděl Files?
+QuestionsAndDiscussions: Otázky a diskuse
+TilesViewSizeInfo: Další velikosti ještě nejsou k dispozici pro zobrazení dlaždic.
+#Used to describe layout sizes
+Compact: Kompaktní
+#Used to describe layout sizes
+Small: Malý
+#Used to describe layout sizes
+Medium: Střední
+#Used to describe layout sizes
+Medium+: Střední +
+#Used to describe layout sizes
+Medium++: Střední ++
+#Used to describe layout sizes
+Medium+++: Střední +++
+#Used to describe layout sizes
+Medium++++: Střední ++++
+#Used to describe layout sizes
+Medium+++++: Střední +++++
+#Used to describe layout sizes
+Large: Velký
+#Used to describe layout sizes
+Large+: Velký +
+#Used to describe layout sizes
+Large++: Velký ++
+#Used to describe layout sizes
+Large+++: Velký +++
+#Used to describe layout sizes
+ExtraLarge: Extra velký
+DetailsView: Zobrazit detaily
+LayoutType: Typ rozložení
+Actions: Akce
+Commands: Příkazy
+AddCommand: Přidat příkaz
+RestoreDefaults: Obnovit výchozí
+ChooseAnAction: Vybrat akci
+RestoreDefaultKeybindingsConfirmation: Jste si jist, že chcete obnovit výchozí klávesové zkratky? Tuto akci nelze vrátit zpět.
+KeybindingAlreadyUsedNotification: Tato klávesová zkratka je již používána, vyberte prosím jinou klávesovou zkratku, abyste mohli pokračovat.
+KeybindingInvalidKeyNotification: Vámi zvolenou kombinaci kláves nelze použít, zkuste prosím použít jinou kombinaci kláves.
+Customized: Přizpůsobeno
+AdaptiveLayoutDisabledNotification: Adaptivní rozložení není dostupné, pokud jsou nastavení synchronizována, výchozí rozložení bylo změněno na Podrobnosti.
+BackgroundImage: Obrázek pozadí
+#Image alignment type
+Bottom: Dolů
+#Image alignment type
+Center: Střed
+#Image stretch type
+Fill: Roztáhnout
+HorizontalAlignment: Horizontální zarovnání
+ImageFit: Velikost
+#Image alignment type
+Left: Vlevo
+Opacity: Průhlednost
+#Image alignment type
+Right: Vpravo
+#Image alignment type
+Top: Nahoru
+#Image stretch type
+Uniform: Přizpůsobit
+#Image stretch type
+UniformToFill: Vyplnit
+VerticalAlignment: Vertikální zarovnání
+#This is a type of backdrop for the application background
+ThinAcrylic: Slabý akryl
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Zobrazit pro všechna umístění
+DevTools: Nástroje pro vývojáře
+DisplayOpenIDE: Konfigurace tlačítka „Otevřít IDE“ na stavové liště
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Zobrazit pro repozitáře Git
+#This is the friendly name for DLL files.
+ApplicationExtension: Rozšíření aplikace
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Soubor ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Soubor ZIP
+#This is the friendly name for bitmap files.
+BitmapFiles: Soubory bitmap
+NumPadTypeName: Num
+NetworkLocations: Síťová umístění
+NoNetworkLocationsInfo: Neexistují žádná síťová umístění. Pokud síťová umístění nepoužíváte, můžete widget vypnout.
+Disable: Zakázat
+EditInNotepad: Upravit v Poznámkovém bloku
+EditInNotepadDescription: Upravit vybraný soubor v Poznámkovém bloku

@@ -1,0 +1,1467 @@
+NewWindow: Nova janela
+CopyPath: Copiar caminho
+CopyPathWithQuotes: Copiar caminho com aspas
+Browse: Explorar
+Size: Tamanho
+PropertiesCreated:
+  Text: 'Criado:'
+Path: Caminho
+SizeLabel: 'Tamanho:'
+SizeOnDiskLabel: 'Tamanho em disco:'
+UncompressedSize: 'Tamanho descomprimido:'
+ErrorDialogThisActionCannotBeDone: Esta ação não pode ser executada
+ErrorDialogTheDestinationFolder: A pasta de destino
+ErrorDialogIsASubfolder: é uma subpasta da pasta de origem
+Skip: Ignorar
+SelectAll: Selecionar tudo
+InvertSelection: Inverter seleção
+ClearSelection: Limpar seleção
+PropertiesModified:
+  Text: 'Alterado:'
+Accessed: 'Acedido:'
+RecentItemClearAll:
+  Text: Limpar todos os itens
+NavigationToolbarVisiblePath:
+  PlaceholderText: Introduza um caminho para navegar ou digite ">" para abrir a paleta de comandos
+Search: Pesquisar
+RecentItemDescription:
+  Text: Os ficheiros acedidos anteriormente serão mostrados aqui
+RecentItemRemove:
+  Text: Remover este item
+OpenGitHubRepo: Repositório GitHub
+About: Acerca
+OpenSource: Código aberto
+DateFormat: Formato da data
+SettingsAppearanceTheme: Tema
+SettingsFilesAndFoldersShowFileExtensions: Mostrar extensões para tipos de ficheiros conhecidos
+SettingsFilesAndFoldersShowHiddenItems: Mostrar ficheiros e pastas ocultas
+ShowDotFiles: Mostrar ficheiros ocultos
+Appearance: Aparência
+BackgroundColor: Cor de fundo
+Advanced: Avançado
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Continuar com a última sessão
+SettingsOnStartupOpenANewTab:
+  Content: Abrir um novo separador
+SettingsOnStartupOpenASpecificPage:
+  Content: Abrir página(s) específica(s)
+Desktop: Ambiente de trabalho
+Documents: Documentos
+Downloads: Transferências
+Name: Nome
+Ascending: Ascendente
+Paste: Colar
+BaseLayoutContextFlyoutNew:
+  Label: Novo
+Properties: Propriedades
+Open: Abrir
+OpenInNewTab: Abrir em novo separador
+OpenInNewWindow: Abrir em nova janela
+Share: Partilhar
+Cut: Cortar
+Delete: Eliminar
+PinFolderToSidebar: Afixar na barra lateral
+WelcomeDialog:
+  Title: Obrigado por utilizar Files!
+  PrimaryButtonText: Conceder permissão
+WelcomeDialogTextBlock:
+  Text: 'Para começar, terá de nos conceder permissão para mostrar os seus ficheiros. Isto abrirá uma página de Definições, na qual pode conceder esta permissão. Terá de reabrir a aplicação assim que terminar esta etapa. '
+Display: Exibição
+EnterAnItemName: Introduza o nome do item
+RenameDialog:
+  PrimaryButtonText: Definir nome
+LightTheme: Claro
+DarkTheme: Escuro
+Application: Aplicação
+SystemTimeStyle: Sistema
+NewFolder: Nova pasta
+NewFile: Novo ficheiro
+EmptyFolder:
+  Text: Esta pasta está vazia.
+Back: Recuar
+Forward: Avançar
+Up: Subir
+Refresh: Recarregar
+ItemAlreadyExistsDialogContent: Já existe um item com este nome nesta pasta.
+ItemAlreadyExistsDialogSecondaryButtonText: Substituir item existente
+ItemAlreadyExistsDialogTitle: O item já existe
+SetAsLockscreen: Definir como fundo de ecrã de bloqueio
+SetAsAppBackground: Definir como fundo da aplicação
+AccessDeniedDeleteDialog:
+  Text: Não foi possível eliminar este item
+DriveUnpluggedDialog:
+  Text: Por favor, insira a unidade necessária para aceder a este item.
+  Title: Unidade desconectada
+FileNotFoundDialog:
+  Text: O ficheiro a que está a tentar aceder pode ter sido movido ou eliminado.
+  Title: Ficheiro não encontrado
+CannotAccessPropertiesTitle: Não foi possível abrir as propriedades do ficheiro
+CannotAccessPropertiesContent: O ficheiro a que está a tentar aceder pode ter sido movido ou eliminado.
+FolderNotFoundDialog:
+  Text: A pasta a que está a tentar aceder pode ter sido movida ou eliminada.
+  Title: Será que eliminou esta pasta?
+FileInUseByDialog:
+  Text: O ficheiro a que está a tentar aceder está a ser utilizado por {0}
+FileInUseDialog:
+  Text: O ficheiro ao qual está a tentar aceder está a ser utilizado por outra aplicação
+  Title: Ficheiro em utilização
+Layout: Esquema
+PropertiesDialogReadOnly:
+  Text: Apenas leitura
+DaysAgo: '{0, plural, one {# dia atrás} other {# dias atrás}}'
+HoursAgo: '{0, plural, one {# hora atrás} other {# horas atrás}}'
+MinutesAgo: '{0, plural, one {# minuto atrás} other {# minutos atrás}}'
+SecondsAgo: '{0, plural, one {# segundo atrás} other {# segundos atrás}}'
+Now: Agora
+ErrorDialogUnsupportedOperation: A operação solicitada não é suportada
+DriveFreeSpaceAndCapacity: '{0} livre(s) de {1}'
+SendTo: Enviar para
+FileNameTeachingTip:
+  Subtitle: 'O nome do item não pode ter os seguintes caracteres: \ / : * ? " < > |'
+InvalidFilename:
+  Text: O nome do item especificado é inválido
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# item selecionado} other {# itens selecionados}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {item} other {itens}}'
+Yes: Sim
+ConfirmEmptyBinDialogContent: Tem a certeza de que pretende eliminar permanentemente todos estes itens?
+ConfirmEmptyBinDialogTitle: Esvaziar reciclagem
+ItemSizeBytes: bytes
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {ficheiro} other {ficheiros}}, {1, number} {1, plural, one {pasta} other {pastas}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Executar como outro utilizador
+PropertiesDriveItemTypesEquals: Todos os tipos de {0}
+PropertiesDriveItemTypeDifferent: Tipos diferentes
+PropertiesCombinedItemLocation: Tudo em {0}
+PropertiesDriveUsedSpace:
+  Text: 'Espaço utilizado:'
+PropertiesDriveFreeSpace:
+  Text: 'Espaço livre:'
+PropertiesDriveCapacity:
+  Text: 'Capacidade:'
+PropertiesDriveFileSystem:
+  Text: 'Sistema de ficheiros:'
+JumpListRecentGroupHeader: Recentes
+TabStripDragAndDropUIOverrideCaption: Mover separador aqui
+syncStatusColumn:
+  Header: Estado
+SettingsPreferencesSystemDefaultLanguageOption: Padrão do Windows
+NavigationToolbarVisiblePathNoResults: Sem resultados
+SubDirectoryAccessDenied: Não existem quaisquer itens para mostrar
+MoveToFolderCaptionText: Mover para {0}
+CopyToFolderCaptionText: Copiar para {0}
+CreateShortcut: Criar atalho
+OpenFileLocation: Abrir localização do ficheiro
+PropertiesShortcutItemArgs:
+  Text: 'Argumentos:'
+PropertiesShortcutItemPath:
+  Text: 'Destino:'
+PropertiesShortcutItemType:
+  Text: 'Tipo de atalho:'
+PropertiesShortcutTypeLink: Ligação web
+General: Geral
+Shortcut: Atalho
+ShortcutWebLinkFileType: Atalho da Internet
+ShortcutCreateNewSuffix: '{0} - atalho'
+ExceptionNotificationBody: O Files encontrou um problema que os programadores não previram.
+ExceptionNotificationHeader: Ocorreu um erro!
+ExceptionNotificationReportButton: Reportar este problema
+InvalidItemDialogContent: O item referenciado é inválido ou não pode ser acedido.{0} Mensagem de erro:{0}{1}
+InvalidItemDialogTitle: Item inválido
+SettingsAboutVersionTitle: 'Versão:'
+ShareDialogFailMessage: Não há nada para partilhar agora...
+ShareDialogMultipleItemsDescription: Os itens selecionados serão partilhados
+ShareDialogSingleItemDescription: O item selecionado será partilhado
+ShareDialogTitle: A partilhar {0}
+ShareDialogTitleMultipleItems: A partilhar {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: O item a que está a tentar mudar o nome já não existe. Verifique a localização exata do ficheiro que pretende renomear.
+    Title: O item já não existe
+  NameInvalid:
+    Text: O nome especificado é inválido. Verifique o nome do item pretendido e tente novamente.
+    Title: Nome do item inválido
+  TooLong:
+    Text: O comprimento do nome do item especificado excede o limite máximo. Verifique o nome desejado e tente novamente.
+    Title: O nome do item é muito grande
+ShowMoreOptions: Mais opções
+RestartNotificationText:
+  Text: Tem que reiniciar a aplicação para aplicar as alterações. Deseja reiniciar agora?
+SponsorUsOnGitHub: Patrocine-nos no GitHub
+AccessDeniedCreateDialog:
+  Text: Não foi possível criar este item
+AccessDenied: Acesso recusado
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Definir como
+Cancel: Cancelar
+AddDialog:
+  Title: Criar novo item
+AddDialogDescription:
+  Text: Escolha um tipo para o item abaixo
+File: Ficheiro
+AddDialogListFileSubHeader: Cria um ficheiro vazio
+Folder: Pasta
+AddDialogListFolderSubHeader: Cria uma pasta vazia
+NavResfreshButton:
+  AutomationProperties:
+    Name: Recarregar pasta
+Language: Idioma
+SettingsContextMenuOverflow: Mover extensões de consola para um sub-menu
+ShowConfirmationWhenDeletingItems: Mostrar diálogo de confirmação antes de eliminar itens
+PropertySaveErrorMessage:
+  Text: Ocorreu um erro ao guardar algumas propriedades.
+PropertySaveErrorDialog:
+  Title: Erro
+  SecondaryButtonText: Fechar na mesma
+PropertyRatingText: Avaliação
+PropertyParsingPath: Caminho do item
+PropertyItemTypeText: Tipo de item
+PropertyTitle: Título
+PropertySubject: Assunto
+PropertyComment: Comentário
+PropertyCopyright: Copyright
+PropertyDateModified: Data de alteração
+PropertyBitDepth: Profundidade de bits
+PropertyDimensions: Dimensões
+PropertyHorizontalSize: Tamanho horizontal
+PropertyVerticalSize: Tamanho vertical
+PropertyHorizontalResolution: Resolução horizontal
+PropertyVerticalResolution: Resolução vertical
+PropertyColorSpace: Espaço de cores
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Não especificado
+PropertyLongitudeDecimal: Decimal de longitude
+PropertyLatitudeDecimal: Decimal de latitude
+PropertyAltitude: Altitude
+PropertyDateTaken: Data de obtenção
+PropertyCameraManufacturer: Fabricante do equipamento
+PropertyCameraModel: Modelo do equipamento
+PropertyExposureTime: Tempo de exposição
+PropertyFocalLength: Distância focal
+PropertyAperture: Abertura
+PropertyPeopleNames: Nomes das pessoas
+PropertyChannelCount: N.º de canais
+PropertyFormat: Formato
+PropertySampleRate: Frequência
+PropertyAlbumArtist: Artista do álbum
+PropertyAlbumTitle: Título do álbum
+Artist: Artista
+PropertyBeatsPerMinute: Batidas por minuto
+PropertyComposer: Compositor
+Conductor: Maestro
+PropertyDiscNumber: Número do disco
+PropertyGenre: Género
+PropertyTrackNumber: Número da faixa
+PropertyDuration: Duração
+PropertyFrameCount: N.º de molduras
+PropertyProtectionType: Tipo de proteção
+PropertyAuthorUrl: URL do autor
+PropertyContentDistributor: Distribuidor de conteúdo
+PropertyDateReleased: Data de lançamento
+PropertySeriesName: Nome da série
+PropertySeasonNumber: Número da temporada
+PropertyEpisodeNumber: Número do episódio
+PropertyProducer: Produtor
+PropertyPromotionUrl: URL de promoção
+PropertyProviderStyle: Estilo do provedor
+PropertyPublisher: Editora
+PropertyThumbnailLargePath: Caminho da miniatura grande
+PropertyThumbnailLargeUri: URI da miniatura grande
+PropertyThumbnailSmallPath: Caminho da miniatura pequena
+PropertyThumbnailSmallUri: URI da miniatura pequena
+PropertyUserWebUrl: URL do utilizador
+PropertyWriter: Escritor
+PropertyYear: Ano
+PropertyContributor: Contribuidor
+PropertyLastAuthor: Último autor
+PropertyRevisionNumber: Número de revisão
+PropertyVersion: Versão
+PropertyDateCreated: Data de criação
+PropertyTotalEditingTime: Tempo total de edição
+PropertyTemplate: Modelo
+PropertyWordCount: N.º de palavras
+PropertyCharacterCount: N.º de caracteres
+PropertyLineCount: N.º de linhas
+PropertyParagraphCount: N.º de parágrafos
+PropertyPageCount: N.º de páginas
+PropertySlideCount: N.º de diapositivos
+PropertyFrameRate: Taxa de fotogramas
+PropertyEncodingBitrate: Taxa de dados
+PropertyPreviewAudioEncodingBitrate: Taxa de codificação de áudio
+PropertyPreviewVideoEncodingBitrate: Taxa de codificação de vídeo
+Compression: Compressão
+PropertyFrameWidth: Largura da moldura
+PropertyFrameHeight: Altura da moldura
+PropertyOrientation: Orientação
+PropertySectionCore: Núcleo
+PropertySectionImage: Imagem
+PropertySectionPhoto: Foto
+PropertySectionGPS: GPS
+PropertySectionMedia: Multimédia
+PropertySectionAudio: Áudio
+PropertySectionMusic: Música
+PropertySectionVideo: Vídeo
+Document: Documento
+Address: Endereço
+SelectionOptions: Opções de seleção
+NavToolbarSelectionOptions:
+  Label: Selecionar
+RecycleBinItemAutomation: Item da reciclagem
+ShortcutItemAutomation: Item de atalho
+Drives: Unidades
+PinToSidebarByDraggingCaptionText: Mover aqui
+EjectNotificationHeader: Pode remover o dispositivo
+EjectNotificationBody: O dispositivo pode agora ser removido do computador.
+EjectNotificationErrorDialogHeader: Problema ao ejetar o dispositivo
+EjectNotificationErrorDialogBody: Este dispositivo está a ser utilizado. Feche todos os programas, janelas ou separadores que o possam estar a utilizar e tente novamente.
+Eject: Ejetar
+DuplicateTab: Duplicar separador
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Mover separador para uma nova janela
+NewTab: Novo separador
+ClearPropertiesFlyoutText:
+  Text: Algumas propriedades podem conter informações pessoais.
+ClearPropertiesButton:
+  Content: Limpar todas as propriedades
+OngoingTasksTeachingTip:
+  Subtitle: Verifique o estado das operações de ficheiros aqui
+  Title: Centro de estado
+SearchPagePathBoxOverrideText: Resultados da pesquisa {0} em {1}
+Details: Detalhes
+No: Não
+ShowProtectedSystemFiles: Mostrar ficheiros protegidos do sistema operativo
+SyncFolderPreferencesAcrossDirectories: Sincronizar esquema e preferências de ordenação entre pastas
+SettingsContextMenu:
+  Text: Personalizar menu de contexto do botão direito do rato
+OriginalPath: Caminho original
+Add: Adicionar
+Edit: Editar
+Remove: Remover
+SettingsMultitaskingAlwaysOpenDualPane: Abrir separadores no modo de painel duplo
+ShowOpenInNewPane: Mostrar opção para abrir pastas num novo painel
+ShowCopyPath: Mostrar opção para copiar o caminho
+ShowCreateFolderWithSelection: Mostrar opção para criar uma pasta com a seleção
+ShowCreateShortcut: Mostrar opção para criar um atalho
+NavigationToolbarNewPane:
+  Label: Novo painel
+OpenInNewPane: Abrir em novo painel
+FilesAndFolders: Ficheiros e pastas
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Detalhes (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Mosaicos (Ctrl+Shift+2)
+DateDeleted: Data de eliminação
+SidebarCloudDrives: Unidades na nuvem
+Confirm: Confirmar
+DesiredName: Nome desejado
+TogglePreviewPane: Alternar painel de pré-visualização
+ToggleDetailsPane: Alternar painel de detalhes
+ToggleDetailsPaneDescription: Alternar painel de detalhes para ver as propriedades básicas do ficheiro
+ToggleInfoPane: Alternar painel de informações
+ToggleInfoPaneDescription: Alternar painel de informações para ver os painéis detalhes ou de pré-visualização
+DetailsPanePreviewNotAvaliableText: Nenhuma pré-visualização disponível
+PropertyItemName: Nome do item
+UnpinFolderFromSidebar: Desafixar da barra lateral
+Network: Rede
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Detalhes do ficheiro
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Pré-visualização do ficheiro
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Painel de pré-visualização do ficheiro selecionado
+Feedback: Feedback
+CloudDriveSyncStatus_Online: Disponível quando online
+Documentation: Documentação
+CloudDriveSyncStatus_Offline: Disponível offline
+CloudDriveSyncStatus_PartialOffline: Parcialmente disponível offline
+CloudDriveSyncStatus_Sync: Sincronização
+CloudDriveSyncStatus_Excluded: Excluído da sincronização
+ItemSizeNotCalculated: Não calculado
+CloudDriveSyncStatus_Unknown: Desconhecido
+RenameFileDialog:
+  Text: Se alterar a extensão, o ficheiro pode tornar-se inutilizável. Tem a certeza de que a pretende alterar?
+DriveTypeCDRom: Unidade CD-ROM
+DriveTypeCloudDrive: Unidade na nuvem
+DriveTypeFixed: Unidade de disco fixa
+DriveTypeFloppyDisk: Unidade de disquete
+DriveTypeNetwork: Unidade de rede
+DriveTypeNoRootDirectory: Unidade não montada
+DriveTypeRam: Unidade de RAM
+DriveTypeRemovable: Unidade amovível
+DriveTypeUnknown: Desconhecido
+DriveTypeVirtualDrive: Unidade virtual
+DateCreated: Data de criação
+MoreOptions: Mais opções...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Mapear unidade de rede
+Pinned: Fixada
+SidebarLibraries: Bibliotecas
+NoItemSelected: Nenhum item selecionado
+PropertyItemTarget: Destino
+Arguments: Argumentos
+Default: Padrão
+PropertyItemCount: N.º de itens
+ElevateConfirmDialog:
+  Title: Esta ação requer direitos de administrador
+  Content: Deseja continuar como administrador?
+ColumnsShortcutTooltip: Colunas (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Afixar no menu Iniciar
+UnpinItemFromStart:
+  Text: Desafixar do menu Iniciar
+Library: Biblioteca
+LibraryLocations:
+  Text: 'Localizações:'
+SetAsDefaultSavePath: Definar como localização padrão para guardar
+LibraryNoLocations:
+  Text: Sem localizações
+ErrorInputEmpty: O campo não pode estar vazio!
+ErrorNameInputRestrictedCharacters: 'O nome não pode conter os seguintes carateres: \ / : * ? " < > |'
+ErrorNameInputRestricted: Não pode utilizar este nome!
+CreateLibraryErrorAlreadyExists: Já existe uma biblioteca com este nome!
+OpenStorageSense: Abrir sensor de armanezamento
+Copy: Copiar
+CopyItemsDialogTitle: Copiar {0, plural, one {item} other {itens}}
+DeleteItemsDialogTitle: Eliminar {0, plural, one {item} other {itens}}
+MoveItemsDialogPrimaryButtonText: Mover
+MoveItemsDialogSubtitle: '{0, plural, one {1 item será movido} other {# itens serão movidos}}'
+MoveItemsDialogTitle: Mover {0, plural, one {item} other {itens}}
+DeleteItemsDialogSubtitle: '{0, plural, one {1 item será eliminado} other {# itens serão eliminados}}'
+ConflictingItemsDialogPrimaryButtonText: Continuar
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {Existe 1 nome de ficheiro em conflito} other {Existem # nomes de ficheiro em conflito}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflito {0, plural, one {nome de ficheiro} other {nomes de ficheiro}}
+CopyItemsDialogSubtitle: '{0, plural, one {1 item será copiado} other {# itens serão copiados}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Eliminar permanentemente
+PropertyISO: Velocidade ISO
+ReplaceExisting: Substituir existente
+GenerateNewName: Gerar novo nome
+CreateFolderWithSelection: Criar pasta com seleção
+ItemType: 'Tipo:'
+ToolTipDescriptionDate: 'Data de alteração:'
+OpenWith: Abrir com
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Ícone de ficheiro
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Coluna Caminho original
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Coluna Tipo de item
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Coluna Data de alteração
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Coluna Data de eliminação
+Sort: Ordenar
+DateModifiedLowerCase: Data de alteração
+OriginalFolder: Pasta original
+Descending: Descendente
+ItemSizeText_Huge: Enorme
+ItemSizeText_VeryLarge: Muito grande
+ItemSizeText_Large: Grande
+ItemSizeText_Medium: Médio
+ItemSizeText_Small: Pequeno
+ItemSizeText_Tiny: Muito pequeno
+Future: No futuro
+Today: Hoje
+Yesterday: Ontem
+EarlierThisWeek: No início desta semana
+LastWeek: Na última semana
+EarlierThisMonth: No início deste mês
+LastMonth: No último mês
+EarlierThisYear: No início deste ano
+LastYear: No último ano
+YearN: Ano {0}
+GroupItemsCount_Singular: '{0} item'
+GroupItemsCount_Plural: '{0} itens'
+ReopenClosedTab: Reabrir separador fechado
+Rename: Mudar nome
+Privacy: Privacidade
+TheRecycleBin: a Reciclagem
+Canceling: A cancelar...
+Clear: Limpar
+Widgets: Widgets
+SyncStatus: Estado de sincronização
+Security: Segurança
+AdvancedPermissions: Permissões avançadas
+Allow: Permitir
+Deny: Recusar
+SecurityFullControlLabel:
+  Text: Controlo total
+SecurityListDirectoryLabel:
+  Text: Listar conteúdo da pasta
+Modify: Alterar
+SecurityPermissionsHeaderText: Permissões para {0}
+SecurityReadAndExecuteLabel:
+  Text: Ler e executar
+SecurityReadLabel:
+  Text: Ler
+SecurityUsersGroupLabel:
+  Text: Grupo ou utilizadores
+Write: Escrever
+SecurityUnknownAccount: Conta desconhecida
+SecurityCannotReadProperties:
+  Text: Não tem permissões para ver as propriedades de segurança deste objeto. Clique em "Permissões avançadas" para continuar.
+SecurityOwnerLabel:
+  Text: 'Proprietário:'
+SecurityUnknownOwnerText:
+  Text: Proprietário desconhecido
+ExtractArchive: Extrair arquivo
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Abrir pasta de destino ao terminar
+BaseLayoutItemContextFlyoutExtractToChildFolder: Extrair para {0}\
+SideBarCreateNewLibrary:
+  Text: Criar nova biblioteca
+SideBarRestoreLibraries:
+  Text: Restaurar bibliotecas originais
+DialogRestoreLibrariesSubtitleText: Tem a certeza de que pretende restaurar as bibliotecas originais? Todos os seus ficheiros vão permanecer no armazenamento.
+DialogRestoreLibrariesTitleText: Restaurar bibliotecas
+PropertyFileOwner: Proprietário
+SecuritySpecialLabel:
+  Text: Especial
+Access: Acesso
+SecurityAdvancedAppliesTo: Aplicável a
+Principal: Principal
+SecurityAdvancedFlagsFilesLabel: ficheiros
+SecurityAdvancedFlagsFolderLabel: esta pasta
+SecurityAdvancedFlagsSubfoldersLabel: subpastas
+Inherited: Herdado
+Permissions: Permissões
+SecurityAdvancedCannotReadProperties:
+  Text: Não tem permissões para ver as propriedades de segurança deste objeto. Pode tentar obter a titularidade deste objeto.
+SecurityAdvancedFolderFiles:
+  Text: Esta pasta e ficheiros
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Esta pasta, subpastas e ficheiros
+SecurityAdvancedOnlyFiles:
+  Text: Apenas ficheiros
+SecurityAdvancedOnlySubfolders:
+  Text: Apenas subpastas
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Apenas subpastas e ficheiros
+SecurityAdvancedOnlyThisFolder:
+  Text: Apenas esta pasta
+SecurityAdvancedFolderSubfolders:
+  Text: Esta pasta e subpastas
+SecurityAppendDataLabel:
+  Text: Anexar dados
+SecurityChangePermissionsLabel:
+  Text: Alterar permissão
+SecurityCreateDirectoriesLabel:
+  Text: Criar pastas
+SecurityCreateFilesLabel:
+  Text: Criar ficheiros
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Eliminar subpastas e ficheiros
+SecurityExecuteFileLabel:
+  Text: Executar ficheiros
+SecurityReadAttributesLabel:
+  Text: Ler atributos
+SecurityReadDataLabel:
+  Text: Ler dados
+SecurityReadExtendedAttributesLabel:
+  Text: Ler atributos extendidos
+SecurityReadPermissionsLabel:
+  Text: Ler permissões
+SecurityTakeOwnershipLabel:
+  Text: Obter propriedade
+SecurityTraverseLabel:
+  Text: Visitar pasta
+SecurityWriteAttributesLabel:
+  Text: Escrever atributos
+SecurityWriteDataLabel:
+  Text: Escrever dados
+SecurityWriteExtendedAttributesLabel:
+  Text: Escrever atributos extendidos
+SecurityAdvancedInheritedConvert:
+  Text: Converter permissões herdadas em permissões explícitas
+SecurityAdvancedInheritedEnable:
+  Text: Ativar herança
+SecurityAdvancedInheritedRemove:
+  Text: Remover todas as permissões herdadas
+SecurityAdvancedReplaceChildPermissions:
+  Text: Repor permissões dependentes
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Substituir todas as entradas de permissão do objeto filho por entradas de permissão herdáveis deste objeto
+NavigationToolbarClosePane:
+  Label: Fechar painel
+EnterCompactOverlay: Ativar modo de sobreposição compacta
+ExitCompactOverlay: Desativar modo de sobreposição compacta
+PropertyFileDescription: Descrição do ficheiro
+PropertyCompany: Empresa
+PropertyLanguage: Idioma
+PropertyTrademarks: Marcas registadas
+PropertyFileVersion: Versão do ficheiro
+PreviewPaneLoadCloudItemButton:
+  Text: Carregar pré-visualização completa
+  ToolTipService:
+    ToolTip: Descarrega o item da nuvem e carrega a pré-visualização
+DetailsArchiveItems: '{0, plural, one {# item} other {# itens}} ({1, plural, one {# ficheiro} other {# ficheiros}}, {2, plural, one {# pasta} other {# pastas}})'
+PropertyUncompressedSize: Tamanho descomprimido
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Ocultar secção {0}
+AddFile: Adicionar ficheiro
+ConsentDialogTitle: Atualizações disponiveis
+ConsentDialogContent: Atualizações prontas para instalar
+Close: Fechar
+ConsentDialogPrimaryButtonText: Atualizar
+Home: Início
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: A extração do arquivo foi terminada com sucesso.
+ExtractingArchiveText: A extrair arquivo
+ExtractingCompleteText: Extração terminada!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Abrir pasta
+Unknown: Desconhecido
+EditTags: Editar etiquetas
+PropertyPartOfSet: Parte do conjunto
+InsertDiscDialog:
+  OpenDriveButton: Abrir unidade
+  Text: Por favor insira um disco na unidade {0}
+  Title: Insira um disco
+OK: OK
+AskCredentialDialog:
+  Title: Requer credenciais
+CredentialDialogAnonymous:
+  Content: Anónimo
+CredentialDialogDescription:
+  Text: 'Indique as suas credenciais:'
+CredentialDialogUserName:
+  PlaceholderText: Nome de utilizador
+NoSearchResultsFound: Nenhum item encontrado
+OpenLogLocation: Abrir localização dos registos
+LinkToFolderCaptionText: Criar ligação em {0}
+Columns: Colunas
+Tiles: Mosaicos
+OpenFoldersInNewTab: Abrir pastas em novo separador
+StatusCenter: Centro de estado
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Coluna Data de criação
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Coluna Tamanho do item
+ExperimentalFeatureFlags: "'Flags' de funcionalidades experimentais"
+HelpAndSupport: Ajuda e suporte
+SubmitFeatureRequest: Submeter pedido de funcionalidade
+SubmitBugReport: Submeter relatório de erros
+SettingsSetAsDefaultFileManager: Definir Files como o gestor de ficheiros do sistema
+SettingsSetAsOpenDialog: Utilizar Files como diálogo para Abrir ficheiros
+Tag: Etiqueta
+SettingsOpenItemsWithOneClick: Abrir itens com um clique
+FolderPath: Caminho da pasta
+ExportSettings: Exportar definições
+ImportSettings: Importar definições
+SettingsImportErrorDescription: Não foi possível importar as definições. O ficheiro está danificado.
+SettingsImportErrorTitle: Erro ao importar as definições
+EmptyRecycleBin: Esvaziar reciclagem
+Sidebar: Barra lateral
+ChooseCustomIcon: Escolha um ícone personalizado para a pasta
+Customization: Personalização
+RestoreDefault: Restaurar predefinição
+OpenTabInExistingInstance: Abrir separador na instância existente ao abrir Files a partir de outra aplicação
+StartupSettings: Definições de arranque
+Compatibility: Compatibilidade
+None: Nenhum
+CompatibilityOnWindowsLogin: Ao iniciar sessão no Windows
+CompatibilityOnProgramStart: Ao iniciar este programa
+System: Sistema
+CompatibilitySystemEnhanced: Sistema (melhorado)
+CompatibilityReducedColorModeColor16bit: Cores 16-bit (65 536)
+CompatibilityReducedColorModeColor8bit: Cores 8-bit (256)
+CompatibilityDisableFullscreenOptimizations: Desativar otimizações em ecrã completo
+CompatibilityRunIn640x480Resolution: Executar com a resolução 640 x 480
+CompatibilityOverrideHighDPIBehavior: Substituir comportamento de escala elevada DPI
+CompatibilityReducedColorMode: Modo de cor reduzida
+CompatibilityRegisterThisProgramForRestart: Registar este programa para reiniciar
+RunAsAdministrator: Executar como administrador
+CompatibilityRunTroubleshooter: Executar resolução de problemas de compatibilidade
+CompatibilityUseDPISettings: Utilizar definições de DPI do monitor principal
+CompatibilityDoNotAdjustDPI: Não ajustar DPI
+CompatibilityDoNotOverrideDPI: Não substituir DPI
+CompatibilityMode: Modo de compatibilidade
+CompatibilityNoReducedColor: Sem cor reduzida
+ThirdPartyLicenses: Licenças de terceiros
+SettingsSetAsDefaultFileManagerDescription: Esta opção modifica o registo do sistema e pode ter efeitos inesperados no seu dispositivo. Continue por sua conta e risco.
+FolderWidgetCreateNewLibraryDialogTitleText: Criar biblioteca
+FolderWidgetCreateNewLibraryInputPlaceholderText: Insira o nome da biblioteca
+CalculateFolderSizes: Calcular tamanho das pastas
+RecentFiles: Ficheiros recentes
+SettingsOpenInLogin: Abrir Files ao iniciar o Windows
+Attributes: Atributos
+Hidden: Oculto
+MoreDetails: Mais detalhes
+ReadOnly: Apenas leitura
+CleanupDrive: Limpar conteúdo da unidade
+Type: Tipo
+Bytes: Bytes
+Extract: Extrair
+ExtractFiles: Extrair ficheiros
+ExtractHere: Extrair aqui
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Extrair para {0}
+RunScript: Executar script
+RunWithPowerShell: Executar com PowerShell
+ShowFolderSizesWarning: Esta operação exige muitos recursos e pode  aumentar a utilização do CPU.
+RotateLeft: Rodar à esquerda
+RotateRight: Rodar à direita
+Install: Instalar
+CloseTabsToTheLeft: Fechar separadores à esquerda
+CloseTabsToTheRight: Fechar separadores à direita
+CloseOtherTabs: Fechar outros separadores
+Music: Música
+Pictures: Imagens
+UpdateFiles: Atualizar Files
+FileTags: Etiquetas
+Universal: Universal
+DateFormatSample: 'ex: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Mostrar miniaturas
+Retry: Tentar novamente
+ErrorDialogUnsupportedMoveOperation: A operação mover não é suportada neste contexto. Deseja, em alternativa, copiar os itens?
+HiddenItems: Itens ocultos
+Custom: Personalizado
+SetAsSlideshow: Definir como apresentação do ambiente de trabalho
+SizeAllColumnsToFit: Ajustar todas as colunas para caber
+Adaptive: Esquema adaptável
+AdaptiveShortcutTooltip: Adaptável (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Mostrar fluxos de dados alternativos
+Behaviors: Comportamentos
+ReviewFiles: Avaliar Files
+ReviewFilesContent: Deseja avaliar Files?
+SetAsBackgroundFlyout: Definir como imagem de fundo
+SetAsBackground: Definir como fundo do ambiente de trabalho
+SetAsDefault: Utilizar por omissão
+DateColumn: Coluna Data
+DateCreatedColumn: Coluna Data de criação
+SizeColumn: Coluna Tamanho
+TagColumn: Coluna Etiqueta
+TypeColumn: Coluna Tipo
+Lockscreen: Ecrã de bloqueio
+OpenFolderWithOneClickColumnsLayout: Abrir pastas com um clique no esquema Colunas
+OpeningItems: Abrir itens
+Compress: Comprimir
+SelectFilesAndFoldersOnHover: Selecionar ficheiros e pastas ao passar com o rato por cima
+ConfirmRestoreBinDialogContent: Tem a certeza de que deseja restaurar todos os itens da Reciclagem?
+ConfirmRestoreBinDialogTitle: Restaurar todos os itens
+ConfirmRestoreSelectionBinDialogContent: Deseja restaurar os {0} itens selecionados?
+ConfirmRestoreSelectionBinDialogTitle: Restaurar seleção
+RestoreAllItems: Restaurar todos os itens
+Restore: Restaurar
+ShortcutCannotBeOpened: Não foi possível abrir o item
+DeleteShortcutDescription: Não foi possível encontrar o objeto de destino {0}. Deseja eliminar este atalho?
+AccessDeniedToFolder: Não tem permissões para aceder a esta pasta.
+ArchivePassword: Palavra-passe do arquivo
+ExtractToPath: Caminho
+SortingAndGrouping: Ordenação e agrupamento
+CreateArchive: Criar arquivo
+Create: Criar
+CreateNamedArchive: Criar {0}
+EnterName: Introduza um nome
+CompressionLevel: Nível de compressão
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Alto
+CompressionLevelNormal: Normal
+CompressionLevelLow: Baixo
+CompressionLevelFast: Rápido
+CompressionLevelNone: Sem compressão
+SplittingSize: Tamanho de separação
+Do not split: Não separar
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Cifra
+Password: Palavra-passe
+Format: Formato
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Coluna Estado de sincronização
+GroupBy: Agrupar por
+SortBy: Ordenar por
+GroupInDescendingOrder: Agrupar em ordem descendente
+SortInDescendingOrder: Ordenar em ordem descendente
+NewShortcutDialogTitle: Criar um atalho
+NewShortcutDialogDescription: Crie atalhos para programas locais ou de rede, ficheiros, pastas, computadores ou endereços de Internet.
+NewShortcutDialogPrompt: 'Introduza a localização do item:'
+AddDialogListShortcutSubHeader: Cria um atalho
+RecentFilesDisabledOnWindowsWarning: A opção Ficheiros recentes está desativada no Explorador de ficheiros do Windows.
+EditSettingsFile: Editar ficheiro de definições
+WhatsNew: Novidades
+CannotCreateShortcutDialogTitle: Criar um atalho neste local requer privilégios de administrador
+CannotCreateShortcutDialogMessage: Gostaria de criar o atalho na área de trabalho?
+ErrorDialogNameNotAllowed: O nome do item especificado é inválido
+Settings: Definições
+DoubleClickBlankSpaceToGoUp: Clique duas vezes num espaço em branco para subir uma pasta
+ViewMore: Ver mais
+ShowEditTagsMenu: Mostrar indicador para edição de etiquetas
+ShowCompressionOptions: Mostrar opções de compressão
+ShowSendToMenu: Mostrar opção Enviar para o menu
+ShowOpenInNewTab: Mostrar opção para abrir pastas num novo separador
+ShowOpenInNewWindow: Mostrar opção para abrir pastas numa nova janela
+QuickAccess: Acesso rápido
+NetworkAuthenticationDialogMessage: 'Introduza as credenciais para aceder a: {0}'
+NetworkAuthenticationDialogTitle: Introduza as credenciais de rede
+NetworkAuthenticationSaveCheckbox: Memorizar credenciais
+NetworkFolderErrorDialogTitle: Erro na pasta da rede
+AppVersion: Versão da aplicação
+WindowsVersion: Versão do Windows
+Always: Sempre
+PermanentDeletionOnly: Apenas eliminação permanente
+Never: Nunca
+TagColor: Cor da etiqueta
+NewTag: Nova etiqueta
+CreateNewTag: Criar uma etiqueta
+Loading: A carregar...
+ContextMenuOptions: Opções do menu de contexto
+ShowFileExtensions: Mostrar extensão dos ficheiros
+ShowHiddenItems: Mostrar itens ocultos
+FormatDriveText: Formatar...
+Help: Ajuda
+FullScreen: Alternar ecrã completo
+ConfirmDeleteTag: Tem a certeza de que deseja eliminar esta etiqueta?
+PlayAll: Reproduzir tudo
+Height: Altura
+Width: Largura
+ApplyToAllConflictingItems: Aplicar esta ação a todos os itens em conflito
+OpenTerminal: Abrir no Terminal Windows
+OpenTerminalAsAdmin: Abrir no terminal Windows como administrador
+Save: Guardar
+MultiSelect: Seleção múltipla
+ReorderSidebarItemsDialogText: Organizar itens da barra lateral
+Hashes: "'Hashes'"
+CalculationError: Ocorreu um erro durante o cálculo
+CalculationErrorFileIsOpen: Não foi possível calcular a 'hash'. Feche o ficheiro e tente novamente.
+CalculationOnlineFileHashError: "'Hashes' não estão disponíveis para ficheiros online"
+Algorithm: Algoritmo
+HashValue: Valor de 'hash'
+SelectHashesToShow: Selecione as 'hashes' a mostrar
+Calculating: A calcular...
+JumpListPinnedGroupHeader: Itens fixados
+DecreaseSize: Diminuir tamanho
+IncreaseSize: Aumentar tamanho
+ToggleSortDirection: Alternar sentido de ordenação
+InvalidTagNameWarning: Nome inválido
+TagNameRules: O nome não pode ser vazio nem começar ou terminar com um ponto.
+Videos: Vídeos
+LaunchPreviewPopup: Abrir janela de pré-visualização
+ToggleCompactOverlay: Alternar modo de sobreposição compacta
+OpenHelpDescription: Abrir página de ajuda no navegador
+ToggleFullScreenDescription: Alternar ecrã completo
+EnterCompactOverlayDescription: Ativar modo de sobreposição compacta
+ExitCompactOverlayDescription: Desativar modo de sobreposição compacta
+ToggleCompactOverlayDescription: Alternar modo de sobreposição compacta
+SearchDescription: Ir para a caixa de pesquisa
+ToggleShowHiddenItemsDescription: Alternar exibição de itens ocultos
+ToggleShowFileExtensionsDescription: Alternar exibição das extensões dos ficheiros
+TogglePreviewPaneDescription: Alternar painel de pré-visualização para pré-visualizar os ficheiros
+ToggleSidebarDescription: Alternar exibição da barra lateral
+CopyItemDescription: Copiar itens para a área de transferência
+CopyPathDescription: Copiar caminho dos itens selecionados para a área de transferência
+CopyPathWithQuotesDescription: Copiar caminho dos itens selecionados, com aspas, para a área de transferência
+CutItemDescription: Cortar itens para a área de transferência
+PasteItemDescription: Colar itens na pasta atual (da área de transferência)
+PasteItemToSelectionDescription: Colar itens na pasta selecionada (da área de transferência)
+DeleteItemDescription: Eliminar itens
+CreateFolderDescription: Criar nova pasta
+CreateShortcutDescription: Criar atalho(s) para os itens selecionados
+CreateShortcutFromDialogDescription: Criar atalho para qualquer item
+EmptyRecycleBinDescription: Esvaziar reciclagem
+FormatDriveDescription: Abrir menu "Formatar unidade" para o item selecionado
+RestoreRecycleBinDescription: Restaurar, da reciclagem, os itens selecionados
+RestoreAllRecycleBinDescription: Restaurar todos os itens da reciclagem
+OpenItemDescription: Abrir itens
+OpenItemWithApplicationPickerDescription: Abrir itens com a aplicação selecionada
+OpenParentFolderDescription: Abrir pasta superior do item pesquisado
+RefreshItemsDescription: Recarregar conteúdo da pasta
+RenameDescription: Mudar nome do item selecionado
+SelectAllDescription: Selecionar todos os itens
+InvertSelectionDescription: Inverter seleção de itens
+ClearSelectionDescription: Limpar seleção de itens
+ToggleSelectDescription: Alternar seleção de itens
+ShareItemDescription: Partilhar ficheiros selecionados
+PinToStartDescription: Afixar itens no menu Iniciar
+UnpinFromStartDescription: Desafixar itens do menu Iniciar
+PinFolderToSidebarDescription: Afixar pasta na barra lateral
+UnpinFolderFromSidebarDescription: Desafixar pasta da barra lateral
+SetAsWallpaperBackgroundDescription: Definir imagem selecionada como fundo do ambiente de trabalho
+SetAsSlideshowBackgroundDescription: Definir imagens selecionadas como apresentação do ambiente de trabalho
+SetAsLockscreenBackgroundDescription: Definir imagem selecionada como fundo do ecrã de bloqueio
+SetAsAppBackgroundDescription: Utilizar imagem selecionada como fundo da aplicação
+InstallFontDescription: Instalar tipos de letra selecionados
+InstallInfDriverDescription: Instalar controladores através do ficheiro .inf selecionado
+InstallCertificateDescription: Instalar certificado(s) selecionado(s)
+RunAsAdminDescription: Exceutar aplicação selecionada como administrador
+RunAsAnotherUserDescription: Exceutar aplicação selecionada como outro utilizador
+RunWithPowershellDescription: Executar script PowerShell selecionado
+LaunchPreviewPopupDescription: Abrir pré-visualização em janela distinta
+CompressIntoArchiveDescription: Criar arquivo com os itens selecionados
+CompressIntoSevenZipDescription: Criar arquivo 7z com os itens selecionados
+CompressIntoZipDescription: Criar arquivo zip com os itens selecionados
+DecompressArchiveDescription: Extrair itens do arquivo selecionado para uma pasta
+DecompressArchiveHereDescription: Extrair itens do arquivo selecionado para a pasta atual
+DecompressArchiveToChildFolderDescription: Extrair itens do arquivo selecionado para uma nova pasta
+RotateLeftDescription: Rodar imagens selecionadas para a esquerda
+RotateRightDescription: Rodar imagens selecionadas para a direita
+OpenSettingsDescription: Abrir página de definições
+OpenTerminalDescription: Abrir pasta no terminal
+OpenTerminalAsAdminDescription: Abrir pasta no terminal como administrador
+LayoutDecreaseSizeDescription: Reduzir tamanho do item na vista atual
+LayoutIncreaseSizeDescription: Aumentar tamanho do item na vista atual
+LayoutDetailsDescription: Trocar para a vista de detalhes
+LayoutTilesDescription: Trocar para a vista de mosaicos
+LayoutListDescription: Trocar para vista de lista
+List: Lista
+Grid: Grelha
+LayoutGridDescription: Trocar para vista em grelha
+LayoutColumnsDescription: Trocar para a vista de colunas
+LayoutAdaptiveDescription: Troca de vistas adaptável
+SortByNameDescription: Ordenar itens por nome
+SortByDateModifiedDescription: Ordenar itens por data de alteração
+SortByDateCreatedDescription: Ordenar itens por data de criação
+SortBySizeDescription: Ordenar itens por tamanho
+SortByTypeDescription: Ordenar itens por tipo
+SortBySyncStatusDescription: Ordena os itens por estado de sincronização
+SortByTagDescription: Ordenar itens por etiquetas
+SortByOriginalFolderDescription: Ordenar itens por pasta original
+SortByDateDeletedDescription: Ordenar itens por data de eliminação
+SortAscendingDescription: Ordenar itens por ordem ascendente
+SortDescendingDescription: Ordenar itens por ordem descendente
+ToggleSortDirectionDescription: Alternar direção da ordem dos itens
+GroupByNoneDescription: Não agrupar itens
+GroupByNameDescription: Agrupar itens por nome
+GroupByDateModifiedDescription: Agrupar itens por data de alteração
+GroupByDateCreatedDescription: Agrupar itens por data de criação
+GroupBySizeDescription: Agrupar itens por tamanho
+GroupByTypeDescription: Agrupar itens por tipo
+GroupBySyncStatusDescription: Agrupar itens por estado de sincronização
+GroupByTagDescription: Agrupar itens por etiquetas
+GroupByOriginalFolderDescription: Agrupar itens por pasta original
+GroupByDateDeletedDescription: Agrupar itens por data de eliminação
+GroupByFolderPathDescription: Agrupar itens por caminho da pasta
+GroupAscendingDescription: Ordenar grupos por ordem ascendente
+GroupDescendingDescription: Ordenar grupos por ordem descendente
+ToggleGroupDirectionDescription: Alternar direção da ordem dos grupos
+NewTabDescription: Abrir novo separador
+NavigateBackDescription: Recuar no histórico de navegação
+NavigateForwardDescription: Avançar no histórico de navegação
+NavigateUpDescription: Subir uma pasta
+DuplicateCurrentTabDescription: Duplicar separador atual
+DuplicateSelectedTabDescription: Duplicar separador selecionado
+CloseTabsToTheLeftCurrentDescription: Fechar separadores à esquerda do atual
+CloseTabsToTheLeftSelectedDescription: Fechar separadores à esquerda do selecionado
+CloseTabsToTheRightCurrentDescription: Fechar separadores à direita do atual
+CloseTabsToTheRightSelectedDescription: Fechar separadores à direita do selecionado
+CloseOtherTabsCurrentDescription: Fechar todos os separadores à exceção do atual
+CloseOtherTabsSelectedDescription: Fechar todos os separadores à exceção do selecionado
+ReopenClosedTabDescription: Reabrir último separador fechado
+PreviousTabDescription: Mover para o separador anterior
+NextTabDescription: Mover para o separador seguinte
+CloseSelectedTabDescription: Fechar separador atual
+OpenNewPaneDescription: Abrir novo painel
+ClosePaneDescription: Fechar painel à direita
+FocusLeftPane: Foco no painel à esquerda
+FocusLeftPaneDescription: Trocar foco para o painel à esquerda
+FocusRightPane: Foco no painel à direita
+FocusRightPaneDescription: Trocar foco para o painel à direita
+ToggleSidebar: Mostrar/ocultar barra lateral
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Espaço
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Esquerda
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Direita
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Baixo
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Cima
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Home
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Separador
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pausa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Suspender
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Limpar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Imprimir
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Ajuda
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Rato 4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Rato 5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Aplicação
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Aplicação 1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Aplicação 2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Correio
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Início
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: Recuar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Avançar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Recarregar navegador
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: Parar navegador
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Pesquisar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Favoritos
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: Reproduzir/Pausa
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: Parar multimédia
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: Anterior
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: Seguinte
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: Selecionar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Silenciar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: Baixar volume
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: Subir volume
+Change: Alterar
+ToggleSelect: Inverter seleção
+ShowFileExtensionWarning: Mostrar aviso ao alterar as extensões de ficheiros
+ThisPC: Este PC
+RecycleBin: Reciclagem
+Untagged: Sem etiqueta
+PreviousTab: Ir para o separador anterior
+NextTab: Ir para o separador seguinte
+CloseTab: Fechar separador atual
+EditPath: Editar caminho
+Redo: Refazer
+Undo: Desfazer
+InvalidLocation: Caminho inválido
+CopyFileWithoutProperties: Tem a certeza de que deseja copiar os ficheiros sem as suas propriedades?
+FilePropertiesCannotBeCopied: Estes ficheiros têm propriedades que não podem ser copiadas para a nova localização
+FilePropertiesCannotBeMoved: Estes ficheiros têm propriedades que não podem ser movidas para a nova localização
+MoveFileWithoutProperties: Tem a certeza de que deseja mover os ficheiros sem as suas propriedades?
+ShowCheckboxesWhenSelectingItems: Mostrar caixas de seleção ao selecionar itens
+EditPathDescription: Focar barra de caminho
+AddItemDescription: Criar novo item
+SecurityNoAccessControlEntriesText: Não existem utilizadores ou grupos com acesso a este objeto. Contudo, o proprietário do objeto pode atribuir permissões.
+OpenFileLocationDescription: Abrir localização do item
+DeletePermanently: Eliminar permanentemente
+DeleteItemPermanentlyDescription: Eliminar itens permanentemente
+PlayAllDescription: Reproduzir ficheiros selecionados
+UndoDescription: Desfazer a última operação
+RedoDescription: Refazer a última operação
+Location: 'Localização:'
+GroupByMonthDescription: Agrupar itens por mês
+GroupByYearDescription: Agrupar itens por ano
+Month: Mês
+Day: Dia
+ToggleGroupByDateUnitDescription: Alternar unidade de agrupamento por data
+ToggleGroupingUnit: Alternar unidade de agrupamento
+Year: Ano
+GroupByDateUnit: Agrupar por dia
+GroupByDateCreatedDayDescription: Agrupar itens por dia de criação
+GroupByDateCreatedMonthDescription: Agrupar itens pelo mês de criação
+GroupByDateCreatedYearDescription: Agrupar itens pelo ano de criação
+GroupByDateDeletedDayDescription: Agrupar itens por dia de eliminação
+GroupByDateDeletedMonthDescription: Agrupar itens pelo mês de eliminação
+GroupByDateDeletedYearDescription: Agrupar itens pelo ano de eliminação
+GroupByDateModifiedDayDescription: Agrupar itens por dia de alteração
+GroupByDateModifiedMonthDescription: Agrupar itens por mês de alteração
+GroupByDateModifiedYearDescription: Agrupar itens por ano de alteração
+SecurityClickAdvancedPermissions: Clique em 'Permissões Avançadas' para continuar.
+SecurityRequireReadPermissions: Tem que possuir pemissões de leitura para ver as propriedades deste item.
+SecuritySuggestToTakeOwnership: Para tentar obter a titularidade do item, que inclui as permissões para ver as suas propriedades, clique Alterar.
+SecurityUnableToDisplayPermissions: Não foi possível mostrar as permissões.
+StashChanges: Deixar alterações em '{0}'
+DiscardChanges: Rejeitar alterações
+BringChanges: Trazer alterações para '{0}'
+UncommittedChanges: Existem alterações por submeter neste 'branch'. O que pretende fazer?
+SwitchBranch: Trocar 'branch'
+Branches: "'Branches'"
+Switch: Trocar
+NewBranch: Novo 'branch'
+InvalidBranchName: Nome de 'branch' inválido
+CreateBranch: Criar 'branch'
+CreateNewBranch: Criar 'branch'
+BasedOn: Baseado em
+SwitchToNewBranch: Ir para o novo 'branch'
+CreateFolderWithSelectionDescription: Criar uma pasta com os itens selecionados
+OpenProperties: Mostrar propriedades
+OpenPropertiesDescription: Abrir janela de propriedades
+Locals: Locais
+Remotes: Remotos
+ImproveTranslation: Traduzir no Crowdin
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Executar 'git fetch'
+GitPullDescription: Executar 'git pull'
+Preview: Pré-visualização
+GitStatus: Estado Git
+GitError: Erro Git
+PullTimeoutError: A ação 'git pull' falhou devido a um erro 'timeout'
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (vários valores)
+Author: Autor
+DateCommitted: Data de submissão
+CommitMessage: Mensagem de submissão
+CommitSha: SHA de submissão
+Git: Git
+Acrylic: Acrílico
+Mica: Mica
+MicaAlt: Mica alternativo
+BackdropMaterial: Backdrop Material
+Solid: Sólido
+ManageBranches: Gerir 'branches'
+Push: Push
+GitPushDescription: Executar git push
+GitSync: Sync
+GitSyncDescription: Executar git pull e, depois, git push
+GitSyncStatusExtendedInfo: 'Commits de saída: {0}/Commits de entrada: {1}'
+ConnectGitHub: Connectar a GitHub
+ConnectGitHubDescription: Introduza este código na ligação abaixo para começar a trabalhar com repositórios GitHub.
+CannotReachGitHubError: De momento, Files não se consegue ligar a GitHub.
+OpenInVSCode: Abrir pasta em VS Code
+OpenInVSCodeDescription: Abrir pasta atual no Visual Studio Code
+OpenRepoInVSCode: Abrir repositório em VS Code
+OpenRepoInVSCodeDescription: Abrir repositório Git na aplicação Visual Studio Code
+CopyCode: Copiar código
+Added: Adicionado
+Deleted: Eliminado
+Modified: Alterado
+Untracked: Não rastreado
+UnableToDisplayOwner: Não foi possível mostrar o proprietário atual.
+AuthorizationSucceded: Boa! As autorizações foram concedidas.
+InitRepo: Inicializar repositório
+InitRepoDescription: Inicializar um repositório Git
+GitOriginRepositoryName: Nome do repositório remoto
+GitCurrentBranch: "'Branch' atual"
+PathColumn: Coluna Caminho
+SortByPathDescription: Ordenar itens por caminho
+OpenDirectoryInNewPaneDescription: Abrir pasta em novo painel
+OpenDirectoryInNewTabDescription: Abrir pasta em novo separador
+OpenInNewWindowDescription: Abrir pasta em nova janela
+OpenAllTaggedItems: Abrir tudo
+OpenAllTaggedItemsDescription: Abrir todos os itens com etiqueta
+#{0} is the drive letter.
+DriveWithLetter: Unidade ({0})
+InvalidCommand: Comando inválido
+InvalidCommandContent: "'{0}' não é reconhecido como um comando."
+CommandNotExecutable: Comando não é executável
+CommandNotExecutableContent: O comando '{0}' não está pronto para ser executado.
+CommandPalette: Paleta de comandos
+OpenCommandPaletteDescription: Abrir paleta de comandos
+ShortcutItemWorkingDir: 'Iniciar em:'
+TurnOnBitLocker: Ativar BitLocker
+ManageBitLocker: Gerir BitLocker
+CopyFailureFileToLarge: Estes itens são muito grandes para poderem ser copiados para esta unidade.
+FormatDrive: Formatar unidade
+DontShowAgain: Não mostrar novamente
+FilesRunningAsAdmin: A aplicação está a ser executada no modo de administrador
+FilesRunningAsAdminContent: Devido a uma limitação com Windows e WinAppSdk, arrastar e largar não está disponível ao executar a aplicação como administrador. Se quiser usar a funcionalidade "Arrastar e largar", pode contornar a limitação abrindo UAC (Controle de Conta do Utilizador) no menu Iniciar, selecionar o terceiro nível e reiniciando o Windows. Caso contrário, terá que continuar a utilizar a aplicação sem a funcionalidade.
+SettingsLeaveAppRunning: Manter aplicação em segundo plano ao fechar a janela
+#One of the custom color themes
+Blue: Azul
+#One of the custom color themes
+BlueGray: Cinza azulado
+#One of the custom color themes
+BrickRed: Tijolo
+#One of the custom color themes
+Camouflage: Camuflagem
+#One of the custom color themes
+CoolBlueBright: Azul brilhante
+#One of the custom color themes
+Gray: Cinzento
+#One of the custom color themes
+GrayDark: Cinzento escuro
+#One of the custom color themes
+Green: Verde
+#One of the custom color themes
+IrisPastel: Pastel
+#One of the custom color themes
+MintLight: Menta
+#One of the custom color themes
+ModRed: Vermelho especial
+#One of the custom color themes
+OrangeBright: Laranja brilhante
+#One of the custom color themes
+Overcast: Nublado
+#One of the custom color themes
+Red: Vermelho
+#One of the custom color themes
+RoseBright: Rosa brilhante
+#One of the custom color themes
+Seafoam: Espuma
+#One of the custom color themes
+Storm: Tempestade
+#One of the custom color themes
+VioletRedLight: Avermelhado brilhante
+#One of the custom color themes
+YellowGold: Dourado
+ClearCompleted: Limpar terminadas
+NameWithColon: 'Nome:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} de {1} processados'
+ItemsLower: itens
+CannotInitializeGitRepo: Files não conseguiu inicializar este diretório como repositório Git.
+ContributingArtist: Artistas participantes
+AddPage: Adicionar página
+ProcessingItems: A processar itens...
+SpeedWithColon: 'Velocidade:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Cancelou a compressão de {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Cancelou a compressão de {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: '{0} itens comprimidos para "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: '{0} itens comprimidos de "{1}" para "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Erro ao comprimir {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Falha ao comprimir {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: A comprimir {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: A comprimir {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Cancelou a cópia de {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Cancelou a cópia de {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: '{0} itens copiados para "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: '{0} itens copiados de "{1}" para "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Erro ao copiar {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Falha ao copiar {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: A copiar {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: A copiar {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Cancelou a extração de "{0}" para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Cancelou a extração de "{0}" de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: '"{0}" extraído para "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: A extrair "{0}" de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Erro ao extrair "{0}" para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Falha ao extrair "{0}" de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: A extrair "{0}" para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: A extrair "{0}" de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Cancelou a eliminação de {0} itens de "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Eliminou {0} itens de "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Erro ao eliminar {0} itens de "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Falha ao eliminar {0} itens de "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: A eliminar {0} itens de "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Cancelou a movimentação de {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Cancelou a movimentação de {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: '{0} itens movidos para "{1}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: '{0} itens movidos de "{1}" para "{2}"'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: A mover {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: A mover {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Erro ao mover {0} itens para "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Falha ao mover {0} itens de "{1}" para "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Cancelou a limpeza da Reciclagem
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Reciclagem esvaziada
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: A esvaziar Reciclagem
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Erro ao esvaziar a Reciclagem
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Falha ao esvaziar a Reciclagem
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: A preparar...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} item(s) processados'
+UnblockDownloadedFile: Desbloquear ficheiro descarregado
+NoFileOperations: Não existem operações em curso
+OpenOnStartupDisabled: A opção de abrir a aplicação ao iniciar o sistema não está disponível devido às definições do sistema ou à política de grupo. Para ativar esta opção, abra o separador Arranque no Gestor de tarefas.
+FailedToRestore: Falha ao restaurar os itens da Reciclagem
+FailedToSetBackground: Falha ao definir como imagem de fundo
+GitDeleteBranch: Eliminar Git 'branch'
+GitDeleteBranchSubtitle: Tem certeza de que deseja eliminar permanentemente "{0}"?
+ConnectedToGitHub: Conectado a Github
+Logout: Terminar sessão
+ConnectToGitHub: Connectar a GitHub
+Login: Iniciar sessão
+ErrorApplyingTagContent: Atualmente, apenas pode utilizar etiquetas em unidades formatadas como NTFS.
+ErrorApplyingTagTitle: Ocorreu um erro ao aplicar a etiqueta
+DecompressArchiveHereSmartDescription: Extrai os itens dos arquivos selecionados para a pasta atual (se apenas possuir 1 item) ou para uma nova pasta (se possuir vários itens)
+ExtractHereSmart: Extrair aqui (inteligente)
+SortFilesAndFoldersTogether: Ordenar ficheiros e pastas em conjunto
+SortFilesAndFoldersTogetherDescription: Ordenar ficheiros e pastas em conjunto
+SortFilesFirst: Ordenar ficheiros primeiro
+SortFilesFirstDescription: Ordenar ficheiros e só depois as pastas
+SortFoldersFirst: Ordenar pastas primeiro
+SortFoldersFirstDescription: Ordenar pastas e só depois os ficheiros
+SortPriority: Prioridade de ordenação
+FailedToRotateImage: Falha ao rodar a imagem
+Restart: Reiniciar
+Quit: Sair
+FaildToShareItems: Falha ao partilhar itnes
+ScrollToPreviousFolderWhenNavigatingUp: Ir para a pasta anterior ao navegar para cima
+NewWindowDescription: Abrir nova janela
+ChangeAlbumCover: Alterar imagem do álbum
+ItemRenameFailed: Falha ao tentar renomear {0}.
+HigherPermissionsRequired: A edição de "{0}" requer permissões adicionais
+EditPermissions: Editar permissões
+BackgroundRunningNotificationBody: A aplicação está a ser executada em segundo plano para melhorar o desempenho.
+BackgroundRunningNotificationHeader: Para onde foi a aplicação?
+QuestionsAndDiscussions: Questões e discussões
+TilesViewSizeInfo: Tamanhos adicionais ainda não estão disponíveis para o modo Mosaico.
+#Used to describe layout sizes
+Compact: Compacto
+#Used to describe layout sizes
+Small: Pequeno
+#Used to describe layout sizes
+Medium: Médio
+#Used to describe layout sizes
+Medium+: Médio +
+#Used to describe layout sizes
+Medium++: Médio ++
+#Used to describe layout sizes
+Medium+++: Médio +++
+#Used to describe layout sizes
+Medium++++: Médio ++++
+#Used to describe layout sizes
+Medium+++++: Médio +++++
+#Used to describe layout sizes
+Large: Grande
+#Used to describe layout sizes
+Large+: Grande +
+#Used to describe layout sizes
+Large++: Grande ++
+#Used to describe layout sizes
+Large+++: Grande +++
+#Used to describe layout sizes
+ExtraLarge: Muito grande
+DetailsView: Vista de detalhes
+LayoutType: Tipo de esquema
+Actions: Ações
+Commands: Comandos
+AddCommand: Adicionar comando
+RestoreDefaults: Repor predefinições
+ChooseAnAction: Escolha uma ação
+RestoreDefaultKeybindingsConfirmation: Tem a certeza de que pretende repor as combinações de teclas padrão? Esta ação não pode ser anulada.
+KeybindingAlreadyUsedNotification: Esta combinação de teclas já está a ser utilizada. Escolha uma combinação de teclas diferente para continuar.
+KeybindingInvalidKeyNotification: Não pode utilizar a associação de teclas escolhida. Por favor escolha outra associação.
+Customized: Personalizado
+AdaptiveLayoutDisabledNotification: O esquema adaptativo não está disponível quando as preferências são sincronizadas e o esquema padrão foi alterado para Detalhes.
+BackgroundImage: Imagem de fundo
+#Image alignment type
+Bottom: Baixo
+#Image alignment type
+Center: Centro
+#Image stretch type
+Fill: Preencher
+HorizontalAlignment: Alinhamento horizontal
+ImageFit: Ajustar à imagem
+#Image alignment type
+Left: Esquerda
+Opacity: Opacidade
+#Image alignment type
+Right: Direita
+#Image alignment type
+Top: Cima
+#Image stretch type
+Uniform: Uniforme
+#Image stretch type
+UniformToFill: Preenchimento uniforme
+VerticalAlignment: Alinhamento vertical
+#This is a type of backdrop for the application background
+ThinAcrylic: Acrílico fino
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Mostrar para todas as localizações
+DevTools: Ferramentas de programação
+DisplayOpenIDE: Configure o botão "Abrir IDE" na barra de estado
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Mostrar para repositórios Git
+#This is the friendly name for DLL files.
+ApplicationExtension: Ficheiros DLL
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Ficheiro ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Ficheiro Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Ficheiros Bitmap
+NumPadTypeName: Num
+NetworkLocations: Localizações de rede
+NoNetworkLocationsInfo: Não existem localizações de rede. Se não quiser usar localizações de rede, pode desativar o widget.
+Disable: Desativar
+EditInNotepad: Editar no Notepad
+EditInNotepadDescription: Editar ficheiro no Notepad

@@ -1,0 +1,1467 @@
+NewWindow: نافذة جديدة
+CopyPath: نسخ المسار
+CopyPathWithQuotes: نسخ المسار مع الاقتباس
+Browse: تصفح
+Size: الحجم
+PropertiesCreated:
+  Text: تم الانشاء
+Path: المسار
+SizeLabel: 'الحجم:'
+SizeOnDiskLabel: 'الحجم في القرص:'
+UncompressedSize: 'الحجم الغير مضغوط:'
+ErrorDialogThisActionCannotBeDone: لا يمكن القيام بهذا الامر
+ErrorDialogTheDestinationFolder: وجهة الملف
+ErrorDialogIsASubfolder: 'انه مجلد فرعي من المجلد الاصلي '
+Skip: ‏‏تخطي
+SelectAll: تحديد الكل
+InvertSelection: إعكس التحديد
+ClearSelection: إلغاء الاختيار
+PropertiesModified:
+  Text: تاريخ التعديل
+Accessed: التشغيل الأخير
+RecentItemClearAll:
+  Text: ازالة كل العناصر
+NavigationToolbarVisiblePath:
+  PlaceholderText: أدخل مسار للانتقال إلى أو اكتب ">" لفتح لوحة الأوامر
+Search: بحث
+RecentItemDescription:
+  Text: الملفات التي قمت بالوصول اليها مؤخرا سوف تظهر هنا
+RecentItemRemove:
+  Text: إزالة هذا العنصر
+OpenGitHubRepo: مستودع GitHub
+About: حول التطبيق
+OpenSource: مفتوح المصدر
+DateFormat: تنسيق التاريخ.
+SettingsAppearanceTheme: السمة
+SettingsFilesAndFoldersShowFileExtensions: إظهار الامتدادات لأنواع الملفات المعروفة
+SettingsFilesAndFoldersShowHiddenItems: إظهار الملفات والمجلدات المخفية
+ShowDotFiles: إظهار ملفات النقاط
+Appearance: المظهر
+BackgroundColor: لون الخلفية
+Advanced: متقدم
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: تابع اين توقفت
+SettingsOnStartupOpenANewTab:
+  Content: فتح علامة تبويب جديدة
+SettingsOnStartupOpenASpecificPage:
+  Content: فتح صفحة معينة
+Desktop: سطح المكتب
+Documents: المستندات
+Downloads: التنزيلات
+Name: اسم
+Ascending: تصاعدي
+Paste: لصق
+BaseLayoutContextFlyoutNew:
+  Label: جديدة
+Properties: خصائص
+Open: فتح
+OpenInNewTab: فتح تبويب جديد
+OpenInNewWindow: فتح في نافذة جديدة
+Share: مشاركة
+Cut: قص
+Delete: حذف
+PinFolderToSidebar: تثبيت على الشريط الجانبي
+WelcomeDialog:
+  Title: مرحبا بك في Files
+  PrimaryButtonText: منح الصلاحية
+WelcomeDialogTextBlock:
+  Text: للبدء ، ستحتاج إلى منحنا إذنًا لعرض ملفاتك. سيؤدي هذا إلى فتح صفحة الإعدادات حيث يمكنك منحنا هذا الإذن. ستحتاج إلى إعادة فتح التطبيق بمجرد الانتهاء من هذه الخطوة
+Display: عرض
+EnterAnItemName: ادخل اسم عنصر
+RenameDialog:
+  PrimaryButtonText: تعيين اسم
+LightTheme: فاتح
+DarkTheme: داكن
+Application: التطبيق
+SystemTimeStyle: النظام
+NewFolder: مجلد جديد
+NewFile: ملف جديد
+EmptyFolder:
+  Text: ‏‏هذا المجلد فارغ
+Back: ‏‏الانتقال للخلف (Alt + مفتاح السهم الأيسر)
+Forward: ‏‏الانتقال للأمام (Alt + مفتاح السهم الأيمن)
+Up: ‏‏الانتقال للاعلى (Alt + مفتاح السهم الأيمن)
+Refresh: تحديث
+ItemAlreadyExistsDialogContent: يوجد عنصر بهذا الاسم في دليل الملفات
+ItemAlreadyExistsDialogSecondaryButtonText: استبدل العنصر الموجود سابقا
+ItemAlreadyExistsDialogTitle: العنصر موجود بالفعل.
+SetAsLockscreen: ضبط كخلفية قفل الشاشة
+SetAsAppBackground: تعيين كخلفية للتطبيق
+AccessDeniedDeleteDialog:
+  Text: لم نتمكن من حذف هذا العنصر
+DriveUnpluggedDialog:
+  Text: الرجاء ادخال المحرك المطلوب لهذا العنصر
+  Title: محرك الأقراص غير موصول
+FileNotFoundDialog:
+  Text: الملف الذي تحاول الوصول إليه قد تم نقله او حذفه.
+  Title: ‏‏لم يتم العثور على الملف
+CannotAccessPropertiesTitle: تعذر فتح الخصائص لهذا الملف
+CannotAccessPropertiesContent: الملف الذي تحاول الوصول إليه قد تم نقله او حذفه.
+FolderNotFoundDialog:
+  Text: الملف الذي تحاول الوصول اليه قد تم نقله او حذفه.
+  Title: هل قمت بحذف هذا الملف؟
+FileInUseByDialog:
+  Text: الملف الذي تحاول الوصول إليه يتم استخدامه حاليا من قبل {0}
+FileInUseDialog:
+  Text: الملف الذي تحاول الوصول إليه يتم استخدامه حاليا من قبل تطبيق آخر
+  Title: الملف قيد الاستخدام
+Layout: نموذج العرض
+PropertiesDialogReadOnly:
+  Text: للقراءة فقط
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: الآن
+ErrorDialogUnsupportedOperation: العملية التي قمت بها غير مدعومة
+DriveFreeSpaceAndCapacity: '{0} فارغ من {1}'
+SendTo: الإرسال إلى
+FileNameTeachingTip:
+  Subtitle: 'اسم الملف لا يجب ان يحتوي على: \ / : * ? " < > |'
+InvalidFilename:
+  Text: اسم العنصر المحدد غير صالح
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# العنصر المحدد} other {# العناصر المحددة}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {عنصر} other {عناصر}}'
+Yes: نعم
+ConfirmEmptyBinDialogContent: هل انت متاكد من القيام بحذف جميع الملفات المختارة
+ConfirmEmptyBinDialogTitle: إفراغ سلة المهملات
+ItemSizeBytes: بايت
+KiloByteSymbol: كيلوبايت
+MegaByteSymbol: ميغابايت
+GigaByteSymbol: غيغابايت
+TeraByteSymbol: تيرابايت
+PetaByteSymbol: بيتابايت
+ByteSymbol: بايت
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: التشغيل كمستخدم آخر
+PropertiesDriveItemTypesEquals: جميع انواع {0 }
+PropertiesDriveItemTypeDifferent: انواع مختلفة
+PropertiesCombinedItemLocation: الجميع في {0}
+PropertiesDriveUsedSpace:
+  Text: المساحة المستخدمة
+PropertiesDriveFreeSpace:
+  Text: المساحة الحرة
+PropertiesDriveCapacity:
+  Text: السعة
+PropertiesDriveFileSystem:
+  Text: نظام الملفات
+JumpListRecentGroupHeader: الأخيرة
+TabStripDragAndDropUIOverrideCaption: انقل علامة التبويب الى هنا
+syncStatusColumn:
+  Header: حالة
+SettingsPreferencesSystemDefaultLanguageOption: اللغة الإفتراضية للنظام
+NavigationToolbarVisiblePathNoResults: لا توجد نتائج
+SubDirectoryAccessDenied: لا يمكن الوصول إلى أي عناصر لعرضها
+MoveToFolderCaptionText: نقل إلى ${0}
+CopyToFolderCaptionText: نسخ إلى {0}
+CreateShortcut: إنشاء اختصار
+OpenFileLocation: فتح موقع الملف
+PropertiesShortcutItemArgs:
+  Text: ‏‏الوسيطات
+PropertiesShortcutItemPath:
+  Text: ‏‏الوجهة
+PropertiesShortcutItemType:
+  Text: نوع الاختصار
+PropertiesShortcutTypeLink: رابط موقع
+General: عام
+Shortcut: اختصار
+ShortcutWebLinkFileType: اختصار الإنترنت
+ShortcutCreateNewSuffix: '{0} - الاختصار'
+ExceptionNotificationBody: واجهت التطبيق مشكلة لم يحلها المطورون بعد
+ExceptionNotificationHeader: حدث خطأ ما
+ExceptionNotificationReportButton: الإبلاغ عن هذه المشكلة
+InvalidItemDialogContent: العنصر المشار إليه إما غير صالح أو لا يمكن الوصول إليه{0}رسالة خطأ{0}{1}
+InvalidItemDialogTitle: عنصر غير صالح
+SettingsAboutVersionTitle: الإصدار
+ShareDialogFailMessage: ‏‏لا يوجد شيء لمشاركته الآن.
+ShareDialogMultipleItemsDescription: ستتم مشاركة العناصر التي حددتها
+ShareDialogSingleItemDescription: سيتم مشاركة العنصر المحدد
+ShareDialogTitle: 'المشاركة: {0}%'
+ShareDialogTitleMultipleItems: المشاركة{0} {1}
+RenameError:
+  ItemDeleted:
+    Text: العنصر الذي تحاول إعادة تسميته لم يعد موجودًا. الرجاء التحقق من الموقع الصحيح للعنصر الذي تريد إعادة تسميته
+    Title: ‏‏لم يعد العنصر موجودًا
+  NameInvalid:
+    Text: الاسم المحدد غير صالح. يرجى التحقق من اسم العنصر المطلوب وحاول مرة أخرى
+    Title: اسم العنصر غير صالح
+  TooLong:
+    Text: طول اسم العنصر المحدد يتجاوز الحد الأقصى. يرجى التحقق من الاسم المطلوب وحاول مرة أخرى
+    Title: اسم العنصر طويل جدا
+ShowMoreOptions: إظهار خيارات أكثر
+RestartNotificationText:
+  Text: يحتاج التطبيق إلى إعادة التشغيل من أجل تطبيق إعداد اللغة ، هل ترغب في إعادة تشغيل التطبيق؟
+SponsorUsOnGitHub: ادعمنا على Github
+AccessDeniedCreateDialog:
+  Text: لم نتمكن من إنشاء هذا العنصر
+AccessDenied: تم رفض الوصول
+BaseLayoutItemContextFlyoutSetAs:
+  Text: تعيين كـ
+Cancel: إلغاء الأمر
+AddDialog:
+  Title: إنشاء عنصر جديد
+AddDialogDescription:
+  Text: اختر نوعًا لهذا العنصر الجديد أدناه
+File: ملف
+AddDialogListFileSubHeader: قم بإنشاء ملف فارغ
+Folder: مجلد
+AddDialogListFolderSubHeader: قم بإنشاء ملف فارغ
+NavResfreshButton:
+  AutomationProperties:
+    Name: قم بتحديث الدليل
+Language: اللغة
+SettingsContextMenuOverflow: نقل ملحقات المشغل إلى قائمة فرعية
+ShowConfirmationWhenDeletingItems: إظهار مربع التأكيد عند حذف اي عنصر
+PropertySaveErrorMessage:
+  Text: كانت هناك مشكلة في حفظ بعض الخصائص
+PropertySaveErrorDialog:
+  Title: خطأ
+  SecondaryButtonText: إغلاق على أي حال
+PropertyRatingText: التقييم
+PropertyParsingPath: مسار العنصر
+PropertyItemTypeText: نوع العنصر
+PropertyTitle: العنوان
+PropertySubject: الموضوع
+PropertyComment: تعليق
+PropertyCopyright: حقوق النشر
+PropertyDateModified: تاريخ التعديل
+PropertyBitDepth: عمق البت
+PropertyDimensions: الأبعاد
+PropertyHorizontalSize: الحجم الأفقي
+PropertyVerticalSize: الحجم العمودي
+PropertyHorizontalResolution: الدقة الأفقية
+PropertyVerticalResolution: الدقة الرأسية
+PropertyColorSpace: 'مساحة اللون:'
+PropertyColorSpace_Value0: scRGB
+PropertyColorSpace_Value65535: غير محدد
+PropertyLongitudeDecimal: خط الطول العشري
+PropertyLatitudeDecimal: خط العرض العشري
+PropertyAltitude: ‏‏خط الارتفاع
+PropertyDateTaken: تاريخ الالتقاط
+PropertyCameraManufacturer: الشركة المصنعة للكاميرا
+PropertyCameraModel: طراز الكاميرا
+PropertyExposureTime: وقت التعريض
+PropertyFocalLength: الطول البؤري
+PropertyAperture: ‏‏ثقب
+PropertyPeopleNames: أسماء الأشخاص
+PropertyChannelCount: العدد الحالي
+PropertyFormat: تنسيق
+PropertySampleRate: معدل العينة
+PropertyAlbumArtist: مؤدي الألبوم
+PropertyAlbumTitle: عنوان الألبوم
+Artist: فنان
+PropertyBeatsPerMinute: نبضة في الدقيقة
+PropertyComposer: المؤلف
+Conductor: موصل
+PropertyDiscNumber: رقم القرص
+PropertyGenre: النوع
+PropertyTrackNumber: رقم المسار
+PropertyDuration: المدة
+PropertyFrameCount: عدد الإطارات
+PropertyProtectionType: نوع الحماية
+PropertyAuthorUrl: عنوان المؤلف
+PropertyContentDistributor: موزع المحتوى
+PropertyDateReleased: تاريخ الاصدار
+PropertySeriesName: اسم السلسلة
+PropertySeasonNumber: رقم الموسم
+PropertyEpisodeNumber: رقم الحلقة
+PropertyProducer: المنتج
+PropertyPromotionUrl: عنوان الخاص بالترويج
+PropertyProviderStyle: أسلوب المزود
+PropertyPublisher: الناشر
+PropertyThumbnailLargePath: مسار كبير للصورة المصغرة
+PropertyThumbnailLargeUri: مسار كبير للصورة المصغرة
+PropertyThumbnailSmallPath: مسار صغير للصورة المصغرة
+PropertyThumbnailSmallUri: مسار صغير للصورة المصغرة
+PropertyUserWebUrl: عنوان موقع الويب الخاص بالمستخدم
+PropertyWriter: الكاتب
+PropertyYear: سنة
+PropertyContributor: المساهم
+PropertyLastAuthor: الكاتب الأخير
+PropertyRevisionNumber: 'رقم المراجعة:'
+PropertyVersion: الإصدار
+PropertyDateCreated: تاريخ الإنشاء
+PropertyTotalEditingTime: 'إجمالي وقت التحرير:'
+PropertyTemplate: القالب
+PropertyWordCount: عدد الكلمات
+PropertyCharacterCount: عدد الأحرف
+PropertyLineCount: عدد الخط
+PropertyParagraphCount: عدد الفقرات
+PropertyPageCount: عدد الصفحات
+PropertySlideCount: عدد الشرائح
+PropertyFrameRate: معدل الإطارات
+PropertyEncodingBitrate: ترميز معدل البت
+PropertyPreviewAudioEncodingBitrate: معدل ترميز الصوت
+PropertyPreviewVideoEncodingBitrate: معدل ترميز الفيديو
+Compression: الضغط
+PropertyFrameWidth: عرض الإطار
+PropertyFrameHeight: ارتفاع الإطار
+PropertyOrientation: الاتجاه
+PropertySectionCore: الأساس
+PropertySectionImage: صورة
+PropertySectionPhoto: صورة
+PropertySectionGPS: GPS
+PropertySectionMedia: الوسائط
+PropertySectionAudio: الصوت
+PropertySectionMusic: موسيقى
+PropertySectionVideo: فيديو
+Document: مستند
+Address: العنوان
+SelectionOptions: خيارات التحديد
+NavToolbarSelectionOptions:
+  Label: تحديد
+RecycleBinItemAutomation: عنصر سلة المحذوفات
+ShortcutItemAutomation: إختصار عنصر
+Drives: 'محركات الأقراص:'
+PinToSidebarByDraggingCaptionText: نقل إلى هنا
+EjectNotificationHeader: آمنة لإزالة الأجهزة
+EjectNotificationBody: يمكن الآن إزالة الجهاز بأمان من الكمبيوتر
+EjectNotificationErrorDialogHeader: جهاز إخراج المشكلة
+EjectNotificationErrorDialogBody: هذا الجهاز قيد الاستخدام حاليا. أغلق أي برامج أو نوافذ أو علامات تبويب قد تستخدم الجهاز ، ثم حاول مرة أخرى
+Eject: إخراج
+DuplicateTab: ‏‏تكرار علامة تبويب
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: نقل علامة التبويب إلى نافذة جديدة
+NewTab: علامة تبويب جديدة
+ClearPropertiesFlyoutText:
+  Text: قد تحتوي بعض الخصائص على معلومات شخصية
+ClearPropertiesButton:
+  Content: مسح كافة الخصائص
+OngoingTasksTeachingTip:
+  Subtitle: تحقق من حالة عمليات الملف هنا
+  Title: مركز الحالات
+SearchPagePathBoxOverrideText: نتائج البحث في
+Details: التفاصيل
+No: لا
+ShowProtectedSystemFiles: إظهار ملفات النظام المحمية
+SyncFolderPreferencesAcrossDirectories: مزامنة التخطيط وفرز التفضيلات عبر الدلائل
+SettingsContextMenu:
+  Text: تخصيص قائمة سياق النقر بزر الماوس الأيمن
+OriginalPath: المسار الأصلي
+Add: إضافة
+Edit: تحرير
+Remove: ‏‏إزالة
+SettingsMultitaskingAlwaysOpenDualPane: فتح علامات التبويب في وضع اللوحة المزدوجة
+ShowOpenInNewPane: إظهار خيار فتح المجلدات في لوحة جديدة
+ShowCopyPath: عرض خِيار نسخ المسار
+ShowCreateFolderWithSelection: عرض خِيار إنشاء مجلد مع التحديد
+ShowCreateShortcut: عرض خيار لإنشاء اختصار
+NavigationToolbarNewPane:
+  Label: لوحة جديدة
+OpenInNewPane: فتح في لوحة جديدة
+FilesAndFolders: الملفات والمجلدات
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: طريقة عرض التفاصيل
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: عرض البلاط
+DateDeleted: ‏‏تاريخ الحذف
+SidebarCloudDrives: محركات السحابة
+Confirm: تأكيد
+DesiredName: الاسم المطلوب
+TogglePreviewPane: تشغيل لوحة المعاينة
+ToggleDetailsPane: تبديل لوحة التفاصيل
+ToggleDetailsPaneDescription: تبديل لوحة التفاصيل لعرض الخصائص الأساسية للملف
+ToggleInfoPane: تبديل لوحة المعلومات
+ToggleInfoPaneDescription: تبديل لوحة المعلومات لعرض لوحة التفاصيل/المعاينة
+DetailsPanePreviewNotAvaliableText: المعاينة غير متوفرة
+PropertyItemName: اسم العنصر
+UnpinFolderFromSidebar: إلغاء التثبيت من الشريط الجانبي
+Network: الشبكة
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: تفاصيل الملف
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: معاينة الملف
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: لوحة معاينة الملف المحدد
+Feedback: ملاحظات
+CloudDriveSyncStatus_Online: متوفر عند الاتصال
+Documentation: الوثائق
+CloudDriveSyncStatus_Offline: متوفر دون اتصال
+CloudDriveSyncStatus_PartialOffline: متوفر جزئيًا في وضع عدم الاتصال
+CloudDriveSyncStatus_Sync: مزامنة
+CloudDriveSyncStatus_Excluded: مستثنى من المزامنة
+ItemSizeNotCalculated: غير محسوب
+CloudDriveSyncStatus_Unknown: غير معروف
+RenameFileDialog:
+  Text: إذا قمت بتغيير امتداد الملف، فقد يصبح الملف غير قابل للاستخدام. هل أنت متأكد أنك تريد تغييره؟
+DriveTypeCDRom: محرك الأقراص المضغوطة (CD ROM)
+DriveTypeCloudDrive: محرك السحابة
+DriveTypeFixed: محرك الأقراص الثابتة
+DriveTypeFloppyDisk: ' محرك الأقراص المرنة (Floppy Disk)'
+DriveTypeNetwork: محرك الشبكة
+DriveTypeNoRootDirectory: محرك قرص غير مثبت
+DriveTypeRam: قرص التخزين المؤقت (RAM Disk)
+DriveTypeRemovable: جهاز تخزين قابل للإزالة
+DriveTypeUnknown: غير معروف
+DriveTypeVirtualDrive: قرص وهمي
+DateCreated: تاريخ الإنشاء
+MoreOptions: خيارات إضافية
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: خريطة قرص الشبكة
+Pinned: المثبت
+SidebarLibraries: المكتبات
+NoItemSelected: لم يتم تحديد أي عنصر
+PropertyItemTarget: الهدف
+Arguments: الوسيطات (المعاملات)
+Default: افتراضي
+PropertyItemCount: عدد العناصر
+ElevateConfirmDialog:
+  Title: يتطب هذا الإجراء صلاحيات المسؤول
+  Content: هل ترغب في الاستمرار كمسؤول؟
+ColumnsShortcutTooltip: الأعمدة (Ctrl+Shift+6)
+PinItemToStart:
+  Text: التثبيت في قائمة االبداية (Start menu)
+UnpinItemFromStart:
+  Text: إلغاء التثبيت من قائمة البداية (Start menu)
+Library: مكتبة
+LibraryLocations:
+  Text: 'المواقع:'
+SetAsDefaultSavePath: تعيين كمسار حفظ افتراضي
+LibraryNoLocations:
+  Text: لا توجد مواقع
+ErrorInputEmpty: لا يمكن ترك حقل الإدخال فارغًا!
+ErrorNameInputRestrictedCharacters: 'يجب ألا يحتوي الاسم على الأحرف التالية: \ / : * ? " < > |'
+ErrorNameInputRestricted: استخدام هذا الاسم غير مسموح به!
+CreateLibraryErrorAlreadyExists: توجد بالفعل مكتبة بنفس الاسم!
+OpenStorageSense: افتح Storage Sense
+Copy: نسخ
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: نقل
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: متابعة
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: حذف دائم
+PropertyISO: ‏‏السرعة وفق ISO
+ReplaceExisting: استبدال الموجود
+GenerateNewName: توليد اسم جديد
+CreateFolderWithSelection: إنشاء مجلد مع العناصر المحددة
+ItemType: النوع
+ToolTipDescriptionDate: 'تم تعديل التاريخ:'
+OpenWith: فتح باستخدام
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: أيقونة الملف
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: عمود المسار الأصلي
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: عمود نوع العنصر
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: عمود تاريخ التعديل
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: عمود تاريخ الحذف
+Sort: فرز
+DateModifiedLowerCase: تاريخ التعديل
+OriginalFolder: المجلد الأصلي
+Descending: تنازلي
+ItemSizeText_Huge: ضخم
+ItemSizeText_VeryLarge: كبير جدًا
+ItemSizeText_Large: كبير
+ItemSizeText_Medium: متوسط
+ItemSizeText_Small: صغير
+ItemSizeText_Tiny: صغير جداً
+Future: المستقبل
+Today: اليوم
+Yesterday: أمس
+EarlierThisWeek: ‏‏في وقت سابق هذا الأسبوع
+LastWeek: الأسبوع الماضي
+EarlierThisMonth: في وقت سابق من هذا الشهر
+LastMonth: الشهر الماضي
+EarlierThisYear: في وقت سابق من هذا العام
+LastYear: العام الماضي
+YearN: سنة {0}
+GroupItemsCount_Singular: '{0} عنصر'
+GroupItemsCount_Plural: '{0} من العناصر'
+ReopenClosedTab: إعادة فتح علامة التبويب المغلقة
+Rename: إعادة تسمية
+Privacy: الخصوصية
+TheRecycleBin: سلة المهملات
+Canceling: الإلغاء
+Clear: مسح
+Widgets: عناصر الواجهة
+SyncStatus: ‏‏حالة المزامنة
+Security: الأمان
+AdvancedPermissions: 'أذونات متقدمة:'
+Allow: السماح
+Deny: رفض
+SecurityFullControlLabel:
+  Text: تحكم كامل
+SecurityListDirectoryLabel:
+  Text: سجل محتوى الدليل
+Modify: تعديل
+SecurityPermissionsHeaderText: الأذونات لـ {0}
+SecurityReadAndExecuteLabel:
+  Text: القراءة والتنفيذ
+SecurityReadLabel:
+  Text: قراءة
+SecurityUsersGroupLabel:
+  Text: 'أسماء المجموعات أو المستخدمين:'
+Write: كتابة
+SecurityUnknownAccount: حساب غير معروف
+SecurityCannotReadProperties:
+  Text: ليس لديك صلاحيات لعرض خصائص الأمان لهذا الكائن. انقر فوق "صلاحيات متقدمة" للمتابعة.
+SecurityOwnerLabel:
+  Text: 'المالك:'
+SecurityUnknownOwnerText:
+  Text: مالك غير معروف
+ExtractArchive: استخرج الأرشيف
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: فتح مجلد الوجهة عند الاكتمال
+BaseLayoutItemContextFlyoutExtractToChildFolder: استخرج إلى {0}\
+SideBarCreateNewLibrary:
+  Text: إنشاء مكتبة جديدة.
+SideBarRestoreLibraries:
+  Text: استعادة المكتبات الافتراضية
+DialogRestoreLibrariesSubtitleText: هل أنت متأكد من أنك تريد استعادة المكتبات الافتراضية؟ جميع ملفاتك ستبقى على وحدة التخزين الخاصة بك.
+DialogRestoreLibrariesTitleText: استعادة المكتبات
+PropertyFileOwner: المالك
+SecuritySpecialLabel:
+  Text: خاص
+Access: الوصول
+SecurityAdvancedAppliesTo: ينطبق على
+Principal: إداري
+SecurityAdvancedFlagsFilesLabel: الملفات
+SecurityAdvancedFlagsFolderLabel: هذا المجلد
+SecurityAdvancedFlagsSubfoldersLabel: المجلدات الفرعية
+Inherited: موروث
+Permissions: الأذونات
+SecurityAdvancedCannotReadProperties:
+  Text: ليس لديك صلاحيات لعرض خصائص الأمان لهذا الكائن. يمكنك محاولة أخذ ملكية هذا الكائن.
+SecurityAdvancedFolderFiles:
+  Text: هذا المجلد والملفات
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: هذا المجلد والمجلدات الفرعية والملفات
+SecurityAdvancedOnlyFiles:
+  Text: الملفات فقط
+SecurityAdvancedOnlySubfolders:
+  Text: المجلدات الفرعية فقط
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: المجلدات الفرعية والملفات فقط
+SecurityAdvancedOnlyThisFolder:
+  Text: هذا المجلد فقط
+SecurityAdvancedFolderSubfolders:
+  Text: هذا المجلد والمجلدات الفرعية
+SecurityAppendDataLabel:
+  Text: إلحاق البيانات
+SecurityChangePermissionsLabel:
+  Text: تغيير الإذن
+SecurityCreateDirectoriesLabel:
+  Text: إنشاء مجلدات
+SecurityCreateFilesLabel:
+  Text: إنشاء ملفات
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: حذف الدلائل الفرعية والملفات
+SecurityExecuteFileLabel:
+  Text: تنفيذ الملفات
+SecurityReadAttributesLabel:
+  Text: قراءة السمات
+SecurityReadDataLabel:
+  Text: قراءة البيانات
+SecurityReadExtendedAttributesLabel:
+  Text: قراءة السمات الموسعة
+SecurityReadPermissionsLabel:
+  Text: أذونات القراءة
+SecurityTakeOwnershipLabel:
+  Text: الحصول على الملكية
+SecurityTraverseLabel:
+  Text: زيارة المجلد
+SecurityWriteAttributesLabel:
+  Text: كتابة السمات
+SecurityWriteDataLabel:
+  Text: كتابة البيانات
+SecurityWriteExtendedAttributesLabel:
+  Text: كتابة السمات الموسعة
+SecurityAdvancedInheritedConvert:
+  Text: تحويل الصلاحيات الموروثة إلى صلاحيات صريحة
+SecurityAdvancedInheritedEnable:
+  Text: تمكين التوريث
+SecurityAdvancedInheritedRemove:
+  Text: إزالة جميع الصلاحيات الموروثة
+SecurityAdvancedReplaceChildPermissions:
+  Text: إعادة تعيين أذونات فرعية
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: استبدال جميع إدخالات صلاحيات الكائن الفرعي بإدخالات صلاحيات هذا الكائن
+NavigationToolbarClosePane:
+  Label: إغلاق الجزء
+EnterCompactOverlay: ادخل وضع التراكب المضغوط
+ExitCompactOverlay: الخروج من وضع التراكب المدمج
+PropertyFileDescription: ‏‏وصف الملف
+PropertyCompany: الشركة
+PropertyLanguage: اللغة
+PropertyTrademarks: العلامات التجارية
+PropertyFileVersion: إصدار الملف
+PreviewPaneLoadCloudItemButton:
+  Text: تحميل معاينة كاملة
+  ToolTipService:
+    ToolTip: يقوم بتحميل العنصر من السحابة ويحمل المعاينة
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: الحجم الغير مضغوط
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: إخفاء {0} قسم
+AddFile: إضافة ملف
+ConsentDialogTitle: التحديثات متوفرة
+ConsentDialogContent: ‏‏التحديثات جاهزة للتثبيت
+Close: إغلاق
+ConsentDialogPrimaryButtonText: تحديث
+Home: الصفحة الرئيسية
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: اكتمل استخراج الأرشيف بنجاح.
+ExtractingArchiveText: يتم استخراج الأرشيف
+ExtractingCompleteText: تم الاستخراج!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: فتح المجلد الأصلي
+Unknown: غير معروف
+EditTags: تحرير العلامات
+PropertyPartOfSet: ‏‏جزء من المجموعة
+InsertDiscDialog:
+  OpenDriveButton: فتح القرص
+  Text: الرجاء إدخال قرص في محرك الأقراص {0}
+  Title: إدخال قرص
+OK: موافق
+AskCredentialDialog:
+  Title: بيانات الاعتماد مطلوبة
+CredentialDialogAnonymous:
+  Content: مجهول
+CredentialDialogDescription:
+  Text: 'توفير بيانات الاعتماد الخاصة بك:'
+CredentialDialogUserName:
+  PlaceholderText: اسم المستخدم
+NoSearchResultsFound: لم يتم العثور على أصناف
+OpenLogLocation: افتح موقع السجل
+LinkToFolderCaptionText: أنشئ رابط في {0}
+Columns: الأعمدة
+Tiles: لوحات
+OpenFoldersInNewTab: فتح المجلدات في علامة تبويب جديدة
+StatusCenter: مركز الحالات
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: عمود تاريخ الإنشاء
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: عمود حجم العنصر
+ExperimentalFeatureFlags: أعلام الميزات التجريبية
+HelpAndSupport: المساعدة والدعم
+SubmitFeatureRequest: إرسال طلب الميزة
+SubmitBugReport: إرسال تقرير الأخطاء
+SettingsSetAsDefaultFileManager: تعيين Files كمدير ملفات افتراضي
+SettingsSetAsOpenDialog: استخدم Files كمربع حوار لفتح الملفات
+Tag: علامة
+SettingsOpenItemsWithOneClick: فتح العناصر بنقرة واحدة
+FolderPath: مسار المجلد
+ExportSettings: تصدير الإعدادات
+ImportSettings: استيراد الإعدادات
+SettingsImportErrorDescription: تعذر استيراد الإعدادات. ملف الإعدادات تالف.
+SettingsImportErrorTitle: خطأ في استيراد الإعدادات
+EmptyRecycleBin: إفراغ سلة المحذوفات
+Sidebar: شريط جانبي
+ChooseCustomIcon: اختر أيقونة مجلد مخصص
+Customization: تخصيص
+RestoreDefault: استعادة الافتراضي
+OpenTabInExistingInstance: فتح تاب جديدة في نفس الواجهة الموجودة عند فتح Files من تطبيق آخر
+StartupSettings: إعدادات بدء التشغيل
+Compatibility: ‏‏التوافق
+None: بلا
+CompatibilityOnWindowsLogin: عند تسجيل دخول Windows
+CompatibilityOnProgramStart: عند بدء تشغيل هذا البرنامج
+System: النظام
+CompatibilitySystemEnhanced: النظام (معزز)
+CompatibilityReducedColorModeColor16bit: لون 16 بت (65536)
+CompatibilityReducedColorModeColor8bit: لون 8 بت (256)
+CompatibilityDisableFullscreenOptimizations: تعطيل تحسينات وضع ملء الشاشة
+CompatibilityRunIn640x480Resolution: تشغيل عند دقة الشاشة 640 × 480
+CompatibilityOverrideHighDPIBehavior: تجاوز سلوك تحجيم DPI المرتفع
+CompatibilityReducedColorMode: وضع الألوان المنخفض
+CompatibilityRegisterThisProgramForRestart: تسجيل هذا البرنامج لإعادة التشغيل
+RunAsAdministrator: تشغيل كمسؤول
+CompatibilityRunTroubleshooter: تشغيل مستكشف اعطال التوافق
+CompatibilityUseDPISettings: استخدام إعدادات DPI للشاشة الرئيسية
+CompatibilityDoNotAdjustDPI: لا تضبط DPI
+CompatibilityDoNotOverrideDPI: لا تتجاوز DPI
+CompatibilityMode: وضع التوافق
+CompatibilityNoReducedColor: لا يوجد لون مخفض
+ThirdPartyLicenses: تراخيص الطرف الثالث
+SettingsSetAsDefaultFileManagerDescription: هذا الخيار يعدل سجل النظام ويمكن أن تكون له تأثيرات جانبية غير متوقعة على جهازك. تابع على مسؤوليتك الخاصة.
+FolderWidgetCreateNewLibraryDialogTitleText: إنشاء مكتبة
+FolderWidgetCreateNewLibraryInputPlaceholderText: أدخل اسم المكتبة
+CalculateFolderSizes: احسب أحجام المجلد
+RecentFiles: أخر الملفات
+SettingsOpenInLogin: فتح Files عند بدء تشغيل Windows
+Attributes: ‏‏سمات
+Hidden: مخفية
+MoreDetails: مزيد من التفاصيل
+ReadOnly: للقراءة فقط
+CleanupDrive: تنظيف محتويات القرص
+Type: النوع
+Bytes: بايت
+Extract: استخراج
+ExtractFiles: استخرج الملفات
+ExtractHere: فك الظغط هنا
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: استخرج إلى {0}
+RunScript: تشغيل البرنامج النصي
+RunWithPowerShell: تشغيل بواسطة PowerShell
+ShowFolderSizesWarning: حساب أحجام المجلد كثيف الموارد وقد يتسبب في زيادة استخدام وحدة المعالجة المركزية الخاصة بك.
+RotateLeft: تدوير لليمين
+RotateRight: استدارة إلى اليمين
+Install: ‏‏التثبيت
+CloseTabsToTheLeft: اغلاق علامات التبويب إلى اليسار
+CloseTabsToTheRight: إغلاق علامات التبويب على اليسار
+CloseOtherTabs: إغلاق علامات التبويب الأخرى
+Music: موسيقى
+Pictures: صور
+UpdateFiles: تحديث Files
+FileTags: العلامات
+Universal: عام
+DateFormatSample: 'مثال: {0}، {1}'
+SettingsFilesAndFoldersShowThumbnails: إظهار الصور المصغرة
+Retry: إعادة المحاولة
+ErrorDialogUnsupportedMoveOperation: عملية النقل غير مدعومة في هذا السياق. هل تريد نسخ العناصر بدلاً من ذلك؟
+HiddenItems: العناصر المخفية
+Custom: مخصص
+SetAsSlideshow: تعيين كعرض شرائح سطح المكتب
+SizeAllColumnsToFit: ضبط حجم الأعمدة لتتناسب
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: تكيفي (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: إظهار بث البيانات البديل
+Behaviors: سلوكيات
+ReviewFiles: مراجعة الملفات
+ReviewFilesContent: هل ترغب في مراجعة Files؟
+SetAsBackgroundFlyout: تعيين كخلفية
+SetAsBackground: تعيين كخلفية سطح المكتب
+SetAsDefault: تعيين كافتراضي
+DateColumn: عمود التاريخ
+DateCreatedColumn: عمود تاريخ الإنشاء
+SizeColumn: عمود الحجم
+TagColumn: عمود العلامة
+TypeColumn: عمود النوع
+Lockscreen: شاشة القفل
+OpenFolderWithOneClickColumnsLayout: فتح مجلدات بنقرة واحدة في تخطيط الأعمدة
+OpeningItems: فتح العناصر
+Compress: ضغط
+SelectFilesAndFoldersOnHover: حدد الملفات والمجلدات عند التنقل فوقها
+ConfirmRestoreBinDialogContent: هل أنت متأكد من أنك تريد استعادة جميع العناصر الموجودة في سلة إعادة التدوير؟
+ConfirmRestoreBinDialogTitle: استعادة كل العناصر
+ConfirmRestoreSelectionBinDialogContent: هل تريد استعادة {0} عنصر محدد؟
+ConfirmRestoreSelectionBinDialogTitle: استعادة التحديد
+RestoreAllItems: استعادة كل العناصر
+Restore: استعادة
+ShortcutCannotBeOpened: لا يمكن فتح الاختصار
+DeleteShortcutDescription: لا يمكن العثور على الوجهة المستهدفة {0}. هل تريد حذف هذا الاختصار؟
+AccessDeniedToFolder: ليس لديك إذن للوصول إلى هذا المجلد.
+ArchivePassword: كلمة مرور الأرشيف
+ExtractToPath: المسار
+SortingAndGrouping: الفرز والتجميع
+CreateArchive: إنشاء أرشيف
+Create: إنشاء
+CreateNamedArchive: إنشاء {0}
+EnterName: ادخل اسم
+CompressionLevel: مستوى الضغط
+CompressionLevelUltra: فائق
+CompressionLevelHigh: مرتفع
+CompressionLevelNormal: عادي
+CompressionLevelLow: منخفض
+CompressionLevelFast: سريع
+CompressionLevelNone: بلا
+SplittingSize: تقسيم الحجم
+Do not split: لا تقسم
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: التشفير
+Password: كلمة مرور
+Format: تنسيق
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: عمود حالة المزامنة
+GroupBy: تجميع وَفْقاً لـِ
+SortBy: فرز حسب
+GroupInDescendingOrder: الجمع بترتيب تنازلي
+SortInDescendingOrder: الفرز بترتيب تنازلي
+NewShortcutDialogTitle: إنشاء اختصار جديد
+NewShortcutDialogDescription: إنشاء اختصارات للبرامج المحلية أو الشبكة، الملفات، المجلدات، الحواسيب أو عناوين الإنترنت.
+NewShortcutDialogPrompt: 'أدخل موقع العنصر:'
+AddDialogListShortcutSubHeader: ينشئ اختصار
+RecentFilesDisabledOnWindowsWarning: الملفات المستخدمة حديثًا معطلة حاليًا في مستكشف ملفات ويندوز.
+EditSettingsFile: تعديل ملف الإعدادات
+WhatsNew: ما الجديد
+CannotCreateShortcutDialogTitle: إنشاء اختصار في هذا الموقع يتطلب امتيازات المسؤول
+CannotCreateShortcutDialogMessage: هل ترغب في إنشاء الاختصار على سطح المكتب بدلاً من ذلك؟
+ErrorDialogNameNotAllowed: اسم العنصر المحدد غير صالح
+Settings: إعدادات
+DoubleClickBlankSpaceToGoUp: انقر نقراً مزدوجاً على مساحة فارغة للانتقال إلى مجلد واحد
+ViewMore: عرض المزيد
+ShowEditTagsMenu: إظهار قائمة تعديل العلامات
+ShowCompressionOptions: عرض خيارات الضغط
+ShowSendToMenu: عرض قائمة الإرسال إلى
+ShowOpenInNewTab: إظهار خيار فتح المجلدات في علامة تبويب جديدة
+ShowOpenInNewWindow: إظهار خيار فتح المجلدات في نافذة جديدة
+QuickAccess: الوصول السريع
+NetworkAuthenticationDialogMessage: 'أدخل بيانات الاعتماد الخاصة بك للاتصال بـ: {0}'
+NetworkAuthenticationDialogTitle: أدخل بيانات اعتماد الشبكة
+NetworkAuthenticationSaveCheckbox: تذكر بيانات اعتمادي
+NetworkFolderErrorDialogTitle: خطأ في مجلد الشبكة
+AppVersion: إصدار التطبيق
+WindowsVersion: إصدار Windows
+Always: دائمًا
+PermanentDeletionOnly: حذف نهائي فقط
+Never: أبدًا
+TagColor: لون العلامة
+NewTag: علامة جديدة
+CreateNewTag: إنشاء علامة جديدة
+Loading: جاري التحميل...
+ContextMenuOptions: خيارات قائمة السياق
+ShowFileExtensions: إظهار امتداد الملفات
+ShowHiddenItems: إظهار العناصر المخفية
+FormatDriveText: هيأ...
+Help: المساعدة
+FullScreen: التبديل لوضع ملء الشاشة
+ConfirmDeleteTag: هل أنت متأكد أنك تريد إزالة هذه العلامة؟
+PlayAll: تشغيل الكل
+Height: الطول
+Width: العرض
+ApplyToAllConflictingItems: تطبيق هذا الإجراء على جميع العناصر المتضاربة
+OpenTerminal: فتح في نافذة محرر الأوامر
+OpenTerminalAsAdmin: فتح في Windows Terminal كمسئول
+Save: حفظ
+MultiSelect: تحديد متعدد
+ReorderSidebarItemsDialogText: إعادة ترتيب عناصر الشريط الجانبي
+Hashes: التجزئة
+CalculationError: حدث خطأ أثناء الحساب
+CalculationErrorFileIsOpen: أخفق حساب التجزئة، الرجاء إغلاق الملف والمحاولة مرة أخرى.
+CalculationOnlineFileHashError: التجزئة غير متوفرة للملفات عبر الإنترنت
+Algorithm: الخوارزمية
+HashValue: قيمة التجزئة
+SelectHashesToShow: حدد التجزئة لإظهارها
+Calculating: جارٍ الحساب...
+JumpListPinnedGroupHeader: عناصر مثبتة
+DecreaseSize: تقليص الحجم
+IncreaseSize: تكبير الحجم
+ToggleSortDirection: تبديل اتجاه الفرز
+InvalidTagNameWarning: اسم غير صالح
+TagNameRules: يجب ألا يكون الاسم فارغاً أو أن يبدأ أو ينتهي بفترة زمنية.
+Videos: مقاطع الفيديو
+LaunchPreviewPopup: تشغيل المعاينة المنبثقة
+ToggleCompactOverlay: تبديل التراكب المدمج
+OpenHelpDescription: فتح صفحة المساعدة عبر الإنترنت في المتصفح
+ToggleFullScreenDescription: التبديل لوضع ملء الشاشة
+EnterCompactOverlayDescription: ادخل وضع التراكب المضغوط
+ExitCompactOverlayDescription: الخروج من وضع التراكب المدمج
+ToggleCompactOverlayDescription: تبديل التراكب المدمج
+SearchDescription: انتقل إلى مربع البحث
+ToggleShowHiddenItemsDescription: تبديل إذا كان سيتم عرض العناصر المخفية
+ToggleShowFileExtensionsDescription: تبديل إذا كان سيتم عرض ملحقات الملف
+TogglePreviewPaneDescription: تشغيل لوحة المعاينة لعرض معاينات الملفات
+ToggleSidebarDescription: تبديل إذا كان سيتم إظهار الشريط الجانبي
+CopyItemDescription: نسخ العناصر إلى الحافظة
+CopyPathDescription: نسخ مسار العناصر المحددة إلى الحافظة
+CopyPathWithQuotesDescription: نسخ مسار العناصر المحددة مع الاقتباسات إلى الحافظة
+CutItemDescription: قص العناصر إلى الحافظة
+PasteItemDescription: لصق العناصر من الحافظة إلى المجلد الحالي
+PasteItemToSelectionDescription: لصق العناصر من الحافظة إلى المجلد المحدد
+DeleteItemDescription: حذف العناصر
+CreateFolderDescription: إنشاء مجلد جديد
+CreateShortcutDescription: إنشاء اختصارات جديدة للعناصر المحددة
+CreateShortcutFromDialogDescription: إنشاء اختصار جديد لأي عنصر
+EmptyRecycleBinDescription: إفراغ سلة المهملات
+FormatDriveDescription: فتح قائمة "تنسيق المحرك" للعنصر المحدد
+RestoreRecycleBinDescription: استعادة العناصر المختارة من سلة المهملات
+RestoreAllRecycleBinDescription: استعادة جميع العناصر من سلة المهملات
+OpenItemDescription: فتح العناصر
+OpenItemWithApplicationPickerDescription: فتح العناصر باستخدام التطبيق المحدد
+OpenParentFolderDescription: فتح المجلد الأصلي للعنصر الذي تم البحث عنه
+RefreshItemsDescription: تحديث محتويات الصفحة
+RenameDescription: إعادة تسمية العنصر المحدد
+SelectAllDescription: حدد جميع العناصر
+InvertSelectionDescription: عكس تحديد العنصر
+ClearSelectionDescription: إلغاء تحديد العنصر
+ToggleSelectDescription: تبديل تحديد العنصر
+ShareItemDescription: مشاركة الملفات المختارة مع الآخرين
+PinToStartDescription: تثبيت العناصر في قائمة البدء
+UnpinFromStartDescription: إلغاء تثبيت العناصر من قائمة البدء
+PinFolderToSidebarDescription: تثبيت المجلدات إلى الشريط الجانبي
+UnpinFolderFromSidebarDescription: إلغاء تثبيت المجلدات من الشريط الجانبي
+SetAsWallpaperBackgroundDescription: تعيين الصورة المحددة كخلفية سطح المكتب
+SetAsSlideshowBackgroundDescription: تعيين الصور المحددة كعرض شرائح سطح المكتب
+SetAsLockscreenBackgroundDescription: تعيين الصورة المحددة كخلفية لشاشة القفل
+SetAsAppBackgroundDescription: تعيين الصورة المحددة كخلفية للتطبيق
+InstallFontDescription: تثبيت الخطوط المحددة
+InstallInfDriverDescription: تثبيت التعريفات باستخدام ملفات inf المحددة
+InstallCertificateDescription: تثبيت الشهادات المحددة
+RunAsAdminDescription: تشغيل التطبيق المحدد كمسؤول
+RunAsAnotherUserDescription: تشغيل التطبيق المحدد كمستخدم آخر
+RunWithPowershellDescription: تشغيل سكريبت PowerShell المحدد
+LaunchPreviewPopupDescription: تشغيل المعاينة في النافذة المنبثقة
+CompressIntoArchiveDescription: إنشاء أرشيف مع العناصر المحددة
+CompressIntoSevenZipDescription: إنشاء أرشيف 7z على الفور مع العناصر المحددة
+CompressIntoZipDescription: إنشاء أرشيف zip على الفور مع العناصر المحددة
+DecompressArchiveDescription: استخراج العناصر من الأرشيفات المحددة إلى أي مجلد
+DecompressArchiveHereDescription: استخراج العناصر من الأرشيفات المحددة إلى المجلد الحالي
+DecompressArchiveToChildFolderDescription: استخراج العناصر من الأرشيفات المحددة إلى المجلد الجديد
+RotateLeftDescription: تدوير الصور المحددة إلى اليسار
+RotateRightDescription: تدوير الصور المحددة إلى اليمين
+OpenSettingsDescription: فتح صفحة الإعدادات
+OpenTerminalDescription: فتح المجلد في منفذ الأوامر
+OpenTerminalAsAdminDescription: فتح المجلد في منفذ الأوامر كمسؤول
+LayoutDecreaseSizeDescription: تقليل حجم العنصر في العرض الحالي
+LayoutIncreaseSizeDescription: زيادة حجم العنصر في العرض الحالي
+LayoutDetailsDescription: التبديل إلى عرض التفاصيل
+LayoutTilesDescription: التبديل إلى عرض المربعات
+LayoutListDescription: التبديل إلى عرض القائمة
+List: قائمة
+Grid: الشبكة
+LayoutGridDescription: التبديل إلى عرض الشبكة
+LayoutColumnsDescription: التبديل إلى عرض الأعمدة
+LayoutAdaptiveDescription: تبديل وجهات النظر بشكل متكيف
+SortByNameDescription: فرز العناصر حسب الاسم
+SortByDateModifiedDescription: فرز العناصر حسب تاريخ التعديل
+SortByDateCreatedDescription: فرز العناصر حسب تاريخ الإنشاء
+SortBySizeDescription: فرز العناصر حسب الحجم
+SortByTypeDescription: فرز العناصر حسب النوع
+SortBySyncStatusDescription: فرز العناصر حسب حالة المزامنة
+SortByTagDescription: فرز العناصر حسب العلامات
+SortByOriginalFolderDescription: فرز العناصر حسب المجلد الأصلي
+SortByDateDeletedDescription: فرز العناصر حسب تاريخ الحذف
+SortAscendingDescription: ترتيب العناصر ترتيباً تصاعدياً
+SortDescendingDescription: ترتيب العناصر ترتيباً تنازلياً
+ToggleSortDirectionDescription: تبديل اتجاه فرز العناصر
+GroupByNoneDescription: عرض العناصر دون تجميع
+GroupByNameDescription: جمع العناصر حسب الاسم
+GroupByDateModifiedDescription: تجميع العناصر حسب التاريخ المعدل
+GroupByDateCreatedDescription: تجميع عناصر المجموعة حسب تاريخ الإنشاء
+GroupBySizeDescription: تجميع العناصر حسب الحجم
+GroupByTypeDescription: تجميع العناصر حسب النوع
+GroupBySyncStatusDescription: تجميع العناصر حسب حالة المزامنة
+GroupByTagDescription: تجميع العناصر حسب العلامات
+GroupByOriginalFolderDescription: تجميع العناصر حسب المجلد الأصلي
+GroupByDateDeletedDescription: تجميع العناصر حسب تاريخ الحذف
+GroupByFolderPathDescription: تجميع العناصر حسب مسار المجلد
+GroupAscendingDescription: ترتيب المجموعات ترتيباً تصاعدياً
+GroupDescendingDescription: ترتيب المجموعات ترتيباً تنازلياً
+ToggleGroupDirectionDescription: تبديل جهة ترتيب المجموعات
+NewTabDescription: فتح علامة تبويب جديدة
+NavigateBackDescription: الانتقال إلى الخلف في سجل التنقل
+NavigateForwardDescription: الانتقال إلى الأمام في سجل التنقل
+NavigateUpDescription: الانتقال لأعلى دليل واحد
+DuplicateCurrentTabDescription: تكرار علامة التبويب الحالية
+DuplicateSelectedTabDescription: تكرار علامة التبويب المحددة
+CloseTabsToTheLeftCurrentDescription: إغلاق علامات التبويب إلى اليسار من علامة التبويب الحالية
+CloseTabsToTheLeftSelectedDescription: إغلاق علامات التبويب إلى اليسار من علامة التبويب المحددة
+CloseTabsToTheRightCurrentDescription: إغلاق علامات التبويب إلى يمين علامة التبويب الحالية
+CloseTabsToTheRightSelectedDescription: إغلاق علامات التبويب إلى يمين علامة التبويب المحددة
+CloseOtherTabsCurrentDescription: إغلاق علامات التبويب غير علامة التبويب الحالية
+CloseOtherTabsSelectedDescription: إغلاق علامات التبويب غير علامة التبويب المحددة
+ReopenClosedTabDescription: إعادة فتح آخر علامة تبويب مغلقة
+PreviousTabDescription: الانتقال إلى علامة التبويب السابقة
+NextTabDescription: الانتقال إلى علامة التبويب التالية
+CloseSelectedTabDescription: إغلاق علامة التبويب الحالية
+OpenNewPaneDescription: فتح لوحة جديدة
+ClosePaneDescription: اغلاق اللوحة اليمنى
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: تبديل الشريط الجانبي
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Space
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Left
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Right
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Down
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: ‏‏الانتقال للاعلى (Alt + مفتاح السهم الأيمن)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: الصفحة الرئيسية
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sleep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: مسح
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Help
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: GoHome
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GoBack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: GoForward
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: BrowserRefresh
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: بحث
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: المفضلة
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PrevTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: NextTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelect
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Mute
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: VolDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: VolUp
+Change: Change
+ToggleSelect: تبديل التحديد
+ShowFileExtensionWarning: إظهار التحذير عند تغيير امتداد الملفات
+ThisPC: هذا الحاسوب الشخصي
+RecycleBin: سلة المهملات
+Untagged: غير معلمة
+PreviousTab: ينتقل إلى علامة التبويب السابقة
+NextTab: ينتقل إلى علامة التبويب التالية
+CloseTab: يغلق علامة التبويب الحالية
+EditPath: تعديل المسار
+Redo: اعادة
+Undo: تراجع
+InvalidLocation: موقع غير صالح
+CopyFileWithoutProperties: هل أنت متأكد من أنك تريد نسخ هذه الملفات بدون خصائصها؟
+FilePropertiesCannotBeCopied: هذه الملفات لها خصائص لا يمكن نسخها إلى الموقع الجديد
+FilePropertiesCannotBeMoved: هذه الملفات لها خصائص لا يمكن نقلها إلى الموقع الجديد
+MoveFileWithoutProperties: هل أنت متأكد من أنك تريد نقل هذه الملفات بدون خصائصها؟
+ShowCheckboxesWhenSelectingItems: إظهار مربعات الاختيار عند تحديد العناصر
+EditPathDescription: تركيز شريط المسار
+AddItemDescription: إنشاء عنصر جديد
+SecurityNoAccessControlEntriesText: لا توجد مجموعات أو مستخدمين لديهم إذن للوصول إلى هذا الكائن. ومع ذلك، يمكن لمالك هذا الكائن تعيين الأذونات.
+OpenFileLocationDescription: فتح موقع العنصر
+DeletePermanently: حذف بشكل نهائي
+DeleteItemPermanentlyDescription: حذف العناصر نهائيا
+PlayAllDescription: تشغيل ملفات الوسائط المحددة
+UndoDescription: التراجع عن العملية الأخيرة للملف
+RedoDescription: إعادة العملية الأخيرة للملف
+Location: 'الموقع:'
+GroupByMonthDescription: تجميع العناصر حسب الشهر
+GroupByYearDescription: تجميع العناصر حسب السنة
+Month: شهر
+Day: يوم
+ToggleGroupByDateUnitDescription: تبديل الوحدة للتجميع حسب التاريخ
+ToggleGroupingUnit: تبديل وحدة التجميع
+Year: سنة
+GroupByDateUnit: تجميع حسب وحدة التاريخ
+GroupByDateCreatedDayDescription: تجميع عناصر المجموعة حسب يوم تاريخ الإنشاء
+GroupByDateCreatedMonthDescription: تجميع العناصر حسب شهر تاريخ الإنشاء
+GroupByDateCreatedYearDescription: تجميع العناصر حسب سنة تاريخ إنشائها
+GroupByDateDeletedDayDescription: تجميع عناصر المجموعة حسب يوم تاريخ الحذف
+GroupByDateDeletedMonthDescription: تجميع العناصر حسب شهر تاريخ الحذف
+GroupByDateDeletedYearDescription: تجميع العناصر حسب سنة تاريخ الحذف
+GroupByDateModifiedDayDescription: تجميع عناصر المجموعة حسب يوم تاريخ التعديل
+GroupByDateModifiedMonthDescription: تجميع العناصر حسب شهر تاريخ تعديلها
+GroupByDateModifiedYearDescription: تجميع العناصر حسب سنة تاريخ تعديلها
+SecurityClickAdvancedPermissions: انقر على 'أذونات متقدمة' للمتابعة.
+SecurityRequireReadPermissions: يجب أن يكون لديك أذونات القراءة لعرض خصائص هذا العنصر.
+SecuritySuggestToTakeOwnership: لمحاولة أخذ ملكية العنصر الذي يتضمن الإذن لعرض خصائصه، انقر تغيير أعلاه.
+SecurityUnableToDisplayPermissions: تعذر عرض الأذونات.
+StashChanges: اترك تغييراتي في '{0}'
+DiscardChanges: تجاهل تغييراتي
+BringChanges: أحضر تغييراتي إلى '{0}'
+UncommittedChanges: لديك تغييرات غير محفوظة في هذا الفرع. ماذا تريد أن تفعل بها؟
+SwitchBranch: تغيير الفرع
+Branches: الفروع
+Switch: تبديل
+NewBranch: فرع جديد
+InvalidBranchName: اسم الفرع غير صالح
+CreateBranch: إنشاء فرع
+CreateNewBranch: إنشاء فرع
+BasedOn: مبني على
+SwitchToNewBranch: التبديل إلى فرع جديد
+CreateFolderWithSelectionDescription: إنشاء مجلد مع العناصر المحددة حاليا
+OpenProperties: فتح الخصائص
+OpenPropertiesDescription: فتح نافذة الخصائص
+Locals: المحلية
+Remotes: الأجهزة البعيدة
+ImproveTranslation: ترجم عبر Crowdin
+GitFetch: جلب
+GitPull: سحب
+GitFetchDescription: قم بتشغيل git fetch
+GitPullDescription: قم بتشغيل git pull
+Preview: معاينة
+GitStatus: حالة Git
+GitError: خطأ في Git
+PullTimeoutError: فشل سحب git بسبب خطأ في المهلة
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (قيم معينة)
+Author: المؤلف
+DateCommitted: تاريخ التنفيذ
+CommitMessage: رسالة التنفيذ
+CommitSha: رمز SHA للتنفيذ
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: مادة الخلفية
+Solid: صلب
+ManageBranches: ادارة الفروع
+Push: ارفع
+GitPushDescription: قم بتشغيل git push
+GitSync: مزامنة
+GitSyncDescription: قم بتشغيل git pull ثم git push
+GitSyncStatusExtendedInfo: '{0} تنفيذات صادرة / {1} تنفيذات واردة'
+ConnectGitHub: الاتصال بـ GitHub
+ConnectGitHubDescription: أدخل الرمز التالي في الرابط أدناه لبدء العمل مع مستودعات GitHub.
+CannotReachGitHubError: لا يمكن لـ Files الوصول إلى GitHub الآن.
+OpenInVSCode: فتح المجلد في VS Code
+OpenInVSCodeDescription: فتح المجلد الحالي في Visual Studio Code
+OpenRepoInVSCode: فتح المستودع في VS Code
+OpenRepoInVSCodeDescription: فتح جذر مستودع Git في Visual Studio Code
+CopyCode: نسخ الكود
+Added: تمت الإضافة
+Deleted: تم الحذف
+Modified: تم تغييره
+Untracked: غير متتبع
+UnableToDisplayOwner: غير قادر على عرض المالك الحالي.
+AuthorizationSucceded: عظيم! أنت الآن مفوض.
+InitRepo: تهيئة مستودع
+InitRepoDescription: تهيئة مستودع Git
+GitOriginRepositoryName: اسم المستودع البعيد
+GitCurrentBranch: الفرع الحالي
+PathColumn: عمود المسار
+SortByPathDescription: فرز العناصر حسب المسار
+OpenDirectoryInNewPaneDescription: فتح المجلد في لوحة جديدة
+OpenDirectoryInNewTabDescription: فتح المجلد في علامة تبويب جديدة
+OpenInNewWindowDescription: فتح المجلد في نافذة جديدة
+OpenAllTaggedItems: فتح الكل
+OpenAllTaggedItemsDescription: فتح جميع العناصر المعلمة
+#{0} is the drive letter.
+DriveWithLetter: القرص ({0})
+InvalidCommand: أمر غير صالح
+InvalidCommandContent: "'{0}' غير معترف به كأمر."
+CommandNotExecutable: الأمر غير قابل للتنفيذ
+CommandNotExecutableContent: الأمر '{0}' غير جاهز لتنفيذه.
+CommandPalette: لوحة الأوامر
+OpenCommandPaletteDescription: إفتح لوحة الأوامر
+ShortcutItemWorkingDir: 'بدء في:'
+TurnOnBitLocker: تشغيل BitLocker
+ManageBitLocker: إدارة BitLocker
+CopyFailureFileToLarge: العناصر التالية حجمها كبير جدًا بحيث لا يمكن نسخه إلى محرك الأقراص هذا
+FormatDrive: تهيئة القرص
+DontShowAgain: لا تُظهر مجدّدًا
+FilesRunningAsAdmin: Files قيد التشغيل كمسئول
+FilesRunningAsAdminContent: بسبب تقييد ناتج من استخدام Windows و WinAppSdk، لا يتوفر السحب والإفلات عند تشغيل الملفات كمشرف. إذا كنت ترغب في استخدام السحب والإفلات، يمكنك العمل حول هذه المشكلة من خلال فتح UAC (التحكم في الحساب) من قائمة البدء وتحديد المستوى الثالث، وإعادة تشغيل Windows. خلاف ذلك، يمكنك الاستمرار في استخدام الملفات دون سحب و إسقاط.
+SettingsLeaveAppRunning: اترك التطبيق قيد التشغيل في الخلفية عند إغلاق النافذة
+#One of the custom color themes
+Blue: أزرق
+#One of the custom color themes
+BlueGray: رمادي أزرق
+#One of the custom color themes
+BrickRed: أحمر طوبي
+#One of the custom color themes
+Camouflage: تمويه
+#One of the custom color themes
+CoolBlueBright: ازرق رائع مشرق
+#One of the custom color themes
+Gray: رمادي
+#One of the custom color themes
+GrayDark: رمادي غامق
+#One of the custom color themes
+Green: أخضر
+#One of the custom color themes
+IrisPastel: باستيل إيريس
+#One of the custom color themes
+MintLight: ضوء نعناعي
+#One of the custom color themes
+ModRed: أحمر معدل
+#One of the custom color themes
+OrangeBright: برتقالي مشرق
+#One of the custom color themes
+Overcast: متلبد بالغيوم
+#One of the custom color themes
+Red: أحمر
+#One of the custom color themes
+RoseBright: وردة مشرقة
+#One of the custom color themes
+Seafoam: رغوة البحر
+#One of the custom color themes
+Storm: عاصفة
+#One of the custom color themes
+VioletRedLight: ضوء أحمر بنفسجي
+#One of the custom color themes
+YellowGold: ذهب أصفر
+ClearCompleted: مسح المهام المُنجَزة
+NameWithColon: 'الاسم:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: تم معالجة {0} من {1}
+ItemsLower: الأصناف
+CannotInitializeGitRepo: لا يمكن للملفات تهيئة هذا الدليل كمستودع Git.
+ContributingArtist: الفنان المساهم
+AddPage: إضافة صفحة
+ProcessingItems: جاري معالجة العناصر...
+SpeedWithColon: 'السرعة:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: تم إلغاء مهمة ضغط {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: تم إلغاء مهمة ضغط {0} من "{1}" إلى "{2}" عناصر
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: تم ضغط {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: تم ضغط {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: حدث خطأ خلال ضغط {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: فشل في ضغط عنصر {0} من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: يتم ضغط {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: يتم ضغط {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: إلغاء نسخ {0} عنصر (عناصر) إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: إلغاء نسخ {0} عنصر (عناصر) من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: تم نسخ العنصر {0} إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: تم نسخ {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: حدث خطأ خلال نسخ {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: تعذر نسخ {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: يتم نسخ {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: يتم نسخ {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: تم إلغاء عملية استخراج "{0}" إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: تم إلغاء عملية استخراج "{0}" من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: تم استخراج "{0}" إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: استخرج "{0}" من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: خطأ في استخراج "{0}" إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: حدث خطأ خلال استخراج "{0}" من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: يتم استخراج "{0}" إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: يتم استخراج "{0}" من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: تم إلغاء حذف {0} عنصر من "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: تم حذف {0} عنصر من "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: حدث خطأ خلال حذف {0} عنصر من "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: تعذر حذف {0} عنصر من "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: يتم حذف {0} عنصر من "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: تم إلغاء نقل {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: تم إلغاء نقل {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: تم نقل {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: تم نقل {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: يتم نقل {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: يتم نقل {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: حدث خطأ خلال نقل {0} عنصر إلى "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: تعذر نقل {0} عنصر من "{1}" إلى "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: تم الغاء عملية تفريغ سلة المحذوفات
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: تم تفريغ سلة المحذوفات
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: يتم إفراغ سلة المحذوفات
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: حدث خطأ خلال إفراغ سلة المحذوفات
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: تعذر إفراغ سلة المحذوفات
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: جارٍ إعداد العملية...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: تم معالجة {0}/{1} عنصر
+UnblockDownloadedFile: إلغاء حظر الملف المحمّل
+NoFileOperations: لا توجد عمليات ملفات جارية
+OpenOnStartupDisabled: خيار فتح Files عند تشغيل Windows غير متوفر بسبب إعدادات النظام أو سياسة المجموعة. لإعادة التفعيل، افتح صفحة بدء التشغيل في Task Manager.
+FailedToRestore: تعذر استعادة العناصر من سلة المحذوفات
+FailedToSetBackground: تعذر تعيين الخلفية
+GitDeleteBranch: حذف فرع Git
+GitDeleteBranchSubtitle: هل أنت متأكد من أنك تريد حذف فرع "{0}" بشكل دائم؟
+ConnectedToGitHub: متصل بـ GitHub
+Logout: تسجيل الخروج
+ConnectToGitHub: الاتصال بـ GitHub
+Login: تسجيل الدخول
+ErrorApplyingTagContent: العلامات متوافقة حاليا فقط على الأقراص المنسقة كـ NTFS.
+ErrorApplyingTagTitle: حدث خطأ خلال تطبيق هذه العلامة
+DecompressArchiveHereSmartDescription: استخرج العناصر من الأرشيفات المحددة إلى المجلد الحالي لأرشيف الفِقْرة الواحدة، أو إلى مجلد جديد لأرشيف ذو فِقْرات متعددة
+ExtractHereSmart: استخرج هنا (ذكي)
+SortFilesAndFoldersTogether: فرز الملفات والمجلدات معا
+SortFilesAndFoldersTogetherDescription: فرز الملفات والمجلدات معا
+SortFilesFirst: ترتيب الملفات أولاً
+SortFilesFirstDescription: ترتيب الملفات أولا ثم المجلدات
+SortFoldersFirst: ترتيب المجلدات أولا
+SortFoldersFirstDescription: ترتيب المجلدات أولا ثم الملفات
+SortPriority: ترتيب الأولوية
+FailedToRotateImage: تعذر تدوير الصورة
+Restart: إعادة التشغيل
+Quit: الخروج
+FaildToShareItems: تعذر مشاركة العناصر
+ScrollToPreviousFolderWhenNavigatingUp: التمرير إلى المجلد السابق عند التنقل للأعلى
+NewWindowDescription: فتح نافذة جديدة
+ChangeAlbumCover: تغيير غلاف الألبوم
+ItemRenameFailed: تعذر إعادة تسمية العنصر
+HigherPermissionsRequired: تحرير "{0}" يتطلب أذونات إضافية
+EditPermissions: تحرير الأذونات
+BackgroundRunningNotificationBody: لا يزال Files قيد التشغيل في الخلفية لتحسين أداء بدء التشغيل.
+BackgroundRunningNotificationHeader: أين ذهب Files؟
+QuestionsAndDiscussions: الأسئلة والنقاشات
+TilesViewSizeInfo: الأحجام الإضافية غير متوفرة حتى الآن لعرض البلاط.
+#Used to describe layout sizes
+Compact: مدمج
+#Used to describe layout sizes
+Small: صغير
+#Used to describe layout sizes
+Medium: متوسط
+#Used to describe layout sizes
+Medium+: متوسط +
+#Used to describe layout sizes
+Medium++: متوسط ++
+#Used to describe layout sizes
+Medium+++: متوسط +++
+#Used to describe layout sizes
+Medium++++: متوسط ++++
+#Used to describe layout sizes
+Medium+++++: متوسط +++++
+#Used to describe layout sizes
+Large: كبير
+#Used to describe layout sizes
+Large+: كبير +
+#Used to describe layout sizes
+Large++: كبير ++
+#Used to describe layout sizes
+Large+++: كبير +++
+#Used to describe layout sizes
+ExtraLarge: كبير جداً
+DetailsView: عرض التفاصيل
+LayoutType: نوع التخطيط
+Actions: إجراءات
+Commands: الأوامر
+AddCommand: إضافة أمر
+RestoreDefaults: استعادة الإعدادات الافتراضية
+ChooseAnAction: اختر إجراء
+RestoreDefaultKeybindingsConfirmation: هل أنت متأكد من أنك تريد استعادة ارتباطات المفتاح الافتراضي؟ لا يمكن التراجع عن هذا الإجراء.
+KeybindingAlreadyUsedNotification: هذا الربط الرئيسي قيد الاستخدام بالفعل، الرجاء اختيار رابط مفتاح مختلف للاستمرار.
+KeybindingInvalidKeyNotification: ارتباط المفتاح الذي اخترته لا يمكن استخدامه، حاول مجدداً باستخدام ارتباط مختلف.
+Customized: مخصص
+AdaptiveLayoutDisabledNotification: التخطيط التكيفي غير متوفر عند مزامنة التفضيلات، تم تغيير التخطيط الافتراضي إلى التفاصيل.
+BackgroundImage: صورة الخلفية
+#Image alignment type
+Bottom: أسفل
+#Image alignment type
+Center: وسط
+#Image stretch type
+Fill: تعبئة
+HorizontalAlignment: محاذاة أفقية
+ImageFit: الصورة تناسب
+#Image alignment type
+Left: Left
+Opacity: التعتيم
+#Image alignment type
+Right: Right
+#Image alignment type
+Top: أعلى
+#Image stretch type
+Uniform: متناسق
+#Image stretch type
+UniformToFill: الموحد المراد ملؤه
+VerticalAlignment: محاذاة عمودية
+#This is a type of backdrop for the application background
+ThinAcrylic: اكريليك رقيق
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: إظهار لجميع المواقع
+DevTools: أدوات المطور
+DisplayOpenIDE: تكوين زر "فتح IDE" في شريط الحالة
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: إظهار لـ Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: تمديد التطبيق
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ملف ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: ملف مضغوط
+#This is the friendly name for bitmap files.
+BitmapFiles: ملفات الصور النقطية
+NumPadTypeName: رقم
+NetworkLocations: مواقع الشبكة
+NoNetworkLocationsInfo: لا توجد مواقع شبكة. إذا كنت لا تستخدم مواقع الشبكة، يمكنك تعطيل القطعة.
+Disable: تعطيل
+EditInNotepad: تحرير في الملحوظة
+EditInNotepadDescription: تحرير الملف المحدد في ملاحظات

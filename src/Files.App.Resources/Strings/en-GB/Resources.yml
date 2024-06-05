@@ -78,14 +78,14 @@ NewFolder: New folder
 NewFile: New file
 EmptyFolder:
   Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
+Back: Back (Alt+Left arrow)
+Forward: Forward (Alt+Right arrow)
+Up: Up (Alt+Up arrow)
 Refresh: Refresh
 ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
 ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
 ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
+SetAsLockscreen: Set as lock screen background
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
   Text: We weren't able to delete this item
@@ -99,7 +99,7 @@ CannotAccessPropertiesTitle: Cannot open properties for this file
 CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
 FolderNotFoundDialog:
   Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Title: Have you deleted this folder?
 FileInUseByDialog:
   Text: The file you are attempting to access is currently being used by {0}
 FileInUseDialog:
@@ -177,7 +177,7 @@ ExceptionNotificationReportButton: Report this issue
 InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
 InvalidItemDialogTitle: Invalid item
 SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
+ShareDialogFailMessage: There’s nothing to share at the moment.
 ShareDialogMultipleItemsDescription: The items you've selected will be shared
 ShareDialogSingleItemDescription: The selected item will be shared
 ShareDialogTitle: Sharing {0}
@@ -215,14 +215,14 @@ NavResfreshButton:
     Name: Refresh the directory
 Language: Language
 SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+ShowConfirmationWhenDeletingItems: Show confirmation dialogue box when deleting items
 PropertySaveErrorMessage:
   Text: There was an issue saving some properties.
 PropertySaveErrorDialog:
   Title: Error
   SecondaryButtonText: Close anyway
 PropertyRatingText: Rating
-PropertyParsingPath: Item Path
+PropertyParsingPath: Item path
 PropertyItemTypeText: Item Type
 PropertyTitle: Title
 PropertySubject: Subject
@@ -235,7 +235,7 @@ PropertyHorizontalSize: Horizontal Size
 PropertyVerticalSize: Vertical Size
 PropertyHorizontalResolution: Horizontal Resolution
 PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+PropertyColorSpace: Colour Space
 PropertyColorSpace_Value0: sRGB
 PropertyColorSpace_Value65535: Unspecified
 PropertyLongitudeDecimal: Longitude Decimal
@@ -333,14 +333,14 @@ ClearPropertiesButton:
   Content: Clear All Properties
 OngoingTasksTeachingTip:
   Subtitle: Check the status of file operations here
-  Title: Status center
+  Title: Status centre
 SearchPagePathBoxOverrideText: Search results in {1} for {0}
 Details: Details
 No: 'No'
 ShowProtectedSystemFiles: Show protected system files
 SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
 SettingsContextMenu:
-  Text: Customize the right click context menu
+  Text: Customise the right click context menu
 OriginalPath: Original path
 Add: Add
 Edit: Edit
@@ -370,7 +370,7 @@ ToggleDetailsPaneDescription: Toggle the details pane to view basic file propert
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
 DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+PropertyItemName: Item name
 UnpinFolderFromSidebar: Unpin from Sidebar
 Network: Network
 PreviewPaneFileDetails:
@@ -487,11 +487,11 @@ LastYear: Last year
 YearN: Year {0}
 GroupItemsCount_Singular: '{0} item'
 GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
+ReopenClosedTab: Re-open closed tab
 Rename: Rename
 Privacy: Privacy
 TheRecycleBin: the Recycle Bin
-Canceling: Canceling
+Canceling: Cancelling
 Clear: Clear
 Widgets: Widgets
 SyncStatus: Sync status
@@ -527,7 +527,7 @@ SideBarCreateNewLibrary:
   Text: Create new library
 SideBarRestoreLibraries:
   Text: Restore default libraries
-DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
+DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain in your storage.
 DialogRestoreLibrariesTitleText: Restore Libraries
 PropertyFileOwner: Owner
 SecuritySpecialLabel:
@@ -541,7 +541,7 @@ SecurityAdvancedFlagsSubfoldersLabel: subfolders
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
+  Text: You do not have permission to view the security properties of this object. You can try to take ownership of this object.
 SecurityAdvancedFolderFiles:
   Text: This folder and files
 SecurityAdvancedFolderSubfoldersFiles:
@@ -617,7 +617,7 @@ SideBarHideSectionFromSideBar:
   Text: Hide {0} section
 AddFile: Add file
 ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
+ConsentDialogContent: Updates are ready to be installed
 Close: Close
 ConsentDialogPrimaryButtonText: Update
 Home: Home
@@ -627,13 +627,13 @@ BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
+ArchiveExtractionCompletedSuccessfullyText: The archive extraction was completed successfully.
 ExtractingArchiveText: Extracting archive
 ExtractingCompleteText: Extracting complete!
 BaseLayoutItemContextFlyoutOpenParentFolder:
   Text: Open parent folder
 Unknown: Unknown
-EditTags: Edit tags
+EditTags: Edit file tags
 PropertyPartOfSet: Part of set
 InsertDiscDialog:
   OpenDriveButton: Open drive
@@ -647,14 +647,14 @@ CredentialDialogAnonymous:
 CredentialDialogDescription:
   Text: 'Provide your credential:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
+  PlaceholderText: Username
 NoSearchResultsFound: No items found
 OpenLogLocation: Open log location
 LinkToFolderCaptionText: Create link in {0}
 Columns: Columns
 Tiles: Tiles
 OpenFoldersInNewTab: Open folders in new tab
-StatusCenter: Status center
+StatusCenter: Status centre
 DetailsViewHeaderFlyout_ShowDateCreated:
   Text: Date created column
 DetailsViewHeaderFlyout_ShowItemSize:
@@ -664,8 +664,8 @@ HelpAndSupport: Help and support
 SubmitFeatureRequest: Submit feature request
 SubmitBugReport: Submit bug report
 SettingsSetAsDefaultFileManager: Set Files as the default file manager
-SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
+SettingsSetAsOpenDialog: Use Files as Open File Dialogue
+Tag: File tag
 SettingsOpenItemsWithOneClick: Open items with a single click
 FolderPath: Folder path
 ExportSettings: Export settings
@@ -675,7 +675,7 @@ SettingsImportErrorTitle: Error importing settings
 EmptyRecycleBin: Empty Recycle Bin
 Sidebar: Sidebar
 ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
+Customization: Customisation
 RestoreDefault: Restore default
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
 StartupSettings: Startup settings
@@ -699,7 +699,7 @@ CompatibilityDoNotAdjustDPI: Do not adjust DPI
 CompatibilityDoNotOverrideDPI: Do not override DPI
 CompatibilityMode: Compatibility mode
 CompatibilityNoReducedColor: No reduced color
-ThirdPartyLicenses: Third party licenses
+ThirdPartyLicenses: Third party licences
 SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
 FolderWidgetCreateNewLibraryDialogTitleText: Create Library
 FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
@@ -709,7 +709,7 @@ SettingsOpenInLogin: Open Files on Windows startup
 Attributes: Attributes
 Hidden: Hidden
 MoreDetails: More details
-ReadOnly: Read only
+ReadOnly: Read-only
 CleanupDrive: Cleanup your drive contents
 Type: Type
 Bytes: Bytes
@@ -732,20 +732,20 @@ Pictures: Pictures
 UpdateFiles: Update Files
 FileTags: Tags
 Universal: Universal
-DateFormatSample: 'ex: {0}, {1}'
+DateFormatSample: 'eg: {0}, {1}'
 SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
+Retry: Try Again
 ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
 HiddenItems: Hidden items
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
-Behaviors: Behaviors
+Behaviors: Behaviours
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
@@ -810,7 +810,7 @@ CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires a
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
 Settings: Settings
-DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
+DoubleClickBlankSpaceToGoUp: Double-click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
 ShowCompressionOptions: Show compression options
@@ -827,11 +827,11 @@ WindowsVersion: Windows version
 Always: Always
 PermanentDeletionOnly: Permanent deletion only
 Never: Never
-TagColor: Tag color
+TagColor: Tag colour
 NewTag: New tag
 CreateNewTag: Create new tag
 Loading: Loading...
-ContextMenuOptions: Context menu options
+ContextMenuOptions: Context-menu options
 ShowFileExtensions: Show file extensions
 ShowHiddenItems: Show hidden items
 FormatDriveText: Format...
@@ -885,7 +885,7 @@ CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
 EmptyRecycleBinDescription: Empty recycle bin
-FormatDriveDescription: Open "Format Drive" menu for selected item
+FormatDriveDescription: Open 'Format Drive' menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
 OpenItemDescription: Open item(s)
@@ -1013,7 +1013,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Up (Alt+Up arrow)
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Home: Home
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1059,7 +1059,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserSearch: Search
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: Favourites
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1183,9 +1183,9 @@ Deleted: Deleted
 Modified: Modified
 Untracked: Untracked
 UnableToDisplayOwner: Unable to display current owner.
-AuthorizationSucceded: Great! You are now authorized.
-InitRepo: Initialize repo
-InitRepoDescription: Initialize a Git repository
+AuthorizationSucceded: Great! You are now authorised.
+InitRepo: Initialise repo
+InitRepoDescription: Initialise a Git repository
 GitOriginRepositoryName: Remote Repository Name
 GitCurrentBranch: Current Branch
 PathColumn: Path column
@@ -1198,7 +1198,7 @@ OpenAllTaggedItemsDescription: Open all tagged items
 #{0} is the drive letter.
 DriveWithLetter: Drive ({0})
 InvalidCommand: Invalid command
-InvalidCommandContent: "'{0}' is not recognized as a command."
+InvalidCommandContent: "'{0}' is not recognised as a command."
 CommandNotExecutable: Command not executable
 CommandNotExecutableContent: The '{0}' command is not ready to be executed.
 CommandPalette: Command palette
@@ -1215,7 +1215,7 @@ SettingsLeaveAppRunning: Leave app running in the background when the window is 
 #One of the custom color themes
 Blue: Blue
 #One of the custom color themes
-BlueGray: Blue Gray
+BlueGray: Blue Grey
 #One of the custom color themes
 BrickRed: Brick Red
 #One of the custom color themes
@@ -1223,31 +1223,31 @@ Camouflage: Camouflage
 #One of the custom color themes
 CoolBlueBright: Cool Blue Bright
 #One of the custom color themes
-Gray: Gray
+Gray: Grey
 #One of the custom color themes
-GrayDark: Gray Dark
+GrayDark: Dark Grey
 #One of the custom color themes
 Green: Green
 #One of the custom color themes
 IrisPastel: Iris Pastel
 #One of the custom color themes
-MintLight: Mint Light
+MintLight: Light Mint
 #One of the custom color themes
 ModRed: Mod Red
 #One of the custom color themes
-OrangeBright: Orange Bright
+OrangeBright: Bright Orange
 #One of the custom color themes
 Overcast: Overcast
 #One of the custom color themes
 Red: Red
 #One of the custom color themes
-RoseBright: Rose Bright
+RoseBright: Bright Rose
 #One of the custom color themes
 Seafoam: Seafoam
 #One of the custom color themes
 Storm: Storm
 #One of the custom color themes
-VioletRedLight: Violet Red Light
+VioletRedLight: Light Violet Red
 #One of the custom color themes
 YellowGold: Yellow Gold
 ClearCompleted: Clear completed
@@ -1261,9 +1261,9 @@ AddPage: Add page
 ProcessingItems: Processing items...
 SpeedWithColon: 'Speed:'
 #Shown in a StatusCenter card.
-StatusCenter_CompressCanceled_Header: Canceled compressing {0} items to "{1}"
+StatusCenter_CompressCanceled_Header: Cancelled compressing {0} items to "{1}"
 #Shown in a StatusCenter card.
-StatusCenter_CompressCanceled_SubHeader: Canceled compressing {0} items from "{1}" to "{2}"
+StatusCenter_CompressCanceled_SubHeader: Cancelled compressing {0} items from "{1}" to "{2}"
 #Shown in a StatusCenter card.
 StatusCenter_CompressComplete_Header: Compressed {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
@@ -1277,9 +1277,9 @@ StatusCenter_CompressInProgress_Header: Compressing {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
 StatusCenter_CompressInProgress_SubHeader: Compressing {0} item(s) from "{1}" to "{2}"
 #Shown in a StatusCenter card.
-StatusCenter_CopyCanceled_Header: Canceled copying {0} item(s) to "{1}"
+StatusCenter_CopyCanceled_Header: Cancelled copying {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
-StatusCenter_CopyCanceled_SubHeader: Canceled copying {0} item(s) from "{1}" to "{2}"
+StatusCenter_CopyCanceled_SubHeader: Cancelled copying {0} item(s) from "{1}" to "{2}"
 #Shown in a StatusCenter card.
 StatusCenter_CopyComplete_Header: Copied {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
@@ -1293,9 +1293,9 @@ StatusCenter_CopyInProgress_Header: Copying {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
 StatusCenter_CopyInProgress_SubHeader: Copying {0} item(s) from "{1}" to "{2}"
 #Shown in a StatusCenter card.
-StatusCenter_DecompressCanceled_Header: Canceled extracting "{0}" to "{1}"
+StatusCenter_DecompressCanceled_Header: Cancelled extracting "{0}" to "{1}"
 #Shown in a StatusCenter card.
-StatusCenter_DecompressCanceled_SubHeader: Canceled extracting "{0}" from "{1}" to "{2}"
+StatusCenter_DecompressCanceled_SubHeader: Cancelled extracting "{0}" from "{1}" to "{2}"
 #Shown in a StatusCenter card.
 StatusCenter_DecompressComplete_Header: Extracted "{0}" to "{1}"
 #Shown in a StatusCenter card.
@@ -1319,9 +1319,9 @@ StatusCenter_DeleteFailed_SubHeader: Failed to delete {0} item(s) from "{1}"
 #Shown in a StatusCenter card.
 StatusCenter_DeleteInProgress_Header: Deleting {0} item(s) from "{1}"
 #Shown in a StatusCenter card.
-StatusCenter_MoveCanceled_Header: Canceled moving {0} item(s) to "{1}"
+StatusCenter_MoveCanceled_Header: Cancelled moving {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
-StatusCenter_MoveCanceled_SubHeader: Canceled moving {0} item(s) from "{1}" to "{2}"
+StatusCenter_MoveCanceled_SubHeader: Cancelled moving {0} item(s) from "{1}" to "{2}"
 #Shown in a StatusCenter card.
 StatusCenter_MoveComplete_Header: Moved {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
@@ -1335,7 +1335,7 @@ StatusCenter_MoveFailed_Header: Error moving {0} item(s) to "{1}"
 #Shown in a StatusCenter card.
 StatusCenter_MoveFailed_SubHeader: Failed to move {0} item(s) from "{1}" to "{2}"
 #Shown in a StatusCenter card.
-StatusCenter_EmptyRecycleBinCancel_Header: Canceled emptying Recycle Bin
+StatusCenter_EmptyRecycleBinCancel_Header: Cancelled emptying Recycle Bin
 #Shown in a StatusCenter card.
 StatusCenter_EmptyRecycleBinComplete_Header: Emptied Recycle Bin
 #Shown in a StatusCenter card.
@@ -1359,7 +1359,7 @@ ConnectedToGitHub: Connected to GitHub
 Logout: Logout
 ConnectToGitHub: Connect to GitHub
 Login: Login
-ErrorApplyingTagContent: Tags are currently only compatible on drives formatted as NTFS.
+ErrorApplyingTagContent: Tags are currently only compatible with drives formatted as NTFS.
 ErrorApplyingTagTitle: There was an error applying this tag
 DecompressArchiveHereSmartDescription: Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive
 ExtractHereSmart: Extract here (Smart)

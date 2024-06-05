@@ -1,328 +1,328 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: नई विंडो
+CopyPath: पथ की प्रतिलिपि बनाएँ
+CopyPathWithQuotes:
+Browse: ब्राउज़
+Size: आकार
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'बनाया गया:'
+Path: मार्ग
+SizeLabel: माप
+SizeOnDiskLabel: डिस्क पर माप
+UncompressedSize: 'असम्पीडित परिमाण:'
+ErrorDialogThisActionCannotBeDone: यह कार्रवाई नहीं की जा सकती
+ErrorDialogTheDestinationFolder: गंतव्य फ़ोल्डर
+ErrorDialogIsASubfolder: स्रोत फ़ोल्डर का एक उपफोल्डर है
+Skip: छोड़ें
+SelectAll: सभी चुनें
+InvertSelection: उलट चयन
+ClearSelection: चयन मिटाएं
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'संशोधित:'
+Accessed: 'एक्सेस किया गया:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: सभी वस्तुओं को साफ़ करें
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: नेविगेट करने के लिए एक पथ दर्ज करें या कमांड पैलेट खोलने के लिए ">" टाइप करें
+Search: खोज
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: आपके द्वारा पहले एक्सेस की गई फ़ाइलें और फ़ोल्डर यहां दिखाई देंगे
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
+  Text: इस वस्तु को निकालें
+OpenGitHubRepo: गिटहब रिपोजिटरी
+About: बारे में
+OpenSource: खुला स्रोत
+DateFormat: दिनांक स्वरूप
+SettingsAppearanceTheme: थीम
+SettingsFilesAndFoldersShowFileExtensions: ज्ञात फ़ाइल प्रकारों के लिए एक्सटेंशन दिखाएँ
+SettingsFilesAndFoldersShowHiddenItems: छुपी हुई फ़ाइलें और फ़ोल्डर दिखाएँ
+ShowDotFiles: डॉट से शुरू होने वाली फाइल दिखाये
+Appearance: उपस्थिति
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: उन्नत
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: जहां आपने छोड़ा था, वहां जारी रखें
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: एक नया टैब खोलें
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+  Content: एक विशिष्ट पन्ना या पन्ने खोलें
+Desktop: डेस्कटॉप
+Documents: दस्तावेज़
+Downloads: डाउनलोड्स
+Name: नाम
+Ascending: बढ़तेक्रममें
+Paste: पेस्ट
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
-PinFolderToSidebar: Pin to Sidebar
+  Label: नया(N)
+Properties: प्रापर्टी
+Open: खोलें
+OpenInNewTab: नए टैब में खोलें
+OpenInNewWindow: नई विंडो में खोलें
+Share: साझा
+Cut: कट
+Delete: हटायें
+PinFolderToSidebar: साइडबार पर पिन करें
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: Files UWP में आपका स्वागत है
+  PrimaryButtonText: अनुमति दें
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+  Text: शुरू करने के लिए, आपको अपनी फ़ाइलों को प्रदर्शित करने की अनुमति हमें प्रदान करनी होगी। यह एक सेटिंग पेज खोलेगा जहां आप हमें यह अनुमति दे सकते हैं। एक बार पूरा होने के बाद आपको ऐप को फिर से खोलना होगा।
+Display: दिखाएँ
+EnterAnItemName: वस्तु का नाम दर्ज करें
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: नाम निर्धारित करें
+LightTheme: प्रकाश
+DarkTheme: अंधेरा
+Application: एप्लिकेसन्
+SystemTimeStyle: सिस्टम
+NewFolder: नया फोल्डर
+NewFile: नई फ़ाइल
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
-Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
+  Text: यह फोल्डर खाली है।
+Back: वापस (Alt + Left Arrow)
+Forward: आगे (Alt + Right Arrow)
+Up: ऊपर (Alt + Up Arrow)
+Refresh: रिफ्रेश
+ItemAlreadyExistsDialogContent: इस नाम के साथ एक आइटम पहले से ही इस निर्देशिका में मौजूद है ।
+ItemAlreadyExistsDialogSecondaryButtonText: मौजूदा वस्तु को बदलें
+ItemAlreadyExistsDialogTitle: वस्तु पहले से मौजूद है
+SetAsLockscreen: लॉकस्क्रीन पृष्ठभूमि के रूप में सेट करें
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: हम इस आइटम को हटाने में सक्षम नहीं हुए
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
-  Title: Drive unplugged
+  Text: कृपया इस आइटम को एक्सेस करने के लिए आवश्यक ड्राइव डालें।
+  Title: ड्राइव निकाल दिया गया है
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
-CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+  Text: आप जिस फ़ाइल तक पहुंचने का प्रयास कर रहे हैं, उसे स्थानांतरित या हटा दिया गया हो सकता है।
+  Title: फाइल नहीं मिली
+CannotAccessPropertiesTitle: इस फ़ाइल के लिए गुण नहीं खोले जा सकते
+CannotAccessPropertiesContent: आप जिस फ़ाइल तक पहुंचने का प्रयास कर रहे हैं, उसे स्थानांतरित या हटा दिया गया हो सकता है।
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: आप जिस फ़ोल्डर तक पहुंचने का प्रयास कर रहे हैं, उसे स्थानांतरित या हटा दिया गया हो सकता है।
+  Title: क्या आपने इस फ़ोल्डर को हटा दिया?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: फ़ाइल जिसे आप एक्सेस करने की कोशिश कर रहे हैं वो वर्तमान में {0} द्वारा उपयोग कि जा रही है
 FileInUseDialog:
-  Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
-Layout: Layout
+  Text: फ़ाइल जिसे आप एक्सेस करने की कोशिश कर रहे हैं वो वर्तमान में एक और एप्लीकेशन द्वारा उपयोग कि जा रही है
+  Title: फ़ाइल अभी उपयोग में है
+Layout: लेआउट
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: केवल पढ़ने के लिए
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
-SendTo: Send to
+Now: अभी
+ErrorDialogUnsupportedOperation: अनुरोधित ऑपरेशन का समर्थन नहीं किया जाता है
+DriveFreeSpaceAndCapacity: '{1} से {0} खाली'
+SendTo: भेजें
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'आइटम नाम में निम्नलिखित वर्ण नहीं होने चाहिए: \/:*? " < > |'
 InvalidFilename:
-  Text: The item name specified is invalid
+  Text: निर्दिष्ट नाम अमान्य है
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
 SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
 Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
-KiloByteSymbol: KB
-MegaByteSymbol: MB
-GigaByteSymbol: GB
-TeraByteSymbol: TB
-PetaByteSymbol: PB
-ByteSymbol: B
+Yes: ठीक है
+ConfirmEmptyBinDialogContent: क्या आप सुनिश्चित हैं कि आप सभी वस्तुओं को हटाना चाहते हैं?
+ConfirmEmptyBinDialogTitle: रीसायकल बिन खाली करें
+ItemSizeBytes: बाइट्स
+KiloByteSymbol: केबी
+MegaByteSymbol: एमबी
+GigaByteSymbol: जीबी
+TeraByteSymbol: टीबी
+PetaByteSymbol: पी बी
+ByteSymbol: बी
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
-  Text: Run as another user
-PropertiesDriveItemTypesEquals: All type of {0}
-PropertiesDriveItemTypeDifferent: Different types
-PropertiesCombinedItemLocation: All in {0}
+  Text: किसी अन्य उपयोगकर्ता के रूप में भागो
+PropertiesDriveItemTypesEquals: सभी प्रकार {0} के
+PropertiesDriveItemTypeDifferent: विभिन्न प्रकार
+PropertiesCombinedItemLocation: सभी {0} में
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'प्रयुक्त जगह:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'खाली जगह:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: 'क्षमता:'
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
-TabStripDragAndDropUIOverrideCaption: Move tab here
+  Text: 'फाइल सिस्टम:'
+JumpListRecentGroupHeader: हाल में
+TabStripDragAndDropUIOverrideCaption: टैब यहां लाएं
 syncStatusColumn:
-  Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
-SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
-CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+  Header: स्थिति
+SettingsPreferencesSystemDefaultLanguageOption: विन्डोज़ डिफ़ॉल्ट
+NavigationToolbarVisiblePathNoResults: कोई परिणाम नहीं
+SubDirectoryAccessDenied: प्रदर्शित करने के लिए किसी भी आइटम तक नहीं पहुंच सकते
+MoveToFolderCaptionText: '{0} पर ले जाएँ'
+CopyToFolderCaptionText: '{0} की प्रतिलिपि बनाएँ'
+CreateShortcut: शॉर्टकट बनाएं
+OpenFileLocation: फाइल स्थान खोलें
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: तर्क
 PropertiesShortcutItemPath:
-  Text: 'Destination:'
+  Text: 'मंजिल:'
 PropertiesShortcutItemType:
-  Text: 'Shortcut type:'
-PropertiesShortcutTypeLink: Web link
-General: General
-Shortcut: Shortcut
-ShortcutWebLinkFileType: Internet shortcut
-ShortcutCreateNewSuffix: '{0} - shortcut'
-ExceptionNotificationBody: Files ran into a problem that the developers didn't prepare for yet.
-ExceptionNotificationHeader: Something went wrong!
-ExceptionNotificationReportButton: Report this issue
-InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
-InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
-ShareDialogMultipleItemsDescription: The items you've selected will be shared
-ShareDialogSingleItemDescription: The selected item will be shared
-ShareDialogTitle: Sharing {0}
-ShareDialogTitleMultipleItems: Sharing {0} {1}
+  Text: शॉर्टकट प्रकार
+PropertiesShortcutTypeLink: वेब लिंक
+General: सामान्य
+Shortcut: शॉर्टकट
+ShortcutWebLinkFileType: इंटरनेट शॉर्टकट
+ShortcutCreateNewSuffix: '{0} - शॉर्टकट'
+ExceptionNotificationBody: फ़ाइलें एक ऐसी समस्या में फंस गईं जिसके लिए डेवलपररों ने अभी तक तैयारी नहीं की थी
+ExceptionNotificationHeader: कुछ गलत हुआ.
+ExceptionNotificationReportButton: इस समस्या की रिपोर्ट करें
+InvalidItemDialogContent: संदर्भित वस्तु या तो अमान्य है या पहुंच योग्य नहीं है।{0}त्रुटि संदेश:{0}{1}
+InvalidItemDialogTitle: अमान्य आइटम
+SettingsAboutVersionTitle: संस्करण
+ShareDialogFailMessage: अभी साझा करने के लिए कुछ भी नहीं है.
+ShareDialogMultipleItemsDescription: आपके द्वारा चुने गए वस्तुओं साझा किए जाएंगे
+ShareDialogSingleItemDescription: चयनित आइटम साझा किया जाएगा
+ShareDialogTitle: साझाकरण {0}
+ShareDialogTitleMultipleItems: साझाकरण {0} {1}
 RenameError:
   ItemDeleted:
-    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
-    Title: Item no longer exists
+    Text: जिस आइटम का आप नाम बदलने का प्रयास कर रहे हैं वह अब मौजूद नहीं है. कृपया उस आइटम का सही स्थान सत्यापित करें जिसका आपको नाम बदलने की आवश्यकता है.
+    Title: आइटम अब मौजूद नहीं है
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: 'निर्दिष्ट नाम अमान्य था. कृपया इच्छित आइटम नाम जाँचें और पुन: प्रयास करें.'
+    Title: अमान्य आइटम नाम
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
-ShowMoreOptions: Show more options
+    Text: 'निर्दिष्ट आइटम नाम की लंबाई अधिकतम सीमा से अधिक है. कृपया इच्छित नाम जाँचें और पुन: प्रयास करें.'
+    Title: आइटम का नाम बहुत लंबा था
+ShowMoreOptions: अधिक विकल्प दिखाएँ
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
-SponsorUsOnGitHub: Sponsor us on GitHub
+  Text: इन सेटिंग्स को लागू करने के लिए एप्लिकेशन को पुनरारंभ करने की आवश्यकता है, क्या आप ऐप को पुनरारंभ करना चाहेंगे?
+SponsorUsOnGitHub: GitHub पर हमें प्रायोजित करें
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: हम यह आइटम बनाने में सक्षम नहीं थे
+AccessDenied: प्रवेश निषेध
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: के रूप में सेट करें
+Cancel: रद्द करें
 AddDialog:
-  Title: Create a new item
+  Title: एक नया आइटम बनाएं
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: नीचे इस नए आइटम के लिए एक प्रकार चुनें
+File: फ़ाइल
+AddDialogListFileSubHeader: एक खाली फ़ाइल बनाए
+Folder: फ़ोल्डर
+AddDialogListFolderSubHeader: एक खाली फ़ोल्डर बनाए
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
-Language: Language
-SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+    Name: निर्देशिका को ताज़ा करें
+Language: भाषा
+SettingsContextMenuOverflow: शेल एक्सटेंशन को उप मेनू में ले जाएं
+ShowConfirmationWhenDeletingItems: आइटम हटाते समय पुष्टिकरण संवाद दिखाएँ
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: कुछ संपत्तियों को सहेजने में समस्या थी.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
+  Title: त्रुटि
+  SecondaryButtonText: फिर भी बंद करें
+PropertyRatingText: रेटिंग
+PropertyParsingPath: मद पथ
+PropertyItemTypeText: आइटम प्रकार
+PropertyTitle: शीर्षक
+PropertySubject: subject|विषय
+PropertyComment: टिप्पणी
+PropertyCopyright: कॉपीराइट
+PropertyDateModified: संशोधन दिनांक
+PropertyBitDepth: बिट गहराई
+PropertyDimensions: आयाम
+PropertyHorizontalSize: क्षैतिज आकार
+PropertyVerticalSize: अनुलंब आकार
+PropertyHorizontalResolution: क्षैतिज रिज़ॉल्यूशन
+PropertyVerticalResolution: लंबवत रिज़ॉल्यूशन
 PropertyColorSpace: Color Space
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
+PropertyColorSpace_Value65535: अनिर्दिष्ट.
 PropertyLongitudeDecimal: Longitude Decimal
 PropertyLatitudeDecimal: Latitude Decimal
 PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
+PropertyDateTaken: लेने का दिनांक
 PropertyCameraManufacturer: Camera Manufacturer
 PropertyCameraModel: Camera Model
 PropertyExposureTime: Exposure Time
 PropertyFocalLength: Focal Length
-PropertyAperture: Aperture
-PropertyPeopleNames: People Names
+PropertyAperture: एपेर्चर
+PropertyPeopleNames: लोगों के नाम
 PropertyChannelCount: Channel Count
-PropertyFormat: Format
-PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
-PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
-Conductor: Conductor
-PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
+PropertyFormat: स्वरूपित करें
+PropertySampleRate: नमूना दर
+PropertyAlbumArtist: 'एल्बम कलाकार:'
+PropertyAlbumTitle: एल्बम शीर्षक
+Artist: 'कलाकार:'
+PropertyBeatsPerMinute: ताल प्रति मिनट
+PropertyComposer: कंपोज़र
+Conductor: संचालक
+PropertyDiscNumber: डिस्क संख्या
+PropertyGenre: शैली
+PropertyTrackNumber: ट्रैक संख्या
+PropertyDuration: अवधि
 PropertyFrameCount: Frame Count
 PropertyProtectionType: Protection Type
 PropertyAuthorUrl: Author Url
 PropertyContentDistributor: Content Distributor
 PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
+PropertySeriesName: श्रृंखला नाम
 PropertySeasonNumber: Season Number
 PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
+PropertyProducer: निर्माता
 PropertyPromotionUrl: Promotion Url
 PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
+PropertyPublisher: प्रकाशक
 PropertyThumbnailLargePath: Thumbnail Large Path
 PropertyThumbnailLargeUri: Thumbnail Large Uri
 PropertyThumbnailSmallPath: Thumbnail Small Path
 PropertyThumbnailSmallUri: Thumbnail Small Uri
 PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
-PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
+PropertyWriter: लेखक
+PropertyYear: वर्ष
+PropertyContributor: योगदानकर्ता
+PropertyLastAuthor: पिछला लेखक
+PropertyRevisionNumber: संशोधन क्रमांक
+PropertyVersion: संस्करण
+PropertyDateCreated: निर्माण दिनांक
+PropertyTotalEditingTime: 'कुल संपादन समय:'
+PropertyTemplate: टेम्पलेट
+PropertyWordCount: शब्द संख्या
 PropertyCharacterCount: Character Count
 PropertyLineCount: Line Count
 PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
+PropertyPageCount: पृष्ठों की संख्या
 PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
+PropertyFrameRate: फ़्रेम दर
 PropertyEncodingBitrate: Encoding Bitrate
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
-PropertySectionGPS: GPS
-PropertySectionMedia: Media
-PropertySectionAudio: Audio
-PropertySectionMusic: Music
-PropertySectionVideo: Video
-Document: Document
-Address: Address
+Compression: संकुचन
+PropertyFrameWidth: फ़्रेम की चौड़ाई
+PropertyFrameHeight: फ़्रेम की ऊँचाई
+PropertyOrientation: ओरिएंटेशन
+PropertySectionCore: कोर
+PropertySectionImage: छवि
+PropertySectionPhoto: फ़ोटो
+PropertySectionGPS: जीपीएस
+PropertySectionMedia: मीडिया
+PropertySectionAudio: ऑडियो
+PropertySectionMusic: संगीत
+PropertySectionVideo: वीडियो
+Document: दस्तावेज़
+Address: पता
 SelectionOptions: Selection options
 NavToolbarSelectionOptions:
-  Label: Select
+  Label: चयन करें
 RecycleBinItemAutomation: Recycle bin item
 ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
+Drives: 'ड्राइव:'
+PinToSidebarByDraggingCaptionText: यहाँ लाएँ
 EjectNotificationHeader: Safe to remove hardware
 EjectNotificationBody: The device can now be safely removed from the computer.
 EjectNotificationErrorDialogHeader: Problem Ejecting Device
 EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
-Eject: Eject
+Eject: बाहर निकालें
 DuplicateTab: Duplicate tab
 HorizontalMultitaskingControlMoveTabToNewWindow:
   Text: Move tab to new window
@@ -335,16 +335,16 @@ OngoingTasksTeachingTip:
   Subtitle: Check the status of file operations here
   Title: Status center
 SearchPagePathBoxOverrideText: Search results in {1} for {0}
-Details: Details
-No: 'No'
+Details: विवरण
+No: नहीं
 ShowProtectedSystemFiles: Show protected system files
 SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
 SettingsContextMenu:
   Text: Customize the right click context menu
 OriginalPath: Original path
-Add: Add
-Edit: Edit
-Remove: Remove
+Add: जोड़ें
+Edit: संपादित करें
+Remove: निकालें
 SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
 ShowOpenInNewPane: Show option to open folders in a new pane
 ShowCopyPath: Show option to copy path
@@ -356,26 +356,26 @@ OpenInNewPane: Open in new pane
 FilesAndFolders: Files & folders
 NavToolbarDetails:
   ToolTipService:
-    ToolTip: Details (Ctrl+Shift+1)
+    ToolTip: विवरण दृश्‍य
 NavToolbarTiles:
   ToolTipService:
     ToolTip: Tiles (Ctrl+Shift+2)
-DateDeleted: Date deleted
+DateDeleted: हटाए जाने की तिथि
 SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
+Confirm: पुष्टि करें
 DesiredName: Desired name
 TogglePreviewPane: Toggle the preview pane
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+DetailsPanePreviewNotAvaliableText: कोई पूर्वावलोकन उपलब्ध नहीं
+PropertyItemName: वस्तु का नाम
 UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+Network: नेटवर्क
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: फ़ाइल विवरण
 PreviewPaneFilePreview:
   AutomationProperties:
     Name: File preview
@@ -383,37 +383,37 @@ SelectedFilePreviewPane:
   AutomationProperties:
     Name: Selected file preview pane
 Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
+CloudDriveSyncStatus_Online: ऑनलाइन होने पर उपलब्ध
 Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
+CloudDriveSyncStatus_Offline: ऑफ़लाइन उपलब्‍ध
 CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
+CloudDriveSyncStatus_Sync: सिंक्रनाइज़ हो रहा है
 CloudDriveSyncStatus_Excluded: Excluded from sync
 ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+CloudDriveSyncStatus_Unknown: अज्ञात
 RenameFileDialog:
   Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
 DriveTypeCDRom: CD ROM Drive
 DriveTypeCloudDrive: Cloud Drive
 DriveTypeFixed: Fixed Disk Drive
-DriveTypeFloppyDisk: Floppy Disk Drive
-DriveTypeNetwork: Network Drive
+DriveTypeFloppyDisk: फ़्लॉपी डिस्क ड्राइव
+DriveTypeNetwork: नेटवर्क ड्राइव
 DriveTypeNoRootDirectory: Unmounted Drive
 DriveTypeRam: RAM Disk Drive
 DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
+DriveTypeUnknown: अज्ञात
 DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+DateCreated: निर्माण दिनांक
+MoreOptions: अधिक विकल्प
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
-  Text: Map network drive
+  Text: नेटवर्क ड्राइव मैप करें
 Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
-PropertyItemTarget: Target
-Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+SidebarLibraries: लायब्रेरीज़
+NoItemSelected: कोई आइटम चयनित नहीं
+PropertyItemTarget: लक्ष्य
+Arguments: तर्क
+Default: डिफ़ॉल्ट
+PropertyItemCount: आइटम संख्या
 ElevateConfirmDialog:
   Title: This action requires administrator rights
   Content: Would you like to continue as administrator?
@@ -422,38 +422,38 @@ PinItemToStart:
   Text: Pin to the Start Menu
 UnpinItemFromStart:
   Text: Unpin from the Start Menu
-Library: Library
+Library: लायब्रेरी
 LibraryLocations:
-  Text: 'Locations:'
+  Text: स्थान
 SetAsDefaultSavePath: Set as default save path
 LibraryNoLocations:
   Text: No locations
 ErrorInputEmpty: Input field cannot be empty!
 ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
+ErrorNameInputRestricted: इस नाम का उपयोग अनुमति नहीं है!
 CreateLibraryErrorAlreadyExists: Library with the same name already exists!
 OpenStorageSense: Open Storage Sense
-Copy: Copy
+Copy: प्रतिलिपि बनाएँ
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: ले जाएँ
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
-ConflictingItemsDialogPrimaryButtonText: Continue
+ConflictingItemsDialogPrimaryButtonText: ज़ारी रखें
 ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
 ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
+  Content: स्थायी रूप से हटाएँ
 PropertyISO: ISO speed
 ReplaceExisting: Replace existing
 GenerateNewName: Generate new name
 CreateFolderWithSelection: Create folder with selection
-ItemType: 'Type:'
-ToolTipDescriptionDate: 'Date modified:'
-OpenWith: Open with
+ItemType: प्रकार
+ToolTipDescriptionDate: संशोधन दिनांक
+OpenWith: इसमें खोलें
 FileBrowserThumbnailIconColumnGrid:
   AutomationProperties:
     Name: File icon
@@ -466,41 +466,41 @@ DetailsViewHeaderFlyout_ShowDateModified:
 DetailsViewHeaderFlyout_ShowDateDeleted:
   Text: Date deleted column
 Sort: Sort
-DateModifiedLowerCase: Date modified
+DateModifiedLowerCase: संशोधन दिनांक
 OriginalFolder: Original folder
-Descending: Descending
-ItemSizeText_Huge: Huge
+Descending: अवरोही
+ItemSizeText_Huge: बहुत बड़ा
 ItemSizeText_VeryLarge: Very large
-ItemSizeText_Large: Large
-ItemSizeText_Medium: Medium
-ItemSizeText_Small: Small
-ItemSizeText_Tiny: Tiny
+ItemSizeText_Large: बड़ा
+ItemSizeText_Medium: मध्यम
+ItemSizeText_Small: छोटा
+ItemSizeText_Tiny: बहुत छोटा
 Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
+Today: आज
+Yesterday: बीता दिन
+EarlierThisWeek: इस सप्‍ताह के प्रारंभ में
+LastWeek: पिछला सप्ताह
 EarlierThisMonth: Earlier this month
-LastMonth: Last month
+LastMonth: पिछला महीना
 EarlierThisYear: Earlier this year
 LastYear: Last year
 YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
+GroupItemsCount_Singular: '{0} आइटम'
+GroupItemsCount_Plural: '{0} आइटम'
+ReopenClosedTab: बंद टैब को पुनः खोलें
 Rename: Rename
 Privacy: Privacy
 TheRecycleBin: the Recycle Bin
 Canceling: Canceling
-Clear: Clear
+Clear: साफ़ करें
 Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
+SyncStatus: सिंक्रनाइज़ेशन स्थिति
+Security: सुरक्षा
+AdvancedPermissions: उन्नत अनुमतियाँ
+Allow: अनुमति दें
 Deny: Deny
 SecurityFullControlLabel:
-  Text: Full control
+  Text: पूर्ण नियंत्रण
 SecurityListDirectoryLabel:
   Text: List directory contents
 Modify: Modify
@@ -508,11 +508,11 @@ SecurityPermissionsHeaderText: Permissions for {0}
 SecurityReadAndExecuteLabel:
   Text: Read and execute
 SecurityReadLabel:
-  Text: Read
+  Text: पढ़ें
 SecurityUsersGroupLabel:
   Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+Write: लिखें
+SecurityUnknownAccount: अज्ञात खाता
 SecurityCannotReadProperties:
   Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
 SecurityOwnerLabel:
@@ -524,20 +524,20 @@ DecompressArchiveDialogOpenDestinationWhenComplete:
   Content: Open destination folder when complete
 BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: नई लायब्रेरी बनाएँ.
 SideBarRestoreLibraries:
-  Text: Restore default libraries
+  Text: डिफ़ॉल्ट लायब्रेरीज़ पुनर्स्थापित करें
 DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
 DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+PropertyFileOwner: स्वामी
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
+  Text: विशेष
+Access: पहुँच
 SecurityAdvancedAppliesTo: Applies to
 Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
+SecurityAdvancedFlagsFilesLabel: फ़ाइलें
 SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
+SecurityAdvancedFlagsSubfoldersLabel: सबफ़ोल्डर
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
@@ -598,13 +598,13 @@ SecurityAdvancedReplaceChildPermissions2:
   ToolTipService:
     ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
 NavigationToolbarClosePane:
-  Label: Close pane
+  Label: फलक बंद करें
 EnterCompactOverlay: Enter compact overlay
 ExitCompactOverlay: Exit compact overlay
 PropertyFileDescription: File description
-PropertyCompany: Company
-PropertyLanguage: Language
-PropertyTrademarks: Trademarks
+PropertyCompany: कंपनी
+PropertyLanguage: भाषा
+PropertyTrademarks: ट्रेडमार्क्स
 PropertyFileVersion: File version
 PreviewPaneLoadCloudItemButton:
   Text: Load full preview
@@ -615,12 +615,12 @@ PropertyUncompressedSize: Uncompressed size
 WSL: WSL
 SideBarHideSectionFromSideBar:
   Text: Hide {0} section
-AddFile: Add file
-ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
-Close: Close
-ConsentDialogPrimaryButtonText: Update
-Home: Home
+AddFile: फ़ाइल से जोड़े
+ConsentDialogTitle: अद्यतन उपलब्ध
+ConsentDialogContent: स्थापित करने के लिए अद्यतन तैयार हैं
+Close: बंद करें
+ConsentDialogPrimaryButtonText: अद्यतन करें
+Home: मुख पृष्ठ
 BaseLayoutContextFlyoutDetails:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+1
 BaseLayoutContextFlyoutTiles:
@@ -633,26 +633,26 @@ ExtractingCompleteText: Extracting complete!
 BaseLayoutItemContextFlyoutOpenParentFolder:
   Text: Open parent folder
 Unknown: Unknown
-EditTags: Edit tags
+EditTags: टैग्स संपादित करें
 PropertyPartOfSet: Part of set
 InsertDiscDialog:
   OpenDriveButton: Open drive
   Text: Please insert a disc into drive {0}
-  Title: Insert a disc
+  Title: कोई डिस्क डालें
 OK: OK
 AskCredentialDialog:
   Title: Credential required
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: अनाम
 CredentialDialogDescription:
   Text: 'Provide your credential:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
-NoSearchResultsFound: No items found
+  PlaceholderText: उपयोगकर्ता नाम
+NoSearchResultsFound: कोई आइटम नहीं मिला
 OpenLogLocation: Open log location
 LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
-Tiles: Tiles
+Columns: स्तंभ
+Tiles: टाइल्स
 OpenFoldersInNewTab: Open folders in new tab
 StatusCenter: Status center
 DetailsViewHeaderFlyout_ShowDateCreated:
@@ -665,25 +665,25 @@ SubmitFeatureRequest: Submit feature request
 SubmitBugReport: Submit bug report
 SettingsSetAsDefaultFileManager: Set Files as the default file manager
 SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
+Tag: टैग
 SettingsOpenItemsWithOneClick: Open items with a single click
 FolderPath: Folder path
 ExportSettings: Export settings
 ImportSettings: Import settings
 SettingsImportErrorDescription: Couldn't import settings. The settings file is corrupted.
 SettingsImportErrorTitle: Error importing settings
-EmptyRecycleBin: Empty Recycle Bin
-Sidebar: Sidebar
+EmptyRecycleBin: रीसायकल बिन खाली करें
+Sidebar: साइडबार
 ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
-RestoreDefault: Restore default
+Customization: अनुकूलन
+RestoreDefault: डिफ़ॉल्ट को पुनर्स्थापित करें
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
 StartupSettings: Startup settings
-Compatibility: Compatibility
-None: None
+Compatibility: संगतता
+None: कोई नहीं
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: सिस्टम
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,7 +692,7 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: प्रशासक के रूप में भागो
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
@@ -706,42 +706,42 @@ FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
 CalculateFolderSizes: Calculate folder sizes
 RecentFiles: Recent files
 SettingsOpenInLogin: Open Files on Windows startup
-Attributes: Attributes
-Hidden: Hidden
-MoreDetails: More details
-ReadOnly: Read only
+Attributes: एट्रिब्यूट
+Hidden: छुपे हुए
+MoreDetails: अधिक विवरण
+ReadOnly: केवल पढ़ने के लिए
 CleanupDrive: Cleanup your drive contents
-Type: Type
-Bytes: Bytes
-Extract: Extract
+Type: प्रकार
+Bytes: बाइट्स
+Extract: निकाल
 ExtractFiles: Extract files
 ExtractHere: Extract here
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
 ExtractToChildFolder: Extract to {0}
-RunScript: Run script
+RunScript: स्क्रिप्ट चलाएँ
 RunWithPowerShell: Run with PowerShell
 ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
-RotateLeft: Rotate left
-RotateRight: Rotate right
-Install: Install
+RotateLeft: बाएँ घुमाएँ
+RotateRight: दाएँ घुमाएँ
+Install: स्थापित करें
 CloseTabsToTheLeft: Close tabs to the left
-CloseTabsToTheRight: Close tabs to the right
-CloseOtherTabs: Close other tabs
-Music: Music
-Pictures: Pictures
+CloseTabsToTheRight: दाईं ओर टैब को बंद करें
+CloseOtherTabs: अन्य टैब बंद करें
+Music: संगीत
+Pictures: चित्र
 UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
+FileTags: टैग्स
+Universal: यूनिवर्सल
 DateFormatSample: 'ex: {0}, {1}'
-SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
+SettingsFilesAndFoldersShowThumbnails: थंबनेल दिखाएँ
+Retry: पुनः प्रयास करें
 ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
 HiddenItems: Hidden items
 Custom: Custom
 SetAsSlideshow: Set as desktop slideshow
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Adaptive (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
 ShowAlternateStreams: Show alternate data streams
@@ -749,7 +749,7 @@ Behaviors: Behaviors
 ReviewFiles: Review Files
 ReviewFilesContent: Would you like to review Files?
 SetAsBackgroundFlyout: Set as background
-SetAsBackground: Set as desktop background
+SetAsBackground: डेस्कटॉप पृष्ठभूमि के रूप में सेट करें
 SetAsDefault: Set as default
 DateColumn: Date column
 DateCreatedColumn: Date created column
@@ -774,7 +774,7 @@ ArchivePassword: Archive password
 ExtractToPath: Path
 SortingAndGrouping: Sorting and grouping
 CreateArchive: Create archive
-Create: Create
+Create: बनाएँ
 CreateNamedArchive: Create {0}
 EnterName: Enter a name
 CompressionLevel: Compression level
@@ -783,7 +783,7 @@ CompressionLevelHigh: High
 CompressionLevelNormal: Normal
 CompressionLevelLow: Low
 CompressionLevelFast: Fast
-CompressionLevelNone: None
+CompressionLevelNone: कोई नहीं
 SplittingSize: Splitting size
 Do not split: Do not split
 CD: CD
@@ -791,12 +791,12 @@ DVD: DVD
 FAT: FAT
 Bluray: Blu-ray
 Encryption: Encryption
-Password: Password
-Format: Format
+Password: पासवर्ड(W)
+Format: स्वरूपित करें
 DetailsViewHeaderFlyout_ShowSyncStatus:
   Text: Sync status column
 GroupBy: Group by
-SortBy: Sort by
+SortBy: द्वारा सॉर्ट करें
 GroupInDescendingOrder: Group in descending order
 SortInDescendingOrder: Sort in descending order
 NewShortcutDialogTitle: Create a new shortcut
@@ -809,7 +809,7 @@ WhatsNew: What's new
 CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
 CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
 ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
+Settings: सेटिंग्स
 DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
 ViewMore: View more
 ShowEditTagsMenu: Show edit tags flyout
@@ -861,7 +861,7 @@ IncreaseSize: Increase size
 ToggleSortDirection: Toggle sort direction
 InvalidTagNameWarning: Invalid name
 TagNameRules: Name must not be empty or start or end with a period.
-Videos: Videos
+Videos: वीडियो
 LaunchPreviewPopup: Launch preview popup
 ToggleCompactOverlay: Toggle compact overlay
 OpenHelpDescription: Open online help page in browser
@@ -884,7 +884,7 @@ DeleteItemDescription: Delete item(s)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: रीसायकल बिन खाली करें
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,9 +1013,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: ऊपर (Alt + Up Arrow)
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Home: Home
+  Home: मुख पृष्ठ
   #Key name for hotkeys in menus. Use abbreviation if possible.
   End: End
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: साफ़ करें
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,9 +1057,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: खोज
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: पसंदीदा
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: वर्ष
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: वस्तुओं
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1387,9 +1387,9 @@ TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
 #Used to describe layout sizes
-Small: Small
+Small: छोटा
 #Used to describe layout sizes
-Medium: Medium
+Medium: मध्यम
 #Used to describe layout sizes
 Medium+: Medium +
 #Used to describe layout sizes
@@ -1401,7 +1401,7 @@ Medium++++: Medium ++++
 #Used to describe layout sizes
 Medium+++++: Medium +++++
 #Used to describe layout sizes
-Large: Large
+Large: बड़ा
 #Used to describe layout sizes
 Large+: Large +
 #Used to describe layout sizes

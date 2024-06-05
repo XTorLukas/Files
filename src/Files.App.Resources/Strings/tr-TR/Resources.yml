@@ -1,0 +1,1467 @@
+NewWindow: Yeni pencere
+CopyPath: Yolu kopyala
+CopyPathWithQuotes: Tırnak işaretleriyle yolu kopyala
+Browse: Göz at
+Size: Boyut
+PropertiesCreated:
+  Text: 'Oluşturuldu:'
+Path: Yol
+SizeLabel: 'Boyut:'
+SizeOnDiskLabel: 'Diskteki boyutu:'
+UncompressedSize: 'Sıkıştırılmamış Boyut:'
+ErrorDialogThisActionCannotBeDone: Bu işlem yapılamaz
+ErrorDialogTheDestinationFolder: Hedef klasör
+ErrorDialogIsASubfolder: kaynak klasörün bir alt klasörüdür
+Skip: Atla
+SelectAll: Tümünü Seç
+InvertSelection: Seçimi tersine çevir
+ClearSelection: Seçimi temizle
+PropertiesModified:
+  Text: 'Değiştirme:'
+Accessed: 'Erişim:'
+RecentItemClearAll:
+  Text: Tüm ögeleri temizle
+NavigationToolbarVisiblePath:
+  PlaceholderText: Gidilecek dosya yolunu girin veya komut paletini açmak için ">" yazın
+Search: Ara
+RecentItemDescription:
+  Text: Daha önce eriştiğiniz dosya ve dizinler burada görüntülenir
+RecentItemRemove:
+  Text: Bu ögeyi kaldır
+OpenGitHubRepo: GitHub Reposu
+About: Hakkında
+OpenSource: Açık kaynak
+DateFormat: Tarih biçimi
+SettingsAppearanceTheme: Tema
+SettingsFilesAndFoldersShowFileExtensions: Bilinen dosya türleri için uzantıları göster
+SettingsFilesAndFoldersShowHiddenItems: Gizli dosya ve klasörleri göster
+ShowDotFiles: dot dosyalarını göster
+Appearance: Görünüm
+BackgroundColor: Background color
+Advanced: Gelişmiş
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Kaldığınız yerden devam edin
+SettingsOnStartupOpenANewTab:
+  Content: Yeni sekmede aç
+SettingsOnStartupOpenASpecificPage:
+  Content: Belirli bir sayfayı ya da sayfaları aç
+Desktop: Masaüstü
+Documents: Belgeler
+Downloads: İndirilenler
+Name: Ad
+Ascending: Artan
+Paste: Yapıştır
+BaseLayoutContextFlyoutNew:
+  Label: Yeni
+Properties: Özellikler
+Open: Aç
+OpenInNewTab: Yeni sekmede aç
+OpenInNewWindow: Yeni pencerede aç
+Share: Paylaş
+Cut: Kes
+Delete: Sil
+PinFolderToSidebar: Hızlı Erişime Sabitle
+WelcomeDialog:
+  Title: Files'a hoş geldiniz!
+  PrimaryButtonText: İzin ver
+WelcomeDialogTextBlock:
+  Text: 'Başlamak için uygulamaya dosyalarınızı görüntüleme izni vermelisiniz. Bu aşamada bu izni verebileceğiniz bir Ayarlar sayfası açılacak. Bu adımı tamamladıktan sonra uygulamayı yeniden başlatmalısınız. '
+Display: Görünüm
+EnterAnItemName: Bir öge adı yazın
+RenameDialog:
+  PrimaryButtonText: İsim ayarla
+LightTheme: Açık
+DarkTheme: Koyu
+Application: Uygulama
+SystemTimeStyle: Sistem
+NewFolder: Yeni klasör
+NewFile: Yeni dosya
+EmptyFolder:
+  Text: Bu klasör boş.
+Back: Geri
+Forward: İleri
+Up: Yukarı
+Refresh: Yenile
+ItemAlreadyExistsDialogContent: Bu dizinde aynı adlı bir öge zaten var.
+ItemAlreadyExistsDialogSecondaryButtonText: Var olan ögeyi değiştir
+ItemAlreadyExistsDialogTitle: Öge zaten mevcut
+SetAsLockscreen: Kilit ekranı arka planı olarak ayarla
+SetAsAppBackground: Set as app background
+AccessDeniedDeleteDialog:
+  Text: Bu öge silinemedi
+DriveUnpluggedDialog:
+  Text: Lütfen bu ögeye erişmek için gerekli sürücüyü takın.
+  Title: Sürücü çıkarıldı
+FileNotFoundDialog:
+  Text: Erişmeye çalıştığınız dosya taşınmış ya da silinmiş olabilir.
+  Title: Dosya Bulunamadı
+CannotAccessPropertiesTitle: Bu dosya için özellikler açılamıyor
+CannotAccessPropertiesContent: Erişmeye çalıştığınız dosya taşınmış ya da silinmiş olabilir.
+FolderNotFoundDialog:
+  Text: Erişmeye çalıştığınız klasör taşınmış ya da silinmiş olabilir.
+  Title: Bu klasörü sildiniz mi?
+FileInUseByDialog:
+  Text: Erişmeye çalıştığınız dosya şu anda {0} tarafından kullanılıyor
+FileInUseDialog:
+  Text: Erişmeye çalıştığınız dosya şu anda başka bir uygulama tarafından kullanılıyor
+  Title: Dosya kullanımda
+Layout: Sayfa Düzeni
+PropertiesDialogReadOnly:
+  Text: Salt okunur
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Şimdi
+ErrorDialogUnsupportedOperation: İstenilen işlem desteklenmiyor
+DriveFreeSpaceAndCapacity: '{0} / {1} boş'
+SendTo: Şuraya gönder
+FileNameTeachingTip:
+  Subtitle: 'Öge adında şu karakterler bulunamaz: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Belirtilen isim geçersiz
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {item} other {items}}'
+Yes: Evet
+ConfirmEmptyBinDialogContent: Tüm ögeleri kalıcı olarak silmek istediğinize emin misiniz?
+ConfirmEmptyBinDialogTitle: Geri dönüşüm kutusunu boşalt
+ItemSizeBytes: bayt
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Farklı kullanıcı olarak çalıştır
+PropertiesDriveItemTypesEquals: Tüm {0} türleri
+PropertiesDriveItemTypeDifferent: Farklı türler
+PropertiesCombinedItemLocation: '{0} konumundaki her şey'
+PropertiesDriveUsedSpace:
+  Text: 'Kullanılan alan:'
+PropertiesDriveFreeSpace:
+  Text: 'Boş alan:'
+PropertiesDriveCapacity:
+  Text: 'Kapasite:'
+PropertiesDriveFileSystem:
+  Text: 'Dosya sistemi:'
+JumpListRecentGroupHeader: Son kullanılan
+TabStripDragAndDropUIOverrideCaption: Sekmeyi buraya taşı
+syncStatusColumn:
+  Header: Durum
+SettingsPreferencesSystemDefaultLanguageOption: Windows varsayılanı
+NavigationToolbarVisiblePathNoResults: Sonuç yok
+SubDirectoryAccessDenied: Görüntülenecek herhangi bir ögeye erişilemiyor
+MoveToFolderCaptionText: '{0} içine taşı'
+CopyToFolderCaptionText: '{0} içine kopyala'
+CreateShortcut: Kısayol oluştur
+OpenFileLocation: Dosya konumunu aç
+PropertiesShortcutItemArgs:
+  Text: 'Argümanlar:'
+PropertiesShortcutItemPath:
+  Text: 'Hedef:'
+PropertiesShortcutItemType:
+  Text: 'Kısayol türü:'
+PropertiesShortcutTypeLink: Web bağlantısı
+General: Genel
+Shortcut: Kısayol
+ShortcutWebLinkFileType: İnternet kısayolu
+ShortcutCreateNewSuffix: '{0} - kısayol'
+ExceptionNotificationBody: Files uygulaması, geliştiricilerin karşılaşmadığı bir sorunla karşılaştı.
+ExceptionNotificationHeader: Bir şeyler ters gitti!
+ExceptionNotificationReportButton: Bu sorunu bildirin
+InvalidItemDialogContent: Başvurulan öge geçersiz ya da erişilemiyor.{0}Hata iletisi:{0}{1}
+InvalidItemDialogTitle: Öge geçersiz
+SettingsAboutVersionTitle: 'Sürüm:'
+ShareDialogFailMessage: Şu anda paylaşılacak bir şey yok...
+ShareDialogMultipleItemsDescription: Seçilmiş ögeler paylaşılacak
+ShareDialogSingleItemDescription: Seçilmiş öge paylaşılacak
+ShareDialogTitle: '{0} paylaşılıyor'
+ShareDialogTitleMultipleItems: '{0} {1} paylaşılıyor'
+RenameError:
+  ItemDeleted:
+    Text: Yeniden adlandırmak istediğiniz öge bulunamadı. Lütfen yeniden adlandırmak istediğiniz ögenin konumunu doğrulayın.
+    Title: Öge artık yok
+  NameInvalid:
+    Text: Belirtilen ad geçersiz. Lütfen yeni öge adını denetleyip yeniden deneyin.
+    Title: Öge adı geçersiz
+  TooLong:
+    Text: Belirtilen öge adı olabilecek en uzun ad sınırını aşıyor. Lütfen yeni adı kontrol edip tekrar deneyin.
+    Title: Öge adı çok uzun
+ShowMoreOptions: Diğer seçenekleri göster
+RestartNotificationText:
+  Text: Bu ayarların uygulanabilmesi için uygulamanın yeniden başlatılması gerekiyor, uygulamayı yeniden başlatmak ister misiniz?
+SponsorUsOnGitHub: GitHub üzerinden sponsor olun
+AccessDeniedCreateDialog:
+  Text: Bu öge oluşturulamadı
+AccessDenied: Erişim Engellendi
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Ayarla
+Cancel: İptal
+AddDialog:
+  Title: Yeni öğe oluştur
+AddDialogDescription:
+  Text: Aşağıdan yeni ögenin türünü seçin
+File: Dosya
+AddDialogListFileSubHeader: Boş bir dosya oluşturur
+Folder: Klasör
+AddDialogListFolderSubHeader: Boş bir klasör oluşturur
+NavResfreshButton:
+  AutomationProperties:
+    Name: Dizini yenile
+Language: Dil
+SettingsContextMenuOverflow: Kabuk uzantılarını alt menüye taşı
+ShowConfirmationWhenDeletingItems: Ögeleri silmeden önce onay kutusu göster
+PropertySaveErrorMessage:
+  Text: Bazı özellikler kaydedilirken bir sorun çıktı.
+PropertySaveErrorDialog:
+  Title: Hata
+  SecondaryButtonText: Yine de kapat
+PropertyRatingText: Değerlendirme
+PropertyParsingPath: Öge Yolu
+PropertyItemTypeText: Öge Türü
+PropertyTitle: Başlık
+PropertySubject: Konu
+PropertyComment: Not
+PropertyCopyright: Telif Hakkı
+PropertyDateModified: Değiştirme Tarihi
+PropertyBitDepth: Bit Derinliği
+PropertyDimensions: Boyutlar
+PropertyHorizontalSize: Yatay Boyut
+PropertyVerticalSize: Dikey Boyut
+PropertyHorizontalResolution: Yatay Çözünürlük
+PropertyVerticalResolution: Dikey Çözünürlük
+PropertyColorSpace: Renk Uzayı
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Belirtilmemiş
+PropertyLongitudeDecimal: Ondalık Boylam
+PropertyLatitudeDecimal: Ondalık Enlem
+PropertyAltitude: Yükseklik
+PropertyDateTaken: Çekildiği Tarih
+PropertyCameraManufacturer: Kamera Üreticisi
+PropertyCameraModel: Kamera Modeli
+PropertyExposureTime: Pozlama Süresi
+PropertyFocalLength: Odak Uzaklığı
+PropertyAperture: Diyafram
+PropertyPeopleNames: Kişi Adları
+PropertyChannelCount: Kanal Sayısı
+PropertyFormat: Biçim
+PropertySampleRate: Örnekleme Hızı
+PropertyAlbumArtist: Albüm Sanatçısı
+PropertyAlbumTitle: Albüm Adı
+Artist: Sanatçı
+PropertyBeatsPerMinute: Dakikada Vuruş Sayısı
+PropertyComposer: Besteci
+Conductor: Şef
+PropertyDiscNumber: Disk Numarası
+PropertyGenre: Tür
+PropertyTrackNumber: Parça Numarası
+PropertyDuration: Süre
+PropertyFrameCount: Kare Sayısı
+PropertyProtectionType: Koruma Türü
+PropertyAuthorUrl: Yazar Url'si
+PropertyContentDistributor: İçerik Dağıtıcı
+PropertyDateReleased: Yayınlanma Tarihi
+PropertySeriesName: Dizi Adı
+PropertySeasonNumber: Sezon Numarası
+PropertyEpisodeNumber: Bölüm Numarası
+PropertyProducer: Yapımcı
+PropertyPromotionUrl: Tanıtım Adresi
+PropertyProviderStyle: Sağlayıcı Biçimi
+PropertyPublisher: Yayıncı
+PropertyThumbnailLargePath: Uzun Küçük Resim Yolu
+PropertyThumbnailLargeUri: Uzun Küçük Resim Uri'ı
+PropertyThumbnailSmallPath: Kısa KüçükGörsel Yolu
+PropertyThumbnailSmallUri: Kısa KüçükGörsel Adresi
+PropertyUserWebUrl: Kullanıcı Web Adresi
+PropertyWriter: Yazar
+PropertyYear: Yıl
+PropertyContributor: Katılımcı
+PropertyLastAuthor: Son Yazar
+PropertyRevisionNumber: Düzeltme Numarası
+PropertyVersion: Sürüm
+PropertyDateCreated: Oluşturma Tarihi
+PropertyTotalEditingTime: Toplam Düzenleme Süresi
+PropertyTemplate: Kalıp
+PropertyWordCount: Sözcük Sayısı
+PropertyCharacterCount: Karakter Sayısı
+PropertyLineCount: Satır Sayısı
+PropertyParagraphCount: Paragraf Sayısı
+PropertyPageCount: Sayfa Sayısı
+PropertySlideCount: Slayt Sayısı
+PropertyFrameRate: Kare Hızı
+PropertyEncodingBitrate: Kodlama Bit Hızı
+PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
+PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
+Compression: Sıkıştırma
+PropertyFrameWidth: Kare Genişliği
+PropertyFrameHeight: Kare Yüksekliği
+PropertyOrientation: Oryantasyon
+PropertySectionCore: Çekirdek
+PropertySectionImage: Görsel
+PropertySectionPhoto: Fotoğraf
+PropertySectionGPS: GPS
+PropertySectionMedia: Medya
+PropertySectionAudio: Ses
+PropertySectionMusic: Müzik
+PropertySectionVideo: Video
+Document: Belge
+Address: Adres
+SelectionOptions: Seçim seçenekleri
+NavToolbarSelectionOptions:
+  Label: Seç
+RecycleBinItemAutomation: Geri dönüşüm kutusu ögesi
+ShortcutItemAutomation: Kısayol ögesi
+Drives: Sürücüler
+PinToSidebarByDraggingCaptionText: Buraya taşı
+EjectNotificationHeader: Aygıtı kaldırmak güvenli
+EjectNotificationBody: Bu aygıt artık bilgisayardan güvenle kaldırılabilir.
+EjectNotificationErrorDialogHeader: Aygıt Kaldırılırken Sorun Çıktı
+EjectNotificationErrorDialogBody: Bu aygıt kullanılıyor. Bu aygıtı kullanan uygulama, pencere ya da sekmeyi kapatıp yeniden deneyin.
+Eject: Çıkar
+DuplicateTab: Sekmeyi kopyala
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Sekmeyi yeni pencereye taşı
+NewTab: Yeni sekme
+ClearPropertiesFlyoutText:
+  Text: Bazı özellikler kişisel bilgiler içerebilir.
+ClearPropertiesButton:
+  Content: Tüm Özellikleri Temizle
+OngoingTasksTeachingTip:
+  Subtitle: Dosya işlemlerinin durumunu buradan denetleyin
+  Title: Durum Merkezi
+SearchPagePathBoxOverrideText: '{0} için {1} içindeki arama sonuçları'
+Details: Ayrıntılar
+No: Hayır
+ShowProtectedSystemFiles: Korunan sistem dosyalarını göster
+SyncFolderPreferencesAcrossDirectories: Dizinler arası düzen ve sıralama tercihlerini senkronla
+SettingsContextMenu:
+  Text: Sağ tık menüsünü özelleştir
+OriginalPath: Asıl yol
+Add: Ekle
+Edit: Düzenle
+Remove: Kaldır
+SettingsMultitaskingAlwaysOpenDualPane: Sekmeleri çift bölme modunda aç
+ShowOpenInNewPane: Klasörleri yeni bir bölmede açma seçeneğini göster
+ShowCopyPath: Yolu kopyalama seçeneğini göster
+ShowCreateFolderWithSelection: Seçimle klasör oluşturma seçeneğini göster
+ShowCreateShortcut: Kısayol oluşturma seçeneğini göster
+NavigationToolbarNewPane:
+  Label: Yeni bölme
+OpenInNewPane: Yeni bölmede aç
+FilesAndFolders: Dosyalar & klasörler
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Ayrıntılar Görünümü (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Döşeme Görünümü (Ctrl+Shift+2)
+DateDeleted: Silinme tarihi
+SidebarCloudDrives: Bulut Sürücüleri
+Confirm: Onayla
+DesiredName: İstenilen ad
+TogglePreviewPane: Önizleme bölmesini aç/kapat
+ToggleDetailsPane: Önizleme bölmesini aç/kapat
+ToggleDetailsPaneDescription: Temel dosya özelliklerini görüntülemek için ayrıntılar bölmesini açın
+ToggleInfoPane: Bilgi bölmesini aç/kapat
+ToggleInfoPaneDescription: Ayrıntı/önizleme bölmelerini görüntülemek için bilgi bölmesini açın
+DetailsPanePreviewNotAvaliableText: Ön izleme yok
+PropertyItemName: Öge Adı
+UnpinFolderFromSidebar: Kenar Çubuğundan Sabitlemeyi Kaldır
+Network: Ağ
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Dosya ayrıntıları
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Dosya ön izlemesi
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Seçilmiş dosya ön izleme panosu
+Feedback: Geri bildirim
+CloudDriveSyncStatus_Online: Çevrimiçiyken Kullanılabilir
+Documentation: Dökümantasyon
+CloudDriveSyncStatus_Offline: Çevrimdışı kullanılabilir
+CloudDriveSyncStatus_PartialOffline: Çevrimdışı kısmen kullanılabilir
+CloudDriveSyncStatus_Sync: Senkronize ediliyor
+CloudDriveSyncStatus_Excluded: Senkronizasyondan hariç tutuldu
+ItemSizeNotCalculated: Hesaplanmamış
+CloudDriveSyncStatus_Unknown: Bilinmiyor
+RenameFileDialog:
+  Text: Uzantısı değiştirilen dosyalar kullanılamaz hale gelebilir. Değiştirmek istediğinden emin misin?
+DriveTypeCDRom: CD ROM Sürücüsü
+DriveTypeCloudDrive: Bulut Sürücüsü
+DriveTypeFixed: Sabit Disk Sürücüsü
+DriveTypeFloppyDisk: Disket Sürücüsü
+DriveTypeNetwork: Ağ Sürücüsü
+DriveTypeNoRootDirectory: Takılmamış Sürücü
+DriveTypeRam: RAM Disk Sürücüsü
+DriveTypeRemovable: Çıkarılabilir Depolama Aygıtı
+DriveTypeUnknown: Bilinmiyor
+DriveTypeVirtualDrive: Sanal Sürücü
+DateCreated: Oluşturma tarihi
+MoreOptions: Diğer seçenekler...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Ağ sürücüsüne bağlan
+Pinned: Sabitlendi
+SidebarLibraries: Kitaplıklar
+NoItemSelected: Herhangi bir öge seçilmemiş
+PropertyItemTarget: Hedef
+Arguments: Argümanlar
+Default: Varsayılan
+PropertyItemCount: Öğe sayısı
+ElevateConfirmDialog:
+  Title: Bu işlem yönetici hakları gerektiriyor
+  Content: Yönetici olarak devam etmek ister misiniz?
+ColumnsShortcutTooltip: Sütun Görünümü (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Başlat Menüsüne Sabitle
+UnpinItemFromStart:
+  Text: Başlat Menüsünden Sabitlemeyi Kaldır
+Library: Kütüphane
+LibraryLocations:
+  Text: 'Konumlar:'
+SetAsDefaultSavePath: Varsayılan kaydetme yolu olarak ayarla
+LibraryNoLocations:
+  Text: Konum yok
+ErrorInputEmpty: Giriş alanı boş bırakılamaz!
+ErrorNameInputRestrictedCharacters: 'Ad aşağıdaki karakterleri içermemelidir: \ / : * ? " < > |'
+ErrorNameInputRestricted: Bu adın kullanılmasına izin verilmiyor!
+CreateLibraryErrorAlreadyExists: Aynı ada sahip kitaplık zaten var!
+OpenStorageSense: Akıllı Depolama'yı aç
+Copy: Kopyala
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Hareket
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Devam
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Kalıcı olarak sil
+PropertyISO: ISO hızı
+ReplaceExisting: Var olanı değiştir
+GenerateNewName: Yeni ad oluştur
+CreateFolderWithSelection: Seçimle klasör oluştur
+ItemType: 'Tip:'
+ToolTipDescriptionDate: 'Değiştirilme tarihi:'
+OpenWith: Bununla aç
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Dosya simgesi
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Orijinal yol sütunu
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Öğe türü sütunu
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Değiştirilme tarihi sütunu
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Silinen tarih sütunu
+Sort: Sırala
+DateModifiedLowerCase: Değiştirilme tarihi
+OriginalFolder: Orjinal klasör
+Descending: Azalan
+ItemSizeText_Huge: Kocaman
+ItemSizeText_VeryLarge: Çok büyük
+ItemSizeText_Large: Büyük
+ItemSizeText_Medium: Orta
+ItemSizeText_Small: Küçük
+ItemSizeText_Tiny: Minik
+Future: Gelecek
+Today: Bugün
+Yesterday: Dün
+EarlierThisWeek: Bu haftanın başlarında
+LastWeek: Geçen hafta
+EarlierThisMonth: Bu ayın başlarında
+LastMonth: Geçen ay
+EarlierThisYear: Bu yılın başında
+LastYear: Geçen yıl
+YearN: Yıl {0}
+GroupItemsCount_Singular: '{0} öğe'
+GroupItemsCount_Plural: '{0} öğe'
+ReopenClosedTab: Kapatılan sekmeyi yeniden aç
+Rename: Yeniden adlandır
+Privacy: Gizlilik
+TheRecycleBin: Geri Dönüşüm Kutusu
+Canceling: İptal ediliyor
+Clear: Temizle
+Widgets: Araçlar
+SyncStatus: Senkronizasyon durumu
+Security: Güvenlik
+AdvancedPermissions: Gelişmiş izinler
+Allow: İzin ver
+Deny: Reddet
+SecurityFullControlLabel:
+  Text: Tam kontrol
+SecurityListDirectoryLabel:
+  Text: Dizin içeriğini listele
+Modify: Değiştir
+SecurityPermissionsHeaderText: İzinler {0}
+SecurityReadAndExecuteLabel:
+  Text: Oku ve yürüt
+SecurityReadLabel:
+  Text: Oku
+SecurityUsersGroupLabel:
+  Text: Grup veya kullanıcı adları
+Write: Yaz
+SecurityUnknownAccount: Bilinmeyen hesap
+SecurityCannotReadProperties:
+  Text: Bu nesnenin güvenlik özelliklerini görüntüleme izniniz yok. Devam etmek için "Gelişmiş izinler" i tıklayın.
+SecurityOwnerLabel:
+  Text: 'Sahip:'
+SecurityUnknownOwnerText:
+  Text: Bilinmeyen sahip
+ExtractArchive: Arşivi çıkart
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Tamamlandığında hedef klasörü aç
+BaseLayoutItemContextFlyoutExtractToChildFolder: '{0}\ dizinine çıkar'
+SideBarCreateNewLibrary:
+  Text: Yeni kitaplık oluştur
+SideBarRestoreLibraries:
+  Text: Varsayılan kitaplıkları geri yükle
+DialogRestoreLibrariesSubtitleText: Varsayılan kitaplıkları geri yüklemek istediğinizden emin misiniz? Tüm dosyalarınız depolama alanınızda kalacaktır.
+DialogRestoreLibrariesTitleText: Kitaplıkları Geri Yükle
+PropertyFileOwner: Sahip
+SecuritySpecialLabel:
+  Text: Özel
+Access: Erişim
+SecurityAdvancedAppliesTo: Şunlar için geçerlidir
+Principal: Başlıca
+SecurityAdvancedFlagsFilesLabel: dosyalar
+SecurityAdvancedFlagsFolderLabel: bu klasör
+SecurityAdvancedFlagsSubfoldersLabel: alt klasörler
+Inherited: Devralınmış
+Permissions: İzinler
+SecurityAdvancedCannotReadProperties:
+  Text: Bu nesnenin güvenlik özelliklerini görüntüleme izniniz yok. Bu nesnenin sahipliğini almayı deneyebilirsiniz.
+SecurityAdvancedFolderFiles:
+  Text: Bu klasör ve dosyalar
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Bu klasör, alt klasörler ve dosyalar
+SecurityAdvancedOnlyFiles:
+  Text: Yalnızca dosyalar
+SecurityAdvancedOnlySubfolders:
+  Text: Yalnızca alt klasörler
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Yalnızca alt klasörler ve dosyalar
+SecurityAdvancedOnlyThisFolder:
+  Text: Yalnızca bu dizin
+SecurityAdvancedFolderSubfolders:
+  Text: Bu klasör ve alt klasörler
+SecurityAppendDataLabel:
+  Text: Veriyi sona ekle
+SecurityChangePermissionsLabel:
+  Text: İzni değiştir
+SecurityCreateDirectoriesLabel:
+  Text: Klasör oluştur
+SecurityCreateFilesLabel:
+  Text: Dosya oluştur
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Alt dizinleri ve dosyaları silin
+SecurityExecuteFileLabel:
+  Text: Dosyaları yürütün
+SecurityReadAttributesLabel:
+  Text: Nitelikleri oku
+SecurityReadDataLabel:
+  Text: Verileri oku
+SecurityReadExtendedAttributesLabel:
+  Text: Genişletilmiş özellikleri oku
+SecurityReadPermissionsLabel:
+  Text: İzinleri oku
+SecurityTakeOwnershipLabel:
+  Text: Sahipliğini al
+SecurityTraverseLabel:
+  Text: Klasörü ziyaret et
+SecurityWriteAttributesLabel:
+  Text: Nitelikleri yaz
+SecurityWriteDataLabel:
+  Text: Veri yaz
+SecurityWriteExtendedAttributesLabel:
+  Text: Genişletilmiş nitelikleri yaz
+SecurityAdvancedInheritedConvert:
+  Text: Devralınan izinleri açık izinlere dönüştürün
+SecurityAdvancedInheritedEnable:
+  Text: Devralmayı etkinleştir
+SecurityAdvancedInheritedRemove:
+  Text: Devralınan tüm izinleri kaldır
+SecurityAdvancedReplaceChildPermissions:
+  Text: Alt izinleri sıfırla
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Tüm alt nesne izin girişlerini bu nesneden devralınabilir izin girişleriyle değiştir
+NavigationToolbarClosePane:
+  Label: Bölmeyi kapat
+EnterCompactOverlay: Kompakt yer paylaşımına gir
+ExitCompactOverlay: Kompakt yer paylaşımından çık
+PropertyFileDescription: Dosya açıklaması
+PropertyCompany: Şirket
+PropertyLanguage: Dil
+PropertyTrademarks: Ticari markalar
+PropertyFileVersion: Dosya sürümü
+PreviewPaneLoadCloudItemButton:
+  Text: Tüm önizlemeyi yükle
+  ToolTipService:
+    ToolTip: Öğeyi buluttan indirir ve önizlemeyi yükler
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Sıkıştırılmamış boyut
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: '{0} bölümünü gizle'
+AddFile: Dosya Ekle
+ConsentDialogTitle: Güncellemeler mevcut
+ConsentDialogContent: Güncellemeler yüklenmeye hazır
+Close: Kapat
+ConsentDialogPrimaryButtonText: Güncelle
+Home: Ev
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Arşiv çıkarma işlemi başarıyla tamamlandı.
+ExtractingArchiveText: Arşiv ayıklanıyor
+ExtractingCompleteText: Çıkarma tamamlandı!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Ana klasörü aç
+Unknown: Bilinmeyen
+EditTags: Dosya etiketlerini düzenle
+PropertyPartOfSet: Setin parçası
+InsertDiscDialog:
+  OpenDriveButton: Sürücüyü aç
+  Text: Lütfen {0} sürücüsüne bir disk yerleştirin
+  Title: Bir disk yerlestirin
+OK: Tamam
+AskCredentialDialog:
+  Title: Bilgiler Gerekli
+CredentialDialogAnonymous:
+  Content: Anonim
+CredentialDialogDescription:
+  Text: 'Kimlik bilgilerinizi sağlayın:'
+CredentialDialogUserName:
+  PlaceholderText: Kullanıcı adı
+NoSearchResultsFound: Hiç bir öğe bulunamadı
+OpenLogLocation: Kayıt konumunu aç
+LinkToFolderCaptionText: Şuraya Link Oluştur {0}
+Columns: Sütunlar
+Tiles: Sıralar
+OpenFoldersInNewTab: Klasörleri yeni sekmede aç
+StatusCenter: Durum Merkezi
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Sütun oluşturulma tarihi
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Öğe Sütun Boyutu
+ExperimentalFeatureFlags: Deneysel özellik işaretleri
+HelpAndSupport: Yardım ve Destek
+SubmitFeatureRequest: Özellik isteği gönder
+SubmitBugReport: Hata Raporu Gönder
+SettingsSetAsDefaultFileManager: Varsayılan dosya yöneticisi olarak ayarla
+SettingsSetAsOpenDialog: Dosyaları Dosya Aç İletişim Kutusu Olarak Kullan
+Tag: Dosya etiketi
+SettingsOpenItemsWithOneClick: Öğeleri tek bir tıklamayla açın
+FolderPath: Klasör yolu
+ExportSettings: Ayarları Dışa Aktar
+ImportSettings: Ayarları içe aktar
+SettingsImportErrorDescription: Ayarları içe aktarılamadı. Ayarlar dosyası bozuk.
+SettingsImportErrorTitle: Ayarları içe aktarırken hata oluştu
+EmptyRecycleBin: Geri Dönüşüm Kutusunu Boşalt
+Sidebar: Kenar Çubuğu
+ChooseCustomIcon: Özel bir klasör simgesi seçin
+Customization: Kişiselleştirme
+RestoreDefault: Varsayılana sıfırla
+OpenTabInExistingInstance: Dosyaları başka bir uygulamadan açarken sekmeyi mevcut örnekte aç
+StartupSettings: Başlatma seçenekleri
+Compatibility: Uyumluluk
+None: Hiçbiri
+CompatibilityOnWindowsLogin: Windows'da oturum açıldığında
+CompatibilityOnProgramStart: Program başlatıldığında
+System: Sistem
+CompatibilitySystemEnhanced: Sistem (Gelişmiş)
+CompatibilityReducedColorModeColor16bit: 16-bit (65536) renk
+CompatibilityReducedColorModeColor8bit: 8-bit (256) renk
+CompatibilityDisableFullscreenOptimizations: Tam ekran iyileştirmelerini kapat
+CompatibilityRunIn640x480Resolution: 640 x 480 ekran çözünürlüğünde çalıştır
+CompatibilityOverrideHighDPIBehavior: Yüksek DPI ölçekleme davranışını geçersiz kıl
+CompatibilityReducedColorMode: Azaltılmış renk modu
+CompatibilityRegisterThisProgramForRestart: Yeniden başlatmak için bu programı kaydet
+RunAsAdministrator: Yönetici olarak çalıştır
+CompatibilityRunTroubleshooter: Uyumluluk sorun gidericisini çalıştır
+CompatibilityUseDPISettings: Ana monitörün DPI ayarlarını kullan
+CompatibilityDoNotAdjustDPI: DPI ayarını ayarlamayın
+CompatibilityDoNotOverrideDPI: DPI ayarını geçersiz kılmayın
+CompatibilityMode: Uyumluluk modu
+CompatibilityNoReducedColor: Azaltılmış renk yok
+ThirdPartyLicenses: Üçüncü parti lisanslar
+SettingsSetAsDefaultFileManagerDescription: Bu seçenek sistem kayıt defterini değiştirir ve aygıtınızda beklenmeyen yan etkilere neden olabilir. Kendi sorumluluğunuzda devam edin.
+FolderWidgetCreateNewLibraryDialogTitleText: Kütüphane oluştur
+FolderWidgetCreateNewLibraryInputPlaceholderText: Kütüphane ismi girin
+CalculateFolderSizes: Klasör boyutlarını hesapla
+RecentFiles: Son Dosyalar
+SettingsOpenInLogin: Windows başlatıldığında Files'ı aç
+Attributes: Öznitelikler
+Hidden: Gizli
+MoreDetails: Daha fazla ayrıntı
+ReadOnly: Salt okunur
+CleanupDrive: Sürücü içeriğini temizle
+Type: Tür
+Bytes: Bayt
+Extract: Ayıkla
+ExtractFiles: Dosyaları ayıkla
+ExtractHere: Buraya ayıkla
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Şuraya ayıkla {0}
+RunScript: Komut dosyasını çalıştır
+RunWithPowerShell: PowerShell'le Çalıştır
+ShowFolderSizesWarning: Klasör boyutlarını hesaplamak için yoğun kaynak kullanılır ve CPU kullanımınızın artmasına neden olabilir.
+RotateLeft: Sola Döndür
+RotateRight: Sağa Döndür
+Install: Yükle
+CloseTabsToTheLeft: Soldaki sekmeleri kapat
+CloseTabsToTheRight: Sağdaki sekmeleri kapat
+CloseOtherTabs: Diğer Sekmeleri Kapat
+Music: Müzik
+Pictures: Resimler
+UpdateFiles: Files'ı güncelle
+FileTags: Etiketler
+Universal: Evrensel
+DateFormatSample: 'ör: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Küçük resimleri göster
+Retry: Yeniden Dene
+ErrorDialogUnsupportedMoveOperation: Taşıma işlemi bu amaç için kullanılamaz. Bunun yerine öğeleri kopyalamak ister misiniz?
+HiddenItems: Gizli öğeler
+Custom: Özel
+SetAsSlideshow: Masaüstü slayt gösterisi olarak ayarla
+SizeAllColumnsToFit: Tüm Sütunları Sığacak Şekilde Boyutlandır
+Adaptive: Uyarlanır düzen
+AdaptiveShortcutTooltip: Uyarlanabilir (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Alternatif veri akışını göster
+Behaviors: Davranışlar
+ReviewFiles: Files'ı Değerlendir
+ReviewFilesContent: Files'ı değerlendirmek ister misiniz?
+SetAsBackgroundFlyout: Arka plan olarak ayarla
+SetAsBackground: Masaüstü arka planı olarak ayarla
+SetAsDefault: Varsayılan olarak ayarla
+DateColumn: Tarih sütunu
+DateCreatedColumn: Sütun oluşturulma tarihi
+SizeColumn: Boyut sütunu
+TagColumn: Etiket sütunu
+TypeColumn: Tip sütunu
+Lockscreen: Kilit Ekranı
+OpenFolderWithOneClickColumnsLayout: Sütunlar Düzeninde tek bir tıklama ile klasörleri aç
+OpeningItems: Açılış öğeleri
+Compress: Sıkıştır
+SelectFilesAndFoldersOnHover: Üzerine getirildiğinde dosyaları ve dizinleri seç
+ConfirmRestoreBinDialogContent: Geri dönüşüm kutusundaki tüm öğeleri geri yüklemek istediğinizden emin misiniz?
+ConfirmRestoreBinDialogTitle: Bütün öğeleri geri yükle
+ConfirmRestoreSelectionBinDialogContent: Seçilen {0} adet ögeyi geri yüklemek istiyor musunuz?
+ConfirmRestoreSelectionBinDialogTitle: Seçimi geri yükle
+RestoreAllItems: Bütün öğeleri geri yükle
+Restore: Geri yükle
+ShortcutCannotBeOpened: Kısayol açılamadı
+DeleteShortcutDescription: Hedef yol {0} bulunamadı. Bu kısayolu silmek ister misiniz?
+AccessDeniedToFolder: Bu klasöre erişim izniniz yok.
+ArchivePassword: Arşiv şifresi
+ExtractToPath: Yol
+SortingAndGrouping: Sıralama ve gruplama
+CreateArchive: Arşiv oluştur
+Create: Oluştur
+CreateNamedArchive: '{0} oluştur'
+EnterName: Bir isim girin
+CompressionLevel: Sıkıştırma seviyesi
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Yüksek
+CompressionLevelNormal: Normal
+CompressionLevelLow: Düşük
+CompressionLevelFast: Hızlı
+CompressionLevelNone: Hiçbiri
+SplittingSize: Bölme boyutu
+Do not split: Bölme yapma
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Şifreleme
+Password: Parola
+Format: Biçim
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Senkronizasyon durumu sütunu
+GroupBy: Gruplandır
+SortBy: Sırala
+GroupInDescendingOrder: Azalan sıraya göre grupla
+SortInDescendingOrder: Azalan sıraya göre sırala
+NewShortcutDialogTitle: Yeni kısayol oluştur
+NewShortcutDialogDescription: Yerel veya ağ programlarına, dosyalara, klasörlere, bilgisayarlara veya İnternet adreslerine kısayollar oluşturun.
+NewShortcutDialogPrompt: 'Öğenin konumunu girin:'
+AddDialogListShortcutSubHeader: Kısayol oluşturur
+RecentFilesDisabledOnWindowsWarning: Son kullanılan dosyalar şu an için Windows Dosya Gezgininde devre dışıdır.
+EditSettingsFile: Ayar Dosyasını Düzenle
+WhatsNew: Yenilikler
+CannotCreateShortcutDialogTitle: Bu konumda bir kısayol oluşturmak, yönetici ayrıcalıkları gerektirir
+CannotCreateShortcutDialogMessage: Bunun yerine masaüstünde kısayol oluşturmak ister misiniz?
+ErrorDialogNameNotAllowed: Belirtilen öğe adı geçersiz
+Settings: Ayarlar
+DoubleClickBlankSpaceToGoUp: Bir üst dizine dönmek için boş bir alana çift tıklayın
+ViewMore: Daha fazla göster
+ShowEditTagsMenu: Etiketleri düzenle açılır penceresini göster
+ShowCompressionOptions: Sıkıştırma seçeneklerini göster
+ShowSendToMenu: Menüye gönder'i göster
+ShowOpenInNewTab: Klasörleri yeni bir sekmede açma seçeneğini göster
+ShowOpenInNewWindow: Klasörleri yeni bir pencerede açma seçeneğini göster
+QuickAccess: Hızlı erişim
+NetworkAuthenticationDialogMessage: 'Bağlanmak için kimlik bilgilerinizi girin: {0}'
+NetworkAuthenticationDialogTitle: Ağ Bilgilerini Girin
+NetworkAuthenticationSaveCheckbox: Kimlik bilgilerimi hatırla
+NetworkFolderErrorDialogTitle: Ağ klasörü hatası
+AppVersion: Uygulama sürümü
+WindowsVersion: Windows sürümü
+Always: Her zaman
+PermanentDeletionOnly: Yalnızca kalıcı silme
+Never: Asla
+TagColor: Etiket rengi
+NewTag: Yeni etiket
+CreateNewTag: Yeni etiket oluştur
+Loading: Yükleniyor...
+ContextMenuOptions: Bağlam menüsü seçenekleri
+ShowFileExtensions: Dosya eklentilerini göster
+ShowHiddenItems: Gizli dosyaları göster
+FormatDriveText: Biçimlendir...
+Help: Yardım
+FullScreen: Tam ekranı aç/kapat
+ConfirmDeleteTag: Bu etiketi silmek istediğinize emin misiniz?
+PlayAll: Hepsini oynat
+Height: Boy
+Width: En
+ApplyToAllConflictingItems: Bu eylemi tüm çakışan öğelere uygula
+OpenTerminal: Windows Terminalde aç
+OpenTerminalAsAdmin: Windows Terminalde yönetici olarak aç
+Save: Kaydet
+MultiSelect: Çoklu seçim
+ReorderSidebarItemsDialogText: Menü öğelerini yeniden sırala
+Hashes: Hashler
+CalculationError: İşlem sırasında hata oluştu
+CalculationErrorFileIsOpen: Hash hesaplanamadı, lütfen dosyayı kapatın ve tekrar deneyin.
+CalculationOnlineFileHashError: Hash'ler çevrimiçi dosyalar için kullanılamaz
+Algorithm: Algoritma
+HashValue: Hash Değeri
+SelectHashesToShow: Gösterilecek karmaları seçin
+Calculating: Hesaplanıyor...
+JumpListPinnedGroupHeader: Sabitlenen öğeler
+DecreaseSize: Boyutu küçült
+IncreaseSize: Boyutu büyüt
+ToggleSortDirection: Sıralama yönünü değiştir
+InvalidTagNameWarning: Geçersiz isim
+TagNameRules: İsim boş olmamalı veya nokta ile başlamamalı veya bitmemelidir.
+Videos: Videolar
+LaunchPreviewPopup: Önizleme açılır penceresini başlat
+ToggleCompactOverlay: Kompakt üstyazımı aç / kapa
+OpenHelpDescription: Çevrimiçi yardım sayfasını tarayıcıda aç
+ToggleFullScreenDescription: Tam ekranı aç/kapat
+EnterCompactOverlayDescription: Kompakt yer paylaşımına gir
+ExitCompactOverlayDescription: Kompakt yer paylaşımından çık
+ToggleCompactOverlayDescription: Kompakt yer paylaşımını değiştir
+SearchDescription: Arama kutusuna git
+ToggleShowHiddenItemsDescription: Gizli öğelerin gösterilip gösterilmeyeceğini değiştirin
+ToggleShowFileExtensionsDescription: Dosya uzantılarının gösterilip gösterilmeyeceğini değiştirin
+TogglePreviewPaneDescription: Dosya önizlemelerini görüntülemek için önizleme bölmesini açın
+ToggleSidebarDescription: Yan bölme görünürlüğünü aç / kapa
+CopyItemDescription: Öge(ler)i panoya kopyala
+CopyPathDescription: Seçilen öğelerin yolunu panoya kopyala
+CopyPathWithQuotesDescription: Seçilen öğelerin yolunu tırnak işaretleri ile panoya kopyala
+CutItemDescription: Öge(ler)i panoya kes
+PasteItemDescription: Panodaki öge(ler)i mevcut klasöre yapıştır
+PasteItemToSelectionDescription: Panodaki öge(ler)i seçilen klasöre yapıştır
+DeleteItemDescription: Ögeleri sil
+CreateFolderDescription: Yeni klasör oluştur
+CreateShortcutDescription: Seçili öge(ler)e yeni kısayol(lar) oluştur
+CreateShortcutFromDialogDescription: Herhangi bir ögeye yeni kısayol oluştur
+EmptyRecycleBinDescription: Geri dönüşüm kutusunu boşalt
+FormatDriveDescription: Seçili öge için "Sürücüyü Biçimlendir" menüsünü aç
+RestoreRecycleBinDescription: Seçili öge(ler)i Geri Dönüşüm Kutusu'ndan geri yükle
+RestoreAllRecycleBinDescription: Tüm öğeleri geri dönüşüm kutusundan geri yükle
+OpenItemDescription: Öge(ler)i aç
+OpenItemWithApplicationPickerDescription: Öge(ler)i seçilen uygulamayla aç
+OpenParentFolderDescription: Aranan ögenin ait olduğu klasörü aç
+RefreshItemsDescription: Sayfa içeriğini yenile
+RenameDescription: Seçili ögeyi yeniden adlandır
+SelectAllDescription: Tüm ögeleri seç
+InvertSelectionDescription: Öge seçimini ters çevir
+ClearSelectionDescription: Öge seçimini temizle
+ToggleSelectDescription: Öge seçimini aç / kapa
+ShareItemDescription: Seçili dosya(lar)ı başkalarıyla paylaş
+PinToStartDescription: Öge(ler)i Başlat Menüsü'ne sabitle
+UnpinFromStartDescription: Öge(ler)i Başlat Menüsü'nden kaldır
+PinFolderToSidebarDescription: Klasör(ler)i Kenar Çubuğuna Sabitle
+UnpinFolderFromSidebarDescription: Klasör(ler)i Kenar Çubuğundan Kaldır
+SetAsWallpaperBackgroundDescription: Seçilen resmi masaüstü arka planı olarak ayarla
+SetAsSlideshowBackgroundDescription: Seçilen resimleri masaüstü slayt gösterisi olarak ayarla
+SetAsLockscreenBackgroundDescription: Seçili resmi kilit ekranı arka planı olarak ayarla
+SetAsAppBackgroundDescription: Set selected picture as the app background
+InstallFontDescription: Seçili yazı tip(ler)ini yükle
+InstallInfDriverDescription: Seçilen inf dosya(ları) kullanarak sürücü(ler) kurun
+InstallCertificateDescription: Seçilen sertifika(ları) yükleyin
+RunAsAdminDescription: Seçili uygulamayı yönetici olarak çalıştır
+RunAsAnotherUserDescription: Seçili uygulamayı başka bir kullanıcı olarak çalıştır
+RunWithPowershellDescription: Seçili PowerShell betiğini çalıştır
+LaunchPreviewPopupDescription: Önizlemeyi açılır pencerede göster
+CompressIntoArchiveDescription: Seçilen öge(ler)le arşiv oluştur
+CompressIntoSevenZipDescription: Seçilen öge(ler)le anında 7z arşivi oluştur
+CompressIntoZipDescription: Seçilen öge(ler)le anında zip arşivi oluştur
+DecompressArchiveDescription: Seçili arşiv(ler)deki öğeleri herhangi bir klasöre çıkart
+DecompressArchiveHereDescription: Seçili arşiv(ler)deki öğeleri geçerli klasöre çıkart
+DecompressArchiveToChildFolderDescription: Seçili arşiv(ler)deki öğeleri yeni klasöre çıkart
+RotateLeftDescription: Seçili resim(leri) sola döndür
+RotateRightDescription: Seçili resim(leri) sağa döndür
+OpenSettingsDescription: Ayarlar sayfasını aç
+OpenTerminalDescription: Klasörü terminalde aç
+OpenTerminalAsAdminDescription: Klasörü terminalde yönetici olarak aç
+LayoutDecreaseSizeDescription: Geçerli görünümdeki öğe boyutunu küçült
+LayoutIncreaseSizeDescription: Geçerli görünümdeki öğe boyutunu artır
+LayoutDetailsDescription: Detaylar görünümüne geç
+LayoutTilesDescription: Döşeme görünümüne geç
+LayoutListDescription: Liste görünümüne geç
+List: Liste
+Grid: Izgara
+LayoutGridDescription: Izgara görünümüne geç
+LayoutColumnsDescription: Sütun görünümüne geç
+LayoutAdaptiveDescription: Görünümü adaptif olarak değiştir
+SortByNameDescription: Ögeleri isme göre sırala
+SortByDateModifiedDescription: Ögeleri değiştirme tarihine göre sırala
+SortByDateCreatedDescription: Ögeleri oluşturma tarihine göre sırala
+SortBySizeDescription: Ögeleri boyuta göre sırala
+SortByTypeDescription: Ögeleri türe göre sırala
+SortBySyncStatusDescription: Öğeleri eşitlenme durumuna göre sırala
+SortByTagDescription: Ögeleri etiketlere göre sırala
+SortByOriginalFolderDescription: Öğeleri orijinal klasöre göre sırala
+SortByDateDeletedDescription: Öğeleri silinme tarihine göre sırala
+SortAscendingDescription: Öğeleri artan düzende sırala
+SortDescendingDescription: Öğeleri azalan düzende sırala
+ToggleSortDirectionDescription: Öğe sıralama yönünü değiştir
+GroupByNoneDescription: Öğeleri gruplandırmadan listeleyin
+GroupByNameDescription: Öğeleri ada göre gruplandırın
+GroupByDateModifiedDescription: Öğeleri değiştirilme tarihine göre gruplandırın
+GroupByDateCreatedDescription: Öğeleri oluşturulma tarihine göre gruplandırın
+GroupBySizeDescription: Öğeleri boyuta göre gruplandırın
+GroupByTypeDescription: Öğeleri türe göre gruplandırın
+GroupBySyncStatusDescription: Öğeleri senkronizasyon durumuna göre gruplandırın
+GroupByTagDescription: Öğeleri etiketlere göre gruplandırın
+GroupByOriginalFolderDescription: Öğeleri orijinal klasöre göre gruplandırın
+GroupByDateDeletedDescription: Öğeleri silinme tarihine göre gruplandırın
+GroupByFolderPathDescription: Öğeleri klasör yoluna göre gruplandırın
+GroupAscendingDescription: Grupları artan düzende sırala
+GroupDescendingDescription: Grupları azalan düzende sırala
+ToggleGroupDirectionDescription: Grup sıralama yönünü değiştir
+NewTabDescription: Yeni sekme aç
+NavigateBackDescription: Navigasyon geçmişinde geri git
+NavigateForwardDescription: Navigasyon geçmişinde ileri git
+NavigateUpDescription: Bir dizinde yukarı git
+DuplicateCurrentTabDescription: Geçerli sekmeyi kopyala
+DuplicateSelectedTabDescription: Seçilen sekmeyi çoğalt
+CloseTabsToTheLeftCurrentDescription: Geçerli sekmenin solundaki sekmeleri kapat
+CloseTabsToTheLeftSelectedDescription: Seçili sekmenin solundaki sekmeleri kapat
+CloseTabsToTheRightCurrentDescription: Geçerli sekmenin sağındaki sekmeleri kapat
+CloseTabsToTheRightSelectedDescription: Seçili sekmenin sağındaki sekmeleri kapat
+CloseOtherTabsCurrentDescription: Geçerli sekme dışındaki sekmeleri kapat
+CloseOtherTabsSelectedDescription: Seçilen sekme dışındaki sekmeleri kapat
+ReopenClosedTabDescription: Son kapatılan sekmeyi yeniden aç
+PreviousTabDescription: Önceki sekmeye git
+NextTabDescription: Sonraki sekmeye git
+CloseSelectedTabDescription: Geçerli sekmeyi kapat
+OpenNewPaneDescription: Yeni bölme aç
+ClosePaneDescription: Sağ bölmeyi kapat
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Kenar çubuğunu değiştir
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Boşluk
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Geri Sil
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Sol
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Sağ
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Aşağı
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Yukarı
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Ev
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Durdur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Uyku
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Temizle
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Yazdır
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Yardım
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Fare4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Fare5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Uygulama
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Uygulama1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Uygulama2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Posta
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: EveDön
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GeriDön
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: İleriGit
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: TarayıcıYenile
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: TarayıcıDurdur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Ara
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Sık kullanılanlar
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: BaşlatDurdur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MedyaDurdur
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: ÖncekiParça
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: SonrakiParça
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MedyaSeç
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Sessiz
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: SesAzalt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: SesArttır
+Change: Değiştir
+ToggleSelect: Seçimi Değiştir
+ShowFileExtensionWarning: Dosya uzantılarını değiştirirken uyarı göster
+ThisPC: Bu bilgisayar
+RecycleBin: Geri Dönüşüm Kutusu
+Untagged: Etiketlenmemiş
+PreviousTab: Önceki sekmeye gider
+NextTab: Sonraki sekmeye gider
+CloseTab: Geçerli sekmeyi kapatır
+EditPath: Yolu düzenle
+Redo: Tekrarla
+Undo: Geri Al
+InvalidLocation: Geçersiz konum
+CopyFileWithoutProperties: Bu dosyaları özellikleri olmadan kopyalamak istediğinizden emin misiniz?
+FilePropertiesCannotBeCopied: Bu dosyalar, yeni konuma kopyalanamayacak özelliklere sahip
+FilePropertiesCannotBeMoved: Bu dosyalar, yeni konuma taşınamayan özelliklere sahip
+MoveFileWithoutProperties: Bu dosyaları özellikleri olmadan taşımak istediğinizden emin misiniz?
+ShowCheckboxesWhenSelectingItems: Öğeleri seçerken onay kutularını göster
+EditPathDescription: Odak yolu çubuğu
+AddItemDescription: Yeni öğe oluştur
+SecurityNoAccessControlEntriesText: Hiçbir grubun veya kullanıcının bu nesneye erişim izni yok. Ancak, bu nesnenin sahibi izinleri atayabilir.
+OpenFileLocationDescription: Öğenin konumunu aç
+DeletePermanently: Kalıcı olarak sil
+DeleteItemPermanentlyDescription: Öğeleri kalıcı olarak sil
+PlayAllDescription: Seçilen medya dosyalarını oynatın
+UndoDescription: Son dosya işlemini geri al
+RedoDescription: Son dosya işlemini yeniden yap
+Location: 'Konum:'
+GroupByMonthDescription: Öğeleri aya göre gruplandırın
+GroupByYearDescription: Ögeleri yıla göre gruplandırın
+Month: Ay
+Day: Gün
+ToggleGroupByDateUnitDescription: Tarihe göre gruplama için birimi değiştir
+ToggleGroupingUnit: Gruplandırma birimini değiştir
+Year: Yıl
+GroupByDateUnit: Tarih birimine göre grupla
+GroupByDateCreatedDayDescription: Öğeleri oluşturuldukları güne göre grupla
+GroupByDateCreatedMonthDescription: Öğeleri, oluşturulma tarihine göre gruplandırma
+GroupByDateCreatedYearDescription: Öğeleri oluşturulma tarihine göre gruplandırma
+GroupByDateDeletedDayDescription: Öğeleri silindikleri güne göre grupla
+GroupByDateDeletedMonthDescription: Öğeleri silindiği tarihe göre gruplandırın
+GroupByDateDeletedYearDescription: Öğeleri silinme tarihine göre gruplandırın
+GroupByDateModifiedDayDescription: Öğeleri değiştirildikleri güne göre grupla
+GroupByDateModifiedMonthDescription: Öğeleri değiştirilme ayına göre gruplandır
+GroupByDateModifiedYearDescription: Öğeleri değiştirilme yılına göre gruplandırın
+SecurityClickAdvancedPermissions: Devam etmek için 'Gelişmiş izinler'e tıklayın.
+SecurityRequireReadPermissions: Bu öğenin özelliklerini görüntülemek için Okuma izinlerine sahip olmalısınız.
+SecuritySuggestToTakeOwnership: Özelliklerini görüntüleme izni içeren öğenin sahipliğini almayı denemek için yukarıdaki Değiştir'i tıklayın.
+SecurityUnableToDisplayPermissions: İzinler görüntülenemiyor.
+StashChanges: Değişikliklerimi '{0}' üzerinde bırak
+DiscardChanges: Değişiklikleri iptal et
+BringChanges: Değişikliklerimi '{0}' konumuna getir
+UncommittedChanges: Bu dalda kaydedilmemiş değişiklikleriniz var. Onlarla ne yapmak istersin?
+SwitchBranch: Branch değiştir
+Branches: Branch'lar
+Switch: Geçiş Yap
+NewBranch: Yeni branch
+InvalidBranchName: Geçersiz branch adı
+CreateBranch: Branch oluştur
+CreateNewBranch: Branch oluştur
+BasedOn: Dayanan
+SwitchToNewBranch: Yeni branch'a geç
+CreateFolderWithSelectionDescription: Seçili öğe(ler) ile bir klasör oluşturun
+OpenProperties: Özellikleri aç
+OpenPropertiesDescription: Özellikler penceresini aç
+Locals: Yerel
+Remotes: Uzak Bağlantılar
+ImproveTranslation: Crowdin'de çevir
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Git fetch'i çalıştır
+GitPullDescription: Git pull'u çalıştır
+Preview: Önizleme
+GitStatus: Git durumu
+GitError: Git hatası
+PullTimeoutError: zaman aşımı hatası nedeniyle git pull başarısız oldu
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (birden fazla değer)
+Author: Yazar
+DateCommitted: Commit tarihi
+CommitMessage: Commit mesajı
+CommitSha: Commit SHA
+Git: Git
+Acrylic: Akrilik
+Mica: Mika
+MicaAlt: Mika Alt
+BackdropMaterial: Zemin Malzemesi
+Solid: Katı
+ManageBranches: Dalları yönet
+Push: Push
+GitPushDescription: Git push'u çalıştır
+GitSync: Eşitle
+GitSyncDescription: Git pull'u ve ardından git push'u çalıştır
+GitSyncStatusExtendedInfo: '{0} giden / {1} gelen commit'
+ConnectGitHub: GitHub'a Bağlan
+ConnectGitHubDescription: GitHub repolarıyla çalışmaya başlamak için aşağıdaki bağlantıya aşağıdaki kodu girin.
+CannotReachGitHubError: Files, GitHub'a şu anda erişemiyor.
+OpenInVSCode: Klasörü VS Code da aç
+OpenInVSCodeDescription: Mevcut dizini Visual Studio Code'da aç
+OpenRepoInVSCode: Repoyu VS Code da aç
+OpenRepoInVSCodeDescription: Git reposunun ana dizinini Visual Studio Code da aç
+CopyCode: Kodu kopyala
+Added: Eklenen
+Deleted: Silinen
+Modified: Düzenlenen
+Untracked: İzlenmeyen
+UnableToDisplayOwner: Mevcut sahip görüntülenemiyor.
+AuthorizationSucceded: Harika! Şu anda yetkilendirildiniz.
+InitRepo: Repo başlat
+InitRepoDescription: Bir Git deposu başlat
+GitOriginRepositoryName: Uzak Depo Adı
+GitCurrentBranch: Mevcut Dal
+PathColumn: Yol sütunu
+SortByPathDescription: Öğeleri yola göre sırala
+OpenDirectoryInNewPaneDescription: Dizini yeni bölmede aç
+OpenDirectoryInNewTabDescription: Dizini yeni sekmede aç
+OpenInNewWindowDescription: Dizini yeni pencerede aç
+OpenAllTaggedItems: Tümünü aç
+OpenAllTaggedItemsDescription: Etiketli öğelerin tümünü aç
+#{0} is the drive letter.
+DriveWithLetter: Sürücü ({0})
+InvalidCommand: Geçersiz komut
+InvalidCommandContent: "'{0}' bir komut olarak tanınmadı."
+CommandNotExecutable: Komut çalıştırılabilir değil
+CommandNotExecutableContent: "'{0}' komutu, çalıştırılmak için hazır değil."
+CommandPalette: Komut paleti
+OpenCommandPaletteDescription: Komut paletini aç
+ShortcutItemWorkingDir: 'Başlama yeri:'
+TurnOnBitLocker: BitLocker'ı aç
+ManageBitLocker: BitLocker'ı yönet
+CopyFailureFileToLarge: Aşağıdaki öğeler bu sürücüye kopyalanamayacak kadar büyük
+FormatDrive: Sürücüyü biçimlendir
+DontShowAgain: Bir daha gösterme
+FilesRunningAsAdmin: Files yönetici olarak çalışıyor
+FilesRunningAsAdminContent: Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.
+SettingsLeaveAppRunning: Penceresi kapatıldığında uygulamayı arka planda çalışır durumda bırak
+#One of the custom color themes
+Blue: Mavi
+#One of the custom color themes
+BlueGray: Mavi Gri
+#One of the custom color themes
+BrickRed: Tuğla kırmızısı
+#One of the custom color themes
+Camouflage: Kamuflaj
+#One of the custom color themes
+CoolBlueBright: Parlak Soğuk Mavi
+#One of the custom color themes
+Gray: Gri
+#One of the custom color themes
+GrayDark: Koyu Gri
+#One of the custom color themes
+Green: Yeşil
+#One of the custom color themes
+IrisPastel: İris Pastel
+#One of the custom color themes
+MintLight: Açık Nane
+#One of the custom color themes
+ModRed: Mod Kırmızı
+#One of the custom color themes
+OrangeBright: Parlak Truncu
+#One of the custom color themes
+Overcast: Kapalı
+#One of the custom color themes
+Red: Kırmızı
+#One of the custom color themes
+RoseBright: Parlak Gül
+#One of the custom color themes
+Seafoam: Deniz Köpüğü
+#One of the custom color themes
+Storm: Fırtına
+#One of the custom color themes
+VioletRedLight: Açık Menekşe Kırmızı
+#One of the custom color themes
+YellowGold: Altın Sarı
+ClearCompleted: Temizleme tamamlandı
+NameWithColon: 'İsim:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} / {1} işlendi'
+ItemsLower: ögeler
+CannotInitializeGitRepo: Dosyalar bu dizini Git deposu olarak başlatamaz.
+ContributingArtist: Katkıda bulunan sanatçı
+AddPage: Sayfa Ekle
+ProcessingItems: Öğeler işleniyor...
+SpeedWithColon: 'Hız:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: '{0} öğenin "{1}" olarak sıkıştırılması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: '{0} öğenin "{1}" yerine "{2}" olarak sıkıştırılması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: '{0} öğe "{1}" olarak sıkıştırıldı'
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: '{0} öğe "{1}"den "{2}"ye sıkıştırıldı'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: '{0} öğe "{1}" olarak sıkıştırılırken hata oluştu'
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: '{0} öğe "{1}"den "{2}"ye sıkıştırılamadı'
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: '{0} öğe/öğe "{1}" olarak sıkıştırılıyor'
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: '{0} öğe "{1}"den "{2}"ye sıkıştırılıyor'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: '{0} öğenin "{1}" öğesine kopyalanması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: '{0} öğenin "{1}" öğesinden "{2}" öğesine kopyalanması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: '{0} öğe "{1}" öğesine kopyalandı'
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: '{0} öğe "{1}" öğesinden "{2}" öğesine kopyalandı'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: '{0} öğe "{1}" öğesine kopyalanırken hata oluştu'
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: '{0} öğe "{1}" öğesinden "{2}" öğesine kopyalanamadı'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: '{0} öğe "{1}" öğesine kopyalanıyor'
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: '{0} öğe "{1}" öğesinden "{2}" öğesine kopyalanıyor'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: '"{0}" öğesinin "{1}" öğesine çıkarılması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: '"{0}" öğesinin "{1}" öğesinden "{2}" öğesine çıkarılması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: '"{0}", "{1}" dizinine çıkarıldı'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: '"{0}", "{1}" konumundan "{2}" konumuna çıkarıldı'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: '"{0}", "{1}" öğesine çıkarılırken hata oluştu'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: '"{0}", "{1}" öğesinden "{2}" öğesine çıkarılamadı'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: '"{0}", "{1}" dizinine çıkarılıyor'
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: '"{0}", "{1}" öğesinden "{2}" öğesine çıkarılıyor'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: '"{1}" kaynağından {0} öğenin silinmesi iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: '"{1}" kaynağından {0} öğe silindi'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: '"{1}" kaynağından {0} öğe silinirken hata oluştu'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: '"{1}" kaynağından {0} öğe silinemedi'
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: '"{1}" kaynağından {0} öğe siliniyor'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: '{0} öğenin "{1}" öğesine taşınması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: '{0} öğenin "{1}" konumundan "{2}" konumuna taşınması iptal edildi'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: '{0} öğe "{1}" konumuna taşındı'
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: '{0} öğe "{1}" konumundan "{2}" konumuna taşındı'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: '{0} öğe "{1}" öğesine taşınıyor'
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: '{0} öğe "{1}" konumundan "{2}" konumuna taşınıyor'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: '{0} öğe "{1}" öğesine taşınırken hata oluştu'
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: '{0} öğe "{1}" konumundan "{2}" konumuna taşınamadı'
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Geri Dönüşüm Kutusu'nun boşaltılması iptal edildi
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Geri dönüşüm kutusu boşaltıldı
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Geri dönüşüm kutusu boşaltılıyor
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Geri Dönüşüm Kutusu boşaltılırken hata oluştu
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Geri dönüşüm kutusu boşaltılamadı
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Operasyona hazırlanıyor...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} öğe işlendi'
+UnblockDownloadedFile: İndirilen dosyanın engelini kaldır
+NoFileOperations: Devam eden dosya işlemleri yok
+OpenOnStartupDisabled: Windows Başlangıcında Dosyaları açma seçeneği, sistem ayarlarınız veya grup ilkeniz nedeniyle kullanılamıyor. Yeniden etkinleştirmek için Görev Yöneticisi'nde başlangıç sayfasını açın.
+FailedToRestore: Öğeler Geri Dönüşüm Kutusu'ndan geri yüklenemedi
+FailedToSetBackground: Arka plan duvar kağıdı ayarlanamadı
+GitDeleteBranch: Git kancasını sil
+GitDeleteBranchSubtitle: '"{0}" taslağını kalıcı olarak silmek istediğinizden emin misiniz?'
+ConnectedToGitHub: GitHub'a bağlanıldı
+Logout: Çıkış yap
+ConnectToGitHub: GitHub'a Bağlan
+Login: Giriş yap
+ErrorApplyingTagContent: Etiketler şu anda yalnızca NTFS olarak biçimlendirilmiş sürücülerle uyumludur.
+ErrorApplyingTagTitle: Bu etiketi uygularken bir hata oluştu
+DecompressArchiveHereSmartDescription: Seçili arşivlerdeki öğeleri tek öğeli arşiv için geçerli klasöre veya çok öğeli arşiv için yeni klasöre çıkar
+ExtractHereSmart: Buraya çıkart (Akıllı)
+SortFilesAndFoldersTogether: Dosyaları ve klasörleri birlikte sırala
+SortFilesAndFoldersTogetherDescription: Dosyaları ve klasörleri birlikte sırala
+SortFilesFirst: Önce dosyaları sırala
+SortFilesFirstDescription: Önce dosyaları, sonra klasörleri sırala
+SortFoldersFirst: Önce klasörleri sırala
+SortFoldersFirstDescription: Önce klasörleri, sonra dosyaları sırala
+SortPriority: Sıralama önceliği
+FailedToRotateImage: Resim döndürülemedi
+Restart: Yeniden Başlat
+Quit: Çık
+FaildToShareItems: Öğeler paylaşılamadı
+ScrollToPreviousFolderWhenNavigatingUp: Yukarı doğru gezinirken önceki klasöre kaydır
+NewWindowDescription: Yeni pencere aç
+ChangeAlbumCover: Albüm kapağını değiştir
+ItemRenameFailed: Öğenin adı değiştirilemedi
+HigherPermissionsRequired: '"{0}" öğesini düzenlemek için ek izinler gerekir'
+EditPermissions: İzinleri düzenle
+BackgroundRunningNotificationBody: Files başlangıç performansını iyileştirmek için hâlâ arka planda çalışıyor.
+BackgroundRunningNotificationHeader: Files nereye gitti?
+QuestionsAndDiscussions: Sorular ve tartışmalar
+TilesViewSizeInfo: Döşeme Görünümü için henüz ek boyutlar mevcut değildir.
+#Used to describe layout sizes
+Compact: Ölçek
+#Used to describe layout sizes
+Small: Küçük
+#Used to describe layout sizes
+Medium: Orta
+#Used to describe layout sizes
+Medium+: Orta +
+#Used to describe layout sizes
+Medium++: Orta ++
+#Used to describe layout sizes
+Medium+++: Orta +++
+#Used to describe layout sizes
+Medium++++: Orta ++++
+#Used to describe layout sizes
+Medium+++++: Orta +++++
+#Used to describe layout sizes
+Large: Büyük
+#Used to describe layout sizes
+Large+: Büyük +
+#Used to describe layout sizes
+Large++: Büyük ++
+#Used to describe layout sizes
+Large+++: Büyük +++
+#Used to describe layout sizes
+ExtraLarge: Ekstra büyük
+DetailsView: Ayrıntıları görüntüle
+LayoutType: Düzen türü
+Actions: Eylemler
+Commands: Komutlar
+AddCommand: Komut ekle
+RestoreDefaults: Varsayılanları geri yükle
+ChooseAnAction: Bir işlem seçin
+RestoreDefaultKeybindingsConfirmation: Varsayılan tuş atamalarını geri yüklemek istediğinizden emin misiniz? Bu eylem geri alınamaz.
+KeybindingAlreadyUsedNotification: Bu tuş ataması zaten kullanılıyor. Devam etmek için lütfen farklı bir tuş ataması seçin.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Özelleştirilmiş
+AdaptiveLayoutDisabledNotification: Tercihler senkronize edildiğinde uyarlanabilir düzen kullanılamaz, varsayılan düzen Ayrıntılar olarak değiştirilmiştir.
+BackgroundImage: Arka plan resmi
+#Image alignment type
+Bottom: Alt
+#Image alignment type
+Center: Merkez
+#Image stretch type
+Fill: Doldur
+HorizontalAlignment: Yatay hizalama
+ImageFit: Fotoğraf Sığdırma
+#Image alignment type
+Left: Sol
+Opacity: Şeffaflık
+#Image alignment type
+Right: Sağ
+#Image alignment type
+Top: Üst
+#Image stretch type
+Uniform: Oran
+#Image stretch type
+UniformToFill: Doldurmak için oranı koru
+VerticalAlignment: Dikey hizalama
+#This is a type of backdrop for the application background
+ThinAcrylic: Thin Acrylic
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Show for all locations
+DevTools: Developer tools
+DisplayOpenIDE: Configure the "Open IDE" button on the status bar
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Show for Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Application extension
+#This is the friendly name for ICO files.
+IcoFileCapitalized: ICO File
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Zip File
+#This is the friendly name for bitmap files.
+BitmapFiles: Bitmap Files
+NumPadTypeName: Num
+NetworkLocations: Network locations
+NoNetworkLocationsInfo: There are no network locations. If you don't use network locations, you can disable the widget.
+Disable: Disable
+EditInNotepad: Edit in Notepad
+EditInNotepadDescription: Edit the selected file in Notepad

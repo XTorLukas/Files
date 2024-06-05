@@ -1,0 +1,1467 @@
+NewWindow: Νέο παράθυρο
+CopyPath: Αντιγραφή διαδρομής
+CopyPathWithQuotes: Αντιγραφή διαδρομής με εισαγωγικά
+Browse: Περιηγηθείτε στο
+Size: Μέγεθος
+PropertiesCreated:
+  Text: 'Δημιουργήθηκε:'
+Path: Διαδρομή
+SizeLabel: 'Μέγεθος:'
+SizeOnDiskLabel: 'Μέγεθος στο δίσκο:'
+UncompressedSize: 'Μη συμπιεσμένο μέγεθος:'
+ErrorDialogThisActionCannotBeDone: Η ενέργεια αυτή δεν μπορεί να γίνει
+ErrorDialogTheDestinationFolder: Ο φάκελος προορισμού
+ErrorDialogIsASubfolder: είναι ένας υποφάκελος του αρχικού φακέλου
+Skip: Παράλειψη
+SelectAll: Επιλογή όλων
+InvertSelection: Αναστροφή επιλογής
+ClearSelection: Εκκαθάριση Επιλογής
+PropertiesModified:
+  Text: 'Τροποποιήθηκε:'
+Accessed: 'Προσπελάστηκε:'
+RecentItemClearAll:
+  Text: Εκκαθάριση όλων των στοιχείων
+NavigationToolbarVisiblePath:
+  PlaceholderText: Εισαγάγετε μια διαδρομή για πλοήγηση ή πληκτρολογήστε ">" για να ανοίξετε την παλέτα εντολών
+Search: Αναζήτηση
+RecentItemDescription:
+  Text: Τα αρχεία τα οποία προσπελάσατε στο παρελθόν θα εμφανιστούν εδώ
+RecentItemRemove:
+  Text: Αφαίρεση αυτού του στοιχείου
+OpenGitHubRepo: Αποθετήριο GitHub
+About: Σχετικά
+OpenSource: Ανοιχτού κώδικα
+DateFormat: Μορφή ημερομηνίας
+SettingsAppearanceTheme: Θέμα
+SettingsFilesAndFoldersShowFileExtensions: Εμφάνιση επεκτάσεων για γνωστούς τύπους αρχείων
+SettingsFilesAndFoldersShowHiddenItems: Εμφάνιση κρυφών αρχείων και φακέλων
+ShowDotFiles: Εμφάνιση dot files
+Appearance: Εμφάνιση
+BackgroundColor: Χρώμα φόντου
+Advanced: Για προχωρημένους
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Συνέχεια από εκεί που σταματήσατε
+SettingsOnStartupOpenANewTab:
+  Content: Άνοιγμα νέας καρτέλας
+SettingsOnStartupOpenASpecificPage:
+  Content: Άνοιγμα συγκεκριμένης σελίδας ή σελίδων
+Desktop: Επιφάνεια εργασίας
+Documents: Έγγραφα
+Downloads: Στοιχεία λήψης
+Name: Όνομα
+Ascending: Αύξουσα σειρά
+Paste: Επικόλληση
+BaseLayoutContextFlyoutNew:
+  Label: Δημιουργία
+Properties: Ιδιότητες
+Open: Άνοιγμα
+OpenInNewTab: Άνοιγμα σε νέα καρτέλα
+OpenInNewWindow: Άνοιγμα σε νέο παράθυρο
+Share: Κοινή χρήση
+Cut: Αποκοπή
+Delete: Διαγραφή
+PinFolderToSidebar: Καρφίτσωμα στην πλαϊνή μπάρα
+WelcomeDialog:
+  Title: Καλώς ήρθατε στο Files!
+  PrimaryButtonText: Χορήγηση άδειας
+WelcomeDialogTextBlock:
+  Text: 'Για να ξεκινήσετε, θα πρέπει να μας δώσετε την άδεια να προβάλλουμε τα αρχεία σας. Αυτό θα ανοίξει μια σελίδα ρυθμίσεων όπου μπορείτε να μας δώσετε αυτή την άδεια. Μόλις ολοκληρώσετε αυτό το βήμα, θα πρέπει να ανοίξετε ξανά την εφαρμογή. '
+Display: Προβολή
+EnterAnItemName: Εισάγετε ένα όνομα στοιχείου
+RenameDialog:
+  PrimaryButtonText: Όρισε όνομα
+LightTheme: Ανοιχτόχρωμο
+DarkTheme: Σκούρο
+Application: Εφαρμογή
+SystemTimeStyle: Σύστημα
+NewFolder: Νέος φάκελος
+NewFile: Νέο αρχείο
+EmptyFolder:
+  Text: Αυτός ο φάκελος είναι άδειος.
+Back: Πίσω (Alt+Αριστερό βέλος)
+Forward: Εμπρός (Alt+Δεξί βέλος)
+Up: Πάνω (Alt+Πάνω Βέλος)
+Refresh: Ανανέωση
+ItemAlreadyExistsDialogContent: Ένα στοιχείο με αυτό το όνομα υπάρχει ήδη σε αυτόν τον κατάλογο.
+ItemAlreadyExistsDialogSecondaryButtonText: Αντικατάσταση υπάρχοντος στοιχείου
+ItemAlreadyExistsDialogTitle: Το στοιχείο υπάρχει ήδη
+SetAsLockscreen: Ορισμός ως φόντο οθόνης κλειδώματος
+SetAsAppBackground: Ορισμός ως φόντο εφαρμογών
+AccessDeniedDeleteDialog:
+  Text: Δεν ήταν δυνατή η διαγραφή αυτού του στοιχείου
+DriveUnpluggedDialog:
+  Text: Τοποθετήστε την απαραίτητη μονάδα δίσκου για να αποκτήσετε πρόσβαση σε αυτό το στοιχείο.
+  Title: Η μονάδα δίσκου αποσυνδέθηκε
+FileNotFoundDialog:
+  Text: Το αρχείο που προσπαθείτε να προσπελάσετε ενδέχεται να έχει μετακινηθεί ή διαγραφεί.
+  Title: Το αρχείο δεν βρέθηκε
+CannotAccessPropertiesTitle: Αδυναμία ανοίγματος ιδιοτήτων για αυτό το αρχείο
+CannotAccessPropertiesContent: Το αρχείο που προσπαθείτε να προσπελάσετε ενδέχεται να έχει μετακινηθεί ή διαγραφεί.
+FolderNotFoundDialog:
+  Text: Ο φάκελος που προσπαθείτε να προσπελάσετε ενδέχεται να έχει μετακινηθεί ή διαγραφεί.
+  Title: Διαγράψατε αυτόν τον φάκελο;
+FileInUseByDialog:
+  Text: Το αρχείο που προσπαθείτε να ανοίξετε, χρησιμοποιείται αυτήν τη στιγμή από το {0}
+FileInUseDialog:
+  Text: Το αρχείο που προσπαθείτε να προσπελάσετε χρησιμοποιείται αυτήν τη στιγμή από άλλο πρόγραμμα
+  Title: Το αρχείο χρησιμοποιείται
+Layout: Διάταξη
+PropertiesDialogReadOnly:
+  Text: Μόνο για ανάγνωση
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Τώρα
+ErrorDialogUnsupportedOperation: Η ζητούμενη λειτουργία δεν υποστηρίζεται
+DriveFreeSpaceAndCapacity: '{0} ελεύθερα από {1}'
+SendTo: Αποστολή σε
+FileNameTeachingTip:
+  Subtitle: 'Το όνομα του στοιχείου δεν πρέπει να περιέχει τους ακόλουθους χαρακτήρες: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Το όνομα του στοιχείου που καθορίστηκε δεν είναι έγκυρο
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, one {# επιλεγμένο στοιχείο} other {# επιλεγμένα αντικείμενα}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, one {στοιχείο} other {αντικείμενα}}'
+Yes: Ναι
+ConfirmEmptyBinDialogContent: Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλα αυτά τα στοιχεία;
+ConfirmEmptyBinDialogTitle: Άδειασμα του κάδου ανακύκλωσης
+ItemSizeBytes: bytes
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Εκτέλεση ως άλλος χρήστης
+PropertiesDriveItemTypesEquals: Όλοι οι τύποι {0}
+PropertiesDriveItemTypeDifferent: Διαφορετικοί τύποι
+PropertiesCombinedItemLocation: Όλα σε {0}
+PropertiesDriveUsedSpace:
+  Text: 'Δεσμευμένος χώρος:'
+PropertiesDriveFreeSpace:
+  Text: 'Ελεύθερος χώρος:'
+PropertiesDriveCapacity:
+  Text: 'Χωρητικότητα:'
+PropertiesDriveFileSystem:
+  Text: 'Σύστημα αρχείων:'
+JumpListRecentGroupHeader: Πρόσφατα
+TabStripDragAndDropUIOverrideCaption: Μετακίνηση καρτέλας εδώ
+syncStatusColumn:
+  Header: Κατάσταση
+SettingsPreferencesSystemDefaultLanguageOption: Προεπιλογή των Windows
+NavigationToolbarVisiblePathNoResults: Δεν υπάρχουν αποτελέσματα
+SubDirectoryAccessDenied: Δεν είναι δυνατή η πρόσβαση σε στοιχεία για εμφάνιση
+MoveToFolderCaptionText: Μετακίνηση στο {0}
+CopyToFolderCaptionText: Αντιγραφή στο {0}
+CreateShortcut: Δημιουργία συντόμευσης
+OpenFileLocation: Άνοιγμα θέσης αρχείου
+PropertiesShortcutItemArgs:
+  Text: 'Παράμετροι:'
+PropertiesShortcutItemPath:
+  Text: 'Προορισμός:'
+PropertiesShortcutItemType:
+  Text: 'Τύπος συντόμευσης:'
+PropertiesShortcutTypeLink: Διαδικτυακός σύνδεσμος
+General: Γενικό
+Shortcut: Συντόμευση
+ShortcutWebLinkFileType: Διαδικτυακή συντόμευση
+ShortcutCreateNewSuffix: '{0} - συντόμευση'
+ExceptionNotificationBody: Το Files αντιμετώπισε ένα πρόβλημα για το οποίο οι προγραμματιστές δεν είχαν προετοιμαστεί ακόμα.
+ExceptionNotificationHeader: Κάτι πήγε στραβά!
+ExceptionNotificationReportButton: Αναφορά προβλήματος
+InvalidItemDialogContent: Το στοιχείο που αναφέρεται είναι είτε άκυρο είτε μη προσβάσιμο.{0}Μήνυμα σφάλματος:{0}{1}
+InvalidItemDialogTitle: Μη έγκυρο στοιχείο
+SettingsAboutVersionTitle: 'Έκδοση:'
+ShareDialogFailMessage: Δεν υπάρχει τίποτα για κοινή χρήση αυτή τη στιγμή...
+ShareDialogMultipleItemsDescription: Τα στοιχεία που έχετε επιλέξει θα διαμοιραστούν
+ShareDialogSingleItemDescription: Το επιλεγμένο στοιχείο θα διαμοιραστεί
+ShareDialogTitle: Κοινή χρήση {0}
+ShareDialogTitleMultipleItems: Κοινή χρήση {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Το στοιχείο που προσπαθείτε να μετονομάσετε δεν υπάρχει πλέον. Παρακαλούμε επαληθεύστε τη σωστή θέση του στοιχείου που θέλετε να μετονομάσετε.
+    Title: Το στοιχείο δεν υπάρχει πλέον
+  NameInvalid:
+    Text: Το όνομα που καθορίστηκε ήταν άκυρο. Ελέγξτε το επιθυμητό όνομα του στοιχείου και προσπαθήστε ξανά.
+    Title: Μη έγκυρο όνομα στοιχείου
+  TooLong:
+    Text: Το μήκος του καθορισμένου ονόματος στοιχείου υπερβαίνει το μέγιστο όριο. Ελέγξτε το επιθυμητό όνομα και προσπαθήστε ξανά.
+    Title: Το όνομα του στοιχείου ήταν πολύ μεγάλο
+ShowMoreOptions: Εμφάνιση περισσότερων επιλογών
+RestartNotificationText:
+  Text: Η εφαρμογή πρέπει να επανεκκινηθεί για να εφαρμοστούν αυτές οι ρυθμίσεις, θα θέλατε να επανεκκινήσετε την εφαρμογή;
+SponsorUsOnGitHub: Υποστηρίξτε μας στο GitHub
+AccessDeniedCreateDialog:
+  Text: Δεν μπορέσαμε να δημιουργήσουμε αυτό το στοιχείο
+AccessDenied: Δεν επιτρέπεται η πρόσβαση
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Ορίστε ως
+Cancel: Ακύρωση
+AddDialog:
+  Title: Φτιάξε ένα νέο αντικείμενο
+AddDialogDescription:
+  Text: Επιλέξτε έναν τύπο για αυτό το νέο στοιχείο παρακάτω
+File: Αρχείο
+AddDialogListFileSubHeader: Δημιουργεί ένα κενό αρχείο
+Folder: Φάκελος
+AddDialogListFolderSubHeader: Δημιουργεί έναν κενό φάκελο
+NavResfreshButton:
+  AutomationProperties:
+    Name: Ανανέωση του καταλόγου
+Language: Γλώσσα
+SettingsContextMenuOverflow: Μετακίνηση επεκτάσεων κελύφους σε υπομενού
+ShowConfirmationWhenDeletingItems: Εμφάνιση παραθύρου διαλόγου επιβεβαίωσης κατά τη διαγραφή στοιχείων
+PropertySaveErrorMessage:
+  Text: Υπήρξε ένα πρόβλημα με την αποθήκευση ορισμένων ιδιοτήτων.
+PropertySaveErrorDialog:
+  Title: Σφάλμα
+  SecondaryButtonText: Κλείσιμο οπωσδήποτε
+PropertyRatingText: Αξιολόγηση
+PropertyParsingPath: Διαδρομή στοιχείου
+PropertyItemTypeText: Τύπος στοιχείου
+PropertyTitle: Τίτλος
+PropertySubject: Θέμα
+PropertyComment: Σχόλιο
+PropertyCopyright: Πνευματικά δικαιώματα
+PropertyDateModified: Ημερομηνία τροποποίησης
+PropertyBitDepth: Βάθος bit
+PropertyDimensions: Διαστάσεις
+PropertyHorizontalSize: Οριζόντιο μέγεθος
+PropertyVerticalSize: Κατακόρυφο μέγεθος
+PropertyHorizontalResolution: Οριζόντια ανάλυση
+PropertyVerticalResolution: Κατακόρυφη ανάλυση
+PropertyColorSpace: Χρωματικός χώρος
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Μη καθορισμένο
+PropertyLongitudeDecimal: Γεωγραφικό μήκος Δεκαδικό
+PropertyLatitudeDecimal: Γεωγραφικό πλάτος Δεκαδικό
+PropertyAltitude: Υψόμετρο
+PropertyDateTaken: Ημερομηνία λήψης
+PropertyCameraManufacturer: Κατασκευαστής κάμερας
+PropertyCameraModel: Μοντέλο κάμερας
+PropertyExposureTime: Χρόνος έκθεσης
+PropertyFocalLength: Εστιακή απόσταση
+PropertyAperture: Διάφραγμα
+PropertyPeopleNames: Ονόματα ανθρώπων
+PropertyChannelCount: Αριθμός καναλιών
+PropertyFormat: Μορφή
+PropertySampleRate: Ρυθμός δειγματοληψίας
+PropertyAlbumArtist: Καλλιτέχνης άλμπουμ
+PropertyAlbumTitle: Τίτλος άλμπουμ
+Artist: Καλλιτέχνης
+PropertyBeatsPerMinute: Κτύποι ανά λεπτό
+PropertyComposer: Συνθέτης
+Conductor: Διευθυντής ορχήστρας
+PropertyDiscNumber: Αριθμός δίσκου
+PropertyGenre: Είδος
+PropertyTrackNumber: Αριθμός κομματιού
+PropertyDuration: Διάρκεια
+PropertyFrameCount: Μέτρηση καρέ
+PropertyProtectionType: Τύπος προστασίας
+PropertyAuthorUrl: URL συγγραφέα
+PropertyContentDistributor: Διανομέας περιεχομένου
+PropertyDateReleased: Ημερομηνία κυκλοφορίας
+PropertySeriesName: Όνομα σειράς
+PropertySeasonNumber: Αριθμός σαιζόν
+PropertyEpisodeNumber: Αριθμός επεισοδίου
+PropertyProducer: Παραγωγός
+PropertyPromotionUrl: Url προώθησης
+PropertyProviderStyle: Στυλ παρόχου
+PropertyPublisher: Εκδότης
+PropertyThumbnailLargePath: Μικρογραφία Μεγάλη διαδρομή
+PropertyThumbnailLargeUri: Μικρογραφία Μεγάλου Uri
+PropertyThumbnailSmallPath: Μικρογραφία Μικρή διαδρομή
+PropertyThumbnailSmallUri: Μικρογραφία Μικρό Uri
+PropertyUserWebUrl: Web Url Χρήστη
+PropertyWriter: Συγγραφέας
+PropertyYear: Έτος
+PropertyContributor: Συντελεστής
+PropertyLastAuthor: Τελευταίος συγγραφέας
+PropertyRevisionNumber: Αριθμός αναθεώρησης
+PropertyVersion: Έκδοση
+PropertyDateCreated: Ημερομηνία δημιουργίας
+PropertyTotalEditingTime: Συνολικός χρόνος επεξεργασίας
+PropertyTemplate: Πρότυπο
+PropertyWordCount: Αριθμός λέξεων
+PropertyCharacterCount: Αριθμός χαρακτήρων
+PropertyLineCount: Αριθμός γραμμών
+PropertyParagraphCount: Αριθμός παραγράφων
+PropertyPageCount: Αριθμός σελίδων
+PropertySlideCount: Αριθμός διαφανειών
+PropertyFrameRate: Ρυθμός καρέ
+PropertyEncodingBitrate: Κωδικοποίηση Bitrate
+PropertyPreviewAudioEncodingBitrate: Ρυθμός Bit Κωδικοποίησης Ήχου
+PropertyPreviewVideoEncodingBitrate: Ρυθμός Bit Κωδικοποίησης Βίντεο
+Compression: Συμπίεση
+PropertyFrameWidth: Πλάτος καρέ
+PropertyFrameHeight: Ύψος καρέ
+PropertyOrientation: Προσανατολισμός
+PropertySectionCore: Πυρήνας
+PropertySectionImage: Εικόνα
+PropertySectionPhoto: Φωτογραφία
+PropertySectionGPS: GPS
+PropertySectionMedia: Μέσα
+PropertySectionAudio: Ήχος
+PropertySectionMusic: Μουσική
+PropertySectionVideo: Βίντεο
+Document: Έγγραφο
+Address: Διεύθυνση
+SelectionOptions: Ρυθμίσεις επιλογής
+NavToolbarSelectionOptions:
+  Label: Επιλέξτε
+RecycleBinItemAutomation: Στοιχείο του κάδου ανακύκλωσης
+ShortcutItemAutomation: Στοιχείο συντόμευσης
+Drives: Μονάδες Δίσκου
+PinToSidebarByDraggingCaptionText: Μετακίνηση εδώ
+EjectNotificationHeader: Ασφαλής κατάργηση υλικού
+EjectNotificationBody: Η συσκευή μπορεί τώρα να αφαιρεθεί με ασφάλεια από τον υπολογιστή.
+EjectNotificationErrorDialogHeader: Πρόβλημα εξαγωγής συσκευής
+EjectNotificationErrorDialogBody: Αυτή η συσκευή είναι σε χρήση. Κλείστε τυχόν προγράμματα, παράθυρα ή καρτέλες που ενδέχεται να χρησιμοποιούν τη συσκευή και, στη συνέχεια, δοκιμάστε ξανά.
+Eject: Εξαγωγή
+DuplicateTab: Δημιουργία αντιγράφου καρτέλας
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Μετακίνηση καρτέλας σε νέο παράθυρο
+NewTab: Νέα καρτέλα
+ClearPropertiesFlyoutText:
+  Text: Ορισμένες ιδιότητες ενδέχεται να περιέχουν προσωπικές πληροφορίες.
+ClearPropertiesButton:
+  Content: Εκκαθάριση όλων των ιδιοτήτων
+OngoingTasksTeachingTip:
+  Subtitle: Ελέγξτε την κατάσταση των λειτουργιών αρχείων εδώ
+  Title: Κέντρο κατάστασης
+SearchPagePathBoxOverrideText: Αποτελέσματα αναζήτησης στο {1} για {0}
+Details: Λεπτομέρειες
+No: Όχι
+ShowProtectedSystemFiles: Εμφάνιση προστατευόμενων αρχείων συστήματος
+SyncFolderPreferencesAcrossDirectories: Συγχρονισμός προτιμήσεων διάταξης και ταξινόμησης μεταξύ καταλόγων
+SettingsContextMenu:
+  Text: Προσαρμογή του μενού περιβάλλοντος δεξιού κλικ
+OriginalPath: Αρχική διαδρομή
+Add: Προσθήκη
+Edit: Επεξεργασία
+Remove: Αφαίρεση
+SettingsMultitaskingAlwaysOpenDualPane: Άνοιγμα καρτελών σε λειτουργία διπλού παραθύρου
+ShowOpenInNewPane: Εμφάνιση επιλογής ανοίγματος φακέλων σε ένα νέο παράθυρο
+ShowCopyPath: Εμφάνιση επιλογής για αντιγραφή διαδρομής
+ShowCreateFolderWithSelection: Εμφάνιση επιλογής για δημιουργία φακέλου με επιλογή
+ShowCreateShortcut: Εμφάνιση επιλογής για δημιουργία συντόμευσης
+NavigationToolbarNewPane:
+  Label: Νέο παράθυρο
+OpenInNewPane: Άνοιγμα σε νέο παράθυρο
+FilesAndFolders: Αρχεία & φάκελοι
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Λεπτομέρειες (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Πλακίδια (Ctrl+Shift+2)
+DateDeleted: Ημερομηνία διαγραφής
+SidebarCloudDrives: Δίσκοι Cloud
+Confirm: Επιβεβαίωση
+DesiredName: Επιθυμητό όνομα
+TogglePreviewPane: Εναλλαγή του παραθύρου προεπισκόπησης
+ToggleDetailsPane: Εναλλαγή παραθύρου λεπτομερειών
+ToggleDetailsPaneDescription: Εναλλαγή του πλαισίου λεπτομερειών για την προβολή βασικών ιδιοτήτων αρχείου
+ToggleInfoPane: Εναλλαγή του πλαισίου πληροφοριών
+ToggleInfoPaneDescription: Εναλλαγή του πλαισίου πληροφοριών για προβολή των παραθύρων λεπτομερειών/προεπισκόπησης
+DetailsPanePreviewNotAvaliableText: Δεν υπάρχει διαθέσιμη προεπισκόπηση
+PropertyItemName: Όνομα στοιχείου
+UnpinFolderFromSidebar: Ξεκαρφίτσωμα από την πλαϊνή μπάρα
+Network: Δίκτυο
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Λεπτομέρειες αρχείου
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Προεπισκόπηση αρχείου
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Παράθυρο προεπισκόπησης επιλεγμένου αρχείου
+Feedback: Σχόλια
+CloudDriveSyncStatus_Online: Διαθέσιμο στο διαδίκτυο
+Documentation: Τεκμηρίωση
+CloudDriveSyncStatus_Offline: Διαθέσιμο εκτός σύνδεσης
+CloudDriveSyncStatus_PartialOffline: Μερικώς διαθέσιμο εκτός σύνδεσης
+CloudDriveSyncStatus_Sync: Γίνεται συγχρονισμός
+CloudDriveSyncStatus_Excluded: Εξαιρείται από τον συγχρονισμό
+ItemSizeNotCalculated: Δεν έχει υπολογιστεί
+CloudDriveSyncStatus_Unknown: Άγνωστο
+RenameFileDialog:
+  Text: Εάν αλλάξετε μια επέκταση αρχείου, το αρχείο ενδέχεται να καταστεί άχρηστο. Είστε σίγουροι ότι θέλετε να την αλλάξετε;
+DriveTypeCDRom: Μονάδα CD ROM
+DriveTypeCloudDrive: Δίσκος Cloud
+DriveTypeFixed: Σταθερός δίσκος
+DriveTypeFloppyDisk: Δισκέτα
+DriveTypeNetwork: Δίσκος δικτύου
+DriveTypeNoRootDirectory: Μη τοποθετημένος δίσκος
+DriveTypeRam: Δίσκος RAM
+DriveTypeRemovable: Αφαιρούμενη συσκευή αποθήκευσης
+DriveTypeUnknown: Άγνωστο
+DriveTypeVirtualDrive: Εικονική μονάδα δίσκου
+DateCreated: Ημερομηνία δημιουργίας
+MoreOptions: Περισσότερες επιλογές...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Χαρτογράφηση μονάδας δικτύου
+Pinned: Καρφιτσωμένα
+SidebarLibraries: Βιβλιοθήκες
+NoItemSelected: Δεν έχει επιλεγεί κανένα στοιχείο
+PropertyItemTarget: Στόχος
+Arguments: Επιχειρήματα
+Default: Προεπιλογή
+PropertyItemCount: Αριθμός στοιχείων
+ElevateConfirmDialog:
+  Title: Αυτή η ενέργεια απαιτεί δικαιώματα διαχειριστή
+  Content: Θα θέλατε να συνεχίσετε ως διαχειριστής;
+ColumnsShortcutTooltip: Στήλες (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Καρφίτσωμα στο μενού Έναρξη
+UnpinItemFromStart:
+  Text: Ξεκαρφίτσωμα από το μενού Έναρξη
+Library: Βιβλιοθήκη
+LibraryLocations:
+  Text: 'Τοποθεσίες:'
+SetAsDefaultSavePath: Ορισμός ως προεπιλεγμένη διαδρομή αποθήκευσης
+LibraryNoLocations:
+  Text: Δεν υπάρχουν τοποθεσίες
+ErrorInputEmpty: Το πεδίο εισαγωγής δεν μπορεί να είναι κενό!
+ErrorNameInputRestrictedCharacters: 'Το όνομα δεν πρέπει να περιέχει τους ακόλουθους χαρακτήρες: \ / : * ? " < > |'
+ErrorNameInputRestricted: Η χρήση αυτού του ονόματος δεν επιτρέπεται!
+CreateLibraryErrorAlreadyExists: Βιβλιοθήκη με το ίδιο όνομα υπάρχει ήδη!
+OpenStorageSense: Άνοιγμα Storage Sense
+Copy: Αντιγραφή
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Μετακίνηση
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Συνέχεια
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Μόνιμη διαγραφή
+PropertyISO: Ταχύτητα ISO
+ReplaceExisting: Αντικαταστήστε το υπάρχον
+GenerateNewName: Δημιουργία νέου ονόματος
+CreateFolderWithSelection: Δημιουργία φακέλου με επιλογή
+ItemType: 'Τύπος:'
+ToolTipDescriptionDate: 'Ημερομηνία τροποποίησης:'
+OpenWith: Άνοιγμα με
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Εικονίδιο αρχείου
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Στήλη αρχικής διαδρομής
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Στήλη τύπου στοιχείου
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Στήλη ημερομηνίας τροποποίησης
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Στήλη ημερομηνίας διαγραφής
+Sort: Ταξινόμιση
+DateModifiedLowerCase: Ημερομηνία τροποποίησης
+OriginalFolder: Αρχικός φάκελος
+Descending: Φθίνουσα σειρά
+ItemSizeText_Huge: Τεράστιο
+ItemSizeText_VeryLarge: Πολύ μεγάλο
+ItemSizeText_Large: Μεγάλο
+ItemSizeText_Medium: Μεσαίο
+ItemSizeText_Small: Μικρό
+ItemSizeText_Tiny: Μικροσκοπικό
+Future: Μέλλον
+Today: Σήμερα
+Yesterday: Χθες
+EarlierThisWeek: Νωρίτερα αυτή την εβδομάδα
+LastWeek: Την περασμένη εβδομάδα
+EarlierThisMonth: Νωρίτερα αυτό το μήνα
+LastMonth: Τον περασμένο μήνα
+EarlierThisYear: Νωρίτερα αυτό το έτος
+LastYear: Πέρυσι
+YearN: Έτος {0}
+GroupItemsCount_Singular: '{0} στοιχείο'
+GroupItemsCount_Plural: '{0} στοιχεία'
+ReopenClosedTab: Άνοιγμα καρτέλας που έχει κλείσει
+Rename: Μετονομασία
+Privacy: Απόρρητο
+TheRecycleBin: τον Κάδο Ανακύκλωσης
+Canceling: Ακύρωση
+Clear: Εκκαθάριση
+Widgets: Widgets
+SyncStatus: Κατάσταση συγχρονισμού
+Security: Ασφάλεια
+AdvancedPermissions: Προηγμένα δικαιώματα
+Allow: Αποδοχή
+Deny: Άρνηση
+SecurityFullControlLabel:
+  Text: Πλήρης έλεγχος
+SecurityListDirectoryLabel:
+  Text: Λίστα περιεχομένων καταλόγου
+Modify: Τροποποίηση
+SecurityPermissionsHeaderText: Δικαιώματα για {0}
+SecurityReadAndExecuteLabel:
+  Text: Ανάγνωση και εκτέλεση
+SecurityReadLabel:
+  Text: Ανάγνωση
+SecurityUsersGroupLabel:
+  Text: Ονόματα ομάδων ή χρηστών
+Write: Εγγραφή
+SecurityUnknownAccount: Άγνωστος λογαριασμός
+SecurityCannotReadProperties:
+  Text: Δεν έχετε δικαιώματα προβολής των ιδιοτήτων ασφαλείας αυτού του αντικειμένου. Κάντε κλικ στην επιλογή "Προηγμένα δικαιώματα" για να συνεχίσετε.
+SecurityOwnerLabel:
+  Text: 'Ιδιοκτήτης:'
+SecurityUnknownOwnerText:
+  Text: Άγνωστος ιδιοκτήτης
+ExtractArchive: Εξαγωγή αρχείου
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Άνοιγμα φακέλου προορισμού όταν ολοκληρωθεί
+BaseLayoutItemContextFlyoutExtractToChildFolder: Εξαγωγή στο {0}\
+SideBarCreateNewLibrary:
+  Text: Δημιουργία νέας βιβλιοθήκης
+SideBarRestoreLibraries:
+  Text: Επαναφορά προεπιλεγμένων βιβλιοθηκών
+DialogRestoreLibrariesSubtitleText: Είστε σίγουροι ότι θέλετε να επαναφέρετε τις προεπιλεγμένες βιβλιοθήκες; Όλα τα αρχεία σας θα παραμείνουν στον αποθηκευτικό σας χώρο.
+DialogRestoreLibrariesTitleText: Επαναφορά βιβλιοθηκών
+PropertyFileOwner: Ιδιοκτήτης
+SecuritySpecialLabel:
+  Text: Ειδικό
+Access: Πρόσβαση
+SecurityAdvancedAppliesTo: Εφαρμογή σε
+Principal: Κεφάλαιο
+SecurityAdvancedFlagsFilesLabel: αρχεία
+SecurityAdvancedFlagsFolderLabel: αυτός ο φάκελος
+SecurityAdvancedFlagsSubfoldersLabel: υποφάκελοι
+Inherited: Κληρονομικό
+Permissions: Δικαιώματα
+SecurityAdvancedCannotReadProperties:
+  Text: Δεν έχετε δικαιώματα προβολής των ιδιοτήτων ασφαλείας αυτού του αντικειμένου. Μπορείτε να προσπαθήσετε να αναλάβετε την κυριότητα αυτού του αντικειμένου.
+SecurityAdvancedFolderFiles:
+  Text: Αυτός ο φάκελος και τα αρχεία
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Αυτός ο φάκελος, οι υποφάκελοι και τα αρχεία
+SecurityAdvancedOnlyFiles:
+  Text: Μόνο αρχεία
+SecurityAdvancedOnlySubfolders:
+  Text: Μόνο υποφάκελοι
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Μόνο υποφάκελοι και αρχεία
+SecurityAdvancedOnlyThisFolder:
+  Text: Μόνο αυτός ο φάκελος
+SecurityAdvancedFolderSubfolders:
+  Text: Αυτός ο φάκελος και οι υποφάκελοι
+SecurityAppendDataLabel:
+  Text: Προσάρτηση δεδομένων
+SecurityChangePermissionsLabel:
+  Text: Αλλαγή άδειας
+SecurityCreateDirectoriesLabel:
+  Text: Δημιουργία φακέλων
+SecurityCreateFilesLabel:
+  Text: Δημιουργία αρχείων
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Διαγραφή υποκαταλόγων και αρχείων
+SecurityExecuteFileLabel:
+  Text: Εκτέλεση αρχείων
+SecurityReadAttributesLabel:
+  Text: Χαρακτηριστικά ανάγνωσης
+SecurityReadDataLabel:
+  Text: Ανάγνωση δεδομένων
+SecurityReadExtendedAttributesLabel:
+  Text: Πρόσθετα χαρακτηριστικά ανάγνωσης
+SecurityReadPermissionsLabel:
+  Text: Δικαιώματα ανάγνωσης
+SecurityTakeOwnershipLabel:
+  Text: Ανάληψη κατοχής
+SecurityTraverseLabel:
+  Text: Προσπέλαση φακέλου
+SecurityWriteAttributesLabel:
+  Text: Χαρακτηριστικά εγγραφής
+SecurityWriteDataLabel:
+  Text: Εγγραφή δεδομένων
+SecurityWriteExtendedAttributesLabel:
+  Text: Πρόσθετα χαρακτηριστικά εγγραφής
+SecurityAdvancedInheritedConvert:
+  Text: Μετατροπή κληρονομικών δικαιωμάτων σε ρητά δικαιώματα
+SecurityAdvancedInheritedEnable:
+  Text: Ενεργοποίηση κληρονομικότητας
+SecurityAdvancedInheritedRemove:
+  Text: Κατάργηση όλων των κληρονομημένων δικαιωμάτων
+SecurityAdvancedReplaceChildPermissions:
+  Text: Επαναφορά δικαιωμάτων παιδιών
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Αντικατάσταση όλων των καταχωρίσεων δικαιωμάτων θυγατρικών αντικειμένων με κληρονομήσιμες καταχωρίσεις δικαιωμάτων από αυτό το αντικείμενο
+NavigationToolbarClosePane:
+  Label: Κλείσιμο παραθύρου
+EnterCompactOverlay: Εισαγωγή συμπαγούς επικάλυψης
+ExitCompactOverlay: Έξοδος από συμπαγή επικάλυψη
+PropertyFileDescription: Περιγραφή αρχείου
+PropertyCompany: Εταιρεία
+PropertyLanguage: Γλώσσα
+PropertyTrademarks: Εμπορικά σήματα
+PropertyFileVersion: Έκδοση αρχείου
+PreviewPaneLoadCloudItemButton:
+  Text: Φόρτωση πλήρους προεπισκόπησης
+  ToolTipService:
+    ToolTip: Λήψη του στοιχείου από το cloud και φόρτωση της προεπισκόπησης
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Μη συμπιεσμένο μέγεθος
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Απόκρυψη τμήματος {0}
+AddFile: Προσθήκη αρχείου
+ConsentDialogTitle: Διαθέσιμες ενημερώσεις
+ConsentDialogContent: Οι ενημερώσεις είναι έτοιμες για εγκατάσταση
+Close: Κλείσιμο
+ConsentDialogPrimaryButtonText: Ενημέρωση
+Home: Αρχική σελίδα
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Η εξαγωγή του αρχείου ολοκληρώθηκε με επιτυχία.
+ExtractingArchiveText: Εξαγωγή αρχείου
+ExtractingCompleteText: Η εξαγωγή ολοκληρώθηκε!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Άνοιγμα γονικού φακέλου
+Unknown: Άγνωστο
+EditTags: Επεξεργασία ετικετών αρχείων
+PropertyPartOfSet: Μέρος του σετ
+InsertDiscDialog:
+  OpenDriveButton: Άνοιγμα μονάδας δίσκου
+  Text: Τοποθετήστε ένα δίσκο στη μονάδα {0}
+  Title: Τοποθετήστε ένα δίσκο
+OK: Εντάξει
+AskCredentialDialog:
+  Title: Απαιτούμενα διαπιστευτήρια
+CredentialDialogAnonymous:
+  Content: Ανώνυμος
+CredentialDialogDescription:
+  Text: 'Δώστε τα διαπιστευτήριά σας:'
+CredentialDialogUserName:
+  PlaceholderText: Όνομα χρήστη
+NoSearchResultsFound: Δεν βρέθηκαν στοιχεία
+OpenLogLocation: Άνοιγμα τοποθεσίας καταγραφών
+LinkToFolderCaptionText: Δημιουργία συνδέσμου στο {0}
+Columns: Στήλες
+Tiles: Πλακίδια
+OpenFoldersInNewTab: Άνοιγμα φακέλων σε νέα καρτέλα
+StatusCenter: Κέντρο κατάστασης
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Στήλη ημερομηνίας δημιουργίας
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Στήλη μεγέθους στοιχείου
+ExperimentalFeatureFlags: Πειραματικές σημαίες χαρακτηριστικών
+HelpAndSupport: Βοήθεια και υποστήριξη
+SubmitFeatureRequest: Υποβολή αιτήματος δυνατότητας
+SubmitBugReport: Υποβολή αναφοράς σφάλματος
+SettingsSetAsDefaultFileManager: Ορισμός του Files ως το προεπιλεγμένο πρόγραμμα διαχείρησης αρχείων
+SettingsSetAsOpenDialog: Χρήση Files ως παράθυρο διαλόγου για άνοιγμα αρχείων
+Tag: Ετικέτα αρχείου
+SettingsOpenItemsWithOneClick: Άνοιγμα αρχείων με ένα κλικ
+FolderPath: Διαδρομή φακέλου
+ExportSettings: Εξαγωγή ρυθμίσεων
+ImportSettings: Ρυθμίσεις εισαγωγής
+SettingsImportErrorDescription: Δεν ήταν δυνατή η εισαγωγή ρυθμίσεων. Το αρχείο ρυθμίσεων είναι κατεστραμμένο.
+SettingsImportErrorTitle: Σφάλμα κατά την εισαγωγή ρυθμίσεων
+EmptyRecycleBin: Άδειασμα κάδου ανακύκλωσης
+Sidebar: Πλαϊνή μπάρα
+ChooseCustomIcon: Επιλέξτε ένα προσαρμοσμένο εικονίδιο φακέλου
+Customization: Προσαρμογή
+RestoreDefault: Επαναφορά προεπιλογών
+OpenTabInExistingInstance: Άνοιγμα καρτέλας στην υπάρχουσα περίπτωση κατά το άνοιγμα αρχείων από άλλη εφαρμογή
+StartupSettings: Ρυθμίσεις εκκίνησης
+Compatibility: Συμβατότητα
+None: Κανένα
+CompatibilityOnWindowsLogin: Κατά την είσοδο στα Windows
+CompatibilityOnProgramStart: Στην εκκίνηση του προγράμματος
+System: Σύστημα
+CompatibilitySystemEnhanced: Σύστημα (για προχωρημένους)
+CompatibilityReducedColorModeColor16bit: 16-bit (65536) χρώμα
+CompatibilityReducedColorModeColor8bit: 8-bit (256) χρώμα
+CompatibilityDisableFullscreenOptimizations: Απενεργοποίηση βελτιστοποιήσεων πλήρους οθόνης
+CompatibilityRunIn640x480Resolution: Εκτέλεση σε ανάλυση οθόνης 640 x 480
+CompatibilityOverrideHighDPIBehavior: Παράκαμψη συμπεριφοράς κλιμάκωσης υψηλού DPI
+CompatibilityReducedColorMode: Λειτουργία μειωμένων χρωμάτων
+CompatibilityRegisterThisProgramForRestart: Καταχωρήστε αυτό το πρόγραμμα για επανεκκίνηση
+RunAsAdministrator: Εκτέλεση ως διαχειριστής
+CompatibilityRunTroubleshooter: Εκτέλεση προγράμ. αντιμετώπ. προβλημ. συμβατότητας
+CompatibilityUseDPISettings: Χρήση των ρυθμίσεων DPI της κύριας οθόνης
+CompatibilityDoNotAdjustDPI: Μην προσαρμόσετε το DPI
+CompatibilityDoNotOverrideDPI: Να μην παρακάμπτεται το DPI
+CompatibilityMode: Λειτουργία συμβατότητας
+CompatibilityNoReducedColor: Χωρίς μειωμένο χρώμα
+ThirdPartyLicenses: Άδειες τρίτων
+SettingsSetAsDefaultFileManagerDescription: Αυτή η ρύθμιση τροποποιεί αρχεία του συστήματος και μπορεί να έχει απροσδόκητες παρενέργειες στη συσκευή σας. Συνεχίστε με δική σας ευθύνη.
+FolderWidgetCreateNewLibraryDialogTitleText: Δημιουργία βιβλιοθήκης
+FolderWidgetCreateNewLibraryInputPlaceholderText: Εισάγετε το όνομα της βιβλιοθήκης
+CalculateFolderSizes: Υπολογισμός μεγέθους φακέλων
+RecentFiles: Πρόσφατα αρχεία
+SettingsOpenInLogin: Άνοιγμα του Files κατά την εκκίνηση των Windows
+Attributes: Χαρακτηριστικά
+Hidden: Κρυφό
+MoreDetails: Περισσότερες λεπτομέρειες
+ReadOnly: Μόνο για ανάγνωση
+CleanupDrive: Εκκαθάριση των περιεχομένων του δίσκου
+Type: Τύπος
+Bytes: Bytes
+Extract: Εξαγωγή
+ExtractFiles: Εξαγωγή αρχείων
+ExtractHere: Εξαγωγή εδώ
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Αποσυμπίεση στο {0}
+RunScript: Εκτέλεση script
+RunWithPowerShell: Άνοιγμα με PowerShell
+ShowFolderSizesWarning: Ο υπολογισμός μεγέθους των φακέλων είναι υπολογιστικά απαιτητικός και μπορεί να προκαλέσει αύξηση της χρήσης του επεξεργαστή.
+RotateLeft: Περιστροφή αριστερά
+RotateRight: Περιστροφή δεξιά
+Install: Εγκατάσταση
+CloseTabsToTheLeft: Κλείσιμο καρτέλων αριστερά
+CloseTabsToTheRight: Κλείσιμο καρτέλων δεξιά
+CloseOtherTabs: Κλείσιμο των άλλων καρτέλων
+Music: Μουσική
+Pictures: Εικόνες
+UpdateFiles: Ενημέρωση του Files
+FileTags: Ετικέτες
+Universal: Διεθνής
+DateFormatSample: 'ex: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Εμφάνιση μικρογραφιών
+Retry: Επανάληψη
+ErrorDialogUnsupportedMoveOperation: Δεν υποστηρίζεται η ενέργεια μετακίνησης σε αυτό το πλαίσιο. Θέλετε να αντιγράψετε τα αντικείμενα;
+HiddenItems: Κρυμμένα αντικείμενα
+Custom: Προσαρμοσμένο
+SetAsSlideshow: Ορισμός ως slideshow επιφάνειας εργασίας
+SizeAllColumnsToFit: Μέγεθος όλων των στηλών για προσαρμογή
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Προσαρμόσιμο (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Show alternate data streams
+Behaviors: Συμπεριφορές
+ReviewFiles: Αξιολογήστε το Files
+ReviewFilesContent: Θα θέλατε να αξιολογήσετε την εφαρμογή "Files";
+SetAsBackgroundFlyout: Ορισμός ως φόντο επιφάνειας εργασίας
+SetAsBackground: Ορισμός ως φόντο επιφάνειας εργασίας
+SetAsDefault: Ορισμός ως προεπιλογή
+DateColumn: Στήλη Ημερομηνίας
+DateCreatedColumn: Στήλη ημερομηνίας δημιουργίας
+SizeColumn: Στήλη Μεγέθους
+TagColumn: Στήλη Ετικέτας
+TypeColumn: Στήλη Τύπου Αρχείων
+Lockscreen: Οθόνη κλειδώματος
+OpenFolderWithOneClickColumnsLayout: Να ανοίγουν οι φάκελοι με ένα κλικ στη διάταξη "Στήλες"
+OpeningItems: Άνοιγμα αντικειμένων
+Compress: Συμπίεση
+SelectFilesAndFoldersOnHover: Να επιλέγονται τα αρχεία όταν το ποντίκι είναι πάνω τους
+ConfirmRestoreBinDialogContent: Θέλετε πράγματι να επαναφέρετε όλα τα αρχεία από τον κάδο ανακύκλωσης στην αρχική τους θέση;
+ConfirmRestoreBinDialogTitle: Επαναφορά όλων των αντικειμένων
+ConfirmRestoreSelectionBinDialogContent: Θέλετε πράγματι να επαναφέρετε το/τα {0} επιλεγμένα στοιχείο(α);
+ConfirmRestoreSelectionBinDialogTitle: Επαναφορά επιλογής
+RestoreAllItems: Επαναφορά Όλων των Αντικειμένων
+Restore: Επαναφορά
+ShortcutCannotBeOpened: Η συντόμευση δεν μπορεί να ανοιχθεί
+DeleteShortcutDescription: Ο προορισμός της συντόμευσης δε βρέθηκε {0}. Θέλετε να διαγράψετε αυτήν τη συντόμευση;
+AccessDeniedToFolder: Δεν έχετε δικαίωμα πρόσβασης σε αυτόν τον φάκελο.
+ArchivePassword: Κωδικός αρχείου
+ExtractToPath: Διαδρομή
+SortingAndGrouping: Ταξινόμηση και ομαδοποίηση
+CreateArchive: Δημιουργία αρχείου
+Create: Δημιουργία
+CreateNamedArchive: Δημιουργία {0}
+EnterName: Πληκτρολογήστε ένα όνομα
+CompressionLevel: Επίπεδο συμπίεσης
+CompressionLevelUltra: Πολύ υψηλό
+CompressionLevelHigh: Υψηλό
+CompressionLevelNormal: Κανονικό
+CompressionLevelLow: Χαμηλό
+CompressionLevelFast: Γρήγορο
+CompressionLevelNone: Κανένα
+SplittingSize: Μέγεθος διαχωρισμού
+Do not split: Να μη διαχωριστεί
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Kρυπτογράφηση
+Password: Κωδικός πρόσβασης
+Format: Μορφή
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Στήλη κατάστασης συγχρονισμού
+GroupBy: Ομαδοποίηση κατά
+SortBy: Ταξινόμηση κατά
+GroupInDescendingOrder: Ομαδοποίηση κατά φθίνουσα σειρά
+SortInDescendingOrder: Ταξινόμηση κατά φθίνουσα σειρά
+NewShortcutDialogTitle: Δημιουργία συντόμευσης
+NewShortcutDialogDescription: Δημιουργία συντομεύσεων σε τοπικά ή δικτυακά προγράμματα, αρχεία, φακέλους, υπολογιστές ή διευθύνσεις Διαδικτύου.
+NewShortcutDialogPrompt: 'Εισάγετε τη θέση του στοιχείου:'
+AddDialogListShortcutSubHeader: Δημιουργεί μία συντόμευση
+RecentFilesDisabledOnWindowsWarning: Τα πρόσφατα χρησιμοποιούμενα αρχεία είναι απενεργοποιημένα στον Εξερευνητή αρχείων των Windows.
+EditSettingsFile: Επεξεργασία αρχείου ρυθμίσεων
+WhatsNew: Τι νέο υπάρχει
+CannotCreateShortcutDialogTitle: Η δημιουργία μιας συντόμευσης σε αυτήν την τοποθεσία απαιτεί δικαιώματα διαχειριστή
+CannotCreateShortcutDialogMessage: Θέλετε να δημιουργήσετε τη συντόμευση στην επιφάνεια εργασίας;
+ErrorDialogNameNotAllowed: Το καθορισμένο όνομα στοιχείου δεν είναι έγκυρο
+Settings: Ρυθμίσεις
+DoubleClickBlankSpaceToGoUp: Κάντε διπλό κλικ σε έναν κενό χώρο για να ανεβείτε κατά έναν κατάλογο
+ViewMore: Εμφάνιση περισσοτέρων
+ShowEditTagsMenu: Εμφάνιση επεξεργασίας ετικετών
+ShowCompressionOptions: Εμφάνιση επιλογών συμπίεσης
+ShowSendToMenu: Εμφάνιση μενού Αποστολή Σε
+ShowOpenInNewTab: Εμφάνιση επιλογής ανοίγματος φακέλων σε νέα καρτέλα
+ShowOpenInNewWindow: Εμφάνιση επιλογής ανοίγματος φακέλων σε νέο παράθυρο
+QuickAccess: Γρήγορη πρόσβαση
+NetworkAuthenticationDialogMessage: 'Εισάγετε τα διαπιστευτήριά σας για να συνδεθείτε στο: {0}'
+NetworkAuthenticationDialogTitle: Εισάγετε διαπιστευτήρια δικτύου
+NetworkAuthenticationSaveCheckbox: Απομνημόνευση των διαπιστευτηρίων μου
+NetworkFolderErrorDialogTitle: Σφάλμα φακέλου δικτύου
+AppVersion: Έκδοση εφαρμογής
+WindowsVersion: Έκδοση των Windows
+Always: Πάντα
+PermanentDeletionOnly: Μόνο μόνιμη διαγραφή
+Never: Ποτέ
+TagColor: Χρώμα ετικέτας
+NewTag: Νέα ετικέτα
+CreateNewTag: Δημιουργία νέας ετικέτας
+Loading: Φόρτωση...
+ContextMenuOptions: Επιλογές μενού περιβάλλοντος
+ShowFileExtensions: Εμφάνιση επεκτάσεων αρχείων
+ShowHiddenItems: Εμφάνιση κρυφών στοιχείων
+FormatDriveText: Διαμόρφωση...
+Help: Βοήθεια
+FullScreen: Εναλλαγή πλήρους οθόνης
+ConfirmDeleteTag: Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ετικέτα;
+PlayAll: Αναπαραγωγή όλων
+Height: Ύψος
+Width: Πλάτος
+ApplyToAllConflictingItems: Εφαρμογή αυτής της ενέργειας σε όλα τα αντικρουόμενα αντικείμενα
+OpenTerminal: Άνοιγμα στο Τερματικό των Windows
+OpenTerminalAsAdmin: Άνοιγμα στο Τερματικό των Windows ως διαχειριστής
+Save: Αποθήκευση
+MultiSelect: Πολλαπλή επιλογή
+ReorderSidebarItemsDialogText: Αναδιάταξη στοιχείων πλευρικής μπάρας
+Hashes: Κατακερματισμένο
+CalculationError: Παρουσιάστηκε σφάλμα κατά τον υπολογισμό
+CalculationErrorFileIsOpen: Απέτυχε ο υπολογισμός του χάσματος, κλείστε το αρχείο και προσπαθήστε ξανά.
+CalculationOnlineFileHashError: Τα Hashes δεν είναι διαθέσιμα για online αρχεία
+Algorithm: Αλγόριθμος
+HashValue: Τιμή κατακερματισμού
+SelectHashesToShow: Επιλέξτε hashes για εμφάνιση
+Calculating: Γίνεται υπολογισμός...
+JumpListPinnedGroupHeader: Καρφιτσωμένα στοιχεία
+DecreaseSize: Μείωση μεγέθους
+IncreaseSize: Αύξηση μεγέθους
+ToggleSortDirection: Εναλλαγή κατεύθυνσης ταξινόμησης
+InvalidTagNameWarning: Μη έγκυρο όνομα
+TagNameRules: Το όνομα δεν πρέπει να είναι κενό ή να ξεκινά ή να τελειώνει με τελεία.
+Videos: Βίντεο
+LaunchPreviewPopup: Εκκίνηση αναδυόμενου παραθύρου προεπισκόπησης
+ToggleCompactOverlay: Εισαγωγή συμπαγούς επικάλυψης
+OpenHelpDescription: Άνοιγμα online σελίδας βοήθειας στο πρόγραμμα περιήγησης
+ToggleFullScreenDescription: Εναλλαγή πλήρους οθόνης
+EnterCompactOverlayDescription: Εισαγωγή συμπαγούς επικάλυψης
+ExitCompactOverlayDescription: Έξοδος από συμπαγή επικάλυψη
+ToggleCompactOverlayDescription: Εισαγωγή συμπαγούς επικάλυψης
+SearchDescription: Μετάβαση στο πλαίσιο αναζήτησης
+ToggleShowHiddenItemsDescription: Εναλλαγή εμφάνισης κρυφών στοιχείων
+ToggleShowFileExtensionsDescription: Εναλλαγή εμφάνισης επεκτάσεων αρχείων
+TogglePreviewPaneDescription: Εναλλαγή του παραθύρου προεπισκόπησης για προβολή προεπισκόπησης αρχείων
+ToggleSidebarDescription: Εναλλαγή εμφάνισης πλευρικής μπάρας
+CopyItemDescription: Αντιγραφή στοιχείου(ων) στο πρόχειρο
+CopyPathDescription: Αντιγραφή διαδρομής των επιλεγμένων αντικειμένων στο πρόχειρο
+CopyPathWithQuotesDescription: Αντιγραφή διαδρομής των επιλεγμένων αντικειμένων με εισαγωγικά στο πρόχειρο
+CutItemDescription: Αποκοπή στοιχείου(ων) στο πρόχειρο
+PasteItemDescription: Επικόλληση στοιχείου(ων) από το πρόχειρο στον τρέχοντα φάκελο
+PasteItemToSelectionDescription: Επικόλληση στοιχείου(ων) από το πρόχειρο στον επιλεγμένο φάκελο
+DeleteItemDescription: Διαγραφή στοιχείου(ων)
+CreateFolderDescription: Δημιουργία νέου φακέλου
+CreateShortcutDescription: Δημιουργία νέων συντομεύσεων στα επιλεγμένα αντικείμενα
+CreateShortcutFromDialogDescription: Δημιουργία νέας συντόμευσης σε οποιοδήποτε στοιχείο
+EmptyRecycleBinDescription: Άδειασμα του κάδου ανακύκλωσης
+FormatDriveDescription: Άνοιγμα μενού "Διαμόρφωση Δίσκου" για το επιλεγμένο στοιχείο
+RestoreRecycleBinDescription: Επαναφορά επιλεγμένου στοιχείου(ων) από τον κάδο ανακύκλωσης
+RestoreAllRecycleBinDescription: Επαναφορά όλων των στοιχείων από τον κάδο ανακύκλωσης
+OpenItemDescription: Άνοιγμα στοιχείου(ων)
+OpenItemWithApplicationPickerDescription: Άνοιγμα στοιχείου(ων) με επιλεγμένη εφαρμογή
+OpenParentFolderDescription: Άνοιγμα γονικού φακέλου του αναζητηθέντος στοιχείου
+RefreshItemsDescription: Ανανέωση περιεχομένων σελίδας
+RenameDescription: Μετονομασία του επιλεγμένου στοιχείου
+SelectAllDescription: Επιλογή όλων των στοιχείων
+InvertSelectionDescription: Αντιστροφή επιλογής αντικειμένου
+ClearSelectionDescription: Καθαρισμός επιλογής
+ToggleSelectDescription: Εναλλαγή επιλογής στοιχείου
+ShareItemDescription: Κοινοποίηση επιλεγμένου(ων) αρχείου(ων) με άλλους
+PinToStartDescription: Καρφίτσωμα στοιχείου(ων) στο μενού Έναρξη
+UnpinFromStartDescription: Ξεκαρφίτσωνα στοιχείου(ων) από το μενού Έναρξη
+PinFolderToSidebarDescription: Καρφίτσωμα φακέλου(ων) στην πλαϊνή μπάρα
+UnpinFolderFromSidebarDescription: Ξεκαρφίτσωμα φακέλου(ων) από την πλαϊνή μπάρα
+SetAsWallpaperBackgroundDescription: Ορισμός επιλεγμένης εικόνας ως φόντου επιφάνειας εργασίας
+SetAsSlideshowBackgroundDescription: Ορισμός επιλεγμένων εικόνων ως παρουσίαση επιφάνειας εργασίας
+SetAsLockscreenBackgroundDescription: Ορισμός επιλεγμένης εικόνας ως φόντου επιφάνειας κλειδώματος οθόνης
+SetAsAppBackgroundDescription: Ορισμός επιλεγμένης εικόνας ως φόντου της εφαρμογής
+InstallFontDescription: Εγκατάσταση επιλεγμένης γραμματοσειράς(ων)
+InstallInfDriverDescription: Εγκατάσταση οδηγού με χρήση επιλεγμένων αρχείων inf
+InstallCertificateDescription: Εγκατάσταση επιλεγμένων πιστοποιητικού(ων)
+RunAsAdminDescription: Εκτέλεση της επιλεγμένης εφαρμογής ως διαχειριστής
+RunAsAnotherUserDescription: Εκτέλεση της επιλεγμένης εφαρμογής ως άλλος χρήστης
+RunWithPowershellDescription: Εκτέλεση επιλεγμένου σεναρίου PowerShell
+LaunchPreviewPopupDescription: Εκκίνηση προεπισκόπησης σε αναδυόμενο παράθυρο
+CompressIntoArchiveDescription: Δημιουργία αρχείου με τα επιλεγμένα αντικείμενα(α)
+CompressIntoSevenZipDescription: Δημιουργία αρχείου 7z αμέσως με επιλεγμένα αντικείμενα(α)
+CompressIntoZipDescription: Δημιουργία αρχείου zip αμέσως με επιλεγμένα αντικείμενα(α)
+DecompressArchiveDescription: Εξαγωγή στοιχείων από επιλεγμένα αρχεία σε οποιονδήποτε φάκελο
+DecompressArchiveHereDescription: Εξαγωγή στοιχείων από επιλεγμένα αρχεία στον τρέχοντα φάκελο
+DecompressArchiveToChildFolderDescription: Εξαγωγή στοιχείων από επιλεγμένα αρχεία σε νέο φάκελο
+RotateLeftDescription: Περιστροφή της επιλεγμένης εικόνας αριστερά
+RotateRightDescription: Περιστροφή επιλεγμένης εικόνας στα δεξιά
+OpenSettingsDescription: Άνοιγμα σελίδας ρυθμίσεων
+OpenTerminalDescription: Άνοιγμα φακέλου στο τερματικό
+OpenTerminalAsAdminDescription: Άνοιγμα φακέλου στο τερματικό ως διαχειριστής
+LayoutDecreaseSizeDescription: Μείωση μεγέθους αντικειμένου στην τρέχουσα προβολή
+LayoutIncreaseSizeDescription: Αύξηση μεγέθους αντικειμένου στην τρέχουσα προβολή
+LayoutDetailsDescription: Εναλλαγή σε προβολή λεπτομερειών
+LayoutTilesDescription: Εναλλαγή σε προβολή πλακιδίων
+LayoutListDescription: Εναλλαγή στην προβολή λίστας
+List: Λίστα
+Grid: Πλέγμα
+LayoutGridDescription: Εναλλαγή σε προβολή πλέγματος
+LayoutColumnsDescription: Εναλλαγή στην προβολή στηλών
+LayoutAdaptiveDescription: Εναλλαγή προβολών προσαρμοστικά
+SortByNameDescription: Ταξινόμηση στοιχείων κατά όνομα
+SortByDateModifiedDescription: Ταξινόμηση στοιχείων κατά ημερομηνία τροποποίησης
+SortByDateCreatedDescription: Ταξινόμηση στοιχείων κατά ημερομηνία δημιουργίας
+SortBySizeDescription: Ταξινόμηση στοιχείων κατά μέγεθος
+SortByTypeDescription: Ταξινόμηση στοιχείων κατά τύπο
+SortBySyncStatusDescription: Ταξινόμηση στοιχείων με βάση την κατάσταση συγχρονισμού
+SortByTagDescription: Ταξινόμηση στοιχείων κατά ετικέτες
+SortByOriginalFolderDescription: Ταξινόμηση στοιχείων κατά τον αρχικό φάκελο
+SortByDateDeletedDescription: Ταξινόμηση στοιχείων κατά ημερομηνία διαγραφής
+SortAscendingDescription: Ταξινόμηση κατά αύξουσα σειρά
+SortDescendingDescription: Ταξινόμηση κατά φθίνουσα σειρά
+ToggleSortDirectionDescription: Εναλλαγή κατεύθυνσης ταξινόμησης
+GroupByNoneDescription: Εμφάνιση στοιχείων χωρίς ομαδοποίηση
+GroupByNameDescription: Ομαδοποίηση στοιχείων ανά όνομα
+GroupByDateModifiedDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία τροποποίησης
+GroupByDateCreatedDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία δημιουργίας
+GroupBySizeDescription: Ομαδοποίηση στοιχείων ανά μέγεθος
+GroupByTypeDescription: Ομαδοποίηση στοιχείων ανά τύπο
+GroupBySyncStatusDescription: Ομαδοποίηση στοιχείων ανά κατάσταση συγχρονισμού
+GroupByTagDescription: Ομαδοποίηση στοιχείων ανά ετικέτα
+GroupByOriginalFolderDescription: Ομαδοποίηση στοιχείων ανά αρχικό φάκελο
+GroupByDateDeletedDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία διαγραφής
+GroupByFolderPathDescription: Ομαδοποίηση στοιχείων ανά διαδρομή φακέλου
+GroupAscendingDescription: Ταξινόμηση ομάδων σε αύξουσα σειρά
+GroupDescendingDescription: Ταξινόμηση ομάδων σε φθίνουσα σειρά
+ToggleGroupDirectionDescription: Εναλλαγή κατεύθυνσης ταξινόμησης ομάδας
+NewTabDescription: Άνοιγμα νέας καρτέλας
+NavigateBackDescription: Πλοήγηση προς τα πίσω στο ιστορικό πλοήγησης
+NavigateForwardDescription: Πλοηγηθείτε προς τα εμπρός στο ιστορικό πλοήγησης
+NavigateUpDescription: Πλοηγηθείτε επάνω έναν κατάλογο
+DuplicateCurrentTabDescription: Αντίγραφο τρέχουσας καρτέλας
+DuplicateSelectedTabDescription: Αντίγραφο της επιλεγμένης καρτέλας
+CloseTabsToTheLeftCurrentDescription: Κλείσιμο σκηνοθετών στα αριστερά της τρέχουσας καρτέλας
+CloseTabsToTheLeftSelectedDescription: Κλείσιμο καρτελών στα αριστερά της επιλεγμένης καρτέλας
+CloseTabsToTheRightCurrentDescription: Κλείσιμο καρτελών στα δεξιά της τρέχουσας καρτέλας
+CloseTabsToTheRightSelectedDescription: Κλείσιμο καρτελών στα δεξιά της επιλεγμένης καρτέλας
+CloseOtherTabsCurrentDescription: Κλείσιμο καρτελών εκτός της τρέχουσας καρτέλας
+CloseOtherTabsSelectedDescription: Κλείσιμο καρτελών εκτός της επιλεγμένης καρτέλας
+ReopenClosedTabDescription: Άνοιγμα της τελευταίας κλειστής καρτέλας
+PreviousTabDescription: Μετακίνηση στην προηγούμενη καρτέλα
+NextTabDescription: Μετακίνηση στην επόμενη καρτέλα
+CloseSelectedTabDescription: Κλείσιμο τρέχουσας καρτέλας
+OpenNewPaneDescription: Άνοιγμα νέου πλαισίου
+ClosePaneDescription: Κλείσιμο δεξιού πλαισίου
+FocusLeftPane: Focus left pane
+FocusLeftPaneDescription: Switch focus to the left pane
+FocusRightPane: Focus right pane
+FocusRightPaneDescription: Switch focus to the right pane
+ToggleSidebar: Εναλλαγή της πλευρικής μπάρας
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Εναλλακτικό πλήκτρο
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Πλήκτρο ελέγχου
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Windows
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Πλήκτρο διαστήματος
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Πλήκτρο σβησίματος
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Διαγραφή
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Αριστερά
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Δεξιά
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Κάτω
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Πάνω (Alt+Πάνω Βέλος)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Αρχική σελίδα
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: Πληκτρό μετακίνησης σελίδας κατά μια σελίδα κάτω
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: Πλήκρτο προηγούμενης σελίδας
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Παύση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Αναστολή Λειτουργίας
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Εκκαθάριση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Εκτύπωση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Βοήθεια
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: Εφαρμογή
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: Εφαρμογή1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: Εφαρμογή2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Ταχυδρομείο
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: Μετάβαση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GoBack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: Προώθηση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: Ανανέωση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Αναζήτηση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Αγαπημένα
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: Αναπαραγωγή
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: Προηγ. κομμάτι
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: ΕπόμενοΚομμάτι
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: Επιλογή Μέσου
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Σίγαση
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: Μείωση Έντασης Ήχου
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: Αύξηση Έντασης Ήχου
+Change: Αλλαγή
+ToggleSelect: Εναλλαγή επιλογής
+ShowFileExtensionWarning: Εμφάνιση προειδοποίησης κατά την αλλαγή των επεκτάσεων αρχείων
+ThisPC: Αυτός ο υπολογιστής
+RecycleBin: Κάδος Ανακύκλωσης
+Untagged: Χωρίς Ετικέτα
+PreviousTab: Μετακίνηση στην προηγούμενη καρτέλα
+NextTab: Μετακίνηση στην επόμενη καρτέλα
+CloseTab: Κλείσιμο τρέχουσας καρτέλας
+EditPath: Επεξεργασία διαδρομής
+Redo: Επαναφορά
+Undo: Αναίρεση
+InvalidLocation: Ανύπαρκτη θέση
+CopyFileWithoutProperties: Είστε σίγουροι ότι θέλετε να αντιγράψετε αυτά τα αρχεία χωρίς τις ιδιότητές τους;
+FilePropertiesCannotBeCopied: Αυτά τα αρχεία έχουν ιδιότητες που δεν μπορούν να αντιγραφούν στη νέα θέση
+FilePropertiesCannotBeMoved: Αυτά τα αρχεία έχουν ιδιότητες που δεν μπορούν να μετακινηθούν στη νέα θέση
+MoveFileWithoutProperties: Είστε σίγουροι ότι θέλετε να μετακινήσετε αυτά τα αρχεία χωρίς τις ιδιότητές τους;
+ShowCheckboxesWhenSelectingItems: Εμφάνιση κουτιών ελέγχου κατά την επιλογή στοιχείων
+EditPathDescription: Εστίαση γραμμής διαδρομής
+AddItemDescription: Δημιουργία νέου στοιχείου
+SecurityNoAccessControlEntriesText: Καμία ομάδα ή χρήστες δεν έχει δικαίωμα πρόσβασης σε αυτό το αντικείμενο. Ωστόσο, ο ιδιοκτήτης αυτού του αντικειμένου μπορεί να παραχωρήσει δικαιώματα.
+OpenFileLocationDescription: Άνοιγμα της θέσης του στοιχείου
+DeletePermanently: Οριστική διαγραφή
+DeleteItemPermanentlyDescription: Οριστική διαγραφή αντικειμένου(ων)
+PlayAllDescription: Αναπαραγωγή των επιλεγμένων αρχείων πολυμέσων
+UndoDescription: Αναίρεση της τελευταίας λειτουργίας αρχείου
+RedoDescription: Επανάληψη της τελευταίας λειτουργίας αρχείου
+Location: 'Τοποθεσία:'
+GroupByMonthDescription: Ομαδοποίηση στοιχείων ανά μήνα
+GroupByYearDescription: Ομαδοποίηση στοιχείων ανά έτος
+Month: Μήνας
+Day: Ημέρα
+ToggleGroupByDateUnitDescription: Εναλλαγή ομαδοποίησης ανά ημερομηνία
+ToggleGroupingUnit: Εναλλαγή ομαδοποίησης
+Year: Έτος
+GroupByDateUnit: Ομαδοποίηση κατά μονάδα ημερομηνίας
+GroupByDateCreatedDayDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία δημιουργίας
+GroupByDateCreatedMonthDescription: Ομαδοποιήστε τα στοιχεία κατά ημερομηνία μήνα δημιουργίας
+GroupByDateCreatedYearDescription: Ομαδοποιήστε τα στοιχεία κατά ημερομηνία έτους δημιουργίας
+GroupByDateDeletedDayDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία διαγραφής
+GroupByDateDeletedMonthDescription: Ομαδοποιήστε τα στοιχεία κατά ημερομηνία μήνα που διαγράφηκαν
+GroupByDateDeletedYearDescription: Ομαδοποιήστε τα στοιχεία κατά ημερομηνία έτους διαγραφής
+GroupByDateModifiedDayDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία τροποποίησης
+GroupByDateModifiedMonthDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία μήνα τροποποίησης
+GroupByDateModifiedYearDescription: Ομαδοποίηση στοιχείων ανά ημερομηνία έτους τροποποίησης
+SecurityClickAdvancedPermissions: Πατήστε 'Προηγμένα δικαιώματα' για να συνεχίσετε.
+SecurityRequireReadPermissions: Πρέπει να έχετε δικαιώματα Ανάγνωσης για να δείτε τις ιδιότητες αυτού του στοιχείου.
+SecuritySuggestToTakeOwnership: Για να προσπαθήσετε να πάρετε την ιδιοκτησία του στοιχείου, το οποίο περιλαμβάνει άδεια για να δείτε τις ιδιότητές του, κάντε κλικ στο κουμπί Αλλαγή παραπάνω.
+SecurityUnableToDisplayPermissions: Δεν είναι δυνατή η προβολή δικαιωμάτων.
+StashChanges: Αφήστε τις αλλαγές μου στο '{0}'
+DiscardChanges: Απόρριψη των αλλαγών μου
+BringChanges: Φέρτε τις αλλαγές μου στο '{0}'
+UncommittedChanges: Έχετε μη δεσμευμένες αλλαγές σε αυτόν τον κλάδο. Τι θα θέλατε να κάνετε με αυτούς;
+SwitchBranch: Αλλαγή κλάδου
+Branches: Κλάδοι
+Switch: Διακόπτης
+NewBranch: Νέος κλάδος
+InvalidBranchName: Μη έγκυρο όνομα κλάδου
+CreateBranch: Δημιουργία κλάδου
+CreateNewBranch: Δημιουργία κλάδου
+BasedOn: Βασισμένο σε
+SwitchToNewBranch: Μετάβαση σε νέο κλάδο
+CreateFolderWithSelectionDescription: Δημιουργία φακέλου με το τρέχον επιλεγμένο αντικείμενο(α)
+OpenProperties: Άνοιγμα ιδιοτήτων
+OpenPropertiesDescription: Άνοιγμα ιδιοτήτων
+Locals: Τοπικά
+Remotes: Απομακρυσμένα
+ImproveTranslation: Μεταφραση στο Crowdin
+GitFetch: Ανάκτηση
+GitPull: Τραβήξτε
+GitFetchDescription: Εκτέλεση git ανάκτησης
+GitPullDescription: Run git pull
+Preview: Προεπισκόπηση
+GitStatus: Κατάσταση Git
+GitError: Σφάλμα Git
+PullTimeoutError: η λήψη git απέτυχε λόγω σφάλματος χρονικού ορίου
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (πολλαπλές τιμές)
+Author: Συγγραφέας
+DateCommitted: Ημερομηνία απόθεσης
+CommitMessage: Μήνυμα απόθεσης
+CommitSha: Απόθεση SHA
+Git: Git
+Acrylic: Ακρυλικό
+Mica: Μίκα
+MicaAlt: Μίκα Άλτ
+BackdropMaterial: Υλικό Φόντου
+Solid: Συμπαγής
+ManageBranches: Διαχείριση κλάδων
+Push: Προώθηση
+GitPushDescription: Εκτέλεση git push
+GitSync: Συγχρονισμός
+GitSyncDescription: Εκτέλεση λήψης git και στη συνέχεια αποστόλης git
+GitSyncStatusExtendedInfo: '{0} εξερχόμενες / {1} εισερχόμενες υποβολές'
+ConnectGitHub: Σύνδεση στο GitHub
+ConnectGitHubDescription: Εισάγετε τον ακόλουθο κωδικό στον παρακάτω σύνδεσμο για να ξεκινήσετε να εργάζεστε με τα αποθετήρια του GitHub.
+CannotReachGitHubError: Τα αρχεία δεν μπορούν να έχουν πρόσβαση στο GitHub αυτή τη στιγμή.
+OpenInVSCode: Άνοιγμα φακέλου σε VS Code
+OpenInVSCodeDescription: Άνοιγμα του τρέχοντος καταλόγου στο Visual Studio Code
+OpenRepoInVSCode: Άνοιγμα αποθετηρίου σε VS Code
+OpenRepoInVSCodeDescription: Ανοίξτε τη ρίζα του αποθετηρίου Git στο Visual Studio Code
+CopyCode: Αντιγραφή κώδικα
+Added: Προστέθηκε
+Deleted: Διαγράφηκε
+Modified: Τροποποιήθηκε
+Untracked: Χωρίς Ανίχνευση
+UnableToDisplayOwner: Αδυναμία εμφάνισης του τρέχοντος ιδιοκτήτη.
+AuthorizationSucceded: Τέλεια! Είστε τώρα εξουσιοδοτημένος.
+InitRepo: Αρχικοποίηση αποθετηρίου
+InitRepoDescription: Αρχικοποίηση αποθετηρίου Git
+GitOriginRepositoryName: Όνομα απομακρυσμένου αποθετηρίου
+GitCurrentBranch: Τρέχων κλάδος
+PathColumn: Στήλη διαδρομής
+SortByPathDescription: Ταξινόμηση αντικειμένων κατά διαδρομή
+OpenDirectoryInNewPaneDescription: Άνοιγμα καταλόγου σε νέο παράθυρο
+OpenDirectoryInNewTabDescription: Άνοιγμα καταλόγου σε νέα καρτέλα
+OpenInNewWindowDescription: Άνοιγμα καταλόγου σε νέο παράθυρο
+OpenAllTaggedItems: Άνοιγμα όλων
+OpenAllTaggedItemsDescription: Άνοιγμα όλων των αντικειμένων με ετικέτα
+#{0} is the drive letter.
+DriveWithLetter: Οδηγός ({0})
+InvalidCommand: Μη έγκυρη εντολή
+InvalidCommandContent: Το '{0}' δεν αναγνωρίζεται ως εντολή.
+CommandNotExecutable: Μη εκτελέσιμη εντολή
+CommandNotExecutableContent: Η εντολή '{0}' δεν είναι έτοιμη να εκτελεστεί.
+CommandPalette: Παλέτα εντολών
+OpenCommandPaletteDescription: Άνοιγμα παλέτας εντολών
+ShortcutItemWorkingDir: 'Έναρξη σε:'
+TurnOnBitLocker: Ενεργοποίηση BitLocker
+ManageBitLocker: Διαχείριση BitLocker
+CopyFailureFileToLarge: Τα ακόλουθα στοιχεία είναι πολύ μεγάλα για να αντιγραφούν σε αυτό το δίσκο
+FormatDrive: Μορφοποίηση δίσκου
+DontShowAgain: Να μην εμφανιστεί ξανά
+FilesRunningAsAdmin: Το Files εκτελείται με δικαιώματα διαχειριστή
+FilesRunningAsAdminContent: Λόγω ενός περιορισμού με τα Windows και WinAppSdk, το drag and drop δεν είναι διαθέσιμο κατά την εκτέλεση αρχείων ως διαχειριστή. Αν θέλετε να χρησιμοποιήσετε drag and drop, μπορείτε να εργαστείτε γύρω από αυτόν τον περιορισμό ανοίγοντας το UAC (Έλεγχος Λογαριασμού Χρήστη) από το μενού Έναρξη και επιλέγοντας το τρίτο επίπεδο, και επανεκκινώντας τα Windows. Διαφορετικά, μπορείτε να συνεχίσετε να χρησιμοποιείτε τα Αρχεία χωρίς drag & drop.
+SettingsLeaveAppRunning: Αφήστε την εφαρμογή να εκτελείται στο παρασκήνιο όταν το παράθυρο είναι κλειστό
+#One of the custom color themes
+Blue: Μπλέ
+#One of the custom color themes
+BlueGray: Μπλε γκρι
+#One of the custom color themes
+BrickRed: Κόκκινο τούβλου
+#One of the custom color themes
+Camouflage: Καμουφλάζ
+#One of the custom color themes
+CoolBlueBright: Ψυχρό Μπλε Φωτεινό
+#One of the custom color themes
+Gray: Γκρι
+#One of the custom color themes
+GrayDark: Γκρι σκούρο
+#One of the custom color themes
+Green: Πράσινο
+#One of the custom color themes
+IrisPastel: Παστέλ Iris
+#One of the custom color themes
+MintLight: Φωτεινό μέντα
+#One of the custom color themes
+ModRed: Μόντε Κόκκινο
+#One of the custom color themes
+OrangeBright: Πορτοκαλί φωτεινό
+#One of the custom color themes
+Overcast: Νεφελώδης
+#One of the custom color themes
+Red: Κόκκινο
+#One of the custom color themes
+RoseBright: Ροζ φωτεινό
+#One of the custom color themes
+Seafoam: Φουσκοθαλασσή
+#One of the custom color themes
+Storm: Θύελλα
+#One of the custom color themes
+VioletRedLight: Βιολετί Κόκκινο Φως
+#One of the custom color themes
+YellowGold: Κίτρινο Χρυσό
+ClearCompleted: Εκκαθάριση ολοκληρωμένων
+NameWithColon: 'Όνομα:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} Από {1} επεξεργάστηκαν'
+ItemsLower: στοιχεία
+CannotInitializeGitRepo: Το Files δεν μπορεί να προετοιμάσει αυτόν τον κατάλογο ως αποθετήριο Git.
+ContributingArtist: Συνεισφέροντας Καλλιτέχνης
+AddPage: Προσθήκη σελίδας
+ProcessingItems: Επεξεργασία αντικειμένων...
+SpeedWithColon: 'Ταχύτητα:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Ακυρώθηκε η συμπίεση στοιχείων {0} στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Ακυρώθηκε η συμπίεση στοιχείων {0} από "{1}" σε {2}
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Συμπιεσμένο(α) αντικείμενο(α) από {0} σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Συμπιεσμένο(α) αντικείμενο(α) {0} από "{1}" σε "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Σφάλμα κατά τη συμπίεση αντικειμένου(ων) {0} στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Απέτυχε η αντιγραφή {0} στοιχείου(ων) από {1} προς {2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Συμπίεση αντικείμενου(ων) από {0} σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Συμπίεση αντικείμενου(ων) {0} από "{1}" σε "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Ακυρώθηκε η αντιγραφή {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Ακυρώθηκε η αντιγραφή {0} αντικειμένου(ων) από "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Αντιγραφή {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Αντιγραφή {0} αντικειμένου(ων) από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Σφάλμα αντιγραφής {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Απέτυχε η αντιγραφή {0} αντικειμένου(ων) από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Αντιγραφή {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Αντιγραφή {0} αντικειμένου(ων) από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Ακυρώθηκε η εξαγωγή "{0}" σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Ακυρώθηκε η εξαγωγή του "{0}" από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Εξαγωγή "{0}" σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Εξαγωγή του "{0}" από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Σφάλμα εξαγωγής "{0}" σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Απέτυχε η εξαγωγή του "{0}" από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Εξαγωγή "{0}" σε "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Εξαγωγή του "{0}" από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Ακυρώθηκε η διαγραφή {0} αντικειμένου(ων) από το "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Διαγράφηκε {0} αντικείμενο(α) από το "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Σφάλμα διαγραφής {0} αντικειμένου(ων) από το "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Απέτυχε η διαγραφή {0} αντικειμένου(ων) από το "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Διαγραφή {0} αντικειμένου(ων) από το "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Ακυρώθηκε η μετακίνηση {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Ακυρώθηκε η μετακίνηση {0} αντικειμένου(ων) από "{1}" σε "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Μεταφέρθηκε {0} αντικείμενο(α) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Μεταφέρθηκε {0} αντικείμενο(α) από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Μετακίνηση {0} αντικειμένου(ων) στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Μετακίνηση {0} αντικειμένου(ων) από το "{1}" στο "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Σφάλμα κατά τη μετακίνηση αντικειμένου(ων) {0} στο "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Η μετακίνηση {0} αντικείμενου(ων) από "{1}" σε "{2}" απέτυχε
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Ακυρώθηκε το άδειασμά του κάδου ανακύκλωσης
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Άδειασμα Κάδου Ανακύκλωσης
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Άδειασμα του κάδου ανακύκλωσης
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Σφάλμα κατά την εκκαθάριση του κάδου ανακύκλωσης
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Αποτυχία αδειάσματος του κάδου ανακύκλωσης
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Προετοιμασία της εργασίας...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} αντικείμενο(α) επεξεργάστηκε(αν)'
+UnblockDownloadedFile: Κατάργηση αποκλεισμού ληφθέντος αρχείου
+NoFileOperations: Δεν υπάρχουν ενέργειες αρχείων σε εξέλιξη
+OpenOnStartupDisabled: Η επιλογή για άνοιγμα αρχείων στην εκκίνησή των Windows δεν είναι διαθέσιμη λόγω των ρυθμίσεων του συστήματος ή της πολιτικής ομάδας. Για επανενεργοποίηση, ανοίξτε τη σελίδα εκκίνησης στη Διαχείριση Εργασιών.
+FailedToRestore: Αποτυχία επαναφοράς στοιχείων από τον κάδο ανακύκλωσης
+FailedToSetBackground: Αποτυχία ορισμού ταπετσαρίας φόντου
+GitDeleteBranch: Διαγραφή κλάδου Git
+GitDeleteBranchSubtitle: Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά το "{0}" κλάδο;
+ConnectedToGitHub: Συνδέθηκε στο GitHub
+Logout: Αποσύνδεση
+ConnectToGitHub: Σύνδεση στο GitHub
+Login: Σύνδεση
+ErrorApplyingTagContent: Οι ετικέτες είναι προς το παρόν συμβατές μόνο σε δίσκους μορφοποιημένες ως NTFS.
+ErrorApplyingTagTitle: Παρουσιάστηκε σφάλμα κατά την εφαρμογή αυτής της ετικέτας
+DecompressArchiveHereSmartDescription: Εξαγωγή στοιχείων από επιλεγμένα αρχεία(α) στον τρέχοντα φάκελο για ένα αρχείο αντικειμένων ή σε νέο φάκελο για την αρχειοθήκη πολλαπλών αντικειμένων
+ExtractHereSmart: Εξαγωγή εδώ (Έξυπνο)
+SortFilesAndFoldersTogether: Ταξινόμηση αρχείων και φακέλων μαζί
+SortFilesAndFoldersTogetherDescription: Ταξινόμηση αρχείων και φακέλων μαζί
+SortFilesFirst: Ταξινόμηση αρχείων πρώτα
+SortFilesFirstDescription: Ταξινόμηση αρχείων πρώτα και μετά φακέλων
+SortFoldersFirst: Ταξινόμηση φακέλων πρώτα
+SortFoldersFirstDescription: Ταξινόμηση φακέλων πρώτα και μετά αρχείων
+SortPriority: Προτεραιότητα ταξινόμησης
+FailedToRotateImage: Αποτυχία περιστροφή της εικόνας
+Restart: Επανεκκίνηση
+Quit: Έξοδος
+FaildToShareItems: Αποτυχία κοινοποίησης αντικειμένων
+ScrollToPreviousFolderWhenNavigatingUp: Κύλιση στον προηγούμενο φάκελο κατά την πλοήγηση προς τα πάνω
+NewWindowDescription: Άνοιγμα νέου παραθύρου
+ChangeAlbumCover: Αλλαγή εξώφυλλου άλμπουμ
+ItemRenameFailed: Αποτυχία μετονομασίας αντικειμένου
+HigherPermissionsRequired: Επεξεργασία "{0}" απαιτεί πρόσθετα δικαιώματα
+EditPermissions: Επεξεργασία δικαιωμάτων
+BackgroundRunningNotificationBody: Το Files εξακολουθεί να εκτελείται στο παρασκήνιο για να βελτιωθούν οι επιδόσεις εκκίνησης.
+BackgroundRunningNotificationHeader: Πού πήγε το Files;
+QuestionsAndDiscussions: Ερωτήσεις & συζητήσεις
+TilesViewSizeInfo: Πρόσθετα μεγέθη δεν είναι ακόμη διαθέσιμα για την προβολή πλακιδίων.
+#Used to describe layout sizes
+Compact: Συμπαγής
+#Used to describe layout sizes
+Small: Μικρό
+#Used to describe layout sizes
+Medium: Μεσαίο
+#Used to describe layout sizes
+Medium+: Μεσαίο +
+#Used to describe layout sizes
+Medium++: Μεσαίο ++
+#Used to describe layout sizes
+Medium+++: Μεσαίο +++
+#Used to describe layout sizes
+Medium++++: Μεσαίο ++++
+#Used to describe layout sizes
+Medium+++++: Μεσαίο +++++
+#Used to describe layout sizes
+Large: Μεγάλο
+#Used to describe layout sizes
+Large+: Μεγάλο +
+#Used to describe layout sizes
+Large++: Μεγάλο ++
+#Used to describe layout sizes
+Large+++: Μεγάλο +++
+#Used to describe layout sizes
+ExtraLarge: Πολύ μεγάλο
+DetailsView: Προβολή λεπτομερειών
+LayoutType: Τύπος διάταξης
+Actions: Ενέργειες
+Commands: Εντολές
+AddCommand: Προσθήκη εντολής
+RestoreDefaults: Επαναφορά προεπιλογών
+ChooseAnAction: Επιλογή ενέργειας
+RestoreDefaultKeybindingsConfirmation: Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις προεπιλεγμένες συντομεύσεις κλειδιών? Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
+KeybindingAlreadyUsedNotification: Αυτός ο συνδυασμό κλειδιών χρησιμοποιείται ήδη, παρακαλώ επιλέξτε διαφορετικό συνδυασμό κλειδιών για να συνεχίσετε.
+KeybindingInvalidKeyNotification: The key binding you choose cannot be used, please try again using a different key binding.
+Customized: Προσαρμοσμένο
+AdaptiveLayoutDisabledNotification: Η προσαρμοστική διάταξη δεν είναι διαθέσιμη όταν συγχρονίζονται οι προτιμήσεις, η προεπιλεγμένη διάταξη έχει αλλάξει σε Λεπτομέρειες.
+BackgroundImage: Εικόνα φόντου
+#Image alignment type
+Bottom: Κάτω
+#Image alignment type
+Center: Κέντρο
+#Image stretch type
+Fill: Γέμισμα
+HorizontalAlignment: Οριζόντια στοίχιση
+ImageFit: Προσαρμογή εικόνας
+#Image alignment type
+Left: Αριστερά
+Opacity: Αδιαφάνεια
+#Image alignment type
+Right: Δεξιά
+#Image alignment type
+Top: Πάνω
+#Image stretch type
+Uniform: Ομοιόμορφη
+#Image stretch type
+UniformToFill: Ομοιόμορφη συμπλήρωση
+VerticalAlignment: Κατακόρυφη στοίχιση
+#This is a type of backdrop for the application background
+ThinAcrylic: Λεπτό Ακρυλικό
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Εμφάνιση για όλες τις τοποθεσίες
+DevTools: Εργαλεία προγραμματιστή
+DisplayOpenIDE: Ρυθμίστε το κουμπί "Άνοιγμα IDE" στη γραμμή κατάστασης
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Εμφάνιση για Git repos
+#This is the friendly name for DLL files.
+ApplicationExtension: Επέκταση εφαρμογής
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Αρχείο ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Αρχείο Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Αρχεία Bitmap
+NumPadTypeName: Num
+NetworkLocations: Τοποθεσίες δικτύου
+NoNetworkLocationsInfo: Δεν υπάρχουν τοποθεσίες δικτύου. Εάν δεν χρησιμοποιείτε τοποθεσίες δικτύου, μπορείτε να απενεργοποιήσετε το widget.
+Disable: Απενεργοποίηση
+EditInNotepad: Επεξεργασία στο σημειωματάριο
+EditInNotepadDescription: Επεξεργασία του επιλεγμένου αρχείου στο Σημειωματάριο

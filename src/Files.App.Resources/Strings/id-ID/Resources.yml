@@ -1,0 +1,1467 @@
+NewWindow: Window baru
+CopyPath: Salin jalur
+CopyPathWithQuotes: Salin path dengan kutipan
+Browse: Jelajahi
+Size: Ukuran
+PropertiesCreated:
+  Text: 'Dibuat:'
+Path: Jalur
+SizeLabel: 'Ukuran:'
+SizeOnDiskLabel: 'Ukuran pada disk:'
+UncompressedSize: 'Ukuran tidak terkompresi:'
+ErrorDialogThisActionCannotBeDone: Tindakan ini tidak dapat dilakukan
+ErrorDialogTheDestinationFolder: Folder tujuan
+ErrorDialogIsASubfolder: adalah subfolder dari folder sumber
+Skip: Lewati
+SelectAll: Pilih Semua
+InvertSelection: Balikkan seleksi
+ClearSelection: Hapus pilihan
+PropertiesModified:
+  Text: 'Diubah:'
+Accessed: 'Diakses:'
+RecentItemClearAll:
+  Text: Bersihkan semua item
+NavigationToolbarVisiblePath:
+  PlaceholderText: Masukkan jalur untuk menjelajah atau ketik ">" untuk membuka command pallette
+Search: Cari
+RecentItemDescription:
+  Text: File yang sebelumnya Anda akses akan muncul di sini
+RecentItemRemove:
+  Text: Hapus item ini
+OpenGitHubRepo: Repositori GitHub
+About: Tentang
+OpenSource: Sumber terbuka
+DateFormat: Format tanggal
+SettingsAppearanceTheme: Tema
+SettingsFilesAndFoldersShowFileExtensions: Tampilkan ekstensi untuk jenis file yang dikenal
+SettingsFilesAndFoldersShowHiddenItems: Tampilkan file dan folder tersembunyi
+ShowDotFiles: Tampilkan dot files
+Appearance: Tampilan
+BackgroundColor: Warna Latar Belakang
+Advanced: Lanjutan
+SettingsOnStartupContinueWhereYouLeftOff:
+  Content: Lanjutkan di bagian terakhir yang Anda tinggalkan
+SettingsOnStartupOpenANewTab:
+  Content: Buka tab baru
+SettingsOnStartupOpenASpecificPage:
+  Content: Buka halaman tertentu
+Desktop: Desktop
+Documents: Dokumen
+Downloads: Unduhan
+Name: Nama
+Ascending: Urut naik
+Paste: Tempel
+BaseLayoutContextFlyoutNew:
+  Label: Baru
+Properties: Properti
+Open: Buka
+OpenInNewTab: Buka di tab baru
+OpenInNewWindow: Buka di jendela baru
+Share: Berbagi
+Cut: Potong
+Delete: Hapus
+PinFolderToSidebar: Pin ke Sidebar
+WelcomeDialog:
+  Title: Selamat datang di Files!
+  PrimaryButtonText: Berikan izin
+WelcomeDialogTextBlock:
+  Text: 'Untuk memulai, Anda harus memberi kami izin untuk menampilkan file Anda. Ini akan membuka halaman Pengaturan di mana Anda dapat memberi kami izin ini. Anda harus membuka kembali aplikasi setelah menyelesaikan langkah ini. '
+Display: Menampilkan
+EnterAnItemName: Masukkan nama item
+RenameDialog:
+  PrimaryButtonText: Tentukan nama
+LightTheme: Terang
+DarkTheme: Gelap
+Application: Aplikasi
+SystemTimeStyle: Sistem
+NewFolder: Folder baru
+NewFile: Berkas baru
+EmptyFolder:
+  Text: Folder ini kosong.
+Back: Mundur
+Forward: Maju
+Up: Naik (Alt+Panah Atas)
+Refresh: Segarkan
+ItemAlreadyExistsDialogContent: Item dengan nama ini sudah ada di direktori ini.
+ItemAlreadyExistsDialogSecondaryButtonText: Ganti item yang sudah ada
+ItemAlreadyExistsDialogTitle: Item sudah ada
+SetAsLockscreen: Tetapkan sebagai latar belakang layar kunci
+SetAsAppBackground: Atur sebagai latar belakang app
+AccessDeniedDeleteDialog:
+  Text: Kami tidak dapat menghapus item ini
+DriveUnpluggedDialog:
+  Text: Silakan masukkan drive yang diperlukan untuk mengakses item ini.
+  Title: Penyimpanan dilepas
+FileNotFoundDialog:
+  Text: File yang Anda coba akses mungkin telah dipindah atau dihapus.
+  Title: File Tidak Ditemukan
+CannotAccessPropertiesTitle: Tidak dapat membuka propeti file ini
+CannotAccessPropertiesContent: File yang Anda coba akses mungkin telah dipindah atau dihapus.
+FolderNotFoundDialog:
+  Text: Folder yang Anda coba akses mungkin telah dipindah atau dihapus.
+  Title: Apakah Anda menghapus folder ini?
+FileInUseByDialog:
+  Text: File yang Anda coba akses saat ini sedang digunakan oleh {0}
+FileInUseDialog:
+  Text: File yang Anda coba akses saat ini sedang digunakan oleh aplikasi lain
+  Title: File sedang digunakan
+Layout: Tata letak
+PropertiesDialogReadOnly:
+  Text: Baca-saja
+DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
+HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
+MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
+SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
+Now: Sekarang
+ErrorDialogUnsupportedOperation: Operasi yang diminta tidak didukung
+DriveFreeSpaceAndCapacity: '{0} ruang bebas dari {1}'
+SendTo: Kirim ke
+FileNameTeachingTip:
+  Subtitle: 'Nama item tidak boleh mengandung karakter berikut: \ / : * ? " < > |'
+InvalidFilename:
+  Text: Nama item yang ditentukan tidak valid
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+SelectedItems: '{0, plural, other {# items selected}}'
+#ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
+Items: '{0, plural, other {items}}'
+Yes: Ya
+ConfirmEmptyBinDialogContent: Anda yakin ingin menghapus semua item ini secara permanen?
+ConfirmEmptyBinDialogTitle: Kosongkan keranjang sampah
+ItemSizeBytes: bita
+KiloByteSymbol: KB
+MegaByteSymbol: MB
+GigaByteSymbol: GB
+TeraByteSymbol: TB
+PetaByteSymbol: PB
+ByteSymbol: B
+PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
+PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
+BaseLayoutContextFlyoutRunAsAnotherUser:
+  Text: Jalankan sebagai pengguna lain
+PropertiesDriveItemTypesEquals: Semua jenis {0}
+PropertiesDriveItemTypeDifferent: Jenis yang berbeda
+PropertiesCombinedItemLocation: Semua dalam {0}
+PropertiesDriveUsedSpace:
+  Text: 'Ruang terpakai:'
+PropertiesDriveFreeSpace:
+  Text: 'Ruang bebas:'
+PropertiesDriveCapacity:
+  Text: 'Kapasitas:'
+PropertiesDriveFileSystem:
+  Text: 'Sistem file:'
+JumpListRecentGroupHeader: Terbaru
+TabStripDragAndDropUIOverrideCaption: Pindah tab ke sini
+syncStatusColumn:
+  Header: Status
+SettingsPreferencesSystemDefaultLanguageOption: Bawaan Windows
+NavigationToolbarVisiblePathNoResults: Tidak ada hasil
+SubDirectoryAccessDenied: Tidak dapat mengakses item apa pun untuk ditampilkan
+MoveToFolderCaptionText: Pindah ke {0}
+CopyToFolderCaptionText: Salin ke {0}
+CreateShortcut: Buat pintasan
+OpenFileLocation: Buka lokasi file
+PropertiesShortcutItemArgs:
+  Text: 'Argumen:'
+PropertiesShortcutItemPath:
+  Text: 'Tujuan:'
+PropertiesShortcutItemType:
+  Text: 'Jenis pintasan:'
+PropertiesShortcutTypeLink: Tautan web
+General: Umum
+Shortcut: Pintasan
+ShortcutWebLinkFileType: Pintasan internet
+ShortcutCreateNewSuffix: '{0} - pintasan'
+ExceptionNotificationBody: Files mengalami masalah yang belum disiapkan oleh pengembang.
+ExceptionNotificationHeader: Terjadi kesalahan!
+ExceptionNotificationReportButton: Laporkan masalah ini
+InvalidItemDialogContent: Item yang dirujuk tidak valid atau tidak dapat diakses.{0}Pesan kesalahan:{0}{1}
+InvalidItemDialogTitle: Item tidak valid
+SettingsAboutVersionTitle: 'Versi:'
+ShareDialogFailMessage: Tidak ada yang bisa dibagikan saat ini...
+ShareDialogMultipleItemsDescription: Item yang Anda pilih akan dibagikan
+ShareDialogSingleItemDescription: Item yang dipilih akan dibagikan
+ShareDialogTitle: Berbagi {0}
+ShareDialogTitleMultipleItems: Berbagi {0} {1}
+RenameError:
+  ItemDeleted:
+    Text: Item yang Anda coba ubah namanya sudah tidak ada. Harap verifikasi lokasi dari item yang ingin Anda ubah namanya.
+    Title: Item sudah tidak ada
+  NameInvalid:
+    Text: Nama yang ditentukan tidak valid. Silakan periksa nama item yang diinginkan dan coba lagi.
+    Title: Nama item tidak valid
+  TooLong:
+    Text: Panjang nama item yang ditentukan melebihi batas maksimum. Harap periksa nama yang diinginkan dan coba lagi.
+    Title: Nama item terlalu panjang
+ShowMoreOptions: Tampilkan pilihan lainnya
+RestartNotificationText:
+  Text: Aplikasi perlu dimulai ulang untuk menerapkan pengaturan ini, apakah Anda ingin memulai ulang aplikasi?
+SponsorUsOnGitHub: Dukung kami di GitHub
+AccessDeniedCreateDialog:
+  Text: Kami tidak dapat membuat item ini
+AccessDenied: Akses Ditolak
+BaseLayoutItemContextFlyoutSetAs:
+  Text: Atur sebagai
+Cancel: Batal
+AddDialog:
+  Title: Buat item baru
+AddDialogDescription:
+  Text: Pilih jenis untuk item baru di bawah ini
+File: File
+AddDialogListFileSubHeader: Buat file kosong
+Folder: Folder
+AddDialogListFolderSubHeader: Buat folder kosong
+NavResfreshButton:
+  AutomationProperties:
+    Name: Segarkan direktori
+Language: Bahasa
+SettingsContextMenuOverflow: Pindahkan ekstensi shell ke dalam submenu
+ShowConfirmationWhenDeletingItems: Tampilkan dialog konfirmasi saat menghapus item
+PropertySaveErrorMessage:
+  Text: Terjadi masalah saat menyimpan beberapa properti.
+PropertySaveErrorDialog:
+  Title: Kesalahan
+  SecondaryButtonText: Tetap tutup
+PropertyRatingText: Peringkat
+PropertyParsingPath: Jalur Item
+PropertyItemTypeText: Jenis Item
+PropertyTitle: Judul
+PropertySubject: Subjek
+PropertyComment: Komentar
+PropertyCopyright: Hak Cipta
+PropertyDateModified: Tanggal Diubah
+PropertyBitDepth: Kedalaman Bit
+PropertyDimensions: Dimensi
+PropertyHorizontalSize: Ukuran Horisontal
+PropertyVerticalSize: Ukuran Vertikal
+PropertyHorizontalResolution: Resolusi Horisontal
+PropertyVerticalResolution: Resolusi Vertikal
+PropertyColorSpace: Ruang Warna
+PropertyColorSpace_Value0: sRGB
+PropertyColorSpace_Value65535: Tidak ditentukan
+PropertyLongitudeDecimal: Desimal Garis Bujur
+PropertyLatitudeDecimal: Desimal Garis Lintang
+PropertyAltitude: Ketinggian
+PropertyDateTaken: Tanggal Diambil
+PropertyCameraManufacturer: Produsen Kamera
+PropertyCameraModel: Model Kamera
+PropertyExposureTime: Waktu Eksposur
+PropertyFocalLength: Panjang Fokus
+PropertyAperture: Bukaan Lensa
+PropertyPeopleNames: Nama Orang
+PropertyChannelCount: Jumlah Saluran
+PropertyFormat: Format
+PropertySampleRate: Tingkat Sampel
+PropertyAlbumArtist: Artis Album
+PropertyAlbumTitle: Judul Album
+Artist: Artis
+PropertyBeatsPerMinute: Ketukan Per Menit
+PropertyComposer: Komposer
+Conductor: Konduktor
+PropertyDiscNumber: Nomor Disk
+PropertyGenre: Genre
+PropertyTrackNumber: Nomor Trek
+PropertyDuration: Durasi
+PropertyFrameCount: Jumlah Bingkai
+PropertyProtectionType: Jenis Proteksi
+PropertyAuthorUrl: URL Penulis
+PropertyContentDistributor: Distributor Konten
+PropertyDateReleased: Tanggal Rilis
+PropertySeriesName: Nama Seri
+PropertySeasonNumber: Nomor Musim
+PropertyEpisodeNumber: Nomor Episode
+PropertyProducer: Produser
+PropertyPromotionUrl: URL Promosi
+PropertyProviderStyle: Gaya Penyedia
+PropertyPublisher: Penerbit
+PropertyThumbnailLargePath: Jalur Gambar Mini Besar
+PropertyThumbnailLargeUri: URI Gambar Mini Besar
+PropertyThumbnailSmallPath: Jalur Gambar Mini Kecil
+PropertyThumbnailSmallUri: URI Gambar Mini Kecil
+PropertyUserWebUrl: URL Web Pengguna
+PropertyWriter: Penulis
+PropertyYear: Tahun
+PropertyContributor: Kontributor
+PropertyLastAuthor: Pengarang Terakhir
+PropertyRevisionNumber: Nomor Revisi
+PropertyVersion: Versi
+PropertyDateCreated: Tanggal Dibuat
+PropertyTotalEditingTime: Total Waktu Pengeditan
+PropertyTemplate: Templat
+PropertyWordCount: Jumlah Kata
+PropertyCharacterCount: Jumlah Karakter
+PropertyLineCount: Jumlah Baris
+PropertyParagraphCount: Jumlah Paragraf
+PropertyPageCount: Jumlah Halaman
+PropertySlideCount: Jumlah Slide
+PropertyFrameRate: Kecepatan Bingkai
+PropertyEncodingBitrate: Encoding Bitrate
+PropertyPreviewAudioEncodingBitrate: Enkoding Audio Bitrate
+PropertyPreviewVideoEncodingBitrate: Enkoding Video Bitrate
+Compression: Kompresi
+PropertyFrameWidth: Lebar Bingkai
+PropertyFrameHeight: Tinggi Bingkai
+PropertyOrientation: Orientasi
+PropertySectionCore: Inti
+PropertySectionImage: Gambar
+PropertySectionPhoto: Foto
+PropertySectionGPS: GPS
+PropertySectionMedia: Media
+PropertySectionAudio: Audio
+PropertySectionMusic: Musik
+PropertySectionVideo: Video
+Document: Dokumen
+Address: Alamat
+SelectionOptions: Opsi pilihan
+NavToolbarSelectionOptions:
+  Label: Pilih
+RecycleBinItemAutomation: Item keranjang sampah
+ShortcutItemAutomation: Item pintasan
+Drives: Drive
+PinToSidebarByDraggingCaptionText: Pindah ke sini
+EjectNotificationHeader: Aman untuk melepas perangkat
+EjectNotificationBody: Perangkat sekarang dapat dilepas dengan aman dari komputer.
+EjectNotificationErrorDialogHeader: Kesalahan saat Mengeluarkan Perangkat
+EjectNotificationErrorDialogBody: Perangkat ini sedang digunakan. Tutup semua program, jendela atau tab yang mungkin menggunakan perangkat, lalu coba lagi.
+Eject: Keluarkan
+DuplicateTab: Duplikat tab
+HorizontalMultitaskingControlMoveTabToNewWindow:
+  Text: Pindah tab ke jendela baru
+NewTab: Tab baru
+ClearPropertiesFlyoutText:
+  Text: Beberapa properti mungkin berisi informasi pribadi.
+ClearPropertiesButton:
+  Content: Bersihkan Semua Properti
+OngoingTasksTeachingTip:
+  Subtitle: Periksa status operasi file di sini
+  Title: Pusat status
+SearchPagePathBoxOverrideText: Hasil pencarian di {1} untuk {0}
+Details: Rincian
+No: Tidak
+ShowProtectedSystemFiles: Tampilkan file sistem yang dilindungi
+SyncFolderPreferencesAcrossDirectories: Sinkronkan tata letak dan preferensi penyortiran di seluruh direktori
+SettingsContextMenu:
+  Text: Sesuaikan menu konteks klik kanan
+OriginalPath: Jalur asli
+Add: Tambahkan
+Edit: Edit
+Remove: Hapus
+SettingsMultitaskingAlwaysOpenDualPane: Buka tab di mode panel ganda
+ShowOpenInNewPane: Tampilkan opsi untuk membuka folder di panel baru
+ShowCopyPath: Tampilkan opsi menyalin path
+ShowCreateFolderWithSelection: Tampilkan opsi membuat folder dengan pilihan
+ShowCreateShortcut: Tampilkan opsi membuat shortcut
+NavigationToolbarNewPane:
+  Label: Panel baru
+OpenInNewPane: Buka di panel baru
+FilesAndFolders: File dan folder
+NavToolbarDetails:
+  ToolTipService:
+    ToolTip: Rincian (Ctrl+Shift+1)
+NavToolbarTiles:
+  ToolTipService:
+    ToolTip: Ubin (Ctrl+Shift+2)
+DateDeleted: Tanggal dihapus
+SidebarCloudDrives: Cloud Drive
+Confirm: Konfirmasi
+DesiredName: Nama yang diinginkan
+TogglePreviewPane: Alihkan panel pratinjau
+ToggleDetailsPane: Aktifkan panel detail
+ToggleDetailsPaneDescription: Aktifkan panel detail untuk melihat file properti dasar
+ToggleInfoPane: Aktifkan panel info
+ToggleInfoPaneDescription: Aktifkan panel info untuk melihat detail/pratinjau panel
+DetailsPanePreviewNotAvaliableText: Pratinjau tidak tersedia
+PropertyItemName: Nama Item
+UnpinFolderFromSidebar: Unpin dari Sidebar
+Network: Jaringan
+PreviewPaneFileDetails:
+  AutomationProperties:
+    Name: Rincian file
+PreviewPaneFilePreview:
+  AutomationProperties:
+    Name: Pratinjau file
+SelectedFilePreviewPane:
+  AutomationProperties:
+    Name: Panel pratinjau file yang dipilih
+Feedback: Masukan
+CloudDriveSyncStatus_Online: Tersedia ketika online
+Documentation: Dokumentasi
+CloudDriveSyncStatus_Offline: Tersedia offline
+CloudDriveSyncStatus_PartialOffline: Sebagian tersedia offline
+CloudDriveSyncStatus_Sync: Menyinkronkan
+CloudDriveSyncStatus_Excluded: Dikecualikan dari sinkron
+ItemSizeNotCalculated: Tidak dihitung
+CloudDriveSyncStatus_Unknown: Tidak diketahui
+RenameFileDialog:
+  Text: Jika Anda mengubah ekstensi file, file mungkin menjadi tidak dapat digunakan. Apakah Anda yakin ingin mengubahnya?
+DriveTypeCDRom: CD ROM Drive
+DriveTypeCloudDrive: Cloud Drive
+DriveTypeFixed: Fixed Disk Drive
+DriveTypeFloppyDisk: Floppy Disk Drive
+DriveTypeNetwork: Drive Jaringan
+DriveTypeNoRootDirectory: Drive yang Tidak Dipasang
+DriveTypeRam: RAM Disk Drive
+DriveTypeRemovable: Perangkat Penyimpanan yang Dapat Dilepas
+DriveTypeUnknown: Tidak diketahui
+DriveTypeVirtualDrive: Virtual Drive
+DateCreated: Tanggal dibuat
+MoreOptions: Opsi lainnya...
+DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
+  Text: Peta jaringan drive
+Pinned: Disematkan
+SidebarLibraries: Pustaka
+NoItemSelected: Tidak ada item yang dipilih
+PropertyItemTarget: Target
+Arguments: Argumen
+Default: Bawaan
+PropertyItemCount: Jumlah item
+ElevateConfirmDialog:
+  Title: Tindakan ini memerlukan hak administrator
+  Content: Apakah Anda ingin melanjutkan sebagai administrator?
+ColumnsShortcutTooltip: Kolom (Ctrl+Shift+6)
+PinItemToStart:
+  Text: Sematkan ke Mulai
+UnpinItemFromStart:
+  Text: Lepas dari Mulai
+Library: Pustaka
+LibraryLocations:
+  Text: 'Lokasi:'
+SetAsDefaultSavePath: Atur sebagai jalur penyimpanan bawaan
+LibraryNoLocations:
+  Text: Tidak ada lokasi
+ErrorInputEmpty: Bidang masukan tidak boleh kosong!
+ErrorNameInputRestrictedCharacters: 'Nama tidak boleh mengandung karakter berikut: \ / : * ? " < > |'
+ErrorNameInputRestricted: Tidak diperbolehkan menggunakan nama ini!
+CreateLibraryErrorAlreadyExists: Pustaka dengan nama yang sama sudah ada!
+OpenStorageSense: Buka Sensor Penyimpanan
+Copy: Salin
+CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
+DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
+MoveItemsDialogPrimaryButtonText: Pindah
+MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
+MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
+DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
+ConflictingItemsDialogPrimaryButtonText: Lanjutkan
+ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
+ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
+ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
+CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
+DeleteItemsDialogPermanentlyDeleteCheckBox:
+  Content: Hapus secara permanen
+PropertyISO: Kecepatan ISO
+ReplaceExisting: Ganti yang ada
+GenerateNewName: Buat nama baru
+CreateFolderWithSelection: Buat folder dari yang dipilih
+ItemType: 'Jenis:'
+ToolTipDescriptionDate: 'Tanggal diubah:'
+OpenWith: Buka dengan
+FileBrowserThumbnailIconColumnGrid:
+  AutomationProperties:
+    Name: Ikon file
+DetailsViewHeaderFlyout_ShowOriginalPath:
+  Text: Kolom jalur asli
+DetailsViewHeaderFlyout_ShowItemType:
+  Text: Kolom jenis item
+DetailsViewHeaderFlyout_ShowDateModified:
+  Text: Kolom tanggal diubah
+DetailsViewHeaderFlyout_ShowDateDeleted:
+  Text: Kolom tanggal dihapus
+Sort: Urutkan
+DateModifiedLowerCase: Tanggal diubah
+OriginalFolder: Folder asli
+Descending: Urut turun
+ItemSizeText_Huge: Super besar
+ItemSizeText_VeryLarge: Sangat besar
+ItemSizeText_Large: Besar
+ItemSizeText_Medium: Sedang
+ItemSizeText_Small: Kecil
+ItemSizeText_Tiny: Sangat kecil
+Future: Masa depan
+Today: Hari ini
+Yesterday: Kemarin
+EarlierThisWeek: Awal minggu ini
+LastWeek: Minggu lalu
+EarlierThisMonth: Awal bulan ini
+LastMonth: Bulan lalu
+EarlierThisYear: Awal tahun ini
+LastYear: Tahun lalu
+YearN: Tahun {0}
+GroupItemsCount_Singular: '{0} item'
+GroupItemsCount_Plural: '{0} item'
+ReopenClosedTab: Buka kembali tab yang ditutup
+Rename: Ganti nama
+Privacy: Privasi
+TheRecycleBin: Keranjang Sampah
+Canceling: Membatalkan
+Clear: Bersihkan
+Widgets: Widget
+SyncStatus: Status sinkronisasi
+Security: Keamanan
+AdvancedPermissions: Izin tingkat lanjut
+Allow: Izinkan
+Deny: Tolak
+SecurityFullControlLabel:
+  Text: Kontrol penuh
+SecurityListDirectoryLabel:
+  Text: Daftar konten direktori
+Modify: Modifikasi
+SecurityPermissionsHeaderText: Izin untuk {0}
+SecurityReadAndExecuteLabel:
+  Text: Baca dan eksekusi
+SecurityReadLabel:
+  Text: Baca
+SecurityUsersGroupLabel:
+  Text: Grup atau pengguna
+Write: Tulis
+SecurityUnknownAccount: Akun tidak diketahui
+SecurityCannotReadProperties:
+  Text: Anda tidak memiliki izin untuk melihat properti keamanan objek ini. Klik "Izin tingkat lanjut" untuk melanjutkan.
+SecurityOwnerLabel:
+  Text: 'Pemilik:'
+SecurityUnknownOwnerText:
+  Text: Pemilik tidak diketahui
+ExtractArchive: Ekstrak arsip
+DecompressArchiveDialogOpenDestinationWhenComplete:
+  Content: Buka folder tujuan saat selesai
+BaseLayoutItemContextFlyoutExtractToChildFolder: Ekstrak ke {0}\
+SideBarCreateNewLibrary:
+  Text: Buat pustaka baru
+SideBarRestoreLibraries:
+  Text: Pulihkan pustaka bawaan
+DialogRestoreLibrariesSubtitleText: Apakah Anda yakin ingin memulihkan pustaka default? Semua file Anda akan tetap berada di penyimpanan Anda.
+DialogRestoreLibrariesTitleText: Pulihkan Pustaka
+PropertyFileOwner: Pemilik
+SecuritySpecialLabel:
+  Text: Spesial
+Access: Akses
+SecurityAdvancedAppliesTo: Terapkan pada
+Principal: Prinsip
+SecurityAdvancedFlagsFilesLabel: file
+SecurityAdvancedFlagsFolderLabel: folder ini
+SecurityAdvancedFlagsSubfoldersLabel: subfolder
+Inherited: Diwariskan
+Permissions: Perizinan
+SecurityAdvancedCannotReadProperties:
+  Text: Anda tidak memiliki izin untuk melihat properti keamanan objek ini. Anda dapat mencoba untuk mengambil kepemilikan objek ini.
+SecurityAdvancedFolderFiles:
+  Text: Folder dan file ini
+SecurityAdvancedFolderSubfoldersFiles:
+  Text: Folder, subfolder dan file ini
+SecurityAdvancedOnlyFiles:
+  Text: Hanya file
+SecurityAdvancedOnlySubfolders:
+  Text: Hanya subfolder
+SecurityAdvancedOnlySubfoldersFiles:
+  Text: Hanya subfolder dan file
+SecurityAdvancedOnlyThisFolder:
+  Text: Hanya folder ini
+SecurityAdvancedFolderSubfolders:
+  Text: Folder dan subfolder ini
+SecurityAppendDataLabel:
+  Text: Sisipkan data
+SecurityChangePermissionsLabel:
+  Text: Ubah izin
+SecurityCreateDirectoriesLabel:
+  Text: Buat folder
+SecurityCreateFilesLabel:
+  Text: Buat file
+SecurityDeleteSubdirectoriesAndFilesLabel:
+  Text: Hapus subdirektori dan file
+SecurityExecuteFileLabel:
+  Text: Eksekusi file
+SecurityReadAttributesLabel:
+  Text: Baca atribut
+SecurityReadDataLabel:
+  Text: Baca data
+SecurityReadExtendedAttributesLabel:
+  Text: Baca atribut tambahan
+SecurityReadPermissionsLabel:
+  Text: Baca izin
+SecurityTakeOwnershipLabel:
+  Text: Ambil kepemilikan
+SecurityTraverseLabel:
+  Text: Kunjungi folder
+SecurityWriteAttributesLabel:
+  Text: Tulis atribut
+SecurityWriteDataLabel:
+  Text: Tulis data
+SecurityWriteExtendedAttributesLabel:
+  Text: Tulis atribut tambahan
+SecurityAdvancedInheritedConvert:
+  Text: Konversikan izin yang diwariskan menjadi izin eksplisit
+SecurityAdvancedInheritedEnable:
+  Text: Aktifkan pewarisan
+SecurityAdvancedInheritedRemove:
+  Text: Hapus semua izin yang diwariskan
+SecurityAdvancedReplaceChildPermissions:
+  Text: Atur ulang izin bawahannya
+SecurityAdvancedReplaceChildPermissions2:
+  ToolTipService:
+    ToolTip: Ganti semua entri izin objek bawahan dengan entri izin yang dapat diwariskan dari objek ini
+NavigationToolbarClosePane:
+  Label: Tutup panel
+EnterCompactOverlay: Masuk ke tampilan fleksibel
+ExitCompactOverlay: Keluar dari tampilan fleksibel
+PropertyFileDescription: Deskripsi file
+PropertyCompany: Perusahaan
+PropertyLanguage: Bahasa
+PropertyTrademarks: Merek Dagang
+PropertyFileVersion: Versi file
+PreviewPaneLoadCloudItemButton:
+  Text: Buka pratinjau penuh
+  ToolTipService:
+    ToolTip: Unduh item dari cloud dan buka pratinjau
+DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
+PropertyUncompressedSize: Ukuran tidak terkompresi
+WSL: WSL
+SideBarHideSectionFromSideBar:
+  Text: Sembunyikan bagian {0}
+AddFile: Tambahkan file
+ConsentDialogTitle: Pembaruan tersedia
+ConsentDialogContent: Pembaruan siap dipasang
+Close: Tutup
+ConsentDialogPrimaryButtonText: Perbarui
+Home: Beranda
+BaseLayoutContextFlyoutDetails:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+1
+BaseLayoutContextFlyoutTiles:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+2
+BaseLayoutContextFlyoutColumn:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+6
+ArchiveExtractionCompletedSuccessfullyText: Ekstraksi arsip berhasil diselesaikan.
+ExtractingArchiveText: Mengekstrak arsip
+ExtractingCompleteText: Mengekstrak selesai!
+BaseLayoutItemContextFlyoutOpenParentFolder:
+  Text: Buka folder induk
+Unknown: Tidak dikenal
+EditTags: Edit tag
+PropertyPartOfSet: Bagian dari set
+InsertDiscDialog:
+  OpenDriveButton: Buka penyimpanan
+  Text: Harap masukkan disk ke dalam drive {0}
+  Title: Masukkan disk
+OK: OKE
+AskCredentialDialog:
+  Title: Diperlukan kredensial
+CredentialDialogAnonymous:
+  Content: Anonim
+CredentialDialogDescription:
+  Text: 'Berikan kredensial Anda:'
+CredentialDialogUserName:
+  PlaceholderText: Nama pengguna
+NoSearchResultsFound: Tidak ada item yang ditemukan
+OpenLogLocation: Buka lokasi log
+LinkToFolderCaptionText: Buat tautan di {0}
+Columns: Kolom
+Tiles: Ubin
+OpenFoldersInNewTab: Buka folder di tab baru
+StatusCenter: Pusat status
+DetailsViewHeaderFlyout_ShowDateCreated:
+  Text: Kolom tanggal dibuat
+DetailsViewHeaderFlyout_ShowItemSize:
+  Text: Kolom ukuran item
+ExperimentalFeatureFlags: Fitur eksperimental
+HelpAndSupport: Bantuan dan dukungan
+SubmitFeatureRequest: Kirim permintaan fitur
+SubmitBugReport: Kirim laporan bug
+SettingsSetAsDefaultFileManager: Atur Files sebagai pengelola file bawaan
+SettingsSetAsOpenDialog: Gunakan Files sebagai Dialog Buka File
+Tag: Tag
+SettingsOpenItemsWithOneClick: Buka item dengan sekali klik
+FolderPath: Jalur folder
+ExportSettings: Ekspor pengaturan
+ImportSettings: Impor pengaturan
+SettingsImportErrorDescription: Tidak dapat mengimpor pengaturan. File pengaturan rusak.
+SettingsImportErrorTitle: Kesalahan saat mengimpor pengaturan
+EmptyRecycleBin: Kosongkan Keranjang Sampah
+Sidebar: Bilah sisi
+ChooseCustomIcon: Pilih ikon folder kustom
+Customization: Kustomisasi
+RestoreDefault: Pulihkan ke bawaan
+OpenTabInExistingInstance: Buka tab di instance yang sama ketika membuka Files dari app lain
+StartupSettings: Pengaturan startup
+Compatibility: Kompatibilitas
+None: Tidak ada
+CompatibilityOnWindowsLogin: Saat masuk Windows
+CompatibilityOnProgramStart: Saat program dimulai
+System: Sistem
+CompatibilitySystemEnhanced: Sistem (Ditingkatkan)
+CompatibilityReducedColorModeColor16bit: warna 16-bit (65536)
+CompatibilityReducedColorModeColor8bit: warna 8-bit (256)
+CompatibilityDisableFullscreenOptimizations: Matikan optimalisasi layar penuh
+CompatibilityRunIn640x480Resolution: Jalankan pada resolusi 640 x 480
+CompatibilityOverrideHighDPIBehavior: Ganti perilaku high DPI scaling
+CompatibilityReducedColorMode: Mode warna berkurang
+CompatibilityRegisterThisProgramForRestart: Daftarkan program untuk di muat ulang
+RunAsAdministrator: Jalankan sebagai administrator
+CompatibilityRunTroubleshooter: Jalankan pemecahan masalah kompatibilitas
+CompatibilityUseDPISettings: Gunakan pengaturan DPI untuk monitor utama
+CompatibilityDoNotAdjustDPI: Jangan sesuaikan DPI
+CompatibilityDoNotOverrideDPI: Jangan ganti DPI
+CompatibilityMode: Mode kompabilitas
+CompatibilityNoReducedColor: Tidak ada pengurangan warna
+ThirdPartyLicenses: Lisensi pihak ketiga
+SettingsSetAsDefaultFileManagerDescription: Opsi ini mengubah registri sistem dan dapat memiliki efek samping yang tidak terduga pada perangkat Anda. Lanjutkan dengan risiko Anda sendiri.
+FolderWidgetCreateNewLibraryDialogTitleText: Buat Pustaka
+FolderWidgetCreateNewLibraryInputPlaceholderText: Masukkan nama Pustaka
+CalculateFolderSizes: Kalkulasi ukuran folder
+RecentFiles: File terbaru
+SettingsOpenInLogin: Buka Files saat Windows mulai
+Attributes: Atribut
+Hidden: Tersembunyi
+MoreDetails: Rincian selengkapnya
+ReadOnly: Hanya baca
+CleanupDrive: Bersihkan konten drive Anda
+Type: Jenis
+Bytes: Bita
+Extract: Ekstrak
+ExtractFiles: Ekstrak file
+ExtractHere: Ekstrak di sini
+ExtractKeyboardAcceleratorTextOverride: Ctrl+E
+ExtractToChildFolder: Ekstrak ke {0}
+RunScript: Jalankan skrip
+RunWithPowerShell: Jalankan dengan PowerShell
+ShowFolderSizesWarning: Menghitung ukuran folder membutuhkan banyak sumber daya dan dapat menyebabkan penggunaan CPU Anda meningkat.
+RotateLeft: Putar kiri
+RotateRight: Putar kanan
+Install: Pasang
+CloseTabsToTheLeft: Tutup tab di sebelah kiri
+CloseTabsToTheRight: Tutup tab di sebelah kanan
+CloseOtherTabs: Tutup tab lain
+Music: Musik
+Pictures: Gambar
+UpdateFiles: Perbarui Files
+FileTags: Tag
+Universal: Universal
+DateFormatSample: 'mis: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Tampilkan gambar mini
+Retry: Coba lagi
+ErrorDialogUnsupportedMoveOperation: Operasi pemindahan tidak didukung dalam konteks ini. Apakah Anda ingin menyalin item sebagai gantinya?
+HiddenItems: Item tersembunyi
+Custom: Kustom
+SetAsSlideshow: Atur sebagai tampilan slide desktop
+SizeAllColumnsToFit: Atur semua ukuran kolom ke pas
+Adaptive: Menyesuaikan
+AdaptiveShortcutTooltip: Adaptif (Ctrl+Shift+7)
+BaseLayoutContextFlyoutAdaptive:
+  KeyboardAcceleratorTextOverride: Ctrl+Shift+7
+ShowAlternateStreams: Tampilkan alternatif data streams
+Behaviors: Perilaku
+ReviewFiles: Ulas Files
+ReviewFilesContent: Apakah Anda ingin memberikan ulasan Files?
+SetAsBackgroundFlyout: Atur sebagai latar belakang
+SetAsBackground: Atur sebagai latar belakang desktop
+SetAsDefault: Atur sebagai bawaan
+DateColumn: Kolom Tanggal
+DateCreatedColumn: Kolom tanggal dibuat
+SizeColumn: Kolom Ukuran
+TagColumn: Kolom Tag
+TypeColumn: Kolom Jenis
+Lockscreen: Layar kunci
+OpenFolderWithOneClickColumnsLayout: Buka folder dengan sekali klik di Tata Letak Kolom
+OpeningItems: Membuka item
+Compress: Kompres
+SelectFilesAndFoldersOnHover: Pilih file dan folder saat mengarahkan kursor ke atasnya
+ConfirmRestoreBinDialogContent: Apakah Anda yakin ingin memulihkan semua item di keranjang sampah?
+ConfirmRestoreBinDialogTitle: Pulihkan semua item
+ConfirmRestoreSelectionBinDialogContent: Apakah Anda ingin memulihkan {0} item yang dipilih?
+ConfirmRestoreSelectionBinDialogTitle: Pulihkan yang dipilih
+RestoreAllItems: Pulihkan Semua Item
+Restore: Pulihkan
+ShortcutCannotBeOpened: Pintasan tidak dapat dibuka
+DeleteShortcutDescription: Tujuan target tidak dapat ditemukan {0}. Apakah Anda ingin menghapus pintasan ini?
+AccessDeniedToFolder: Anda tidak memiliki izin untuk mengakses folder ini.
+ArchivePassword: Kata sandi arsip
+ExtractToPath: Jalur
+SortingAndGrouping: Mengurutkan dan mengelompokkan
+CreateArchive: Buat arsip
+Create: Buat
+CreateNamedArchive: Buat {0}
+EnterName: Masukkan sebuah nama
+CompressionLevel: Tingkat kompresi
+CompressionLevelUltra: Ultra
+CompressionLevelHigh: Tinggi
+CompressionLevelNormal: Biasa
+CompressionLevelLow: Rendah
+CompressionLevelFast: Cepat
+CompressionLevelNone: Tidak ada
+SplittingSize: Ukuran pemisahan
+Do not split: Jangan dipisah
+CD: CD
+DVD: DVD
+FAT: FAT
+Bluray: Blu-ray
+Encryption: Enkripsi
+Password: Kata sandi
+Format: Format
+DetailsViewHeaderFlyout_ShowSyncStatus:
+  Text: Sinkronkan kolom status
+GroupBy: Kelompokkan menurut
+SortBy: Urutkan berdasarkan
+GroupInDescendingOrder: Kelompokkan dalam urutan menurun
+SortInDescendingOrder: Urutkan dalam urutan menurun
+NewShortcutDialogTitle: Buat pintasan baru
+NewShortcutDialogDescription: Buat pintasan ke lokal atau jaringan program, file, folder, komputer, atau alamat Internet.
+NewShortcutDialogPrompt: 'Masukkan lokasi item:'
+AddDialogListShortcutSubHeader: Membuat pintasan
+RecentFilesDisabledOnWindowsWarning: File yang digunakan saat ini, dinonaktifkan oleh Windows File Explorer.
+EditSettingsFile: Ubah file pengaturan
+WhatsNew: Yang baru
+CannotCreateShortcutDialogTitle: Membuat pintasan di lokasi ini memerlukan hak istimewa administrator
+CannotCreateShortcutDialogMessage: Apakah Anda ingin membuat pintasan di desktop?
+ErrorDialogNameNotAllowed: Nama item yang ditentukan tidak valid
+Settings: Pengaturan
+DoubleClickBlankSpaceToGoUp: Klik dua kali pada area kosong, untuk naik satu tingkat pada direktori
+ViewMore: Lihat lainnya
+ShowEditTagsMenu: Tampilkan tag edit flyout
+ShowCompressionOptions: Tampilkan pilihan kompresi
+ShowSendToMenu: Tampilkan menu kirim ke
+ShowOpenInNewTab: Tampilkan opsi untuk membuka folder di tab baru
+ShowOpenInNewWindow: Tampilkan opsi untuk membuka folder di panel baru
+QuickAccess: Akses cepat
+NetworkAuthenticationDialogMessage: Masukkan kredensial untuk terhubung ke:{0}
+NetworkAuthenticationDialogTitle: Masukkan kredensial jaringan
+NetworkAuthenticationSaveCheckbox: Ingat kredensial saya
+NetworkFolderErrorDialogTitle: Kesalahan pada folder jaringan
+AppVersion: Versi aplikasi
+WindowsVersion: Versi Windows
+Always: Selalu
+PermanentDeletionOnly: Penghapusan permanen saja
+Never: Jangan Pernah
+TagColor: Warna tag
+NewTag: Tag baru
+CreateNewTag: Buat tag baru
+Loading: Memuat...
+ContextMenuOptions: Opsi menu konteks
+ShowFileExtensions: Tampilkan ekstensi file
+ShowHiddenItems: Tampilkan item tersembunyi
+FormatDriveText: Format...
+Help: Bantuan
+FullScreen: Beralih ke layar penuh
+ConfirmDeleteTag: Yakin ingin menghapus tag ini?
+PlayAll: Putar semua
+Height: Tinggi
+Width: Lebar
+ApplyToAllConflictingItems: Terapkan aksi ini pada semua item yang berbenturan
+OpenTerminal: Buka di Windows Terminal
+OpenTerminalAsAdmin: Buka di Windows Terminal sebagai Administrator
+Save: Simpan
+MultiSelect: Pilih banyak
+ReorderSidebarItemsDialogText: Ubah urutan item pada sidebar
+Hashes: Hash
+CalculationError: Kesalahan terjadi pada saat perhitungan
+CalculationErrorFileIsOpen: Gagal untuk mengkalkulasi hash, tutup file dan coba lagi.
+CalculationOnlineFileHashError: Hash tidak tersedia untuk file online
+Algorithm: Algoritma
+HashValue: Nilai hash
+SelectHashesToShow: Pilih hash untuk ditampilkan
+Calculating: Menghitung...
+JumpListPinnedGroupHeader: Item yang disematkan
+DecreaseSize: Kurangi ukuran
+IncreaseSize: Tingkatkan ukuran
+ToggleSortDirection: Pilih arah pengurutan
+InvalidTagNameWarning: Nama tidak valid
+TagNameRules: Nama tidak boleh kosong atau dimulai atau diakhiri dengan tanda titik.
+Videos: Video
+LaunchPreviewPopup: Luncurkan pratinjau popup
+ToggleCompactOverlay: Tampilkan overlay kompak
+OpenHelpDescription: Buka halaman bantuan daring di browser
+ToggleFullScreenDescription: Beralih ke layar penuh
+EnterCompactOverlayDescription: Masuk ke tampilan fleksibel
+ExitCompactOverlayDescription: Keluar dari tampilan fleksibel
+ToggleCompactOverlayDescription: Pilih overlay kompak
+SearchDescription: Pergi ke kotak pencarian
+ToggleShowHiddenItemsDescription: Pilih untuk menunjukkan atau menyembunyikan item
+ToggleShowFileExtensionsDescription: Pilih untuk menunjukkan ekstensi berkas
+TogglePreviewPaneDescription: Aktifkan paratinjau panel untuk melihat paratinjau file
+ToggleSidebarDescription: Pilih untuk menujukkan sidebar
+CopyItemDescription: salin item(s) ke clipboard
+CopyPathDescription: Salin path dari item yang dipilih ke clipboard
+CopyPathWithQuotesDescription: Salin path dari item yang dipilih dengan kutipan ke clipboard
+CutItemDescription: Salin item(s) ke clipboard
+PasteItemDescription: Tempel item(s) dari clipboard ke folder yang sekarang
+PasteItemToSelectionDescription: Tempel item(s) dari clipboard ke folder yang dipilih
+DeleteItemDescription: Hapus item
+CreateFolderDescription: Buat folder baru
+CreateShortcutDescription: Buat shortcut(s) baru ke item(s) yang dipilih
+CreateShortcutFromDialogDescription: Buat shortcut baru ke item manapun
+EmptyRecycleBinDescription: Kosongkan keranjang sampah
+FormatDriveDescription: Buka "Format Penyimpanan" menu pada item yang dipilih
+RestoreRecycleBinDescription: Kembalikan item(s) terpilih dari recycle bin
+RestoreAllRecycleBinDescription: Mengembalikan semua item dari tempat sampah
+OpenItemDescription: Buka item
+OpenItemWithApplicationPickerDescription: Buka item dengan aplikasi yang dipilih
+OpenParentFolderDescription: Buka folder induk pada item yang dicari
+RefreshItemsDescription: Refresh halaman
+RenameDescription: Ubah nama item yang dipilih
+SelectAllDescription: Pilih semua item
+InvertSelectionDescription: Balikan item pilihan
+ClearSelectionDescription: Hapus item yang dipilih
+ToggleSelectDescription: Aktifkan item pilihan
+ShareItemDescription: Bagikan item(s) yang terpilih dengan orang lain
+PinToStartDescription: Sematkan item(s) ke Start Menu
+UnpinFromStartDescription: Unpin item(s) dari Start Menu
+PinFolderToSidebarDescription: Pin folder(s) ke Sidebar
+UnpinFolderFromSidebarDescription: Unpin folder(s) dari Sidebar
+SetAsWallpaperBackgroundDescription: Gunakan gambar yang diilih sebagai desktop background
+SetAsSlideshowBackgroundDescription: Set gambar terpilih sebagai desktop slideshow
+SetAsLockscreenBackgroundDescription: Gunakan gambar yang dipilih sebagai lockscreen background
+SetAsAppBackgroundDescription: Gunakan gambar terpilih sebagai latar belakang aplikasi
+InstallFontDescription: Instal font yang dipilih
+InstallInfDriverDescription: Pasang driver(s) menggunakan file(s) inf terpilih
+InstallCertificateDescription: Pasang sertifikat(s) terpilih
+RunAsAdminDescription: Jalankan aplikasi terpilih sebagai admin
+RunAsAnotherUserDescription: Jalankan aplikasi terpilih sebagai user lain
+RunWithPowershellDescription: Jalankan skrip PowerShell yang dipilih
+LaunchPreviewPopupDescription: Luncurkan pratinjau di jendela popup
+CompressIntoArchiveDescription: Buat arsip dari file(s) terpilih
+CompressIntoSevenZipDescription: Buat 7z arsip dari item(s) yang dipilih
+CompressIntoZipDescription: Buat arsip zip dari item(s) yang dipilih
+DecompressArchiveDescription: Ekstrak item dari arsip(s) yang dipilih ke folder
+DecompressArchiveHereDescription: Ekstrak item dari arsip(s) yang dipilih ke folder sekarang
+DecompressArchiveToChildFolderDescription: Ekstrak item dari arsip(s) yang dipilih ke folder baru
+RotateLeftDescription: Putar gambar(s) terpilih ke kiri
+RotateRightDescription: Putar gambar(s) terpilih ke kanan
+OpenSettingsDescription: Buka halaman pengaturan
+OpenTerminalDescription: Buka folder di terminal
+OpenTerminalAsAdminDescription: Buka folder di terminal sebagai admin
+LayoutDecreaseSizeDescription: Kurangi ukuran item dalam tampilan saat ini
+LayoutIncreaseSizeDescription: Naikkan ukuran item dalam tampilan saat ini
+LayoutDetailsDescription: Beralih ke tampilan detail
+LayoutTilesDescription: Beralih ke tampilan tiles
+LayoutListDescription: Beralih ke tampilan daftar
+List: Daftar
+Grid: Grid
+LayoutGridDescription: Ganti ke tampilan grid
+LayoutColumnsDescription: Beralih ke tampilan kolom
+LayoutAdaptiveDescription: Beralih tampilan secara adaptif
+SortByNameDescription: Urutkan item berdasarkan nama
+SortByDateModifiedDescription: Urutkan item menurut tanggal diubah
+SortByDateCreatedDescription: Urutkan item berdasarkan tanggal dibuat
+SortBySizeDescription: Urutkan item berdasarkan ukuran
+SortByTypeDescription: Urutkan item berdasarkan tipe
+SortBySyncStatusDescription: Urutkan item berdasarkan status sinkronisasi
+SortByTagDescription: Urutkan item berdasarkan tag
+SortByOriginalFolderDescription: Urutkan item berdasarkan folder asli
+SortByDateDeletedDescription: Urutkan item berdasarkan tanggal dihapus
+SortAscendingDescription: Urutkan item dalam urutan A-Z
+SortDescendingDescription: Urutkan item dalam urutan Z-A
+ToggleSortDirectionDescription: Aktifkan arah urutan item
+GroupByNoneDescription: Buat daftar item tanpa kelompok
+GroupByNameDescription: Kelompokkan item berdasarkan nama
+GroupByDateModifiedDescription: Kelompokkan item berdasarkan tanggal diubah
+GroupByDateCreatedDescription: Kelompokkan item berdasarkan tanggal dibuat
+GroupBySizeDescription: Kelompokkan item berdasarkan ukuran
+GroupByTypeDescription: Kelompokkan item berdasarkan tipe
+GroupBySyncStatusDescription: Kelompokkan item berdasarkan status sinkronisasi
+GroupByTagDescription: Kelompokkan item berdasarkan tag
+GroupByOriginalFolderDescription: Kelompokkan item berdasarkan folder aslinya
+GroupByDateDeletedDescription: Kelompokkan item berdasarkan tanggal dihapus
+GroupByFolderPathDescription: Kelompokkan item jalur folder
+GroupAscendingDescription: Urutkan grup dalam urutan A-Z
+GroupDescendingDescription: Urutkan grup dalam urutan Z-A
+ToggleGroupDirectionDescription: Aktifkan arah urutan grup
+NewTabDescription: Buka tab baru
+NavigateBackDescription: Navigasi mundur dalam riwayat navigasi
+NavigateForwardDescription: Navigasi kedepan dalam riwayat navigasi
+NavigateUpDescription: Navigasi keatas satu folder
+DuplicateCurrentTabDescription: Duplikasi tab sekarang
+DuplicateSelectedTabDescription: Duplikasi tab terpilih
+CloseTabsToTheLeftCurrentDescription: Tutup tab di sebelah kiri tab saat ini
+CloseTabsToTheLeftSelectedDescription: Tutup tab di sebelah kiri tab yang dipilih
+CloseTabsToTheRightCurrentDescription: Tutup tab di sebelah kanan dari tab saat ini
+CloseTabsToTheRightSelectedDescription: Tutup tab di sebelah kanan tab yang dipilih
+CloseOtherTabsCurrentDescription: Tutup tab selain tab saat ini
+CloseOtherTabsSelectedDescription: Tutup tab selain tab yang dipilih
+ReopenClosedTabDescription: Buka kembali halaman yang terakhir ditutup
+PreviousTabDescription: Pindah ke tab sebelumnya
+NextTabDescription: Pindah ke tab berikutnya
+CloseSelectedTabDescription: Tutup tab saat ini
+OpenNewPaneDescription: Buka panel baru
+ClosePaneDescription: Tutup panel kanan
+FocusLeftPane: Fokus panel kiri
+FocusLeftPaneDescription: Ubah fokus ke panel kiri
+FocusRightPane: Fokus panel kanan
+FocusRightPaneDescription: Ubah fokus ke panel kanan
+ToggleSidebar: Aktifkan sidebar
+Key:
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Menu: Alt
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Control: Ctrl
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Shift: Shift
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Windows: Win
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Enter: Enter
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Space: Space
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Escape: Esc
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Back: Backspace
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Tab: Tab
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Insert: Ins
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Delete: Del
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Left: Kiri
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Right: Kanan
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Down: Bawah
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Up: Naik (Alt+Panah Atas)
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Home: Beranda
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  End: End
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageDown: PageDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  PageUp: PageUp
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Separator: Sep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Pause: Pause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Sleep: Sleep
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Clear: Bersihkan
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Print: Print
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Help: Bantuan
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse4: Mouse4
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mouse5: Mouse5
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application: App
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application1: App1
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Application2: App2
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  Mail: Mail
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoHome: GoHome
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoBack: GoBack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserGoForward: GoForward
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserRefresh: BrowserRefresh
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserStop: BrowserStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserSearch: Cari
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  BrowserFavorites: Favorit
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPlayPause: PlayPause
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaStop: MediaStop
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaPreviousTrack: PrevTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaNextTrack: NextTrack
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaSelect: MediaSelect
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaMute: Bisu
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeDown: VolDown
+  #Key name for hotkeys in menus. Use abbreviation if possible.
+  MediaVolumeUp: VolUp
+Change: Ubah
+ToggleSelect: Aktifkan pemilih
+ShowFileExtensionWarning: Tampilkan peringatan ketika menganti ekstensi file
+ThisPC: PC ini
+RecycleBin: Keranjang Sampah
+Untagged: Tidak ditandai
+PreviousTab: Pindah ke tab sebelumnya
+NextTab: Pindah ke tab berikutnya
+CloseTab: Tutup tab ini
+EditPath: Ubah jalur
+Redo: Redo
+Undo: Undo
+InvalidLocation: Lokasi tidak valid
+CopyFileWithoutProperties: Apakah anda yakin untuk menyalin file ini tanpa propertinya?
+FilePropertiesCannotBeCopied: File ini memiliki properti yang tidak dapat disalin dilokasi baru
+FilePropertiesCannotBeMoved: File ini memiliki properti yang tidak dapat dipindah ke lokasi baru
+MoveFileWithoutProperties: Apakah anda yang untuk memindahkan file tanpa propertinya?
+ShowCheckboxesWhenSelectingItems: Tampilkan kotak centang saat memilih item
+EditPathDescription: Jalur bar fokus
+AddItemDescription: Buat item baru
+SecurityNoAccessControlEntriesText: Tidak ada grup atau pengguna yang mempunyai izin untuk mengakses object. Tetapi, pemilik objek dapat menerapkan izin.
+OpenFileLocationDescription: Buka loksai item
+DeletePermanently: Hapus permanen
+DeleteItemPermanentlyDescription: Hapus item(s) secara permanen
+PlayAllDescription: Putar media file yang terpilih
+UndoDescription: Undo operasi file sebelumnya
+RedoDescription: Redo operasi file sebelumnya
+Location: 'Lokasi:'
+GroupByMonthDescription: Kelompokan item berdasarkan bulan
+GroupByYearDescription: Kelompokan item berdasarkan tahun
+Month: Bulan
+Day: Hari
+ToggleGroupByDateUnitDescription: Pilih unit untuk dikelompokkan berdasarkan tanggal
+ToggleGroupingUnit: Pilih pengelompokan unit
+Year: Tahun
+GroupByDateUnit: Kelompokkan berdasarkan tanggal
+GroupByDateCreatedDayDescription: Kelompokkan berdasarkan hari dari tanggal pembuatan
+GroupByDateCreatedMonthDescription: Kelompokan item berdasarkan saat bulan dan tanggal saat item dibuat
+GroupByDateCreatedYearDescription: Kelompok kan items berdasarkan tahun dan tanggal saat dibuat
+GroupByDateDeletedDayDescription: Kelompokkan berdasarkan hari dari tanggal saat dihapus
+GroupByDateDeletedMonthDescription: Kelompokan items berdasarkan bulan dan tanggal saat dihapus
+GroupByDateDeletedYearDescription: Kelompokan items berdasarkan tahun dan tanggal saat dihapus
+GroupByDateModifiedDayDescription: Kelompokkan item berdasarkan hari dari tanggal saat dirubah
+GroupByDateModifiedMonthDescription: Kelompokkan item berdasarkan bulan dan tanggal saat di rubah
+GroupByDateModifiedYearDescription: Kelompokkan berdasarkan tahun dan tanggal saat di rubah
+SecurityClickAdvancedPermissions: Klik 'Advanced permission' untuk lanjut.
+SecurityRequireReadPermissions: Anda harus mempunyai izin Membaca untuk melihat properti item ini.
+SecuritySuggestToTakeOwnership: Untuk mendapatkan kepemilikan item ini, yang meliputi untuk melihat propertinya, klik Ubah diatas.
+SecurityUnableToDisplayPermissions: Tidak dapat menampilkan perizinan.
+StashChanges: Biarkan perubahan saya pada '{0}'
+DiscardChanges: Batalkan yang saya ubah
+BringChanges: Bawa perubahan saya ke '{0}'
+UncommittedChanges: Anda memiliki perubahan yang belum di commit pada branch ini. Apa yang anda ingin lakukan pada mereka?
+SwitchBranch: Pindah branch
+Branches: Branch
+Switch: Pindah
+NewBranch: Branch baru
+InvalidBranchName: Nama branch tidak valid
+CreateBranch: Buat branch
+CreateNewBranch: Buat branch
+BasedOn: Berdasarkan pada
+SwitchToNewBranch: Pindah ke branch baru
+CreateFolderWithSelectionDescription: Buat folder baru dengan item(s) yang sedang dipilih
+OpenProperties: Buka properti
+OpenPropertiesDescription: Buka jendela properti
+Locals: Lokal
+Remotes: Remote
+ImproveTranslation: Terjemahkan di Crowdin
+GitFetch: Fetch
+GitPull: Pull
+GitFetchDescription: Jalankan git fetch
+GitPullDescription: Jalankan git pull
+Preview: Pratinjau
+GitStatus: Git status
+GitError: Kesalahan pada Git
+PullTimeoutError: git pull failed due to a timeout error
+#Text indicating that multiple selected files have different metadata values.
+MultipleValues: (beberapa nilai)
+Author: Author
+DateCommitted: Tanggal commit
+CommitMessage: Pesan commit
+CommitSha: SHA commit
+Git: Git
+Acrylic: Acrylic
+Mica: Mica
+MicaAlt: Mica Alt
+BackdropMaterial: Backdrop Material
+Solid: Solid
+ManageBranches: Kelola branch
+Push: Push
+GitPushDescription: Jalankan git push
+GitSync: Sinkronisasi
+GitSyncDescription: Jalankan git pull dan git push
+GitSyncStatusExtendedInfo: '{0} keluar / {1} commits masuk'
+ConnectGitHub: Hubungkan ke GitHub
+ConnectGitHubDescription: Masukkan kode berikut pada tautan dibawah untuk memulai bekerja dengan repositori GitHub.
+CannotReachGitHubError: Saat ini, Files tidak dapat mengakses GitHub.
+OpenInVSCode: Buka folder di VS Code
+OpenInVSCodeDescription: Buka direktori ini pada Visual Studio Code
+OpenRepoInVSCode: Buka repo di VS Code
+OpenRepoInVSCodeDescription: Buka root repo Git di Visual Studio Code
+CopyCode: Salin kode
+Added: Ditambahkan
+Deleted: Dihapus
+Modified: Diubah
+Untracked: Untracked
+UnableToDisplayOwner: Tidak dapat menampilkan pemilik sekarang.
+AuthorizationSucceded: Bagus! Anda sekarang sudah diotorisasi.
+InitRepo: Inisialisasi repo
+InitRepoDescription: Inisialisasi Repositori Git
+GitOriginRepositoryName: Nama Remote Repository
+GitCurrentBranch: Cabang Saat ini
+PathColumn: Kolom Lokasi
+SortByPathDescription: Urutkan item berdasarkan jalur
+OpenDirectoryInNewPaneDescription: Buka tautan di panel baru
+OpenDirectoryInNewTabDescription: Buka tautan di tab baru
+OpenInNewWindowDescription: Buka tautan di jendela baru
+OpenAllTaggedItems: Buka semua
+OpenAllTaggedItemsDescription: Buka semua item yang ditandai
+#{0} is the drive letter.
+DriveWithLetter: Drive({0})
+InvalidCommand: Perintah salah
+InvalidCommandContent: '{0} tidak dikenal sebagai perintah.'
+CommandNotExecutable: Perintah tidak bisa dilaksanakan
+CommandNotExecutableContent: Perintah {0} belum siap dilaksanakan.
+CommandPalette: Daftar Perintah
+OpenCommandPaletteDescription: Buka panel perintah
+ShortcutItemWorkingDir: 'Mulai di:'
+TurnOnBitLocker: Hidupkan BitLocker
+ManageBitLocker: Atur BitLocker
+CopyFailureFileToLarge: Items berikut ini terlalu besar untuk di salin ke drive ini
+FormatDrive: Format drive
+DontShowAgain: Jangan tampilkan lagi
+FilesRunningAsAdmin: Files sedang berjalan sebagai admin
+FilesRunningAsAdminContent: Dikarenakan limitasi WIndows dan WinAppSDK, fitur drag and drop tidak tersedia saat menjalankan Files sebagai admin. Jika ingin memakai fitur drag and drop sementara bisa dengan membuka UAC (User Account Control) dari Start Menu dan pilih level ketiga, dan muat ulang Windows, sementara itu kamu dapat memakai Files tanpa fitur drag and drop.
+SettingsLeaveAppRunning: Biarkan app berjalan di latar belakang ketika window di tutup
+#One of the custom color themes
+Blue: Biru
+#One of the custom color themes
+BlueGray: Biru Abu-abu
+#One of the custom color themes
+BrickRed: Merah Bata
+#One of the custom color themes
+Camouflage: Kamuflase
+#One of the custom color themes
+CoolBlueBright: Biru Cerah
+#One of the custom color themes
+Gray: Abu-abu
+#One of the custom color themes
+GrayDark: Abu-abu gelap
+#One of the custom color themes
+Green: Hijau
+#One of the custom color themes
+IrisPastel: Iris Pastel
+#One of the custom color themes
+MintLight: Mint Cerah
+#One of the custom color themes
+ModRed: Merah Mod
+#One of the custom color themes
+OrangeBright: Oranye Cerah
+#One of the custom color themes
+Overcast: Mendung
+#One of the custom color themes
+Red: Merah
+#One of the custom color themes
+RoseBright: Mawar Cerah
+#One of the custom color themes
+Seafoam: Busa laut
+#One of the custom color themes
+Storm: Badai
+#One of the custom color themes
+VioletRedLight: Ungu Merah Cerah
+#One of the custom color themes
+YellowGold: Kuning Emas
+ClearCompleted: Penghapusan selesai
+NameWithColon: 'Nama:'
+#Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
+StatusCenter_ProcessedSize_Header: '{0} dari {1} terproses'
+ItemsLower: item
+CannotInitializeGitRepo: File tidak dapat menginisialisasi direktori ini sebagai Git repository.
+ContributingArtist: Artis yang Berkontribusi
+AddPage: Tambah halaman
+ProcessingItems: Item sedang di proses...
+SpeedWithColon: 'Kecepatan:'
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_Header: Batalkan kompresi {0} item ke {1}
+#Shown in a StatusCenter card.
+StatusCenter_CompressCanceled_SubHeader: Batalkan kompresi {0} item dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_Header: Kompres {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressComplete_SubHeader: Kompres {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_Header: Gagal mengkompresi {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressFailed_SubHeader: Gagal mengkompres {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_Header: Kompres {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CompressInProgress_SubHeader: Mengompres {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_Header: Membatalkan penyalinan {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyCanceled_SubHeader: Membatalkan penyalinan {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_Header: Disalin {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyComplete_SubHeader: Disalin {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_Header: Error menyalin {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyFailed_SubHeader: Gagal untuk menyalin {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_Header: Menyalin {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_CopyInProgress_SubHeader: Menyalin {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_Header: Dibatalkan ekstrasi "{0}" ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressCanceled_SubHeader: Dibatalkan ekstrasi "{0}" dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_Header: Diekstraksi "{0}" ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressComplete_SubHeader: Diekstraksi "{0}" dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_Header: Error Mengekstrak "{0}" ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressFailed_SubHeader: Gagal mengekstrak "{0}" dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_Header: Mengekstraksi "{0}" ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DecompressInProgress_SubHeader: Mengekstraksi "{0}" dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteCanceled_Header: Membatalkan penghapusan {0} item(s) dari "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteComplete_Header: Dihapus {0} item(s) dari "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_Header: Error menghapus {0} item(s) dari "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteFailed_SubHeader: Gagal menghapus {0} item(s) dari {1}"
+#Shown in a StatusCenter card.
+StatusCenter_DeleteInProgress_Header: Menghapus {0} item(s) dari "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_Header: Dibatalkan pemindahan {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveCanceled_SubHeader: Dibatalkan pemindahan {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_Header: Terpindah {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveComplete_SubHeader: Terpindah {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_Header: Memindah {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveInProgress_SubHeader: Memindah {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_Header: Error memindah {0} item(s) ke "{1}"
+#Shown in a StatusCenter card.
+StatusCenter_MoveFailed_SubHeader: Gagal untuk memindah {0} item(s) dari "{1}" ke "{2}"
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinCancel_Header: Batal mengosongkan Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinComplete_Header: Recycle Bin Kosong
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinInProgress_Header: Mengosongkan Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_Header: Error mengosongkan Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_EmptyRecycleBinFailed_SubHeader: Gagal mengkosongkan Recycle Bin
+#Shown in a StatusCenter card.
+StatusCenter_Prepare_Header: Mempersiapkan operasi...
+#Shown in a StatusCenter card. Used as "8/20 items processed"
+StatusCenter_ProcessedItems_Header: '{0}/{1} item(s) diproses'
+UnblockDownloadedFile: Buka blokiran file yang diunduh
+NoFileOperations: Tidak ada operasi file yang berlangsung
+OpenOnStartupDisabled: Opsi untuk membuka File di Windows Startup tidak tersedia karena pengaturan sistem atau kebijakan grup Anda. Untuk mengaktifkan kembali, buka halaman startup di Task Manager.
+FailedToRestore: Gagal untuk mengembalikan item dari Recycle Bin
+FailedToSetBackground: Gagal untuk set wallpaper latar belakang
+GitDeleteBranch: Hapus Git branch
+GitDeleteBranchSubtitle: Yakin ingin menghapus "{0}" branch ini secara permanen?
+ConnectedToGitHub: Hubungkan ke GitHub
+Logout: Keluar
+ConnectToGitHub: Hubungkan ke GitHub
+Login: Masuk
+ErrorApplyingTagContent: Tag hanya kompatibel pada drive yang diformat sebagai NTFS.
+ErrorApplyingTagTitle: Terjadi kesalahan saat menerapkan tag ini
+DecompressArchiveHereSmartDescription: Ekstrak item dari arsip(s) yang dipilih ke folder saat ini untuk arsip satu-item, atau ke folder baru untuk arsip multi-item
+ExtractHereSmart: Ekstrak disini (Smart)
+SortFilesAndFoldersTogether: Urutkan file dan folder bersama
+SortFilesAndFoldersTogetherDescription: Urutkan file dan folder bersama
+SortFilesFirst: Urutkan file dahulu
+SortFilesFirstDescription: Urutkan file pertama lalu folder
+SortFoldersFirst: Urutkan folder dahulu
+SortFoldersFirstDescription: Urutkan folder pertama lalu file
+SortPriority: Urutkan prioritas
+FailedToRotateImage: Gagal memutar gambar
+Restart: Memulai Ulang
+Quit: Keluar
+FaildToShareItems: Gagal membagi item
+ScrollToPreviousFolderWhenNavigatingUp: Gulir ke folder sebelumnya saat navigasi ke atas
+NewWindowDescription: Buka window baru
+ChangeAlbumCover: Ganti sampul album
+ItemRenameFailed: Gagal mengganti nama item
+HigherPermissionsRequired: Mengedit "{0}" memerlukan akses tambahan
+EditPermissions: Edit akses
+BackgroundRunningNotificationBody: Files sedang berjalan di latar belakang untuk meningkatkan performa startup.
+BackgroundRunningNotificationHeader: Kemana Files pergi?
+QuestionsAndDiscussions: Pertanyaan dan Diskusi
+TilesViewSizeInfo: Ukuran tambahan tidak tersedia untuk tampilan Tiles.
+#Used to describe layout sizes
+Compact: Sederhana
+#Used to describe layout sizes
+Small: Kecil
+#Used to describe layout sizes
+Medium: Sedang
+#Used to describe layout sizes
+Medium+: Sedang +
+#Used to describe layout sizes
+Medium++: Sedang ++
+#Used to describe layout sizes
+Medium+++: Sedang +++
+#Used to describe layout sizes
+Medium++++: Sedang ++++
+#Used to describe layout sizes
+Medium+++++: Sedang +++++
+#Used to describe layout sizes
+Large: Besar
+#Used to describe layout sizes
+Large+: Besar +
+#Used to describe layout sizes
+Large++: Besar ++
+#Used to describe layout sizes
+Large+++: Besar +++
+#Used to describe layout sizes
+ExtraLarge: Ekstra besar
+DetailsView: Lihat detail
+LayoutType: Tipe layout
+Actions: Tindakan
+Commands: Perintah
+AddCommand: Tambah perintah
+RestoreDefaults: Kembalikan ke awal
+ChooseAnAction: Pilih tindakan
+RestoreDefaultKeybindingsConfirmation: Apakah ingin mereset pengaturan tombol keyboard? Tindakan ini tidak dapat dibatalkan.
+KeybindingAlreadyUsedNotification: Tombol keyboard ini sudah dipakai, gunakan tombol keyboard lainya untuk melanjutkan.
+KeybindingInvalidKeyNotification: Tombol tidak bisa dipakai, coba lagi dengan tombol lain.
+Customized: Sesuaikan
+AdaptiveLayoutDisabledNotification: Tata letak adaptif tidak tersedia ketika preferensi disinkronkan, tata letak default telah diubah menjadi Detail.
+BackgroundImage: Wallpaper
+#Image alignment type
+Bottom: Bawah
+#Image alignment type
+Center: Tengah
+#Image stretch type
+Fill: Penuh
+HorizontalAlignment: Letak horizontal
+ImageFit: Sesuaikan
+#Image alignment type
+Left: Kiri
+Opacity: Transparasi
+#Image alignment type
+Right: Kanan
+#Image alignment type
+Top: Atas
+#Image stretch type
+Uniform: Seragam
+#Image stretch type
+UniformToFill: Seragam untuk diisi
+VerticalAlignment: Letak vertikal
+#This is a type of backdrop for the application background
+ThinAcrylic: Thin Acrylic
+#Setting where users can choose to display "Open IDE" button for Git Repos
+AllLocations: Tampilkan semua lokasi
+DevTools: Alat pengembangan
+DisplayOpenIDE: Konfigurasi tombol "Open IDE" di status bar
+#Setting where users can choose to display "Open IDE" button for all locations.
+GitRepos: Tampilkan Git repo
+#This is the friendly name for DLL files.
+ApplicationExtension: Ekstensi aplikasi
+#This is the friendly name for ICO files.
+IcoFileCapitalized: Berkas ICO
+#This is the friendly name for ZIP files.
+ZipFileCapitalized: Berkas Zip
+#This is the friendly name for bitmap files.
+BitmapFiles: Berkas Bitmap
+NumPadTypeName: Num
+NetworkLocations: Network locations
+NoNetworkLocationsInfo: There are no network locations. If you don't use network locations, you can disable the widget.
+Disable: Disable
+EditInNotepad: Edit di Notepad
+EditInNotepadDescription: Edit file yang dipilih di Notepad

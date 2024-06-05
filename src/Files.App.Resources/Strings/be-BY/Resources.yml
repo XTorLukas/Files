@@ -1,100 +1,100 @@
-NewWindow: New window
-CopyPath: Copy path
-CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+NewWindow: Новае акно
+CopyPath: Скапіраваць шлях
+CopyPathWithQuotes: Скапіраваць шлях з двукоссем
+Browse: Агляд
+Size: Памер
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
-SizeLabel: 'Size:'
-SizeOnDiskLabel: 'Size on disk:'
-UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
-SelectAll: Select All
-InvertSelection: Invert selection
-ClearSelection: Clear selection
+  Text: 'Створана:'
+Path: Шлях
+SizeLabel: 'Памер:'
+SizeOnDiskLabel: 'Памер на дыску:'
+UncompressedSize: 'Памер без сціскання:'
+ErrorDialogThisActionCannotBeDone: Немагчыма выканаць дзеянне
+ErrorDialogTheDestinationFolder: Папка назначэння
+ErrorDialogIsASubfolder: гэта ўкладзеная папка зыходнай папкі
+Skip: Прапусціць
+SelectAll: Выбраць усё
+InvertSelection: Інвертаваць выбранае
+ClearSelection: Ачысціць выбар
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Зменена:'
+Accessed: 'Апошні доступ:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Ачысціць усё
 NavigationToolbarVisiblePath:
-  PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
-Search: Search
+  PlaceholderText: Увядзіце шлях для навігацыі або ">", каб адкрыць камандны радок
+Search: Пошук
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Тут будуць паказаны файлы, якія вы раней адкрывалі
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
-BackgroundColor: Background color
-Advanced: Advanced
+  Text: Выдаліць элемент
+OpenGitHubRepo: Рэпазіторый GitHub
+About: Аб праграме
+OpenSource: Адкрыты зыходны код
+DateFormat: Фармат даты
+SettingsAppearanceTheme: Тэма
+SettingsFilesAndFoldersShowFileExtensions: Паказваць пашырэнні для вядомых тыпаў файлаў
+SettingsFilesAndFoldersShowHiddenItems: Паказваць схаваныя файлы і папкі
+ShowDotFiles: Паказваць файлы, якія пачынаюцца з кропкі
+Appearance: Выгляд
+BackgroundColor: Колер фону
+Advanced: Пашыраныя налады
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: Працягваць з таго, на чым спыніліся
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: Адкрываць новую ўкладку
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
-Paste: Paste
+  Content: Адкрываць вызначаныя старонкі
+Desktop: Працоўны стол
+Documents: Дакументы
+Downloads: Спампоўкі
+Name: Назва
+Ascending: Па ўзрастанні
+Paste: Уставіць
 BaseLayoutContextFlyoutNew:
-  Label: New
-Properties: Properties
-Open: Open
-OpenInNewTab: Open in new tab
-OpenInNewWindow: Open in new window
-Share: Share
-Cut: Cut
-Delete: Delete
-PinFolderToSidebar: Pin to Sidebar
+  Label: Новы
+Properties: Уласцівасці
+Open: Адкрыць
+OpenInNewTab: Адкрыць у новай укладцы
+OpenInNewWindow: Адкрыць у новым акне
+Share: Падзяліцца
+Cut: Выразаць
+Delete: Выдаліць
+PinFolderToSidebar: Замацаваць збоку
 WelcomeDialog:
-  Title: Welcome to Files!
-  PrimaryButtonText: Grant permission
+  Title: Вітаем у Files!
+  PrimaryButtonText: Даць дазвол
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
-EnterAnItemName: Enter an item name
+  Text: 'Каб пачаць, трэба даць дазвол на прагляд вашых файлаў. Будзе адкрыта старонка, на якой вы зможаце гэта зрабіць. Пасля гэтага вам спатрэбіцца перазапусціць прыкладанне. '
+Display: Выгляд
+EnterAnItemName: Увядзіце назву элемента
 RenameDialog:
-  PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
-NewFolder: New folder
-NewFile: New file
+  PrimaryButtonText: Задаць назву
+LightTheme: Светлая
+DarkTheme: Цёмная
+Application: Прыкладання
+SystemTimeStyle: Сістэмны
+NewFolder: Новая папка
+NewFile: Новы файл
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
-Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
-SetAsLockscreen: Set as lockscreen background
-SetAsAppBackground: Set as app background
+  Text: Гэта папка пустая.
+Back: Назад
+Forward: Уперад
+Up: Уверх
+Refresh: Абнавіць
+ItemAlreadyExistsDialogContent: У бягучай папцы ўжо існуе элемент з такой назвай.
+ItemAlreadyExistsDialogSecondaryButtonText: Замяніць існуючы элемент
+ItemAlreadyExistsDialogTitle: Элемент ужо існуе
+SetAsLockscreen: Зрабіць фонам экрана блакіроўкі
+SetAsAppBackground: Зрабіць фонам прыкладання
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: Выдаліць гэты элемент не атрымалася
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
-  Title: Drive unplugged
+  Text: Для доступу да гэтага элемента, калі ласка, ўстаўце неабходны дыск.
+  Title: Дыск адключаны
 FileNotFoundDialog:
   Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
+  Title: Файл не знойдзены
 CannotAccessPropertiesTitle: Cannot open properties for this file
 CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
 FolderNotFoundDialog:
@@ -104,36 +104,36 @@ FileInUseByDialog:
   Text: The file you are attempting to access is currently being used by {0}
 FileInUseDialog:
   Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
-Layout: Layout
+  Title: Файл выкарыстоўваецца
+Layout: Макет
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: Толькі чытанне
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
+Now: Зараз
 ErrorDialogUnsupportedOperation: The requested operation is not supported
 DriveFreeSpaceAndCapacity: '{0} free of {1}'
-SendTo: Send to
+SendTo: Адправіць у
 FileNameTeachingTip:
   Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
 InvalidFilename:
   Text: The item name specified is invalid
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, one {# item selected} few {# items selected} many {# items selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
-KiloByteSymbol: KB
-MegaByteSymbol: MB
-GigaByteSymbol: GB
-TeraByteSymbol: TB
-PetaByteSymbol: PB
-ByteSymbol: B
+Items: '{0, plural, one {item} few {items} many {items} other {items}}'
+Yes: Так
+ConfirmEmptyBinDialogContent: Вы ўпэўненыя, што хочаце назаўсёды выдаліць гэтыя элементы?
+ConfirmEmptyBinDialogTitle: Ачыстка сметніцы
+ItemSizeBytes: байтаў
+KiloByteSymbol: КБ
+MegaByteSymbol: МБ
+GigaByteSymbol: ГБ
+TeraByteSymbol: ТБ
+PetaByteSymbol: ПБ
+ByteSymbol: Б
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
@@ -142,26 +142,26 @@ PropertiesDriveItemTypesEquals: All type of {0}
 PropertiesDriveItemTypeDifferent: Different types
 PropertiesCombinedItemLocation: All in {0}
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'Выкарыстанае месца:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'Вольнае месца:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: 'Ёмістасць:'
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
+  Text: 'Файлавая сістэма:'
+JumpListRecentGroupHeader: Апошняе
 TabStripDragAndDropUIOverrideCaption: Move tab here
 syncStatusColumn:
-  Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
+  Header: Статус
+SettingsPreferencesSystemDefaultLanguageOption: Мова сістэмы
+NavigationToolbarVisiblePathNoResults: Няма вынікаў
 SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
-CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+MoveToFolderCaptionText: Перамясціць у {0}
+CopyToFolderCaptionText: Капіраваць у {0}
+CreateShortcut: Стварыць ярлык
+OpenFileLocation: Адкрыць месца размяшчэння файла
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: 'Аргументы:'
 PropertiesShortcutItemPath:
   Text: 'Destination:'
 PropertiesShortcutItemType:
@@ -683,7 +683,7 @@ Compatibility: Compatibility
 None: None
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: Сістэмны
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -884,7 +884,7 @@ DeleteItemDescription: Delete item(s)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: Ачыстка сметніцы
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,7 +1013,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Уверх
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Home: Home
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1057,7 +1057,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserStop: BrowserStop
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserSearch: Search
+  BrowserSearch: Пошук
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserFavorites: Favorites
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: элемент(аў)
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page

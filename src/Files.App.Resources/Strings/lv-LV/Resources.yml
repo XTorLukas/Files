@@ -1,133 +1,133 @@
 NewWindow: New window
 CopyPath: Copy path
 CopyPathWithQuotes: Copy path with quotes
-Browse: Browse
-Size: Size
+Browse: Pārlūkot
+Size: Izmērs
 PropertiesCreated:
-  Text: 'Created:'
-Path: Path
+  Text: 'Izveidoja:'
+Path: Ceļš
 SizeLabel: 'Size:'
 SizeOnDiskLabel: 'Size on disk:'
 UncompressedSize: 'Uncompressed size:'
-ErrorDialogThisActionCannotBeDone: This action cannot be done
-ErrorDialogTheDestinationFolder: The destination folder
-ErrorDialogIsASubfolder: is a subfolder of the source folder
-Skip: Skip
+ErrorDialogThisActionCannotBeDone: Šī darbība nevar tikt veikta
+ErrorDialogTheDestinationFolder: Mērķa mape
+ErrorDialogIsASubfolder: ir avota mapes apakšmape
+Skip: Izlaist
 SelectAll: Select All
 InvertSelection: Invert selection
 ClearSelection: Clear selection
 PropertiesModified:
-  Text: 'Modified:'
-Accessed: 'Accessed:'
+  Text: 'Modificēts:'
+Accessed: 'Piekļūts:'
 RecentItemClearAll:
-  Text: Clear all items
+  Text: Notīrīt visus vienumus
 NavigationToolbarVisiblePath:
   PlaceholderText: Enter a path to navigate to or type ">" to open the command palette
 Search: Search
 RecentItemDescription:
-  Text: Files you've previously accessed will show up here
+  Text: Iepriekš skatītie faili parādīsies šeit
 RecentItemRemove:
-  Text: Remove this item
-OpenGitHubRepo: GitHub repository
-About: About
-OpenSource: Open source
-DateFormat: Date format
-SettingsAppearanceTheme: Theme
-SettingsFilesAndFoldersShowFileExtensions: Show extensions for known file types
-SettingsFilesAndFoldersShowHiddenItems: Show hidden files and folders
-ShowDotFiles: Show dot files
-Appearance: Appearance
+  Text: Noņemt šo vienumu
+OpenGitHubRepo: Izveidot GitHub krātuvi
+About: Par
+OpenSource: Atvērtais avots
+DateFormat: Datuma formāts
+SettingsAppearanceTheme: Tēma
+SettingsFilesAndFoldersShowFileExtensions: Rādīt paplašinājumus zināmiem failu tipiem
+SettingsFilesAndFoldersShowHiddenItems: Rādīt slēptos failus un mapes
+ShowDotFiles: Rādīt punktu failus
+Appearance: Izskats
 BackgroundColor: Background color
-Advanced: Advanced
+Advanced: Paplašināti
 SettingsOnStartupContinueWhereYouLeftOff:
-  Content: Continue where you left off
+  Content: Turpināt, kur beidzāt
 SettingsOnStartupOpenANewTab:
-  Content: Open a new tab
+  Content: Atvērt jaunu cilni
 SettingsOnStartupOpenASpecificPage:
-  Content: Open a specific page or pages
-Desktop: Desktop
-Documents: Documents
-Downloads: Downloads
-Name: Name
-Ascending: Ascending
+  Content: Atvērt konkrētu lapu vai lapas
+Desktop: Darbvirsma
+Documents: Dokumenti
+Downloads: Lejupielādes
+Name: Nosaukums
+Ascending: Augošā secībā
 Paste: Paste
 BaseLayoutContextFlyoutNew:
-  Label: New
+  Label: Jauns
 Properties: Properties
-Open: Open
+Open: Atvērt
 OpenInNewTab: Open in new tab
 OpenInNewWindow: Open in new window
-Share: Share
+Share: Kopīgot
 Cut: Cut
-Delete: Delete
+Delete: Dzēst
 PinFolderToSidebar: Pin to Sidebar
 WelcomeDialog:
-  Title: Welcome to Files!
+  Title: Laipni lūgti Failos!
   PrimaryButtonText: Grant permission
 WelcomeDialogTextBlock:
-  Text: "To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. "
-Display: Display
+  Text: Lietotnei nepieciešama atļauja, lai piekļūtu Jūsu failiem. Tiks atvērta Iestatījumu lapa, kurā Jūs varēsiet to piešķirt. Pēc tam lietotne būs jāatver atkārtoti.
+Display: Āttēlot
 EnterAnItemName: Enter an item name
 RenameDialog:
   PrimaryButtonText: Set name
-LightTheme: Light
-DarkTheme: Dark
-Application: Application
-SystemTimeStyle: System
+LightTheme: Gaišs
+DarkTheme: Tumšs
+Application: Lietojumprogramma
+SystemTimeStyle: Sistēma
 NewFolder: New folder
 NewFile: New file
 EmptyFolder:
-  Text: This folder is empty.
-Back: Back
-Forward: Forward
-Up: Up
+  Text: Šī mape ir tukša.
+Back: Atpakaļ (Alt + Kreisā bultiņa)
+Forward: Uz priekšu (Alt + Labā bultiņa)
+Up: Augšup (Alt + Bultiņa uz augšu)
 Refresh: Refresh
-ItemAlreadyExistsDialogContent: An item with this name already exists in this directory.
-ItemAlreadyExistsDialogSecondaryButtonText: Replace existing item
-ItemAlreadyExistsDialogTitle: Item already exists
+ItemAlreadyExistsDialogContent: Šajā mapē jau pastāv vienums ar šādu nosaukumu.
+ItemAlreadyExistsDialogSecondaryButtonText: Aizvietot esošo vienumu
+ItemAlreadyExistsDialogTitle: Vienums jau pastāv
 SetAsLockscreen: Set as lockscreen background
 SetAsAppBackground: Set as app background
 AccessDeniedDeleteDialog:
-  Text: We weren't able to delete this item
+  Text: Mēs nevarējām izdzēst šo vienumu
 DriveUnpluggedDialog:
-  Text: Please insert the necessary drive to access this item.
+  Text: Lūdzu ievietojiet vajadzīgo disku, lai piekļūtu šim vienumam.
   Title: Drive unplugged
 FileNotFoundDialog:
-  Text: The file you are attempting to access may have been moved or deleted.
-  Title: File Not Found
+  Text: Fails, kuram mēģināt piekļūt, iespējams, tika pārvietots vai dzēsts.
+  Title: Fails nav atrasts
 CannotAccessPropertiesTitle: Cannot open properties for this file
-CannotAccessPropertiesContent: The file you are attempting to access may have been moved or deleted.
+CannotAccessPropertiesContent: Fails, kuram mēģināt piekļūt, iespējams, tika pārvietots vai dzēsts.
 FolderNotFoundDialog:
-  Text: The folder you are attempting to access may have been moved or deleted.
-  Title: Did you delete this folder?
+  Text: Mape, kurai mēģināt piekļūt, iespējams, tika pārvietota vai dzēsta.
+  Title: Vai Jūs izdzēsāt šo mapi?
 FileInUseByDialog:
-  Text: The file you are attempting to access is currently being used by {0}
+  Text: Failu, kuram vēlaties piekļūt, pašlaik izmanto {0}
 FileInUseDialog:
-  Text: The file you are attempting to access is currently being used by another application
-  Title: File is in use
+  Text: Failu, kuram vēlaties piekļūt, jau izmanto cita lietotne
+  Title: Fails jau tiek lietots
 Layout: Layout
 PropertiesDialogReadOnly:
-  Text: Read-only
+  Text: Tikai lasāms
 DaysAgo: '{0, plural, one {# day ago} other {# days ago}}'
 HoursAgo: '{0, plural, one {# hour ago} other {# hours ago}}'
 MinutesAgo: '{0, plural, one {# minute ago} other {# minutes ago}}'
 SecondsAgo: '{0, plural, one {# second ago} other {# seconds ago}}'
-Now: Now
-ErrorDialogUnsupportedOperation: The requested operation is not supported
-DriveFreeSpaceAndCapacity: '{0} free of {1}'
+Now: Tagad
+ErrorDialogUnsupportedOperation: Pieprasītā operācija netiek atbalstīta
+DriveFreeSpaceAndCapacity: '{0} brīvi no {1}'
 SendTo: Send to
 FileNameTeachingTip:
-  Subtitle: 'The item name must not contain the following characters: \ / : * ? " < > |'
+  Subtitle: 'Vienuma nosaukums nevar saterēt sekojošos simbolus: \ / : * ? " < > |'
 InvalidFilename:
-  Text: The item name specified is invalid
+  Text: Norādītais vienuma nosaukums nav derīgs
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-SelectedItems: '{0, plural, one {# item selected} other {# items selected}}'
+SelectedItems: '{0, plural, zero {}one {# item selected} other {# items selected}}'
 #ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural
-Items: '{0, plural, one {item} other {items}}'
-Yes: 'Yes'
-ConfirmEmptyBinDialogContent: Are you sure you want to permanently delete all these items?
-ConfirmEmptyBinDialogTitle: Empty recycle bin
-ItemSizeBytes: bytes
+Items: '{0, plural, zero {}one {item} other {items}}'
+Yes: Jā
+ConfirmEmptyBinDialogContent: Vai esat pārliecināti, ka vēlaties dzēst visus šos failus?
+ConfirmEmptyBinDialogTitle: Iztukšot atkritni
+ItemSizeBytes: baiti
 KiloByteSymbol: KB
 MegaByteSymbol: MB
 GigaByteSymbol: GB
@@ -137,553 +137,553 @@ ByteSymbol: B
 PropertiesFilesAndFoldersCountString: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}'
 PropertiesFilesAndFoldersAndLocationsCount: '{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}'
 BaseLayoutContextFlyoutRunAsAnotherUser:
-  Text: Run as another user
-PropertiesDriveItemTypesEquals: All type of {0}
-PropertiesDriveItemTypeDifferent: Different types
+  Text: Palaist kā citam lietotājam
+PropertiesDriveItemTypesEquals: Visi ir ar tipu {0}
+PropertiesDriveItemTypeDifferent: Dažādi datu tipi
 PropertiesCombinedItemLocation: All in {0}
 PropertiesDriveUsedSpace:
-  Text: 'Used space:'
+  Text: 'Izmantotā vieta:'
 PropertiesDriveFreeSpace:
-  Text: 'Free space:'
+  Text: 'Brīvā vieta:'
 PropertiesDriveCapacity:
-  Text: 'Capacity:'
+  Text: 'Ietilpība:'
 PropertiesDriveFileSystem:
-  Text: 'File system:'
-JumpListRecentGroupHeader: Recent
-TabStripDragAndDropUIOverrideCaption: Move tab here
+  Text: 'Failu sistēma:'
+JumpListRecentGroupHeader: Nesenie
+TabStripDragAndDropUIOverrideCaption: Pārvietot cilni šeit
 syncStatusColumn:
-  Header: Status
-SettingsPreferencesSystemDefaultLanguageOption: Windows default
-NavigationToolbarVisiblePathNoResults: No results
-SubDirectoryAccessDenied: Can't access any items to display
-MoveToFolderCaptionText: Move to {0}
-CopyToFolderCaptionText: Copy to {0}
+  Header: Statuss
+SettingsPreferencesSystemDefaultLanguageOption: Windows noklusējums
+NavigationToolbarVisiblePathNoResults: Nav rezultātu
+SubDirectoryAccessDenied: Nevar piekļūt nevienam vienumam, ko parādīt
+MoveToFolderCaptionText: Pārvietot uz {0}
+CopyToFolderCaptionText: Kopēt uz {0}
 CreateShortcut: Create shortcut
-OpenFileLocation: Open file location
+OpenFileLocation: Atvērt faila atrašanās vietu
 PropertiesShortcutItemArgs:
-  Text: 'Arguments:'
+  Text: 'Argumenti:'
 PropertiesShortcutItemPath:
-  Text: 'Destination:'
+  Text: 'Mērķis:'
 PropertiesShortcutItemType:
-  Text: 'Shortcut type:'
-PropertiesShortcutTypeLink: Web link
-General: General
-Shortcut: Shortcut
-ShortcutWebLinkFileType: Internet shortcut
-ShortcutCreateNewSuffix: '{0} - shortcut'
-ExceptionNotificationBody: Files ran into a problem that the developers didn't prepare for yet.
-ExceptionNotificationHeader: Something went wrong!
-ExceptionNotificationReportButton: Report this issue
-InvalidItemDialogContent: The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}
-InvalidItemDialogTitle: Invalid item
-SettingsAboutVersionTitle: 'Version:'
-ShareDialogFailMessage: There's nothing to share right now...
-ShareDialogMultipleItemsDescription: The items you've selected will be shared
-ShareDialogSingleItemDescription: The selected item will be shared
-ShareDialogTitle: Sharing {0}
-ShareDialogTitleMultipleItems: Sharing {0} {1}
+  Text: 'Saīsnes veids:'
+PropertiesShortcutTypeLink: Tīmekļa saite
+General: Vispārīgi
+Shortcut: Saīsne
+ShortcutWebLinkFileType: Interneta saīsne
+ShortcutCreateNewSuffix: '{0} - saīsne'
+ExceptionNotificationBody: Failiem radās problēma, kurai izstrādātāji vēl nebija sagatavojušies.
+ExceptionNotificationHeader: Kaut kas nogāja greizi!
+ExceptionNotificationReportButton: Ziņot par šo problēmu
+InvalidItemDialogContent: Atsauktais vienums ir vai nu nederīgs vai nepieejams.{0}Kļūdas ziņojums:{0}{1}
+InvalidItemDialogTitle: Nederīgs vienums
+SettingsAboutVersionTitle: 'Versija:'
+ShareDialogFailMessage: Pašlaik šeit nav nekā koplietojama...
+ShareDialogMultipleItemsDescription: Atlasītie vienumi tiks koplietoti
+ShareDialogSingleItemDescription: Atlasītais vienums tiks koplietots
+ShareDialogTitle: Kopīgo {0}
+ShareDialogTitleMultipleItems: Kopīgo {0} {1}
 RenameError:
   ItemDeleted:
-    Text: The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.
-    Title: Item no longer exists
+    Text: Vienums, kuru mēģināt pārdēvēt, vairs nepastāv. Pārbaudiet pārdēvējamā faila atrašanās vietu.
+    Title: Vienums vairs nepastāv
   NameInvalid:
-    Text: The name specified was invalid. Please check the desired item name and try again.
-    Title: Invalid item name
+    Text: Norādītais nosaukums nav derīgs. Pārbaudiet vēlamo nosaukumu un mēģiniet vēlreiz.
+    Title: Nederīgs vienuma nosaukums
   TooLong:
-    Text: The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.
-    Title: Item name was too long
-ShowMoreOptions: Show more options
+    Text: Vienuma nosaukuma garums pārsniedz maksimālo atļauto garumu. Pārbaudiet vēlamo nosaukumu un mēģiniet vēlreiz.
+    Title: Vienuma nosaukums bijā pārāk garš.
+ShowMoreOptions: Rādīt vairāk opcijas
 RestartNotificationText:
-  Text: The application needs to be restarted in order to apply these settings, would you like to restart the app?
-SponsorUsOnGitHub: Sponsor us on GitHub
+  Text: Lietotni nepieciešams restartēt, lai pielietotu valodas iestatījumu. Vai vēlaties restartēt lietotni?
+SponsorUsOnGitHub: Atbalsti mūs GitHub
 AccessDeniedCreateDialog:
-  Text: We weren't able to create this item
-AccessDenied: Access Denied
+  Text: Mēs nevarējām izveidot šo vienumu
+AccessDenied: Piekļuve liegta
 BaseLayoutItemContextFlyoutSetAs:
-  Text: Set as
-Cancel: Cancel
+  Text: Iestatīt kā
+Cancel: Atcelt
 AddDialog:
   Title: Create a new item
 AddDialogDescription:
-  Text: Choose a type for this new item below
-File: File
-AddDialogListFileSubHeader: Creates an empty file
-Folder: Folder
-AddDialogListFolderSubHeader: Creates an empty folder
+  Text: Izvēlieties jaunā vienuma tipu zemāk
+File: Fails
+AddDialogListFileSubHeader: Izveido tukšu failu
+Folder: Mape
+AddDialogListFolderSubHeader: Izveido tukšu mapi
 NavResfreshButton:
   AutomationProperties:
-    Name: Refresh the directory
+    Name: Atsvaidzināt mapi
 Language: Language
-SettingsContextMenuOverflow: Move shell extensions into a sub menu
-ShowConfirmationWhenDeletingItems: Show confirmation dialog when deleting items
+SettingsContextMenuOverflow: Pārvietot lietotnes paplašīnājumu uz apakšizvēlni
+ShowConfirmationWhenDeletingItems: Rādīt apstiprinājuma logu pirms vienuma dzēšanas
 PropertySaveErrorMessage:
-  Text: There was an issue saving some properties.
+  Text: Bija problēma, saglabājot rekvizītus.
 PropertySaveErrorDialog:
-  Title: Error
-  SecondaryButtonText: Close anyway
-PropertyRatingText: Rating
-PropertyParsingPath: Item Path
-PropertyItemTypeText: Item Type
-PropertyTitle: Title
-PropertySubject: Subject
-PropertyComment: Comment
-PropertyCopyright: Copyright
-PropertyDateModified: Date Modified
-PropertyBitDepth: Bit Depth
-PropertyDimensions: Dimensions
-PropertyHorizontalSize: Horizontal Size
-PropertyVerticalSize: Vertical Size
-PropertyHorizontalResolution: Horizontal Resolution
-PropertyVerticalResolution: Vertical Resolution
-PropertyColorSpace: Color Space
+  Title: Kļūda
+  SecondaryButtonText: Tomēr aizvērt
+PropertyRatingText: Vērtējums
+PropertyParsingPath: Vienuma ceļš
+PropertyItemTypeText: Vienuma tips
+PropertyTitle: Virsraksts
+PropertySubject: Tēma
+PropertyComment: Komentārs
+PropertyCopyright: Autortiesības
+PropertyDateModified: Modificēšanas datums
+PropertyBitDepth: Bitu dziļums
+PropertyDimensions: Izmēri
+PropertyHorizontalSize: Horizontālais izmērs
+PropertyVerticalSize: Vertikālais izmērs
+PropertyHorizontalResolution: Horizontālā izšķirtspēja
+PropertyVerticalResolution: Vertikālā izšķirtspēja
+PropertyColorSpace: Krāsu telpa
 PropertyColorSpace_Value0: sRGB
-PropertyColorSpace_Value65535: Unspecified
-PropertyLongitudeDecimal: Longitude Decimal
-PropertyLatitudeDecimal: Latitude Decimal
-PropertyAltitude: Altitude
-PropertyDateTaken: Date Taken
-PropertyCameraManufacturer: Camera Manufacturer
-PropertyCameraModel: Camera Model
-PropertyExposureTime: Exposure Time
-PropertyFocalLength: Focal Length
-PropertyAperture: Aperture
-PropertyPeopleNames: People Names
-PropertyChannelCount: Channel Count
-PropertyFormat: Format
-PropertySampleRate: Sample Rate
-PropertyAlbumArtist: Album Artist
-PropertyAlbumTitle: Album Title
-Artist: Artist
-PropertyBeatsPerMinute: Beats Per Minute
-PropertyComposer: Composer
-Conductor: Conductor
-PropertyDiscNumber: Disc Number
-PropertyGenre: Genre
-PropertyTrackNumber: Track Number
-PropertyDuration: Duration
-PropertyFrameCount: Frame Count
-PropertyProtectionType: Protection Type
-PropertyAuthorUrl: Author Url
-PropertyContentDistributor: Content Distributor
-PropertyDateReleased: Date Released
-PropertySeriesName: Series Name
-PropertySeasonNumber: Season Number
-PropertyEpisodeNumber: Episode Number
-PropertyProducer: Producer
-PropertyPromotionUrl: Promotion Url
-PropertyProviderStyle: Provider Style
-PropertyPublisher: Publisher
-PropertyThumbnailLargePath: Thumbnail Large Path
-PropertyThumbnailLargeUri: Thumbnail Large Uri
-PropertyThumbnailSmallPath: Thumbnail Small Path
-PropertyThumbnailSmallUri: Thumbnail Small Uri
-PropertyUserWebUrl: User Web Url
-PropertyWriter: Writer
-PropertyYear: Year
-PropertyContributor: Contributor
-PropertyLastAuthor: Last Author
-PropertyRevisionNumber: Revision Number
-PropertyVersion: Version
-PropertyDateCreated: Date Created
-PropertyTotalEditingTime: Total Editing Time
-PropertyTemplate: Template
-PropertyWordCount: Word Count
-PropertyCharacterCount: Character Count
-PropertyLineCount: Line Count
-PropertyParagraphCount: Paragraph Count
-PropertyPageCount: Page Count
-PropertySlideCount: Slide Count
-PropertyFrameRate: Frame Rate
-PropertyEncodingBitrate: Encoding Bitrate
+PropertyColorSpace_Value65535: Nenorādīts
+PropertyLongitudeDecimal: Decimālais ģeogrāfiskais garums
+PropertyLatitudeDecimal: Decimālais ģeogrāfiskais platums
+PropertyAltitude: Augstums
+PropertyDateTaken: Uzņemšanas datums
+PropertyCameraManufacturer: Kameras ražotājs
+PropertyCameraModel: Kameras modelis
+PropertyExposureTime: Ekspozīcijas laiks
+PropertyFocalLength: Fokusa attālums
+PropertyAperture: Apertūra
+PropertyPeopleNames: Personu vārdi
+PropertyChannelCount: Kanālu skaits
+PropertyFormat: Formāts
+PropertySampleRate: Parauga ātrums
+PropertyAlbumArtist: Albuma izpildītājs
+PropertyAlbumTitle: Albuma nosaukums
+Artist: Izpildītājs
+PropertyBeatsPerMinute: Sitieni minūtē
+PropertyComposer: Komponists
+Conductor: Diriģents
+PropertyDiscNumber: Diska numurs
+PropertyGenre: Žanrs
+PropertyTrackNumber: Celiņa numurs
+PropertyDuration: Ilgums
+PropertyFrameCount: Kadru skaits
+PropertyProtectionType: Aizsardzības tips
+PropertyAuthorUrl: Autora URL
+PropertyContentDistributor: Satura izplatītājs
+PropertyDateReleased: Izlaišanas datums
+PropertySeriesName: Sērijas nosaukums
+PropertySeasonNumber: Sezonas numurs
+PropertyEpisodeNumber: Epizodes numurs
+PropertyProducer: Producents
+PropertyPromotionUrl: Kampaņas URL
+PropertyProviderStyle: Nodrošinātāja stils
+PropertyPublisher: Izdevējs
+PropertyThumbnailLargePath: Sīktēla (Lielā) ceļš
+PropertyThumbnailLargeUri: Sīktēla (Lielā) URI
+PropertyThumbnailSmallPath: Sīktēla (Mazā) ceļš
+PropertyThumbnailSmallUri: Sīktēla (Mazā) URI
+PropertyUserWebUrl: Lietotāja interneta URL
+PropertyWriter: Rakstnieks
+PropertyYear: Gads
+PropertyContributor: Līdzstrādnieks
+PropertyLastAuthor: Pēdējais autors
+PropertyRevisionNumber: Pārskatījuma numurs
+PropertyVersion: Versija
+PropertyDateCreated: Izveides datums
+PropertyTotalEditingTime: Kopējais rediģēšanas laiks
+PropertyTemplate: Veidne
+PropertyWordCount: Vārdu skaits
+PropertyCharacterCount: Simbolu skaits
+PropertyLineCount: Rindu skaits
+PropertyParagraphCount: Rindkopu skaits
+PropertyPageCount: Lappušu skaits
+PropertySlideCount: Lapu skaits
+PropertyFrameRate: Kadru nomaiņas ātrums
+PropertyEncodingBitrate: Kodēšanas bitu ātrums
 PropertyPreviewAudioEncodingBitrate: Audio Encoding Bitrate
 PropertyPreviewVideoEncodingBitrate: Video Encoding Bitrate
-Compression: Compression
-PropertyFrameWidth: Frame Width
-PropertyFrameHeight: Frame Height
-PropertyOrientation: Orientation
-PropertySectionCore: Core
-PropertySectionImage: Image
-PropertySectionPhoto: Photo
+Compression: Saspiešana
+PropertyFrameWidth: Kadra platums
+PropertyFrameHeight: Kadra augstums
+PropertyOrientation: Orientācija
+PropertySectionCore: Kodols
+PropertySectionImage: Attēls
+PropertySectionPhoto: Fotoattēls
 PropertySectionGPS: GPS
-PropertySectionMedia: Media
+PropertySectionMedia: Multivide
 PropertySectionAudio: Audio
-PropertySectionMusic: Music
+PropertySectionMusic: Mūzika
 PropertySectionVideo: Video
-Document: Document
-Address: Address
+Document: Dokuments
+Address: Adrese
 SelectionOptions: Selection options
 NavToolbarSelectionOptions:
-  Label: Select
-RecycleBinItemAutomation: Recycle bin item
-ShortcutItemAutomation: Shortcut item
-Drives: Drives
-PinToSidebarByDraggingCaptionText: Move here
-EjectNotificationHeader: Safe to remove hardware
-EjectNotificationBody: The device can now be safely removed from the computer.
-EjectNotificationErrorDialogHeader: Problem Ejecting Device
-EjectNotificationErrorDialogBody: This device is currently in use. Close any programs, windows or tabs that might be using the device, and then try again.
-Eject: Eject
+  Label: Atlasīt
+RecycleBinItemAutomation: Atkritnes vienums
+ShortcutItemAutomation: Saīsnes vienums
+Drives: Diski
+PinToSidebarByDraggingCaptionText: Pārvietot šeit
+EjectNotificationHeader: Aparatūru izņemt ir droši
+EjectNotificationBody: Tagad ierīci var droši izņemt no datora.
+EjectNotificationErrorDialogHeader: Problēma izstumjot ierīci
+EjectNotificationErrorDialogBody: Ierīce pašlaik tiek lietota. Aizveriet visas lietotnes, logus vai cilnes, kas varētu lietot šo ierīci, un mēģiniet vēlreiz.
+Eject: Izstumt
 DuplicateTab: Duplicate tab
 HorizontalMultitaskingControlMoveTabToNewWindow:
-  Text: Move tab to new window
+  Text: Pārvietot cilni uz jaunu logu
 NewTab: New tab
 ClearPropertiesFlyoutText:
-  Text: Some properties may contain personal information.
+  Text: Rekvizīti var saturēt personīgu informāciju.
 ClearPropertiesButton:
-  Content: Clear All Properties
+  Content: Notīrīt visus rekvizītus
 OngoingTasksTeachingTip:
-  Subtitle: Check the status of file operations here
+  Subtitle: Pārbaudīt failu darbību statusu šeit
   Title: Status center
-SearchPagePathBoxOverrideText: Search results in {1} for {0}
-Details: Details
-No: 'No'
-ShowProtectedSystemFiles: Show protected system files
-SyncFolderPreferencesAcrossDirectories: Sync layout and sorting preferences across directories
+SearchPagePathBoxOverrideText: Meklēšanas rezultāti mapē {1} vienumam {0}
+Details: Detaļas
+No: Nē
+ShowProtectedSystemFiles: Rādīt sistēmas aizsargātos failus
+SyncFolderPreferencesAcrossDirectories: Lietot izkārtojuma un šķirošanas uzstādījumus arī citās direktorijās
 SettingsContextMenu:
-  Text: Customize the right click context menu
+  Text: Pielāgot labā klikšķa izvēlni
 OriginalPath: Original path
-Add: Add
-Edit: Edit
-Remove: Remove
-SettingsMultitaskingAlwaysOpenDualPane: Open tabs in dual pane mode
+Add: Pievienot
+Edit: Rediģēt
+Remove: Dzēst
+SettingsMultitaskingAlwaysOpenDualPane: Atvērt cilnes dalītajā logā
 ShowOpenInNewPane: Show option to open folders in a new pane
 ShowCopyPath: Show option to copy path
 ShowCreateFolderWithSelection: Show option to create folder with selection
 ShowCreateShortcut: Show option to create shortcut
 NavigationToolbarNewPane:
-  Label: New pane
+  Label: Jauns panelis
 OpenInNewPane: Open in new pane
 FilesAndFolders: Files & folders
 NavToolbarDetails:
   ToolTipService:
-    ToolTip: Details (Ctrl+Shift+1)
+    ToolTip: Detalizēts skats (Ctrl+Shift+1)
 NavToolbarTiles:
   ToolTipService:
-    ToolTip: Tiles (Ctrl+Shift+2)
-DateDeleted: Date deleted
-SidebarCloudDrives: Cloud Drives
-Confirm: Confirm
-DesiredName: Desired name
+    ToolTip: Mozaīkas skats (Ctrl+Shift+2)
+DateDeleted: Dzēšanas datums
+SidebarCloudDrives: Tiešsaites diski
+Confirm: Apstiprināt
+DesiredName: Vēlamais nosaukums
 TogglePreviewPane: Toggle the preview pane
 ToggleDetailsPane: Toggle the details pane
 ToggleDetailsPaneDescription: Toggle the details pane to view basic file properties
 ToggleInfoPane: Toggle the info pane
 ToggleInfoPaneDescription: Toggle the info pane to view the detail/preview panes
-DetailsPanePreviewNotAvaliableText: No preview available
-PropertyItemName: Item Name
+DetailsPanePreviewNotAvaliableText: Priekšskatījums nav pieejams
+PropertyItemName: Vienuma nosaukums
 UnpinFolderFromSidebar: Unpin from Sidebar
-Network: Network
+Network: Tīkls
 PreviewPaneFileDetails:
   AutomationProperties:
-    Name: File details
+    Name: Faila detaļas
 PreviewPaneFilePreview:
   AutomationProperties:
-    Name: File preview
+    Name: Faila priekšskatījums
 SelectedFilePreviewPane:
   AutomationProperties:
-    Name: Selected file preview pane
-Feedback: Feedback
-CloudDriveSyncStatus_Online: Available when online
-Documentation: Documentation
-CloudDriveSyncStatus_Offline: Available offline
-CloudDriveSyncStatus_PartialOffline: Partially available offline
-CloudDriveSyncStatus_Sync: Syncing
-CloudDriveSyncStatus_Excluded: Excluded from sync
-ItemSizeNotCalculated: Not calculated
-CloudDriveSyncStatus_Unknown: Unknown
+    Name: Atlasītā faila priekšskatījuma panelis
+Feedback: Atsauksmes
+CloudDriveSyncStatus_Online: Pieejams tiešsaistes režīmā
+Documentation: Dokumentācija
+CloudDriveSyncStatus_Offline: Pieejams bezsaistē
+CloudDriveSyncStatus_PartialOffline: Daļēji pieejams bezsaitē
+CloudDriveSyncStatus_Sync: Sinhronizēšana
+CloudDriveSyncStatus_Excluded: Izslēgts no sinhronizēšanas
+ItemSizeNotCalculated: Nav aprēķināts
+CloudDriveSyncStatus_Unknown: Nezināms
 RenameFileDialog:
-  Text: If you change a file extension, the file might become unusable. Are you sure you want to change it?
-DriveTypeCDRom: CD ROM Drive
-DriveTypeCloudDrive: Cloud Drive
-DriveTypeFixed: Fixed Disk Drive
-DriveTypeFloppyDisk: Floppy Disk Drive
-DriveTypeNetwork: Network Drive
-DriveTypeNoRootDirectory: Unmounted Drive
-DriveTypeRam: RAM Disk Drive
-DriveTypeRemovable: Removable Storage Device
-DriveTypeUnknown: Unknown
-DriveTypeVirtualDrive: Virtual Drive
-DateCreated: Date created
-MoreOptions: More options...
+  Text: Ja nomainīsiet faila paplašinājumu, fails var palikt nelietojams. Vai tiešām vēlaties to mainīt?
+DriveTypeCDRom: CD ROM disks
+DriveTypeCloudDrive: Tiešsaites disks
+DriveTypeFixed: Fiksēts disku diskdzinis
+DriveTypeFloppyDisk: Diskešu diskdzinis
+DriveTypeNetwork: Tīkla disks
+DriveTypeNoRootDirectory: Neievietots disks
+DriveTypeRam: RAM diska diskdzinis
+DriveTypeRemovable: Izņemama atmiņas ierīce
+DriveTypeUnknown: Nezināms
+DriveTypeVirtualDrive: Virtuāla ierīce
+DateCreated: Izveides datums
+MoreOptions: Papildu opcijas...
 DrivesWidgetOptionsFlyoutMapNetDriveMenuItem:
-  Text: Map network drive
+  Text: Kartēt tīkla disku
 Pinned: Pinned
-SidebarLibraries: Libraries
-NoItemSelected: No item selected
-PropertyItemTarget: Target
-Arguments: Arguments
-Default: Default
-PropertyItemCount: Item count
+SidebarLibraries: Bibliotēkas
+NoItemSelected: Nav atlasīts neviens vienums
+PropertyItemTarget: Mērķis
+Arguments: Argumenti
+Default: Noklusējums
+PropertyItemCount: Vienumu skaits
 ElevateConfirmDialog:
-  Title: This action requires administrator rights
-  Content: Would you like to continue as administrator?
-ColumnsShortcutTooltip: Columns (Ctrl+Shift+6)
+  Title: Šajai darbībai nepieciešamas administratora tiesības
+  Content: Vai vēlaties turpināt kā administrators?
+ColumnsShortcutTooltip: Kolonnu skats (Ctrl+Shift+6)
 PinItemToStart:
-  Text: Pin to the Start Menu
+  Text: Piespraust Sākuma Izvēlnē
 UnpinItemFromStart:
-  Text: Unpin from the Start Menu
-Library: Library
+  Text: Atspraust no Sākuma Izvēlnes
+Library: Bibliotēka
 LibraryLocations:
-  Text: 'Locations:'
-SetAsDefaultSavePath: Set as default save path
+  Text: 'Atrašanās vietas:'
+SetAsDefaultSavePath: Iestatīt kā noklusējuma saglabāšanas ceļu
 LibraryNoLocations:
-  Text: No locations
-ErrorInputEmpty: Input field cannot be empty!
-ErrorNameInputRestrictedCharacters: 'The name must not contain the following characters: \ / : * ? " < > |'
-ErrorNameInputRestricted: Using this name is not allowed!
-CreateLibraryErrorAlreadyExists: Library with the same name already exists!
+  Text: Nav atrašanās vietu
+ErrorInputEmpty: Ievades lauks nevar būt tukšs!
+ErrorNameInputRestrictedCharacters: 'Nosaukums nevar saturēt sekojošos simbolus: \ / : * ? " < > |'
+ErrorNameInputRestricted: Šī vārda izmantošana nav atļauta!
+CreateLibraryErrorAlreadyExists: Bibliotēka ar tādu pašu nosaukumu jau eksistē!
 OpenStorageSense: Open Storage Sense
-Copy: Copy
+Copy: Kopēt
 CopyItemsDialogTitle: Copy {0, plural, one {item} other {items}}
 DeleteItemsDialogTitle: Delete {0, plural, one {item} other {items}}
-MoveItemsDialogPrimaryButtonText: Move
+MoveItemsDialogPrimaryButtonText: Pārvietot
 MoveItemsDialogSubtitle: '{0, plural, one {One item will be moved} other {# items will be moved}}'
 MoveItemsDialogTitle: Move {0, plural, one {item} other {items}}
 DeleteItemsDialogSubtitle: '{0, plural, one {One item will be deleted} other {# items will be deleted}}'
-ConflictingItemsDialogPrimaryButtonText: Continue
+ConflictingItemsDialogPrimaryButtonText: Turpināt
 ConflictingItemsDialogSubtitleConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}'
 ConflictingItemsDialogSubtitleConflictsNonConflicts: '{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}'
 ConflictingItemsDialogTitle: Conflicting {0, plural, one {file name} other {file names}}
 CopyItemsDialogSubtitle: '{0, plural, one {One item will be copied} other {# items will be copied}}'
 DeleteItemsDialogPermanentlyDeleteCheckBox:
-  Content: Permanently delete
-PropertyISO: ISO speed
+  Content: Neatgriezeniski dzēst
+PropertyISO: ISO ātrums
 ReplaceExisting: Replace existing
-GenerateNewName: Generate new name
+GenerateNewName: Ģenerēt jaunu nosaukumu
 CreateFolderWithSelection: Create folder with selection
-ItemType: 'Type:'
-ToolTipDescriptionDate: 'Date modified:'
-OpenWith: Open with
+ItemType: 'Tips:'
+ToolTipDescriptionDate: 'Modificēšanas datums:'
+OpenWith: Atvērt ar
 FileBrowserThumbnailIconColumnGrid:
   AutomationProperties:
-    Name: File icon
+    Name: Faila ikona
 DetailsViewHeaderFlyout_ShowOriginalPath:
-  Text: Original path column
+  Text: Oriģinālā ceļa kolonna
 DetailsViewHeaderFlyout_ShowItemType:
-  Text: Item type column
+  Text: Vienuma tipa kolonna
 DetailsViewHeaderFlyout_ShowDateModified:
-  Text: Date modified column
+  Text: Modificēšanas datuma kolonna
 DetailsViewHeaderFlyout_ShowDateDeleted:
-  Text: Date deleted column
+  Text: Dzēšanas datuma kolonna
 Sort: Sort
-DateModifiedLowerCase: Date modified
+DateModifiedLowerCase: Modificēšanas datums
 OriginalFolder: Original folder
-Descending: Descending
-ItemSizeText_Huge: Huge
-ItemSizeText_VeryLarge: Very large
-ItemSizeText_Large: Large
-ItemSizeText_Medium: Medium
-ItemSizeText_Small: Small
-ItemSizeText_Tiny: Tiny
+Descending: Dilstošā secībā
+ItemSizeText_Huge: Milzīgs
+ItemSizeText_VeryLarge: Ļoti liels
+ItemSizeText_Large: Liels
+ItemSizeText_Medium: Vidējs
+ItemSizeText_Small: Mazs
+ItemSizeText_Tiny: Niecīgs
 Future: Future
-Today: Today
-Yesterday: Yesterday
-EarlierThisWeek: Earlier this week
-LastWeek: Last week
+Today: Šodien
+Yesterday: Vakar
+EarlierThisWeek: Šonedēļ
+LastWeek: Pagājušajā nedēļā
 EarlierThisMonth: Earlier this month
-LastMonth: Last month
+LastMonth: Pagājušajā mēnesī
 EarlierThisYear: Earlier this year
 LastYear: Last year
 YearN: Year {0}
-GroupItemsCount_Singular: '{0} item'
-GroupItemsCount_Plural: '{0} items'
-ReopenClosedTab: Reopen closed tab
+GroupItemsCount_Singular: '{0} vienums'
+GroupItemsCount_Plural: '{0} vienumi'
+ReopenClosedTab: Atkārtoti atvērt aizvērto cilni
 Rename: Rename
-Privacy: Privacy
-TheRecycleBin: the Recycle Bin
+Privacy: Konfidencialitāte
+TheRecycleBin: Atkritne
 Canceling: Canceling
-Clear: Clear
-Widgets: Widgets
-SyncStatus: Sync status
-Security: Security
-AdvancedPermissions: Advanced permissions
-Allow: Allow
+Clear: Notīrīt
+Widgets: Logrīki
+SyncStatus: Sinhronizācijas statuss
+Security: Drošība
+AdvancedPermissions: Papildu atļaujas
+Allow: Atļaut
 Deny: Deny
 SecurityFullControlLabel:
-  Text: Full control
+  Text: Pilnīga kontrole
 SecurityListDirectoryLabel:
-  Text: List directory contents
+  Text: Rādīt mapju saturu
 Modify: Modify
 SecurityPermissionsHeaderText: Permissions for {0}
 SecurityReadAndExecuteLabel:
-  Text: Read and execute
+  Text: Lasīt un izpildīt
 SecurityReadLabel:
-  Text: Read
+  Text: Lasīt
 SecurityUsersGroupLabel:
-  Text: Group or user names
-Write: Write
-SecurityUnknownAccount: Unknown account
+  Text: Grupa vai lietotājvārdi
+Write: Lasīt
+SecurityUnknownAccount: Nezināms konts
 SecurityCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.
+  Text: Jums nav atļauju, lai skatītu šī objekta drošības rekvizītus. Nospiediet "Papildu atļaujas", lai turpinātu.
 SecurityOwnerLabel:
   Text: 'Owner:'
 SecurityUnknownOwnerText:
-  Text: Unknown owner
+  Text: Nezināms īpašnieks
 ExtractArchive: Extract archive
 DecompressArchiveDialogOpenDestinationWhenComplete:
-  Content: Open destination folder when complete
-BaseLayoutItemContextFlyoutExtractToChildFolder: Extract to {0}\
+  Content: Atvērt mērķa mapi, kad pabeigts
+BaseLayoutItemContextFlyoutExtractToChildFolder: Izvilkt uz {0}\
 SideBarCreateNewLibrary:
-  Text: Create new library
+  Text: Izveidot jaunu bibliotēku
 SideBarRestoreLibraries:
-  Text: Restore default libraries
-DialogRestoreLibrariesSubtitleText: Are you sure you want to restore the default libraries? All your files will remain on your storage.
-DialogRestoreLibrariesTitleText: Restore Libraries
-PropertyFileOwner: Owner
+  Text: Atjaunot sākotnējās bibliotēkas
+DialogRestoreLibrariesSubtitleText: Vai esat droši, ka vēlaties atjaunot sākotnējās bibliotēkas? Visi faili tiks saglabāti.
+DialogRestoreLibrariesTitleText: Atjaunot bibliotēkas
+PropertyFileOwner: Īpašnieks
 SecuritySpecialLabel:
-  Text: Special
-Access: Access
+  Text: Īpašs
+Access: Piekļuve
 SecurityAdvancedAppliesTo: Applies to
 Principal: Principal
-SecurityAdvancedFlagsFilesLabel: files
-SecurityAdvancedFlagsFolderLabel: this folder
-SecurityAdvancedFlagsSubfoldersLabel: subfolders
+SecurityAdvancedFlagsFilesLabel: faili
+SecurityAdvancedFlagsFolderLabel: šī mape
+SecurityAdvancedFlagsSubfoldersLabel: apakšmapes
 Inherited: Inherited
 Permissions: Permissions
 SecurityAdvancedCannotReadProperties:
-  Text: You do not have permissions to view the security properties of this object. You can try to take ownership of this object.
+  Text: Jums nav atļaujas, lai skatītu šī objekta drošības īpašības. Varat mēģināt pārņemt šī objekta īpašumtiesības.
 SecurityAdvancedFolderFiles:
-  Text: This folder and files
+  Text: Šī mape un faili
 SecurityAdvancedFolderSubfoldersFiles:
-  Text: This folder, subfolders and files
+  Text: Šī mape, apakšmapes un faili
 SecurityAdvancedOnlyFiles:
-  Text: Only files
+  Text: Tikai faili
 SecurityAdvancedOnlySubfolders:
-  Text: Only subfolders
+  Text: Tikai apakšmapes
 SecurityAdvancedOnlySubfoldersFiles:
-  Text: Only subfolders and files
+  Text: Tikai apakšmapes un failus
 SecurityAdvancedOnlyThisFolder:
-  Text: Only this folder
+  Text: Tikai šo mapi
 SecurityAdvancedFolderSubfolders:
-  Text: This folder and subfolders
+  Text: Šī mape un apakšmapes
 SecurityAppendDataLabel:
-  Text: Append data
+  Text: Papildināt datus
 SecurityChangePermissionsLabel:
-  Text: Change permission
+  Text: Mainīt atļauju
 SecurityCreateDirectoriesLabel:
-  Text: Create folders
+  Text: Izveidot mapes
 SecurityCreateFilesLabel:
-  Text: Create files
+  Text: Izveidot failus
 SecurityDeleteSubdirectoriesAndFilesLabel:
-  Text: Delete subdirectories and files
+  Text: Dzēst apakšmapes un failus
 SecurityExecuteFileLabel:
-  Text: Execute files
+  Text: Izpildīt failus
 SecurityReadAttributesLabel:
-  Text: Read attributes
+  Text: Lasīt atribūtus
 SecurityReadDataLabel:
-  Text: Read data
+  Text: Lasīt datus
 SecurityReadExtendedAttributesLabel:
-  Text: Read extended attributes
+  Text: Lasīt paplašinātos atribūtus
 SecurityReadPermissionsLabel:
-  Text: Read permissions
+  Text: Lasīt atļaujas
 SecurityTakeOwnershipLabel:
-  Text: Take ownership
+  Text: Pārņemt īpašumtiesības
 SecurityTraverseLabel:
-  Text: Visit folder
+  Text: Apmeklēt mapi
 SecurityWriteAttributesLabel:
-  Text: Write attributes
+  Text: Rakstīt atribūtus
 SecurityWriteDataLabel:
-  Text: Write data
+  Text: Rakstīt datus
 SecurityWriteExtendedAttributesLabel:
-  Text: Write extended attributes
+  Text: Rakstīt paplašinātos atribūtus
 SecurityAdvancedInheritedConvert:
-  Text: Convert inherited permissions into explicit permissions
+  Text: Pārveidot iedzimtās atļaujas uz tiešajām atļaujām
 SecurityAdvancedInheritedEnable:
-  Text: Enable inheritance
+  Text: Iespējot pārmantošanu
 SecurityAdvancedInheritedRemove:
-  Text: Remove all inherited permissions
+  Text: Noņemt visas iedzimtās atļaujas
 SecurityAdvancedReplaceChildPermissions:
-  Text: Reset child permissions
+  Text: Atiestatīt bērnu atļaujas
 SecurityAdvancedReplaceChildPermissions2:
   ToolTipService:
-    ToolTip: Replace all child object permissions entries with inheritable permission entries from this object
+    ToolTip: Aizvietot visas bērnu objektu atļaujas ar iedzimtajām atļaujām no šī objekta
 NavigationToolbarClosePane:
-  Label: Close pane
-EnterCompactOverlay: Enter compact overlay
-ExitCompactOverlay: Exit compact overlay
-PropertyFileDescription: File description
-PropertyCompany: Company
-PropertyLanguage: Language
-PropertyTrademarks: Trademarks
-PropertyFileVersion: File version
+  Label: Aizvērt paneli
+EnterCompactOverlay: Atvērt kompakto pārklāju
+ExitCompactOverlay: Iziet kompakto pārklājumu
+PropertyFileDescription: Faila apraksts
+PropertyCompany: Uzņēmums
+PropertyLanguage: Valoda
+PropertyTrademarks: Preču zīmes
+PropertyFileVersion: Faila versija
 PreviewPaneLoadCloudItemButton:
-  Text: Load full preview
+  Text: Ielādēt pilnu priekšskatījumu
   ToolTipService:
-    ToolTip: Downloads the item from the cloud and loads the preview
+    ToolTip: Lejupielādē vienumu no mākoņa un atver priekšskatījumu
 DetailsArchiveItems: '{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})'
-PropertyUncompressedSize: Uncompressed size
+PropertyUncompressedSize: Nesaspiestais izmērs
 WSL: WSL
 SideBarHideSectionFromSideBar:
-  Text: Hide {0} section
-AddFile: Add file
-ConsentDialogTitle: Updates available
-ConsentDialogContent: Updates are ready to install
-Close: Close
-ConsentDialogPrimaryButtonText: Update
-Home: Home
+  Text: Slēpt {0} sekciju
+AddFile: Pievienot failu
+ConsentDialogTitle: Pieejami atjauninājumi
+ConsentDialogContent: Atjauninājumi pieejami instalēšanai
+Close: Aizvērt
+ConsentDialogPrimaryButtonText: Atjaunināt
+Home: Mājas
 BaseLayoutContextFlyoutDetails:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+1
 BaseLayoutContextFlyoutTiles:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+2
 BaseLayoutContextFlyoutColumn:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+6
-ArchiveExtractionCompletedSuccessfullyText: The archive extraction completed successfully.
-ExtractingArchiveText: Extracting archive
-ExtractingCompleteText: Extracting complete!
+ArchiveExtractionCompletedSuccessfullyText: Arhīva izvilkšana veiksmīgi pabeigta.
+ExtractingArchiveText: Izvelk arhīvu
+ExtractingCompleteText: Izvilkšana pabeigta!
 BaseLayoutItemContextFlyoutOpenParentFolder:
-  Text: Open parent folder
+  Text: Atvērt vecāku mapi
 Unknown: Unknown
-EditTags: Edit tags
-PropertyPartOfSet: Part of set
+EditTags: Rediģēt birkas
+PropertyPartOfSet: Daļa no
 InsertDiscDialog:
   OpenDriveButton: Open drive
-  Text: Please insert a disc into drive {0}
-  Title: Insert a disc
+  Text: Lūdzu, ievietojiet disku diskdzinī {0}
+  Title: Ievietot disku
 OK: OK
 AskCredentialDialog:
   Title: Credential required
 CredentialDialogAnonymous:
-  Content: Anonymous
+  Content: Anonīmi
 CredentialDialogDescription:
-  Text: 'Provide your credential:'
+  Text: 'Norādiet savus akreditācijas datus:'
 CredentialDialogUserName:
-  PlaceholderText: UserName
-NoSearchResultsFound: No items found
-OpenLogLocation: Open log location
-LinkToFolderCaptionText: Create link in {0}
-Columns: Columns
-Tiles: Tiles
+  PlaceholderText: Lietotājvārds
+NoSearchResultsFound: Nav atrasti vienumi
+OpenLogLocation: Atvērt žurnāla atrašanās vietu
+LinkToFolderCaptionText: Izveidot saiti {0}
+Columns: Kolonnas
+Tiles: Mozaīka
 OpenFoldersInNewTab: Open folders in new tab
 StatusCenter: Status center
 DetailsViewHeaderFlyout_ShowDateCreated:
-  Text: Date created column
+  Text: Izveides datuma kolonna
 DetailsViewHeaderFlyout_ShowItemSize:
-  Text: Item size column
-ExperimentalFeatureFlags: Experimental feature flags
-HelpAndSupport: Help and support
-SubmitFeatureRequest: Submit feature request
-SubmitBugReport: Submit bug report
-SettingsSetAsDefaultFileManager: Set Files as the default file manager
-SettingsSetAsOpenDialog: Use Files as Open File Dialog
-Tag: Tag
-SettingsOpenItemsWithOneClick: Open items with a single click
+  Text: Vienumu lieluma kolonna
+ExperimentalFeatureFlags: Eksperimentālo funkciju karodziņi
+HelpAndSupport: Palīdzība un atbalsts
+SubmitFeatureRequest: Iesniegt funkcijas pieprasījumu
+SubmitBugReport: Iesniegt ziņojumu par kļūdu
+SettingsSetAsDefaultFileManager: Iestatīt Files kā noklusēto failu pārlūku
+SettingsSetAsOpenDialog: Lietot Files kā failu atvēršanas dialogu
+Tag: Birka
+SettingsOpenItemsWithOneClick: Atvērt vienumu ar vienu klikšķi
 FolderPath: Folder path
 ExportSettings: Export settings
 ImportSettings: Import settings
-SettingsImportErrorDescription: Couldn't import settings. The settings file is corrupted.
-SettingsImportErrorTitle: Error importing settings
-EmptyRecycleBin: Empty Recycle Bin
-Sidebar: Sidebar
-ChooseCustomIcon: Choose a custom folder icon
-Customization: Customization
-RestoreDefault: Restore default
+SettingsImportErrorDescription: Neizdevās importēt iestatījumus. Iestatījumu fails ir bojāts.
+SettingsImportErrorTitle: Kļūda importējot iestatījumus
+EmptyRecycleBin: Iztīrīt atkritni
+Sidebar: Sānu josla
+ChooseCustomIcon: Izvēlaties mapes ikonu
+Customization: Personalizēšana
+RestoreDefault: Atgriezt sākotnējo
 OpenTabInExistingInstance: Open tab in existing instance when opening Files from another app
-StartupSettings: Startup settings
-Compatibility: Compatibility
-None: None
+StartupSettings: Palaišanas iestatījumi
+Compatibility: Saderība
+None: Nav
 CompatibilityOnWindowsLogin: On Windows login
 CompatibilityOnProgramStart: On this program start
-System: System
+System: Sistēma
 CompatibilitySystemEnhanced: System (Enhanced)
 CompatibilityReducedColorModeColor16bit: 16-bit (65536) color
 CompatibilityReducedColorModeColor8bit: 8-bit (256) color
@@ -692,141 +692,141 @@ CompatibilityRunIn640x480Resolution: Run in 640 x 480 screen resolution
 CompatibilityOverrideHighDPIBehavior: Override high DPI scaling behavior
 CompatibilityReducedColorMode: Reduced color mode
 CompatibilityRegisterThisProgramForRestart: Register this program for restart
-RunAsAdministrator: Run as administrator
+RunAsAdministrator: Palaist kā administratoram
 CompatibilityRunTroubleshooter: Run compatibility troubleshooter
 CompatibilityUseDPISettings: Use DPI settings of the main monitor
 CompatibilityDoNotAdjustDPI: Do not adjust DPI
 CompatibilityDoNotOverrideDPI: Do not override DPI
-CompatibilityMode: Compatibility mode
+CompatibilityMode: Saderības režīms
 CompatibilityNoReducedColor: No reduced color
-ThirdPartyLicenses: Third party licenses
-SettingsSetAsDefaultFileManagerDescription: This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.
-FolderWidgetCreateNewLibraryDialogTitleText: Create Library
-FolderWidgetCreateNewLibraryInputPlaceholderText: Enter Library name
-CalculateFolderSizes: Calculate folder sizes
-RecentFiles: Recent files
+ThirdPartyLicenses: Trešo pušu licenses
+SettingsSetAsDefaultFileManagerDescription: Šis iestatījums modificē sistēmas reģistru un var ierīcei radīt nevēlamus blakusefektus. Turpinot, uzņemieties atbildību par riskiem!
+FolderWidgetCreateNewLibraryDialogTitleText: Izveidot bibliotēku
+FolderWidgetCreateNewLibraryInputPlaceholderText: Ievadiet bibliotēkas nosaukumu
+CalculateFolderSizes: Rēķināt direktorijas ietilpību
+RecentFiles: Nesenie faili
 SettingsOpenInLogin: Open Files on Windows startup
-Attributes: Attributes
-Hidden: Hidden
-MoreDetails: More details
-ReadOnly: Read only
-CleanupDrive: Cleanup your drive contents
-Type: Type
-Bytes: Bytes
-Extract: Extract
-ExtractFiles: Extract files
-ExtractHere: Extract here
+Attributes: Atribūti
+Hidden: Slēpts
+MoreDetails: Vairāk detaļu
+ReadOnly: Tikai lasāms
+CleanupDrive: Iztīriet Jūsu disku saturu
+Type: Tips
+Bytes: Baiti
+Extract: Izvērst
+ExtractFiles: Izvilkt failus
+ExtractHere: Izvilkt šeit
 ExtractKeyboardAcceleratorTextOverride: Ctrl+E
-ExtractToChildFolder: Extract to {0}
-RunScript: Run script
-RunWithPowerShell: Run with PowerShell
-ShowFolderSizesWarning: Calculating folder sizes is resource intensive and may cause your CPU usage to increase.
-RotateLeft: Rotate left
-RotateRight: Rotate right
-Install: Install
-CloseTabsToTheLeft: Close tabs to the left
-CloseTabsToTheRight: Close tabs to the right
-CloseOtherTabs: Close other tabs
-Music: Music
-Pictures: Pictures
-UpdateFiles: Update Files
-FileTags: Tags
-Universal: Universal
-DateFormatSample: 'ex: {0}, {1}'
-SettingsFilesAndFoldersShowThumbnails: Show thumbnails
-Retry: Retry
-ErrorDialogUnsupportedMoveOperation: Move operation is not supported in this context. Do you want to copy the items instead?
-HiddenItems: Hidden items
-Custom: Custom
-SetAsSlideshow: Set as desktop slideshow
+ExtractToChildFolder: Izvērst uz {0}
+RunScript: Palaist skriptu
+RunWithPowerShell: Palaist ar PowerShell
+ShowFolderSizesWarning: Mapju izmēru aprēķināšana ir resursintensīva un var palielināt procesora lietojumu.
+RotateLeft: Pagriezt pa kreisi
+RotateRight: Pagriezt pa labi
+Install: Instalēt
+CloseTabsToTheLeft: Aizvērt cilnes pa kreisi
+CloseTabsToTheRight: Aizvērt cilnes pa labi
+CloseOtherTabs: Aizvērt pārējās cilnes
+Music: Mūzika
+Pictures: Attēli
+UpdateFiles: Atjaunināt Files
+FileTags: Birkas
+Universal: Universāls
+DateFormatSample: 'piem: {0}, {1}'
+SettingsFilesAndFoldersShowThumbnails: Rādīt sīktēlus
+Retry: Mēģināt vēlreiz
+ErrorDialogUnsupportedMoveOperation: Šajā kontekstā pārvietošana netiek atbalstīta. Vai tā vietā vēlaties vienumus kopēt?
+HiddenItems: Slēptie vienumi
+Custom: Pielāgots
+SetAsSlideshow: Ustādīt ka darbavirsmas slaidrādi
 SizeAllColumnsToFit: Size all columns to fit
-Adaptive: Adaptive layout
-AdaptiveShortcutTooltip: Adaptive layout (Ctrl+Shift+7)
+Adaptive: Automatically choose the best layout
+AdaptiveShortcutTooltip: Pielāgojošs (Ctrl+Shift+7)
 BaseLayoutContextFlyoutAdaptive:
   KeyboardAcceleratorTextOverride: Ctrl+Shift+7
-ShowAlternateStreams: Show alternate data streams
-Behaviors: Behaviors
-ReviewFiles: Review Files
-ReviewFilesContent: Would you like to review Files?
-SetAsBackgroundFlyout: Set as background
-SetAsBackground: Set as desktop background
-SetAsDefault: Set as default
-DateColumn: Date column
-DateCreatedColumn: Date created column
-SizeColumn: Size column
-TagColumn: Tag column
-TypeColumn: Type column
-Lockscreen: Lockscreen
-OpenFolderWithOneClickColumnsLayout: Open folders with a single click in the Columns Layout
-OpeningItems: Opening items
+ShowAlternateStreams: Rādīt alternatīvu datu straumēšanu
+Behaviors: Uzvedības
+ReviewFiles: Pārskatīt Failus
+ReviewFilesContent: Vai vēlies pārskaīt Failus?
+SetAsBackgroundFlyout: Iestatīt ka fonu
+SetAsBackground: Iestatīt kā darbvirsmas fonu
+SetAsDefault: Iestatīt kā noklusējumu
+DateColumn: Datuma kolonna
+DateCreatedColumn: Izveides datuma kolonna
+SizeColumn: Izmēra kolonna
+TagColumn: Birkas kolonna
+TypeColumn: Faila tipa kolonna
+Lockscreen: Bloķēšanas ekrāns
+OpenFolderWithOneClickColumnsLayout: Atvērt direktoriju ar vienu klikšķi Kolonas Izkārtojumā
+OpeningItems: Atver vienumu
 Compress: Compress
-SelectFilesAndFoldersOnHover: Select files and folders when hovering over them
-ConfirmRestoreBinDialogContent: Are you sure you want to restore all items in the recycle bin?
-ConfirmRestoreBinDialogTitle: Restore all items
-ConfirmRestoreSelectionBinDialogContent: Do you want to restore the {0} selected item(s)?
-ConfirmRestoreSelectionBinDialogTitle: Restore selection
-RestoreAllItems: Restore All Items
+SelectFilesAndFoldersOnHover: Atzīmēt failus un direktorijas kad uzvirza peli
+ConfirmRestoreBinDialogContent: Vai tiešām vēlies atjaunot visus vienumus no atkritnes?
+ConfirmRestoreBinDialogTitle: Atjaunot visus vienumus
+ConfirmRestoreSelectionBinDialogContent: Vai tiešām vēlies atjanunot {0} atlasītos vienumus?
+ConfirmRestoreSelectionBinDialogTitle: Atjaunot atlasīto
+RestoreAllItems: Atjaunot Visus vienumus
 Restore: Restore
-ShortcutCannotBeOpened: Shortcut cannot be opened
-DeleteShortcutDescription: The target destination cannot be found {0}. Do you want to delete this shortcut?
-AccessDeniedToFolder: You don't have permission to access this folder.
-ArchivePassword: Archive password
-ExtractToPath: Path
-SortingAndGrouping: Sorting and grouping
-CreateArchive: Create archive
-Create: Create
-CreateNamedArchive: Create {0}
-EnterName: Enter a name
-CompressionLevel: Compression level
+ShortcutCannotBeOpened: Saīsni nevar atvērt
+DeleteShortcutDescription: Galamērķis netika atrasts {0}. Vai vēlies dzēst šo saīsni?
+AccessDeniedToFolder: Tev nav pietiekamas atļaujas šīs direktorijas piekļūvei.
+ArchivePassword: Arhīva parole
+ExtractToPath: Ceļš
+SortingAndGrouping: Šķirošana un grupēšana
+CreateArchive: Izveidot arhīvu
+Create: Izveidot
+CreateNamedArchive: Izveidot {0}
+EnterName: Izvadi nosaukumu
+CompressionLevel: Saspiešanas līmenis
 CompressionLevelUltra: Ultra
-CompressionLevelHigh: High
-CompressionLevelNormal: Normal
-CompressionLevelLow: Low
-CompressionLevelFast: Fast
-CompressionLevelNone: None
-SplittingSize: Splitting size
-Do not split: Do not split
+CompressionLevelHigh: Augsts
+CompressionLevelNormal: Vidējs
+CompressionLevelLow: Zems
+CompressionLevelFast: Ātrs
+CompressionLevelNone: Nav
+SplittingSize: Dalīšanas izmērs
+Do not split: Nedalīt
 CD: CD
 DVD: DVD
 FAT: FAT
-Bluray: Blu-ray
-Encryption: Encryption
-Password: Password
-Format: Format
+Bluray: Blue-ray
+Encryption: Šifrēšana
+Password: Parole
+Format: Formāts
 DetailsViewHeaderFlyout_ShowSyncStatus:
-  Text: Sync status column
-GroupBy: Group by
-SortBy: Sort by
-GroupInDescendingOrder: Group in descending order
-SortInDescendingOrder: Sort in descending order
-NewShortcutDialogTitle: Create a new shortcut
-NewShortcutDialogDescription: Create shortcuts to local or network programs, files, folders, computers or Internet addresses.
-NewShortcutDialogPrompt: 'Enter the location of the item:'
-AddDialogListShortcutSubHeader: Creates a shortcut
-RecentFilesDisabledOnWindowsWarning: Recently used files is currently disabled in Windows File Explorer.
+  Text: Sinhronizēt statusa kolonnu
+GroupBy: Grupēt pēc
+SortBy: Kārtot pēc
+GroupInDescendingOrder: Grupēt dilstošā secībā
+SortInDescendingOrder: Šķirot dilstošā secībā
+NewShortcutDialogTitle: Izveidot jaunu saīsni
+NewShortcutDialogDescription: Izveidot saīsni uz lokālo vai interneta lietotni, failu, direktoriju, datoru vai interneta adresi.
+NewShortcutDialogPrompt: 'Ievadi vienuma atrašanās ceļu:'
+AddDialogListShortcutSubHeader: Izveidot saīsni
+RecentFilesDisabledOnWindowsWarning: Nesen lietotie faili ir atspējoti Windows failu parvaldniekā.
 EditSettingsFile: Edit settings file
 WhatsNew: What's new
-CannotCreateShortcutDialogTitle: Creating a shortcut in this location requires administrator privileges
-CannotCreateShortcutDialogMessage: Would you like to create the shortcut on the desktop instead?
-ErrorDialogNameNotAllowed: The specified item name is invalid
-Settings: Settings
-DoubleClickBlankSpaceToGoUp: Double click on a blank space to go up one directory
-ViewMore: View more
+CannotCreateShortcutDialogTitle: Lai izveidotu saīsni uz šo mērķi ir nepieciešamas administrātora tiešības
+CannotCreateShortcutDialogMessage: Vēlies izveidot saīsni uz darbavirsmas?
+ErrorDialogNameNotAllowed: Norādītais nosaukums nav derīgs
+Settings: Iestatījumi
+DoubleClickBlankSpaceToGoUp: Dubulklikšķis tukšajā vietā lai dotos direktoriju augšup
+ViewMore: Skatīties vairāk
 ShowEditTagsMenu: Show edit tags flyout
 ShowCompressionOptions: Show compression options
 ShowSendToMenu: Show send to menu
 ShowOpenInNewTab: Show option to open folders in a new tab
 ShowOpenInNewWindow: Show option to open folders in a new window
-QuickAccess: Quick access
-NetworkAuthenticationDialogMessage: 'Enter your credentials to connect to: {0}'
+QuickAccess: Atrā piekļūve
+NetworkAuthenticationDialogMessage: 'Ievadi detaļas lai pievienotos: {0}'
 NetworkAuthenticationDialogTitle: Enter network credentials
-NetworkAuthenticationSaveCheckbox: Remember my credentials
-NetworkFolderErrorDialogTitle: Network folder error
-AppVersion: App version
-WindowsVersion: Windows version
-Always: Always
-PermanentDeletionOnly: Permanent deletion only
-Never: Never
+NetworkAuthenticationSaveCheckbox: Atcerēties manas detaļas
+NetworkFolderErrorDialogTitle: Tīkla direktorijas kļūda
+AppVersion: Lietotnes versija
+WindowsVersion: Windows versija
+Always: Vienmēr
+PermanentDeletionOnly: Tikai Neatgriezeniska dzēšana
+Never: Nekad
 TagColor: Tag color
 NewTag: New tag
 CreateNewTag: Create new tag
@@ -861,13 +861,13 @@ IncreaseSize: Increase size
 ToggleSortDirection: Toggle sort direction
 InvalidTagNameWarning: Invalid name
 TagNameRules: Name must not be empty or start or end with a period.
-Videos: Videos
+Videos: Video
 LaunchPreviewPopup: Launch preview popup
 ToggleCompactOverlay: Toggle compact overlay
 OpenHelpDescription: Open online help page in browser
 ToggleFullScreenDescription: Toggle full screen
-EnterCompactOverlayDescription: Enter compact overlay
-ExitCompactOverlayDescription: Exit compact overlay
+EnterCompactOverlayDescription: Atvērt kompakto pārklāju
+ExitCompactOverlayDescription: Iziet kompakto pārklājumu
 ToggleCompactOverlayDescription: Toggle compact overlay
 SearchDescription: Go to search box
 ToggleShowHiddenItemsDescription: Toggle whether to show hidden items
@@ -880,11 +880,11 @@ CopyPathWithQuotesDescription: Copy path of selected items with quotes to the cl
 CutItemDescription: Cut item(s) to clipboard
 PasteItemDescription: Paste item(s) from clipboard to current folder
 PasteItemToSelectionDescription: Paste item(s) from clipboard to selected folder
-DeleteItemDescription: Delete item(s)
+DeleteItemDescription: Dzēst vienumu(s)
 CreateFolderDescription: Create new folder
 CreateShortcutDescription: Create new shortcut(s) to selected item(s)
 CreateShortcutFromDialogDescription: Create new shortcut to any item
-EmptyRecycleBinDescription: Empty recycle bin
+EmptyRecycleBinDescription: Iztukšot atkritni
 FormatDriveDescription: Open "Format Drive" menu for selected item
 RestoreRecycleBinDescription: Restore selected item(s) from recycle bin
 RestoreAllRecycleBinDescription: Restore all items from recycle bin
@@ -1013,9 +1013,9 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Down: Down
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Up: Up
+  Up: Augšup (Alt + Bultiņa uz augšu)
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Home: Home
+  Home: Mājas
   #Key name for hotkeys in menus. Use abbreviation if possible.
   End: End
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1029,7 +1029,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Sleep: Sleep
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  Clear: Clear
+  Clear: Notīrīt
   #Key name for hotkeys in menus. Use abbreviation if possible.
   Print: Print
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1059,7 +1059,7 @@ Key:
   #Key name for hotkeys in menus. Use abbreviation if possible.
   BrowserSearch: Search
   #Key name for hotkeys in menus. Use abbreviation if possible.
-  BrowserFavorites: Favorites
+  BrowserFavorites: Izlase
   #Key name for hotkeys in menus. Use abbreviation if possible.
   MediaPlayPause: PlayPause
   #Key name for hotkeys in menus. Use abbreviation if possible.
@@ -1110,7 +1110,7 @@ Month: Month
 Day: Day
 ToggleGroupByDateUnitDescription: Toggle unit for grouping by date
 ToggleGroupingUnit: Toggle grouping unit
-Year: Year
+Year: Gads
 GroupByDateUnit: Group by date unit
 GroupByDateCreatedDayDescription: Group items by day of date created
 GroupByDateCreatedMonthDescription: Group items by month of date created
@@ -1254,7 +1254,7 @@ ClearCompleted: Clear completed
 NameWithColon: 'Name:'
 #Shown in a StatusCenter card. Used as "64 MB of 1 GB processed"
 StatusCenter_ProcessedSize_Header: '{0} of {1} processed'
-ItemsLower: items
+ItemsLower: vienumi
 CannotInitializeGitRepo: Files can't initialize this directory as a Git repository.
 ContributingArtist: Contributing Artist
 AddPage: Add page
@@ -1387,9 +1387,9 @@ TilesViewSizeInfo: Additional sizes are not yet available for the Tiles View.
 #Used to describe layout sizes
 Compact: Compact
 #Used to describe layout sizes
-Small: Small
+Small: Mazs
 #Used to describe layout sizes
-Medium: Medium
+Medium: Vidējs
 #Used to describe layout sizes
 Medium+: Medium +
 #Used to describe layout sizes
@@ -1401,7 +1401,7 @@ Medium++++: Medium ++++
 #Used to describe layout sizes
 Medium+++++: Medium +++++
 #Used to describe layout sizes
-Large: Large
+Large: Liels
 #Used to describe layout sizes
 Large+: Large +
 #Used to describe layout sizes
