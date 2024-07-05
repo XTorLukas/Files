@@ -6,6 +6,7 @@ using Files.App.Helpers.Application;
 using Files.App.Services.SizeProvider;
 using Files.App.Storage.Storables;
 using Files.App.Utils.Logger;
+using Files.App.Utils.RealTimeRM.Managers;
 using Files.App.ViewModels.Settings;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -66,6 +67,9 @@ namespace Files.App.Helpers
 			var addItemService = Ioc.Default.GetRequiredService<IAddItemService>();
 			var generalSettingsService = userSettingsService.GeneralSettingsService;
 			var jumpListService = Ioc.Default.GetRequiredService<IWindowsJumpListService>();
+			var resourceManagerService = Ioc.Default.GetRequiredService<IResourceManager>();
+
+			await resourceManagerService.Create().BuildAsync();
 
 			// Start off a list of tasks we need to run before we can continue startup
 			await Task.WhenAll(
@@ -218,6 +222,9 @@ namespace Files.App.Helpers
 					.AddSingleton<RecentItems>()
 					.AddSingleton<LibraryManager>()
 					.AddSingleton<AppModel>()
+
+					// Json Resource Manager
+					.AddSingleton<IResourceManager, JsonResourceManager>()
 				).Build();
 		}
 
