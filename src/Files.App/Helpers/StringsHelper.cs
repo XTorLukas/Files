@@ -9,8 +9,6 @@ namespace Files.App.Helpers
 	[MarkupExtensionReturnType(ReturnType = typeof(string))]
 	public sealed partial class Strings : MarkupExtension, IRealTimeDataValueManager
 	{
-		private static readonly IResourceManager _manager = Ioc.Default.GetRequiredService<IResourceManager>();
-
 		public string KeyValue { get; set; } = string.Empty;
 
 		private List<object>? _argsValue = null;
@@ -27,14 +25,14 @@ namespace Files.App.Helpers
 		public string ToLocalized()
 		{
 			return IsArgsNull
-				? _manager.GetString(KeyValue)
-				: string.Format(_manager.GetString(KeyValue), ArgsValue!.ToArray());
+				? RealTimeResourceManager.Instance.GetString(KeyValue)
+				: string.Format(RealTimeResourceManager.Instance.GetString(KeyValue), ArgsValue!.ToArray());
 		}
 
 		protected override string ProvideValue(IXamlServiceProvider serviceProvider)
 		{
 			if (RealTimeEnable && serviceProvider.GetService(typeof(IProvideValueTarget)) is IProvideValueTarget service)
-				_ = _manager.RealTimeService.RegisterDataValueProvider(service, this);
+				_ = RealTimeResourceManager.Instance.RealTimeService.RegisterDataValueProvider(service, this);
 
 			return ToLocalized();
 		}
@@ -50,6 +48,6 @@ namespace Files.App.Helpers
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		public Func<string> RealTimeValueProvider => ToLocalized;
 
-		~Strings() => _manager.RealTimeService.UnregisterDataValueProvider(this);
+		~Strings() => RealTimeResourceManager.Instance.RealTimeService.UnregisterDataValueProvider(this);
 	}
 }

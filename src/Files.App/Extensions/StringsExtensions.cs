@@ -5,8 +5,6 @@ namespace Files.App.Extensions
 {
 	public static class StringsExtensions
 	{
-		private static readonly IResourceManager _manager = Ioc.Default.GetRequiredService<IResourceManager>();
-
 		public static string ToLocalized_NEW(this string key, List<object>? args = null)
 		{
 			return args == null
@@ -24,7 +22,7 @@ namespace Files.App.Extensions
 			dataValue.KeyValue = key;
 			dataValue.ArgsValue = args;
 
-			_ = _manager.RealTimeService.UpdateDataValueProvider(dataValue);
+			_ = RealTimeResourceManager.Instance.RealTimeService.UpdateDataValueProvider(dataValue);
 		}
 	}
 }
