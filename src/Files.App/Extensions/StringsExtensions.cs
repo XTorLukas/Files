@@ -3,8 +3,17 @@
 
 namespace Files.App.Extensions
 {
+	/// <summary>
+	/// Extension method for Strings class to provide localization functionality.
+	/// </summary>
 	public static class StringsExtensions
 	{
+		/// <summary>
+		/// Returns a localized string based on the provided key and optional arguments.
+		/// </summary>
+		/// <param name="key">The key for the localized string.</param>
+		/// <param name="args">Optional arguments for formatting the localized string.</param>
+		/// <returns>The localized string.</returns>
 		public static string ToLocalized_NEW(this string key, List<object>? args = null)
 		{
 			return args == null
@@ -12,6 +21,12 @@ namespace Files.App.Extensions
 				: new Strings() { KeyValue = key, ArgsValue = args }.ToLocalized();
 		}
 
+		/// <summary>
+		/// Updates the localization data for the provided Strings instance.
+		/// </summary>
+		/// <param name="dataValue">The Strings instance to update.</param>
+		/// <param name="key">The key for the localized string.</param>
+		/// <param name="args">Optional arguments for formatting the localized string.</param>
 		public static void ToLocalized(this Strings dataValue, string key, List<object>? args = null)
 		{
 			if (dataValue is null || (dataValue.KeyValue == key &&

@@ -12,6 +12,10 @@ namespace Files.App.Extensions
 	public static class RealTimeResourceManager
 	{
 		private static IResourceManager? _instance = null;
+
+		/// <summary>
+		/// Provides a static instance of <see cref="IResourceManager"/>.
+		/// </summary>
 		public static IResourceManager Instance => _instance ??= new JsonResourceManager(); 
 
 		/// <summary>

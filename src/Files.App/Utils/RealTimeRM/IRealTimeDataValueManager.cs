@@ -21,6 +21,9 @@ namespace Files.App.Utils.RealTimeRM
 		/// </summary>
 		DependencyObject? RealTimeTarget { get; set; }
 
+		/// <summary>
+		/// A boolean indicating whether real-time updates are enabled.
+		/// </summary>
 		bool RealTimeEnable { get; set; }
 
 		/// <summary>
