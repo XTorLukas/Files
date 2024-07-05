@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Nové okno",
+    "CopyPath": "Kopírovať cestu",
+    "CopyPathWithQuotes": "Kopírovať cestu s úvodzovkami",
+    "Browse": "Prehľadávať",
+    "Size": "Veľkosť",
+    "PropertiesCreated": {
+        "Text": "Vytvorené:"
+    },
+    "Path": "Cesta",
+    "SizeLabel": "Veľkosť:",
+    "SizeOnDiskLabel": "Veľkosť na disku:",
+    "UncompressedSize": "Nekomprimovaná veľkosť:",
+    "ErrorDialogThisActionCannotBeDone": "Táto akcia nemohla byť dokončená.",
+    "ErrorDialogTheDestinationFolder": "Cieľový priečinok",
+    "ErrorDialogIsASubfolder": "je podpriečinok zdrojového priečinku.",
+    "Skip": "Preskočiť",
+    "SelectAll": "Vybrať všetko",
+    "InvertSelection": "Invertovať výber",
+    "ClearSelection": "Zrušiť výber",
+    "PropertiesModified": {
+        "Text": "Zmenené:"
+    },
+    "Accessed": "Posledný prístup:",
+    "RecentItemClearAll": {
+        "Text": "Vymazať všetky položky"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Zadajte cestu, na ktorú chcete prejsť alebo napíšte „>\" pre otvorenie palety príkazov"
+    },
+    "Search": "Vyhľadávanie",
+    "RecentItemDescription": {
+        "Text": "Tu sa zobrazia všetky súbory, ku ktorým ste skôr pristupovali."
+    },
+    "RecentItemRemove": {
+        "Text": "Odstrániť túto položku"
+    },
+    "OpenGitHubRepo": "GitHub repozitár",
+    "About": "O aplikácii",
+    "OpenSource": "Open source",
+    "DateFormat": "Formát dátumu",
+    "SettingsAppearanceTheme": "Motív",
+    "SettingsFilesAndFoldersShowFileExtensions": "Zobraziť prípony známych typov súborov",
+    "SettingsFilesAndFoldersShowHiddenItems": "Zobraziť skryté súbory a priečinky",
+    "ShowDotFiles": "Zobraziť dot súbory",
+    "Appearance": "Prispôsobenie",
+    "BackgroundColor": "Farba pozadia",
+    "Advanced": "Pokročilé",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Pokračujte tam, kde ste skončili"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Otvoriť novú kartu"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Otvoriť konkrétnu stránku alebo stránky"
+    },
+    "Desktop": "Pracovná plocha",
+    "Documents": "Dokumenty",
+    "Downloads": "Stiahnuté súbory",
+    "Name": "Názov",
+    "Ascending": "Vzostupne",
+    "Paste": "Vložiť",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Nová položka"
+    },
+    "Properties": "Vlastnosti",
+    "Open": "Otvoriť",
+    "OpenInNewTab": "Otvoriť v novej karte",
+    "OpenInNewWindow": "Otvoriť v novom okne",
+    "Share": "Zdielať",
+    "Cut": "Vystrihnúť",
+    "Delete": "Odstrániť",
+    "PinFolderToSidebar": "Pripnúť do rýchlej ponuky",
+    "WelcomeDialog": {
+        "Title": "Vitajte v aplikácii Files!",
+        "PrimaryButtonText": "Udeliť povolenie"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Na začiatok nám musíte udeliť oprávnenie k zobrazeniu vašich súborov. Otvorí sa stránka Nastavenia, kde nám môžete toto oprávnenie udeliť. Po dokončení tohto kroku budete musieť aplikáciu znovu otvoriť."
+    },
+    "Display": "Zobraziť",
+    "EnterAnItemName": "Zadajte názov položky",
+    "RenameDialog": {
+        "PrimaryButtonText": "Nastaviť meno"
+    },
+    "LightTheme": "Svetlý",
+    "DarkTheme": "Tmavý",
+    "Application": "Aplikácia",
+    "SystemTimeStyle": "Systém",
+    "NewFolder": "Nový priečinok",
+    "NewFile": "Nový súbor",
+    "EmptyFolder": {
+        "Text": "Tento priečinok je prázdny."
+    },
+    "Back": "Späť (Alt + šípka doľava)",
+    "Forward": "Dopredu (Alt + šípka doprava)",
+    "Up": "Hore (Alt + šípka hore)",
+    "Refresh": "Obnoviť",
+    "ItemAlreadyExistsDialogContent": "Položka s týmto názvom už existuje.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Nahradiť existujúcu položku",
+    "ItemAlreadyExistsDialogTitle": "Položka už existuje",
+    "SetAsLockscreen": "Nastaviť ako pozadie uzamknutej obrazovky",
+    "SetAsAppBackground": "Nastaviť ako pozadie aplikácie",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Nepodarilo sa nám zmazať túto položku"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Pripojte prosím požadovaný disk.",
+        "Title": "Disk odpojený"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Súbor, ku ktorému sa snažíte pristúpiť bol presunutý alebo zmazaný.",
+        "Title": "Súbor nenájdený"
+    },
+    "CannotAccessPropertiesTitle": "Nie je možné otvoriť vlastnosti pre tento súbor",
+    "CannotAccessPropertiesContent": "Súbor, ku ktorému sa snažíte pristúpiť bol presunutý alebo zmazaný.",
+    "FolderNotFoundDialog": {
+        "Text": "Priečinok, ktorý sa snažíte otvoriť bol presunutý alebo zmazaný.",
+        "Title": "Odstránili ste tento priečinok?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Súbor, ku ktorému sa pokúšate získať prístup, momentálne používa {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "Súbor, ku ktorému sa pokúšate získať prístup, momentálne používa iná aplikácia",
+        "Title": "Súbor sa používa"
+    },
+    "Layout": "Rozloženie",
+    "PropertiesDialogReadOnly": {
+        "Text": "Iba na čítanie"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Teraz",
+    "ErrorDialogUnsupportedOperation": "Požadovaná operácie nie je podporovaná.",
+    "DriveFreeSpaceAndCapacity": "{0} velných z {1}",
+    "SendTo": "Poslať na",
+    "FileNameTeachingTip": {
+        "Subtitle": "Názov nesmie obsahovať tieto znaky: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "Názov položky je neplatný"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# item selected} few {# items selected} many {# items selected} other {# items selected}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} few {items} many {items} other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Áno",
+    "ConfirmEmptyBinDialogContent": "Naozaj chcete tieto položky zmazať natrvalo?",
+    "ConfirmEmptyBinDialogTitle": "Vysypať kôš",
+    "ItemSizeBytes": "bytov",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Spustiť ako iný používateľ"
+    },
+    "PropertiesDriveItemTypesEquals": "Všetky typy {0}",
+    "PropertiesDriveItemTypeDifferent": "Rôzne typy",
+    "PropertiesCombinedItemLocation": "Všetko v {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Použité miesto:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Voľné místo:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Kapacita:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Systém súborov:"
+    },
+    "JumpListRecentGroupHeader": "Nedávne",
+    "TabStripDragAndDropUIOverrideCaption": "Presunúť priečinok sem",
+    "syncStatusColumn": {
+        "Header": "Stav"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Predvolené vo Windowse",
+    "NavigationToolbarVisiblePathNoResults": "Žiadne výsledky",
+    "SubDirectoryAccessDenied": "Nedá sa získať prístup k žiadnym položkám na zobrazenie",
+    "MoveToFolderCaptionText": "Presunúť do {0}",
+    "CopyToFolderCaptionText": "Prekopírovať do {0}",
+    "CreateShortcut": "Vytvoriť odkaz",
+    "OpenFileLocation": "Otvoriť umiestnenie súboru",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Argumenty:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Cieľ:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Typ cieľa:"
+    },
+    "PropertiesShortcutTypeLink": "Webový odkaz",
+    "General": "Hlavný",
+    "Shortcut": "Odkaz",
+    "ShortcutWebLinkFileType": "Internetový odkaz",
+    "ShortcutCreateNewSuffix": "{0} - odkaz",
+    "ExceptionNotificationBody": "Files narazil na problém, na ktorý nie sp vývojári pripravený.",
+    "ExceptionNotificationHeader": "Niečo sa pokazilo!",
+    "ExceptionNotificationReportButton": "Nahlásiť problém",
+    "InvalidItemDialogContent": "Odkazovaná položka je buď neplatná alebo neprístupná.{0}Chyba:{0}{1}",
+    "InvalidItemDialogTitle": "Chybná položka",
+    "SettingsAboutVersionTitle": "Verzia:",
+    "ShareDialogFailMessage": "Práve teraz nie je čo zdielať ...",
+    "ShareDialogMultipleItemsDescription": "Vybrané položky budú zdielané",
+    "ShareDialogSingleItemDescription": "Vybraná položka bude zdielaná",
+    "ShareDialogTitle": "Zdielam {0}",
+    "ShareDialogTitleMultipleItems": "Zdielam {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "Položka, ktorú sa snažíte premenovať už neexistuje. Skontrolujte umiestnenie položky, ktorú sa snažíte premenovať.",
+            "Title": "Položka už neexistuje"
+        },
+        "NameInvalid": {
+            "Text": "Zadaný názov je neplatný. Skontrolujte požadovaný názov položky a skúste to znovu.",
+            "Title": "Neplatný názov položky"
+        },
+        "TooLong": {
+            "Text": "Dĺžka zadaného názvu položky presahuje maximálny limit. Skontrolujte prosím požadované meno a skúste to znovu.",
+            "Title": "Názov položky je príliš dlhý"
+        }
+    },
+    "ShowMoreOptions": "Zobraziť viac možností",
+    "RestartNotificationText": {
+        "Text": "Aby sa aplikovali nastavenia jazyka, je potrebné aplikáciu reštartovať. Chcete ju reštartovať?"
+    },
+    "SponsorUsOnGitHub": "Podporte nás na GitHube",
+    "AccessDeniedCreateDialog": {
+        "Text": "Nepodarilo sa vytvoriť túto položku"
+    },
+    "AccessDenied": "Prístup zakázaný",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Nastaviť ako"
+    },
+    "Cancel": "Zrušiť",
+    "AddDialog": {
+        "Title": "Vytvoriť novú položku"
+    },
+    "AddDialogDescription": {
+        "Text": "Zvoľte typ novej položky"
+    },
+    "File": "Súbor",
+    "AddDialogListFileSubHeader": "Vytvorí prázdny súbor",
+    "Folder": "Priečinok",
+    "AddDialogListFolderSubHeader": "Vytvorí prázdny priečinok",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Obnoviť priečinok"
+        }
+    },
+    "Language": "Jazyk",
+    "SettingsContextMenuOverflow": "Presunúť rozšírenie do podponuky",
+    "ShowConfirmationWhenDeletingItems": "Vyžadovať potvrdenie pri mazaní súborov",
+    "PropertySaveErrorMessage": {
+        "Text": "Pri ukladaní niektorých vlastností došlo k chybe."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Chyba",
+        "SecondaryButtonText": "Ajtak zatvoriť"
+    },
+    "PropertyRatingText": "Hodnotenie",
+    "PropertyParsingPath": "Cesta položky",
+    "PropertyItemTypeText": "Typ položky",
+    "PropertyTitle": "Názov",
+    "PropertySubject": "Predmet",
+    "PropertyComment": "Komentár",
+    "PropertyCopyright": "Autorské práva",
+    "PropertyDateModified": "Dátum zmeny",
+    "PropertyBitDepth": "Bitová hĺbka",
+    "PropertyDimensions": "Rozmery",
+    "PropertyHorizontalSize": "Horizontálna veľkosť",
+    "PropertyVerticalSize": "Vertikálna veľkosľ",
+    "PropertyHorizontalResolution": "Horizontálne rozlíšenie",
+    "PropertyVerticalResolution": "Vertikálne rozlíšenie",
+    "PropertyColorSpace": "Farebný priestor",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Nešpecifikované",
+    "PropertyLongitudeDecimal": "Zemepisná dĺžka (desatiny)",
+    "PropertyLatitudeDecimal": "Zemepisná šírka (desatiny)",
+    "PropertyAltitude": "Výška",
+    "PropertyDateTaken": "Dátum odfotenia",
+    "PropertyCameraManufacturer": "Výrobca kamery",
+    "PropertyCameraModel": "Model kamery",
+    "PropertyExposureTime": "Expozičný čas",
+    "PropertyFocalLength": "Ohnisková vzdialenosť",
+    "PropertyAperture": "Clona",
+    "PropertyPeopleNames": "Mená ľudí",
+    "PropertyChannelCount": "Počet kanálov",
+    "PropertyFormat": "Formát",
+    "PropertySampleRate": "Vzorkovacia frekvencia",
+    "PropertyAlbumArtist": "Interpret albumu",
+    "PropertyAlbumTitle": "Názov albumu",
+    "Artist": "Umelec",
+    "PropertyBeatsPerMinute": "Údery za minútu (BPM)",
+    "PropertyComposer": "Skladateľ",
+    "Conductor": "Dirigent",
+    "PropertyDiscNumber": "Číslo disku",
+    "PropertyGenre": "Žáner",
+    "PropertyTrackNumber": "Číslo stopy",
+    "PropertyDuration": "Dĺžka",
+    "PropertyFrameCount": "Počet snímkov",
+    "PropertyProtectionType": "Typ ochrany",
+    "PropertyAuthorUrl": "Web umelca",
+    "PropertyContentDistributor": "Distribútor obsahu",
+    "PropertyDateReleased": "Dátum vydania",
+    "PropertySeriesName": "Názov série",
+    "PropertySeasonNumber": "Rada",
+    "PropertyEpisodeNumber": "Číslo epizódy",
+    "PropertyProducer": "Producent",
+    "PropertyPromotionUrl": "Adresa URL propagácie",
+    "PropertyProviderStyle": "Štýl poskytovateľa",
+    "PropertyPublisher": "Vydavatel",
+    "PropertyThumbnailLargePath": "Cesta k velkému náhľadu",
+    "PropertyThumbnailLargeUri": "URI veľkého náhľadu",
+    "PropertyThumbnailSmallPath": "Cesta k malému náhľadu",
+    "PropertyThumbnailSmallUri": "Uri malého náhledu",
+    "PropertyUserWebUrl": "Webová adresa používateľa",
+    "PropertyWriter": "Autor",
+    "PropertyYear": "Rok",
+    "PropertyContributor": "Prispievatel",
+    "PropertyLastAuthor": "Posledný autor",
+    "PropertyRevisionNumber": "Číslo revízie",
+    "PropertyVersion": "Verzia",
+    "PropertyDateCreated": "Dátum vytvorenia",
+    "PropertyTotalEditingTime": "Celková doba úprav",
+    "PropertyTemplate": "Šablóna",
+    "PropertyWordCount": "Počet slov",
+    "PropertyCharacterCount": "Počet znakov",
+    "PropertyLineCount": "Počet riadkov",
+    "PropertyParagraphCount": "Počet odstavcov",
+    "PropertyPageCount": "Počet stránok",
+    "PropertySlideCount": "Počet snímkov",
+    "PropertyFrameRate": "Snímková frekvencia",
+    "PropertyEncodingBitrate": "Prenosová rýchlosť",
+    "PropertyPreviewAudioEncodingBitrate": "Audio Encoding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "Compression": "Kompresia",
+    "PropertyFrameWidth": "Šírka",
+    "PropertyFrameHeight": "Výška",
+    "PropertyOrientation": "Orientácia",
+    "PropertySectionCore": "Jadro",
+    "PropertySectionImage": "Obrázok",
+    "PropertySectionPhoto": "Fotografia",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Médiá",
+    "PropertySectionAudio": "Zvuk",
+    "PropertySectionMusic": "Hudba",
+    "PropertySectionVideo": "Video",
+    "Document": "Dokument",
+    "Address": "Adresa",
+    "SelectionOptions": "Možnosti výberu",
+    "NavToolbarSelectionOptions": {
+        "Label": "Vybrať"
+    },
+    "RecycleBinItemAutomation": "Položka koša",
+    "ShortcutItemAutomation": "Odkaz",
+    "Drives": "Disky",
+    "PinToSidebarByDraggingCaptionText": "Presunúť sem",
+    "EjectNotificationHeader": "Bezpečné odpojenie zariadenia",
+    "EjectNotificationBody": "Teraz môžete zariadenie bezpečne odpojiť.",
+    "EjectNotificationErrorDialogHeader": "Problém pri odpojovaní zariadenia",
+    "EjectNotificationErrorDialogBody": "Zariadenie sa používa. Zatvorte prosím všetky programy, ktoré môžu zariadenie používať",
+    "Eject": "Vysunúť",
+    "DuplicateTab": "Duplikovať kartu",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Presunúť kartu to nového okna"
+    },
+    "NewTab": "Nová karta",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Niektoré vlastnosti môžu obsahovať osobné informácie."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Zmazať všetky vlastnosti"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Tu skontrolujete stav operácií so súbormi",
+        "Title": "Stavové centrum"
+    },
+    "SearchPagePathBoxOverrideText": "Výsledky hladania v {1} pre {0}\n\n",
+    "Details": "Detaily",
+    "No": "Nie",
+    "ShowProtectedSystemFiles": "Zobraziť chránené systémové súbory",
+    "SyncFolderPreferencesAcrossDirectories": "Synchronizovať predvoľby rozvrhnutie a radenie naprieč adresármi",
+    "SettingsContextMenu": {
+        "Text": "Prizpôsobiť kontextové menu"
+    },
+    "OriginalPath": "Originálne umiestnenie",
+    "Add": "Pridať",
+    "Edit": "Upraviť",
+    "Remove": "Vymazať",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Otvoriť karty v režime duálneho panela",
+    "ShowOpenInNewPane": "Zobraziť možnosť pre otvorenie priečinkov v novom paneli",
+    "ShowCopyPath": "Zobraziť možnosti pre kopírovanie cesty",
+    "ShowCreateFolderWithSelection": "Zobraziť možnosť vytvorenia priečinka s výberom",
+    "ShowCreateShortcut": "Zobraziť možnosť vytvorenia odkazu",
+    "NavigationToolbarNewPane": {
+        "Label": "Nový panel"
+    },
+    "OpenInNewPane": "Otvoriť v novom paneli",
+    "FilesAndFolders": "Súbory a priečinky",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Detaily (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Dlaždice (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "Odstránené",
+    "SidebarCloudDrives": "Cloudové disky",
+    "Confirm": "Potvrdiť",
+    "DesiredName": "Požadované meno",
+    "TogglePreviewPane": "Prepnite panel náhľadu",
+    "ToggleDetailsPane": "Prepnite panel detailov",
+    "ToggleDetailsPaneDescription": "Prepnite panel detailov, aby zobrazoval základné vlastnosti súborov",
+    "ToggleInfoPane": "Prepnite info panel",
+    "ToggleInfoPaneDescription": "Prepnúť detail/náhlaď",
+    "DetailsPanePreviewNotAvaliableText": "Žiaden náhľad k dispozícii",
+    "PropertyItemName": "Názov položky",
+    "UnpinFolderFromSidebar": "Odopnúť z rýchlej ponuky",
+    "Network": "Sieť",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Podrobnosti"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Náhľad súboru"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Panel ukážky vybratého súboru"
+        }
+    },
+    "Feedback": "Spätná väzba",
+    "CloudDriveSyncStatus_Online": "K dispozícii  online",
+    "Documentation": "Dokumentácia",
+    "CloudDriveSyncStatus_Offline": "Dostupné offline",
+    "CloudDriveSyncStatus_PartialOffline": "Čiastočne dostupné offline",
+    "CloudDriveSyncStatus_Sync": "Synchronizácia",
+    "CloudDriveSyncStatus_Excluded": "Vynechané zo synchronizácie",
+    "ItemSizeNotCalculated": "Nevypočítané",
+    "CloudDriveSyncStatus_Unknown": "Neznáma",
+    "RenameFileDialog": {
+        "Text": "Ak zmeníte príponu súboru, súbor sa môže stať nepoužiteľným. Naozaj ju chcete zmeniť?"
+    },
+    "DriveTypeCDRom": "Jednotka CD-ROM",
+    "DriveTypeCloudDrive": "Cloudový disk",
+    "DriveTypeFixed": "Pevný disk",
+    "DriveTypeFloppyDisk": "Disketová jednotka",
+    "DriveTypeNetwork": "Sieťová jednotka",
+    "DriveTypeNoRootDirectory": "Odpojený disk",
+    "DriveTypeRam": "RAM Disk",
+    "DriveTypeRemovable": "Vymeniteľné úložné zariadenie",
+    "DriveTypeUnknown": "Neznáma",
+    "DriveTypeVirtualDrive": "Virtuálny disk",
+    "DateCreated": "Datum vytvorenia",
+    "MoreOptions": "Daľšie možnosti",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Mapovať sieťový disk"
+    },
+    "Pinned": "Pripnuté v rýchlej ponuke",
+    "SidebarLibraries": "Knižnice",
+    "NoItemSelected": "Nie je vybratá žiadna položka",
+    "PropertyItemTarget": "Cieľ",
+    "Arguments": "argumentov",
+    "Default": "Predvolené",
+    "PropertyItemCount": "Počet položiek",
+    "ElevateConfirmDialog": {
+        "Title": "Táto akcia vyžaduje práva správcu",
+        "Content": "Chcete pokračovať ako správca?"
+    },
+    "ColumnsShortcutTooltip": "Stĺpce (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "Pripnúť do ponuky Štart"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Odstrániľ z ponuky Štart"
+    },
+    "Library": "Knižnica",
+    "LibraryLocations": {
+        "Text": "Umiestnenia:"
+    },
+    "SetAsDefaultSavePath": "Nastaviť ako predvolenú cestu",
+    "LibraryNoLocations": {
+        "Text": "Žiadne umiestnenia"
+    },
+    "ErrorInputEmpty": "Vstupné pole nemôže byť prázdne!",
+    "ErrorNameInputRestrictedCharacters": "Názov nesmie obsahovať tieto znaky: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Používanie tohto mena nie je povolené!",
+    "CreateLibraryErrorAlreadyExists": "Knižnica s rovnakým názvom už existuje!",
+    "OpenStorageSense": "Otvoriť senzor úložiska",
+    "Copy": "Kopírovať",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Presunúť",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Pokračovať",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Natrvalo odstrániť"
+    },
+    "PropertyISO": "Rýchlosť ISO",
+    "ReplaceExisting": "Nahradiť existujúce",
+    "GenerateNewName": "Vygenerujte nový názov",
+    "CreateFolderWithSelection": "Vytvoriť zložku s výberom",
+    "ItemType": "Typ:",
+    "ToolTipDescriptionDate": "Dátum úpravy:",
+    "OpenWith": "Otvoriť v aplikácii",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Ikona súboru"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Stĺpec pôvodnej cesty"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Stĺpec typu položky"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Stĺpec dátumu úpravy"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Stĺpec dátumu vymazania"
+    },
+    "Sort": "Zoradiť",
+    "DateModifiedLowerCase": "Dátum zmeny",
+    "OriginalFolder": "Pôvodný priečinok",
+    "Descending": "Zostupne",
+    "ItemSizeText_Huge": "Obrovský",
+    "ItemSizeText_VeryLarge": "Veľmi veľký",
+    "ItemSizeText_Large": "Veľký",
+    "ItemSizeText_Medium": "Stredný",
+    "ItemSizeText_Small": "Malý",
+    "ItemSizeText_Tiny": "Veľmi malý",
+    "Future": "Budúcnosť",
+    "Today": "Dnes",
+    "Yesterday": "Včera",
+    "EarlierThisWeek": "Začiatkom tohto týždňa",
+    "LastWeek": "Minulý týždeň",
+    "EarlierThisMonth": "Začiatkom tohto mesiaca",
+    "LastMonth": "Minulý mesiac",
+    "EarlierThisYear": "Začiatkom tohto roku",
+    "LastYear": "Minulý rok",
+    "YearN": "Rok {0}",
+    "GroupItemsCount_Singular": "{0} položka",
+    "GroupItemsCount_Plural": "Počet položiek: {0}",
+    "ReopenClosedTab": "Znovu otvoriť zatvorenú kartu",
+    "Rename": "Premenovať",
+    "Privacy": "Súkromie",
+    "TheRecycleBin": "Kôš",
+    "Canceling": "Zrušenie",
+    "Clear": "Zmazať",
+    "Widgets": "Widgety",
+    "SyncStatus": "Stav synchronizácie",
+    "Security": "Zabezpečenie",
+    "AdvancedPermissions": "Rozšírené povolenia",
+    "Allow": "Povoliť",
+    "Deny": "Odmietnuť",
+    "SecurityFullControlLabel": {
+        "Text": "Plná kontrola"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Vypísať obsah adresára"
+    },
+    "Modify": "Upraviť",
+    "SecurityPermissionsHeaderText": "Oprávnenia pre {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Čítaniu a spusteniu"
+    },
+    "SecurityReadLabel": {
+        "Text": "Čítaniu"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Názov skupiny alebo meno používateľa:"
+    },
+    "Write": "Zápis",
+    "SecurityUnknownAccount": "Neznámy účet",
+    "SecurityCannotReadProperties": {
+        "Text": "Nemáte povolenia na zobrazenie bezpečnostných vlastností tohto objektu. Pokračujte kliknutím na „Rozšírené povolenia“."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Vlastník:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Neznámý vlastník"
+    },
+    "ExtractArchive": "Rozbaliť archív",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Po dokončení otvoriť cieľový priečinok"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Extrahovať do {0}",
+    "SideBarCreateNewLibrary": {
+        "Text": "Vytvortiť novú knižnicu"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Obnoviť pôvodné knižnice"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Naozaj chcete obnoviť predvolené knižnice? Všetky vaše súbory zostanú vo vašom úložisku.",
+    "DialogRestoreLibrariesTitleText": "Obnoviť Knižnice",
+    "PropertyFileOwner": "Vlastník",
+    "SecuritySpecialLabel": {
+        "Text": "Špecialne"
+    },
+    "Access": "Prístup",
+    "SecurityAdvancedAppliesTo": "Platí pre",
+    "Principal": "Riaditeľ",
+    "SecurityAdvancedFlagsFilesLabel": "súbory",
+    "SecurityAdvancedFlagsFolderLabel": "tento priečinok",
+    "SecurityAdvancedFlagsSubfoldersLabel": "podpriečinky",
+    "Inherited": "Zdedené",
+    "Permissions": "Oprávnenia",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "Nemáte povolenia na zobrazenie bezpečnostných vlastností tohto objektu. Môžete sa pokúsiť prevziať vlastníctvo tohto objektu."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Tento priečinok a súbory"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Tento priečinok, podpriečinky a súbory"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Iba súbory"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Iba podpriečinky"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Iba podpriečinky a súbory"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Iba tento priečinok"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Tento priečinok a podpriečinky"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Pripojiť údaje"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Zmeniť povolenie"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Vytvoriť priečinky"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Vytvoriť súbory"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Odstráňte podpriečinky a súbory"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Spustiť súbory"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Prečítať vlastnosti"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Čítanie údajov"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Prečítať rozšírené vlastnosti"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Čítať povolenia"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Prevziať vlastníctvo"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Navštíviť priečinok"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Zapisovať vlastnosti"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Zapísať dáta"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Zapisovať rozšírené vlastnosti"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Previesť zdedené povolenia na explicitné povolenia"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Povoliť dedičnosť"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Odstráňte všetky zdedené povolenia"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Obnoviť povolenia podriadených objektov"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Nahraďte všetky položky povolení podriadených objektov položkami zdedených povolení z tohto objektu"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Zavrieť panel"
+    },
+    "EnterCompactOverlay": "Zadajte kompaktné prekrytie",
+    "ExitCompactOverlay": "Ukončite kompaktné prekrytie",
+    "PropertyFileDescription": "Popis súboru",
+    "PropertyCompany": "Spoločnosť",
+    "PropertyLanguage": "Jazyk",
+    "PropertyTrademarks": "Ochranné známky",
+    "PropertyFileVersion": "Verzia súboru",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Načítať úplný náhľad",
+        "ToolTipService": {
+            "ToolTip": "Stiahne položku z cloudu a načíta ukážku"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Nekomprimovaná veľkosť",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Skryť sekciu {0}"
+    },
+    "AddFile": "Pridať súbor",
+    "ConsentDialogTitle": "Dostupné aktualizácie",
+    "ConsentDialogContent": "Aktualizácie sú pripravené na inštaláciu",
+    "Close": "Zavrieť",
+    "ConsentDialogPrimaryButtonText": "Aktualizovať",
+    "Home": "Domov",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Rozbalenie archívu bolo úspešne dokončené.",
+    "ExtractingArchiveText": "Rozbalujem archív",
+    "ExtractingCompleteText": "Rozbalenie dokončené!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Otvoriť nadradený priečinok"
+    },
+    "Unknown": "Neznámy",
+    "EditTags": "Upraviť značky súboru",
+    "PropertyPartOfSet": "Časť súpravy",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Otvoriť disk",
+        "Text": "Vložte disk do jednotky {0}",
+        "Title": "Vložte disk"
+    },
+    "OK": "OK",
+    "AskCredentialDialog": {
+        "Title": "Vyžaduje sa poverenie"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Anonymný"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Poskytnite svoje poverenia:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Používateľské meno"
+    },
+    "NoSearchResultsFound": "Nenašli sa žiadne položky",
+    "OpenLogLocation": "Otvoriť umiestnenie denníka",
+    "LinkToFolderCaptionText": "Vytvoriť odkaz v {0}",
+    "Columns": "Stĺpce",
+    "Tiles": "Dlaždice",
+    "OpenFoldersInNewTab": "Otvoriť priečinky na novej karte",
+    "StatusCenter": "Stavové centrum",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Stĺpec dátumu vytvorenia"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Stĺpec veľkosti položky"
+    },
+    "ExperimentalFeatureFlags": "Experimentálne funkcie",
+    "HelpAndSupport": "Pomoc a podpora",
+    "SubmitFeatureRequest": "Odoslať žiadosť na funkciu",
+    "SubmitBugReport": "Nahlásiť chybu",
+    "SettingsSetAsDefaultFileManager": "Nastavte Files ako predvoleného správcu súborov",
+    "SettingsSetAsOpenDialog": "Použiť Files ako dialógové okno Otvorenia súboru",
+    "Tag": "Značka súboru",
+    "SettingsOpenItemsWithOneClick": "Otvoriť položky jedným kliknutím",
+    "FolderPath": "Cesta ku zložke",
+    "ExportSettings": "Exportovať nastavenia",
+    "ImportSettings": "Importovať nastavenia",
+    "SettingsImportErrorDescription": "Nastavenia sa nepodarilo importovať. Súbor nastavení je poškodený.",
+    "SettingsImportErrorTitle": "Chyba pri importovaní nastavení",
+    "EmptyRecycleBin": "Vysypať kôš",
+    "Sidebar": "Bočný panel",
+    "ChooseCustomIcon": "Vyberte vlastnú ikonu priečinka",
+    "Customization": "Prispôsobenie",
+    "RestoreDefault": "Obnoviť predvolené",
+    "OpenTabInExistingInstance": "Otvoriť okno v bežiacej inštancii keď je otvorený súbor v inej aplikácií",
+    "StartupSettings": "Nastavenia spustenia",
+    "Compatibility": "Kompatibilita",
+    "None": "Žiadne",
+    "CompatibilityOnWindowsLogin": "Počas prihlásenia",
+    "CompatibilityOnProgramStart": "Počas spustenia programu",
+    "System": "Systém",
+    "CompatibilitySystemEnhanced": "Systém (pokročilé)",
+    "CompatibilityReducedColorModeColor16bit": "16-bit (65536) farieb",
+    "CompatibilityReducedColorModeColor8bit": "8-bit (256) farieb",
+    "CompatibilityDisableFullscreenOptimizations": "Vypnúť optimalizáciu celej obrazovky",
+    "CompatibilityRunIn640x480Resolution": "Spustiť v rozlíšení 640 x 480 pixlov",
+    "CompatibilityOverrideHighDPIBehavior": "Override high DPI scaling behavior",
+    "CompatibilityReducedColorMode": "Reduced color mode",
+    "CompatibilityRegisterThisProgramForRestart": "Register this program for restart",
+    "RunAsAdministrator": "Spustiť ako správca",
+    "CompatibilityRunTroubleshooter": "Run compatibility troubleshooter",
+    "CompatibilityUseDPISettings": "Use DPI settings of the main monitor",
+    "CompatibilityDoNotAdjustDPI": "Neprispôsobovať DPI",
+    "CompatibilityDoNotOverrideDPI": "Do not override DPI",
+    "CompatibilityMode": "Režim kompatibility",
+    "CompatibilityNoReducedColor": "No reduced color",
+    "ThirdPartyLicenses": "Licencie tretích strán",
+    "SettingsSetAsDefaultFileManagerDescription": "Toto nastavenie upravuje systémové súbory a môže mať neočakávané vedľajšie účinky na vaše zariadenie. Vývojári nenesú žiadnu zodpovednosť v prípade, že sa v dôsledku toho vyskytne problém. Pokračovanie v tejto možnosti znamená uznanie rizík spojených s touto akciou.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Vytvoriť knižnicu",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Zadajte názov knižnice",
+    "CalculateFolderSizes": "Vypočítať veľkosti priečinka",
+    "RecentFiles": "Nedávne súbory",
+    "SettingsOpenInLogin": "Otvoriť Súbory pri spustení Windowsu",
+    "Attributes": "Atribúty",
+    "Hidden": "Skrytý",
+    "MoreDetails": "Viac informácií",
+    "ReadOnly": "Iba na čítanie",
+    "CleanupDrive": "Vyčistite obsah disku",
+    "Type": "Typ",
+    "Bytes": "bajtov",
+    "Extract": "Rozbaliť",
+    "ExtractFiles": "Extrahovať súbory",
+    "ExtractHere": "Extrahovať tu",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Extrahovať do {0}",
+    "RunScript": "Spustiť skript",
+    "RunWithPowerShell": "Spustiť s PowerShell",
+    "ShowFolderSizesWarning": "Výpočet veľkostí priečinkov je náročný na zdroje a môže spôsobiť zvýšenie využitia procesora.",
+    "RotateLeft": "Otočiť doľava",
+    "RotateRight": "Otočiť doprava",
+    "Install": "Inštalovať",
+    "CloseTabsToTheLeft": "Zavrieť karty vľavo",
+    "CloseTabsToTheRight": "Zavrieť karty napravo",
+    "CloseOtherTabs": "Zavrieť ostatné karty",
+    "Music": "Hudba",
+    "Pictures": "Obrázky",
+    "UpdateFiles": "Aktualizovať Files",
+    "FileTags": "Značky",
+    "Universal": "Univerzálne",
+    "DateFormatSample": "napr.: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Zobraziť miniatúry",
+    "Retry": "Znova",
+    "ErrorDialogUnsupportedMoveOperation": "Operácia presunu nie je v tomto kontexte podporovaná. Chcete namiesto toho skopírovať položky?",
+    "HiddenItems": "Skryté položky",
+    "Custom": "Vlastné",
+    "SetAsSlideshow": "Nastaviť ako prezentáciu na pracovnej ploche",
+    "SizeAllColumnsToFit": "Size all columns to fit",
+    "Adaptive": "Automatically choose the best layout",
+    "AdaptiveShortcutTooltip": "Adaptívny (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Zobraziť alternatívne dátové toky",
+    "Behaviors": "Správania",
+    "ReviewFiles": "Ohodnotiť Files",
+    "ReviewFilesContent": "Chceli by ste ohodnotiť Files?",
+    "SetAsBackgroundFlyout": "Nastaviť ako pozadie",
+    "SetAsBackground": "Nastaviť ako pozadie pracovnej plochy",
+    "SetAsDefault": "Nastaviť ako predvolené",
+    "DateColumn": "Stĺpec dátumu",
+    "DateCreatedColumn": "Stĺpec dátumu vytvorenia",
+    "SizeColumn": "Stĺpec veľkosti",
+    "TagColumn": "Stĺpec značky",
+    "TypeColumn": "Stĺpec typu",
+    "Lockscreen": "Obrazovka uzamknutia",
+    "OpenFolderWithOneClickColumnsLayout": "Otvoriť priečinky jedným kliknutím v rozložení stĺpcov",
+    "OpeningItems": "Otváranie položiek",
+    "Compress": "Zabaliť",
+    "SelectFilesAndFoldersOnHover": "Vybrať súbory a priečinky, keď na ne umiestnite kurzor myši",
+    "ConfirmRestoreBinDialogContent": "Ste si istý, že chcete obnoviť všetky položky v koši?",
+    "ConfirmRestoreBinDialogTitle": "Obnoviť všetky položky",
+    "ConfirmRestoreSelectionBinDialogContent": "Chcete obnoviť {0} vybraných položiek?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Obnoviť výber",
+    "RestoreAllItems": "Obnoviť všetky položky",
+    "Restore": "Obnoviť",
+    "ShortcutCannotBeOpened": "Odkaz nemôže byť otvorený",
+    "DeleteShortcutDescription": "Cieľová destinácia nebola nájdená {0}. Chcete zmazať tento odkaz?",
+    "AccessDeniedToFolder": "Nemáte povolenie na prístup k tomuto priečinku.",
+    "ArchivePassword": "Heslo archívu",
+    "ExtractToPath": "Cesta",
+    "SortingAndGrouping": "Zoraďovanie a zoskupovanie",
+    "CreateArchive": "Vytvoriť archív",
+    "Create": "Vytvoriť",
+    "CreateNamedArchive": "Vytvoriť {0}",
+    "EnterName": "Zadajte názov",
+    "CompressionLevel": "Úroveň kompresie",
+    "CompressionLevelUltra": "Ultra",
+    "CompressionLevelHigh": "Vysoká",
+    "CompressionLevelNormal": "Normálna",
+    "CompressionLevelLow": "Nízka",
+    "CompressionLevelFast": "Rýchla",
+    "CompressionLevelNone": "Žiadne",
+    "SplittingSize": "Rozdeľovacia veľkosť",
+    "Do not split": "Nerozdeľovať",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Šifrovanie",
+    "Password": "Zadajte heslo",
+    "Format": "Formát",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Synchronizovať stĺpec stavu"
+    },
+    "GroupBy": "Zoskupiť podľa",
+    "SortBy": "Zoradiť podľa",
+    "GroupInDescendingOrder": "Zoskupiť zostupne",
+    "SortInDescendingOrder": "Zoradiť zostupne",
+    "NewShortcutDialogTitle": "Vytvoriť nový odkaz",
+    "NewShortcutDialogDescription": "Create shortcuts to local or network programs, files, folders, computers or Internet addresses.",
+    "NewShortcutDialogPrompt": "Zadajte umiestnenie položky:",
+    "AddDialogListShortcutSubHeader": "Vytvorí odkaz",
+    "RecentFilesDisabledOnWindowsWarning": "Nedávno použité súbory sú zakázané vo Windows prieskumníku.",
+    "EditSettingsFile": "Upraviť nastavenia súborov",
+    "WhatsNew": "Čo je nové",
+    "CannotCreateShortcutDialogTitle": "Vytvorenie odkazu na tomto mieste vyžaduje administrátorské oprávnenia",
+    "CannotCreateShortcutDialogMessage": "Prajete si namiesto toho vytvoriť zástupcu na ploche?",
+    "ErrorDialogNameNotAllowed": "Zadané meno položky je neplatné",
+    "Settings": "Nastavenia",
+    "DoubleClickBlankSpaceToGoUp": "Dvojitým kliknutím do prázdneho priestoru prejsť o zložku vyššie",
+    "ViewMore": "Zobraziť viac",
+    "ShowEditTagsMenu": "Zobraziť výsuvné menu pre upravenie štítkov",
+    "ShowCompressionOptions": "Zobraziť možnosti kompresie",
+    "ShowSendToMenu": "Zobraziť poslať do ponuky",
+    "ShowOpenInNewTab": "Zobraziť možnosť pre otvorenie priečinkov na novej karte",
+    "ShowOpenInNewWindow": "Zobraziť možnosť pre otvorenie priečinkov v novom okne",
+    "QuickAccess": "Rýchly prístup",
+    "NetworkAuthenticationDialogMessage": "Enter your credentials to connect to: {0}",
+    "NetworkAuthenticationDialogTitle": "Zadajte poverenia pre server",
+    "NetworkAuthenticationSaveCheckbox": "Zapamätať si moje prihlasovacie údaje",
+    "NetworkFolderErrorDialogTitle": "Chyba zdieľaného priečinka",
+    "AppVersion": "Verzia aplikácie",
+    "WindowsVersion": "Verzia windowsu",
+    "Always": "Vždy",
+    "PermanentDeletionOnly": "Iba permanentné odstránenie",
+    "Never": "Nikdy",
+    "TagColor": "Farba značky",
+    "NewTag": "Nová značka",
+    "CreateNewTag": "Vytvoriť novú značku",
+    "Loading": "Načítavanie...",
+    "ContextMenuOptions": "Možnosti kontextovej ponuky",
+    "ShowFileExtensions": "Zobraziť prípony súborov",
+    "ShowHiddenItems": "Zobraziť skryté položky",
+    "FormatDriveText": "Formátovať...",
+    "Help": "Pomoc",
+    "FullScreen": "Prepnúť režim celej obrazovky",
+    "ConfirmDeleteTag": "Ste si istý, že chcete vymazať túto značku?",
+    "PlayAll": "Prehrať všetko",
+    "Height": "Výška",
+    "Width": "Šírka",
+    "ApplyToAllConflictingItems": "Použiť túto akciu na všetky konfliktné položky",
+    "OpenTerminal": "Otvoriť vo Windows terminále",
+    "OpenTerminalAsAdmin": "Otvoriť zložku v terminále ako administrátor",
+    "Save": "Uložiť",
+    "MultiSelect": "Viacnásobný výber",
+    "ReorderSidebarItemsDialogText": "Usporiadať položky bočného panelu",
+    "Hashes": "Hashe",
+    "CalculationError": "Počas kalkulácie sa vyskytla chyba",
+    "CalculationErrorFileIsOpen": "Failed to calculate the hash, please close the file and try again.",
+    "CalculationOnlineFileHashError": "Hašovanie nie je k dispozícii pre online súbory",
+    "Algorithm": "Algoritmus",
+    "HashValue": "Hodnota haša",
+    "SelectHashesToShow": "Vyberte haše, ktoré chcete zobraziť",
+    "Calculating": "Prebieha výpočet...",
+    "JumpListPinnedGroupHeader": "Pripnuté položky",
+    "DecreaseSize": "Zmenšiť veľkosť",
+    "IncreaseSize": "Zväčšiť veľkosť",
+    "ToggleSortDirection": "Prepnúť smer radenia",
+    "InvalidTagNameWarning": "Neplatné meno",
+    "TagNameRules": "Meno nemôže byť prázdne alebo začínať alebo končiť s bodkou.",
+    "Videos": "Videá",
+    "LaunchPreviewPopup": "Launch preview popup",
+    "ToggleCompactOverlay": "Toggle compact overlay",
+    "OpenHelpDescription": "Otvoriť webovú stránku s nápovedou v prehliadači",
+    "ToggleFullScreenDescription": "Prepnúť režim celej obrazovky",
+    "EnterCompactOverlayDescription": "Zadajte kompaktné prekrytie",
+    "ExitCompactOverlayDescription": "Ukončite kompaktné prekrytie",
+    "ToggleCompactOverlayDescription": "Toggle compact overlay",
+    "SearchDescription": "Ísť do vyhľadávacieho poľa",
+    "ToggleShowHiddenItemsDescription": "Prepnite, či chcete zobraziť skryté súbory",
+    "ToggleShowFileExtensionsDescription": "Prepnite, či chcete zobraziť prípony súborov",
+    "TogglePreviewPaneDescription": "Toggle the preview pane to view file previews",
+    "ToggleSidebarDescription": "Prepnite, či chcete zobraziť bočný panel",
+    "CopyItemDescription": "Skopírovať položky do schránky",
+    "CopyPathDescription": "Skopírovať cestu vybraných položiek do schránky",
+    "CopyPathWithQuotesDescription": "Skopírovať cestu vybraných položiek s úvodzkovami do schránky",
+    "CutItemDescription": "Vystrihnúť položky do schránky",
+    "PasteItemDescription": "Prilepiť položky zo schránky do aktuálneho priečinka",
+    "PasteItemToSelectionDescription": "Prilepiť položky zo schránky do vybraného priečinka",
+    "DeleteItemDescription": "Odstrániť položku(y)",
+    "CreateFolderDescription": "Vytvoriť nový priečinok",
+    "CreateShortcutDescription": "Create new shortcut(s) to selected item(s)",
+    "CreateShortcutFromDialogDescription": "Create new shortcut to any item",
+    "EmptyRecycleBinDescription": "Vysypať kôš",
+    "FormatDriveDescription": "Otvoriť menu \"formátovať disk\" pre zvolenú položku",
+    "RestoreRecycleBinDescription": "Obnoviť vybrané položku(y) z koša",
+    "RestoreAllRecycleBinDescription": "Obnoviť všetky položky z koša",
+    "OpenItemDescription": "Otvoriť položku(y)",
+    "OpenItemWithApplicationPickerDescription": "Otvoriť položku(y) vo vybranej aplikácii",
+    "OpenParentFolderDescription": "Otvoriť rodičovský priečinok hľadanej položky",
+    "RefreshItemsDescription": "Obnoviť obsah stránky",
+    "RenameDescription": "Premenovať vybranú položku",
+    "SelectAllDescription": "Vybrať všetky položky",
+    "InvertSelectionDescription": "Invertovať výber",
+    "ClearSelectionDescription": "Vymazať výber",
+    "ToggleSelectDescription": "Prepnúť výber",
+    "ShareItemDescription": "Zdieľať vybraný súbor(y) s ostatnými",
+    "PinToStartDescription": "Pripnúť do ponuky Štart",
+    "UnpinFromStartDescription": "Odopnúť z ponuky Štart",
+    "PinFolderToSidebarDescription": "Pin folder(s) to Sidebar",
+    "UnpinFolderFromSidebarDescription": "Unpin folder(s) from Sidebar",
+    "SetAsWallpaperBackgroundDescription": "Nastaviť vybraný obrázok ako pozadie plochy",
+    "SetAsSlideshowBackgroundDescription": "Set selected pictures as desktop slideshow",
+    "SetAsLockscreenBackgroundDescription": "Nastaviť vybraný obrázok ako pozadie uzamknutej obrazovky",
+    "SetAsAppBackgroundDescription": "Set selected picture as the app background",
+    "InstallFontDescription": "Nainštalovať vybrané písmo(a)",
+    "InstallInfDriverDescription": "Nainštalovať ovládač(e) použitým vybraných inf súborov",
+    "InstallCertificateDescription": "Nainštalovať vybraný certifikát(y)",
+    "RunAsAdminDescription": "Spustiť vybranú aplikáciu ako správca",
+    "RunAsAnotherUserDescription": "Spustiť vybranú aplikáciu ako iný používateľ",
+    "RunWithPowershellDescription": "Spustit vybraný PowerShell skript",
+    "LaunchPreviewPopupDescription": "Launch preview in popup window",
+    "CompressIntoArchiveDescription": "Vytvoriť archív z vybraných položiek",
+    "CompressIntoSevenZipDescription": "Vytvoriť 7z archív z vybraných položiek",
+    "CompressIntoZipDescription": "Vytvoriť zip archív z vybraných položiek",
+    "DecompressArchiveDescription": "Rozbaliť položky z vybraných archívov do ľubovóľneho priečinka",
+    "DecompressArchiveHereDescription": "Rozbaliť položky z vybraných archívov do aktuálneho priečinka",
+    "DecompressArchiveToChildFolderDescription": "Rozbaliť položky z vybraných archívov do nového priečinka",
+    "RotateLeftDescription": "Otočiť vybrané obrázky do ľava",
+    "RotateRightDescription": "Otočiť vybrané obrázky do prava",
+    "OpenSettingsDescription": "Otvoriť stránku s nastavením",
+    "OpenTerminalDescription": "Otvoriť zložku v terminále",
+    "OpenTerminalAsAdminDescription": "Otvoriť zložku v terminále ako administrátor",
+    "LayoutDecreaseSizeDescription": "Decrease item size in the current view",
+    "LayoutIncreaseSizeDescription": "Increase item size in the current view",
+    "LayoutDetailsDescription": "Prepnuť na zobrazenie podrobností",
+    "LayoutTilesDescription": "Switch to tiles view",
+    "LayoutListDescription": "Prepnúť na zobrazenie zoznamu",
+    "List": "Zoznam",
+    "Grid": "Mriežka",
+    "LayoutGridDescription": "Switch to grid view",
+    "LayoutColumnsDescription": "Switch to columns view",
+    "LayoutAdaptiveDescription": "Switch views adaptively",
+    "SortByNameDescription": "Usporiadať položky podľa mena",
+    "SortByDateModifiedDescription": "Usporiadať položky podľa dátumu poslednej úpravy",
+    "SortByDateCreatedDescription": "Usporiadať položky podľa dátumu vytvorenia",
+    "SortBySizeDescription": "Usporiadať podľa veľkosti",
+    "SortByTypeDescription": "Usporiadať položky podľa typu",
+    "SortBySyncStatusDescription": "Usporiadať položky podľa stavu synchronizácie",
+    "SortByTagDescription": "Usporiadať položky podľa značiek",
+    "SortByOriginalFolderDescription": "Sort items by original folder",
+    "SortByDateDeletedDescription": "Usporiadať položky podľa dátumu vymazania",
+    "SortAscendingDescription": "Usporiadať vzostupne (A-Z)",
+    "SortDescendingDescription": "Usporiadať zostupne (Z-A)",
+    "ToggleSortDirectionDescription": "Toggle item sort direction",
+    "GroupByNoneDescription": "List items without grouping",
+    "GroupByNameDescription": "Zoskupiť položky podľa mena",
+    "GroupByDateModifiedDescription": "Zoskupiť položky podľa dátumu poslednej úpravy",
+    "GroupByDateCreatedDescription": "Zoskupiť položky podľa dátumu vytvorenia",
+    "GroupBySizeDescription": "Zoskupiť položky podľa veľkosti",
+    "GroupByTypeDescription": "Zoskupiť položky podľa typu",
+    "GroupBySyncStatusDescription": "Group items by sync status",
+    "GroupByTagDescription": "Zoskupiť položky podľa značiek",
+    "GroupByOriginalFolderDescription": "Group items by original folder",
+    "GroupByDateDeletedDescription": "Group items by date deleted",
+    "GroupByFolderPathDescription": "Zoskupiť položky podľa cesty priečinka",
+    "GroupAscendingDescription": "Usporiadať skupiny vzostupne",
+    "GroupDescendingDescription": "Usporiadať skupiny zostupne",
+    "ToggleGroupDirectionDescription": "Toggle group sort direction",
+    "NewTabDescription": "Otvoriť novú kartu",
+    "NavigateBackDescription": "Navigate backward in navigation history",
+    "NavigateForwardDescription": "Navigate forward in navigation history",
+    "NavigateUpDescription": "Navigate up one directory",
+    "DuplicateCurrentTabDescription": "Duplikovať aktuálnu kartu",
+    "DuplicateSelectedTabDescription": "Duplikovať vybranú záložku",
+    "CloseTabsToTheLeftCurrentDescription": "Zatvoriť taby vľavo",
+    "CloseTabsToTheLeftSelectedDescription": "Close tabs to the left of selected tab",
+    "CloseTabsToTheRightCurrentDescription": "Close tabs to the right of current tab",
+    "CloseTabsToTheRightSelectedDescription": "Close tabs to the right of selected tab",
+    "CloseOtherTabsCurrentDescription": "Close tabs other than current tab",
+    "CloseOtherTabsSelectedDescription": "Close tabs other than selected tab",
+    "ReopenClosedTabDescription": "Otvoriť naposledy zatvorenú kartu",
+    "PreviousTabDescription": "Move to the previous tab",
+    "NextTabDescription": "Move to the next tab",
+    "CloseSelectedTabDescription": "Zavrieť aktuálnu kartu",
+    "OpenNewPaneDescription": "Otvoriť nový panel",
+    "ClosePaneDescription": "Close right pane",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Toggle the sidebar",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Medzerník",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Backspace",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Vľavo",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Vpravo",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Dole",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Hore (Alt + šípka hore)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Domov",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PageDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Sleep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Zmazať",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Print",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Pomoc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mouse4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mouse5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Mail",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "Domov",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "Späť",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Vpred",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "Obnoviť",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "Zastaviť",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Vyhľadávanie",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Obľúbené",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "PlayPause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PrevTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "NextTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaSelect",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Stíšiť",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "VolDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "VolUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Zmeniť",
+    "ToggleSelect": "Toggle selection",
+    "ShowFileExtensionWarning": "Zobraziť varovanie pri zmene prípon súborov",
+    "ThisPC": "Tento PC",
+    "RecycleBin": "Kôš",
+    "Untagged": "Neoznačené",
+    "PreviousTab": "Moves to the previous tab",
+    "NextTab": "Moves to the next tab",
+    "CloseTab": "Zavrieť aktuálnu kartu",
+    "EditPath": "Upraviť cestu",
+    "Redo": "Redo",
+    "Undo": "Undo",
+    "InvalidLocation": "Neplatná cesta",
+    "CopyFileWithoutProperties": "Are you sure you want to copy these files without their properties?",
+    "FilePropertiesCannotBeCopied": "These files have properties that can't be copied to the new location",
+    "FilePropertiesCannotBeMoved": "These files have properties that can't be moved to the new location",
+    "MoveFileWithoutProperties": "Are you sure you want to move these files without their properties?",
+    "ShowCheckboxesWhenSelectingItems": "Zobraziť začiarkávacie políčko pri výbere položiek",
+    "EditPathDescription": "Focus path bar",
+    "AddItemDescription": "Vytvoriť novú položku",
+    "SecurityNoAccessControlEntriesText": "No groups or users have permission to access this object. However, the owner of this object can assign permissions.",
+    "OpenFileLocationDescription": "Open the item's location",
+    "DeletePermanently": "Delete permanently",
+    "DeleteItemPermanentlyDescription": "Delete item(s) permanently",
+    "PlayAllDescription": "Prehrať vybrané mediálne súbory",
+    "UndoDescription": "Undo the last file operation",
+    "RedoDescription": "Redo the last file operation",
+    "Location": "Umiestnenie:",
+    "GroupByMonthDescription": "Zoskupiť položky podľa mesiaca",
+    "GroupByYearDescription": "Zoskupiť položky podľa roku",
+    "Month": "Mesiac",
+    "Day": "Deň",
+    "ToggleGroupByDateUnitDescription": "Toggle unit for grouping by date",
+    "ToggleGroupingUnit": "Toggle grouping unit",
+    "Year": "Rok",
+    "GroupByDateUnit": "Group by date unit",
+    "GroupByDateCreatedDayDescription": "Group items by day of date created",
+    "GroupByDateCreatedMonthDescription": "Group items by month of date created",
+    "GroupByDateCreatedYearDescription": "Group items by year of date created",
+    "GroupByDateDeletedDayDescription": "Group items by day of date deleted",
+    "GroupByDateDeletedMonthDescription": "Group items by month of date deleted",
+    "GroupByDateDeletedYearDescription": "Group items by year of date deleted",
+    "GroupByDateModifiedDayDescription": "Group items by day of date modified",
+    "GroupByDateModifiedMonthDescription": "Group items by month of date modified",
+    "GroupByDateModifiedYearDescription": "Group items by year of date modified",
+    "SecurityClickAdvancedPermissions": "Click 'Advanced permissions' to continue.",
+    "SecurityRequireReadPermissions": "You must have Read permissions to view the properties of this item.",
+    "SecuritySuggestToTakeOwnership": "To try taking ownership of the item, which includes permission to view its properties, click Change above.",
+    "SecurityUnableToDisplayPermissions": "Nepodarilo sa zobraziť oprávnenia.",
+    "StashChanges": "Leave my changes on '{0}'",
+    "DiscardChanges": "Zahodiť moje zmeny",
+    "BringChanges": "Bring my changes to '{0}'",
+    "UncommittedChanges": "V tejto vetvy máte nevykonané zmeny. Čo s nimi chcete urobiť?",
+    "SwitchBranch": "Switch branch",
+    "Branches": "Vetvy",
+    "Switch": "Prepnúť",
+    "NewBranch": "Nová vetva",
+    "InvalidBranchName": "Neplatný názov vetvy",
+    "CreateBranch": "Vytvoriť vetvu",
+    "CreateNewBranch": "Vytvoriť vetvu",
+    "BasedOn": "Na základe",
+    "SwitchToNewBranch": "Prepnúť na novú vetvu",
+    "CreateFolderWithSelectionDescription": "Vytvoriť priečinok s aktuálne vybranými položkami",
+    "OpenProperties": "Otvoriť vlastnosti",
+    "OpenPropertiesDescription": "Otvoriť okno vlastností",
+    "Locals": "Lokálne",
+    "Remotes": "Vzdialené",
+    "ImproveTranslation": "Preložiť v Crowdin-e",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Run git fetch",
+    "GitPullDescription": "Run git pull",
+    "Preview": "Náhľad",
+    "GitStatus": "Git status",
+    "GitError": "Git chyba",
+    "PullTimeoutError": "git pull failed due to a timeout error",
+    "MultipleValues": {
+        "text": "(multiple values)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Autor",
+    "DateCommitted": "Date committed",
+    "CommitMessage": "Commit message",
+    "CommitSha": "Commit SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Backdrop Material",
+    "Solid": "Solid",
+    "ManageBranches": "Spravovať vetve",
+    "Push": "Push",
+    "GitPushDescription": "Run git push",
+    "GitSync": "Synchronizovať",
+    "GitSyncDescription": "Run git pull and then git push",
+    "GitSyncStatusExtendedInfo": "{0} outgoing / {1} incoming commits",
+    "ConnectGitHub": "Pripojiť ku GitHub",
+    "ConnectGitHubDescription": "Enter the following code at the link below to start working with GitHub repositories.",
+    "CannotReachGitHubError": "Súbory nemôžu momentálne získať prístup do GitHub-u.",
+    "OpenInVSCode": "Otvoriť priečinok vo VS Code",
+    "OpenInVSCodeDescription": "Otvoriť aktuálny adresár vo Visual Studio Code",
+    "OpenRepoInVSCode": "Otvoriť repozitár vo VS Code",
+    "OpenRepoInVSCodeDescription": "Open the root of the Git repo in Visual Studio Code",
+    "CopyCode": "Kopírovať kód",
+    "Added": "Pridané",
+    "Deleted": "Odstránené",
+    "Modified": "Upravené",
+    "Untracked": "Nesledované",
+    "UnableToDisplayOwner": "Nepodarilo sa zobraziť súčasného vlastníka.",
+    "AuthorizationSucceded": "Výborne. Teraz ste autorizovaný.",
+    "InitRepo": "Inicializovať repozitár",
+    "InitRepoDescription": "Inicializovať Git repozitár",
+    "GitOriginRepositoryName": "Názov vzdialeného repozitára",
+    "GitCurrentBranch": "Aktuálna Vetva",
+    "PathColumn": "Path column",
+    "SortByPathDescription": "Usporiadať položky podľa cesty",
+    "OpenDirectoryInNewPaneDescription": "Open directory in new pane",
+    "OpenDirectoryInNewTabDescription": "Otvoriť priečinok na novej karte",
+    "OpenInNewWindowDescription": "Otvoriť priečinok v novom okne",
+    "OpenAllTaggedItems": "Otvoriť všetko",
+    "OpenAllTaggedItemsDescription": "Otvoriť všetky označené položky",
+    "DriveWithLetter": {
+        "text": "Disk ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Nesprávny príkaz",
+    "InvalidCommandContent": "'{0}' nie je rozpoznaný ako príkaz.",
+    "CommandNotExecutable": "Príkaz nie je spustiteľný",
+    "CommandNotExecutableContent": "The '{0}' command is not ready to be executed.",
+    "CommandPalette": "Command palette",
+    "OpenCommandPaletteDescription": "Open command palette",
+    "ShortcutItemWorkingDir": "Začať v:",
+    "TurnOnBitLocker": "Zapnúť BitLocker",
+    "ManageBitLocker": "Spravovať BitLocker",
+    "CopyFailureFileToLarge": "Nasledujúce súbory sú príliš veľké aby boli nahrané na tento disk",
+    "FormatDrive": "Formátovať disk",
+    "DontShowAgain": "Nezobrazovať znovu",
+    "FilesRunningAsAdmin": "Súbory sú spostené ako správca",
+    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
+    "SettingsLeaveAppRunning": "Ponechať aplikáciu bežať na pozadí keď je okno zavreté",
+    "Blue": {
+        "text": "Modrá",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Modrosivá",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Tehlovo červená",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Maskáčová",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Cool Blue Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Sivá",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Tmavosivá",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Zelená",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Mint Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Orange Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Overcast",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Červená",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rose Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Seafoam",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Búrková",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Violet Red Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Yellow Gold",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Vyčistiť dokončené",
+    "NameWithColon": "Názov:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "Spracované: {0} z {1}",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "položiek",
+    "CannotInitializeGitRepo": "Files can't initialize this directory as a Git repository.",
+    "ContributingArtist": "Contributing Artist",
+    "AddPage": "Pridať stránku",
+    "ProcessingItems": "Spracuvávam položky...",
+    "SpeedWithColon": "Rýchlosť:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Canceled compressing {0} items to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Canceled compressing {0} items from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Compressed {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Canceled copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Canceled copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Copied {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Kopíruje sa {0} položiek do {1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Presúva sa {0} položiek z {1} do {2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Canceled extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Canceled extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Extracted \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Extracted \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Error extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Failed to extract \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Deleted {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Chyba pri odstraňovaní {0} položiek z „{1}“",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Nepodarilo sa odstrániť {0} položiek z \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Odstraňuje sa {0} položiek z {1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Moved {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Moved {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Failed to move {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Zrušené vyprázdňovanie koša",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Emptied Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Vyprázdňovanie koša",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Chyba počas vyprázdňovania koša",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Nepodarilo sa vyprázdniť kôš",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Pripravujem operáciu...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "Spracované položky {0}/{1}",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Odblokovať stiahnutý súbor",
+    "NoFileOperations": "Žiadne prebiehajúce operácie so súbormi",
+    "OpenOnStartupDisabled": "The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.",
+    "FailedToRestore": "Nepodarilo sa obnoviť položky z koša",
+    "FailedToSetBackground": "Nepodarilo sa nastaviť pozadie",
+    "GitDeleteBranch": "Delete Git branch",
+    "GitDeleteBranchSubtitle": "Are you sure you want to permanently delete \"{0}\" branch?",
+    "ConnectedToGitHub": "Spojené s GitHub",
+    "Logout": "Odhlásenie",
+    "ConnectToGitHub": "Pripojiť ku GitHub",
+    "Login": "Prihlásenie",
+    "ErrorApplyingTagContent": "Značky sú momentálne kompatibilné iba na diskoch naformátovaných ako NTFS.",
+    "ErrorApplyingTagTitle": "There was an error applying this tag",
+    "DecompressArchiveHereSmartDescription": "Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive",
+    "ExtractHereSmart": "Rozbaliť tu (chytré)",
+    "SortFilesAndFoldersTogether": "Sort files and folders together",
+    "SortFilesAndFoldersTogetherDescription": "Usporiadať spoločne súbory aj priečinky",
+    "SortFilesFirst": "Usporiadať najprv súbory",
+    "SortFilesFirstDescription": "Usporiadať najprv súbory potom priečinky",
+    "SortFoldersFirst": "Usporiadať najprv priečinky",
+    "SortFoldersFirstDescription": "Usporiadať najprv priečinky potom súbory",
+    "SortPriority": "Priorita usporiadania",
+    "FailedToRotateImage": "Nepodarilo sa otočiť obrázok",
+    "Restart": "Reštartovať",
+    "Quit": "Vypnúť",
+    "FaildToShareItems": "Položky sa nepodarilo zdieľať",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll to previous folder when navigating up",
+    "NewWindowDescription": "Otvoriť nové okno",
+    "ChangeAlbumCover": "Change album cover",
+    "ItemRenameFailed": "Failed to rename item",
+    "HigherPermissionsRequired": "Editing \"{0}\" requires additional permissions",
+    "EditPermissions": "Edit permissions",
+    "BackgroundRunningNotificationBody": "Súbory stále bežia na pozadí za účelom zlepšenia výkonnosti pri spustení.",
+    "BackgroundRunningNotificationHeader": "Where did Files go?",
+    "QuestionsAndDiscussions": "Questions & discussions",
+    "TilesViewSizeInfo": "Additional sizes are not yet available for the Tiles View.",
+    "Compact": {
+        "text": "Compact",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Malý",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Stredný",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Medium +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Medium ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Medium +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Medium ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Medium +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Veľký",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Large +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Large ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Large +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Extra large",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Details view",
+    "LayoutType": "Layout type",
+    "Actions": "Actions",
+    "Commands": "Commands",
+    "AddCommand": "Add command",
+    "RestoreDefaults": "Restore defaults",
+    "ChooseAnAction": "Choose an action",
+    "RestoreDefaultKeybindingsConfirmation": "Are you sure you want to restore the default key bindings? This action cannot be undone.",
+    "KeybindingAlreadyUsedNotification": "This key binding is already being used, please choose a different key binding to continue.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Customized",
+    "AdaptiveLayoutDisabledNotification": "Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.",
+    "BackgroundImage": "Background image",
+    "Bottom": {
+        "text": "Bottom",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Center",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horizontal alignment",
+    "ImageFit": "Image fit",
+    "Left": {
+        "text": "Vľavo",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacity",
+    "Right": {
+        "text": "Vpravo",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Top",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniform",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniform to fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Vertical alignment",
+    "ThinAcrylic": {
+        "text": "Thin Acrylic",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Show for all locations",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Developer tools",
+    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "GitRepos": {
+        "text": "Show for Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Application extension",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO File",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip File",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap Files",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Network locations",
+    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
+    "Disable": "Disable",
+    "EditInNotepad": "Edit in Notepad",
+    "EditInNotepadDescription": "Edit the selected file in Notepad"
+}

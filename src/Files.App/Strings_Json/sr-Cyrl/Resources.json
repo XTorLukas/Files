@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Нов прозор",
+    "CopyPath": "Копирај путању",
+    "CopyPathWithQuotes": "Копирај путању са наводницима",
+    "Browse": "Потражи",
+    "Size": "Величина",
+    "PropertiesCreated": {
+        "Text": "Направљено:"
+    },
+    "Path": "Путања",
+    "SizeLabel": "Величина:",
+    "SizeOnDiskLabel": "Величина на диску:",
+    "UncompressedSize": "Некомпромитована величина:",
+    "ErrorDialogThisActionCannotBeDone": "Није могуће извршити ову радњу",
+    "ErrorDialogTheDestinationFolder": "Одредишна фасцикла",
+    "ErrorDialogIsASubfolder": "је подфасцикла изворне фасцикле",
+    "Skip": "Прескочи",
+    "SelectAll": "Изабери све",
+    "InvertSelection": "Обрни селекцију",
+    "ClearSelection": "Поништи селекцију",
+    "PropertiesModified": {
+        "Text": "Измењено:"
+    },
+    "Accessed": "Приступљено:",
+    "RecentItemClearAll": {
+        "Text": "Обриши све ставке"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Унеси путању или укуцај \">\" да отвориш листу команди"
+    },
+    "Search": "Претражи",
+    "RecentItemDescription": {
+        "Text": "Овде ће се појављивати датотеке којима сте скоро приступили"
+    },
+    "RecentItemRemove": {
+        "Text": "Уклони ову ставку"
+    },
+    "OpenGitHubRepo": "Репозиторијум на платформи GitHub",
+    "About": "О апликацији",
+    "OpenSource": "Отворени код",
+    "DateFormat": "Формат датума",
+    "SettingsAppearanceTheme": "Изглед",
+    "SettingsFilesAndFoldersShowFileExtensions": "Прикажи екстензије за познате типове датотека",
+    "SettingsFilesAndFoldersShowHiddenItems": "Прикажи скривене датотеке и фасцикле",
+    "ShowDotFiles": "Прикажи датотеке без екстензије",
+    "Appearance": "Изглед",
+    "BackgroundColor": "Background color",
+    "Advanced": "Напредна подешавања",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Настави од задњег пута"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Отвори нову картицу"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Отвори одређену страницу или странице"
+    },
+    "Desktop": "Радна површина",
+    "Documents": "Документа",
+    "Downloads": "Преузимања",
+    "Name": "Назив",
+    "Ascending": "Од растућег",
+    "Paste": "Налепи",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Нов"
+    },
+    "Properties": "Подаци о датотеци",
+    "Open": "Отвори",
+    "OpenInNewTab": "Отвори у новом табу",
+    "OpenInNewWindow": "Отвори у новом прозору",
+    "Share": "Подели",
+    "Cut": "Исеци",
+    "Delete": "Обриши",
+    "PinFolderToSidebar": "Закачи на леву траку",
+    "WelcomeDialog": {
+        "Title": "Добро дошао у апликацију Files!",
+        "PrimaryButtonText": "Дозволи"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Потребно је да нам даш дозволу за приступ твојим датотекама како бисмо почели. Отвориће се страница у Windows подешавањима где нам можеш дати приступ. Чим завршиш са овим кораком, поново отвори апликацију Files. "
+    },
+    "Display": "Приказ",
+    "EnterAnItemName": "Унеси нови назив",
+    "RenameDialog": {
+        "PrimaryButtonText": "Подеси назив"
+    },
+    "LightTheme": "Светла тема",
+    "DarkTheme": "Тамна тема",
+    "Application": "Формат по апликацији",
+    "SystemTimeStyle": "Формат по систему",
+    "NewFolder": "Нова фасцикла",
+    "NewFile": "Нова датотека",
+    "EmptyFolder": {
+        "Text": "Ова фасцикла је празна."
+    },
+    "Back": "Назад",
+    "Forward": "Напред",
+    "Up": "Претходна фасцикла",
+    "Refresh": "Освежи",
+    "ItemAlreadyExistsDialogContent": "Датотека са овим именом већ постоји у овој фасцикли.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Замени постојећу датотеку са овом",
+    "ItemAlreadyExistsDialogTitle": "Датотека већ постоји",
+    "SetAsLockscreen": "Постави као позадина закључаног екрана",
+    "SetAsAppBackground": "Set as app background",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Нисмо могли да обришемо ову датотеку"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Молимо привежите потребан диск како бисте приступили овој ставци.",
+        "Title": "Drive unplugged"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Датотека којој покушавате да приступите је можда премештена или обрисана.",
+        "Title": "Датотека није пронађена"
+    },
+    "CannotAccessPropertiesTitle": "Cannot open properties for this file",
+    "CannotAccessPropertiesContent": "Датотека којој покушавате да приступите је можда премештена или обрисана.",
+    "FolderNotFoundDialog": {
+        "Text": "Фасцикла којој покушавате да приступите је можда премештена или обрисана.",
+        "Title": "Да ли сте обрисали ову фасциклу?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Датотеку којој покушавате да приступите тренутно користи програм {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "The file you are attempting to access is currently being used by another application",
+        "Title": "Датотека је у употреби"
+    },
+    "Layout": "Распоред",
+    "PropertiesDialogReadOnly": {
+        "Text": "Само за читање"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Now",
+    "ErrorDialogUnsupportedOperation": "Затражена радња није подржана",
+    "DriveFreeSpaceAndCapacity": "{0} слободно од {1}",
+    "SendTo": "Send to",
+    "FileNameTeachingTip": {
+        "Subtitle": "Име ставке не сме да садржи следеће карактере: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "The item name specified is invalid"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# item selected} few {# items selected} other {# items selected}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} few {items} other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Да",
+    "ConfirmEmptyBinDialogContent": "Да ли сте сигурни да желите да трајно обришете све ове ставке?",
+    "ConfirmEmptyBinDialogTitle": "Испразни корпу за отпатке",
+    "ItemSizeBytes": "бајт(ова)",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Run as another user"
+    },
+    "PropertiesDriveItemTypesEquals": "All type of {0}",
+    "PropertiesDriveItemTypeDifferent": "Different types",
+    "PropertiesCombinedItemLocation": "All in {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Used space:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Free space:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Capacity:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "File system:"
+    },
+    "JumpListRecentGroupHeader": "Recent",
+    "TabStripDragAndDropUIOverrideCaption": "Move tab here",
+    "syncStatusColumn": {
+        "Header": "Status"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Језик Windows окружења",
+    "NavigationToolbarVisiblePathNoResults": "No results",
+    "SubDirectoryAccessDenied": "Can't access any items to display",
+    "MoveToFolderCaptionText": "Move to {0}",
+    "CopyToFolderCaptionText": "Copy to {0}",
+    "CreateShortcut": "Create shortcut",
+    "OpenFileLocation": "Отвори извор датотеке",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Arguments:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Destination:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Shortcut type:"
+    },
+    "PropertiesShortcutTypeLink": "Web link",
+    "General": "Општа",
+    "Shortcut": "Shortcut",
+    "ShortcutWebLinkFileType": "Internet shortcut",
+    "ShortcutCreateNewSuffix": "{0} - shortcut",
+    "ExceptionNotificationBody": "Files ran into a problem that the developers didn't prepare for yet.",
+    "ExceptionNotificationHeader": "Something went wrong!",
+    "ExceptionNotificationReportButton": "Report this issue",
+    "InvalidItemDialogContent": "The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}",
+    "InvalidItemDialogTitle": "Invalid item",
+    "SettingsAboutVersionTitle": "Version:",
+    "ShareDialogFailMessage": "There's nothing to share right now...",
+    "ShareDialogMultipleItemsDescription": "The items you've selected will be shared",
+    "ShareDialogSingleItemDescription": "The selected item will be shared",
+    "ShareDialogTitle": "Sharing {0}",
+    "ShareDialogTitleMultipleItems": "Sharing {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.",
+            "Title": "Item no longer exists"
+        },
+        "NameInvalid": {
+            "Text": "Унето име садржи грешке. Молимо проверите унето име и покушајте поново.",
+            "Title": "Погрешно име ставке"
+        },
+        "TooLong": {
+            "Text": "Дужина имена ставке прелази ограничење броја карактера. Молимо проверите име и покушајте поново.",
+            "Title": "Име ставке предугачко"
+        }
+    },
+    "ShowMoreOptions": "Остале опције...",
+    "RestartNotificationText": {
+        "Text": "Потребно је поново покренути програм како бисте применили ова подешавања. Да ли желите да поново покренете програм?"
+    },
+    "SponsorUsOnGitHub": "Sponsor us on GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "Нисмо могли да креирамо ову ставку"
+    },
+    "AccessDenied": "Забрањен приступ",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Постави као"
+    },
+    "Cancel": "Откажи",
+    "AddDialog": {
+        "Title": "Направи нову датотеку"
+    },
+    "AddDialogDescription": {
+        "Text": "Одаберите тип датотеке за нову ставку испод"
+    },
+    "File": "Датотека",
+    "AddDialogListFileSubHeader": "Прави празну датотеку",
+    "Folder": "Фасцикла",
+    "AddDialogListFolderSubHeader": "Прави празну фасциклу",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Освежи директоријум"
+        }
+    },
+    "Language": "Језик",
+    "SettingsContextMenuOverflow": "Проширења окружења смести у подмени",
+    "ShowConfirmationWhenDeletingItems": "Питај још једном пре брисања датотека",
+    "PropertySaveErrorMessage": {
+        "Text": "Настао је проблем приликом чувања подешавања."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Грешка",
+        "SecondaryButtonText": "Ипак затвори"
+    },
+    "PropertyRatingText": "Оцена",
+    "PropertyParsingPath": "Путања датотеке",
+    "PropertyItemTypeText": "Врста ставке",
+    "PropertyTitle": "Наслов",
+    "PropertySubject": "Предмет",
+    "PropertyComment": "Коментар",
+    "PropertyCopyright": "Copyright",
+    "PropertyDateModified": "Датум измене",
+    "PropertyBitDepth": "Дубина битова",
+    "PropertyDimensions": "Димензије",
+    "PropertyHorizontalSize": "Хоризонтална дужина",
+    "PropertyVerticalSize": "Вертикална висина",
+    "PropertyHorizontalResolution": "Хоризонтална резолуција",
+    "PropertyVerticalResolution": "Вертикална резолуција",
+    "PropertyColorSpace": "Распон боја",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "није наведено",
+    "PropertyLongitudeDecimal": "Longitude Decimal",
+    "PropertyLatitudeDecimal": "Latitude Decimal",
+    "PropertyAltitude": "Altitude",
+    "PropertyDateTaken": "Датум сликања",
+    "PropertyCameraManufacturer": "Произвођач камере",
+    "PropertyCameraModel": "Модел камере",
+    "PropertyExposureTime": "Exposure Time",
+    "PropertyFocalLength": "Focal Length",
+    "PropertyAperture": "Aperture",
+    "PropertyPeopleNames": "Имена људи",
+    "PropertyChannelCount": "Channel Count",
+    "PropertyFormat": "Формат",
+    "PropertySampleRate": "Sample Rate",
+    "PropertyAlbumArtist": "Извођач албума",
+    "PropertyAlbumTitle": "Наслов албума",
+    "Artist": "Извођач",
+    "PropertyBeatsPerMinute": "Beats Per Minute",
+    "PropertyComposer": "Композитор",
+    "Conductor": "Conductor",
+    "PropertyDiscNumber": "Disc Number",
+    "PropertyGenre": "Жанр",
+    "PropertyTrackNumber": "Број нумере",
+    "PropertyDuration": "Трајање",
+    "PropertyFrameCount": "Frame Count",
+    "PropertyProtectionType": "Врста заштите",
+    "PropertyAuthorUrl": "Веб адреса креатора",
+    "PropertyContentDistributor": "Дистрибутер садржаја",
+    "PropertyDateReleased": "Датум издавања",
+    "PropertySeriesName": "Наслов серије",
+    "PropertySeasonNumber": "Редни број сезоне",
+    "PropertyEpisodeNumber": "Редни број епизоде",
+    "PropertyProducer": "Продуцент",
+    "PropertyPromotionUrl": "Промотивни веб-сајт",
+    "PropertyProviderStyle": "Provider Style",
+    "PropertyPublisher": "Издавач",
+    "PropertyThumbnailLargePath": "Thumbnail Large Path",
+    "PropertyThumbnailLargeUri": "Thumbnail Large Uri",
+    "PropertyThumbnailSmallPath": "Thumbnail Small Path",
+    "PropertyThumbnailSmallUri": "Thumbnail Small Uri",
+    "PropertyUserWebUrl": "User Web Url",
+    "PropertyWriter": "Писац",
+    "PropertyYear": "Година",
+    "PropertyContributor": "Сарадник",
+    "PropertyLastAuthor": "Last Author",
+    "PropertyRevisionNumber": "Број ревизије",
+    "PropertyVersion": "Version",
+    "PropertyDateCreated": "Датум прављења",
+    "PropertyTotalEditingTime": "Укупно време уређивања",
+    "PropertyTemplate": "Образац",
+    "PropertyWordCount": "Број речи",
+    "PropertyCharacterCount": "Број карактера",
+    "PropertyLineCount": "Број редова",
+    "PropertyParagraphCount": "Број параграфа",
+    "PropertyPageCount": "Број страница",
+    "PropertySlideCount": "Број слајдова",
+    "PropertyFrameRate": "FPS",
+    "PropertyEncodingBitrate": "Битрејт",
+    "PropertyPreviewAudioEncodingBitrate": "Audio Encoding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "Compression": "Компримовање",
+    "PropertyFrameWidth": "Дужина кадра",
+    "PropertyFrameHeight": "Висина кадра",
+    "PropertyOrientation": "Оријентација",
+    "PropertySectionCore": "Језгро",
+    "PropertySectionImage": "Слика",
+    "PropertySectionPhoto": "Фотографија",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Мултимедија",
+    "PropertySectionAudio": "Аудио",
+    "PropertySectionMusic": "Музика",
+    "PropertySectionVideo": "Видео",
+    "Document": "Документ",
+    "Address": "Адреса",
+    "SelectionOptions": "Selection options",
+    "NavToolbarSelectionOptions": {
+        "Label": "Одабери"
+    },
+    "RecycleBinItemAutomation": "Ставка у корпи за отпатке",
+    "ShortcutItemAutomation": "Пречица",
+    "Drives": "Дискови",
+    "PinToSidebarByDraggingCaptionText": "Премести овде",
+    "EjectNotificationHeader": "Безбедно уклањање уређаја",
+    "EjectNotificationBody": "Сада можете уклонити уређај из рачунара.",
+    "EjectNotificationErrorDialogHeader": "Проблем приликом избацивања уређаја",
+    "EjectNotificationErrorDialogBody": "Овај уређај је тренутно у употреби. Затворите било које програме који можда користе уређај, потом покушајте поново.",
+    "Eject": "Eject",
+    "DuplicateTab": "Duplicate tab",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Премести картицу у нови прозор"
+    },
+    "NewTab": "New tab",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Нека од својстава можда садрже личне податке."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Очисти сва својства"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Проверите статус радњи овде",
+        "Title": "Status center"
+    },
+    "SearchPagePathBoxOverrideText": "Резултати претраге \"{0}\" у фасцикли {1}",
+    "Details": "Details",
+    "No": "Не",
+    "ShowProtectedSystemFiles": "Прикажи заштићене системске датотеке",
+    "SyncFolderPreferencesAcrossDirectories": "Sync layout and sorting preferences across directories",
+    "SettingsContextMenu": {
+        "Text": "Подеси мени за десни клик"
+    },
+    "OriginalPath": "Original path",
+    "Add": "Add",
+    "Edit": "Edit",
+    "Remove": "Remove",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Отварај табове на другој страни прозора",
+    "ShowOpenInNewPane": "Прикажи опцију за отварање фасцикли у новој траци",
+    "ShowCopyPath": "Прикажи опцију за копирање путање",
+    "ShowCreateFolderWithSelection": "Прикажи опцију за прављење фасцикле са изабраним датотекама",
+    "ShowCreateShortcut": "Прикажи опцију за прављење пречице",
+    "NavigationToolbarNewPane": {
+        "Label": "New pane"
+    },
+    "OpenInNewPane": "Отвори у новој траци",
+    "FilesAndFolders": "Датотеке и фасцикле",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Details (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Tiles (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "Date deleted",
+    "SidebarCloudDrives": "Cloud Drives",
+    "Confirm": "Потврди",
+    "DesiredName": "Жељено име",
+    "TogglePreviewPane": "Toggle the preview pane",
+    "ToggleDetailsPane": "Toggle the details pane",
+    "ToggleDetailsPaneDescription": "Toggle the details pane to view basic file properties",
+    "ToggleInfoPane": "Toggle the info pane",
+    "ToggleInfoPaneDescription": "Toggle the info pane to view the detail/preview panes",
+    "DetailsPanePreviewNotAvaliableText": "Брзи преглед датотеке није доступан",
+    "PropertyItemName": "Име ставке",
+    "UnpinFolderFromSidebar": "Откачи са леве траке",
+    "Network": "Мрежа",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Детаљи о датотеци"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Брзи преглед датотеке"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Изабран је пано за брзо прегледање датотека"
+        }
+    },
+    "Feedback": "Повратне информације",
+    "CloudDriveSyncStatus_Online": "Доступно на мрежи",
+    "Documentation": "Документација",
+    "CloudDriveSyncStatus_Offline": "Доступно офлајн",
+    "CloudDriveSyncStatus_PartialOffline": "Делом доступно офлајн",
+    "CloudDriveSyncStatus_Sync": "Синхронизација у току",
+    "CloudDriveSyncStatus_Excluded": "Изузето од синхронизовања",
+    "ItemSizeNotCalculated": "Није израчунато",
+    "CloudDriveSyncStatus_Unknown": "Непознато",
+    "RenameFileDialog": {
+        "Text": "Уколико промениш екстензију датотека, можда ће постати неупотребљива? Да ли си сигуран да желиш да је промениш?"
+    },
+    "DriveTypeCDRom": "CD ROM Drive",
+    "DriveTypeCloudDrive": "Cloud Drive",
+    "DriveTypeFixed": "Fixed Disk Drive",
+    "DriveTypeFloppyDisk": "Floppy Disk Drive",
+    "DriveTypeNetwork": "Network Drive",
+    "DriveTypeNoRootDirectory": "Unmounted Drive",
+    "DriveTypeRam": "RAM Disk Drive",
+    "DriveTypeRemovable": "Removable Storage Device",
+    "DriveTypeUnknown": "Непознато",
+    "DriveTypeVirtualDrive": "Virtual Drive",
+    "DateCreated": "Датум креирања",
+    "MoreOptions": "Остале опције...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Map network drive"
+    },
+    "Pinned": "Закачено",
+    "SidebarLibraries": "Библиотеке",
+    "NoItemSelected": "Нема изабраних датотека",
+    "PropertyItemTarget": "Target",
+    "Arguments": "Arguments",
+    "Default": "Подразумевана тема",
+    "PropertyItemCount": "Број датотека",
+    "ElevateConfirmDialog": {
+        "Title": "Потребна је дозвола администратора",
+        "Content": "Желиш ли да наставиш као администратор?"
+    },
+    "ColumnsShortcutTooltip": "Колоне (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "Закачи на Старт мени"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Откачи са Старт менија"
+    },
+    "Library": "Библиотека",
+    "LibraryLocations": {
+        "Text": "Путање:"
+    },
+    "SetAsDefaultSavePath": "Постави као подразумевану путању чувања",
+    "LibraryNoLocations": {
+        "Text": "Без путање"
+    },
+    "ErrorInputEmpty": "Поље не сме бити празно!",
+    "ErrorNameInputRestrictedCharacters": "Назив не сме садржати следеће карактере: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Овај назив није дозвољен!",
+    "CreateLibraryErrorAlreadyExists": "Библиотека са овим називом већ постоји!",
+    "OpenStorageSense": "Отвори подешавања Storage Sense",
+    "Copy": "Копирај",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Премести",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Continue",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Трајно обриши"
+    },
+    "PropertyISO": "ISO speed",
+    "ReplaceExisting": "Replace existing",
+    "GenerateNewName": "Generate new name",
+    "CreateFolderWithSelection": "Create folder with selection",
+    "ItemType": "Type:",
+    "ToolTipDescriptionDate": "Date modified:",
+    "OpenWith": "Open with",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "File icon"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Original path column"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Item type column"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Date modified column"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Date deleted column"
+    },
+    "Sort": "Sort",
+    "DateModifiedLowerCase": "Date modified",
+    "OriginalFolder": "Original folder",
+    "Descending": "Descending",
+    "ItemSizeText_Huge": "Huge",
+    "ItemSizeText_VeryLarge": "Very large",
+    "ItemSizeText_Large": "Large",
+    "ItemSizeText_Medium": "Medium",
+    "ItemSizeText_Small": "Small",
+    "ItemSizeText_Tiny": "Tiny",
+    "Future": "Future",
+    "Today": "Данас",
+    "Yesterday": "Јуче",
+    "EarlierThisWeek": "Раније ове недеље",
+    "LastWeek": "Прошле недеље",
+    "EarlierThisMonth": "Раније овог месеца",
+    "LastMonth": "Прошлог месеца",
+    "EarlierThisYear": "Раније ове године",
+    "LastYear": "Прошле године",
+    "YearN": "Године {0}.",
+    "GroupItemsCount_Singular": "{0} датотека",
+    "GroupItemsCount_Plural": "{0} датотеке",
+    "ReopenClosedTab": "Отвори малопре затворени таб",
+    "Rename": "Преименовање",
+    "Privacy": "Приватност",
+    "TheRecycleBin": "Корпа за отпатке",
+    "Canceling": "Радња се поништава",
+    "Clear": "Очисти",
+    "Widgets": "Виџети",
+    "SyncStatus": "Статус синхронизацаије",
+    "Security": "Безбедност",
+    "AdvancedPermissions": "Напредне дозволе",
+    "Allow": "Дозволи",
+    "Deny": "Одбиј",
+    "SecurityFullControlLabel": {
+        "Text": "Пун приступ"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Прикажи садржај фасцикле"
+    },
+    "Modify": "Измени",
+    "SecurityPermissionsHeaderText": "Дозволе за датотеку {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Приступи и отвори"
+    },
+    "SecurityReadLabel": {
+        "Text": "Приступи"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Група или корисничка имена"
+    },
+    "Write": "Измени",
+    "SecurityUnknownAccount": "Непознат налог",
+    "SecurityCannotReadProperties": {
+        "Text": "Немаш дозволу да видиш податке о безбедности ове датотеке. Кликни на \"Напредне дозволе\" да би наставио."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Власник:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Власник непознат"
+    },
+    "ExtractArchive": "Отпакуј архиву",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Отвори фасциклу чим се архива отпакује"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Отпакуј у фасциклу {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Направи нову библиотеку"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Врати подразумеване библиотеке"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Желиш ли да вратиш подразумеване библиотеке? Твоје датотеке ће бити нетакнуте.",
+    "DialogRestoreLibrariesTitleText": "Врати подразумеване библиотеке",
+    "PropertyFileOwner": "Власник",
+    "SecuritySpecialLabel": {
+        "Text": "Посебни"
+    },
+    "Access": "Приступ",
+    "SecurityAdvancedAppliesTo": "Односи се на",
+    "Principal": "Главни",
+    "SecurityAdvancedFlagsFilesLabel": "датотеке",
+    "SecurityAdvancedFlagsFolderLabel": "ова фасцикла",
+    "SecurityAdvancedFlagsSubfoldersLabel": "подфасцикле",
+    "Inherited": "Наслеђено",
+    "Permissions": "Permissions",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "You do not have permissions to view the security properties of this object. You can try to take ownership of this object."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "This folder and files"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "This folder, subfolders and files"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Only files"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Only subfolders"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Only subfolders and files"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Only this folder"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "This folder and subfolders"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Append data"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Change permission"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Create folders"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Create files"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Delete subdirectories and files"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Execute files"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Read attributes"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Read data"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Read extended attributes"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Read permissions"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Take ownership"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Visit folder"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Write attributes"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Write data"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Write extended attributes"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Convert inherited permissions into explicit permissions"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Enable inheritance"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Remove all inherited permissions"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Reset child permissions"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Replace all child object permissions entries with inheritable permission entries from this object"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Close pane"
+    },
+    "EnterCompactOverlay": "Enter compact overlay",
+    "ExitCompactOverlay": "Exit compact overlay",
+    "PropertyFileDescription": "File description",
+    "PropertyCompany": "Company",
+    "PropertyLanguage": "Језик",
+    "PropertyTrademarks": "Trademarks",
+    "PropertyFileVersion": "File version",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Load full preview",
+        "ToolTipService": {
+            "ToolTip": "Downloads the item from the cloud and loads the preview"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Uncompressed size",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Hide {0} section"
+    },
+    "AddFile": "Add file",
+    "ConsentDialogTitle": "Updates available",
+    "ConsentDialogContent": "Updates are ready to install",
+    "Close": "Close",
+    "ConsentDialogPrimaryButtonText": "Update",
+    "Home": "Home",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Архива је успешно отпакована.",
+    "ExtractingArchiveText": "У току је отпакивање архиве...",
+    "ExtractingCompleteText": "Отпакивање завршено!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Отвори вишу фасциклу"
+    },
+    "Unknown": "Непознато",
+    "EditTags": "Измени ознаке",
+    "PropertyPartOfSet": "Део",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Отвори диск",
+        "Text": "Убаци диск у {0}",
+        "Title": "Убаци диск"
+    },
+    "OK": "У реду",
+    "AskCredentialDialog": {
+        "Title": "Лозинка је потребна"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Непознат"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Унеси податке:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Корисничко име"
+    },
+    "NoSearchResultsFound": "No items found",
+    "OpenLogLocation": "Open log location",
+    "LinkToFolderCaptionText": "Create link in {0}",
+    "Columns": "Columns",
+    "Tiles": "Tiles",
+    "OpenFoldersInNewTab": "Open folders in new tab",
+    "StatusCenter": "Status center",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Date created column"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Item size column"
+    },
+    "ExperimentalFeatureFlags": "Experimental feature flags",
+    "HelpAndSupport": "Help and support",
+    "SubmitFeatureRequest": "Submit feature request",
+    "SubmitBugReport": "Submit bug report",
+    "SettingsSetAsDefaultFileManager": "Set Files as the default file manager",
+    "SettingsSetAsOpenDialog": "Use Files as Open File Dialog",
+    "Tag": "Tag",
+    "SettingsOpenItemsWithOneClick": "Open items with a single click",
+    "FolderPath": "Folder path",
+    "ExportSettings": "Export settings",
+    "ImportSettings": "Import settings",
+    "SettingsImportErrorDescription": "Couldn't import settings. The settings file is corrupted.",
+    "SettingsImportErrorTitle": "Error importing settings",
+    "EmptyRecycleBin": "Empty Recycle Bin",
+    "Sidebar": "Sidebar",
+    "ChooseCustomIcon": "Choose a custom folder icon",
+    "Customization": "Customization",
+    "RestoreDefault": "Restore default",
+    "OpenTabInExistingInstance": "Отвори таб у већ отвореној инстанци када се апликација отвара из другог извора",
+    "StartupSettings": "Startup settings",
+    "Compatibility": "Compatibility",
+    "None": "None",
+    "CompatibilityOnWindowsLogin": "On Windows login",
+    "CompatibilityOnProgramStart": "On this program start",
+    "System": "Формат по систему",
+    "CompatibilitySystemEnhanced": "System (Enhanced)",
+    "CompatibilityReducedColorModeColor16bit": "16-bit (65536) color",
+    "CompatibilityReducedColorModeColor8bit": "8-bit (256) color",
+    "CompatibilityDisableFullscreenOptimizations": "Disable full-screen optimizations",
+    "CompatibilityRunIn640x480Resolution": "Run in 640 x 480 screen resolution",
+    "CompatibilityOverrideHighDPIBehavior": "Override high DPI scaling behavior",
+    "CompatibilityReducedColorMode": "Reduced color mode",
+    "CompatibilityRegisterThisProgramForRestart": "Register this program for restart",
+    "RunAsAdministrator": "Покрени као администратор",
+    "CompatibilityRunTroubleshooter": "Run compatibility troubleshooter",
+    "CompatibilityUseDPISettings": "Use DPI settings of the main monitor",
+    "CompatibilityDoNotAdjustDPI": "Do not adjust DPI",
+    "CompatibilityDoNotOverrideDPI": "Do not override DPI",
+    "CompatibilityMode": "Compatibility mode",
+    "CompatibilityNoReducedColor": "No reduced color",
+    "ThirdPartyLicenses": "Third party licenses",
+    "SettingsSetAsDefaultFileManagerDescription": "This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Create Library",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Enter Library name",
+    "CalculateFolderSizes": "Рачунај величине фасцикли",
+    "RecentFiles": "Recent files",
+    "SettingsOpenInLogin": "Open Files on Windows startup",
+    "Attributes": "Attributes",
+    "Hidden": "Сакривено",
+    "MoreDetails": "More details",
+    "ReadOnly": "Read only",
+    "CleanupDrive": "Cleanup your drive contents",
+    "Type": "Type",
+    "Bytes": "Bytes",
+    "Extract": "Отпакуј",
+    "ExtractFiles": "Extract files",
+    "ExtractHere": "Extract here",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Extract to {0}",
+    "RunScript": "Run script",
+    "RunWithPowerShell": "Run with PowerShell",
+    "ShowFolderSizesWarning": "Рачунање величина фасцикли је захтевно и можда ће повисити употребу процесора.",
+    "RotateLeft": "Rotate left",
+    "RotateRight": "Rotate right",
+    "Install": "Install",
+    "CloseTabsToTheLeft": "Close tabs to the left",
+    "CloseTabsToTheRight": "Close tabs to the right",
+    "CloseOtherTabs": "Close other tabs",
+    "Music": "Музика",
+    "Pictures": "Pictures",
+    "UpdateFiles": "Update Files",
+    "FileTags": "Ознаке",
+    "Universal": "Универзални формат",
+    "DateFormatSample": "ex: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Прикажи сличице",
+    "Retry": "Retry",
+    "ErrorDialogUnsupportedMoveOperation": "Move operation is not supported in this context. Do you want to copy the items instead?",
+    "HiddenItems": "Скривене ставке",
+    "Custom": "Custom",
+    "SetAsSlideshow": "Set as desktop slideshow",
+    "SizeAllColumnsToFit": "Size all columns to fit",
+    "Adaptive": "Adaptive layout",
+    "AdaptiveShortcutTooltip": "Adaptive layout (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Show alternate data streams",
+    "Behaviors": "Понашање",
+    "ReviewFiles": "Review Files",
+    "ReviewFilesContent": "Would you like to review Files?",
+    "SetAsBackgroundFlyout": "Set as background",
+    "SetAsBackground": "Set as desktop background",
+    "SetAsDefault": "Set as default",
+    "DateColumn": "Date column",
+    "DateCreatedColumn": "Date created column",
+    "SizeColumn": "Size column",
+    "TagColumn": "Tag column",
+    "TypeColumn": "Type column",
+    "Lockscreen": "Lockscreen",
+    "OpenFolderWithOneClickColumnsLayout": "Open folders with a single click in the Columns Layout",
+    "OpeningItems": "При отварању датотека",
+    "Compress": "Compress",
+    "SelectFilesAndFoldersOnHover": "Селектуј датотеке и фасцикле преласком миша",
+    "ConfirmRestoreBinDialogContent": "Are you sure you want to restore all items in the recycle bin?",
+    "ConfirmRestoreBinDialogTitle": "Restore all items",
+    "ConfirmRestoreSelectionBinDialogContent": "Do you want to restore the {0} selected item(s)?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Restore selection",
+    "RestoreAllItems": "Restore All Items",
+    "Restore": "Restore",
+    "ShortcutCannotBeOpened": "Shortcut cannot be opened",
+    "DeleteShortcutDescription": "The target destination cannot be found {0}. Do you want to delete this shortcut?",
+    "AccessDeniedToFolder": "You don't have permission to access this folder.",
+    "ArchivePassword": "Archive password",
+    "ExtractToPath": "Path",
+    "SortingAndGrouping": "Sorting and grouping",
+    "CreateArchive": "Create archive",
+    "Create": "Креирај",
+    "CreateNamedArchive": "Create {0}",
+    "EnterName": "Enter a name",
+    "CompressionLevel": "Compression level",
+    "CompressionLevelUltra": "Ultra",
+    "CompressionLevelHigh": "High",
+    "CompressionLevelNormal": "Normal",
+    "CompressionLevelLow": "Low",
+    "CompressionLevelFast": "Fast",
+    "CompressionLevelNone": "None",
+    "SplittingSize": "Splitting size",
+    "Do not split": "Do not split",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Encryption",
+    "Password": "Password",
+    "Format": "Формат",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Sync status column"
+    },
+    "GroupBy": "Групиши по",
+    "SortBy": "Сортирај по",
+    "GroupInDescendingOrder": "Group in descending order",
+    "SortInDescendingOrder": "Sort in descending order",
+    "NewShortcutDialogTitle": "Create a new shortcut",
+    "NewShortcutDialogDescription": "Create shortcuts to local or network programs, files, folders, computers or Internet addresses.",
+    "NewShortcutDialogPrompt": "Enter the location of the item:",
+    "AddDialogListShortcutSubHeader": "Creates a shortcut",
+    "RecentFilesDisabledOnWindowsWarning": "Recently used files is currently disabled in Windows File Explorer.",
+    "EditSettingsFile": "Edit settings file",
+    "WhatsNew": "What's new",
+    "CannotCreateShortcutDialogTitle": "Creating a shortcut in this location requires administrator privileges",
+    "CannotCreateShortcutDialogMessage": "Would you like to create the shortcut on the desktop instead?",
+    "ErrorDialogNameNotAllowed": "The specified item name is invalid",
+    "Settings": "Подешавања",
+    "DoubleClickBlankSpaceToGoUp": "Дуплим кликом на празан простор врати се корак уназад",
+    "ViewMore": "View more",
+    "ShowEditTagsMenu": "Прикажи опције за измену ознака",
+    "ShowCompressionOptions": "Прикажи опције за архивирање",
+    "ShowSendToMenu": "Прикажи мени \"Пошаљи у\"",
+    "ShowOpenInNewTab": "Прикажи опцију за отварање фасцикли у новом табу",
+    "ShowOpenInNewWindow": "Прикажи опцију за отварање фасцикли у новом прозору",
+    "QuickAccess": "Quick access",
+    "NetworkAuthenticationDialogMessage": "Enter your credentials to connect to: {0}",
+    "NetworkAuthenticationDialogTitle": "Enter network credentials",
+    "NetworkAuthenticationSaveCheckbox": "Remember my credentials",
+    "NetworkFolderErrorDialogTitle": "Network folder error",
+    "AppVersion": "App version",
+    "WindowsVersion": "Windows version",
+    "Always": "Увек",
+    "PermanentDeletionOnly": "Permanent deletion only",
+    "Never": "Never",
+    "TagColor": "Tag color",
+    "NewTag": "Нова ознака",
+    "CreateNewTag": "Креирај нову ознаку",
+    "Loading": "Loading...",
+    "ContextMenuOptions": "Подешавања контекстуалног менија",
+    "ShowFileExtensions": "Show file extensions",
+    "ShowHiddenItems": "Show hidden items",
+    "FormatDriveText": "Format...",
+    "Help": "Help",
+    "FullScreen": "Toggle full screen",
+    "ConfirmDeleteTag": "Are you sure you want to delete this tag?",
+    "PlayAll": "Play all",
+    "Height": "Height",
+    "Width": "Width",
+    "ApplyToAllConflictingItems": "Apply this action to all conflicting items",
+    "OpenTerminal": "Open in Windows Terminal",
+    "OpenTerminalAsAdmin": "Open in Windows Terminal as administrator",
+    "Save": "Сачувај",
+    "MultiSelect": "Multiselect",
+    "ReorderSidebarItemsDialogText": "Reorder sidebar items",
+    "Hashes": "Hashes",
+    "CalculationError": "An error occurred during the calculation",
+    "CalculationErrorFileIsOpen": "Failed to calculate the hash, please close the file and try again.",
+    "CalculationOnlineFileHashError": "Hashes aren't available for online files",
+    "Algorithm": "Algorithm",
+    "HashValue": "Hash value",
+    "SelectHashesToShow": "Select hashes to show",
+    "Calculating": "Calculating...",
+    "JumpListPinnedGroupHeader": "Pinned items",
+    "DecreaseSize": "Decrease size",
+    "IncreaseSize": "Increase size",
+    "ToggleSortDirection": "Toggle sort direction",
+    "InvalidTagNameWarning": "Invalid name",
+    "TagNameRules": "Name must not be empty or start or end with a period.",
+    "Videos": "Videos",
+    "LaunchPreviewPopup": "Launch preview popup",
+    "ToggleCompactOverlay": "Toggle compact overlay",
+    "OpenHelpDescription": "Open online help page in browser",
+    "ToggleFullScreenDescription": "Toggle full screen",
+    "EnterCompactOverlayDescription": "Enter compact overlay",
+    "ExitCompactOverlayDescription": "Exit compact overlay",
+    "ToggleCompactOverlayDescription": "Toggle compact overlay",
+    "SearchDescription": "Go to search box",
+    "ToggleShowHiddenItemsDescription": "Toggle whether to show hidden items",
+    "ToggleShowFileExtensionsDescription": "Toggle whether to show file extensions",
+    "TogglePreviewPaneDescription": "Toggle the preview pane to view file previews",
+    "ToggleSidebarDescription": "Toggle whether to show sidebar",
+    "CopyItemDescription": "Copy item(s) to clipboard",
+    "CopyPathDescription": "Copy path of selected items to the clipboard",
+    "CopyPathWithQuotesDescription": "Copy path of selected items with quotes to the clipboard",
+    "CutItemDescription": "Cut item(s) to clipboard",
+    "PasteItemDescription": "Paste item(s) from clipboard to current folder",
+    "PasteItemToSelectionDescription": "Paste item(s) from clipboard to selected folder",
+    "DeleteItemDescription": "Обриши датотеку(е)",
+    "CreateFolderDescription": "Create new folder",
+    "CreateShortcutDescription": "Create new shortcut(s) to selected item(s)",
+    "CreateShortcutFromDialogDescription": "Create new shortcut to any item",
+    "EmptyRecycleBinDescription": "Испразни корпу за отпатке",
+    "FormatDriveDescription": "Open \"Format Drive\" menu for selected item",
+    "RestoreRecycleBinDescription": "Restore selected item(s) from recycle bin",
+    "RestoreAllRecycleBinDescription": "Restore all items from recycle bin",
+    "OpenItemDescription": "Open item(s)",
+    "OpenItemWithApplicationPickerDescription": "Open item(s) with selected application",
+    "OpenParentFolderDescription": "Open parent folder of searched item",
+    "RefreshItemsDescription": "Refresh page contents",
+    "RenameDescription": "Rename selected item",
+    "SelectAllDescription": "Select all items",
+    "InvertSelectionDescription": "Invert item selection",
+    "ClearSelectionDescription": "Clear item selection",
+    "ToggleSelectDescription": "Toggle item selection",
+    "ShareItemDescription": "Share selected file(s) with others",
+    "PinToStartDescription": "Pin item(s) to the Start Menu",
+    "UnpinFromStartDescription": "Unpin item(s) from the Start Menu",
+    "PinFolderToSidebarDescription": "Pin folder(s) to Sidebar",
+    "UnpinFolderFromSidebarDescription": "Unpin folder(s) from Sidebar",
+    "SetAsWallpaperBackgroundDescription": "Set selected picture as desktop background",
+    "SetAsSlideshowBackgroundDescription": "Set selected pictures as desktop slideshow",
+    "SetAsLockscreenBackgroundDescription": "Set selected picture as lockscreen background",
+    "SetAsAppBackgroundDescription": "Set selected picture as the app background",
+    "InstallFontDescription": "Install selected font(s)",
+    "InstallInfDriverDescription": "Install driver(s) using selected inf file(s)",
+    "InstallCertificateDescription": "Install selected certificate(s)",
+    "RunAsAdminDescription": "Run selected application as administrator",
+    "RunAsAnotherUserDescription": "Run selected application as another user",
+    "RunWithPowershellDescription": "Run selected PowerShell script",
+    "LaunchPreviewPopupDescription": "Launch preview in popup window",
+    "CompressIntoArchiveDescription": "Create archive with selected item(s)",
+    "CompressIntoSevenZipDescription": "Create 7z archive instantly with selected item(s)",
+    "CompressIntoZipDescription": "Create zip archive instantly with selected item(s)",
+    "DecompressArchiveDescription": "Extract items from selected archive(s) to any folder",
+    "DecompressArchiveHereDescription": "Extract items from selected archive(s) to current folder",
+    "DecompressArchiveToChildFolderDescription": "Extract items from selected archive(s) to new folder",
+    "RotateLeftDescription": "Rotate selected image(s) to the left",
+    "RotateRightDescription": "Rotate selected image(s) to the right",
+    "OpenSettingsDescription": "Open settings page",
+    "OpenTerminalDescription": "Open folder in terminal",
+    "OpenTerminalAsAdminDescription": "Open folder in terminal as administrator",
+    "LayoutDecreaseSizeDescription": "Decrease item size in the current view",
+    "LayoutIncreaseSizeDescription": "Increase item size in the current view",
+    "LayoutDetailsDescription": "Switch to details view",
+    "LayoutTilesDescription": "Switch to tiles view",
+    "LayoutListDescription": "Switch to list view",
+    "List": "List",
+    "Grid": "Grid",
+    "LayoutGridDescription": "Switch to grid view",
+    "LayoutColumnsDescription": "Switch to columns view",
+    "LayoutAdaptiveDescription": "Switch views adaptively",
+    "SortByNameDescription": "Sort items by name",
+    "SortByDateModifiedDescription": "Sort items by date modified",
+    "SortByDateCreatedDescription": "Sort items by date created",
+    "SortBySizeDescription": "Sort items by size",
+    "SortByTypeDescription": "Sort items by type",
+    "SortBySyncStatusDescription": "Sort items by sync status",
+    "SortByTagDescription": "Sort items by tags",
+    "SortByOriginalFolderDescription": "Sort items by original folder",
+    "SortByDateDeletedDescription": "Sort items by date deleted",
+    "SortAscendingDescription": "Sort items in ascending order",
+    "SortDescendingDescription": "Sort items in descending order",
+    "ToggleSortDirectionDescription": "Toggle item sort direction",
+    "GroupByNoneDescription": "List items without grouping",
+    "GroupByNameDescription": "Group items by name",
+    "GroupByDateModifiedDescription": "Group items by date modified",
+    "GroupByDateCreatedDescription": "Group items by date created",
+    "GroupBySizeDescription": "Group items by size",
+    "GroupByTypeDescription": "Group items by type",
+    "GroupBySyncStatusDescription": "Group items by sync status",
+    "GroupByTagDescription": "Group items by tags",
+    "GroupByOriginalFolderDescription": "Group items by original folder",
+    "GroupByDateDeletedDescription": "Group items by date deleted",
+    "GroupByFolderPathDescription": "Group items by folder path",
+    "GroupAscendingDescription": "Sort groups in ascending order",
+    "GroupDescendingDescription": "Sort groups in descending order",
+    "ToggleGroupDirectionDescription": "Toggle group sort direction",
+    "NewTabDescription": "Open new tab",
+    "NavigateBackDescription": "Navigate backward in navigation history",
+    "NavigateForwardDescription": "Navigate forward in navigation history",
+    "NavigateUpDescription": "Navigate up one directory",
+    "DuplicateCurrentTabDescription": "Duplicate current tab",
+    "DuplicateSelectedTabDescription": "Duplicate selected tab",
+    "CloseTabsToTheLeftCurrentDescription": "Close tabs to the left of current tab",
+    "CloseTabsToTheLeftSelectedDescription": "Close tabs to the left of selected tab",
+    "CloseTabsToTheRightCurrentDescription": "Close tabs to the right of current tab",
+    "CloseTabsToTheRightSelectedDescription": "Close tabs to the right of selected tab",
+    "CloseOtherTabsCurrentDescription": "Close tabs other than current tab",
+    "CloseOtherTabsSelectedDescription": "Close tabs other than selected tab",
+    "ReopenClosedTabDescription": "Reopen last closed tab",
+    "PreviousTabDescription": "Move to the previous tab",
+    "NextTabDescription": "Move to the next tab",
+    "CloseSelectedTabDescription": "Close current tab",
+    "OpenNewPaneDescription": "Open new pane",
+    "ClosePaneDescription": "Close right pane",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Toggle the sidebar",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Space",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Backspace",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Left",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Right",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Down",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Претходна фасцикла",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Home",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PageDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Sleep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Очисти",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Print",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Help",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mouse4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mouse5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Mail",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "GoHome",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "GoBack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "GoForward",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "BrowserRefresh",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "BrowserStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Претражи",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Favorites",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "PlayPause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PrevTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "NextTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaSelect",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Mute",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "VolDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "VolUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Change",
+    "ToggleSelect": "Toggle selection",
+    "ShowFileExtensionWarning": "Упозори приликом промене екстензије датотеке",
+    "ThisPC": "This PC",
+    "RecycleBin": "Recycle Bin",
+    "Untagged": "Untagged",
+    "PreviousTab": "Moves to the previous tab",
+    "NextTab": "Moves to the next tab",
+    "CloseTab": "Closes current tab",
+    "EditPath": "Edit path",
+    "Redo": "Redo",
+    "Undo": "Undo",
+    "InvalidLocation": "Invalid location",
+    "CopyFileWithoutProperties": "Are you sure you want to copy these files without their properties?",
+    "FilePropertiesCannotBeCopied": "These files have properties that can't be copied to the new location",
+    "FilePropertiesCannotBeMoved": "These files have properties that can't be moved to the new location",
+    "MoveFileWithoutProperties": "Are you sure you want to move these files without their properties?",
+    "ShowCheckboxesWhenSelectingItems": "Прикажи опције за селектовање приликом селектовања ставки",
+    "EditPathDescription": "Focus path bar",
+    "AddItemDescription": "Create new item",
+    "SecurityNoAccessControlEntriesText": "No groups or users have permission to access this object. However, the owner of this object can assign permissions.",
+    "OpenFileLocationDescription": "Open the item's location",
+    "DeletePermanently": "Delete permanently",
+    "DeleteItemPermanentlyDescription": "Delete item(s) permanently",
+    "PlayAllDescription": "Play the selected media files",
+    "UndoDescription": "Undo the last file operation",
+    "RedoDescription": "Redo the last file operation",
+    "Location": "Location:",
+    "GroupByMonthDescription": "Group items by month",
+    "GroupByYearDescription": "Group items by year",
+    "Month": "Month",
+    "Day": "Day",
+    "ToggleGroupByDateUnitDescription": "Toggle unit for grouping by date",
+    "ToggleGroupingUnit": "Toggle grouping unit",
+    "Year": "Година",
+    "GroupByDateUnit": "Group by date unit",
+    "GroupByDateCreatedDayDescription": "Group items by day of date created",
+    "GroupByDateCreatedMonthDescription": "Group items by month of date created",
+    "GroupByDateCreatedYearDescription": "Group items by year of date created",
+    "GroupByDateDeletedDayDescription": "Group items by day of date deleted",
+    "GroupByDateDeletedMonthDescription": "Group items by month of date deleted",
+    "GroupByDateDeletedYearDescription": "Group items by year of date deleted",
+    "GroupByDateModifiedDayDescription": "Group items by day of date modified",
+    "GroupByDateModifiedMonthDescription": "Group items by month of date modified",
+    "GroupByDateModifiedYearDescription": "Group items by year of date modified",
+    "SecurityClickAdvancedPermissions": "Click 'Advanced permissions' to continue.",
+    "SecurityRequireReadPermissions": "You must have Read permissions to view the properties of this item.",
+    "SecuritySuggestToTakeOwnership": "To try taking ownership of the item, which includes permission to view its properties, click Change above.",
+    "SecurityUnableToDisplayPermissions": "Unable to display permissions.",
+    "StashChanges": "Leave my changes on '{0}'",
+    "DiscardChanges": "Discard my changes",
+    "BringChanges": "Bring my changes to '{0}'",
+    "UncommittedChanges": "You have uncommitted changes on this branch. What would you like to do with them?",
+    "SwitchBranch": "Switch branch",
+    "Branches": "Branches",
+    "Switch": "Switch",
+    "NewBranch": "New branch",
+    "InvalidBranchName": "Invalid branch name",
+    "CreateBranch": "Create branch",
+    "CreateNewBranch": "Create branch",
+    "BasedOn": "Based on",
+    "SwitchToNewBranch": "Switch to new branch",
+    "CreateFolderWithSelectionDescription": "Create a folder with the currently selected item(s)",
+    "OpenProperties": "Open properties",
+    "OpenPropertiesDescription": "Open properties window",
+    "Locals": "Locals",
+    "Remotes": "Remotes",
+    "ImproveTranslation": "Translate on Crowdin",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Run git fetch",
+    "GitPullDescription": "Run git pull",
+    "Preview": "Preview",
+    "GitStatus": "Git status",
+    "GitError": "Git error",
+    "PullTimeoutError": "git pull failed due to a timeout error",
+    "MultipleValues": {
+        "text": "(multiple values)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Author",
+    "DateCommitted": "Date committed",
+    "CommitMessage": "Commit message",
+    "CommitSha": "Commit SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Backdrop Material",
+    "Solid": "Solid",
+    "ManageBranches": "Manage branches",
+    "Push": "Push",
+    "GitPushDescription": "Run git push",
+    "GitSync": "Sync",
+    "GitSyncDescription": "Run git pull and then git push",
+    "GitSyncStatusExtendedInfo": "{0} outgoing / {1} incoming commits",
+    "ConnectGitHub": "Connect to GitHub",
+    "ConnectGitHubDescription": "Enter the following code at the link below to start working with GitHub repositories.",
+    "CannotReachGitHubError": "Files cannot access GitHub right now.",
+    "OpenInVSCode": "Open folder in VS Code",
+    "OpenInVSCodeDescription": "Open the current directory in Visual Studio Code",
+    "OpenRepoInVSCode": "Open repo in VS Code",
+    "OpenRepoInVSCodeDescription": "Open the root of the Git repo in Visual Studio Code",
+    "CopyCode": "Copy code",
+    "Added": "Added",
+    "Deleted": "Deleted",
+    "Modified": "Modified",
+    "Untracked": "Untracked",
+    "UnableToDisplayOwner": "Unable to display current owner.",
+    "AuthorizationSucceded": "Great! You are now authorized.",
+    "InitRepo": "Initialize repo",
+    "InitRepoDescription": "Initialize a Git repository",
+    "GitOriginRepositoryName": "Remote Repository Name",
+    "GitCurrentBranch": "Current Branch",
+    "PathColumn": "Path column",
+    "SortByPathDescription": "Sort items by path",
+    "OpenDirectoryInNewPaneDescription": "Open directory in new pane",
+    "OpenDirectoryInNewTabDescription": "Open directory in new tab",
+    "OpenInNewWindowDescription": "Open directory in new window",
+    "OpenAllTaggedItems": "Open all",
+    "OpenAllTaggedItemsDescription": "Open all tagged items",
+    "DriveWithLetter": {
+        "text": "Drive ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Invalid command",
+    "InvalidCommandContent": "'{0}' is not recognized as a command.",
+    "CommandNotExecutable": "Command not executable",
+    "CommandNotExecutableContent": "The '{0}' command is not ready to be executed.",
+    "CommandPalette": "Command palette",
+    "OpenCommandPaletteDescription": "Open command palette",
+    "ShortcutItemWorkingDir": "Start in:",
+    "TurnOnBitLocker": "Turn on BitLocker",
+    "ManageBitLocker": "Управљај BitLocker подешавањима",
+    "CopyFailureFileToLarge": "The following items are too large to be copied to this drive",
+    "FormatDrive": "Format drive",
+    "DontShowAgain": "Don't show again",
+    "FilesRunningAsAdmin": "Files is running as administrator",
+    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
+    "SettingsLeaveAppRunning": "Leave app running in the background when the window is closed",
+    "Blue": {
+        "text": "Blue",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Blue Gray",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Brick Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Camouflage",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Cool Blue Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Gray",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Gray Dark",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Green",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Mint Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Orange Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Overcast",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rose Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Seafoam",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Storm",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Violet Red Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Yellow Gold",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Clear completed",
+    "NameWithColon": "Name:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} of {1} processed",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "ставке",
+    "CannotInitializeGitRepo": "Files can't initialize this directory as a Git repository.",
+    "ContributingArtist": "Contributing Artist",
+    "AddPage": "Add page",
+    "ProcessingItems": "Processing items...",
+    "SpeedWithColon": "Speed:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Canceled compressing {0} items to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Canceled compressing {0} items from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Compressed {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Canceled copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Canceled copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Copied {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Canceled extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Canceled extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Extracted \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Extracted \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Error extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Failed to extract \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Deleted {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Failed to delete {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Moved {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Moved {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Failed to move {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Canceled emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Emptied Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Error emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Failed to empty Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Preparing the operation...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} item(s) processed",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Unblock downloaded file",
+    "NoFileOperations": "No ongoing file operations",
+    "OpenOnStartupDisabled": "The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.",
+    "FailedToRestore": "Failed to restore items from Recycle Bin",
+    "FailedToSetBackground": "Failed to set the background wallpaper",
+    "GitDeleteBranch": "Delete Git branch",
+    "GitDeleteBranchSubtitle": "Are you sure you want to permanently delete \"{0}\" branch?",
+    "ConnectedToGitHub": "Connected to GitHub",
+    "Logout": "Logout",
+    "ConnectToGitHub": "Connect to GitHub",
+    "Login": "Login",
+    "ErrorApplyingTagContent": "Tags are currently only compatible on drives formatted as NTFS.",
+    "ErrorApplyingTagTitle": "There was an error applying this tag",
+    "DecompressArchiveHereSmartDescription": "Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive",
+    "ExtractHereSmart": "Extract here (Smart)",
+    "SortFilesAndFoldersTogether": "Sort files and folders together",
+    "SortFilesAndFoldersTogetherDescription": "Sort files and folders together",
+    "SortFilesFirst": "Sort files first",
+    "SortFilesFirstDescription": "Sort files first then folders",
+    "SortFoldersFirst": "Sort folders first",
+    "SortFoldersFirstDescription": "Sort folders first then files",
+    "SortPriority": "Sort priority",
+    "FailedToRotateImage": "Failed to rotate the image",
+    "Restart": "Restart",
+    "Quit": "Quit",
+    "FaildToShareItems": "Failed to share items",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll to previous folder when navigating up",
+    "NewWindowDescription": "Open new window",
+    "ChangeAlbumCover": "Change album cover",
+    "ItemRenameFailed": "Failed to rename item",
+    "HigherPermissionsRequired": "Editing \"{0}\" requires additional permissions",
+    "EditPermissions": "Edit permissions",
+    "BackgroundRunningNotificationBody": "Files is still running in the background to improve startup performance.",
+    "BackgroundRunningNotificationHeader": "Where did Files go?",
+    "QuestionsAndDiscussions": "Questions & discussions",
+    "TilesViewSizeInfo": "Additional sizes are not yet available for the Tiles View.",
+    "Compact": {
+        "text": "Compact",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Small",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Medium",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Medium +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Medium ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Medium +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Medium ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Medium +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Large",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Large +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Large ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Large +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Extra large",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Details view",
+    "LayoutType": "Layout type",
+    "Actions": "Тастерске пречице",
+    "Commands": "Commands",
+    "AddCommand": "Add command",
+    "RestoreDefaults": "Restore defaults",
+    "ChooseAnAction": "Choose an action",
+    "RestoreDefaultKeybindingsConfirmation": "Are you sure you want to restore the default key bindings? This action cannot be undone.",
+    "KeybindingAlreadyUsedNotification": "This key binding is already being used, please choose a different key binding to continue.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Customized",
+    "AdaptiveLayoutDisabledNotification": "Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.",
+    "BackgroundImage": "Background image",
+    "Bottom": {
+        "text": "Bottom",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Center",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horizontal alignment",
+    "ImageFit": "Image fit",
+    "Left": {
+        "text": "Left",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacity",
+    "Right": {
+        "text": "Right",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Top",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniform",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniform to fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Vertical alignment",
+    "ThinAcrylic": {
+        "text": "Thin Acrylic",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Show for all locations",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Developer tools",
+    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "GitRepos": {
+        "text": "Show for Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Application extension",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO File",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip File",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap Files",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Network locations",
+    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
+    "Disable": "Disable",
+    "EditInNotepad": "Edit in Notepad",
+    "EditInNotepadDescription": "Edit the selected file in Notepad"
+}

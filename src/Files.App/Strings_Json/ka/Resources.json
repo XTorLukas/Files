@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "New window",
+    "CopyPath": "Copy path",
+    "CopyPathWithQuotes": "Copy path with quotes",
+    "Browse": "გადათვალიერება",
+    "Size": "ზომა",
+    "PropertiesCreated": {
+        "Text": "შექმნილია:"
+    },
+    "Path": "Path",
+    "SizeLabel": "Size:",
+    "SizeOnDiskLabel": "Size on disk:",
+    "UncompressedSize": "Uncompressed size:",
+    "ErrorDialogThisActionCannotBeDone": "ეს მოქმედება ვერ განხორციელდება",
+    "ErrorDialogTheDestinationFolder": "დანიშნულების საქაღალდე",
+    "ErrorDialogIsASubfolder": "არის წყაროს საქაღალდის ქვე-საქაღალდე",
+    "Skip": "გამოტოვება",
+    "SelectAll": "Select All",
+    "InvertSelection": "Invert selection",
+    "ClearSelection": "Clear selection",
+    "PropertiesModified": {
+        "Text": "განახლდა:"
+    },
+    "Accessed": "წვდომა:",
+    "RecentItemClearAll": {
+        "Text": "ყველა ნივთის გასუფთავება"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Enter a path to navigate to or type \">\" to open the command palette"
+    },
+    "Search": "Search",
+    "RecentItemDescription": {
+        "Text": "საქაღალდეებზე, რომლებზეც წვდომა ადრე გქონდათ აქ გამოჩნდებიან"
+    },
+    "RecentItemRemove": {
+        "Text": "ამ ნივთის წაშლა"
+    },
+    "OpenGitHubRepo": "GitHub repository",
+    "About": "შესახებ",
+    "OpenSource": "Open source",
+    "DateFormat": "თარიღის ფორმატი",
+    "SettingsAppearanceTheme": "Theme",
+    "SettingsFilesAndFoldersShowFileExtensions": "გაფართოებების ჩვენება ცნობილი ფაილის ნიმუშებისთვის",
+    "SettingsFilesAndFoldersShowHiddenItems": "დამალული ფაილების და საქაღალდეების ჩვენება",
+    "ShowDotFiles": "წერტილოვანი ფაილების ჩვენება",
+    "Appearance": "შესახედაობა",
+    "BackgroundColor": "Background color",
+    "Advanced": "Advanced",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "გააგრძელეთ იქ სადაც შეჩერდით"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "ახალი ჩანართის გახსნა"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "კონკრეტული გვერდის ან გვერდების გახსნა"
+    },
+    "Desktop": "სამუშაო მაგიდა",
+    "Documents": "დოკუმენტები",
+    "Downloads": "გადმოწერილები",
+    "Name": "სახელი",
+    "Ascending": "ზრდადობის მიხედვით",
+    "Paste": "Paste",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "ახალი"
+    },
+    "Properties": "Properties",
+    "Open": "გახსნა",
+    "OpenInNewTab": "Open in new tab",
+    "OpenInNewWindow": "Open in new window",
+    "Share": "გაზიარება",
+    "Cut": "Cut",
+    "Delete": "წაშლა",
+    "PinFolderToSidebar": "Pin to Sidebar",
+    "WelcomeDialog": {
+        "Title": "მოგესალმებით ფაილებში!",
+        "PrimaryButtonText": "Grant permission"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "დასაწყებად, თქვენ ჩვენ ნებართვა უნდა მოგვანიჭოთ, რათა გამოვაჩინოთ თქვენი ფაილები. ეს მოქმედება გახსნის პარამეტრების გვერდს, საიდანაც თქვენ შეგეძლებათ ჩვენთვის ნებართვის მონიჭება. ამ ნაბიჯების შესრულების შემდეგ კი აპლიკაციის ხელახლა გახსნა მოგიწევთ."
+    },
+    "Display": "Display",
+    "EnterAnItemName": "Enter an item name",
+    "RenameDialog": {
+        "PrimaryButtonText": "Set name"
+    },
+    "LightTheme": "ნათელი",
+    "DarkTheme": "ბნელი",
+    "Application": "აპლიკაცია",
+    "SystemTimeStyle": "სისტემა",
+    "NewFolder": "New folder",
+    "NewFile": "New file",
+    "EmptyFolder": {
+        "Text": "ეს საქაღალდე ცარიელია."
+    },
+    "Back": "უკან (Alt+Left Arrow)",
+    "Forward": "წინ (Alt+Right Arrow)",
+    "Up": "ზემოთ (Alt+Up Arrow)",
+    "Refresh": "Refresh",
+    "ItemAlreadyExistsDialogContent": "ამ სახელწოდების მქონე ნივთი უკვე არსებობს ამ კატალოგში.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "არსებული ნივთის ჩანაცვლება",
+    "ItemAlreadyExistsDialogTitle": "ნივთი უკვე არსებობს",
+    "SetAsLockscreen": "Set as lockscreen background",
+    "SetAsAppBackground": "Set as app background",
+    "AccessDeniedDeleteDialog": {
+        "Text": "ჩვენ ვერ შევძელით ამ ნივთის წაშლა"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "გთხოვთ, ჩასვათ საჭირო დრაივი ამ ერთეულზე წვდომის მოსაპოვებლად.",
+        "Title": "Drive unplugged"
+    },
+    "FileNotFoundDialog": {
+        "Text": "ფაილი, რომელზეც თქვენ ცდილობთ წვდომას, შეიძლება გადატანილი ან წაშლილი იყოს.",
+        "Title": "ფაილი არ მოიძებნა"
+    },
+    "CannotAccessPropertiesTitle": "Cannot open properties for this file",
+    "CannotAccessPropertiesContent": "ფაილი, რომელზეც თქვენ ცდილობთ წვდომას, შეიძლება გადატანილი ან წაშლილი იყოს.",
+    "FolderNotFoundDialog": {
+        "Text": "საქაღალდე, რომელშიც შესვლას ცდილობთ, შეიძლება გადატანილი ან წაშლილი იყოს.",
+        "Title": "თქვენ წაშალეთ ეს საქაღალდე?"
+    },
+    "FileInUseByDialog": {
+        "Text": "ფაილზე, რომელზეც წვდომას ცდილობთ, ამჟამად იყენებს {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "The file you are attempting to access is currently being used by another application",
+        "Title": "ფაილი გამოიყენება"
+    },
+    "Layout": "Layout",
+    "PropertiesDialogReadOnly": {
+        "Text": "წაიკითხეთ-მხოლოდ"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Now",
+    "ErrorDialogUnsupportedOperation": "მოთხოვნილი მოქმედება მხარდაჭერილი არ არის",
+    "DriveFreeSpaceAndCapacity": "{1} -დან თავისუფალია {0}",
+    "SendTo": "Send to",
+    "FileNameTeachingTip": {
+        "Subtitle": "ნივთის სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "The item name specified is invalid"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# item selected} other {# items selected}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "დიახ",
+    "ConfirmEmptyBinDialogContent": "დარწმუნებული ხართ, რომ გსურთ ყველა ამ ნივთის სამუდამოდ წაშლა?",
+    "ConfirmEmptyBinDialogTitle": "სანაგვე ყუთის გასუფთავება",
+    "ItemSizeBytes": "ბაიტი",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "სხვა მომხმარებლის სახელით გაშვება"
+    },
+    "PropertiesDriveItemTypesEquals": "ყველა ტიპის {0}",
+    "PropertiesDriveItemTypeDifferent": "განსხვავებული ნიმუშები",
+    "PropertiesCombinedItemLocation": "All in {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "გამოყენებული სივრცე:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "თავისუფალი სივრცე:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "მოცულობა:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "ფაილის სისტემა:"
+    },
+    "JumpListRecentGroupHeader": "ბოლოდროინდელი",
+    "TabStripDragAndDropUIOverrideCaption": "ჩანართის გადმოტანა აქ",
+    "syncStatusColumn": {
+        "Header": "სტატუსი"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "ვინდოუსის ნაგულისხმევი",
+    "NavigationToolbarVisiblePathNoResults": "შედეგები არ არის",
+    "SubDirectoryAccessDenied": "საჩვენებლად ვერცერთ ნივთზე ვერ ხერხდება წვდომა",
+    "MoveToFolderCaptionText": "გადატანა {0} -ში",
+    "CopyToFolderCaptionText": "ასლის გადატანა {0} -ში",
+    "CreateShortcut": "Create shortcut",
+    "OpenFileLocation": "ფაილის ადგილმდებარეობის გახსნა",
+    "PropertiesShortcutItemArgs": {
+        "Text": "არგუმენტები:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "დანიშნულება:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "მალსახმობის ტიპი:"
+    },
+    "PropertiesShortcutTypeLink": "ვებ ბმული",
+    "General": "ზოგადი",
+    "Shortcut": "მალსახმობი",
+    "ShortcutWebLinkFileType": "ინტერნეტ მალსახმობი",
+    "ShortcutCreateNewSuffix": "{0} - მალსახმობი",
+    "ExceptionNotificationBody": "ფაილებს შეექმნა პრობლემა, რისთვისაც დეველოპერები ჯერ არ მომზადებულან.",
+    "ExceptionNotificationHeader": "Რაღაც არასწორად წავიდა!",
+    "ExceptionNotificationReportButton": "ამ საკითხის გასაჩივრება",
+    "InvalidItemDialogContent": "მითითებული ნივთი არასწორი ან მიუწვდომელია..{0}შეცდომის შეტყობინება:{0}{1}",
+    "InvalidItemDialogTitle": "არასწორი ნივთი",
+    "SettingsAboutVersionTitle": "ვერსია:",
+    "ShareDialogFailMessage": "ამჟამად აქ გასაზიარებელი არაფერია...",
+    "ShareDialogMultipleItemsDescription": "ელემენტები, რომლებიც თქვენ მონიშნეთ გაზიარდებიან",
+    "ShareDialogSingleItemDescription": "მონიშნული ელემენტები გაზიარდებიან",
+    "ShareDialogTitle": "გაზიარდება {0}",
+    "ShareDialogTitleMultipleItems": "გაზიარდება {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "ნივთი, რომლის სახელის გადარქმევასაც თქვენ ცდილობთ აღარ არსებობს. გთხოვთ გადაამოწმოთ იმ ნივთის სწორი მდებარეობა, რომლის სახელის გადარქმევაც გსურთ.",
+            "Title": "ნივთი აღარ არსებობს"
+        },
+        "NameInvalid": {
+            "Text": "მითითებული სახელი არასწორი იყო. გთხოვთ შეამოწმოთ სასურველი ნივთის სახელი და ხელახლა სცადოთ.",
+            "Title": "არასწორი ნივთის სახელი"
+        },
+        "TooLong": {
+            "Text": "მითითებული ნივთის სიგრძე აღემატება მაქსიმალურ ლიმიტს. გთხოვთ შეამოწმოთ სასურველი სახელი და ხელახლა სცადოთ.",
+            "Title": "ნივთის სახელი საკმაოდ გრძელი იყო"
+        }
+    },
+    "ShowMoreOptions": "Show more options",
+    "RestartNotificationText": {
+        "Text": "ამ პარამეტრების გამოსაყენებლად საჭიროა აპლიკაციის გადატვირთვა, გსურთ აპლიკაციის გადატვირთვა?"
+    },
+    "SponsorUsOnGitHub": "Sponsor us on GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "ჩვენ ვერ შევძელით ამ ერთეულის შექმნა"
+    },
+    "AccessDenied": "წვდომა უარყოფილია",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "დაყენება როგორც"
+    },
+    "Cancel": "გაუქმება",
+    "AddDialog": {
+        "Title": "Create a new item"
+    },
+    "AddDialogDescription": {
+        "Text": "აირჩიეთ ნიმუში ამ ახალი ერთეულისთვის ქვემოთ"
+    },
+    "File": "ფაილი",
+    "AddDialogListFileSubHeader": "ჰქმნის ცარიელ ფაილს",
+    "Folder": "საქაღალდე",
+    "AddDialogListFolderSubHeader": "ჰქმნის ცარიელ საქაღალდეს",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "კატალოგის განახლება"
+        }
+    },
+    "Language": "Language",
+    "SettingsContextMenuOverflow": "Move shell extensions into a sub menu",
+    "ShowConfirmationWhenDeletingItems": "Show confirmation dialog when deleting items",
+    "PropertySaveErrorMessage": {
+        "Text": "გარკვეული თვისებების დამახსოვრებისას მოხდა შეცდომა."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "შეცდომა",
+        "SecondaryButtonText": "მაინც დახურვა"
+    },
+    "PropertyRatingText": "რეიტინგი",
+    "PropertyParsingPath": "ნივთის გზა",
+    "PropertyItemTypeText": "ნივთის ნიმუში",
+    "PropertyTitle": "სათაური",
+    "PropertySubject": "თემა",
+    "PropertyComment": "კომენტარი",
+    "PropertyCopyright": "საავტორო უფლებები",
+    "PropertyDateModified": "შეცვლის თარიღი",
+    "PropertyBitDepth": "Bit სიღრმე",
+    "PropertyDimensions": "ზომები",
+    "PropertyHorizontalSize": "ჰორიზონტალური ზომა",
+    "PropertyVerticalSize": "ვერტიკალური ზომა",
+    "PropertyHorizontalResolution": "ჰორიზონტალური გარჩევადობა",
+    "PropertyVerticalResolution": "ვერტიკალური გარჩევადობა",
+    "PropertyColorSpace": "ფერის სივრცე",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "მიუთითებელი",
+    "PropertyLongitudeDecimal": "გრძივი ათწილადი",
+    "PropertyLatitudeDecimal": "გრძედი ათწილადი",
+    "PropertyAltitude": "სიმაღლე",
+    "PropertyDateTaken": "აღების თარიღი",
+    "PropertyCameraManufacturer": "კამერის მწარმოებელი",
+    "PropertyCameraModel": "კამერის მოდელი",
+    "PropertyExposureTime": "გამოფენის დრო",
+    "PropertyFocalLength": "ფოკალური სიგრძე",
+    "PropertyAperture": "დიაფრაგმა",
+    "PropertyPeopleNames": "ხალხის სახელები",
+    "PropertyChannelCount": "არხების რაოდენობა",
+    "PropertyFormat": "ფორმატი",
+    "PropertySampleRate": "ნიმუშის შეფასება",
+    "PropertyAlbumArtist": "ალბომის შემსრულებელი",
+    "PropertyAlbumTitle": "ალბომის სათაური",
+    "Artist": "ხელოვანი",
+    "PropertyBeatsPerMinute": "ურტყამს ყოველ წუთში",
+    "PropertyComposer": "კომპოზიტორი",
+    "Conductor": "კონდუქტორი",
+    "PropertyDiscNumber": "დისკის ნომერი",
+    "PropertyGenre": "ჟანრი",
+    "PropertyTrackNumber": "ტრეკის ნომერი",
+    "PropertyDuration": "ხანგრძლივობა",
+    "PropertyFrameCount": "ჩარჩოების რაოდენობა",
+    "PropertyProtectionType": "დაცვის ტიპი",
+    "PropertyAuthorUrl": "ავტორის მისამართი",
+    "PropertyContentDistributor": "კონტენტის გამავრცელებელი",
+    "PropertyDateReleased": "გამოშვების თარიღი",
+    "PropertySeriesName": "სერიის სახელი",
+    "PropertySeasonNumber": "სეზონის ნომერი",
+    "PropertyEpisodeNumber": "ეპიზოდის ნომერი",
+    "PropertyProducer": "პროდიუსერი",
+    "PropertyPromotionUrl": "მეორე ბმული",
+    "PropertyProviderStyle": "მომწოდებლის სტილი",
+    "PropertyPublisher": "გამომცემელი",
+    "PropertyThumbnailLargePath": "ესკიზის დიდი გზა",
+    "PropertyThumbnailLargeUri": "ესკიზის დიდი რესურსების ერთიანი იდენტიფიკატორი",
+    "PropertyThumbnailSmallPath": "ესკიზის პატარა გზა",
+    "PropertyThumbnailSmallUri": "ესკიზის პატარა რესურსების ერთიანი იდენტიფიკატორი",
+    "PropertyUserWebUrl": "მომხმარებლის ვებ ბმული",
+    "PropertyWriter": "მწერალი",
+    "PropertyYear": "წელი",
+    "PropertyContributor": "კონტრიბუტორი",
+    "PropertyLastAuthor": "ბოლო ავტორი",
+    "PropertyRevisionNumber": "შესწორების ნომერი",
+    "PropertyVersion": "ვერსია",
+    "PropertyDateCreated": "შექმნის თარიღი",
+    "PropertyTotalEditingTime": "რედაქტირების სრული დრო",
+    "PropertyTemplate": "შაბლონი",
+    "PropertyWordCount": "სიტყვების რაოდენობა",
+    "PropertyCharacterCount": "სიმბოლოების რაოდენობა",
+    "PropertyLineCount": "ხაზების რაოდენობა",
+    "PropertyParagraphCount": "აბზაცების რაოდენობა",
+    "PropertyPageCount": "გვერდების რაოდენობა",
+    "PropertySlideCount": "სლაიდების რაოდენობა",
+    "PropertyFrameRate": "კადრების სიხშირე",
+    "PropertyEncodingBitrate": "Encoding Bitrate",
+    "PropertyPreviewAudioEncodingBitrate": "Audio Encoding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "Compression": "შეკუმშვა",
+    "PropertyFrameWidth": "ჩარჩოს სიგანე",
+    "PropertyFrameHeight": "ჩარჩოს სიმაღლე",
+    "PropertyOrientation": "ორიენტაცია",
+    "PropertySectionCore": "ძირითადი",
+    "PropertySectionImage": "სურათი",
+    "PropertySectionPhoto": "ფოტო",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "მედია",
+    "PropertySectionAudio": "აუდიო",
+    "PropertySectionMusic": "მუსიკა",
+    "PropertySectionVideo": "ვიდეო",
+    "Document": "დოკუმენტი",
+    "Address": "მისამართი",
+    "SelectionOptions": "Selection options",
+    "NavToolbarSelectionOptions": {
+        "Label": "არჩევა"
+    },
+    "RecycleBinItemAutomation": "სანაგვე ურნის ნივთი",
+    "ShortcutItemAutomation": "მალსახმობის ელემენტი",
+    "Drives": "დისკები",
+    "PinToSidebarByDraggingCaptionText": "აქ გადმოტანა",
+    "EjectNotificationHeader": "უსაფრთხოა აპარატურის ამოშლა",
+    "EjectNotificationBody": "მოწყობილობა უკვე შესაძლებელია უსაფრთხოდ ამოიშალოს კომპიუტერიდან.",
+    "EjectNotificationErrorDialogHeader": "პრობლემა მოწყობილობის მოცილებისას",
+    "EjectNotificationErrorDialogBody": "ეს მოწყობილობა ამჟამად გამოიყენება. დახურეთ ნებისმიერი პროგრამა, ფანჯარა ან ჩანართი, რომელიც შესაძლოა მოწყობილობას იყენებდეს და სცადეთ ხელახლა.",
+    "Eject": "მოცილება",
+    "DuplicateTab": "Duplicate tab",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "ჩანართის ახალ ფანჯარაში გადატანა"
+    },
+    "NewTab": "New tab",
+    "ClearPropertiesFlyoutText": {
+        "Text": "ზოგიერთი თვისება შეიძლება შეიცავდეს პირად ინფორმაციას."
+    },
+    "ClearPropertiesButton": {
+        "Content": "ყველა თვისების გასუფთავება"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "შეამოწმეთ ფაილების მოქმედებების სტატუსი აქ",
+        "Title": "Status center"
+    },
+    "SearchPagePathBoxOverrideText": "ძიების შედეგები {0} -(ს)თვის {1} -ში",
+    "Details": "დეტალები",
+    "No": "არა",
+    "ShowProtectedSystemFiles": "დაცული სისტემის ფაილების ჩვენება",
+    "SyncFolderPreferencesAcrossDirectories": "Sync layout and sorting preferences across directories",
+    "SettingsContextMenu": {
+        "Text": "მარჯვენა ღილაკით დაჭერილი კონტექსტის მენიუს მორგება"
+    },
+    "OriginalPath": "Original path",
+    "Add": "დამატება",
+    "Edit": "რედაქტირება",
+    "Remove": "წაშლა",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Open tabs in dual pane mode",
+    "ShowOpenInNewPane": "Show option to open folders in a new pane",
+    "ShowCopyPath": "Show option to copy path",
+    "ShowCreateFolderWithSelection": "Show option to create folder with selection",
+    "ShowCreateShortcut": "Show option to create shortcut",
+    "NavigationToolbarNewPane": {
+        "Label": "ახალი სარკმელი"
+    },
+    "OpenInNewPane": "Open in new pane",
+    "FilesAndFolders": "Files & folders",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "დეტალების ხედი (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "ფილები (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "წაშლის თარიღი",
+    "SidebarCloudDrives": "ღრუბლოვანი დისკები",
+    "Confirm": "დადასტურება",
+    "DesiredName": "სასურველი სახელი",
+    "TogglePreviewPane": "Toggle the preview pane",
+    "ToggleDetailsPane": "Toggle the details pane",
+    "ToggleDetailsPaneDescription": "Toggle the details pane to view basic file properties",
+    "ToggleInfoPane": "Toggle the info pane",
+    "ToggleInfoPaneDescription": "Toggle the info pane to view the detail/preview panes",
+    "DetailsPanePreviewNotAvaliableText": "გადახედვა არ არის შესაძლებელი",
+    "PropertyItemName": "ნივთის სახელი",
+    "UnpinFolderFromSidebar": "Unpin from Sidebar",
+    "Network": "ქსელი",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "ფაილის დეტალები"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "ფაილის გადახედვა"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "არჩეულია ფაილის გადახედვის სარკმელი"
+        }
+    },
+    "Feedback": "Feedback",
+    "CloudDriveSyncStatus_Online": "ხელმისაწვდომია ონლაინ რეჟიმში",
+    "Documentation": "Documentation",
+    "CloudDriveSyncStatus_Offline": "ხაზგარეშე რეჟიმშიცაა ხელმისაწვდომი",
+    "CloudDriveSyncStatus_PartialOffline": "ნაწილობრივ ხელმისაწვდომია ხაზგარეშე რეჟიმში",
+    "CloudDriveSyncStatus_Sync": "მიმდინარეობს სინქრონიზაცია",
+    "CloudDriveSyncStatus_Excluded": "გამორიცხულია სინქრონიზაციისგან",
+    "ItemSizeNotCalculated": "არ არის გათვლილი",
+    "CloudDriveSyncStatus_Unknown": "უცნობი",
+    "RenameFileDialog": {
+        "Text": "ფაილის გაფართოების შეცვლის შემთხვევაში, ფაილი შესაძლოა გამოუსადეგარი გახდეს. დარწმუნებული ხართ, რომ გსურთ მისი შეცვლა?"
+    },
+    "DriveTypeCDRom": "CD ROM დისკი",
+    "DriveTypeCloudDrive": "ღრუბლოვანი დისკი",
+    "DriveTypeFixed": "გასწორებული დისკი",
+    "DriveTypeFloppyDisk": "ფლოპი დისკი",
+    "DriveTypeNetwork": "ქსელოვანი დისკი",
+    "DriveTypeNoRootDirectory": "დაუმონტაჟებელი დისკი",
+    "DriveTypeRam": "RAM Disk Drive",
+    "DriveTypeRemovable": "ამოშლადი შესანახი მოწყობილობა",
+    "DriveTypeUnknown": "უცნობი",
+    "DriveTypeVirtualDrive": "ვირტუალური დისკი",
+    "DateCreated": "შექმნის თარიღი",
+    "MoreOptions": "მეტი არჩევანი...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "რუკის ქსელური დისკი"
+    },
+    "Pinned": "Pinned",
+    "SidebarLibraries": "ბიბლიოთეკა",
+    "NoItemSelected": "ელემენტი არ არის არჩეული",
+    "PropertyItemTarget": "სამიზნე",
+    "Arguments": "არგუმენტები",
+    "Default": "ნაგულისხმევი",
+    "PropertyItemCount": "ნივთების რაოდენობა",
+    "ElevateConfirmDialog": {
+        "Title": "ეს მოქმედება მოითხოვს ადმინისტრატორის უფლებებს",
+        "Content": "გსურთ გააგრძელოთ, როგორც ადმინისტრატორმა?"
+    },
+    "ColumnsShortcutTooltip": "სვეტები (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "საწყის მენიუში ჩამაგრება"
+    },
+    "UnpinItemFromStart": {
+        "Text": "საწყისი მენიუდან ჩამაგრების მოხსნა"
+    },
+    "Library": "ბიბლიოთეკა",
+    "LibraryLocations": {
+        "Text": "მდებარეობები:"
+    },
+    "SetAsDefaultSavePath": "ნაგულისხმევ დასამახსოვრებელ გზად დაყენება",
+    "LibraryNoLocations": {
+        "Text": "ადგილმდებარეობები არ არის"
+    },
+    "ErrorInputEmpty": "შეყვანის ველი არ შეიძლება იყოს ცარიელი!",
+    "ErrorNameInputRestrictedCharacters": "სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "დაუშვებელია ამ სახელის გამოყენება!",
+    "CreateLibraryErrorAlreadyExists": "ბიბლიოთეკა მსგავსი სახელით უკვე არსებობს!",
+    "OpenStorageSense": "Open Storage Sense",
+    "Copy": "ასლის შექმნა",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "გადატანა",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "გაგრძელება",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "სამუდამოდ წაშლა"
+    },
+    "PropertyISO": "ISO სიჩქარე",
+    "ReplaceExisting": "Replace existing",
+    "GenerateNewName": "არსებულის ჩანაცვლება",
+    "CreateFolderWithSelection": "Create folder with selection",
+    "ItemType": "ტიპი:",
+    "ToolTipDescriptionDate": "შეცვლის თარიღი:",
+    "OpenWith": "გახსნა",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "ფაილის ხატულა"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "თავდაპირველი გზის სვეტი"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "ნივთის ტიპის სვეტი"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "თარიღის შეცვლის სვეტი"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "თარიღის წაშლის სვეტი"
+    },
+    "Sort": "Sort",
+    "DateModifiedLowerCase": "შეცვლის თარიღი",
+    "OriginalFolder": "Original folder",
+    "Descending": "კლებადობის მიხედვით",
+    "ItemSizeText_Huge": "უზარმაზარი",
+    "ItemSizeText_VeryLarge": "ძალიან დიდი",
+    "ItemSizeText_Large": "დიდი",
+    "ItemSizeText_Medium": "საშუალო",
+    "ItemSizeText_Small": "პატარა",
+    "ItemSizeText_Tiny": "პაწაწინა",
+    "Future": "Future",
+    "Today": "დღეს",
+    "Yesterday": "გუშინ",
+    "EarlierThisWeek": "ამ კვირის დასაწყისში",
+    "LastWeek": "გასულ კვირას",
+    "EarlierThisMonth": "Earlier this month",
+    "LastMonth": "გასულ თვეში",
+    "EarlierThisYear": "Earlier this year",
+    "LastYear": "Last year",
+    "YearN": "Year {0}",
+    "GroupItemsCount_Singular": "{0} ელემენტი",
+    "GroupItemsCount_Plural": "{0} ელემენტი",
+    "ReopenClosedTab": "დახურული ჩანართების ხელახლა გახსნა",
+    "Rename": "Rename",
+    "Privacy": "Privacy",
+    "TheRecycleBin": "სანაგვე ურნა",
+    "Canceling": "Canceling",
+    "Clear": "გასუფთავება",
+    "Widgets": "Widgets",
+    "SyncStatus": "სინქრონიზაციის სტატუსი",
+    "Security": "უსაფრთხოება",
+    "AdvancedPermissions": "დამატებითი უფლებები",
+    "Allow": "დაშვება",
+    "Deny": "Deny",
+    "SecurityFullControlLabel": {
+        "Text": "სრული კონტროლი"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "კატალოგთა კონტენტის ჩამოთვლა"
+    },
+    "Modify": "Modify",
+    "SecurityPermissionsHeaderText": "Permissions for {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "წაკითხვა და შესრულება"
+    },
+    "SecurityReadLabel": {
+        "Text": "წაკითხვა"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "ჯგუფის ან მომხმარებლის სახელები"
+    },
+    "Write": "დაწერა",
+    "SecurityUnknownAccount": "უცნობი ანგარიში",
+    "SecurityCannotReadProperties": {
+        "Text": "თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება. გასაგრძელებლად დააჭირეთ \"დამატებით უფლებებს\"."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Owner:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "უცნობი მფლობელი"
+    },
+    "ExtractArchive": "Extract archive",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "გახსენით დანიშნულების საქაღალდე დასრულების შემდეგ"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "ამოიღეთ {0}\\ -ში",
+    "SideBarCreateNewLibrary": {
+        "Text": "ახალი ბიბლიოთეკის შექმნა"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "ნაგულისხმევი ბიბლიოთეკების აღდგენა"
+    },
+    "DialogRestoreLibrariesSubtitleText": "დარწმუნებული ხართ, რომ გსურთ ნაგულისხმევი ბიბლიოთეკების აღდგენა? თქვენი ყველა ფაილი თქვენს სისტემაში მაინც დარჩება.",
+    "DialogRestoreLibrariesTitleText": "ბიბლიოთეკების აღდგენა",
+    "PropertyFileOwner": "მფლობელი",
+    "SecuritySpecialLabel": {
+        "Text": "განსაკუთრებული"
+    },
+    "Access": "დაშვება",
+    "SecurityAdvancedAppliesTo": "Applies to",
+    "Principal": "Principal",
+    "SecurityAdvancedFlagsFilesLabel": "ფაილები",
+    "SecurityAdvancedFlagsFolderLabel": "ეს საქაღალდე",
+    "SecurityAdvancedFlagsSubfoldersLabel": "ქვესაქაღალდეები",
+    "Inherited": "Inherited",
+    "Permissions": "Permissions",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება, თუმცა შეგიძლიათ სცადოთ ამ ობიექტის მფლობელობის აღება."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "ეს საქაღალდე და ფაილები"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "ეს საქაღალდე, ქვესაქაღალდეები და ფაილები"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "მხოლოდ ფაილები"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "მხოლოდ ქვესაქაღალდეები"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "მხოლოდ ქვესაქაღალდეები და ფაილები"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "მხოლოდ ეს საქაღალდე"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "ეს საქაღალდე და ქვესაქაღალდეები"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "მონაცემების დამატება"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "ნებართვის შეცვლა"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "საქაღალდეების შექმნა"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "ფაილების შექმნა"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "ქვეკატალოგების და ფაილების წაშლა"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "ფაილების შესრულება"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "თვისებების წაკითხვა"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "მონაცემების წაკითხვა"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "გაფართოებული თვისებების წაკითხვა"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "უფლებების წაკითხვა"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "მფლობელობის მიღება"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "საქაღალდის მონახულება"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "თვისებების დაწერა"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "მონაცემების დაწერა"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "გაფართოებული თვისებების წაკითხვა"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "მემკვიდრეობით მიღებული უფლებების აშკარა ნებართვებად გადაქცევა"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "მემკვიდრეობის ჩართვა"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "ყველა მემკვიდრეობით მიღებული უფლებების წაშლა"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "ბავშვის ნებართვების გადაყენება"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "ყველა ბავშვის ობიექტის ნებართვის ჩანაწერის ჩანაცვლება ამ ობიექტის მემკვიდრეობითი ნებართვის ჩანაწერიდან"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "ფანჯრის დახურვა"
+    },
+    "EnterCompactOverlay": "შეერთებული გადაფარვის ჩართვა",
+    "ExitCompactOverlay": "შეერთებული გადაფარვის გამორთვა",
+    "PropertyFileDescription": "ფაილის აღწერა",
+    "PropertyCompany": "კომპანია",
+    "PropertyLanguage": "ენა",
+    "PropertyTrademarks": "სავაჭრო ნიშნები",
+    "PropertyFileVersion": "ფაილის ვერსია",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "სრული გადახედვის ჩატვირთვა",
+        "ToolTipService": {
+            "ToolTip": "ჩამოტვირთავს ნივთს ღრუბლიდან და ჩატვირთავს გადახედვას"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "შეუკუმშავი ზომა",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "{0} განყოფილების დამალვა"
+    },
+    "AddFile": "ფაილის დამატება",
+    "ConsentDialogTitle": "განახლებები ხელმისაწვდომია",
+    "ConsentDialogContent": "განახლებები მზად არიან დასაყენებლად",
+    "Close": "დახურვა",
+    "ConsentDialogPrimaryButtonText": "განახლება",
+    "Home": "მთავარი",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "არქივის ამოღება წარმატებით დასრულდა.",
+    "ExtractingArchiveText": "მიმდინარეობს არქივის ამოღება",
+    "ExtractingCompleteText": "ამოღება დასრულებულია!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "მშობელი საქაღალდის გახსნა"
+    },
+    "Unknown": "Unknown",
+    "EditTags": "ფაილის იარლიყების რედაქტირება",
+    "PropertyPartOfSet": "ნაკრების ნაწილი",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Open drive",
+        "Text": "გთხოვთ ჩასვათ დისკი {0} დისკში",
+        "Title": "დისკის ჩასმა"
+    },
+    "OK": "OK",
+    "AskCredentialDialog": {
+        "Title": "Credential required"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "უსახელო"
+    },
+    "CredentialDialogDescription": {
+        "Text": "მიუთითეთ თქვენი სერთიფიკატი:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "მომხმარებლის სახელი"
+    },
+    "NoSearchResultsFound": "ნივთები ვერ მოიძებნა",
+    "OpenLogLocation": "ჟურნალის ადგილმდებარეობის გახსნა",
+    "LinkToFolderCaptionText": "ბმულის შექმნა {0} -ში",
+    "Columns": "სვეტები",
+    "Tiles": "მოზაიკა",
+    "OpenFoldersInNewTab": "Open folders in new tab",
+    "StatusCenter": "Status center",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Date created column"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Item size column"
+    },
+    "ExperimentalFeatureFlags": "Experimental feature flags",
+    "HelpAndSupport": "Help and support",
+    "SubmitFeatureRequest": "Submit feature request",
+    "SubmitBugReport": "Submit bug report",
+    "SettingsSetAsDefaultFileManager": "Set Files as the default file manager",
+    "SettingsSetAsOpenDialog": "Use Files as Open File Dialog",
+    "Tag": "ფაილის იარლიყი",
+    "SettingsOpenItemsWithOneClick": "Open items with a single click",
+    "FolderPath": "Folder path",
+    "ExportSettings": "Export settings",
+    "ImportSettings": "Import settings",
+    "SettingsImportErrorDescription": "Couldn't import settings. The settings file is corrupted.",
+    "SettingsImportErrorTitle": "Error importing settings",
+    "EmptyRecycleBin": "სანაგვე ურნის გასუფთავება",
+    "Sidebar": "გვერდითი ზოლი",
+    "ChooseCustomIcon": "Choose a custom folder icon",
+    "Customization": "მორგება",
+    "RestoreDefault": "Restore default",
+    "OpenTabInExistingInstance": "Open tab in existing instance when opening Files from another app",
+    "StartupSettings": "Startup settings",
+    "Compatibility": "თავსებადობა",
+    "None": "არცერთი",
+    "CompatibilityOnWindowsLogin": "On Windows login",
+    "CompatibilityOnProgramStart": "On this program start",
+    "System": "სისტემა",
+    "CompatibilitySystemEnhanced": "System (Enhanced)",
+    "CompatibilityReducedColorModeColor16bit": "16-bit (65536) color",
+    "CompatibilityReducedColorModeColor8bit": "8-bit (256) color",
+    "CompatibilityDisableFullscreenOptimizations": "Disable full-screen optimizations",
+    "CompatibilityRunIn640x480Resolution": "Run in 640 x 480 screen resolution",
+    "CompatibilityOverrideHighDPIBehavior": "Override high DPI scaling behavior",
+    "CompatibilityReducedColorMode": "Reduced color mode",
+    "CompatibilityRegisterThisProgramForRestart": "Register this program for restart",
+    "RunAsAdministrator": "ადმინისტრატორის სახელით გაშვება",
+    "CompatibilityRunTroubleshooter": "Run compatibility troubleshooter",
+    "CompatibilityUseDPISettings": "Use DPI settings of the main monitor",
+    "CompatibilityDoNotAdjustDPI": "Do not adjust DPI",
+    "CompatibilityDoNotOverrideDPI": "Do not override DPI",
+    "CompatibilityMode": "Compatibility mode",
+    "CompatibilityNoReducedColor": "No reduced color",
+    "ThirdPartyLicenses": "Third party licenses",
+    "SettingsSetAsDefaultFileManagerDescription": "This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Create Library",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Enter Library name",
+    "CalculateFolderSizes": "Calculate folder sizes",
+    "RecentFiles": "Recent files",
+    "SettingsOpenInLogin": "Open Files on Windows startup",
+    "Attributes": "ატრიბუტები:",
+    "Hidden": "დამალული",
+    "MoreDetails": "დამატებითი დეტალები",
+    "ReadOnly": "მხოლოდ წაკითხვადი",
+    "CleanupDrive": "Cleanup your drive contents",
+    "Type": "ნიმუში",
+    "Bytes": "ბაიტი:",
+    "Extract": "ამოღება",
+    "ExtractFiles": "ფაილების ამოღება",
+    "ExtractHere": "ამოღება აქ",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Extract to {0}",
+    "RunScript": "Run script",
+    "RunWithPowerShell": "Run with PowerShell",
+    "ShowFolderSizesWarning": "Calculating folder sizes is resource intensive and may cause your CPU usage to increase.",
+    "RotateLeft": "შეტრიალება მარცხნივ",
+    "RotateRight": "შეტრიალება მარჯვნივ",
+    "Install": "დაინსტალირება",
+    "CloseTabsToTheLeft": "Close tabs to the left",
+    "CloseTabsToTheRight": "მარჯვენა გრაფების დახურვა",
+    "CloseOtherTabs": "სხვა ჩანართების დახურვა",
+    "Music": "მუსიკა",
+    "Pictures": "სურათები",
+    "UpdateFiles": "Update Files",
+    "FileTags": "ტეგები",
+    "Universal": "უნივერსალური",
+    "DateFormatSample": "ex: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Show thumbnails",
+    "Retry": "ხელახლა ცდა",
+    "ErrorDialogUnsupportedMoveOperation": "Move operation is not supported in this context. Do you want to copy the items instead?",
+    "HiddenItems": "Hidden items",
+    "Custom": "Custom",
+    "SetAsSlideshow": "Set as desktop slideshow",
+    "SizeAllColumnsToFit": "Size all columns to fit",
+    "Adaptive": "Automatically choose the best layout",
+    "AdaptiveShortcutTooltip": "Adaptive (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Show alternate data streams",
+    "Behaviors": "Behaviors",
+    "ReviewFiles": "Review Files",
+    "ReviewFilesContent": "Would you like to review Files?",
+    "SetAsBackgroundFlyout": "Set as background",
+    "SetAsBackground": "სამუშაო მაგიდის ფონად დაყენება",
+    "SetAsDefault": "Set as default",
+    "DateColumn": "Date column",
+    "DateCreatedColumn": "Date created column",
+    "SizeColumn": "Size column",
+    "TagColumn": "Tag column",
+    "TypeColumn": "Type column",
+    "Lockscreen": "Lockscreen",
+    "OpenFolderWithOneClickColumnsLayout": "Open folders with a single click in the Columns Layout",
+    "OpeningItems": "Opening items",
+    "Compress": "Compress",
+    "SelectFilesAndFoldersOnHover": "Select files and folders when hovering over them",
+    "ConfirmRestoreBinDialogContent": "Are you sure you want to restore all items in the recycle bin?",
+    "ConfirmRestoreBinDialogTitle": "Restore all items",
+    "ConfirmRestoreSelectionBinDialogContent": "Do you want to restore the {0} selected item(s)?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Restore selection",
+    "RestoreAllItems": "Restore All Items",
+    "Restore": "Restore",
+    "ShortcutCannotBeOpened": "Shortcut cannot be opened",
+    "DeleteShortcutDescription": "The target destination cannot be found {0}. Do you want to delete this shortcut?",
+    "AccessDeniedToFolder": "You don't have permission to access this folder.",
+    "ArchivePassword": "Archive password",
+    "ExtractToPath": "Path",
+    "SortingAndGrouping": "Sorting and grouping",
+    "CreateArchive": "Create archive",
+    "Create": "შექმნა",
+    "CreateNamedArchive": "Create {0}",
+    "EnterName": "Enter a name",
+    "CompressionLevel": "Compression level",
+    "CompressionLevelUltra": "Ultra",
+    "CompressionLevelHigh": "High",
+    "CompressionLevelNormal": "Normal",
+    "CompressionLevelLow": "Low",
+    "CompressionLevelFast": "Fast",
+    "CompressionLevelNone": "არცერთი",
+    "SplittingSize": "Splitting size",
+    "Do not split": "Do not split",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Encryption",
+    "Password": "პაროლი",
+    "Format": "ფორმატი",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Sync status column"
+    },
+    "GroupBy": "Group by",
+    "SortBy": "დახარისხება",
+    "GroupInDescendingOrder": "Group in descending order",
+    "SortInDescendingOrder": "Sort in descending order",
+    "NewShortcutDialogTitle": "Create a new shortcut",
+    "NewShortcutDialogDescription": "Create shortcuts to local or network programs, files, folders, computers or Internet addresses.",
+    "NewShortcutDialogPrompt": "Enter the location of the item:",
+    "AddDialogListShortcutSubHeader": "Creates a shortcut",
+    "RecentFilesDisabledOnWindowsWarning": "Recently used files is currently disabled in Windows File Explorer.",
+    "EditSettingsFile": "Edit settings file",
+    "WhatsNew": "What's new",
+    "CannotCreateShortcutDialogTitle": "Creating a shortcut in this location requires administrator privileges",
+    "CannotCreateShortcutDialogMessage": "Would you like to create the shortcut on the desktop instead?",
+    "ErrorDialogNameNotAllowed": "The specified item name is invalid",
+    "Settings": "პარამეტრები",
+    "DoubleClickBlankSpaceToGoUp": "Double click on a blank space to go up one directory",
+    "ViewMore": "View more",
+    "ShowEditTagsMenu": "Show edit tags flyout",
+    "ShowCompressionOptions": "Show compression options",
+    "ShowSendToMenu": "Show send to menu",
+    "ShowOpenInNewTab": "Show option to open folders in a new tab",
+    "ShowOpenInNewWindow": "Show option to open folders in a new window",
+    "QuickAccess": "Quick access",
+    "NetworkAuthenticationDialogMessage": "Enter your credentials to connect to: {0}",
+    "NetworkAuthenticationDialogTitle": "Enter network credentials",
+    "NetworkAuthenticationSaveCheckbox": "Remember my credentials",
+    "NetworkFolderErrorDialogTitle": "Network folder error",
+    "AppVersion": "App version",
+    "WindowsVersion": "Windows version",
+    "Always": "Always",
+    "PermanentDeletionOnly": "Permanent deletion only",
+    "Never": "Never",
+    "TagColor": "Tag color",
+    "NewTag": "New tag",
+    "CreateNewTag": "Create new tag",
+    "Loading": "Loading...",
+    "ContextMenuOptions": "Context menu options",
+    "ShowFileExtensions": "Show file extensions",
+    "ShowHiddenItems": "Show hidden items",
+    "FormatDriveText": "Format...",
+    "Help": "Help",
+    "FullScreen": "Toggle full screen",
+    "ConfirmDeleteTag": "Are you sure you want to delete this tag?",
+    "PlayAll": "Play all",
+    "Height": "Height",
+    "Width": "Width",
+    "ApplyToAllConflictingItems": "Apply this action to all conflicting items",
+    "OpenTerminal": "Open in Windows Terminal",
+    "OpenTerminalAsAdmin": "Open in Windows Terminal as administrator",
+    "Save": "Save",
+    "MultiSelect": "Multiselect",
+    "ReorderSidebarItemsDialogText": "Reorder sidebar items",
+    "Hashes": "Hashes",
+    "CalculationError": "An error occurred during the calculation",
+    "CalculationErrorFileIsOpen": "Failed to calculate the hash, please close the file and try again.",
+    "CalculationOnlineFileHashError": "Hashes aren't available for online files",
+    "Algorithm": "Algorithm",
+    "HashValue": "Hash value",
+    "SelectHashesToShow": "Select hashes to show",
+    "Calculating": "Calculating...",
+    "JumpListPinnedGroupHeader": "Pinned items",
+    "DecreaseSize": "Decrease size",
+    "IncreaseSize": "Increase size",
+    "ToggleSortDirection": "Toggle sort direction",
+    "InvalidTagNameWarning": "Invalid name",
+    "TagNameRules": "Name must not be empty or start or end with a period.",
+    "Videos": "ვიდეოები",
+    "LaunchPreviewPopup": "Launch preview popup",
+    "ToggleCompactOverlay": "Toggle compact overlay",
+    "OpenHelpDescription": "Open online help page in browser",
+    "ToggleFullScreenDescription": "Toggle full screen",
+    "EnterCompactOverlayDescription": "შეერთებული გადაფარვის ჩართვა",
+    "ExitCompactOverlayDescription": "შეერთებული გადაფარვის გამორთვა",
+    "ToggleCompactOverlayDescription": "Toggle compact overlay",
+    "SearchDescription": "Go to search box",
+    "ToggleShowHiddenItemsDescription": "Toggle whether to show hidden items",
+    "ToggleShowFileExtensionsDescription": "Toggle whether to show file extensions",
+    "TogglePreviewPaneDescription": "Toggle the preview pane to view file previews",
+    "ToggleSidebarDescription": "Toggle whether to show sidebar",
+    "CopyItemDescription": "Copy item(s) to clipboard",
+    "CopyPathDescription": "Copy path of selected items to the clipboard",
+    "CopyPathWithQuotesDescription": "Copy path of selected items with quotes to the clipboard",
+    "CutItemDescription": "Cut item(s) to clipboard",
+    "PasteItemDescription": "Paste item(s) from clipboard to current folder",
+    "PasteItemToSelectionDescription": "Paste item(s) from clipboard to selected folder",
+    "DeleteItemDescription": "ელემენტ(ებ)ის წაშლა",
+    "CreateFolderDescription": "Create new folder",
+    "CreateShortcutDescription": "Create new shortcut(s) to selected item(s)",
+    "CreateShortcutFromDialogDescription": "Create new shortcut to any item",
+    "EmptyRecycleBinDescription": "სანაგვე ყუთის გასუფთავება",
+    "FormatDriveDescription": "Open \"Format Drive\" menu for selected item",
+    "RestoreRecycleBinDescription": "Restore selected item(s) from recycle bin",
+    "RestoreAllRecycleBinDescription": "Restore all items from recycle bin",
+    "OpenItemDescription": "Open item(s)",
+    "OpenItemWithApplicationPickerDescription": "Open item(s) with selected application",
+    "OpenParentFolderDescription": "Open parent folder of searched item",
+    "RefreshItemsDescription": "Refresh page contents",
+    "RenameDescription": "Rename selected item",
+    "SelectAllDescription": "Select all items",
+    "InvertSelectionDescription": "Invert item selection",
+    "ClearSelectionDescription": "Clear item selection",
+    "ToggleSelectDescription": "Toggle item selection",
+    "ShareItemDescription": "Share selected file(s) with others",
+    "PinToStartDescription": "Pin item(s) to the Start Menu",
+    "UnpinFromStartDescription": "Unpin item(s) from the Start Menu",
+    "PinFolderToSidebarDescription": "Pin folder(s) to Sidebar",
+    "UnpinFolderFromSidebarDescription": "Unpin folder(s) from Sidebar",
+    "SetAsWallpaperBackgroundDescription": "Set selected picture as desktop background",
+    "SetAsSlideshowBackgroundDescription": "Set selected pictures as desktop slideshow",
+    "SetAsLockscreenBackgroundDescription": "Set selected picture as lockscreen background",
+    "SetAsAppBackgroundDescription": "Set selected picture as the app background",
+    "InstallFontDescription": "Install selected font(s)",
+    "InstallInfDriverDescription": "Install driver(s) using selected inf file(s)",
+    "InstallCertificateDescription": "Install selected certificate(s)",
+    "RunAsAdminDescription": "Run selected application as administrator",
+    "RunAsAnotherUserDescription": "Run selected application as another user",
+    "RunWithPowershellDescription": "Run selected PowerShell script",
+    "LaunchPreviewPopupDescription": "Launch preview in popup window",
+    "CompressIntoArchiveDescription": "Create archive with selected item(s)",
+    "CompressIntoSevenZipDescription": "Create 7z archive instantly with selected item(s)",
+    "CompressIntoZipDescription": "Create zip archive instantly with selected item(s)",
+    "DecompressArchiveDescription": "Extract items from selected archive(s) to any folder",
+    "DecompressArchiveHereDescription": "Extract items from selected archive(s) to current folder",
+    "DecompressArchiveToChildFolderDescription": "Extract items from selected archive(s) to new folder",
+    "RotateLeftDescription": "Rotate selected image(s) to the left",
+    "RotateRightDescription": "Rotate selected image(s) to the right",
+    "OpenSettingsDescription": "Open settings page",
+    "OpenTerminalDescription": "Open folder in terminal",
+    "OpenTerminalAsAdminDescription": "Open folder in terminal as administrator",
+    "LayoutDecreaseSizeDescription": "Decrease item size in the current view",
+    "LayoutIncreaseSizeDescription": "Increase item size in the current view",
+    "LayoutDetailsDescription": "Switch to details view",
+    "LayoutTilesDescription": "Switch to tiles view",
+    "LayoutListDescription": "Switch to list view",
+    "List": "List",
+    "Grid": "Grid",
+    "LayoutGridDescription": "Switch to grid view",
+    "LayoutColumnsDescription": "Switch to columns view",
+    "LayoutAdaptiveDescription": "Switch views adaptively",
+    "SortByNameDescription": "Sort items by name",
+    "SortByDateModifiedDescription": "Sort items by date modified",
+    "SortByDateCreatedDescription": "Sort items by date created",
+    "SortBySizeDescription": "Sort items by size",
+    "SortByTypeDescription": "Sort items by type",
+    "SortBySyncStatusDescription": "Sort items by sync status",
+    "SortByTagDescription": "Sort items by tags",
+    "SortByOriginalFolderDescription": "Sort items by original folder",
+    "SortByDateDeletedDescription": "Sort items by date deleted",
+    "SortAscendingDescription": "Sort items in ascending order",
+    "SortDescendingDescription": "Sort items in descending order",
+    "ToggleSortDirectionDescription": "Toggle item sort direction",
+    "GroupByNoneDescription": "List items without grouping",
+    "GroupByNameDescription": "Group items by name",
+    "GroupByDateModifiedDescription": "Group items by date modified",
+    "GroupByDateCreatedDescription": "Group items by date created",
+    "GroupBySizeDescription": "Group items by size",
+    "GroupByTypeDescription": "Group items by type",
+    "GroupBySyncStatusDescription": "Group items by sync status",
+    "GroupByTagDescription": "Group items by tags",
+    "GroupByOriginalFolderDescription": "Group items by original folder",
+    "GroupByDateDeletedDescription": "Group items by date deleted",
+    "GroupByFolderPathDescription": "Group items by folder path",
+    "GroupAscendingDescription": "Sort groups in ascending order",
+    "GroupDescendingDescription": "Sort groups in descending order",
+    "ToggleGroupDirectionDescription": "Toggle group sort direction",
+    "NewTabDescription": "Open new tab",
+    "NavigateBackDescription": "Navigate backward in navigation history",
+    "NavigateForwardDescription": "Navigate forward in navigation history",
+    "NavigateUpDescription": "Navigate up one directory",
+    "DuplicateCurrentTabDescription": "Duplicate current tab",
+    "DuplicateSelectedTabDescription": "Duplicate selected tab",
+    "CloseTabsToTheLeftCurrentDescription": "Close tabs to the left of current tab",
+    "CloseTabsToTheLeftSelectedDescription": "Close tabs to the left of selected tab",
+    "CloseTabsToTheRightCurrentDescription": "Close tabs to the right of current tab",
+    "CloseTabsToTheRightSelectedDescription": "Close tabs to the right of selected tab",
+    "CloseOtherTabsCurrentDescription": "Close tabs other than current tab",
+    "CloseOtherTabsSelectedDescription": "Close tabs other than selected tab",
+    "ReopenClosedTabDescription": "Reopen last closed tab",
+    "PreviousTabDescription": "Move to the previous tab",
+    "NextTabDescription": "Move to the next tab",
+    "CloseSelectedTabDescription": "Close current tab",
+    "OpenNewPaneDescription": "Open new pane",
+    "ClosePaneDescription": "Close right pane",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Toggle the sidebar",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Space",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Backspace",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Left",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Right",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Down",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "ზემოთ (Alt+Up Arrow)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "მთავარი",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PageDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Sleep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "გასუფთავება",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Print",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Help",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mouse4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mouse5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Mail",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "GoHome",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "GoBack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "GoForward",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "BrowserRefresh",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "BrowserStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Search",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "ფავორიტები",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "PlayPause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PrevTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "NextTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaSelect",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Mute",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "VolDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "VolUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Change",
+    "ToggleSelect": "Toggle selection",
+    "ShowFileExtensionWarning": "Show warning when changing file extensions",
+    "ThisPC": "This PC",
+    "RecycleBin": "Recycle Bin",
+    "Untagged": "Untagged",
+    "PreviousTab": "Moves to the previous tab",
+    "NextTab": "Moves to the next tab",
+    "CloseTab": "Closes current tab",
+    "EditPath": "Edit path",
+    "Redo": "Redo",
+    "Undo": "Undo",
+    "InvalidLocation": "Invalid location",
+    "CopyFileWithoutProperties": "Are you sure you want to copy these files without their properties?",
+    "FilePropertiesCannotBeCopied": "These files have properties that can't be copied to the new location",
+    "FilePropertiesCannotBeMoved": "These files have properties that can't be moved to the new location",
+    "MoveFileWithoutProperties": "Are you sure you want to move these files without their properties?",
+    "ShowCheckboxesWhenSelectingItems": "Show checkboxes when selecting items",
+    "EditPathDescription": "Focus path bar",
+    "AddItemDescription": "Create new item",
+    "SecurityNoAccessControlEntriesText": "No groups or users have permission to access this object. However, the owner of this object can assign permissions.",
+    "OpenFileLocationDescription": "Open the item's location",
+    "DeletePermanently": "Delete permanently",
+    "DeleteItemPermanentlyDescription": "Delete item(s) permanently",
+    "PlayAllDescription": "Play the selected media files",
+    "UndoDescription": "Undo the last file operation",
+    "RedoDescription": "Redo the last file operation",
+    "Location": "Location:",
+    "GroupByMonthDescription": "Group items by month",
+    "GroupByYearDescription": "Group items by year",
+    "Month": "Month",
+    "Day": "Day",
+    "ToggleGroupByDateUnitDescription": "Toggle unit for grouping by date",
+    "ToggleGroupingUnit": "Toggle grouping unit",
+    "Year": "წელი",
+    "GroupByDateUnit": "Group by date unit",
+    "GroupByDateCreatedDayDescription": "Group items by day of date created",
+    "GroupByDateCreatedMonthDescription": "Group items by month of date created",
+    "GroupByDateCreatedYearDescription": "Group items by year of date created",
+    "GroupByDateDeletedDayDescription": "Group items by day of date deleted",
+    "GroupByDateDeletedMonthDescription": "Group items by month of date deleted",
+    "GroupByDateDeletedYearDescription": "Group items by year of date deleted",
+    "GroupByDateModifiedDayDescription": "Group items by day of date modified",
+    "GroupByDateModifiedMonthDescription": "Group items by month of date modified",
+    "GroupByDateModifiedYearDescription": "Group items by year of date modified",
+    "SecurityClickAdvancedPermissions": "Click 'Advanced permissions' to continue.",
+    "SecurityRequireReadPermissions": "You must have Read permissions to view the properties of this item.",
+    "SecuritySuggestToTakeOwnership": "To try taking ownership of the item, which includes permission to view its properties, click Change above.",
+    "SecurityUnableToDisplayPermissions": "Unable to display permissions.",
+    "StashChanges": "Leave my changes on '{0}'",
+    "DiscardChanges": "Discard my changes",
+    "BringChanges": "Bring my changes to '{0}'",
+    "UncommittedChanges": "You have uncommitted changes on this branch. What would you like to do with them?",
+    "SwitchBranch": "Switch branch",
+    "Branches": "Branches",
+    "Switch": "Switch",
+    "NewBranch": "New branch",
+    "InvalidBranchName": "Invalid branch name",
+    "CreateBranch": "Create branch",
+    "CreateNewBranch": "Create branch",
+    "BasedOn": "Based on",
+    "SwitchToNewBranch": "Switch to new branch",
+    "CreateFolderWithSelectionDescription": "Create a folder with the currently selected item(s)",
+    "OpenProperties": "Open properties",
+    "OpenPropertiesDescription": "Open properties window",
+    "Locals": "Locals",
+    "Remotes": "Remotes",
+    "ImproveTranslation": "Translate on Crowdin",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Run git fetch",
+    "GitPullDescription": "Run git pull",
+    "Preview": "Preview",
+    "GitStatus": "Git status",
+    "GitError": "Git error",
+    "PullTimeoutError": "git pull failed due to a timeout error",
+    "MultipleValues": {
+        "text": "(multiple values)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Author",
+    "DateCommitted": "Date committed",
+    "CommitMessage": "Commit message",
+    "CommitSha": "Commit SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Backdrop Material",
+    "Solid": "Solid",
+    "ManageBranches": "Manage branches",
+    "Push": "Push",
+    "GitPushDescription": "Run git push",
+    "GitSync": "Sync",
+    "GitSyncDescription": "Run git pull and then git push",
+    "GitSyncStatusExtendedInfo": "{0} outgoing / {1} incoming commits",
+    "ConnectGitHub": "Connect to GitHub",
+    "ConnectGitHubDescription": "Enter the following code at the link below to start working with GitHub repositories.",
+    "CannotReachGitHubError": "Files cannot access GitHub right now.",
+    "OpenInVSCode": "Open folder in VS Code",
+    "OpenInVSCodeDescription": "Open the current directory in Visual Studio Code",
+    "OpenRepoInVSCode": "Open repo in VS Code",
+    "OpenRepoInVSCodeDescription": "Open the root of the Git repo in Visual Studio Code",
+    "CopyCode": "Copy code",
+    "Added": "Added",
+    "Deleted": "Deleted",
+    "Modified": "Modified",
+    "Untracked": "Untracked",
+    "UnableToDisplayOwner": "Unable to display current owner.",
+    "AuthorizationSucceded": "Great! You are now authorized.",
+    "InitRepo": "Initialize repo",
+    "InitRepoDescription": "Initialize a Git repository",
+    "GitOriginRepositoryName": "Remote Repository Name",
+    "GitCurrentBranch": "Current Branch",
+    "PathColumn": "Path column",
+    "SortByPathDescription": "Sort items by path",
+    "OpenDirectoryInNewPaneDescription": "Open directory in new pane",
+    "OpenDirectoryInNewTabDescription": "Open directory in new tab",
+    "OpenInNewWindowDescription": "Open directory in new window",
+    "OpenAllTaggedItems": "Open all",
+    "OpenAllTaggedItemsDescription": "Open all tagged items",
+    "DriveWithLetter": {
+        "text": "Drive ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Invalid command",
+    "InvalidCommandContent": "'{0}' is not recognized as a command.",
+    "CommandNotExecutable": "Command not executable",
+    "CommandNotExecutableContent": "The '{0}' command is not ready to be executed.",
+    "CommandPalette": "Command palette",
+    "OpenCommandPaletteDescription": "Open command palette",
+    "ShortcutItemWorkingDir": "Start in:",
+    "TurnOnBitLocker": "Turn on BitLocker",
+    "ManageBitLocker": "Manage BitLocker",
+    "CopyFailureFileToLarge": "The following items are too large to be copied to this drive",
+    "FormatDrive": "Format drive",
+    "DontShowAgain": "Don't show again",
+    "FilesRunningAsAdmin": "Files is running as administrator",
+    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
+    "SettingsLeaveAppRunning": "Leave app running in the background when the window is closed",
+    "Blue": {
+        "text": "Blue",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Blue Gray",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Brick Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Camouflage",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Cool Blue Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Gray",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Gray Dark",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Green",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Mint Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Orange Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Overcast",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rose Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Seafoam",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Storm",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Violet Red Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Yellow Gold",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Clear completed",
+    "NameWithColon": "Name:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} of {1} processed",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "ნივთი",
+    "CannotInitializeGitRepo": "Files can't initialize this directory as a Git repository.",
+    "ContributingArtist": "Contributing Artist",
+    "AddPage": "Add page",
+    "ProcessingItems": "Processing items...",
+    "SpeedWithColon": "Speed:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Canceled compressing {0} items to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Canceled compressing {0} items from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Compressed {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Canceled copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Canceled copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Copied {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Canceled extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Canceled extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Extracted \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Extracted \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Error extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Failed to extract \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Deleted {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Failed to delete {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Moved {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Moved {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Failed to move {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Canceled emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Emptied Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Error emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Failed to empty Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Preparing the operation...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} item(s) processed",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Unblock downloaded file",
+    "NoFileOperations": "No ongoing file operations",
+    "OpenOnStartupDisabled": "The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.",
+    "FailedToRestore": "Failed to restore items from Recycle Bin",
+    "FailedToSetBackground": "Failed to set the background wallpaper",
+    "GitDeleteBranch": "Delete Git branch",
+    "GitDeleteBranchSubtitle": "Are you sure you want to permanently delete \"{0}\" branch?",
+    "ConnectedToGitHub": "Connected to GitHub",
+    "Logout": "Logout",
+    "ConnectToGitHub": "Connect to GitHub",
+    "Login": "Login",
+    "ErrorApplyingTagContent": "Tags are currently only compatible on drives formatted as NTFS.",
+    "ErrorApplyingTagTitle": "There was an error applying this tag",
+    "DecompressArchiveHereSmartDescription": "Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive",
+    "ExtractHereSmart": "Extract here (Smart)",
+    "SortFilesAndFoldersTogether": "Sort files and folders together",
+    "SortFilesAndFoldersTogetherDescription": "Sort files and folders together",
+    "SortFilesFirst": "Sort files first",
+    "SortFilesFirstDescription": "Sort files first then folders",
+    "SortFoldersFirst": "Sort folders first",
+    "SortFoldersFirstDescription": "Sort folders first then files",
+    "SortPriority": "Sort priority",
+    "FailedToRotateImage": "Failed to rotate the image",
+    "Restart": "Restart",
+    "Quit": "Quit",
+    "FaildToShareItems": "Failed to share items",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll to previous folder when navigating up",
+    "NewWindowDescription": "Open new window",
+    "ChangeAlbumCover": "Change album cover",
+    "ItemRenameFailed": "Failed to rename item",
+    "HigherPermissionsRequired": "Editing \"{0}\" requires additional permissions",
+    "EditPermissions": "Edit permissions",
+    "BackgroundRunningNotificationBody": "Files is still running in the background to improve startup performance.",
+    "BackgroundRunningNotificationHeader": "Where did Files go?",
+    "QuestionsAndDiscussions": "Questions & discussions",
+    "TilesViewSizeInfo": "Additional sizes are not yet available for the Tiles View.",
+    "Compact": {
+        "text": "Compact",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "პატარა",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "საშუალო",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Medium +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Medium ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Medium +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Medium ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Medium +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "დიდი",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Large +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Large ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Large +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Extra large",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Details view",
+    "LayoutType": "Layout type",
+    "Actions": "Actions",
+    "Commands": "Commands",
+    "AddCommand": "Add command",
+    "RestoreDefaults": "Restore defaults",
+    "ChooseAnAction": "Choose an action",
+    "RestoreDefaultKeybindingsConfirmation": "Are you sure you want to restore the default key bindings? This action cannot be undone.",
+    "KeybindingAlreadyUsedNotification": "This key binding is already being used, please choose a different key binding to continue.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Customized",
+    "AdaptiveLayoutDisabledNotification": "Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.",
+    "BackgroundImage": "Background image",
+    "Bottom": {
+        "text": "Bottom",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Center",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horizontal alignment",
+    "ImageFit": "Image fit",
+    "Left": {
+        "text": "Left",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacity",
+    "Right": {
+        "text": "Right",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Top",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniform",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniform to fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Vertical alignment",
+    "ThinAcrylic": {
+        "text": "Thin Acrylic",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Show for all locations",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Developer tools",
+    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "GitRepos": {
+        "text": "Show for Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Application extension",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO File",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip File",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap Files",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Network locations",
+    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
+    "Disable": "Disable",
+    "EditInNotepad": "Edit in Notepad",
+    "EditInNotepadDescription": "Edit the selected file in Notepad"
+}

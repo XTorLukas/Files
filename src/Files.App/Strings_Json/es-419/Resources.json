@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Nueva ventana",
+    "CopyPath": "Copiar ruta",
+    "CopyPathWithQuotes": "Copiar ruta con comillas",
+    "Browse": "Examinar",
+    "Size": "Tamaño",
+    "PropertiesCreated": {
+        "Text": "Creado:"
+    },
+    "Path": "Ruta",
+    "SizeLabel": "Tamaño:",
+    "SizeOnDiskLabel": "Tamaño en disco:",
+    "UncompressedSize": "Tamaño sin comprimir:",
+    "ErrorDialogThisActionCannotBeDone": "Esta acción no se puede completar",
+    "ErrorDialogTheDestinationFolder": "La carpeta de destino",
+    "ErrorDialogIsASubfolder": "es la misma que la carpeta de origen",
+    "Skip": "Omitir",
+    "SelectAll": "Seleccionar todo",
+    "InvertSelection": "Invertir selección",
+    "ClearSelection": "Borrar selección",
+    "PropertiesModified": {
+        "Text": "Modificado:"
+    },
+    "Accessed": "Accedido:",
+    "RecentItemClearAll": {
+        "Text": "Borrar todo"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Introduzca una ruta para navegar o escriba \">\" para abrir la paleta de comandos"
+    },
+    "Search": "Buscar",
+    "RecentItemDescription": {
+        "Text": "Los archivos a los que haya accedido anteriormente aparecerán aquí"
+    },
+    "RecentItemRemove": {
+        "Text": "Quitar"
+    },
+    "OpenGitHubRepo": "Repositorio de GitHub",
+    "About": "Acerca de Files",
+    "OpenSource": "Código abierto",
+    "DateFormat": "Formato de fecha",
+    "SettingsAppearanceTheme": "Tema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Mostrar las extensiones de archivo para tipos de archivo conocidos",
+    "SettingsFilesAndFoldersShowHiddenItems": "Mostrar todos los archivos y carpetas ocultos",
+    "ShowDotFiles": "Mostrar archivos que comienzan con un punto",
+    "Appearance": "Apariencia",
+    "BackgroundColor": "Color de fondo",
+    "Advanced": "Avanzado",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Continuar donde lo dejó"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Abrir una nueva pestaña"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Abrir una página o páginas específicas"
+    },
+    "Desktop": "Escritorio",
+    "Documents": "Documentos",
+    "Downloads": "Descargas",
+    "Name": "Nombre",
+    "Ascending": "Ascendente",
+    "Paste": "Pegar",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Nuevo"
+    },
+    "Properties": "Propiedades",
+    "Open": "Abrir",
+    "OpenInNewTab": "Abrir en una nueva pestaña",
+    "OpenInNewWindow": "Abrir en una nueva ventana",
+    "Share": "Compartir",
+    "Cut": "Cortar",
+    "Delete": "Eliminar",
+    "PinFolderToSidebar": "Anclar en la barra lateral",
+    "WelcomeDialog": {
+        "Title": "Bienvenido a Files!",
+        "PrimaryButtonText": "Otorgar permiso"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Para comenzar, deberá otorgarnos permiso para mostrar sus archivos. Esto abrirá una página de Configuración donde puede otorgarnos este permiso. Deberá reiniciar la aplicación una vez que haya completado este paso."
+    },
+    "Display": "Visualización",
+    "EnterAnItemName": "Introducir nombre del elemento",
+    "RenameDialog": {
+        "PrimaryButtonText": "Establecer nombre"
+    },
+    "LightTheme": "Claro",
+    "DarkTheme": "Oscuro",
+    "Application": "Aplicación",
+    "SystemTimeStyle": "Sistema",
+    "NewFolder": "Nueva carpeta",
+    "NewFile": "Nuevo archivo",
+    "EmptyFolder": {
+        "Text": "Esta carpeta está vacía."
+    },
+    "Back": "Atrás",
+    "Forward": "Adelante",
+    "Up": "Arriba",
+    "Refresh": "Actualizar",
+    "ItemAlreadyExistsDialogContent": "Un elemento con este nombre ya existe en esta ubicación.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Reemplazar elemento existente",
+    "ItemAlreadyExistsDialogTitle": "El elemento ya existe",
+    "SetAsLockscreen": "Establecer como fondo de pantalla de bloqueo",
+    "SetAsAppBackground": "Establecer como fondo de aplicación",
+    "AccessDeniedDeleteDialog": {
+        "Text": "No pudimos eliminar este elemento"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Inserte la unidad necesaria para acceder a este elemento.",
+        "Title": "Unidad no conectada"
+    },
+    "FileNotFoundDialog": {
+        "Text": "El archivo al que está intentando acceder puede haberse movido o eliminado.",
+        "Title": "Archivo no encontrado"
+    },
+    "CannotAccessPropertiesTitle": "No se pueden abrir las propiedades de este archivo",
+    "CannotAccessPropertiesContent": "El archivo al que está intentando acceder puede haberse movido o eliminado.",
+    "FolderNotFoundDialog": {
+        "Text": "La carpeta a la que está intentando acceder puede haberse movido o eliminado.",
+        "Title": "¿Ha eliminado esta carpeta?"
+    },
+    "FileInUseByDialog": {
+        "Text": "El archivo al que está intentando acceder está siendo utilizado actualmente por {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "El archivo al que está intentando acceder está siendo utilizado actualmente por otra aplicación",
+        "Title": "Archivo en uso"
+    },
+    "Layout": "Diseño",
+    "PropertiesDialogReadOnly": {
+        "Text": "Solo lectura"
+    },
+    "DaysAgo": "{0, plural, one {hace # día} other {hace # días}}",
+    "HoursAgo": "{0, plural, one {hace # hora} other {hace # horas}}",
+    "MinutesAgo": "{0, plural, one {hace # minuto} other {hace # minutos}}",
+    "SecondsAgo": "{0, plural, one {hace # segundo} other {hace # segundos}}",
+    "Now": "Ahora",
+    "ErrorDialogUnsupportedOperation": "La operación solicitada no es soportada",
+    "DriveFreeSpaceAndCapacity": "{0} disponibles de {1}",
+    "SendTo": "Enviar a",
+    "FileNameTeachingTip": {
+        "Subtitle": "El nombre de archivo no puede contener ninguno de los siguientes caracteres: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "El nombre del elemento especificado no es válido"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# elemento seleccionado} other {# elementos seleccionados}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Sí",
+    "ConfirmEmptyBinDialogContent": "¿Está seguro que desea eliminar todos estos elementos?",
+    "ConfirmEmptyBinDialogTitle": "Vaciar papelera de reciclaje",
+    "ItemSizeBytes": "bytes",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {archivo} other {archivos}}, {1, number} {1, plural, one {carpeta} other {carpetas}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {archivo} other {archivos}}, {1, number} {1, plural, one {carpeta} other {carpetas}} desde {2, number} {2, plural, one {ubicación} other {ubicaciones}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Ejecutar como otro usuario"
+    },
+    "PropertiesDriveItemTypesEquals": "Todos del tipo {0}",
+    "PropertiesDriveItemTypeDifferent": "Tipos múltiples",
+    "PropertiesCombinedItemLocation": "Todo(s) en {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Espacio usado:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Espacio disponible:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Capacidad:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Sistema de archivos:"
+    },
+    "JumpListRecentGroupHeader": "Recientes",
+    "TabStripDragAndDropUIOverrideCaption": "Mover la pestaña aquí",
+    "syncStatusColumn": {
+        "Header": "Estado"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Predeterminado de windows",
+    "NavigationToolbarVisiblePathNoResults": "No hay resultados",
+    "SubDirectoryAccessDenied": "No se puede acceder a ningún elemento para mostrar",
+    "MoveToFolderCaptionText": "Mover a {0}",
+    "CopyToFolderCaptionText": "Copiar a {0}",
+    "CreateShortcut": "Crear acceso directo",
+    "OpenFileLocation": "Abrir ubicación del archivo",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Argumentos:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Destino:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Tipo de destino:"
+    },
+    "PropertiesShortcutTypeLink": "Dirección URL",
+    "General": "General",
+    "Shortcut": "Acceso directo",
+    "ShortcutWebLinkFileType": "Acceso directo a Internet",
+    "ShortcutCreateNewSuffix": "{0} - Acceso directo",
+    "ExceptionNotificationBody": "Files se encontró con un problema para el que los desarrolladores aún no se prepararon.",
+    "ExceptionNotificationHeader": "¡Algo salió mal!",
+    "ExceptionNotificationReportButton": "Reportar este problema",
+    "InvalidItemDialogContent": "El elemento al que se hace referencia no es válido o es inaccesible.{0}Mensaje de error:{0}{1}",
+    "InvalidItemDialogTitle": "Elemento inválido",
+    "SettingsAboutVersionTitle": "Versión:",
+    "ShareDialogFailMessage": "No hay nada que compartir ahora mismo...",
+    "ShareDialogMultipleItemsDescription": "Los elementos que ha seleccionado se compartirán",
+    "ShareDialogSingleItemDescription": "Se compartirá el elemento seleccionado",
+    "ShareDialogTitle": "Compartiendo {0}",
+    "ShareDialogTitleMultipleItems": "Compartiendo {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "El elemento que está intentando renombrar ya no existe. Verifique la ubicación correcta del elemento que necesita renombrar.",
+            "Title": "El elemento ya no existe"
+        },
+        "NameInvalid": {
+            "Text": "El nombre especificado no es válido. Compruebe el nombre del elemento deseado y vuelva a intentarlo..",
+            "Title": "Nombre de elemento inválido"
+        },
+        "TooLong": {
+            "Text": "La longitud del nombre del elemento especificado supera el límite máximo. Compruebe el nombre deseado y vuelva a intentarlo.",
+            "Title": "El nombre del elemento es demasiado largo"
+        }
+    },
+    "ShowMoreOptions": "Mostrar más opciones",
+    "RestartNotificationText": {
+        "Text": "La aplicación necesita reiniciarse para aplicar los cambios, ¿Reiniciar ahora?"
+    },
+    "SponsorUsOnGitHub": "Patrocínenos en GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "No pudimos crear este elemento"
+    },
+    "AccessDenied": "Acceso Denegado",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Establecer como"
+    },
+    "Cancel": "Cancelar",
+    "AddDialog": {
+        "Title": "Crear nuevo elemento"
+    },
+    "AddDialogDescription": {
+        "Text": "Elija un tipo para este nuevo elemento a continuación"
+    },
+    "File": "Archivo",
+    "AddDialogListFileSubHeader": "Crea un archivo vacío",
+    "Folder": "Carpeta",
+    "AddDialogListFolderSubHeader": "Crea una carpeta vacía",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Actualizar directorio"
+        }
+    },
+    "Language": "Idioma",
+    "SettingsContextMenuOverflow": "Mover las extensiones del shell a un submenú",
+    "ShowConfirmationWhenDeletingItems": "Mostrar diálogo de confirmación al eliminar elementos",
+    "PropertySaveErrorMessage": {
+        "Text": "Hubo un problema al guardar algunas propiedades."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Error",
+        "SecondaryButtonText": "Cerrar de todos modos"
+    },
+    "PropertyRatingText": "Clasificación",
+    "PropertyParsingPath": "Ubicación",
+    "PropertyItemTypeText": "Tipo de elemento",
+    "PropertyTitle": "Título",
+    "PropertySubject": "Asunto",
+    "PropertyComment": "Comentarios",
+    "PropertyCopyright": "Derechos de autor",
+    "PropertyDateModified": "Fecha de modificación",
+    "PropertyBitDepth": "Profundidad en bits",
+    "PropertyDimensions": "Dimensiones",
+    "PropertyHorizontalSize": "Ancho",
+    "PropertyVerticalSize": "Alto",
+    "PropertyHorizontalResolution": "Resolución horizontal",
+    "PropertyVerticalResolution": "Resolución vertical",
+    "PropertyColorSpace": "Espacio de color",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Sin especificar",
+    "PropertyLongitudeDecimal": "Longitud Decimal",
+    "PropertyLatitudeDecimal": "Latitud Decimal",
+    "PropertyAltitude": "Altitud",
+    "PropertyDateTaken": "Fecha de captura",
+    "PropertyCameraManufacturer": "Fabricante de cámara",
+    "PropertyCameraModel": "Modelo de cámara",
+    "PropertyExposureTime": "Tiempo de exposición",
+    "PropertyFocalLength": "Distancia focal",
+    "PropertyAperture": "Apertura máxima",
+    "PropertyPeopleNames": "Nombre de personas ",
+    "PropertyChannelCount": "Canales",
+    "PropertyFormat": "Formato",
+    "PropertySampleRate": "Velocidad de muestra de sonido",
+    "PropertyAlbumArtist": "Intérprete del álbum",
+    "PropertyAlbumTitle": "Álbum",
+    "Artist": "Intérprete",
+    "PropertyBeatsPerMinute": "Pulsaciones por minuto",
+    "PropertyComposer": "Compositores",
+    "Conductor": "Conductores",
+    "PropertyDiscNumber": "Número de disco",
+    "PropertyGenre": "Género",
+    "PropertyTrackNumber": "Número de pista",
+    "PropertyDuration": "Duración",
+    "PropertyFrameCount": "Fotogramas",
+    "PropertyProtectionType": "Tipo de protección",
+    "PropertyAuthorUrl": "Dirección URL del autor",
+    "PropertyContentDistributor": "Proveedor de contenido",
+    "PropertyDateReleased": "Fecha de lanzamiento",
+    "PropertySeriesName": "Nombre de la serie",
+    "PropertySeasonNumber": "Número de temporada",
+    "PropertyEpisodeNumber": "Número de episodio",
+    "PropertyProducer": "Productor",
+    "PropertyPromotionUrl": "Dirección URL de promoción",
+    "PropertyProviderStyle": "Estilo de música",
+    "PropertyPublisher": "Editora",
+    "PropertyThumbnailLargePath": "Ruta de miniatura larga",
+    "PropertyThumbnailLargeUri": "Ruta de miniatura grande",
+    "PropertyThumbnailSmallPath": "Ruta de miniatura pequeña",
+    "PropertyThumbnailSmallUri": "Ruta de miniatura pequeña",
+    "PropertyUserWebUrl": "Dirección URL",
+    "PropertyWriter": "Escritor",
+    "PropertyYear": "Año",
+    "PropertyContributor": "Contribuidor",
+    "PropertyLastAuthor": "Último autor",
+    "PropertyRevisionNumber": "Número de revisión",
+    "PropertyVersion": "Versión",
+    "PropertyDateCreated": "Fecha de creación",
+    "PropertyTotalEditingTime": "Tiempo total de edición",
+    "PropertyTemplate": "Plantilla",
+    "PropertyWordCount": "Palabras",
+    "PropertyCharacterCount": "Caracteres",
+    "PropertyLineCount": "Líneas",
+    "PropertyParagraphCount": "Párrafos",
+    "PropertyPageCount": "Páginas",
+    "PropertySlideCount": "Diapositiva",
+    "PropertyFrameRate": "Velocidad fotograma",
+    "PropertyEncodingBitrate": "Velocidad de bits",
+    "PropertyPreviewAudioEncodingBitrate": "Tasa de bits de codificación de audio",
+    "PropertyPreviewVideoEncodingBitrate": "Tasa de bits de codificación de vídeo",
+    "Compression": "Compresión",
+    "PropertyFrameWidth": "Ancho de fotograma",
+    "PropertyFrameHeight": "Alto de fotograma",
+    "PropertyOrientation": "Orientación",
+    "PropertySectionCore": "Archivo",
+    "PropertySectionImage": "Imagen",
+    "PropertySectionPhoto": "Foto",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Multimedia",
+    "PropertySectionAudio": "Audio",
+    "PropertySectionMusic": "Música",
+    "PropertySectionVideo": "Vídeo",
+    "Document": "Documento",
+    "Address": "Dirección",
+    "SelectionOptions": "Opciones de selección",
+    "NavToolbarSelectionOptions": {
+        "Label": "Selección"
+    },
+    "RecycleBinItemAutomation": "Elemento de papelera de reciclaje",
+    "ShortcutItemAutomation": "Elemento de acceso directo",
+    "Drives": "Dispositivos y unidades",
+    "PinToSidebarByDraggingCaptionText": "Mover aquí",
+    "EjectNotificationHeader": "Es seguro quitar el hardware",
+    "EjectNotificationBody": "Ahora se puede quitar el dispositivo de forma segura del equipo.",
+    "EjectNotificationErrorDialogHeader": "Problema al expulsar el dispositivo",
+    "EjectNotificationErrorDialogBody": "El dispositivo está en uso. Cierre cualquier programa o ventana que pueda estar usando el dispositivo e inténtelo de nuevo.",
+    "Eject": "Expulsar",
+    "DuplicateTab": "Duplicar pestaña",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Mover a una nueva ventana"
+    },
+    "NewTab": "Nueva pestaña",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Algunas propiedades pueden contener información personal."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Quitar todas las propiedades"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Verifique el estado de las operaciones de archivo aquí",
+        "Title": "Centro de actividades"
+    },
+    "SearchPagePathBoxOverrideText": "Resultados de la búsqueda en {1} para {0}",
+    "Details": "Detalles",
+    "No": "No",
+    "ShowProtectedSystemFiles": "Mostrar archivos protegidos del sistema",
+    "SyncFolderPreferencesAcrossDirectories": "Sincronizar preferencias de diseño y clasificación entre directorios",
+    "SettingsContextMenu": {
+        "Text": "Personalizar el menú contextual"
+    },
+    "OriginalPath": "Ruta original",
+    "Add": "Añadir",
+    "Edit": "Editar",
+    "Remove": "Quitar",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Abrir pestañas en modo panel doble",
+    "ShowOpenInNewPane": "Mostrar opción para abrir carpetas en un nuevo panel",
+    "ShowCopyPath": "Mostrar opción para copiar ruta",
+    "ShowCreateFolderWithSelection": "Mostrar opción para crear una carpeta con la selección",
+    "ShowCreateShortcut": "Mostrar opción para crear acceso directo",
+    "NavigationToolbarNewPane": {
+        "Label": "Nuevo panel"
+    },
+    "OpenInNewPane": "Abrir en nuevo panel",
+    "FilesAndFolders": "Archivos y carpetas",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Detalles (Ctrl+Mayús+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Mosaicos (Ctrl+Mayús+2)"
+        }
+    },
+    "DateDeleted": "Fecha de eliminación",
+    "SidebarCloudDrives": "Unidades de la nube",
+    "Confirm": "Confirmar",
+    "DesiredName": "Nuevo nombre",
+    "TogglePreviewPane": "Alternar el panel de vista previa",
+    "ToggleDetailsPane": "Mostrar panel de detalles",
+    "ToggleDetailsPaneDescription": "Activar el panel de detalles para ver las propiedades básicas del archivo",
+    "ToggleInfoPane": "Mostrar panel de información",
+    "ToggleInfoPaneDescription": "Mostrar/Ocultar panel de información con paneles de vista previa y detalles",
+    "DetailsPanePreviewNotAvaliableText": "No hay vista previa disponible",
+    "PropertyItemName": "Nombre",
+    "UnpinFolderFromSidebar": "Desanclar de la barra lateral",
+    "Network": "Red",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Detalles del archivo"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Vista previa del archivo"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Panel de vista previa del archivo seleccionado"
+        }
+    },
+    "Feedback": "Comentarios",
+    "CloudDriveSyncStatus_Online": "Disponible cuando está en línea",
+    "Documentation": "Documentación",
+    "CloudDriveSyncStatus_Offline": "Disponible sin conexión",
+    "CloudDriveSyncStatus_PartialOffline": "Parcialmente disponible sin conexión",
+    "CloudDriveSyncStatus_Sync": "Sincronizando",
+    "CloudDriveSyncStatus_Excluded": "Excluido de la sincronización",
+    "ItemSizeNotCalculated": "No calculado",
+    "CloudDriveSyncStatus_Unknown": "Desconocido",
+    "RenameFileDialog": {
+        "Text": "Si cambia la extensión de un archivo, el archivo puede quedar inutilizable. ¿Está seguro de que desea cambiarlo? "
+    },
+    "DriveTypeCDRom": "CD ROM",
+    "DriveTypeCloudDrive": "Unidad en la nube",
+    "DriveTypeFixed": "Disco local",
+    "DriveTypeFloppyDisk": "Disquete",
+    "DriveTypeNetwork": "Unidad de red",
+    "DriveTypeNoRootDirectory": "Unidad desmontada",
+    "DriveTypeRam": "Unidad de RAM (RAMDisk)",
+    "DriveTypeRemovable": "Unidad extraíble",
+    "DriveTypeUnknown": "Desconocido",
+    "DriveTypeVirtualDrive": "Unidad virtual",
+    "DateCreated": "Fecha de creación",
+    "MoreOptions": "Más opciones...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Conectar una unidad de red"
+    },
+    "Pinned": "Anclados",
+    "SidebarLibraries": "Bibliotecas",
+    "NoItemSelected": "Ningun elemento seleccionado",
+    "PropertyItemTarget": "Destino",
+    "Arguments": "Argumentos",
+    "Default": "Predeterminado",
+    "PropertyItemCount": "Elementos",
+    "ElevateConfirmDialog": {
+        "Title": "Esta acción requiere permisos de administrador",
+        "Content": "¿Le gustaría continuar como administrador?"
+    },
+    "ColumnsShortcutTooltip": "Columnas (Ctrl+Mayús+6)",
+    "PinItemToStart": {
+        "Text": "Anclar a Inicio"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Desanclar de Inicio"
+    },
+    "Library": "Bibliotecas",
+    "LibraryLocations": {
+        "Text": "Ubicaciones:"
+    },
+    "SetAsDefaultSavePath": "Establecer como ruta de guardado predeterminada",
+    "LibraryNoLocations": {
+        "Text": "Sin ubicaciones"
+    },
+    "ErrorInputEmpty": "Este campo no puede estar vacío!",
+    "ErrorNameInputRestrictedCharacters": "El nombre no debe contener los siguientes caracteres: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "¡No se permite usar este nombre!",
+    "CreateLibraryErrorAlreadyExists": "¡Ya existe una biblioteca con el mismo nombre!",
+    "OpenStorageSense": "Abrir sensor de almacenamiento",
+    "Copy": "Copiar",
+    "CopyItemsDialogTitle": "Copia {0, plural, one {elemento} other {elementos}}",
+    "DeleteItemsDialogTitle": "Elimina {0, plural, one {elemento} other {elementos}}",
+    "MoveItemsDialogPrimaryButtonText": "Mover",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Un elemento será movido} other {# elementos serán movidos}}",
+    "MoveItemsDialogTitle": "Mueve {0, plural, one {elemento} other {elementos}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Un elemento será eliminado} other {# elementos serán eliminados}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Continuar",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Hay un nombre de archivo en conflicto} other {Hay # nombres de archivo en conflicto}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Hay un nombre de archivo en conflicto} other {Hay # nombres de archivo en conflicto}}, y {1, plural, one {un elemento saliente} other {# elementos salientes}}",
+    "ConflictingItemsDialogTitle": "Conflicto {0, plural, one {elemento} other {elementos}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {Un elemento será copiado} other {# elementos serán copiados}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Eliminar permanentemente"
+    },
+    "PropertyISO": "Velocidad ISO",
+    "ReplaceExisting": "Remplazar existente",
+    "GenerateNewName": "Generar nuevo nombre",
+    "CreateFolderWithSelection": "Crear carpeta con la selección",
+    "ItemType": "Tipo:",
+    "ToolTipDescriptionDate": "Fecha de modificación:",
+    "OpenWith": "Abrir con",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Icono"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Ubicación original"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Tipo"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Fecha de modificación"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Fecha de eliminación"
+    },
+    "Sort": "Ordenar",
+    "DateModifiedLowerCase": "Fecha de modificación",
+    "OriginalFolder": "Carpeta original",
+    "Descending": "Descendente",
+    "ItemSizeText_Huge": "Enorme",
+    "ItemSizeText_VeryLarge": "Muy grande",
+    "ItemSizeText_Large": "Grande",
+    "ItemSizeText_Medium": "Mediano",
+    "ItemSizeText_Small": "Pequeño",
+    "ItemSizeText_Tiny": "Muy pequeño",
+    "Future": "Futuro",
+    "Today": "Hoy",
+    "Yesterday": "Ayer",
+    "EarlierThisWeek": "A principios de esta semana",
+    "LastWeek": "La semana pasada",
+    "EarlierThisMonth": "A principios de este mes",
+    "LastMonth": "El mes pasado",
+    "EarlierThisYear": "A principios de este año",
+    "LastYear": "El año pasado",
+    "YearN": "Año {0}",
+    "GroupItemsCount_Singular": "{0} elemento",
+    "GroupItemsCount_Plural": "{0} elementos",
+    "ReopenClosedTab": "Volver a abrir pestaña cerrada",
+    "Rename": "Cambiar nombre",
+    "Privacy": "Privacidad",
+    "TheRecycleBin": "La papelera de reciclaje",
+    "Canceling": "Cancelando",
+    "Clear": "Quitar",
+    "Widgets": "Widgets",
+    "SyncStatus": "Estado de sincronización",
+    "Security": "Seguridad",
+    "AdvancedPermissions": "Permisos avanzados",
+    "Allow": "Permitir",
+    "Deny": "Denegar",
+    "SecurityFullControlLabel": {
+        "Text": "Control total"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Mostrar el contenido del directorio"
+    },
+    "Modify": "Modificar",
+    "SecurityPermissionsHeaderText": "Permisos para {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Lectura y ejecución"
+    },
+    "SecurityReadLabel": {
+        "Text": "Lectura"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Nombres de grupo o usuario"
+    },
+    "Write": "Escritura",
+    "SecurityUnknownAccount": "Cuenta desconocida",
+    "SecurityCannotReadProperties": {
+        "Text": "No tiene permisos para ver las propiedades de seguridad de este objeto. Haga clic en \"Permisos avanzados\" para continuar."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Propietario:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Propietario desconocido"
+    },
+    "ExtractArchive": "Extraer archivo",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Mostrar los archivos extraídos al completar"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Extraer en {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Crear nueva biblioteca"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Restaurar bibliotecas predeterminadas"
+    },
+    "DialogRestoreLibrariesSubtitleText": "¿Está seguro de que desea restaurar las bibliotecas predeterminadas? Todos sus archivos permanecerán en su almacenamiento.",
+    "DialogRestoreLibrariesTitleText": "Restaurar bibliotecas",
+    "PropertyFileOwner": "Propietario",
+    "SecuritySpecialLabel": {
+        "Text": "Especial"
+    },
+    "Access": "Acceso",
+    "SecurityAdvancedAppliesTo": "Se aplica a",
+    "Principal": "Principal",
+    "SecurityAdvancedFlagsFilesLabel": "archivos",
+    "SecurityAdvancedFlagsFolderLabel": "esta carpeta",
+    "SecurityAdvancedFlagsSubfoldersLabel": "subcarpetas",
+    "Inherited": "Heredado",
+    "Permissions": "Permisos",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "No tiene permisos para ver las propiedades de seguridad de este objeto. Puede intentar tomar posesión de este objeto."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Esta carpeta y archivos"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Esta carpeta, subcarpetas y archivos"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Solo archivos"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Solo subcarpetas"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Solo subcarpetas y archivos"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Solo esta carpeta"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Esta carpeta y subcarpetas"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Anexar datos"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Cambiar permisos"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Crear carpetas"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Crear archivos"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Eliminar subdirectorios y archivos"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Ejecutar archivos"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Leer atributos"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Leer datos"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Leer atributos extendidos"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Permisos de lectura"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Tomar posesión"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Ir a la carpeta"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Escribir atributos"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Escribir datos"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Escribir atributos extendidos"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Convertir los permisos heredados en permisos explícitos"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Habilitar herencia"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Quitar todos los permisos heredados"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Restablecer permisos secundarios"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Reemplazar todos los permisos de objetos secundarios por permisos heredables de este objeto"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Cerrar panel"
+    },
+    "EnterCompactOverlay": "Cambiar a modo superposición compacta",
+    "ExitCompactOverlay": "Salir del modo superposición compacta",
+    "PropertyFileDescription": "Descripción del archivo",
+    "PropertyCompany": "Compañía",
+    "PropertyLanguage": "Idioma",
+    "PropertyTrademarks": "Marcas comerciales",
+    "PropertyFileVersion": "Versión del archivo",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Cargar vista previa completa",
+        "ToolTipService": {
+            "ToolTip": "Descarga el elemento de la nube y carga la vista previa."
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# elemento} other {# elementos}} ({1, plural, one {# archivo} other {# archivos}}, {2, plural, one {# carpeta} other {# carpetas}})",
+    "PropertyUncompressedSize": "Tamaño sin comprimir",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Ocultar sección {0}"
+    },
+    "AddFile": "Añadir archivo",
+    "ConsentDialogTitle": "Actualizaciones disponibles",
+    "ConsentDialogContent": "Las actualizaciones están listas para la instalación",
+    "Close": "Cerrar",
+    "ConsentDialogPrimaryButtonText": "Actualizar",
+    "Home": "Inicio",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Mayús+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Mayús+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Mayús+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "La extracción del archivo se completó exitósamente.",
+    "ExtractingArchiveText": "Extrayendo archivo",
+    "ExtractingCompleteText": "Extracción completada!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Abrir carpeta principal"
+    },
+    "Unknown": "Desconocido",
+    "EditTags": "Editar etiquetas de archivo",
+    "PropertyPartOfSet": "Parte del conjunto",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Abrir unidad",
+        "Text": "Inserte un disco en la unidad {0}",
+        "Title": "Inserte un disco"
+    },
+    "OK": "Aceptar",
+    "AskCredentialDialog": {
+        "Title": "Se requiere credencial"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Anónimo"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Proporcione su credencial:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Nombre de usuario"
+    },
+    "NoSearchResultsFound": "No se encontraron elementos",
+    "OpenLogLocation": "Abrir ubicación de registro (Log)",
+    "LinkToFolderCaptionText": "Crear vínculo en {0}",
+    "Columns": "Columnas",
+    "Tiles": "Mosaicos",
+    "OpenFoldersInNewTab": "Abrir carpetas en nueva pestaña",
+    "StatusCenter": "Centro de actividades",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "fecha de creación"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Tamaño de elemento"
+    },
+    "ExperimentalFeatureFlags": "Indicadores de características experimentales",
+    "HelpAndSupport": "Ayuda y soporte",
+    "SubmitFeatureRequest": "Enviar solicitud de característica",
+    "SubmitBugReport": "Enviar informe de error",
+    "SettingsSetAsDefaultFileManager": "Establecer Files como gestor de archivos predeterminado",
+    "SettingsSetAsOpenDialog": "Usar Files como diálogo de apertura de archivos",
+    "Tag": "Etiqueta de archivo",
+    "SettingsOpenItemsWithOneClick": "Abrir elementos con un solo clic",
+    "FolderPath": "Ruta de la carpeta",
+    "ExportSettings": "Exportar configuración",
+    "ImportSettings": "Importar configuración",
+    "SettingsImportErrorDescription": "No se pudo importar los ajustes. El archivo de ajustes está dañado.",
+    "SettingsImportErrorTitle": "Error al importar los ajustes",
+    "EmptyRecycleBin": "Vaciar la papelera de reciclaje",
+    "Sidebar": "Barra lateral",
+    "ChooseCustomIcon": "Escoger icono de carpeta personalizado",
+    "Customization": "Personalización",
+    "RestoreDefault": "Restaurar predeterminado",
+    "OpenTabInExistingInstance": "Abrir pestaña en instancia existente al abrir Archivos desde otra app",
+    "StartupSettings": "Ajustes de inicio",
+    "Compatibility": "Compatibilidad",
+    "None": "Ninguno",
+    "CompatibilityOnWindowsLogin": "Al iniciar sesión en Windows",
+    "CompatibilityOnProgramStart": "Al iniciar el programa",
+    "System": "Sistema",
+    "CompatibilitySystemEnhanced": "Sistema (Mejorado)",
+    "CompatibilityReducedColorModeColor16bit": "Color de 16 bits (65536)",
+    "CompatibilityReducedColorModeColor8bit": "Color de 8 bits (256)",
+    "CompatibilityDisableFullscreenOptimizations": "Desactivar optimizaciones en pantalla completa",
+    "CompatibilityRunIn640x480Resolution": "Ejecutar con resolución de pantalla de 640 x 480",
+    "CompatibilityOverrideHighDPIBehavior": "Invalidar el comportamiento de escalado de DPI alto",
+    "CompatibilityReducedColorMode": "Modo de color reducido",
+    "CompatibilityRegisterThisProgramForRestart": "Registrar este programa para reiniciar",
+    "RunAsAdministrator": "Ejecutar como administrador",
+    "CompatibilityRunTroubleshooter": "Ejecutar el solucionador de problemas de compatibilidad",
+    "CompatibilityUseDPISettings": "Usar la configuración DPI del monitor principal",
+    "CompatibilityDoNotAdjustDPI": "No ajustar DPI",
+    "CompatibilityDoNotOverrideDPI": "No anular DPI",
+    "CompatibilityMode": "Modo de compatibilidad",
+    "CompatibilityNoReducedColor": "Color sin reducción",
+    "ThirdPartyLicenses": "Licencias de terceros",
+    "SettingsSetAsDefaultFileManagerDescription": "Esta configuración modifica los archivos del sistema y puede tener efectos secundarios inesperados en su dispositivo. Los desarrolladores no asumen ninguna responsabilidad en caso de que se produzca un problema como resultado. Continuar con esta opción es un reconocimiento de los riesgos que implica esta acción.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Crear biblioteca",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Introduzca el nombre de la biblioteca",
+    "CalculateFolderSizes": "Calcular el tamaño de las carpetas",
+    "RecentFiles": "Archivos recientes",
+    "SettingsOpenInLogin": "Abrir Files al iniciar Windows",
+    "Attributes": "Atributos",
+    "Hidden": "Oculto",
+    "MoreDetails": "Más detalles",
+    "ReadOnly": "Sólo lectura",
+    "CleanupDrive": "Limpie el contenido de su unidad",
+    "Type": "Tipo",
+    "Bytes": "Bytes",
+    "Extract": "Extraer",
+    "ExtractFiles": "Extraer archivos",
+    "ExtractHere": "Extraer aquí",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Extraer a {0}",
+    "RunScript": "Ejecutar script",
+    "RunWithPowerShell": "Ejecutar con PowerShell",
+    "ShowFolderSizesWarning": "Calcular el tamaño de las carpetas consume muchos recursos y podría provocar que aumente el uso de la CPU.",
+    "RotateLeft": "Girar a la izquierda",
+    "RotateRight": "Girar a la derecha",
+    "Install": "Instalar",
+    "CloseTabsToTheLeft": "Cerrar pestañas a la izquierda",
+    "CloseTabsToTheRight": "Cerrar pestañas a la derecha",
+    "CloseOtherTabs": "Cerrar otras pestañas",
+    "Music": "Música",
+    "Pictures": "Fotos",
+    "UpdateFiles": "Actualizar Files",
+    "FileTags": "Etiquetas",
+    "Universal": "Universal",
+    "DateFormatSample": "p. ej.: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Mostrar miniaturas",
+    "Retry": "Reintentar",
+    "ErrorDialogUnsupportedMoveOperation": "La operación Mover no se admite en este contexto. ¿Desea copiar los elementos en su lugar?",
+    "HiddenItems": "Elementos ocultos",
+    "Custom": "Personalizado",
+    "SetAsSlideshow": "Establecer como presentación de diapositivas de escritorio",
+    "SizeAllColumnsToFit": "Ajustar el tamaño de todas las columnas",
+    "Adaptive": "Seleccionar automáticamente el mejor diseño",
+    "AdaptiveShortcutTooltip": "Adaptatiivo (Ctrl+Mayús+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Mayús+7"
+    },
+    "ShowAlternateStreams": "Mostrar flujos de datos alternativos",
+    "Behaviors": "Comportamiento",
+    "ReviewFiles": "Revisar Files",
+    "ReviewFilesContent": "¿Le gustaría hacer una reseña de Files?",
+    "SetAsBackgroundFlyout": "Establecer como fondo de pantalla",
+    "SetAsBackground": "Fondo de escritorio",
+    "SetAsDefault": "Establecer como predeterminado",
+    "DateColumn": "Columna de fecha",
+    "DateCreatedColumn": "fecha de creación",
+    "SizeColumn": "Columna de tamaño",
+    "TagColumn": "Columna de etiqueta",
+    "TypeColumn": "Columna de tipo",
+    "Lockscreen": "Pantalla de bloqueo",
+    "OpenFolderWithOneClickColumnsLayout": "Abrir carpetas con un solo clic en el diseño de columnas",
+    "OpeningItems": "Abrir elementos",
+    "Compress": "Comprimir",
+    "SelectFilesAndFoldersOnHover": "Seleccionar archivos y carpetas al pasar el cursor sobre ellos",
+    "ConfirmRestoreBinDialogContent": "¿Está seguro que desea restaurar todos los elementos de la papelera de reciclaje?",
+    "ConfirmRestoreBinDialogTitle": "Restaurar todos los elementos",
+    "ConfirmRestoreSelectionBinDialogContent": "¿Desea restaurar los elemento(s) {0} seleccionado(s)?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Restaurar selección",
+    "RestoreAllItems": "Restaurar todos los elementos",
+    "Restore": "Restablecer",
+    "ShortcutCannotBeOpened": "No se puede abrir el acceso directo",
+    "DeleteShortcutDescription": "No se puede encontrar el destino {0}. ¿Desea eliminar este acceso directo?",
+    "AccessDeniedToFolder": "No tiene permiso para acceder a esta carpeta.",
+    "ArchivePassword": "Contraseña de archivo",
+    "ExtractToPath": "Ruta",
+    "SortingAndGrouping": "Ordenación y agrupación",
+    "CreateArchive": "Crear archivo",
+    "Create": "Crear",
+    "CreateNamedArchive": "Crear {0}",
+    "EnterName": "Introducir nombre",
+    "CompressionLevel": "Nivel de compresión",
+    "CompressionLevelUltra": "Máximo",
+    "CompressionLevelHigh": "Alto",
+    "CompressionLevelNormal": "Normal",
+    "CompressionLevelLow": "Bajo",
+    "CompressionLevelFast": "Rápido",
+    "CompressionLevelNone": "Ninguno",
+    "SplittingSize": "Tamaño de la división",
+    "Do not split": "No dividir",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Cifrado",
+    "Password": "Contraseña",
+    "Format": "Formato",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Columna de estado de sincronización"
+    },
+    "GroupBy": "Agrupar por",
+    "SortBy": "Ordenar por",
+    "GroupInDescendingOrder": "Agrupar en orden descendente",
+    "SortInDescendingOrder": "Ordenar en modo descendente",
+    "NewShortcutDialogTitle": "Crear un nuevo acceso directo",
+    "NewShortcutDialogDescription": "Crea accesos directos a programas locales o de red, archivos, carpetas, ordenadores o direcciones de Internet.",
+    "NewShortcutDialogPrompt": "Introducir la ubicación del elemento:",
+    "AddDialogListShortcutSubHeader": "Crea un acceso directo",
+    "RecentFilesDisabledOnWindowsWarning": "Los archivos recientes están actualmente deshabilitados en el Explorador de Archivos de Windows.",
+    "EditSettingsFile": "Editar archivo de configuración",
+    "WhatsNew": "Novedades",
+    "CannotCreateShortcutDialogTitle": "Crear un acceso directo en esta ubicación requiere privilegios de administrador",
+    "CannotCreateShortcutDialogMessage": "¿Desea crear el acceso directo en el escritorio, en su lugar?",
+    "ErrorDialogNameNotAllowed": "El nombre del elemento especificado no es válido",
+    "Settings": "Ajustes",
+    "DoubleClickBlankSpaceToGoUp": "Doble clic en un espacio en blanco para subir un directorio",
+    "ViewMore": "Ver más",
+    "ShowEditTagsMenu": "Mostrar etiquetas de edición desplegables",
+    "ShowCompressionOptions": "Mostrar opciones de compresión",
+    "ShowSendToMenu": "Mostrar menú Enviar a",
+    "ShowOpenInNewTab": "Mostrar opción de abrir carpetas en una nueva pestaña",
+    "ShowOpenInNewWindow": "Mostrar opción de abrir carpetas en una nueva ventana",
+    "QuickAccess": "Acceso rápido",
+    "NetworkAuthenticationDialogMessage": "Introducir credenciales para conectarse a: {0}",
+    "NetworkAuthenticationDialogTitle": "Introducir credenciales de red",
+    "NetworkAuthenticationSaveCheckbox": "Recordar credenciales",
+    "NetworkFolderErrorDialogTitle": "Error en carpeta de red",
+    "AppVersion": "Versión de la aplicación",
+    "WindowsVersion": "Versión de Windows",
+    "Always": "Siempre",
+    "PermanentDeletionOnly": "Solo al eliminar permanentemente",
+    "Never": "Nunca",
+    "TagColor": "Color de la etiqueta",
+    "NewTag": "Nueva etiqueta",
+    "CreateNewTag": "Crear nueva etiqueta",
+    "Loading": "Cargando...",
+    "ContextMenuOptions": "Opciones del menú contextual",
+    "ShowFileExtensions": "Mostrar extensiones de archivo",
+    "ShowHiddenItems": "Mostrar elementos ocultos",
+    "FormatDriveText": "Formatear...",
+    "Help": "Ayuda",
+    "FullScreen": "Cambiar a pantalla completa",
+    "ConfirmDeleteTag": "¿Está seguro que desea eliminar esta etiqueta?",
+    "PlayAll": "Reproducir todo",
+    "Height": "Alto",
+    "Width": "Ancho",
+    "ApplyToAllConflictingItems": "Aplicar esta acción a todos los elementos en conflicto",
+    "OpenTerminal": "Abrir en Terminal de Windows",
+    "OpenTerminalAsAdmin": "Abrir en Terminal de Windows como administrador",
+    "Save": "Guardar",
+    "MultiSelect": "Selección múltiple",
+    "ReorderSidebarItemsDialogText": "Reordenar elementos de la barra lateral",
+    "Hashes": "Hashes",
+    "CalculationError": "Se ha producido un error en el cálculo",
+    "CalculationErrorFileIsOpen": "No se pudo calcular el hash, por favor cierra el archivo e inténtalo de nuevo.",
+    "CalculationOnlineFileHashError": "Los hash no están disponibles para los archivos en línea",
+    "Algorithm": "Algoritmo",
+    "HashValue": "Valor del hash",
+    "SelectHashesToShow": "Seleccionar resultados hash para mostrar",
+    "Calculating": "Calculando...",
+    "JumpListPinnedGroupHeader": "Elementos anclados",
+    "DecreaseSize": "Disminuir tamaño",
+    "IncreaseSize": "Aumentar tamaño",
+    "ToggleSortDirection": "Cambiar el sentido de la clasificación",
+    "InvalidTagNameWarning": "Nombre no válido",
+    "TagNameRules": "El nombre no debe estar vacío ni empezar o acabar con un punto.",
+    "Videos": "Vídeos",
+    "LaunchPreviewPopup": "Abrir vista previa emergente",
+    "ToggleCompactOverlay": "Intercambiar superposición compacta",
+    "OpenHelpDescription": "Abrir página de ayuda en línea en el navegador",
+    "ToggleFullScreenDescription": "Cambiar a pantalla completa",
+    "EnterCompactOverlayDescription": "Cambiar a modo superposición compacta",
+    "ExitCompactOverlayDescription": "Salir del modo superposición compacta",
+    "ToggleCompactOverlayDescription": "Intercambiar superposición compacta",
+    "SearchDescription": "Ir al cuadro de búsqueda",
+    "ToggleShowHiddenItemsDescription": "Mostrar o no los elementos ocultos",
+    "ToggleShowFileExtensionsDescription": "Mostrar o no las extensiones de los archivos",
+    "TogglePreviewPaneDescription": "Activar el panel de vista previa para ver la vista previa del archivo",
+    "ToggleSidebarDescription": "Mostrar o no la barra lateral",
+    "CopyItemDescription": "Copiar elemento(s) al portapapeles",
+    "CopyPathDescription": "Copiar la ruta de los elementos seleccionados al portapapeles",
+    "CopyPathWithQuotesDescription": "Copiar entre comillas la ruta de los elementos seleccionados al portapapeles",
+    "CutItemDescription": "Cortar elemento(s) al portapapeles",
+    "PasteItemDescription": "Pegar elemento(s) del portapapeles en la carpeta actual",
+    "PasteItemToSelectionDescription": "Pegar elemento(s) del portapapeles en la carpeta seleccionada",
+    "DeleteItemDescription": "Eliminar elemento(s)",
+    "CreateFolderDescription": "Crear nueva carpeta",
+    "CreateShortcutDescription": "Crear nuevo(s) acceso(s) directo(s) del(de los) elemento(s) seleccionado(s)",
+    "CreateShortcutFromDialogDescription": "Crear nuevo acceso directo de cualquier elemento",
+    "EmptyRecycleBinDescription": "Vaciar papelera de reciclaje",
+    "FormatDriveDescription": "Abrir el menú \"Formatear unidad\" para el elemento seleccionado",
+    "RestoreRecycleBinDescription": "Restaurar elemento(s) seleccionado(s) de la papelera de reciclaje",
+    "RestoreAllRecycleBinDescription": "Restaurar todos los elementos de la papelera de reciclaje",
+    "OpenItemDescription": "Abrir elemento(s)",
+    "OpenItemWithApplicationPickerDescription": "Abrir elemento(s) con la aplicación seleccionada",
+    "OpenParentFolderDescription": "Abrir la carpeta principal del elemento buscado",
+    "RefreshItemsDescription": "Actualizar contenido de la página",
+    "RenameDescription": "Cambiar el nombre del elemento seleccionado",
+    "SelectAllDescription": "Seleccionar todos los elementos",
+    "InvertSelectionDescription": "Invertir selección de elementos",
+    "ClearSelectionDescription": "Limpiar selección de elementos",
+    "ToggleSelectDescription": "Alternar selección de elementos",
+    "ShareItemDescription": "Compartir archivo(s) seleccionado(s) con otros",
+    "PinToStartDescription": "Anclar elemento(s) al menú Inicio",
+    "UnpinFromStartDescription": "Desanclar elemento(s) del menú Inicio",
+    "PinFolderToSidebarDescription": "Anclar carpeta(s) en la barra lateral",
+    "UnpinFolderFromSidebarDescription": "Desanclar carpeta(s) de la barra lateral",
+    "SetAsWallpaperBackgroundDescription": "Establecer imagen seleccionada como fondo de escritorio",
+    "SetAsSlideshowBackgroundDescription": "Establecer imágenes seleccionadas como diapositivas de escritorio",
+    "SetAsLockscreenBackgroundDescription": "Establecer imagen seleccionada como fondo de pantalla de bloqueo",
+    "SetAsAppBackgroundDescription": "Establecer la imagen seleccionada como fondo de la aplicación",
+    "InstallFontDescription": "Instalar fuente(s) seleccionada(s)",
+    "InstallInfDriverDescription": "Instalar controlador(es) usando archivo(s) inf seleccionado(s)",
+    "InstallCertificateDescription": "Instalar certificado(s) seleccionado(s)",
+    "RunAsAdminDescription": "Ejecutar la aplicación seleccionada como administrador",
+    "RunAsAnotherUserDescription": "Ejecutar la aplicación seleccionada como otro usuario",
+    "RunWithPowershellDescription": "Ejecuta el script PowerShell seleccionado",
+    "LaunchPreviewPopupDescription": "Abrir vista previa en ventana emergente",
+    "CompressIntoArchiveDescription": "Crear archivo con elemento(s) seleccionado(s)",
+    "CompressIntoSevenZipDescription": "Crear archivo 7z al instante con elemento(s) seleccionado(s)",
+    "CompressIntoZipDescription": "Crear archivo zip al instante con elemento(s) seleccionado(s)",
+    "DecompressArchiveDescription": "Extraer elementos del(de los) archivo(s) seleccionado(s) en cualquier carpeta",
+    "DecompressArchiveHereDescription": "Extraer elementos del(de los) archivo(s) seleccionado(s) en carpeta actual",
+    "DecompressArchiveToChildFolderDescription": "Extraer elementos del(de los) archivo(s) seleccionado(s) en nueva carpeta",
+    "RotateLeftDescription": "Girar imagen/imágenes seleccionada(s) a la izquierda",
+    "RotateRightDescription": "Girar imagen/imágenes seleccionada(s) a la derecha",
+    "OpenSettingsDescription": "Abrir página de configuración",
+    "OpenTerminalDescription": "Abrir carpeta en terminal",
+    "OpenTerminalAsAdminDescription": "Abrir carpeta en terminal como administrador",
+    "LayoutDecreaseSizeDescription": "Reducir el tamaño del elemento en la vista actual",
+    "LayoutIncreaseSizeDescription": "Aumenta el tamaño del elemento en la vista actual",
+    "LayoutDetailsDescription": "Cambiar a vista de detalles",
+    "LayoutTilesDescription": "Cambiar a vista de mosaicos",
+    "LayoutListDescription": "Cambiar a vista de lista",
+    "List": "Lista",
+    "Grid": "Cuadrícula",
+    "LayoutGridDescription": "Cambiar a vista de cuadrícula",
+    "LayoutColumnsDescription": "Cambiar a vista de columnas",
+    "LayoutAdaptiveDescription": "Cambiar vistas de forma adaptativa",
+    "SortByNameDescription": "Ordenar elementos por nombre",
+    "SortByDateModifiedDescription": "Ordenar elementos por fecha de modificación",
+    "SortByDateCreatedDescription": "Ordenar artículos por fecha de creación",
+    "SortBySizeDescription": "Ordenar elementos por tamaño",
+    "SortByTypeDescription": "Ordenar elementos por tipo",
+    "SortBySyncStatusDescription": "Ordenar elementos por estado de sincronización",
+    "SortByTagDescription": "Ordenar elementos por etiquetas",
+    "SortByOriginalFolderDescription": "Ordenar elementos por carpeta original",
+    "SortByDateDeletedDescription": "Ordenar elementos por fecha de eliminación",
+    "SortAscendingDescription": "Ordenar elementos de manera ascendente",
+    "SortDescendingDescription": "Ordenar elementos de manera descendente",
+    "ToggleSortDirectionDescription": "Cambiar sentido de ordenación de elementos",
+    "GroupByNoneDescription": "Listar elementos sin agrupar",
+    "GroupByNameDescription": "Agrupar elementos por nombre",
+    "GroupByDateModifiedDescription": "Agrupar elementos por fecha de modificación",
+    "GroupByDateCreatedDescription": "Agrupar elementos por fecha de creación",
+    "GroupBySizeDescription": "Agrupar elementos por tamaño",
+    "GroupByTypeDescription": "Agrupar elementos por tipo",
+    "GroupBySyncStatusDescription": "Agrupar elementos por estado de sincronización",
+    "GroupByTagDescription": "Agrupar elementos por etiquetas",
+    "GroupByOriginalFolderDescription": "Agrupar elementos por carpeta original",
+    "GroupByDateDeletedDescription": "Agrupar elementos por fecha de eliminación",
+    "GroupByFolderPathDescription": "Agrupar elementos por ruta de carpeta",
+    "GroupAscendingDescription": "Ordenar grupos de manera ascendente",
+    "GroupDescendingDescription": "Ordenar grupos de manera descendente",
+    "ToggleGroupDirectionDescription": "Cambiar sentido de ordenación de grupos",
+    "NewTabDescription": "Abrir nueva pestaña",
+    "NavigateBackDescription": "Navegar hacia atrás en el historial de navegación",
+    "NavigateForwardDescription": "Navegar hacia adelante en el historial de navegación",
+    "NavigateUpDescription": "Navegar hacia arriba un directorio",
+    "DuplicateCurrentTabDescription": "Duplicar pestaña actual",
+    "DuplicateSelectedTabDescription": "Duplicar pestaña seleccionada",
+    "CloseTabsToTheLeftCurrentDescription": "Cerrar pestañas a la izquierda de la actual",
+    "CloseTabsToTheLeftSelectedDescription": "Cerrar pestañas a la izquierda de la seleccionada",
+    "CloseTabsToTheRightCurrentDescription": "Cerrar pestañas a la derecha de la actual",
+    "CloseTabsToTheRightSelectedDescription": "Cerrar pestañas a la derecha de la seleccionada",
+    "CloseOtherTabsCurrentDescription": "Cerrar pestañas distintas de la actual",
+    "CloseOtherTabsSelectedDescription": "Cerrar pestañas distintas de la seleccionada",
+    "ReopenClosedTabDescription": "Reabrir última pestaña cerrada",
+    "PreviousTabDescription": "Mover a la pestaña anterior",
+    "NextTabDescription": "Mover a la pestaña siguiente",
+    "CloseSelectedTabDescription": "Cerrar pestaña actual",
+    "OpenNewPaneDescription": "Abrir nuevo panel",
+    "ClosePaneDescription": "Cerrar panel derecho",
+    "FocusLeftPane": "Enfocar panel izquierdo",
+    "FocusLeftPaneDescription": "Cambiar foco al panel izquierdo",
+    "FocusRightPane": "Enfocar panel derecho",
+    "FocusRightPaneDescription": "Cambiar foco al panel derecho",
+    "ToggleSidebar": "Ocultar/mostrar barra lateral",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Mayús",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Entrar",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Espacio",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Retroceso",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Supr",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Izquierda",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Derecha",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Abajo",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Arriba (Alt+Flecha Arriba)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Inicio",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "Fin",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "AvPág",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "RePág",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pausar",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Suspender",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Quitar",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Impr",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Ayuda",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Ratón4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Ratón5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "Aplicación",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "Aplicación1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "Aplicación2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Correo",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "Ir a Inicio",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "Ir Atrás",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Ir Adelante",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "Actualizar Navegador",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "Parar Navegador",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Buscar",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Favoritos",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "Pausar Reproductor",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "Parar Multimedia",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "Pista Anterior",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "Siguiente Pista",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "Seleccionar Multimedia",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Silenciar",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "Bajar Volumen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "Subir Volumen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Cambiar",
+    "ToggleSelect": "Alternar selección",
+    "ShowFileExtensionWarning": "Mostrar aviso al cambiar las extensiones de archivo",
+    "ThisPC": "Este equipo",
+    "RecycleBin": "Papelera de reciclaje",
+    "Untagged": "Sin etiquetar",
+    "PreviousTab": "Mueve a la pestaña anterior",
+    "NextTab": "Mueve a la siguiente pestaña",
+    "CloseTab": "Cierra la pestaña actual",
+    "EditPath": "Editar ruta",
+    "Redo": "Rehacer",
+    "Undo": "Deshacer",
+    "InvalidLocation": "Ubicación no válida",
+    "CopyFileWithoutProperties": "¿Está seguro que desea copiar estos archivos sin sus propiedades?",
+    "FilePropertiesCannotBeCopied": "Estos archivos tienen propiedades que no pueden copiarse en la nueva ubicación",
+    "FilePropertiesCannotBeMoved": "Estos archivos tienen propiedades que no pueden moverse a la nueva ubicación",
+    "MoveFileWithoutProperties": "¿Está seguro de que desea mover estos archivos sin sus propiedades?",
+    "ShowCheckboxesWhenSelectingItems": "Mostrar casillas de verificación al seleccionar elementos",
+    "EditPathDescription": "Enfocar la barra de ruta",
+    "AddItemDescription": "Crear nuevo elemento",
+    "SecurityNoAccessControlEntriesText": "Ningún grupo o usuario tiene permiso para acceder a este objeto. Sin embargo, el propietario de este objeto puede asignar permisos.",
+    "OpenFileLocationDescription": "Abrir ubicación del elemento",
+    "DeletePermanently": "Eliminar permanentemente",
+    "DeleteItemPermanentlyDescription": "Eliminar elemento(s) permanentemente",
+    "PlayAllDescription": "Reproducir los archivos multimedia seleccionados",
+    "UndoDescription": "Deshacer la última operación del archivo",
+    "RedoDescription": "Rehacer la última operación del archivo",
+    "Location": "Ubicación:",
+    "GroupByMonthDescription": "Agrupar elementos por mes",
+    "GroupByYearDescription": "Agrupar elementos por año",
+    "Month": "Mes",
+    "Day": "Día",
+    "ToggleGroupByDateUnitDescription": "Alternar unidad para agrupar por fecha",
+    "ToggleGroupingUnit": "Cambiar unidad de agrupación",
+    "Year": "Año",
+    "GroupByDateUnit": "Agrupar por unidad de fecha",
+    "GroupByDateCreatedDayDescription": "Agrupar elementos por día de creación",
+    "GroupByDateCreatedMonthDescription": "Agrupar elementos por mes de fecha de creación",
+    "GroupByDateCreatedYearDescription": "Agrupar elementos por año de fecha de creación",
+    "GroupByDateDeletedDayDescription": "Agrupar elementos por día de eliminación",
+    "GroupByDateDeletedMonthDescription": "Agrupar elementos por mes de fecha de eliminación",
+    "GroupByDateDeletedYearDescription": "Agrupar elementos por año de fecha de eliminación",
+    "GroupByDateModifiedDayDescription": "Agrupar elementos por día de modificación",
+    "GroupByDateModifiedMonthDescription": "Agrupar elementos por mes de fecha de modificación",
+    "GroupByDateModifiedYearDescription": "Agrupar elementos por año de fecha de modificación",
+    "SecurityClickAdvancedPermissions": "Haga clic en 'Permisos avanzados' para continuar.",
+    "SecurityRequireReadPermissions": "Debe tener permisos de lectura para ver las propiedades de este elemento.",
+    "SecuritySuggestToTakeOwnership": "Para intentar tomar posesión del elemento, lo que incluye el permiso para ver sus propiedades, haga clic arriba en Cambiar.",
+    "SecurityUnableToDisplayPermissions": "No se pueden mostrar los permisos.",
+    "StashChanges": "Dejar mis cambios en '{0}'",
+    "DiscardChanges": "Descartar mis cambios",
+    "BringChanges": "Traer mis cambios a '{0}'",
+    "UncommittedChanges": "Tiene cambios no comprometidos en esta rama. ¿Qué le gustaría hacer con ellos?",
+    "SwitchBranch": "Cambiar rama",
+    "Branches": "Ramas",
+    "Switch": "Cambiar",
+    "NewBranch": "Nueva rama",
+    "InvalidBranchName": "Nombre de rama no válido",
+    "CreateBranch": "Crear rama",
+    "CreateNewBranch": "Crear rama",
+    "BasedOn": "Basado en",
+    "SwitchToNewBranch": "Cambiar a nueva rama",
+    "CreateFolderWithSelectionDescription": "Crear una carpeta con el(los) elemento(s) seleccionado(s)",
+    "OpenProperties": "Abrir propiedades",
+    "OpenPropertiesDescription": "Abrir ventana de propiedades",
+    "Locals": "Locales",
+    "Remotes": "Remotas",
+    "ImproveTranslation": "Traducir en Crowdin",
+    "GitFetch": "Guardar (Fetch)",
+    "GitPull": "Fusionar (Pull)",
+    "GitFetchDescription": "Ejecutar guardar git (git fetch)",
+    "GitPullDescription": "Ejecutar fusionar git (git pull)",
+    "Preview": "Vista previa",
+    "GitStatus": "Estado de Git",
+    "GitError": "Error de Git",
+    "PullTimeoutError": "Fusionar git (git pull) ha fallado debido a un error de tiempo de espera",
+    "MultipleValues": {
+        "text": "(varios valores)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Autor",
+    "DateCommitted": "Fecha de confirmación",
+    "CommitMessage": "Mensaje de confirmación",
+    "CommitSha": "Confirmación SHA",
+    "Git": "Git",
+    "Acrylic": "Acrílico",
+    "Mica": "Mica",
+    "MicaAlt": "Mica alternativa",
+    "BackdropMaterial": "Material de fondo",
+    "Solid": "Sólido",
+    "ManageBranches": "Administrar ramas",
+    "Push": "Enviar (Push)",
+    "GitPushDescription": "Ejecutar git push",
+    "GitSync": "Sincronizar",
+    "GitSyncDescription": "Ejecutar git pull y luego git push",
+    "GitSyncStatusExtendedInfo": "Confirmaciones salientes {0} / entrantes {1}",
+    "ConnectGitHub": "Conectarse a GitHub",
+    "ConnectGitHubDescription": "Introducir el siguiente código en el enlace inferior para empezar a trabajar con repositorios GitHub.",
+    "CannotReachGitHubError": "Los archivos no tienen acceso a GitHub en este momento.",
+    "OpenInVSCode": "Abrir carpeta en VS Code",
+    "OpenInVSCodeDescription": "Abrir el directorio actual en Visual Studio Code",
+    "OpenRepoInVSCode": "Abrir repositorio en VS Code",
+    "OpenRepoInVSCodeDescription": "Abrir la raíz del repositorio de Git en Visual Studio Code",
+    "CopyCode": "Copiar código",
+    "Added": "Añadido",
+    "Deleted": "Eliminado",
+    "Modified": "Modificado",
+    "Untracked": "No rastreado",
+    "UnableToDisplayOwner": "No se puede mostrar el propietario actual.",
+    "AuthorizationSucceded": "¡Genial! Ahora está autorizado.",
+    "InitRepo": "Inicializar repositorio",
+    "InitRepoDescription": "Inicializar un repositorio Git",
+    "GitOriginRepositoryName": "Nombre del repositorio remoto",
+    "GitCurrentBranch": "Rama actual",
+    "PathColumn": "Columna de ruta",
+    "SortByPathDescription": "Ordenar elementos por ruta",
+    "OpenDirectoryInNewPaneDescription": "Abrir directorio en nuevo panel",
+    "OpenDirectoryInNewTabDescription": "Abrir directorio en nueva pestaña",
+    "OpenInNewWindowDescription": "Abrir directorio en nueva ventana",
+    "OpenAllTaggedItems": "Abrir todo",
+    "OpenAllTaggedItemsDescription": "Abrir todos los elementos etiquetados",
+    "DriveWithLetter": {
+        "text": "Unidad ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Comando no válido",
+    "InvalidCommandContent": "'{0}' no es reconocido como un comando.",
+    "CommandNotExecutable": "Comando no ejecutable",
+    "CommandNotExecutableContent": "El comando '{0}' no está listo para ser ejecutado.",
+    "CommandPalette": "Paleta de comandos",
+    "OpenCommandPaletteDescription": "Abrir paleta de comandos",
+    "ShortcutItemWorkingDir": "Iniciar en:",
+    "TurnOnBitLocker": "Activar BitLocker",
+    "ManageBitLocker": "Administrar BitLocker",
+    "CopyFailureFileToLarge": "Los siguientes elementos son demasiado grandes para ser copiados en esta unidad",
+    "FormatDrive": "Formatear unidad",
+    "DontShowAgain": "No volver a mostrar",
+    "FilesRunningAsAdmin": "Files se está ejecutando como administrador",
+    "FilesRunningAsAdminContent": "Debido a una limitación con Windows y WinAppSdk, arrastrar y soltar no está disponible cuando se ejecuta Archivos como administrador. Si desea usar arrastrar y soltar, puede solucionar esta limitación abriendo UAC (Control de cuentas de usuario) desde el Menú Inicio y seleccionando el tercer nivel, y reiniciando Windows. De lo contrario, puede seguir usando Archivos sin arrastrar y soltar.",
+    "SettingsLeaveAppRunning": "Permitir que la aplicación se ejecute en segundo plano al cerrar la ventana",
+    "Blue": {
+        "text": "Azul",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Gris azulado",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Rojo ladrillo",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Camuflaje",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Azul frío brillante",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Gris",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Gris oscuro",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Verde",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Menta claro",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Rojo moderno",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Naranje brillante",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Nublado",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Rojo",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rosa brillante",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Espuma de mar",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Tormenta",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Rojo violeta claro",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Amarillo oro",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Limpieza finalizada",
+    "NameWithColon": "Nombre:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} de {1} procesados",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "elementos",
+    "CannotInitializeGitRepo": "Files no puede inicializar este directorio como repositorio Git.",
+    "ContributingArtist": "Artista colaborador",
+    "AddPage": "Añadir página",
+    "ProcessingItems": "Procesando elementos...",
+    "SpeedWithColon": "Velocidad:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Cancelada la compresión de {0} elementos en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Cancelada la compresión de {0} elementos desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Comprimido(s) {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Comprimido(s) {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error al comprimir {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "No se pudo comprimir {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Comprimiendo {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Comprimiendo {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Cancelada la copia de {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Cancelada la copia de {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Copiado(s) {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copiado(s) {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error al copiar {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "No se pudo copiar {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Copiando {0} elemento(s) en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Copiando {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Cancelada la extracción de {0} elementos en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Cancelada la extracción de {0} elementos desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Extraído \"{0}\" en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Extraído \"{0}\" desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Error al extraer \"{0}\" en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "No se pudo extraer \"{0}\" desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Extrayendo \"{0}\" en \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Extrayendo \"{0}\" desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Cancelada la eliminación de {0} elemento(s) desde \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Eliminado(s) {0} elemento(s) desde \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error al eliminar {0} elemento(s) desde \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "No se ha(n) podido eliminar {0} elemento(s) desde {1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Eliminando {0} elemento(s) desde \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Cancelado el movimiento de {0} elemento(s) a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Cancelado el movimiento de {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Movido(s) {0} elemento(s) a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Movido(s) {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moviendo {0} elemento(s) a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moviendo {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error al mover {0} elemento(s) a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "No se pudo mover {0} elemento(s) desde \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Cancelado el vaciado de la papelera de reciclaje",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Papelera de reciclaje vaciada",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Vaciando la papelera de reciclaje",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Error al vaciar la papelera de reciclaje",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "No se pudo vaciar la papelera de reciclaje",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Preparando la operación...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} elemento(s) procesado(s)",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Desbloquear archivo descargado",
+    "NoFileOperations": "No hay operaciones de archivo en curso",
+    "OpenOnStartupDisabled": "La opción de abrir Files al iniciar Windows no está disponible debido a la configuración del sistema o política de grupo. Para volver a activarla, abra la página de inicio en el Administrador de tareas.",
+    "FailedToRestore": "Error al restaurar elementos de la papelera de reciclaje",
+    "FailedToSetBackground": "No se pudo establecer el fondo de pantalla",
+    "GitDeleteBranch": "Eliminar rama de Git",
+    "GitDeleteBranchSubtitle": "¿Está seguro de que desea eliminar permanentemente la rama \"{0}\"?",
+    "ConnectedToGitHub": "Conectado a GitHub",
+    "Logout": "Cerrar sesión",
+    "ConnectToGitHub": "Conectarse a GitHub",
+    "Login": "Iniciar Sesión",
+    "ErrorApplyingTagContent": "Actualmente, las etiquetas solo son compatibles en unidades formateadas como NTFS.",
+    "ErrorApplyingTagTitle": "Se ha producido un error al aplicar esta etiqueta",
+    "DecompressArchiveHereSmartDescription": "Extraer elementos desde el/los archivo(s) seleccionado(s) a la carpeta actual para archivo de un solo elemento, o a una nueva carpeta para archivo de varios elementos",
+    "ExtractHereSmart": "Extraer aquí (Inteligente)",
+    "SortFilesAndFoldersTogether": "Ordenar archivos y carpetas a la vez",
+    "SortFilesAndFoldersTogetherDescription": "Ordenar archivos y carpetas a la vez",
+    "SortFilesFirst": "Ordenar primero los archivos",
+    "SortFilesFirstDescription": "Ordena primero los archivos y luego las carpetas",
+    "SortFoldersFirst": "Ordenar primero las carpetas",
+    "SortFoldersFirstDescription": "Ordenar primero las carpetas y luego los archivos",
+    "SortPriority": "Prioridad de clasificación",
+    "FailedToRotateImage": "No se pudo girar la imagen",
+    "Restart": "Reiniciar",
+    "Quit": "Salir",
+    "FaildToShareItems": "No se pudo compartir elementos",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Desplazarse a la carpeta anterior al navegar hacia arriba",
+    "NewWindowDescription": "Abrir nueva ventana",
+    "ChangeAlbumCover": "Cambiar la portada del álbum",
+    "ItemRenameFailed": "No se ha podido cambiar el nombre del elemento",
+    "HigherPermissionsRequired": "Editar \"{0}\" requiere permisos adicionales",
+    "EditPermissions": "Editar permisos",
+    "BackgroundRunningNotificationBody": "Files sigue ejecutándose en segundo plano para mejorar el rendimiento del arranque.",
+    "BackgroundRunningNotificationHeader": "¿Dónde ha ido Files?",
+    "QuestionsAndDiscussions": "Preguntas y discusiones",
+    "TilesViewSizeInfo": "Aún no se dispone de tamaños adicionales para la vista Mosaicos.",
+    "Compact": {
+        "text": "Compacto",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Pequeño",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Mediano",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Mediano +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Mediano ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Mediano +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Mediano ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Mediano +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Grande",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Grande +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Grande ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Grande +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Muy grande",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Vista detallada",
+    "LayoutType": "Tipo de disposición",
+    "Actions": "Acciones",
+    "Commands": "Comandos",
+    "AddCommand": "Añadir comando",
+    "RestoreDefaults": "Restaurar valores predeterminados",
+    "ChooseAnAction": "Seleccionar una acción",
+    "RestoreDefaultKeybindingsConfirmation": "¿Está seguro de que desea restaurar las combinaciones de teclas predeterminadas? Esta acción no se puede deshacer.",
+    "KeybindingAlreadyUsedNotification": "Esta combinación de teclas ya está siendo utilizada, por favor elija una combinación de teclas diferente para continuar.",
+    "KeybindingInvalidKeyNotification": "La combinación de teclas elegida no se puede utilizar, por favor, inténtelo de nuevo con otra combinación de teclas.",
+    "Customized": "Personalizado",
+    "AdaptiveLayoutDisabledNotification": "El diseño adaptable no está disponible cuando las preferencias están sincronizadas, el diseño predeterminado se ha cambiado a Detalles.",
+    "BackgroundImage": "Imagen de fondo",
+    "Bottom": {
+        "text": "Pie",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Centro",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Rellenar",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Alineación horizontal",
+    "ImageFit": "Ajuste de Imagen",
+    "Left": {
+        "text": "Izquierda",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacidad",
+    "Right": {
+        "text": "Derecha",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Superior",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniforme",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniforme para Rellenar",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Alineación vertical",
+    "ThinAcrylic": {
+        "text": "Acrílico delgado",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Mostrar para todas las ubicaciones",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Herramientas de desarrollador",
+    "DisplayOpenIDE": "Configure el botón \"Abrir IDE\" en la barra de estado",
+    "GitRepos": {
+        "text": "Mostrar para repos de Git",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Extensión de la aplicación",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "Archivo ICO",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Archivo Zip",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Archivos de Bitmap",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Núm",
+    "NetworkLocations": "Ubicaciones de red",
+    "NoNetworkLocationsInfo": "No hay ubicaciones de red. Si no utiliza ubicaciones de red, puede desactivar el widget.",
+    "Disable": "Desactivar",
+    "EditInNotepad": "Editar en Bloc de notas",
+    "EditInNotepadDescription": "Editar el archivo seleccionado en el Bloc de notas"
+}

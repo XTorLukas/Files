@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Uusi ikkuna",
+    "CopyPath": "Kopioi polku",
+    "CopyPathWithQuotes": "Kopioi polku lainausmerkeillä",
+    "Browse": "Selaa",
+    "Size": "Koko",
+    "PropertiesCreated": {
+        "Text": "Luotu:"
+    },
+    "Path": "Polku",
+    "SizeLabel": "Koko:",
+    "SizeOnDiskLabel": "Koko levyllä:",
+    "UncompressedSize": "Pakkaamaton koko:",
+    "ErrorDialogThisActionCannotBeDone": "Tätä toimintoa ei voida tehdä",
+    "ErrorDialogTheDestinationFolder": "Kohdekansio",
+    "ErrorDialogIsASubfolder": "on lähdekansion alikansio",
+    "Skip": "Ohita",
+    "SelectAll": "Valitse kaikki",
+    "InvertSelection": "Käännä valinta",
+    "ClearSelection": "Tyhjennä valinta",
+    "PropertiesModified": {
+        "Text": "Muokattu:"
+    },
+    "Accessed": "Käytetty:",
+    "RecentItemClearAll": {
+        "Text": "Tyhjennä kaikki kohteet"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Kirjoita polku navigoidaksesi tai kirjoita \">\" avataksesi komentopaletin"
+    },
+    "Search": "Etsi",
+    "RecentItemDescription": {
+        "Text": "Aiemmin käyttämäsi tiedostot näkyvät tässä"
+    },
+    "RecentItemRemove": {
+        "Text": "Poista tämä kohde"
+    },
+    "OpenGitHubRepo": "GitHub-repositorio",
+    "About": "Tietoja",
+    "OpenSource": "Avoin lähdekoodi",
+    "DateFormat": "Päivämäärän muoto",
+    "SettingsAppearanceTheme": "Teema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Näytä tunnettujen tiedostotyyppien laajennukset",
+    "SettingsFilesAndFoldersShowHiddenItems": "Näytä piilotetut tiedostot ja kansiot",
+    "ShowDotFiles": "Näytä pistetiedostot",
+    "Appearance": "Ulkoasu",
+    "BackgroundColor": "Taustan väri",
+    "Advanced": "Lisäasetukset",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Jatka siitä mihin jäit"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Avaa uusi välilehti"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Avaa tietty sivu tai tietyt sivut"
+    },
+    "Desktop": "Työpöytä",
+    "Documents": "Dokumentit",
+    "Downloads": "Lataukset",
+    "Name": "Nimi",
+    "Ascending": "Nouseva",
+    "Paste": "Liitä",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Uusi"
+    },
+    "Properties": "Ominaisuudet",
+    "Open": "Avaa",
+    "OpenInNewTab": "Avaa uudessa välilehdessä",
+    "OpenInNewWindow": "Avaa uudessa ikkunassa",
+    "Share": "Jaa",
+    "Cut": "Leikkaa",
+    "Delete": "Poista",
+    "PinFolderToSidebar": "Kiinnitä sivupalkkiin",
+    "WelcomeDialog": {
+        "Title": "Tervetuloa Filesiin!",
+        "PrimaryButtonText": "Myönnä käyttöoikeus"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Aloittaaksesi sinun on myönnettävä meille lupa tiedostojesi näyttämiseen. Tämä avaa asetukset-sivun, jolla voit myöntää meille tämän luvan. Sinun on avattava sovellus uudelleen, kun olet suorittanut tämän vaiheen. "
+    },
+    "Display": "Näytä",
+    "EnterAnItemName": "Syötä kohteen nimi",
+    "RenameDialog": {
+        "PrimaryButtonText": "Aseta nimi"
+    },
+    "LightTheme": "Vaalea",
+    "DarkTheme": "Tumma",
+    "Application": "Sovellus",
+    "SystemTimeStyle": "Järjestelmä",
+    "NewFolder": "Uusi kansio",
+    "NewFile": "Uusi tiedosto",
+    "EmptyFolder": {
+        "Text": "Tämä kansio on tyhjä."
+    },
+    "Back": "Takaisin (Alt+vasen nuoli)",
+    "Forward": "Eteenpäin (Alt+oikea nuoli)",
+    "Up": "Ylös (Alt+ylös-nuoli)",
+    "Refresh": "Päivitä",
+    "ItemAlreadyExistsDialogContent": "Tämänniminen kohde on jo tässä hakemistossa.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Korvaa olemassa oleva kohde",
+    "ItemAlreadyExistsDialogTitle": "Kohde on jo olemassa",
+    "SetAsLockscreen": "Aseta lukitusnäytön taustaksi",
+    "SetAsAppBackground": "Aseta sovelluksen taustaksi",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Emme voineet poistaa tätä kohdetta"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Aseta tarvittava asema käyttääksesi tätä kohdetta.",
+        "Title": "Asema irrotettu"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Tiedosto, jota yrität käyttää, on saatettu siirtää tai poistaa.",
+        "Title": "Tiedostoa ei löytynyt"
+    },
+    "CannotAccessPropertiesTitle": "Tämän tiedoston ominaisuuksia ei voi avata",
+    "CannotAccessPropertiesContent": "Tiedosto, jota yrität käyttää, on saatettu siirtää tai poistaa.",
+    "FolderNotFoundDialog": {
+        "Text": "Kansio, jota yrität käyttää, on saatettu siirtää tai poistaa.",
+        "Title": "Poistitko tämän kansion?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Tiedostoa, jota yrität käyttää, käyttää tällä hetkellä {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "Tiedosto, jota yrität käyttää, on tällä hetkellä toisen sovelluksen käytössä",
+        "Title": "Tiedosto on käytössä"
+    },
+    "Layout": "Ulkoasu",
+    "PropertiesDialogReadOnly": {
+        "Text": "Vain luku"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Nyt",
+    "ErrorDialogUnsupportedOperation": "Pyydettyä toimintoa ei tueta",
+    "DriveFreeSpaceAndCapacity": "{0} / {1} vapaana",
+    "SendTo": "Lähetä kohteeseen",
+    "FileNameTeachingTip": {
+        "Subtitle": "Kohteen nimi ei saa sisältää seuraavia merkkejä: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "Määritetty kohteen nimi on virheellinen"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# kohde valittu} other {# kohdetta valittu}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {tuote} other {kohdetta}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Kyllä",
+    "ConfirmEmptyBinDialogContent": "Haluatko varmasti poistaa kaikki nämä kohteet pysyvästi?",
+    "ConfirmEmptyBinDialogTitle": "Tyhjennä roskakori",
+    "ItemSizeBytes": "tavua",
+    "KiloByteSymbol": "kt",
+    "MegaByteSymbol": "Mt",
+    "GigaByteSymbol": "Gt",
+    "TeraByteSymbol": "Tt",
+    "PetaByteSymbol": "Pt",
+    "ByteSymbol": "t",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Suorita toisena käyttäjänä"
+    },
+    "PropertiesDriveItemTypesEquals": "Kaikki {0}-tyyppiä",
+    "PropertiesDriveItemTypeDifferent": "Eri tyypit",
+    "PropertiesCombinedItemLocation": "Kaikki kohteessa {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Käytetty tila:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Vapaa tila:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Kapasiteetti:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Tiedostojärjestelmä:"
+    },
+    "JumpListRecentGroupHeader": "Viimeisimmät",
+    "TabStripDragAndDropUIOverrideCaption": "Siirrä välilehti tähän",
+    "syncStatusColumn": {
+        "Header": "Tila"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Windowsin oletusarvo",
+    "NavigationToolbarVisiblePathNoResults": "Ei tuloksia",
+    "SubDirectoryAccessDenied": "Näytettäviä kohteita ei voi käyttää",
+    "MoveToFolderCaptionText": "Siirrä kansioon {0}",
+    "CopyToFolderCaptionText": "Kopioi kansioon {0}",
+    "CreateShortcut": "Luo pikakuvake",
+    "OpenFileLocation": "Avaa tiedoston sijainti",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Argumentit:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Kohde:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Pikakuvakkeen tyyppi:"
+    },
+    "PropertiesShortcutTypeLink": "Verkkolinkki",
+    "General": "Yleinen",
+    "Shortcut": "Pikakuvake",
+    "ShortcutWebLinkFileType": "Internet-pikakuvake",
+    "ShortcutCreateNewSuffix": "{0}-pikakuvake",
+    "ExceptionNotificationBody": "Files törmäsi ongelmaan, johon kehittäjät eivät osanneet vielä varautua.",
+    "ExceptionNotificationHeader": "Jokin meni pieleen!",
+    "ExceptionNotificationReportButton": "Ilmoita tästä ongelmasta",
+    "InvalidItemDialogContent": "Viitattu kohde on joko virheellinen tai ei ole käytettävissä.{0}Virheilmoitus:{0}{1}",
+    "InvalidItemDialogTitle": "Virheellinen kohde",
+    "SettingsAboutVersionTitle": "Versio:",
+    "ShareDialogFailMessage": "Tällä hetkellä ei ole mitään jaettavaa...",
+    "ShareDialogMultipleItemsDescription": "Valitsemasi kohteet jaetaan",
+    "ShareDialogSingleItemDescription": "Valittu kohde jaetaan",
+    "ShareDialogTitle": "Jaetaan {0}",
+    "ShareDialogTitleMultipleItems": "Jaetaan {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "Kohdetta, jota yrität nimetä uudelleen, ei ole enää olemassa. Tarkista uudelleen nimettävän kohteen oikea sijainti.",
+            "Title": "Kohdetta ei ole enää olemassa"
+        },
+        "NameInvalid": {
+            "Text": "Määritetty nimi oli virheellinen. Tarkista haluamasi kohteen nimi ja yritä uudelleen.",
+            "Title": "Virheellinen kohteen nimi"
+        },
+        "TooLong": {
+            "Text": "Määritetyn kohteen nimen pituus ylittää enimmäisrajan. Tarkista haluamasi nimi ja yritä uudelleen.",
+            "Title": "Kohteen nimi oli liian pitkä"
+        }
+    },
+    "ShowMoreOptions": "Näytä lisäasetukset",
+    "RestartNotificationText": {
+        "Text": "Sovellus on käynnistettävä uudelleen, jotta nämä asetukset voidaan ottaa käyttöön. Haluatko käynnistää sovelluksen uudelleen?"
+    },
+    "SponsorUsOnGitHub": "Sponsoroi meitä GitHubissa",
+    "AccessDeniedCreateDialog": {
+        "Text": "Emme voineet luoda tätä kohdetta"
+    },
+    "AccessDenied": "Käyttö estetty",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Määritä"
+    },
+    "Cancel": "Peruuta",
+    "AddDialog": {
+        "Title": "Luo uusi kohde"
+    },
+    "AddDialogDescription": {
+        "Text": "Valitse alta tämän uuden kohteen tyyppi"
+    },
+    "File": "Tiedosto",
+    "AddDialogListFileSubHeader": "Luo tyhjän tiedoston",
+    "Folder": "Kansio",
+    "AddDialogListFolderSubHeader": "Luo tyhjän kansion",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Päivitä hakemisto"
+        }
+    },
+    "Language": "Kieli",
+    "SettingsContextMenuOverflow": "Siirrä komentotulkin laajennukset alivalikkoon",
+    "ShowConfirmationWhenDeletingItems": "Näytä vahvistusikkuna, kun poistat kohteita",
+    "PropertySaveErrorMessage": {
+        "Text": "Joidenkin kohteiden tallentamisessa oli ongelma."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Virhe",
+        "SecondaryButtonText": "Sulje joka tapauksessa"
+    },
+    "PropertyRatingText": "Luokitus",
+    "PropertyParsingPath": "Kohteen polku",
+    "PropertyItemTypeText": "Kohteen tyyppi",
+    "PropertyTitle": "Otsikko",
+    "PropertySubject": "Aihe",
+    "PropertyComment": "Kommentti",
+    "PropertyCopyright": "Tekijänoikeus",
+    "PropertyDateModified": "Muokkauspäivämäärä",
+    "PropertyBitDepth": "Bittimäärä",
+    "PropertyDimensions": "Mitat",
+    "PropertyHorizontalSize": "Vaakakoko",
+    "PropertyVerticalSize": "Pystykoko",
+    "PropertyHorizontalResolution": "Vaakaresoluutio",
+    "PropertyVerticalResolution": "Pystyresoluutio",
+    "PropertyColorSpace": "Väriavaruus",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Määrittelemätön",
+    "PropertyLongitudeDecimal": "Pituusaste-desimaali",
+    "PropertyLatitudeDecimal": "Leveysaste-desimaali",
+    "PropertyAltitude": "Korkeus",
+    "PropertyDateTaken": "Kuvauspäivä",
+    "PropertyCameraManufacturer": "Kameran valmistaja",
+    "PropertyCameraModel": "Kameran malli",
+    "PropertyExposureTime": "Valotusaika",
+    "PropertyFocalLength": "Polttoväli",
+    "PropertyAperture": "Aukko",
+    "PropertyPeopleNames": "Ihmisten nimet",
+    "PropertyChannelCount": "Kanavien määrä",
+    "PropertyFormat": "Muoto",
+    "PropertySampleRate": "Näytteenottotaajuus",
+    "PropertyAlbumArtist": "Albumin esittäjä",
+    "PropertyAlbumTitle": "Albumin otsikko",
+    "Artist": "Esittäjä",
+    "PropertyBeatsPerMinute": "Lyöntiä minuutissa",
+    "PropertyComposer": "Säveltäjä",
+    "Conductor": "Kapellimestari",
+    "PropertyDiscNumber": "Levynumero",
+    "PropertyGenre": "Tyylilaji",
+    "PropertyTrackNumber": "Kappaleen numero",
+    "PropertyDuration": "Kesto",
+    "PropertyFrameCount": "Kehysmäärä",
+    "PropertyProtectionType": "Suojaustyyppi",
+    "PropertyAuthorUrl": "Tekijän URL-osoite",
+    "PropertyContentDistributor": "Sisällön jakelija",
+    "PropertyDateReleased": "Julkaisupäivä",
+    "PropertySeriesName": "Sarjan nimi",
+    "PropertySeasonNumber": "Kauden numero",
+    "PropertyEpisodeNumber": "Jakson numero",
+    "PropertyProducer": "Tuottaja",
+    "PropertyPromotionUrl": "Ylentämis-URL",
+    "PropertyProviderStyle": "Tarjoajan Tyyli",
+    "PropertyPublisher": "Julkaisija",
+    "PropertyThumbnailLargePath": "Suuren pikkukuvan polku",
+    "PropertyThumbnailLargeUri": "Suuren pikkukuvan URI",
+    "PropertyThumbnailSmallPath": "Pienen pikkukuvan polku",
+    "PropertyThumbnailSmallUri": "Pienen pikkukuvan URI",
+    "PropertyUserWebUrl": "Käyttäjän verkko-URL",
+    "PropertyWriter": "Kirjoittaja",
+    "PropertyYear": "Vuosi",
+    "PropertyContributor": "Osallistuja",
+    "PropertyLastAuthor": "Viimeisin tekijä",
+    "PropertyRevisionNumber": "Versionumero",
+    "PropertyVersion": "Versio",
+    "PropertyDateCreated": "Luontipäivämäärä",
+    "PropertyTotalEditingTime": "Kokonaismuokkausaika",
+    "PropertyTemplate": "Malli",
+    "PropertyWordCount": "Sanamäärä",
+    "PropertyCharacterCount": "Merkkimäärä",
+    "PropertyLineCount": "Rivimäärä",
+    "PropertyParagraphCount": "Kappalemäärä",
+    "PropertyPageCount": "Sivumäärä",
+    "PropertySlideCount": "Diamäärä",
+    "PropertyFrameRate": "Kuvataajuus",
+    "PropertyEncodingBitrate": "Koodauksen bittinopeus",
+    "PropertyPreviewAudioEncodingBitrate": "Äänen Enkoodaus Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Videon Enkoodaus Bittinopeus",
+    "Compression": "Pakkaus",
+    "PropertyFrameWidth": "Kehysleveys",
+    "PropertyFrameHeight": "Kehyskorkeus",
+    "PropertyOrientation": "Suunta",
+    "PropertySectionCore": "Ydin",
+    "PropertySectionImage": "Kuva",
+    "PropertySectionPhoto": "Valokuva",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Media",
+    "PropertySectionAudio": "Ääni",
+    "PropertySectionMusic": "Musiikki",
+    "PropertySectionVideo": "Video",
+    "Document": "Asiakirja",
+    "Address": "Osoite",
+    "SelectionOptions": "Valintavaihtoehdot",
+    "NavToolbarSelectionOptions": {
+        "Label": "Valitse"
+    },
+    "RecycleBinItemAutomation": "Roskakorikohde",
+    "ShortcutItemAutomation": "Pikakuvakekohde",
+    "Drives": "Asemat",
+    "PinToSidebarByDraggingCaptionText": "Siirrä tähän",
+    "EjectNotificationHeader": "Laitteiston poistaminen on turvallista",
+    "EjectNotificationBody": "Laite voidaan nyt turvallisesti irrottaa tietokoneesta.",
+    "EjectNotificationErrorDialogHeader": "Ongelma laitteen poistamisessa",
+    "EjectNotificationErrorDialogBody": "Tämä laite on tällä hetkellä käytössä. Sulje kaikki ohjelmat, ikkunat tai välilehdet, jotka saattavat käyttää laitetta, ja yritä sitten uudelleen.",
+    "Eject": "Poista levy",
+    "DuplicateTab": "Monista välilehti",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Siirrä välilehti uuteen ikkunaan"
+    },
+    "NewTab": "Uusi välilehti",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Jotkut ominaisuudet voivat sisältää henkilökohtaisia tietoja."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Tyhjennä kaikki ominaisuudet"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Tarkista tiedostotoimintojen tila täältä",
+        "Title": "Tilakeskus"
+    },
+    "SearchPagePathBoxOverrideText": "Hakutulokset kohteessa {1} haulle {0}",
+    "Details": "Tiedot",
+    "No": "Ei",
+    "ShowProtectedSystemFiles": "Näytä suojatut järjestelmätiedostot",
+    "SyncFolderPreferencesAcrossDirectories": "Synkronoi asettelu- ja lajitteluasetukset hakemistojen välillä",
+    "SettingsContextMenu": {
+        "Text": "Mukauta hiiren kakkospainikkeen kontekstivalikkoa"
+    },
+    "OriginalPath": "Alkuperäinen polku",
+    "Add": "Lisää",
+    "Edit": "Muokkaa",
+    "Remove": "Poista",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Avaa välilehdet kaksoisruutunäkymässä",
+    "ShowOpenInNewPane": "Näytä vaihtoehto kansioiden avaamiseksi uudessa ruudussa",
+    "ShowCopyPath": "Näytä polun kopioinnin vaihtoehto",
+    "ShowCreateFolderWithSelection": "Näytä vaihtoehto kansion luomiseen valinnalla",
+    "ShowCreateShortcut": "Näytä pikakuvakkeen luonnin vaihtoehto",
+    "NavigationToolbarNewPane": {
+        "Label": "Uusi ruutu"
+    },
+    "OpenInNewPane": "Avaa uudessa ruudussa",
+    "FilesAndFolders": "Tiedostot ja kansiot",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Tiedot (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Laatat (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "Poistopäivämäärä",
+    "SidebarCloudDrives": "Pilviasemat",
+    "Confirm": "Vahvista",
+    "DesiredName": "Haluttu nimi",
+    "TogglePreviewPane": "Vaihda esikatseluruutua",
+    "ToggleDetailsPane": "Vaihda tietoruutua",
+    "ToggleDetailsPaneDescription": "Vaihda tiedot-ruutu näyttämään tiedoston perusominaisuudet",
+    "ToggleInfoPane": "Vaihda tietoruudun tilaa",
+    "ToggleInfoPaneDescription": "Vaihda tietoruutu näyttämään tiedot- tai esikatseluruutu",
+    "DetailsPanePreviewNotAvaliableText": "Esikatselua ei ole saatavilla",
+    "PropertyItemName": "Kohteen nimi",
+    "UnpinFolderFromSidebar": "Irrota sivupalkista",
+    "Network": "Verkko",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Tiedoston tiedot"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Tiedoston esikatselu"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Valitun tiedoston esikatseluruutu"
+        }
+    },
+    "Feedback": "Palaute",
+    "CloudDriveSyncStatus_Online": "Käytettävissä online-tilassa",
+    "Documentation": "Ohjeet",
+    "CloudDriveSyncStatus_Offline": "Käytettävissä offline-tilassa",
+    "CloudDriveSyncStatus_PartialOffline": "Osittain käytettävissä offline-tilassa",
+    "CloudDriveSyncStatus_Sync": "Synkronoidaan",
+    "CloudDriveSyncStatus_Excluded": "Poistettu synkronoinnista",
+    "ItemSizeNotCalculated": "Ei laskettu",
+    "CloudDriveSyncStatus_Unknown": "Tuntematon",
+    "RenameFileDialog": {
+        "Text": "Jos muutat tiedostopäätettä, tiedosto saattaa muuttua käyttökelvottomaksi. Haluatko varmasti vaihtaa sen?"
+    },
+    "DriveTypeCDRom": "CD-ROM-asema",
+    "DriveTypeCloudDrive": "Pilviasema",
+    "DriveTypeFixed": "Kiinteä levyasema",
+    "DriveTypeFloppyDisk": "Levykeasema",
+    "DriveTypeNetwork": "Verkkoasema",
+    "DriveTypeNoRootDirectory": "Irrotettu asema",
+    "DriveTypeRam": "RAM-asema",
+    "DriveTypeRemovable": "Siirrettävä tallennuslaite",
+    "DriveTypeUnknown": "Tuntematon",
+    "DriveTypeVirtualDrive": "Virtuaaliasema",
+    "DateCreated": "Luontipäivämäärä",
+    "MoreOptions": "Lisää vaihtoehtoja...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Yhdistä verkkoasemaan"
+    },
+    "Pinned": "Kiinnitetty",
+    "SidebarLibraries": "Kirjastot",
+    "NoItemSelected": "Kohdetta ei ole valittu",
+    "PropertyItemTarget": "Kohde",
+    "Arguments": "Argumentit",
+    "Default": "Oletus",
+    "PropertyItemCount": "Kohteiden lukumäärä",
+    "ElevateConfirmDialog": {
+        "Title": "Tämä toiminto vaatii järjestelmänvalvojan oikeudet",
+        "Content": "Haluatko jatkaa järjestelmänvalvojana?"
+    },
+    "ColumnsShortcutTooltip": "Sarakkeet (Ctrl+Vaihto+6)",
+    "PinItemToStart": {
+        "Text": "Kiinnitä aloitusvalikkoon"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Irrota kiinnitys aloitusvalikosta"
+    },
+    "Library": "Kirjasto",
+    "LibraryLocations": {
+        "Text": "Sijainnit:"
+    },
+    "SetAsDefaultSavePath": "Aseta oletustallennuspoluksi",
+    "LibraryNoLocations": {
+        "Text": "Ei sijainteja"
+    },
+    "ErrorInputEmpty": "Syöttökenttä ei voi olla tyhjä!",
+    "ErrorNameInputRestrictedCharacters": "Nimessä ei saa olla seuraavia merkkejä: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Tämän nimen käyttö ei ole sallittua!",
+    "CreateLibraryErrorAlreadyExists": "Samanniminen kirjasto on jo olemassa!",
+    "OpenStorageSense": "Avaa tallennusseuranta",
+    "Copy": "Kopioi",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Siirrä",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Jatka",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Poista pysyvästi"
+    },
+    "PropertyISO": "ISO-nopeus",
+    "ReplaceExisting": "Korvaa olemassa oleva",
+    "GenerateNewName": "Luo uusi nimi",
+    "CreateFolderWithSelection": "Luo kansio valinnalla",
+    "ItemType": "Tyyppi:",
+    "ToolTipDescriptionDate": "Muokkauspäivämäärä:",
+    "OpenWith": "Avaa sovelluksessa",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Tiedostokuvake"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Alkuperäinen polku -sarake"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Kohteen tyyppi -sarake"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Muokkauspäivämäärä -sarake"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Poistopäivämäärä -sarake"
+    },
+    "Sort": "Lajittele",
+    "DateModifiedLowerCase": "Muokkauspäivämäärä",
+    "OriginalFolder": "Alkuperäinen kansio",
+    "Descending": "Laskeva",
+    "ItemSizeText_Huge": "Valtava",
+    "ItemSizeText_VeryLarge": "Hyvin suuri",
+    "ItemSizeText_Large": "Suuri",
+    "ItemSizeText_Medium": "Keskikoko",
+    "ItemSizeText_Small": "Pieni",
+    "ItemSizeText_Tiny": "Pienen pieni",
+    "Future": "Tulevaisuus",
+    "Today": "Tänään",
+    "Yesterday": "Eilen",
+    "EarlierThisWeek": "Aiemmin tällä viikolla",
+    "LastWeek": "Viime viikolla",
+    "EarlierThisMonth": "Aiemmin tässä kuussa",
+    "LastMonth": "Viime kuussa",
+    "EarlierThisYear": "Aiemmin tänä vuonna",
+    "LastYear": "Viime vuonna",
+    "YearN": "Vuonna {0}",
+    "GroupItemsCount_Singular": "{0} kohde",
+    "GroupItemsCount_Plural": "{0} kohdetta",
+    "ReopenClosedTab": "Avaa suljettu välilehti uudelleen",
+    "Rename": "Nimeä uudelleen",
+    "Privacy": "Yksityisyys",
+    "TheRecycleBin": "Roskakori",
+    "Canceling": "Perutaan",
+    "Clear": "Tyhjennä",
+    "Widgets": "Widgetit",
+    "SyncStatus": "Synkronoinnin tila",
+    "Security": "Suojaus",
+    "AdvancedPermissions": "Lisäkäyttöoikeudet",
+    "Allow": "Salli",
+    "Deny": "Estä",
+    "SecurityFullControlLabel": {
+        "Text": "Täysi hallinta"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Listaa hakemiston sisältö"
+    },
+    "Modify": "Muokkaa",
+    "SecurityPermissionsHeaderText": "Käyttöoikeudet kohteelle {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Lue ja suorita"
+    },
+    "SecurityReadLabel": {
+        "Text": "Lue"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Ryhmän tai käyttäjän nimet"
+    },
+    "Write": "Kirjoita",
+    "SecurityUnknownAccount": "Tuntematon tili",
+    "SecurityCannotReadProperties": {
+        "Text": "Sinulla ei ole oikeuksia tarkastella tämän objektin suojausominaisuuksia. Napsauta \"Lisäkäyttöoikeudet\" jatkaaksesi."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Omistaja:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Tuntematon omistaja"
+    },
+    "ExtractArchive": "Pura arkisto",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Avaa kohdekansio, kun valmis"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Pura kohteeseen {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Luo uusi kirjasto"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Palauta oletuskirjastot"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Haluatko varmasti palauttaa oletuskirjastot? Kaikki tiedostosi säilyvät tallennustilassasi.",
+    "DialogRestoreLibrariesTitleText": "Palauta kirjastot",
+    "PropertyFileOwner": "Omistaja",
+    "SecuritySpecialLabel": {
+        "Text": "Mukautettu"
+    },
+    "Access": "Käyttöoikeus",
+    "SecurityAdvancedAppliesTo": "Käytetään kohteeseen",
+    "Principal": "Pääasiallinen",
+    "SecurityAdvancedFlagsFilesLabel": "tiedostot",
+    "SecurityAdvancedFlagsFolderLabel": "tämä kansio",
+    "SecurityAdvancedFlagsSubfoldersLabel": "alikansiot",
+    "Inherited": "Peritty",
+    "Permissions": "Käyttöoikeudet",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "Sinulla ei ole oikeuksia tarkastella tämän objektin suojausominaisuuksia. Voit yrittää ottaa tämän kohteen omistukseen."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Tämä kansio ja tiedostot"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Tämä kansio, alikansiot ja tiedostot"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Vain tiedostot"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Vain alikansiot"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Vain alikansiot ja tiedostot"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Vain tämä kansio"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Tämä kansio ja alikansiot"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Lisää tiedot"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Muuta käyttöoikeutta"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Luo kansioita"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Luo tiedostoja"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Poista alihakemistot ja tiedostot"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Suorita tiedostot"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Lue määritteet"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Lue tietoja"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Lue lisämääritteet"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Lukuoikeudet"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Ota omistukseen"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Käy kansiossa"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Kirjoita määritteet"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Kirjoita tieto"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Kirjoita lisämääritteet"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Muunna perityt käyttöoikeudet eksplisiittisiksi käyttöoikeuksiksi"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Ota periytyminen käyttöön"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Poista kaikki perityt käyttöoikeudet"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Palauta alikäyttöoikeudet"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Korvaa kaikki aliobjektin käyttöoikeusmerkinnät tämän objektin periytyvillä käyttöoikeusmerkinnöillä"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Sulje ruutu"
+    },
+    "EnterCompactOverlay": "Siirry suppeaan asetteluun",
+    "ExitCompactOverlay": "Poistu suppeasta asettelusta",
+    "PropertyFileDescription": "Tiedoston kuvaus",
+    "PropertyCompany": "Yritys",
+    "PropertyLanguage": "Kieli",
+    "PropertyTrademarks": "Tavaramerkit",
+    "PropertyFileVersion": "Tiedostoversio",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Lataa koko esikatselu",
+        "ToolTipService": {
+            "ToolTip": "Lataa kohteen pilvestä ja lataa esikatselun"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Pakkaamaton koko",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Piilota {0}-osio"
+    },
+    "AddFile": "Lisää tiedosto",
+    "ConsentDialogTitle": "Päivityksiä saatavilla",
+    "ConsentDialogContent": "Päivitykset ovat valmiita asennettavaksi",
+    "Close": "Sulje",
+    "ConsentDialogPrimaryButtonText": "Päivitä",
+    "Home": "Koti",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Vaihto+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Vaihto+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Vaihto+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Arkiston purkaminen onnistui.",
+    "ExtractingArchiveText": "Puretaan arkistoa",
+    "ExtractingCompleteText": "Extracting complete!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Avaa yläkansio"
+    },
+    "Unknown": "Tuntematon",
+    "EditTags": "Muokkaa tunnisteita",
+    "PropertyPartOfSet": "Ryhmän osa",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Avaa asema",
+        "Text": "Aseta levy asemaan {0}",
+        "Title": "Aseta levy levyasemaan"
+    },
+    "OK": "OK",
+    "AskCredentialDialog": {
+        "Title": "Tunnistetieto vaaditaan"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Nimetön"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Anna käyttäjätunnuksesi:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Käyttäjätunnus"
+    },
+    "NoSearchResultsFound": "Kohteita ei löytynyt",
+    "OpenLogLocation": "Avaa lokin sijainti",
+    "LinkToFolderCaptionText": "Luo linkki kohteeseen {0}",
+    "Columns": "Sarakkeet",
+    "Tiles": "Laatat",
+    "OpenFoldersInNewTab": "Avaa kansiot uudessa välilehdessä",
+    "StatusCenter": "Tilakeskus",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Luontipäivämäärä -sarake"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Kohteen koko -sarake"
+    },
+    "ExperimentalFeatureFlags": "Kokeelliset ominaisuudet",
+    "HelpAndSupport": "Ohjeet ja tuki",
+    "SubmitFeatureRequest": "Lähetä ominaisuuspyyntö",
+    "SubmitBugReport": "Lähetä virheraportti",
+    "SettingsSetAsDefaultFileManager": "Aseta Files oletustiedostonhallintaohjelmaksi",
+    "SettingsSetAsOpenDialog": "Käytä Filesia avaa tiedosto -valintaikkunana",
+    "Tag": "Tunniste",
+    "SettingsOpenItemsWithOneClick": "Avaa kohteet yhdellä napsautuksella",
+    "FolderPath": "Kansion polku",
+    "ExportSettings": "Vie asetukset",
+    "ImportSettings": "Tuo asetukset",
+    "SettingsImportErrorDescription": "Asetuksia ei voitu tuoda. Asetustiedosto on vioittunut.",
+    "SettingsImportErrorTitle": "Virhe asetusten tuonnissa",
+    "EmptyRecycleBin": "Tyhjennä roskakori",
+    "Sidebar": "Sivupalkki",
+    "ChooseCustomIcon": "Valitse mukautetun kansion kuvake",
+    "Customization": "Mukauttaminen",
+    "RestoreDefault": "Palauta oletusarvot",
+    "OpenTabInExistingInstance": "Avaa välilehti nykyisessä instanssissa, kun avaat Filesin toisesta sovelluksesta",
+    "StartupSettings": "Käynnistysasetukset",
+    "Compatibility": "Yhteensopivuus",
+    "None": "Ei mitään",
+    "CompatibilityOnWindowsLogin": "Windows-kirjautuessa",
+    "CompatibilityOnProgramStart": "Tämän ohjelman käynnistyessä",
+    "System": "Järjestelmä",
+    "CompatibilitySystemEnhanced": "Järjestelmä (Enhanced)",
+    "CompatibilityReducedColorModeColor16bit": "16-bittinen (65536) väri",
+    "CompatibilityReducedColorModeColor8bit": "8-bittinen (256) väri",
+    "CompatibilityDisableFullscreenOptimizations": "Poista koko näytön optimoinnit käytöstä",
+    "CompatibilityRunIn640x480Resolution": "Suorita 640 x 480 näytön resoluutiolla",
+    "CompatibilityOverrideHighDPIBehavior": "Ohita korkean DPI skaalauksen käyttäytyminen",
+    "CompatibilityReducedColorMode": "Vähennetty väritila",
+    "CompatibilityRegisterThisProgramForRestart": "Rekisteröi tämä ohjelma käynnistääksesi uudelleen",
+    "RunAsAdministrator": "Suorita järjestelmänvalvojana",
+    "CompatibilityRunTroubleshooter": "Suorita yhteensopivuuden vianmääritys",
+    "CompatibilityUseDPISettings": "Käytä päänäytön DPI asetuksia",
+    "CompatibilityDoNotAdjustDPI": "Älä säädä DPI",
+    "CompatibilityDoNotOverrideDPI": "Älä ohita DPI",
+    "CompatibilityMode": "Yhteensopivuustila",
+    "CompatibilityNoReducedColor": "Ei väriä",
+    "ThirdPartyLicenses": "Kolmannen osapuolen lisenssit",
+    "SettingsSetAsDefaultFileManagerDescription": "Tämä vaihtoehto muuttaa järjestelmän rekisteriä ja sillä voi olla odottamattomia sivuvaikutuksia laitteeseen. Jatka omalla vastuullasi.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Luo kirjasto",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Syötä kirjaston nimi",
+    "CalculateFolderSizes": "Laske kansioiden koot",
+    "RecentFiles": "Viimeisimmät tiedostot",
+    "SettingsOpenInLogin": "Avaa Files Windowsin käynnistyksessä",
+    "Attributes": "Määritteet",
+    "Hidden": "Piilotettu",
+    "MoreDetails": "Lisätietoja",
+    "ReadOnly": "Vain luku",
+    "CleanupDrive": "Puhdista aseman sisältö",
+    "Type": "Tyyppi",
+    "Bytes": "Tavua",
+    "Extract": "Pura",
+    "ExtractFiles": "Pura tiedostot",
+    "ExtractHere": "Pura tähän",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Pura kohteeseen {0}",
+    "RunScript": "Suorita skripti",
+    "RunWithPowerShell": "Suorita PowerShellilla",
+    "ShowFolderSizesWarning": "Kansiokokojen laskeminen vaatii paljon resursseja ja saattaa lisätä suorittimen käyttöäsi.",
+    "RotateLeft": "Kierrä vasemmalle",
+    "RotateRight": "Kierrä oikealle",
+    "Install": "Asenna",
+    "CloseTabsToTheLeft": "Sulje vasemmalla olevat välilehdet",
+    "CloseTabsToTheRight": "Sulje oikealla olevat välilehdet",
+    "CloseOtherTabs": "Sulje muut välilehdet",
+    "Music": "Musiikki",
+    "Pictures": "Kuvat",
+    "UpdateFiles": "Päivitä Files",
+    "FileTags": "Tunnisteet",
+    "Universal": "Universaali",
+    "DateFormatSample": "esim.: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Näytä pikkukuvat",
+    "Retry": "Yritä uudelleen",
+    "ErrorDialogUnsupportedMoveOperation": "Siirtotoimintoa ei tueta tässä yhteydessä. Haluatko kopioida kohteet sen sijaan?",
+    "HiddenItems": "Piilotetut kohteet",
+    "Custom": "Mukautettu",
+    "SetAsSlideshow": "Aseta työpöydän diaesityksenä",
+    "SizeAllColumnsToFit": "Sovita kaikkien sarakkeiden koko näkymään",
+    "Adaptive": "Mukautuva asettelu",
+    "AdaptiveShortcutTooltip": "Mukautuva asettelu (Ctrl+Vaihto+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Vaihto+7"
+    },
+    "ShowAlternateStreams": "Näytä vaihtoehtoisia datavirtoja",
+    "Behaviors": "Toiminnat",
+    "ReviewFiles": "Arvostele Files",
+    "ReviewFilesContent": "Haluatko arvioida Filesin?",
+    "SetAsBackgroundFlyout": "Aseta taustakuvaksi",
+    "SetAsBackground": "Aseta työpöydän taustakuvaksi",
+    "SetAsDefault": "Aseta oletukseksi",
+    "DateColumn": "Päivämäärä-sarake",
+    "DateCreatedColumn": "Luontipäivämäärä -sarake",
+    "SizeColumn": "Koko-sarake",
+    "TagColumn": "Tunniste-sarake",
+    "TypeColumn": "Tyyppi-sarake",
+    "Lockscreen": "Lukitusnäyttö",
+    "OpenFolderWithOneClickColumnsLayout": "Avaa kansiot yhdellä napsautuksella sarakeasettelussa",
+    "OpeningItems": "Avataan kohteita",
+    "Compress": "Pakkaa",
+    "SelectFilesAndFoldersOnHover": "Valitse tiedostot ja kansiot viemällä hiiren osoitin niiden päälle",
+    "ConfirmRestoreBinDialogContent": "Haluatko varmasti palauttaa kaikki roskakorin kohteet?",
+    "ConfirmRestoreBinDialogTitle": "Palauta kaikki kohteet",
+    "ConfirmRestoreSelectionBinDialogContent": "Haluatko palauttaa {0} valittua kohdetta?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Palauta valinta",
+    "RestoreAllItems": "Palauta kaikki kohteet",
+    "Restore": "Palauta",
+    "ShortcutCannotBeOpened": "Pikakuvaketta ei voi avata",
+    "DeleteShortcutDescription": "Kohdetta ei löydy {0}. Haluatko poistaa tämän pikakuvakkeen?",
+    "AccessDeniedToFolder": "Sinulla ei ole lupaa käyttää tätä kansiota.",
+    "ArchivePassword": "Arkiston salasana",
+    "ExtractToPath": "Polku",
+    "SortingAndGrouping": "Lajittelu ja ryhmittely",
+    "CreateArchive": "Luo arkisto",
+    "Create": "Luo",
+    "CreateNamedArchive": "Luo {0}",
+    "EnterName": "Syötä nimi",
+    "CompressionLevel": "Pakkaustaso",
+    "CompressionLevelUltra": "Erittäin korkea",
+    "CompressionLevelHigh": "Korkea",
+    "CompressionLevelNormal": "Normaali",
+    "CompressionLevelLow": "Alhainen",
+    "CompressionLevelFast": "Nopea",
+    "CompressionLevelNone": "Ei mitään",
+    "SplittingSize": "Jakokoko",
+    "Do not split": "Älä jaa",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Salaus",
+    "Password": "Salasana",
+    "Format": "Muoto",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Synkronoinnin tila -sarake"
+    },
+    "GroupBy": "Ryhmittelyperuste",
+    "SortBy": "Lajitteluperuste",
+    "GroupInDescendingOrder": "Ryhmitä laskevaan järjestykseen",
+    "SortInDescendingOrder": "Järjestä laskevaan järjestykseen",
+    "NewShortcutDialogTitle": "Luo uusi pikakuvake",
+    "NewShortcutDialogDescription": "Luo pikakuvakkeita paikallisiin tai verkko-ohjelmiin, tiedostoihin, kansioihin, tietokoneisiin tai Internet-osoitteisiin.",
+    "NewShortcutDialogPrompt": "Syötä kohteen sijainti:",
+    "AddDialogListShortcutSubHeader": "Luo pikakuvakkeen",
+    "RecentFilesDisabledOnWindowsWarning": "Äskettäin käytetyt tiedostot on tällä hetkellä poistettu käytöstä Windowsin Resurssienhallinnassa.",
+    "EditSettingsFile": "Muokkaa asetustiedostoa",
+    "WhatsNew": "Uudet ominaisuudet",
+    "CannotCreateShortcutDialogTitle": "Pikakuvakkeen luominen tähän sijaintiin vaatii järjestelmänvalvojan oikeudet",
+    "CannotCreateShortcutDialogMessage": "Haluatko sen sijaan luoda pikakuvakkeen työpöydälle?",
+    "ErrorDialogNameNotAllowed": "Määritetty kohteen nimi on virheellinen",
+    "Settings": "Asetukset",
+    "DoubleClickBlankSpaceToGoUp": "Kaksoisnapsauta tyhjää kohtaa siirtyäksesi yhtä hakemistoa ylöspäin",
+    "ViewMore": "Näytä lisää",
+    "ShowEditTagsMenu": "Näytä muokkaa tunnisteita -pikaikkuna",
+    "ShowCompressionOptions": "Näytä pakkausvalinnat",
+    "ShowSendToMenu": "Näytä lähetä kohteeseen -valikko",
+    "ShowOpenInNewTab": "Näytä vaihtoehto kansioiden avaamiseksi uudessa välilehdessä",
+    "ShowOpenInNewWindow": "Näytä vaihtoehto kansioiden avaamiseksi uudessa ikkunassa",
+    "QuickAccess": "Pikakäyttö",
+    "NetworkAuthenticationDialogMessage": "Anna kirjautumistietosi muodostaaksesi yhteyden: {0}",
+    "NetworkAuthenticationDialogTitle": "Anna verkkotunnukset",
+    "NetworkAuthenticationSaveCheckbox": "Muista kirjautumistietoni",
+    "NetworkFolderErrorDialogTitle": "Virhe verkkokansiossa",
+    "AppVersion": "Sovellusversio",
+    "WindowsVersion": "Windows-versio",
+    "Always": "Aina",
+    "PermanentDeletionOnly": "Vain pysyvä poisto",
+    "Never": "Ei koskaan",
+    "TagColor": "Tunnisteen väri",
+    "NewTag": "Uusi tunniste",
+    "CreateNewTag": "Luo uusi tunniste",
+    "Loading": "Ladataan...",
+    "ContextMenuOptions": "Kontekstivalikon asetukset",
+    "ShowFileExtensions": "Näytä tiedostopäätteet",
+    "ShowHiddenItems": "Näytä piilotetut kohteet",
+    "FormatDriveText": "Alusta...",
+    "Help": "Tuki",
+    "FullScreen": "Vaihda koko näytön tilaan",
+    "ConfirmDeleteTag": "Haluatko varmasti poistaa tämän tunnisteen?",
+    "PlayAll": "Toista kaikki",
+    "Height": "Korkeus",
+    "Width": "Leveys",
+    "ApplyToAllConflictingItems": "Käytä tätä toimintoa kaikkiin ristiriitaisiin kohteisiin",
+    "OpenTerminal": "Avaa Windows-komentokehotteessa",
+    "OpenTerminalAsAdmin": "Avaa Windows-komentokehotteessa järjestelmänvalvojana",
+    "Save": "Tallenna",
+    "MultiSelect": "Monivalinta",
+    "ReorderSidebarItemsDialogText": "Järjestä sivupalkin kohteet uudelleen",
+    "Hashes": "Hajautusarvot",
+    "CalculationError": "Laskennassa tapahtui virhe",
+    "CalculationErrorFileIsOpen": "Tarkistussumman laskeminen epäonnistui. Sulje tiedosto ja yritä uudelleen.",
+    "CalculationOnlineFileHashError": "Tarkistussummat eivät ole saatavilla verkkotiedostoille",
+    "Algorithm": "Algoritmi",
+    "HashValue": "Hajautusarvo",
+    "SelectHashesToShow": "Valitse näytettävät hajautusarvot",
+    "Calculating": "Lasketaan...",
+    "JumpListPinnedGroupHeader": "Kiinnitetyt kohteet",
+    "DecreaseSize": "Pienennä kokoa",
+    "IncreaseSize": "Suurenna kokoa",
+    "ToggleSortDirection": "Vaihda lajittelusuuntaa",
+    "InvalidTagNameWarning": "Virheellinen nimi",
+    "TagNameRules": "Nimi ei saa olla tyhjä eikä se saa alkaa tai päättyä pisteellä.",
+    "Videos": "Videot",
+    "LaunchPreviewPopup": "Käynnistä esikatseluikkuna",
+    "ToggleCompactOverlay": "Kytke suppea asettelu päälle/pois",
+    "OpenHelpDescription": "Avaa online-ohjesivu selaimessa",
+    "ToggleFullScreenDescription": "Vaihda koko näytön tilaan",
+    "EnterCompactOverlayDescription": "Siirry suppeaan asetteluun",
+    "ExitCompactOverlayDescription": "Poistu suppeasta asettelusta",
+    "ToggleCompactOverlayDescription": "Kytke suppea asettelu päälle/pois",
+    "SearchDescription": "Siirry hakukenttään",
+    "ToggleShowHiddenItemsDescription": "Valitse, näytetäänkö piilotetut kohteet",
+    "ToggleShowFileExtensionsDescription": "Valitse, näytetäänkö tiedostotunnisteet",
+    "TogglePreviewPaneDescription": "Vaihda esikatseluruutu näyttämään tiedostojen esikatselut",
+    "ToggleSidebarDescription": "Valitse, näytetäänkö sivupalkki",
+    "CopyItemDescription": "Kopioi kohteet leikepöydälle",
+    "CopyPathDescription": "Kopioi valittujen kohteiden polut leikepöydälle",
+    "CopyPathWithQuotesDescription": "Kopioi valittujen kohteiden polut lainausmerkeillä leikepöydälle",
+    "CutItemDescription": "Leikkaa kohteet leikepöydälle",
+    "PasteItemDescription": "Liitä kohteet leikepöydältä nykyiseen kansioon",
+    "PasteItemToSelectionDescription": "Liitä kohteet leikepöydältä valittuun kansioon",
+    "DeleteItemDescription": "Poista kohteet",
+    "CreateFolderDescription": "Luo uusi kansio",
+    "CreateShortcutDescription": "Luo uudet pikakuvakkeet valittuihin kohteisiin",
+    "CreateShortcutFromDialogDescription": "Luo uusi pikakuvake mihin tahansa kohteeseen",
+    "EmptyRecycleBinDescription": "Tyhjennä roskakori",
+    "FormatDriveDescription": "Avaa valitun kohteen \"Alusta asema\" -valikko",
+    "RestoreRecycleBinDescription": "Palauta valitut kohteet roskakorista",
+    "RestoreAllRecycleBinDescription": "Palauta kaikki kohteet roskakorista",
+    "OpenItemDescription": "Avaa kohteet",
+    "OpenItemWithApplicationPickerDescription": "Avaa kohteet valitussa sovelluksessa",
+    "OpenParentFolderDescription": "Avaa haetun kohteen yläkansio",
+    "RefreshItemsDescription": "Päivitä sivun sisältö",
+    "RenameDescription": "Nimeä valittu kohde uudelleen",
+    "SelectAllDescription": "Valitse kaikki kohteet",
+    "InvertSelectionDescription": "Käänteinen kohteen valinta",
+    "ClearSelectionDescription": "Tyhjennä kohteen valinta",
+    "ToggleSelectDescription": "Vaihda kohteen valinta",
+    "ShareItemDescription": "Jaa valitut tiedostot muiden kanssa",
+    "PinToStartDescription": "Kiinnitä kohteet Käynnistä-valikkoon",
+    "UnpinFromStartDescription": "Irrota kohteet Käynnistä-valikosta",
+    "PinFolderToSidebarDescription": "Kiinnitä kansio(t) sivupalkkiin",
+    "UnpinFolderFromSidebarDescription": "Poista kansioiden kiinnitys sivupalkista",
+    "SetAsWallpaperBackgroundDescription": "Aseta valittu kuva työpöydän taustaksi",
+    "SetAsSlideshowBackgroundDescription": "Aseta valitut kuvat työpöydän diaesitykseksi",
+    "SetAsLockscreenBackgroundDescription": "Aseta valittu kuva lukitusnäytön taustaksi",
+    "SetAsAppBackgroundDescription": "Aseta valittu kuva sovelluksen taustaksi",
+    "InstallFontDescription": "Asenna valitut kirjasimet",
+    "InstallInfDriverDescription": "Asenna ajurit käyttämällä valittuja inf-tiedostoja",
+    "InstallCertificateDescription": "Asenna valitut varmenteet",
+    "RunAsAdminDescription": "Suorita valittu sovellus järjestelmänvalvojana",
+    "RunAsAnotherUserDescription": "Suorita valittu sovellus toisena käyttäjänä",
+    "RunWithPowershellDescription": "Suorita valittu PowerShell-skripti",
+    "LaunchPreviewPopupDescription": "Käynnistä esikatselu ponnahdusikkunassa",
+    "CompressIntoArchiveDescription": "Luo arkisto valituista kohteista",
+    "CompressIntoSevenZipDescription": "Luo 7z-arkisto välittömästi valituilla kohteilla",
+    "CompressIntoZipDescription": "Luo zip-arkisto välittömästi valituilla kohteilla",
+    "DecompressArchiveDescription": "Pura kohteet valituista arkistoista mihin tahansa kansioon",
+    "DecompressArchiveHereDescription": "Pura kohteet valituista arkistoista nykyiseen kansioon",
+    "DecompressArchiveToChildFolderDescription": "Pura kohteet valituista arkistoista uuteen kansioon",
+    "RotateLeftDescription": "Kierrä valittuja kuvia vasemmalle",
+    "RotateRightDescription": "Kierrä valittuja kuvia oikealle",
+    "OpenSettingsDescription": "Avaa asetussivu",
+    "OpenTerminalDescription": "Avaa kansio päätteessä",
+    "OpenTerminalAsAdminDescription": "Avaa kansio päätteessä järjestelmänvalvojana",
+    "LayoutDecreaseSizeDescription": "Pienennä kohteen kokoa nykyisessä näkymässä",
+    "LayoutIncreaseSizeDescription": "Kasvata kohteen kokoa nykyisessä näkymässä",
+    "LayoutDetailsDescription": "Vaihda tietonäkymään",
+    "LayoutTilesDescription": "Vaihda laattanäkymään",
+    "LayoutListDescription": "Vaihda luettelonäkymään",
+    "List": "Luettelo",
+    "Grid": "Ruudukko",
+    "LayoutGridDescription": "Vaihda ruudukkonäkymään",
+    "LayoutColumnsDescription": "Vaihda sarakenäkymään",
+    "LayoutAdaptiveDescription": "Vaihda näkymää mukautuvasti",
+    "SortByNameDescription": "Lajittele kohteet nimen mukaan",
+    "SortByDateModifiedDescription": "Lajittele kohteet muokkauspäivämäärän mukaan",
+    "SortByDateCreatedDescription": "Lajittele kohteet luontipäivämäärän mukaan",
+    "SortBySizeDescription": "Lajittele kohteet koon mukaan",
+    "SortByTypeDescription": "Lajittele kohteet tyypin mukaan",
+    "SortBySyncStatusDescription": "Lajittele kohteet synkronoinnin tilan mukaan",
+    "SortByTagDescription": "Lajittele kohteet tunnisteiden mukaan",
+    "SortByOriginalFolderDescription": "Lajittele kohteet alkuperäisen kansion mukaan",
+    "SortByDateDeletedDescription": "Lajittele kohteet poistopäivämäärän mukaan",
+    "SortAscendingDescription": "Lajittele kohteet nousevaan järjestykseen",
+    "SortDescendingDescription": "Lajittele kohteet laskevaan järjestykseen",
+    "ToggleSortDirectionDescription": "Vaihda kohteiden lajittelusuuntaa",
+    "GroupByNoneDescription": "Listaa kohteet ilman ryhmittelyä",
+    "GroupByNameDescription": "Ryhmittele kohteet nimen mukaan",
+    "GroupByDateModifiedDescription": "Ryhmittele kohteet muokkauspäivämäärän mukaan",
+    "GroupByDateCreatedDescription": "Ryhmittele kohteet luontipäivämäärän mukaan",
+    "GroupBySizeDescription": "Ryhmittele kohteet koon mukaan",
+    "GroupByTypeDescription": "Ryhmittele kohteet tyypin mukaan",
+    "GroupBySyncStatusDescription": "Ryhmittele kohteet synkronoinnin tilan mukaan",
+    "GroupByTagDescription": "Ryhmittele tuotteet tunnisteiden mukaan",
+    "GroupByOriginalFolderDescription": "Ryhmittele kohteet alkuperäisen kansion mukaan",
+    "GroupByDateDeletedDescription": "Ryhmittele kohteet poistopäivämäärän mukaan",
+    "GroupByFolderPathDescription": "Ryhmittele kohteet kansiopolun mukaan",
+    "GroupAscendingDescription": "Lajittele ryhmät nousevaan järjestykseen",
+    "GroupDescendingDescription": "Lajittele ryhmät laskevaan järjestykseen",
+    "ToggleGroupDirectionDescription": "Vaihda ryhmän lajittelusuuntaa",
+    "NewTabDescription": "Avaa uusi välilehti",
+    "NavigateBackDescription": "Navigoi taaksepäin navigointihistoriassa",
+    "NavigateForwardDescription": "Navigoi eteenpäin navigointihistoriassa",
+    "NavigateUpDescription": "Navigoi yksi hakemisto ylöspäin",
+    "DuplicateCurrentTabDescription": "Monista nykyinen välilehti",
+    "DuplicateSelectedTabDescription": "Monista valittu välilehti",
+    "CloseTabsToTheLeftCurrentDescription": "Sulje välilehdet nykyisen välilehden vasemmalla puolella",
+    "CloseTabsToTheLeftSelectedDescription": "Sulje välilehdet valitun välilehden vasemmalla puolella",
+    "CloseTabsToTheRightCurrentDescription": "Sulje välilehdet nykyisen välilehden oikealla puolella",
+    "CloseTabsToTheRightSelectedDescription": "Sulje välilehdet valitun välilehden oikealla puolella",
+    "CloseOtherTabsCurrentDescription": "Sulje muut kuin nykyinen välilehti",
+    "CloseOtherTabsSelectedDescription": "Sulje muut kuin valittu välilehti",
+    "ReopenClosedTabDescription": "Avaa viimeksi suljettu välilehti uudelleen",
+    "PreviousTabDescription": "Siirry edelliseen välilehteen",
+    "NextTabDescription": "Siirry seuraavaan välilehteen",
+    "CloseSelectedTabDescription": "Sulje nykyinen välilehti",
+    "OpenNewPaneDescription": "Avaa uusi ruutu",
+    "ClosePaneDescription": "Sulje oikea ruutu",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Vaihda sivupalkkia",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Vaihto",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Välilyönti",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Askelpalautin",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Sarkain",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Vasen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Oikea",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Alas",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Ylös (Alt+ylös-nuoli)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Koti",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PageDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Erotin",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Virransäästö",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Tyhjennä",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Print",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Tuki",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Hiiri4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Hiiri5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "Sovellus",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "Sovellus1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "Sovellus2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Posti",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "Koti",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "Takaisin",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Eteenpäin",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "Päivitä",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "Pysäytä",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Etsi",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Suosikit",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "Toisto tauko",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "Media pysäytä",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "Ed. kpl.",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "Seur. kpl.",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "Mediavalinta",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Äänetön",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "Vol alas",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "Vol ylös",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Muuta",
+    "ToggleSelect": "Vaihda valinta",
+    "ShowFileExtensionWarning": "Näytä varoitus, kun vaihdat tiedostotunnisteita",
+    "ThisPC": "Tämä tietokone",
+    "RecycleBin": "Roskakori",
+    "Untagged": "Merkitsemätön",
+    "PreviousTab": "Siirtyy edelliseen välilehteen",
+    "NextTab": "Siirtyy seuraavaan välilehteen",
+    "CloseTab": "Sulkee nykyisen välilehden",
+    "EditPath": "Muokkaa polkua",
+    "Redo": "Tee uudelleen",
+    "Undo": "Kumoa",
+    "InvalidLocation": "Virheellinen sijainti",
+    "CopyFileWithoutProperties": "Haluatko varmasti kopioida nämä tiedostot ilman niiden ominaisuuksia?",
+    "FilePropertiesCannotBeCopied": "Näillä tiedostoilla on ominaisuuksia, joita ei voi kopioida uuteen sijaintiin",
+    "FilePropertiesCannotBeMoved": "Näillä tiedostoilla on ominaisuuksia, joita ei voi siirtää uuteen sijaintiin",
+    "MoveFileWithoutProperties": "Haluatko varmasti siirtää nämä tiedostot ilman niiden ominaisuuksia?",
+    "ShowCheckboxesWhenSelectingItems": "Näytä valintaruudut kohteita valittaessa",
+    "EditPathDescription": "Kohdista polkupalkkiin",
+    "AddItemDescription": "Luo uusi kohde",
+    "SecurityNoAccessControlEntriesText": "Millään ryhmillä tai käyttäjillä ei ole oikeutta käyttää tätä objektia. Tämän objektin omistaja voi kuitenkin määrittää käyttöoikeuksia.",
+    "OpenFileLocationDescription": "Avaa kohteen sijainti",
+    "DeletePermanently": "Poista pysyvästi",
+    "DeleteItemPermanentlyDescription": "Poista kohteet pysyvästi",
+    "PlayAllDescription": "Toista valitut mediatiedostot",
+    "UndoDescription": "Peru viimeisin tiedostotoiminto",
+    "RedoDescription": "Tee viimeisin tiedostotoiminto uudestaan",
+    "Location": "Sijainti:",
+    "GroupByMonthDescription": "Ryhmittele kohteet kuukauden mukaan",
+    "GroupByYearDescription": "Ryhmittele kohteet vuoden mukaan",
+    "Month": "Kuukausi",
+    "Day": "Päivä",
+    "ToggleGroupByDateUnitDescription": "Vaihda päivämäärän mukaan ryhmittelyä varten",
+    "ToggleGroupingUnit": "Vaihda ryhmittely-yksikköä",
+    "Year": "Vuosi",
+    "GroupByDateUnit": "Ryhmittele päivämäärän mukaan",
+    "GroupByDateCreatedDayDescription": "Ryhmittele kohteet luontipäivämäärän mukaan",
+    "GroupByDateCreatedMonthDescription": "Ryhmittele kohteet luontikuukauden mukaan",
+    "GroupByDateCreatedYearDescription": "Ryhmittele kohteet luontivuoden mukaan",
+    "GroupByDateDeletedDayDescription": "Ryhmittele kohteet poistopäivämäärän mukaan",
+    "GroupByDateDeletedMonthDescription": "Ryhmittele kohteet poiston kuukauden mukaan",
+    "GroupByDateDeletedYearDescription": "Ryhmittele kohteet poistovuoden mukaan",
+    "GroupByDateModifiedDayDescription": "Ryhmittele kohteet muokkauspäivämäärän mukaan",
+    "GroupByDateModifiedMonthDescription": "Ryhmittele kohteet muokkauskuukauden mukaan",
+    "GroupByDateModifiedYearDescription": "Ryhmittele kohteet muokkausvuoden mukaan",
+    "SecurityClickAdvancedPermissions": "Napsauta \"Lisäkäyttöoikeudet\" jatkaaksesi.",
+    "SecurityRequireReadPermissions": "Sinulla on oltava lukuoikeudet, jotta voit tarkastella tämän kohteen ominaisuuksia.",
+    "SecuritySuggestToTakeOwnership": "Jos haluat yrittää ottaa kohteen omistajuuden, joka sisältää oikeuden tarkastella sen ominaisuuksia, napsauta Muuta.",
+    "SecurityUnableToDisplayPermissions": "Käyttöoikeuksia ei voi näyttää.",
+    "StashChanges": "Jätä muutokseni kohteeseen '{0}'",
+    "DiscardChanges": "Hylkää tekemäni muutokset",
+    "BringChanges": "Tuo muutokseni kohteeseen '{0}'",
+    "UncommittedChanges": "Sinulla on vahvistamattomia muutoksia tässä haarassa. Mitä haluat tehdä niille?",
+    "SwitchBranch": "Vaihda haaraa",
+    "Branches": "Haarat",
+    "Switch": "Vaihda",
+    "NewBranch": "Uusi haara",
+    "InvalidBranchName": "Virheellinen haaran nimi",
+    "CreateBranch": "Luo haara",
+    "CreateNewBranch": "Luo haara",
+    "BasedOn": "Perustuu",
+    "SwitchToNewBranch": "Siirry uuteen haaraan",
+    "CreateFolderWithSelectionDescription": "Luo kansio tällä hetkellä valituilla kohteilla",
+    "OpenProperties": "Avaa ominaisuudet",
+    "OpenPropertiesDescription": "Avaa ominaisuudet-ikkuna",
+    "Locals": "Paikalliset",
+    "Remotes": "Etäpalvelimet",
+    "ImproveTranslation": "Käännä Crowdinissa",
+    "GitFetch": "Hae",
+    "GitPull": "Vedä",
+    "GitFetchDescription": "Suorita git fetch",
+    "GitPullDescription": "Suorita git pull",
+    "Preview": "Esikatselu",
+    "GitStatus": "Git-tila",
+    "GitError": "Git-virhe",
+    "PullTimeoutError": "git pull epäonnistui aikakatkaisuvirheen vuoksi",
+    "MultipleValues": {
+        "text": "(useita arvoja)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Tekijä",
+    "DateCommitted": "Vahvistettu-pvm",
+    "CommitMessage": "Vahvistusviesti",
+    "CommitSha": "Vahvistus-SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Taustamateriaali",
+    "Solid": "Yhtenäinen",
+    "ManageBranches": "Hallitse haaroja",
+    "Push": "Työnnä",
+    "GitPushDescription": "Suorita git push",
+    "GitSync": "Synkronoi",
+    "GitSyncDescription": "Suorita git pull ja sitten git push",
+    "GitSyncStatusExtendedInfo": "{0} lähtevää / {1} saapuvaa vahvistusta",
+    "ConnectGitHub": "Yhdistä GitHubiin",
+    "ConnectGitHubDescription": "Kirjoita seuraava koodi alla olevaan linkkiin aloittaaksesi työskentelyn GitHub-repositorioissa.",
+    "CannotReachGitHubError": "Files ei voi käyttää GitHubia juuri nyt.",
+    "OpenInVSCode": "Avaa kansio VS Codessa",
+    "OpenInVSCodeDescription": "Avaa nykyinen hakemisto Visual Studio Codessa",
+    "OpenRepoInVSCode": "Avaa repositorio VS Codessa",
+    "OpenRepoInVSCodeDescription": "Avaa Git-repositorion juuri Visual Studio Codessa",
+    "CopyCode": "Kopioi koodi",
+    "Added": "Lisätty",
+    "Deleted": "Poistettu",
+    "Modified": "Muokattu",
+    "Untracked": "Seuraamaton",
+    "UnableToDisplayOwner": "Nykyistä omistajaa ei voi näyttää.",
+    "AuthorizationSucceded": "Hienoa! Sinulla on nyt käyttöoikeus.",
+    "InitRepo": "Alusta repositorio",
+    "InitRepoDescription": "Alusta Git-repositorio",
+    "GitOriginRepositoryName": "Etärepositorion nimi",
+    "GitCurrentBranch": "Nykyinen haara",
+    "PathColumn": "Polku-sarake",
+    "SortByPathDescription": "Järjestä kohteet polun mukaan",
+    "OpenDirectoryInNewPaneDescription": "Avaa hakemisto uudessa ruudussa",
+    "OpenDirectoryInNewTabDescription": "Avaa hakemisto uudessa välilehdessä",
+    "OpenInNewWindowDescription": "Avaa hakemisto uudessa ikkunassa",
+    "OpenAllTaggedItems": "Avaa kaikki",
+    "OpenAllTaggedItemsDescription": "Avaa kaikki merkityt kohteet",
+    "DriveWithLetter": {
+        "text": "Asema ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Virheellinen komento",
+    "InvalidCommandContent": "'{0}' ei ole tunnistettu komennoksi.",
+    "CommandNotExecutable": "Komento ei ole suoritettavissa",
+    "CommandNotExecutableContent": "Komento '{0}' ei ole valmis suoritettavaksi.",
+    "CommandPalette": "Komentopaletti",
+    "OpenCommandPaletteDescription": "Avaa komentopaletti",
+    "ShortcutItemWorkingDir": "Aloitussijainti:",
+    "TurnOnBitLocker": "Ota BitLocker käyttöön",
+    "ManageBitLocker": "Hallinnoi BitLockeria",
+    "CopyFailureFileToLarge": "Seuraavat kohteet ovat liian suuria kopioitavaksi tälle asemalle",
+    "FormatDrive": "Alusta asema",
+    "DontShowAgain": "Älä näytä uudelleen",
+    "FilesRunningAsAdmin": "Files on käynnissä järjestelmänvalvojana",
+    "FilesRunningAsAdminContent": "Koska rajoitus Windows ja WinAppSdk, vedä ja pudota ei ole käytettävissä, kun käynnissä tiedostoja ylläpitäjä. Jos haluat käyttää vedä ja pudota, Voit työskennellä tämän rajoituksen ympärillä avaamalla UAC (User Account Control) aloitusvalikosta ja valitsemalla kolmannen tason ja käynnistämällä Windows-ikkunat uudelleen. Muussa tapauksessa voit pitää tiedostoja ilman vedä & pudotusta.",
+    "SettingsLeaveAppRunning": "Jätä sovellus toimimaan taustalla, kun ikkuna suljetaan",
+    "Blue": {
+        "text": "Sininen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Siniharmaa",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Tiilenpunainen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Naamiointi",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Viileän kirkas sininen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Harmaa",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Tumman harmaa",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Vihreä",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iiris-pastelli",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Vaalea minttu",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Moderni punainen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Kirkas oranssi",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Pilvinen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Punainen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Kirkas ruusu",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Meren vaahto",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Myrsky",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Vaalea violetti-punainen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Keltainen kulta",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Tyhjennä valmiit",
+    "NameWithColon": "Nimi:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} / {1} käsitelty",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "kohdetta",
+    "CannotInitializeGitRepo": "Files ei voi alustaa tätä hakemistoa Git-repositoriona.",
+    "ContributingArtist": "Osallistuva esittäjä",
+    "AddPage": "Lisää sivu",
+    "ProcessingItems": "Käsitellään kohteita...",
+    "SpeedWithColon": "Nopeus:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Peruutettiin {0} kohteen pakkaaminen kohteeseen \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Peruutettiin {0} kohteen pakkaaminen kohteesta \"{1}\" kohteeseen \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Pakattu {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Pakattu {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Virhe pakattaessa {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "{0} kohteen pakkaaminen epäonnistui kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Pakataan {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Pakataan {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "{0} kohteen kopiointi peruutettu kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "{0} kohteen kopiointi peruutettu kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Kopioitu {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Kopioitu {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Virhe kopioitaessa {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "{0} kohteen kopiointi epäonnistui kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Kopioidaan {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Kopioidaan {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Tiedoston \"{0}\" purkaminen kansioon \"{1}\" peruutettu",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Tiedoston \"{0}\" purkaminen kansiosta \"{1}\" kansioon \"{2}\" peruutettu",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Purettu \"{0}\" kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Tiedosto \"{0}\" purettu kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Virhe purettaessa \"{0}\" kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Tiedoston \"{0}\" purkaminen kansiosta \"{1}\" kansioon \"{2}\" epäonnistui",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Puretaan \"{0}\" kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Puretaan \"{0}\" kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Peruutettu {0} kohteen poisto kansiosta \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Poistettu {0} kohde(tta) kansiosta \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Virhe poistettaessa {0} kohde(tta) kansiosta \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "{0} kohteen poistaminen epäonnistui kansiosta \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Poistetaan {0} kohde(tta) kansiosta \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Peruutettiin {0} kohteen siirtäminen kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Peruutettiin {0} kohteen siirtäminen kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Siirrettiin {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Siirrettiin {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Siirretään {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Siirretään {0} kohdetta kansiosta \"{1}\" kansioon \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Virhe siirrettäessä {0} kohdetta kansioon \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "{0} kohteen siirtäminen kansiosta \"{1}\" kansioon \"{2}\" epäonnistui",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Peruttu roskakorin tyhjennys",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Roskakori tyhjennetty",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Tyhjennetään roskakoria",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Virhe tyhjennettäessä roskakoria",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Roskakorin tyhjennys epäonnistui",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Valmistellaan toimintoa...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} kohdetta käsitelty",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Kumoa ladatun tiedoston esto",
+    "NoFileOperations": "Ei käynnissä olevia tiedostotoimintoja",
+    "OpenOnStartupDisabled": "Mahdollisuus avata Files Windowsin käynnistyksessä ei ole käytettävissä järjestelmäasetusten tai ryhmäkäytäntöjen vuoksi. Ota se uudelleen käyttöön avaamalla käynnistysohjelmat Tehtävienhallinnassa.",
+    "FailedToRestore": "Kohteiden palautus roskakorista epäonnistui",
+    "FailedToSetBackground": "Taustakuvan määrittäminen epäonnistui",
+    "GitDeleteBranch": "Poista Git-haara",
+    "GitDeleteBranchSubtitle": "Haluatko varmasti poistaa pysyvästi haaran \"{0}\"?",
+    "ConnectedToGitHub": "Yhdistetty GitHubiin",
+    "Logout": "Kirjaudu ulos",
+    "ConnectToGitHub": "Yhdistä GitHubiin",
+    "Login": "Kirjaudu sisään",
+    "ErrorApplyingTagContent": "Tunnisteet ovat tällä hetkellä yhteensopivia vain NTFS-muotoon alustettujen asemien kanssa.",
+    "ErrorApplyingTagTitle": "Virhe otettaessa käyttöön tätä tunnistetta",
+    "DecompressArchiveHereSmartDescription": "Pura kohteet valitu(i)sta yhden kohteen paket(e)ista nykyiseen kansioon tai usean kohteen paketti uuteen kansioon",
+    "ExtractHereSmart": "Pura tänne (älykäs)",
+    "SortFilesAndFoldersTogether": "Lajittele tiedostot ja kansiot yhdessä",
+    "SortFilesAndFoldersTogetherDescription": "Lajittele tiedostot ja kansiot yhdessä",
+    "SortFilesFirst": "Lajittele ensin tiedostot",
+    "SortFilesFirstDescription": "Lajittele ensin tiedostot ja sitten kansiot",
+    "SortFoldersFirst": "Lajittele ensin kansiot",
+    "SortFoldersFirstDescription": "Lajittele ensin kansiot ja sitten tiedostot",
+    "SortPriority": "Lajittelun prioriteetti",
+    "FailedToRotateImage": "Kuvaa ei voitu kääntää",
+    "Restart": "Käynnistä uudelleen",
+    "Quit": "Lopeta",
+    "FaildToShareItems": "Kohteiden jakaminen epäonnistui",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Vieritä edelliseen kansioon ylöspäin siirryttäessä",
+    "NewWindowDescription": "Avaa uusi ikkuna",
+    "ChangeAlbumCover": "Vaihda albumin kansikuvaa",
+    "ItemRenameFailed": "Kohteen nimeäminen uudelleen epäonnistui",
+    "HigherPermissionsRequired": "Muokkaaminen \"{0}\" vaatii lisää oikeuksia",
+    "EditPermissions": "Muokkaa käyttöoikeuksia",
+    "BackgroundRunningNotificationBody": "Files on edelleen käynnissä taustalla suorituskyvyn parantamiseksi käynnistettäessä.",
+    "BackgroundRunningNotificationHeader": "Mihin Files katosi?",
+    "QuestionsAndDiscussions": "Kysymykset ja keskustelut",
+    "TilesViewSizeInfo": "Lisäkokoja ei ole vielä saatavilla laatat View:lle.",
+    "Compact": {
+        "text": "Kompakti",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Pieni",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Keskikoko",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Keskitaso +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Keskitaso ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Keskitaso +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Keskitaso ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Keskitaso +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Suuri",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Suuri +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Suuri ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Suuri +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Erittäin suuri",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Yksityiskohtien näkymä",
+    "LayoutType": "Asettelun tyyppi",
+    "Actions": "Toiminnot",
+    "Commands": "Komennot",
+    "AddCommand": "Lisää komento",
+    "RestoreDefaults": "Palauta oletukset",
+    "ChooseAnAction": "Valitse toiminto",
+    "RestoreDefaultKeybindingsConfirmation": "Oletko varma, että haluat palauttaa oletusavaimen sitomiset? Tätä toimintoa ei voi peruuttaa.",
+    "KeybindingAlreadyUsedNotification": "Tämä avainsitovuus on jo käytössä, valitse toinen sitova avain jatkaaksesi.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Mukautettu",
+    "AdaptiveLayoutDisabledNotification": "Mukautuva asettelu ei ole käytettävissä, kun asetukset on synkronoitu, oletusasettelu on muutettu Yksityiskohdiksi.",
+    "BackgroundImage": "Taustakuva",
+    "Bottom": {
+        "text": "Alhaalla",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Keskitetty",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Täytä",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Vaakasuora suuntaus",
+    "ImageFit": "Kuva mahtuu",
+    "Left": {
+        "text": "Vasen",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Läpinäkyvyys",
+    "Right": {
+        "text": "Oikea",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Ylhäällä",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Yhtenäinen",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Yhtenäinen täyttäminen",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Pystysuuntainen suuntaus",
+    "ThinAcrylic": {
+        "text": "Ohut Akryyli",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Näytä kaikki sijainnit",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Kehittäjän työkalut",
+    "DisplayOpenIDE": "Määritä \"Avaa IDE\" -painike tilarivillä",
+    "GitRepos": {
+        "text": "Näytä Git repot",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Sovelluksen laajennus",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "Iso Tiedosto",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip Tiedosto",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bittikarttatiedostot",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Verkon sijainnit",
+    "NoNetworkLocationsInfo": "Verkkosijainteja ei ole. Jos et käytä verkkosijainteja, voit poistaa widgetin käytöstä.",
+    "Disable": "Poista Käytöstä",
+    "EditInNotepad": "Muokkaa Muistiinpanossa",
+    "EditInNotepadDescription": "Muokkaa valittua tiedostoa Muistiinpanossa"
+}

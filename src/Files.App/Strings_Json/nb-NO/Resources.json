@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Nytt vindu",
+    "CopyPath": "Kopier filbanen",
+    "CopyPathWithQuotes": "Kopier sti med tilbud",
+    "Browse": "Bla gjennom",
+    "Size": "Størrelse",
+    "PropertiesCreated": {
+        "Text": "Opprettet:"
+    },
+    "Path": "Sti",
+    "SizeLabel": "Størrelse:",
+    "SizeOnDiskLabel": "Størrelse på disk:",
+    "UncompressedSize": "Ukomprimert størrelse:",
+    "ErrorDialogThisActionCannotBeDone": "Denne handlingen kan ikke utføres",
+    "ErrorDialogTheDestinationFolder": "Destinasjonsmappen",
+    "ErrorDialogIsASubfolder": "er en undermappe til kildemappen",
+    "Skip": "Hopp over",
+    "SelectAll": "Velg alle",
+    "InvertSelection": "Inverter utvalg",
+    "ClearSelection": "Fjern Utvalg",
+    "PropertiesModified": {
+        "Text": "Endret:"
+    },
+    "Accessed": "Åpnet:",
+    "RecentItemClearAll": {
+        "Text": "Fjern alle elementer"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Angi en bane å navigere til eller skriv \">\" for å åpne kommandopaletten"
+    },
+    "Search": "Søk",
+    "RecentItemDescription": {
+        "Text": "Filer du tidligere har åpnet vil vises her"
+    },
+    "RecentItemRemove": {
+        "Text": "Fjern dette elementet"
+    },
+    "OpenGitHubRepo": "GitHub repository",
+    "About": "Om",
+    "OpenSource": "Åpen kildekode",
+    "DateFormat": "Datoformat",
+    "SettingsAppearanceTheme": "Tema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Vis filendelser for kjente filtyper",
+    "SettingsFilesAndFoldersShowHiddenItems": "Vis skjulte filer og mapper",
+    "ShowDotFiles": "Vis punktum-filer",
+    "Appearance": "Utseende",
+    "BackgroundColor": "Bakgrunnsfarge",
+    "Advanced": "Avansert",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Fortsett der du slapp"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Åpne en ny fane"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Åpne en eller flere bestemte sider"
+    },
+    "Desktop": "Skrivebord",
+    "Documents": "Dokumenter",
+    "Downloads": "Nedlastinger",
+    "Name": "Navn",
+    "Ascending": "Stigende",
+    "Paste": "Lim inn",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Ny"
+    },
+    "Properties": "Egenskaper",
+    "Open": "Åpne",
+    "OpenInNewTab": "Åpne i ny fane",
+    "OpenInNewWindow": "Åpne i nytt vindu",
+    "Share": "Del",
+    "Cut": "Klipp ut",
+    "Delete": "Slett",
+    "PinFolderToSidebar": "Fest til sidepanelet",
+    "WelcomeDialog": {
+        "Title": "Velkommen til Files!",
+        "PrimaryButtonText": "Gi tilgang"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "For å komme i gang, trenger vi din tillatelse til å vise filene dine. Dette vil åpne en side med innstillinger der du kan gi oss denne tillatelsen. Etter du har fullført dette steget, må du starte appen på nytt."
+    },
+    "Display": "Vis",
+    "EnterAnItemName": "Angi et navn",
+    "RenameDialog": {
+        "PrimaryButtonText": "Angi navn"
+    },
+    "LightTheme": "Lyst",
+    "DarkTheme": "Mørkt",
+    "Application": "Applikasjon",
+    "SystemTimeStyle": "systemet",
+    "NewFolder": "Ny mappe",
+    "NewFile": "Ny fil",
+    "EmptyFolder": {
+        "Text": "Denne mappen er tom."
+    },
+    "Back": "Tilbake (Alt+Pil Venstre)",
+    "Forward": "Frem (Alt+Pil Høyre)",
+    "Up": "Opp (Alt+Pil Opp)",
+    "Refresh": "Oppdater",
+    "ItemAlreadyExistsDialogContent": "Et element med dette navnet finnes allerede i denne mappen.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Erstatt eksisterende element",
+    "ItemAlreadyExistsDialogTitle": "Elementet finnes allerede",
+    "SetAsLockscreen": "Sett som låseskjerm bakgrunn",
+    "SetAsAppBackground": "Bruk som app bakgrunn",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Vi kunne ikke slette dette elementet"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Koble til nødvendig enhet for å få tilgang til dette elementet.",
+        "Title": "Disk frakoblet"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Filen du forsøker å få tilgang til kan ha blitt flyttet eller slettet.",
+        "Title": "Fil ikke funnet"
+    },
+    "CannotAccessPropertiesTitle": "Kan ikke åpne egenskaper for denne filen",
+    "CannotAccessPropertiesContent": "Filen du forsøker å få tilgang til kan ha blitt flyttet eller slettet.",
+    "FolderNotFoundDialog": {
+        "Text": "Mappen du forsøker å få tilgang til kan ha blitt flyttet eller slettet.",
+        "Title": "Har du slettet denne mappen?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Filen du forsøker å få åpne er for øyeblikket i bruk av {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "Filen du prøver å få tilgang til, er i bruk av et annet program",
+        "Title": "Filen er i bruk"
+    },
+    "Layout": "Oppsett",
+    "PropertiesDialogReadOnly": {
+        "Text": "Skrivebeskyttet"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Nå",
+    "ErrorDialogUnsupportedOperation": "Den ønskede handlingen er ikke støttet",
+    "DriveFreeSpaceAndCapacity": "{0} ledig av {1}",
+    "SendTo": "Send til",
+    "FileNameTeachingTip": {
+        "Subtitle": "Elementets navn kan ikke inneholde følgende tegn: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "Elementnavnet som er angitt er ugyldig"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# item selected} other {# items selected}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Ja",
+    "ConfirmEmptyBinDialogContent": "Er du sikker på at du vil slette alle disse elementene permanent?",
+    "ConfirmEmptyBinDialogTitle": "Tøm papirkurven",
+    "ItemSizeBytes": "bytes",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Kjør som en annen bruker"
+    },
+    "PropertiesDriveItemTypesEquals": "Alle av typen {0}",
+    "PropertiesDriveItemTypeDifferent": "Forskjellige typer",
+    "PropertiesCombinedItemLocation": "Alle i {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Brukt plass:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Ledig plass:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Kapasitet:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Filsystem:"
+    },
+    "JumpListRecentGroupHeader": "Nylige",
+    "TabStripDragAndDropUIOverrideCaption": "Flytt fane hit",
+    "syncStatusColumn": {
+        "Header": "Status"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Windows-standard",
+    "NavigationToolbarVisiblePathNoResults": "Ingen resultater",
+    "SubDirectoryAccessDenied": "Ingen adgang til å vise noen elementer",
+    "MoveToFolderCaptionText": "Flytt til {0}",
+    "CopyToFolderCaptionText": "Kopier til {0}",
+    "CreateShortcut": "Opprett snarvei",
+    "OpenFileLocation": "Åpne filplassering",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Argumenter:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Destinasjon:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Snarveistype:"
+    },
+    "PropertiesShortcutTypeLink": "Web-link",
+    "General": "Generelt",
+    "Shortcut": "Snarvei",
+    "ShortcutWebLinkFileType": "Internett-snarvei",
+    "ShortcutCreateNewSuffix": "{0} - snarvei",
+    "ExceptionNotificationBody": "Det oppstod et uventet problem i Files som utviklerne ikke var forberedt på.",
+    "ExceptionNotificationHeader": "Noe gikk galt!",
+    "ExceptionNotificationReportButton": "Rapporter dette problemet",
+    "InvalidItemDialogContent": "Det refererte elementet er enten ugyldig eller utilgjengelig.{0}Feilmelding:{0}{1}",
+    "InvalidItemDialogTitle": "Ugyldig element",
+    "SettingsAboutVersionTitle": "Versjon:",
+    "ShareDialogFailMessage": "Det er ingenting å dele for øyeblikket...",
+    "ShareDialogMultipleItemsDescription": "Elementene du har valgt vil bli delt",
+    "ShareDialogSingleItemDescription": "Elementet du har valgt vil bli delt",
+    "ShareDialogTitle": "Deler {0}",
+    "ShareDialogTitleMultipleItems": "Deler {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "Elementet du forsøker å gi nytt navn eksisterer ikke lenger. Kontroller den korrekte plasseringen av elementet du vil gi nytt navn.",
+            "Title": "Elementet eksisterer ikke lenger"
+        },
+        "NameInvalid": {
+            "Text": "Angitt navn er ugyldig. Kontroller ønsket navn og prøv igjen.",
+            "Title": "Ugyldig navn"
+        },
+        "TooLong": {
+            "Text": "Lengden på navnet overstiger maksimumslengden. Kontrollert ønsket navn og prøv igjen.",
+            "Title": "Navnet på elementet var for langt"
+        }
+    },
+    "ShowMoreOptions": "Vis flere valg",
+    "RestartNotificationText": {
+        "Text": "Applikasjonen må startes på nytt for at disse innstillingene skal aktiveres. Ønsker du å starte på nytt?"
+    },
+    "SponsorUsOnGitHub": "Støtt oss på GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "Vi kunne ikke opprettet dette elementet"
+    },
+    "AccessDenied": "Ingen tilgang",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Angi som"
+    },
+    "Cancel": "Avbryt",
+    "AddDialog": {
+        "Title": "Opprett nytt element"
+    },
+    "AddDialogDescription": {
+        "Text": "Velg en type for det nye elementet nedenfor"
+    },
+    "File": "Fil",
+    "AddDialogListFileSubHeader": "Oppretter en tom fil",
+    "Folder": "Mappe",
+    "AddDialogListFolderSubHeader": "Oppretter en tom mappe",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Oppfrisk mappen"
+        }
+    },
+    "Language": "Språk",
+    "SettingsContextMenuOverflow": "Flytt skallutvidelser til en undermeny",
+    "ShowConfirmationWhenDeletingItems": "Vis bekreftelsesdialog når du sletter elementer",
+    "PropertySaveErrorMessage": {
+        "Text": "Noen egenskaper kunne ikke lagres."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Feil",
+        "SecondaryButtonText": "Lukk likevel"
+    },
+    "PropertyRatingText": "Bedømmelse",
+    "PropertyParsingPath": "Elementsti",
+    "PropertyItemTypeText": "Elementtype",
+    "PropertyTitle": "Tittel",
+    "PropertySubject": "Emne",
+    "PropertyComment": "Kommentar",
+    "PropertyCopyright": "Opphavsrett",
+    "PropertyDateModified": "Dato endret",
+    "PropertyBitDepth": "Bit-dybde",
+    "PropertyDimensions": "Dimensjoner",
+    "PropertyHorizontalSize": "Horisontal størrelse",
+    "PropertyVerticalSize": "Vertikal størrelse",
+    "PropertyHorizontalResolution": "Horisontal oppløsning",
+    "PropertyVerticalResolution": "Vertikal oppløsning",
+    "PropertyColorSpace": "Fargerom",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Uspesifisert",
+    "PropertyLongitudeDecimal": "Lengdegrad desimal",
+    "PropertyLatitudeDecimal": "Breddegrad desimal",
+    "PropertyAltitude": "Høyde",
+    "PropertyDateTaken": "Dato tatt",
+    "PropertyCameraManufacturer": "Kameraprodusent",
+    "PropertyCameraModel": "Kameramodell",
+    "PropertyExposureTime": "Eksponeringstid",
+    "PropertyFocalLength": "Brennvidde",
+    "PropertyAperture": "Blender",
+    "PropertyPeopleNames": "Navn på personer",
+    "PropertyChannelCount": "Antall kanaler",
+    "PropertyFormat": "Format",
+    "PropertySampleRate": "Prøvefrekvens",
+    "PropertyAlbumArtist": "Albumartist",
+    "PropertyAlbumTitle": "Albumtittel",
+    "Artist": "Artist",
+    "PropertyBeatsPerMinute": "Slag per minutt",
+    "PropertyComposer": "Komponist",
+    "Conductor": "Dirigent",
+    "PropertyDiscNumber": "Platenummer",
+    "PropertyGenre": "Sjanger",
+    "PropertyTrackNumber": "Spornummer",
+    "PropertyDuration": "Varighet",
+    "PropertyFrameCount": "Antall bilder",
+    "PropertyProtectionType": "Beskyttelsestype",
+    "PropertyAuthorUrl": "Nettadresse til forfatter",
+    "PropertyContentDistributor": "Innholdsdistributør",
+    "PropertyDateReleased": "Utgivelsesdato",
+    "PropertySeriesName": "Serienavn",
+    "PropertySeasonNumber": "Sesongnummer",
+    "PropertyEpisodeNumber": "Episodenummer",
+    "PropertyProducer": "Produsent",
+    "PropertyPromotionUrl": "Nettadresse til kampanje",
+    "PropertyProviderStyle": "Tilbyderstil",
+    "PropertyPublisher": "Utgiver",
+    "PropertyThumbnailLargePath": "Sti til stort miniatyrbilde",
+    "PropertyThumbnailLargeUri": "Nettadresse til stort miniatyrbilde ",
+    "PropertyThumbnailSmallPath": "Sti til litet miniatyrbilde ",
+    "PropertyThumbnailSmallUri": "Nettadresse til litet miniatyrbilde ",
+    "PropertyUserWebUrl": "Nettadresse til bruker",
+    "PropertyWriter": "Skribent",
+    "PropertyYear": "År",
+    "PropertyContributor": "Bidragsyter",
+    "PropertyLastAuthor": "Siste forfatter",
+    "PropertyRevisionNumber": "Revisjonsnummer",
+    "PropertyVersion": "Versjon",
+    "PropertyDateCreated": "Dato opprettet",
+    "PropertyTotalEditingTime": "Samlet redigeringstid",
+    "PropertyTemplate": "Mal",
+    "PropertyWordCount": "Antall ord",
+    "PropertyCharacterCount": "Antall tegn",
+    "PropertyLineCount": "Antall linjer",
+    "PropertyParagraphCount": "Antall avsnitt",
+    "PropertyPageCount": "Antall sider",
+    "PropertySlideCount": "Antall lysbilder",
+    "PropertyFrameRate": "Bildefrekvens",
+    "PropertyEncodingBitrate": "Bithastighet for koding",
+    "PropertyPreviewAudioEncodingBitrate": "Lyd koding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Videokoding Bitrate",
+    "Compression": "Kompresjon",
+    "PropertyFrameWidth": "Bildebredde",
+    "PropertyFrameHeight": "Bildehøyde",
+    "PropertyOrientation": "Orientering",
+    "PropertySectionCore": "Kjerne",
+    "PropertySectionImage": "Bilde",
+    "PropertySectionPhoto": "Fotografi",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Medier",
+    "PropertySectionAudio": "Lyd",
+    "PropertySectionMusic": "Musikk",
+    "PropertySectionVideo": "Video",
+    "Document": "Dokument",
+    "Address": "Adresse",
+    "SelectionOptions": "Valgmuligheter",
+    "NavToolbarSelectionOptions": {
+        "Label": "Velg"
+    },
+    "RecycleBinItemAutomation": "Papirkurv-element",
+    "ShortcutItemAutomation": "Snarvei-element",
+    "Drives": "Enheter",
+    "PinToSidebarByDraggingCaptionText": "Flytt hit",
+    "EjectNotificationHeader": "Trygt å fjerne maskinvare",
+    "EjectNotificationBody": "Enheten kan nå trygt fjernes fra datamaskinen.",
+    "EjectNotificationErrorDialogHeader": "Problem med å koble fra enhet",
+    "EjectNotificationErrorDialogBody": "Denne enheten er i bruk. Lukk all programmer, vinduer eller faner som kan bruke enheten, og prøv igjen.",
+    "Eject": "Koble fra",
+    "DuplicateTab": "Dupliser fane",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Flytt fane til nytt vindu"
+    },
+    "NewTab": "Ny fane",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Noen egenskaper kan inneholde personlig informasjon."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Fjern alle egenskaper"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Sjekk status for filoperasjoner her",
+        "Title": "Statussenter"
+    },
+    "SearchPagePathBoxOverrideText": "Søkeresultater i {1} for {0}",
+    "Details": "Detaljer",
+    "No": "Nei",
+    "ShowProtectedSystemFiles": "Vis beskyttede systemfiler",
+    "SyncFolderPreferencesAcrossDirectories": "Synkroniser oppsett og sortering preferanser på tvers av kataloger",
+    "SettingsContextMenu": {
+        "Text": "Tilpass høyreklikk-kontekstmenyen"
+    },
+    "OriginalPath": "Opprinnelig sti",
+    "Add": "Legg til",
+    "Edit": "Rediger",
+    "Remove": "Fjern",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Åpne faner i topanel-modus",
+    "ShowOpenInNewPane": "Vis alternativ for å åpne mapper i et nytt panel",
+    "ShowCopyPath": "Vis alternativet for å kopiere sti",
+    "ShowCreateFolderWithSelection": "Vis alternativet for å opprette mappe med utvalg",
+    "ShowCreateShortcut": "Vis alternativet for å opprette snarvei",
+    "NavigationToolbarNewPane": {
+        "Label": "Nytt panel"
+    },
+    "OpenInNewPane": "Åpne i nytt panel",
+    "FilesAndFolders": "Filer & mapper",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Detaljer (Ctrl+Skift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Fliser (Ctrl+Skift+2)"
+        }
+    },
+    "DateDeleted": "Dato slettet",
+    "SidebarCloudDrives": "Skylagring",
+    "Confirm": "Bekreft",
+    "DesiredName": "Ønsket navn",
+    "TogglePreviewPane": "Vis/skjul forhåndsvisningspanel",
+    "ToggleDetailsPane": "Skru av/på detaljruten",
+    "ToggleDetailsPaneDescription": "Velg detaljruten for å vise grunnleggende filegenskaper",
+    "ToggleInfoPane": "Vis/Skjul info-ruten",
+    "ToggleInfoPaneDescription": "Skru av/på info-ruten for å se detaljer/forhåndsvisning av rutene",
+    "DetailsPanePreviewNotAvaliableText": "Forhåndsvisning ikke tilgjengelig",
+    "PropertyItemName": "Elementnavn",
+    "UnpinFolderFromSidebar": "Løsne fra sidepanelet",
+    "Network": "Nettverk",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Fildetaljer"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Forhåndsvisning av fil"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Panel for forhåndsvisning av merket fil"
+        }
+    },
+    "Feedback": "Tilbakemeldinger",
+    "CloudDriveSyncStatus_Online": "Tilgjengelig på nett",
+    "Documentation": "Dokumentasjon",
+    "CloudDriveSyncStatus_Offline": "Tilgjengelig frakoblet",
+    "CloudDriveSyncStatus_PartialOffline": "Delvis tilgjengelig frakoblet",
+    "CloudDriveSyncStatus_Sync": "Synkroniserer",
+    "CloudDriveSyncStatus_Excluded": "Utelatt fra synkronisering",
+    "ItemSizeNotCalculated": "Ikke kalkulert",
+    "CloudDriveSyncStatus_Unknown": "Ukjent",
+    "RenameFileDialog": {
+        "Text": "Hvis du endrer filendelsen, kan filen bli ubrukelig. Er du sikker på at du vil endre den?"
+    },
+    "DriveTypeCDRom": "CD ROM-stasjon",
+    "DriveTypeCloudDrive": "Skylagring",
+    "DriveTypeFixed": "Fastmontert disk",
+    "DriveTypeFloppyDisk": "Diskettstasjon",
+    "DriveTypeNetwork": "Nettverksdisk",
+    "DriveTypeNoRootDirectory": "Umontert disk",
+    "DriveTypeRam": "RAM-disk",
+    "DriveTypeRemovable": "Flyttbar lagringsenhet",
+    "DriveTypeUnknown": "Ukjent",
+    "DriveTypeVirtualDrive": "Virtuell stasjon",
+    "DateCreated": "Dato opprettet",
+    "MoreOptions": "Flere alternativer...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Koble til nettverksdisk"
+    },
+    "Pinned": "Festet",
+    "SidebarLibraries": "Biblioteker",
+    "NoItemSelected": "Ingen elementer valgt",
+    "PropertyItemTarget": "Mål",
+    "Arguments": "Argumenter",
+    "Default": "Standard",
+    "PropertyItemCount": "Antall elementer",
+    "ElevateConfirmDialog": {
+        "Title": "Denne handlingen krever administrator-rettigheter",
+        "Content": "Vil du fortsette som administrator?"
+    },
+    "ColumnsShortcutTooltip": "Kolonner (Ctrl+Skift+6)",
+    "PinItemToStart": {
+        "Text": "Fest til Start-menyen"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Løsne fra Start-menyen"
+    },
+    "Library": "Bibliotek",
+    "LibraryLocations": {
+        "Text": "Plasseringer:"
+    },
+    "SetAsDefaultSavePath": "Angi som standard-sti for lagring",
+    "LibraryNoLocations": {
+        "Text": "Ingen plasseringer"
+    },
+    "ErrorInputEmpty": "Input-feltet kan ikke være tomt!",
+    "ErrorNameInputRestrictedCharacters": "Navnet kan ikke inneholder følgende tegn: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Dette navnet er ikke tillatt!",
+    "CreateLibraryErrorAlreadyExists": "Et bibliotek med samme navn eksisterer fra før!",
+    "OpenStorageSense": "Åpne Storage Sense",
+    "Copy": "Kopier",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Flytt",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Fortsett",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Slett permanent"
+    },
+    "PropertyISO": "ISO-hastighet",
+    "ReplaceExisting": "Erstatt eksisterende",
+    "GenerateNewName": "Generer nytt navn",
+    "CreateFolderWithSelection": "Opprett mappe med merkede elementer",
+    "ItemType": "Type:",
+    "ToolTipDescriptionDate": "Dato endret:",
+    "OpenWith": "Åpne med",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Fil-ikon"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Opprinnelig sti-kolonne"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Elementtype-kolonne"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Dato endret-kolonne"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Dato slettet-kolonne"
+    },
+    "Sort": "Sorter",
+    "DateModifiedLowerCase": "Dato endret",
+    "OriginalFolder": "Opprinnelig mappe",
+    "Descending": "Synkende",
+    "ItemSizeText_Huge": "Enorm",
+    "ItemSizeText_VeryLarge": "Veldig stor",
+    "ItemSizeText_Large": "Stor",
+    "ItemSizeText_Medium": "Middels",
+    "ItemSizeText_Small": "Liten",
+    "ItemSizeText_Tiny": "Veldig liten",
+    "Future": "Fremtid",
+    "Today": "I dag",
+    "Yesterday": "I går",
+    "EarlierThisWeek": "Tidligere denne uken",
+    "LastWeek": "Forrige uke",
+    "EarlierThisMonth": "Tidligere denne måneden",
+    "LastMonth": "Forrige måned",
+    "EarlierThisYear": "Tidligere i år",
+    "LastYear": "I fjor",
+    "YearN": "År {0}",
+    "GroupItemsCount_Singular": "{0} element",
+    "GroupItemsCount_Plural": "{0} elementer",
+    "ReopenClosedTab": "Åpne lukket fane igjen",
+    "Rename": "Gi nytt navn",
+    "Privacy": "Personvern",
+    "TheRecycleBin": "Papirkurven",
+    "Canceling": "Avbryter",
+    "Clear": "Tøm",
+    "Widgets": "Widgeter",
+    "SyncStatus": "Synkroniseringsstatus",
+    "Security": "Sikkerhet",
+    "AdvancedPermissions": "Avanserte rettigheter",
+    "Allow": "Tillat",
+    "Deny": "Avvis",
+    "SecurityFullControlLabel": {
+        "Text": "Full kontroll"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "List opp innhold i mappe"
+    },
+    "Modify": "Rediger",
+    "SecurityPermissionsHeaderText": "Tillatelser for {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Lese og eksekvere"
+    },
+    "SecurityReadLabel": {
+        "Text": "Lese"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Gruppe- eller brukernavn:"
+    },
+    "Write": "Skriv",
+    "SecurityUnknownAccount": "Ukjent konto",
+    "SecurityCannotReadProperties": {
+        "Text": "Du mangler rettigheter til å vise sikkerhetsegenskapene til dette objektet. Klikk \"Avanserte rettigheter\" for å fortsette."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Eier:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Ukjent eier"
+    },
+    "ExtractArchive": "Pakk ut arkiv",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Åpne destinasjonsmappen når fullført"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Pakk ut til {0}\\ ",
+    "SideBarCreateNewLibrary": {
+        "Text": "Opprett nytt bibliotek"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Gjenopprett standardbiblioteker"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Er du sikker på at du vil gjenopprette standardbibliotekene? Alle filene dine vil forbli lagret.",
+    "DialogRestoreLibrariesTitleText": "Gjenopprett biblioteker",
+    "PropertyFileOwner": "Eier",
+    "SecuritySpecialLabel": {
+        "Text": "Spesiell"
+    },
+    "Access": "Tilgang",
+    "SecurityAdvancedAppliesTo": "Gjelder for",
+    "Principal": "Hoved",
+    "SecurityAdvancedFlagsFilesLabel": "filer",
+    "SecurityAdvancedFlagsFolderLabel": "denne mappen",
+    "SecurityAdvancedFlagsSubfoldersLabel": "undermapper",
+    "Inherited": "Arvet",
+    "Permissions": "Tillatelser",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "Du mangler rettigheter til å vise sikkerhetsegenskapene til dette objektet. Du kan forsøke å ta eierskap over objektet."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Denne mappen og filer"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Denne mappen, undermapper og filer"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Bare filer"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Bare undermapper"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Bare undermapper og filer"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Bare denne mappen"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Denne mappen og undermapper"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Tilføy data"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Endre rettigheter"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Opprett mapper"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Opprett filer"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Slett undermapper og filer"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Eksekver filer"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Lese attributter"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Lese data"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Lese utvidede attributter"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Lese rettigheter"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Overta eierskap"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Besøk mappe"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Skriv attributter"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Skriv data"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Skriv utvidede attributter"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Konverter arvede rettigheter til eksplisitte rettigheter"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Aktiver nedarving"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Fjern alle arvede rettigheter"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Tilbakestill rettigheter for barn"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Erstatt alle rettigheter for underobjekter med arvelige rettigheter fra dette objektet"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Lukk panel"
+    },
+    "EnterCompactOverlay": "Bytt til kompakt visning",
+    "ExitCompactOverlay": "Avslutt kompakt visning",
+    "PropertyFileDescription": "Filbeskrivelse",
+    "PropertyCompany": "Firma",
+    "PropertyLanguage": "Språk",
+    "PropertyTrademarks": "Varemerker",
+    "PropertyFileVersion": "Filversjon",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Last full forhåndsvisning",
+        "ToolTipService": {
+            "ToolTip": "Laster ned elementet fra skyen og forhåndsviser"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Ukomprimert størrelse",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Skjul {0}-seksjon"
+    },
+    "AddFile": "Legg til fil",
+    "ConsentDialogTitle": "Oppdateringer tilgjengelig",
+    "ConsentDialogContent": "Oppdateringer er klare til å installeres",
+    "Close": "Lukk",
+    "ConsentDialogPrimaryButtonText": "Oppdater",
+    "Home": "Hjem",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Skift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Skift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Skift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Utpakkinger av filer fra arkiv fullført.",
+    "ExtractingArchiveText": "Pakker ut arkiv",
+    "ExtractingCompleteText": "Utpakking fullført!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Åpne forelder-mappe"
+    },
+    "Unknown": "Ukjent",
+    "EditTags": "Rediger fil-merkelapper",
+    "PropertyPartOfSet": "Del av sett",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Åpne stasjon",
+        "Text": "Vennligst sett inn en disk i enheten {0}",
+        "Title": "Sett inn en disk"
+    },
+    "OK": "OK",
+    "AskCredentialDialog": {
+        "Title": "Legitimasjon kreves"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Anonym"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Legitimer deg:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Brukernavn"
+    },
+    "NoSearchResultsFound": "Ingen elementer funnet",
+    "OpenLogLocation": "Åpne logg-plassering",
+    "LinkToFolderCaptionText": "Opprett lenke i {0}",
+    "Columns": "Kolonner",
+    "Tiles": "Fliser",
+    "OpenFoldersInNewTab": "Åpne mapper i ny fane",
+    "StatusCenter": "Statussenter",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Dato opprettet-kolonne"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Elementstørrelse-kolonne"
+    },
+    "ExperimentalFeatureFlags": "Eksperimentelle funksjoner",
+    "HelpAndSupport": "Hjelp og support",
+    "SubmitFeatureRequest": "Send inn funksjonsforespørsel",
+    "SubmitBugReport": "Send inn feilrapport",
+    "SettingsSetAsDefaultFileManager": "Bruk Files som standard filbehandler",
+    "SettingsSetAsOpenDialog": "Bruk Files som åpne-dialog for filer",
+    "Tag": "Fil-merkelapp",
+    "SettingsOpenItemsWithOneClick": "Åpne filer med enkeltklikk",
+    "FolderPath": "Mappesti",
+    "ExportSettings": "Eksporter innstillingene",
+    "ImportSettings": "Importer innstillinger",
+    "SettingsImportErrorDescription": "Kunne ikke importere innstillinger. Filen med innstilliger er ødelagt.",
+    "SettingsImportErrorTitle": "Feil ved import av innstillinger",
+    "EmptyRecycleBin": "Tøm papirkurven",
+    "Sidebar": "Sidepanel",
+    "ChooseCustomIcon": "Velg et eget mappe-ikon",
+    "Customization": "Tilpasning",
+    "RestoreDefault": "Tilbakestill",
+    "OpenTabInExistingInstance": "Åpne fane i eksisterende instans når filer åpnes fra en annen app",
+    "StartupSettings": "Innstillinger for oppstart",
+    "Compatibility": "Kompatibilitet",
+    "None": "Ingen",
+    "CompatibilityOnWindowsLogin": "Ved Windows innlogging",
+    "CompatibilityOnProgramStart": "Ved dette programmet start",
+    "System": "System",
+    "CompatibilitySystemEnhanced": "System (Forbedret)",
+    "CompatibilityReducedColorModeColor16bit": "16-bit (65536) farge",
+    "CompatibilityReducedColorModeColor8bit": "8-bit (256) farge",
+    "CompatibilityDisableFullscreenOptimizations": "Deaktiver optimalisering av fullskjerm",
+    "CompatibilityRunIn640x480Resolution": "Kjør i 640 x 480 skjermoppløsning",
+    "CompatibilityOverrideHighDPIBehavior": "Overstyr høy DPI skaleringsoppførsel",
+    "CompatibilityReducedColorMode": "Redusert fargemodus",
+    "CompatibilityRegisterThisProgramForRestart": "Registrer dette programmet for omstart",
+    "RunAsAdministrator": "Kjør som administrator",
+    "CompatibilityRunTroubleshooter": "Kjør kompatibilitetsfeilsøking",
+    "CompatibilityUseDPISettings": "Bruk DPI innstillinger fra hovedmonitoren",
+    "CompatibilityDoNotAdjustDPI": "Ikke juster DPI",
+    "CompatibilityDoNotOverrideDPI": "Ikke overstyr DPI",
+    "CompatibilityMode": "Kompatibilitetsmodus",
+    "CompatibilityNoReducedColor": "Ingen redusert farge",
+    "ThirdPartyLicenses": "Tredjepartslisenser",
+    "SettingsSetAsDefaultFileManagerDescription": "Denne innstillingen gjør endringer på systemfiler og kan ha uventede sideeffekter på din enhet. Utviklerne tar ikke ansvar dersom det resulterer i problemer. Ved å fortsette med denne innstillingen anerkjenner du risikoen involvert ved å gjøre det.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Opprett bibliotek",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Angi navn på bibliotek",
+    "CalculateFolderSizes": "Beregn mappestørrelse",
+    "RecentFiles": "Nylige filer",
+    "SettingsOpenInLogin": "Åpne Files ved oppstart av Windows",
+    "Attributes": "Attributter",
+    "Hidden": "Skjult",
+    "MoreDetails": "Fler detaljer",
+    "ReadOnly": "Skrivebeskyttet",
+    "CleanupDrive": "Rydd opp innhold på disken",
+    "Type": "Type",
+    "Bytes": "Bytes",
+    "Extract": "Pakk ut",
+    "ExtractFiles": "Pakk ut filer",
+    "ExtractHere": "Pakk ut her",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Pakk ut til {0}",
+    "RunScript": "Kjør skript",
+    "RunWithPowerShell": "Kjør med PowerShell",
+    "ShowFolderSizesWarning": "Beregning av mappestørrelser er ressurskrevende og kan føre til at prosessorbruken vil øke.",
+    "RotateLeft": "Roter mot venstre",
+    "RotateRight": "Roter mot høyre",
+    "Install": "Installer",
+    "CloseTabsToTheLeft": "Lukk faner til venstre",
+    "CloseTabsToTheRight": "Lukk faner til høyre",
+    "CloseOtherTabs": "Lukk andre faner",
+    "Music": "Musikk",
+    "Pictures": "Bilder",
+    "UpdateFiles": "Oppdater Files",
+    "FileTags": "Merker",
+    "Universal": "Universell",
+    "DateFormatSample": "eks: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Vis miniatyrbilder",
+    "Retry": "Prøv på nytt",
+    "ErrorDialogUnsupportedMoveOperation": "Flytting er ikke mulig i dette tilfellet. Vil du kopiere filene i stedet?",
+    "HiddenItems": "Skjulte elementer",
+    "Custom": "Tilpasset",
+    "SetAsSlideshow": "Bruk som lysbildeserie på skrivebordet",
+    "SizeAllColumnsToFit": "Tilpass alle kolonner så de passer",
+    "Adaptive": "Automatically choose the best layout",
+    "AdaptiveShortcutTooltip": "Tilpassende (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Vis alternative datastrømmer",
+    "Behaviors": "Oppførsel",
+    "ReviewFiles": "Anmeld Files",
+    "ReviewFilesContent": "Har du lyst å gi Files en anmeldelse?",
+    "SetAsBackgroundFlyout": "Bruk som bakgrunn",
+    "SetAsBackground": "Bruk som bakgrunn på skrivebord",
+    "SetAsDefault": "Angi som standard",
+    "DateColumn": "Datokolonne",
+    "DateCreatedColumn": "Dato opprettet-kolonne",
+    "SizeColumn": "Størrelse kolonne",
+    "TagColumn": "Merke kolonne",
+    "TypeColumn": "Type kolonne",
+    "Lockscreen": "Låseskjerm",
+    "OpenFolderWithOneClickColumnsLayout": "Åpne mapper med et enkelt klikk i Kolonneoppsettet",
+    "OpeningItems": "Åpner elementer",
+    "Compress": "Komprimer",
+    "SelectFilesAndFoldersOnHover": "Velg filer og mapper ved å holde musepekeren over dem",
+    "ConfirmRestoreBinDialogContent": "Er du sikker på at du vil gjenopprette alle elementene i papirkurven?",
+    "ConfirmRestoreBinDialogTitle": "Gjenopprett alle elementer",
+    "ConfirmRestoreSelectionBinDialogContent": "Vil du gjenopprette de valgte {0} elementen(e)?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Gjenopprett utvalgte",
+    "RestoreAllItems": "Gjenopprett alle elementer",
+    "Restore": "Gjenopprett",
+    "ShortcutCannotBeOpened": "Snarvei kan ikke åpnes",
+    "DeleteShortcutDescription": "Måldestinasjonen ble ikke funnet {0}. Vil du slette denne snarveien?",
+    "AccessDeniedToFolder": "Du har ikke tilgang til denne mappen.",
+    "ArchivePassword": "Arkiver passord",
+    "ExtractToPath": "Sti",
+    "SortingAndGrouping": "Sortering og gruppering",
+    "CreateArchive": "Opprett arkiv",
+    "Create": "Opprett",
+    "CreateNamedArchive": "Opprett {0}",
+    "EnterName": "Angi et navn",
+    "CompressionLevel": "Komprimerings nivå",
+    "CompressionLevelUltra": "Ultra",
+    "CompressionLevelHigh": "Høy",
+    "CompressionLevelNormal": "Normal",
+    "CompressionLevelLow": "Lav",
+    "CompressionLevelFast": "Hurtig",
+    "CompressionLevelNone": "Ingen",
+    "SplittingSize": "Dele størrelse",
+    "Do not split": "Ikke del",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Kryptering",
+    "Password": "Passord",
+    "Format": "Format",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Synkroniser statuskolonne"
+    },
+    "GroupBy": "Gruppér etter",
+    "SortBy": "Sorter etter",
+    "GroupInDescendingOrder": "Grupper i synkende rekkefølge",
+    "SortInDescendingOrder": "Sorter i synkende rekkefølge",
+    "NewShortcutDialogTitle": "Opprett snarvei",
+    "NewShortcutDialogDescription": "Opprett snarveier til lokale eller nettverksprogrammer, filer, mapper, datamaskiner eller Internett-adresser.",
+    "NewShortcutDialogPrompt": "Angi lokasjonen til elementet:",
+    "AddDialogListShortcutSubHeader": "Oppretter en snarvei",
+    "RecentFilesDisabledOnWindowsWarning": "Nylig brukte filer er deaktivert i Windows-File Explorer.",
+    "EditSettingsFile": "Rediger innstillingsfilen",
+    "WhatsNew": "Hva er nytt",
+    "CannotCreateShortcutDialogTitle": "Oppretting av en snarvei på denne plasseringen krever administratorrettigheter",
+    "CannotCreateShortcutDialogMessage": "Vil du opprette snarveien på skrivebordet i stedet?",
+    "ErrorDialogNameNotAllowed": "Det angitte navnet på elementet er ugyldig",
+    "Settings": "Innstillinger",
+    "DoubleClickBlankSpaceToGoUp": "Dobbeltklikk på et tomt område for å gå én katalog opp",
+    "ViewMore": "Vis mer",
+    "ShowEditTagsMenu": "Vis menyen for redigering av tagger",
+    "ShowCompressionOptions": "Vis komprimeringsalternativer",
+    "ShowSendToMenu": "Vis send til meny",
+    "ShowOpenInNewTab": "Vis alternativ for å åpne mapper i et nytt panel",
+    "ShowOpenInNewWindow": "Vis alternativ for å åpne mapper i et nytt vindu",
+    "QuickAccess": "Rask tilgang",
+    "NetworkAuthenticationDialogMessage": "Angi innloggingsinformasjonen for å koble til: {0}",
+    "NetworkAuthenticationDialogTitle": "Angi påloggingsinformasjon for nettverket",
+    "NetworkAuthenticationSaveCheckbox": "Husk mine innloggingsopplysninger",
+    "NetworkFolderErrorDialogTitle": "Feil i nettverksmappen",
+    "AppVersion": "App versjon",
+    "WindowsVersion": "Windows versjon",
+    "Always": "Alltid",
+    "PermanentDeletionOnly": "Bare permanent sletting",
+    "Never": "Aldri",
+    "TagColor": "Tagg farge",
+    "NewTag": "Ny merkelapp",
+    "CreateNewTag": "Opprett ny tagg",
+    "Loading": "Laster...",
+    "ContextMenuOptions": "Sammenhengsmeny alternativer",
+    "ShowFileExtensions": "Vis filtyper",
+    "ShowHiddenItems": "Vis skjulte elementer",
+    "FormatDriveText": "Formatering...",
+    "Help": "Hjelp",
+    "FullScreen": "Skru av/på Fullskjerm",
+    "ConfirmDeleteTag": "Er du sikker på at du vil slette denne taggen?",
+    "PlayAll": "Spill av alle",
+    "Height": "Høyde",
+    "Width": "Bredde",
+    "ApplyToAllConflictingItems": "Bruk handlingen for alle konflikter",
+    "OpenTerminal": "Åpne i Windows terminal",
+    "OpenTerminalAsAdmin": "Åpne i Windows Terminal som administrator",
+    "Save": "Lagre",
+    "MultiSelect": "Marker flere",
+    "ReorderSidebarItemsDialogText": "Ordne sidestolpe elementer",
+    "Hashes": "Hash",
+    "CalculationError": "Det oppstod en feil under beregningen",
+    "CalculationErrorFileIsOpen": "Klarte ikke beregne hash, lukk filen og prøv på nytt.",
+    "CalculationOnlineFileHashError": "Hashes er ikke tilgjengelig for online filer",
+    "Algorithm": "Algoritme",
+    "HashValue": "Hash verdi",
+    "SelectHashesToShow": "Velg hash som skal vises",
+    "Calculating": "Beregner...",
+    "JumpListPinnedGroupHeader": "Festede elementer",
+    "DecreaseSize": "Reduser størrelse",
+    "IncreaseSize": "Øk størrelse",
+    "ToggleSortDirection": "Velg sorteringsrekkefølge",
+    "InvalidTagNameWarning": "Ugyldig navn",
+    "TagNameRules": "Navnet kan ikke være tomt eller starte eller slutte med punktum.",
+    "Videos": "Videoer",
+    "LaunchPreviewPopup": "Start forhåndsvisnings popup",
+    "ToggleCompactOverlay": "Kompakt overlegg av/på",
+    "OpenHelpDescription": "Åpne hjelpeside i nettleseren",
+    "ToggleFullScreenDescription": "Skru av/på Fullskjerm",
+    "EnterCompactOverlayDescription": "Bytt til kompakt visning",
+    "ExitCompactOverlayDescription": "Avslutt kompakt visning",
+    "ToggleCompactOverlayDescription": "Kompakt overlegg av/på",
+    "SearchDescription": "Gå til søkefeltet",
+    "ToggleShowHiddenItemsDescription": "Velg om du vil vise skjulte elementer",
+    "ToggleShowFileExtensionsDescription": "Velg om filendelser skal vises",
+    "TogglePreviewPaneDescription": "Veksle forhåndsvisningsruten for å vise forhåndsvisninger av filen",
+    "ToggleSidebarDescription": "Velg om du vil vise sidepanelet",
+    "CopyItemDescription": "Kopier objekt(er) til utklippstavlen",
+    "CopyPathDescription": "Kopier banen til de valgte elementene til utklippstavlen",
+    "CopyPathWithQuotesDescription": "Kopier banen til de valgte elementene med sitater til utklippstavlen",
+    "CutItemDescription": "Klipp ut element(er) til utklippstavlen",
+    "PasteItemDescription": "Lim inn element(er) fra utklippstavle til gjeldende mappe",
+    "PasteItemToSelectionDescription": "Lim inn element(er) fra utklippstavle til valgt mappe",
+    "DeleteItemDescription": "Slett element(er)",
+    "CreateFolderDescription": "Lag ny mappe",
+    "CreateShortcutDescription": "Lag nye snarveier til valgt(e) element(er)",
+    "CreateShortcutFromDialogDescription": "Lag ny snarvei til et hvilket som helst element",
+    "EmptyRecycleBinDescription": "Tøm papirkurven",
+    "FormatDriveDescription": "Åpne \"Formater stasjon\" meny for valgt element",
+    "RestoreRecycleBinDescription": "Gjenopprett valgte element(er) fra papirkurven",
+    "RestoreAllRecycleBinDescription": "Gjenopprett alle elementer fra papirkurven",
+    "OpenItemDescription": "Åpne element(er)",
+    "OpenItemWithApplicationPickerDescription": "Åpne element(er) med valgt program",
+    "OpenParentFolderDescription": "Åpne overordnet mappe for søkt element",
+    "RefreshItemsDescription": "Oppdater sideinnhold",
+    "RenameDescription": "Endre navn på valgt element",
+    "SelectAllDescription": "Velg alle elementer",
+    "InvertSelectionDescription": "Inverter element valg",
+    "ClearSelectionDescription": "Tøm element valg",
+    "ToggleSelectDescription": "Veksle elementvalg",
+    "ShareItemDescription": "Del valgte fil(er) med andre",
+    "PinToStartDescription": "Sideveksling(er) til Startmenyen",
+    "UnpinFromStartDescription": "Løsne elementer fra Startmenyen",
+    "PinFolderToSidebarDescription": "Fest mappe(r) til sidestolpe",
+    "UnpinFolderFromSidebarDescription": "Løsne mappe(r) fra sidestolpe",
+    "SetAsWallpaperBackgroundDescription": "Angi valgt bilde som skrivebordsbakgrunn",
+    "SetAsSlideshowBackgroundDescription": "Angi utvalgte bilder som skrivebordsbildeserie",
+    "SetAsLockscreenBackgroundDescription": "Velg valgt bilde som bakgrunn på låseskjerm",
+    "SetAsAppBackgroundDescription": "Angi valgt bilde som appbakgrunn",
+    "InstallFontDescription": "Installer valgte skrift(er)",
+    "InstallInfDriverDescription": "Installer driver(e) ved hjelp av valgte fil(er)",
+    "InstallCertificateDescription": "Installer valgte sertifikat(er)",
+    "RunAsAdminDescription": "Kjør valgt program som administrator",
+    "RunAsAnotherUserDescription": "Kjør valgt program som en annen bruker",
+    "RunWithPowershellDescription": "Kjør valgt PowerShell-skript",
+    "LaunchPreviewPopupDescription": "Start forhåndsvisning i popup-vindu",
+    "CompressIntoArchiveDescription": "Opprett arkiv med valgte element(er)",
+    "CompressIntoSevenZipDescription": "Lag 7z arkiv umiddelbart med valgte element(er)",
+    "CompressIntoZipDescription": "Lag zip-arkiv umiddelbart med valgte element(er)",
+    "DecompressArchiveDescription": "Pakk ut elementer fra valgte arkiv(er) til en hvilken som helst mappe",
+    "DecompressArchiveHereDescription": "Pakk ut elementer fra valgte arkiv(er) til gjeldende mappe",
+    "DecompressArchiveToChildFolderDescription": "Pakk ut elementer fra valgte arkiv(er) til ny mappe",
+    "RotateLeftDescription": "Roter markerte bilde(r) mot venstre",
+    "RotateRightDescription": "Roter markerte bilde(r) til høyre",
+    "OpenSettingsDescription": "Åpne innstillingssiden",
+    "OpenTerminalDescription": "Åpne mappe i terminal",
+    "OpenTerminalAsAdminDescription": "Åpne i terminal som administrator",
+    "LayoutDecreaseSizeDescription": "Reduser størrelsen på elementet i gjeldende visning",
+    "LayoutIncreaseSizeDescription": "Øk størrelsen på elementet i gjeldende visning",
+    "LayoutDetailsDescription": "Bytt til detaljvisning",
+    "LayoutTilesDescription": "Bytt til flisvisning",
+    "LayoutListDescription": "Bytt til listevisning",
+    "List": "Liste",
+    "Grid": "Rutenett",
+    "LayoutGridDescription": "Bytt til rutenettvisning",
+    "LayoutColumnsDescription": "Bytt til kolonnevisning",
+    "LayoutAdaptiveDescription": "Bytt visninger adaptivt",
+    "SortByNameDescription": "Sorter elementer etter navn",
+    "SortByDateModifiedDescription": "Sorter elementer etter dato endret",
+    "SortByDateCreatedDescription": "Sorter elementer etter dato opprettet",
+    "SortBySizeDescription": "Sorter elementer etter størrelse",
+    "SortByTypeDescription": "Sorter elementer etter type",
+    "SortBySyncStatusDescription": "Sorter elementer etter synkroniseringsstatus",
+    "SortByTagDescription": "Sorter elementer etter tagger",
+    "SortByOriginalFolderDescription": "Sorter elementer etter originalmappe",
+    "SortByDateDeletedDescription": "Sorter etter dato slettet",
+    "SortAscendingDescription": "Sorter elementer i stigende rekkefølge",
+    "SortDescendingDescription": "Sorter elementer i synkende rekkefølge",
+    "ToggleSortDirectionDescription": "Velg sorteringsrekkefølge",
+    "GroupByNoneDescription": "Vis elementer uten gruppering",
+    "GroupByNameDescription": "Gruppere elementer etter navn",
+    "GroupByDateModifiedDescription": "Gruppere elementer etter dato endret",
+    "GroupByDateCreatedDescription": "Gruppere elementer etter dato opprettet",
+    "GroupBySizeDescription": "Gruppere elementer etter størrelse",
+    "GroupByTypeDescription": "Gruppere elementer etter type",
+    "GroupBySyncStatusDescription": "Gruppere elementer etter synkroniseringsstatus",
+    "GroupByTagDescription": "Gruppere elementer etter tagger",
+    "GroupByOriginalFolderDescription": "Gruppere elementer etter originalmappe",
+    "GroupByDateDeletedDescription": "Gruppere elementer etter dato slettet",
+    "GroupByFolderPathDescription": "Gruppere elementer etter mappeplassering",
+    "GroupAscendingDescription": "Sorter grupper i stigende rekkefølge",
+    "GroupDescendingDescription": "Sorter grupper i synkende rekkefølge",
+    "ToggleGroupDirectionDescription": "Velg sorteringsrekkefølge",
+    "NewTabDescription": "Åpne ny fane",
+    "NavigateBackDescription": "Gå bakover i navigasjonshistorikken",
+    "NavigateForwardDescription": "Gå forover i navigasjonshistorikken",
+    "NavigateUpDescription": "Naviger opp en mappe",
+    "DuplicateCurrentTabDescription": "Dupliser nåværende fane",
+    "DuplicateSelectedTabDescription": "Dupliser valgte fane",
+    "CloseTabsToTheLeftCurrentDescription": "Lukk faner til venstre for gjeldende fane",
+    "CloseTabsToTheLeftSelectedDescription": "Lukk faner til venstre for valgte fane",
+    "CloseTabsToTheRightCurrentDescription": "Lukk faner til høyre for denne fane",
+    "CloseTabsToTheRightSelectedDescription": "Lukk faner til høyre for valgte fane",
+    "CloseOtherTabsCurrentDescription": "Lukk faner fra nåværende",
+    "CloseOtherTabsSelectedDescription": "Lukk faner fra valgte fane",
+    "ReopenClosedTabDescription": "Åpne sist lukkede fane",
+    "PreviousTabDescription": "Flytt til forrige fane",
+    "NextTabDescription": "Flytt til neste fane",
+    "CloseSelectedTabDescription": "Lukk nåværende fane",
+    "OpenNewPaneDescription": "Åpne nytt panel",
+    "ClosePaneDescription": "Lukk høyre rute",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Slå av/på sidepanelet",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Skift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Vinn",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Angi",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Mellomrom",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc-dansk",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Bakovertast",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Venstre",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Høyre",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Ned",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Opp (Alt+Pil Opp)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Hjem",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "Slutt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "Sidened",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "SageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Hvilemodus",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Tøm",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Utskrift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Hjelp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mus4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mus5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "E-post",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "Gå",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "GoBack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Videresend",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "NettleserOppdater",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "BrowserStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Søk",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Favoritter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "PlayPause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PrevTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "Nestesespor",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaVelg",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Demp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "Voled",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "VolUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Endre",
+    "ToggleSelect": "Veksle utvalg",
+    "ShowFileExtensionWarning": "Vis advarsel ved endring av filendelser",
+    "ThisPC": "Denne PC",
+    "RecycleBin": "Resirkuler tkort",
+    "Untagged": "Umerket",
+    "PreviousTab": "Flytter til forrige fane",
+    "NextTab": "Flytter til neste fane",
+    "CloseTab": "Lukk nåværende fane",
+    "EditPath": "Endre sti",
+    "Redo": "Gjenta",
+    "Undo": "Angre",
+    "InvalidLocation": "Ugyldig plassering",
+    "CopyFileWithoutProperties": "Er du sikker på at du vil kopiere disse filene uten sine egenskaper?",
+    "FilePropertiesCannotBeCopied": "Disse filene har egenskaper som ikke kan kopieres til den nye plasseringen",
+    "FilePropertiesCannotBeMoved": "Disse filene har egenskaper som ikke kan flyttes til den nye plasseringen",
+    "MoveFileWithoutProperties": "Er du sikker på at du vil flytte disse filene uten sine egenskaper?",
+    "ShowCheckboxesWhenSelectingItems": "Vis avmerkingsbokser når du velger elementer",
+    "EditPathDescription": "Fokus sti linje",
+    "AddItemDescription": "Lag nytt element",
+    "SecurityNoAccessControlEntriesText": "Ingen grupper eller brukere har tillatelse til å få tilgang til dette objektet. Imidlertid kan eieren av dette objektet tildele tillatelser.",
+    "OpenFileLocationDescription": "Åpne elementets plassering",
+    "DeletePermanently": "Slett permanent",
+    "DeleteItemPermanentlyDescription": "Slett produkt(er) permanent",
+    "PlayAllDescription": "Spill av de valgte mediafilene",
+    "UndoDescription": "Angre operasjonen av forrige fil",
+    "RedoDescription": "Gjenta den siste filoperasjonen",
+    "Location": "Sted:",
+    "GroupByMonthDescription": "Gruppere elementer etter måned",
+    "GroupByYearDescription": "Gruppere produkter etter år",
+    "Month": "Måned",
+    "Day": "Dag",
+    "ToggleGroupByDateUnitDescription": "Veksle enhet for gruppering etter dato",
+    "ToggleGroupingUnit": "Veksle grupperingsenhet",
+    "Year": "År",
+    "GroupByDateUnit": "Gruppere etter dato",
+    "GroupByDateCreatedDayDescription": "Grupper på elementer etter dato opprettet",
+    "GroupByDateCreatedMonthDescription": "Grupper elementer etter måned av dato opprettet",
+    "GroupByDateCreatedYearDescription": "Gruppere produkter etter år med dato opprettet",
+    "GroupByDateDeletedDayDescription": "Gruppere elementer etter dato slettet",
+    "GroupByDateDeletedMonthDescription": "Gruppere elementer etter måned av dato slettet",
+    "GroupByDateDeletedYearDescription": "Gruppere produkter etter år med dato slettet",
+    "GroupByDateModifiedDayDescription": "Grupper elementer etter dag for dato endret",
+    "GroupByDateModifiedMonthDescription": "Grupper elementer etter måned etter dato endret",
+    "GroupByDateModifiedYearDescription": "Grupper elementer etter år med dato endret",
+    "SecurityClickAdvancedPermissions": "Klikk på \"Avanserte tillatelser\" for å fortsette.",
+    "SecurityRequireReadPermissions": "Du må ha lesetilgang for å se egenskapene til dette elementet.",
+    "SecuritySuggestToTakeOwnership": "Prøv å ta eierskap til produktet, som har tillatelse til å se egenskapene, klikk Endre ovenfor.",
+    "SecurityUnableToDisplayPermissions": "Kan ikke vise tillatelser.",
+    "StashChanges": "Forlat mine endringer på '{0}'",
+    "DiscardChanges": "Forkast endringene mine",
+    "BringChanges": "Bring mine endringer til '{0}'",
+    "UncommittedChanges": "Har du ubegått endringer på denne grenen. Hva vil du gjøre med dem?",
+    "SwitchBranch": "Bytt gren",
+    "Branches": "Grener",
+    "Switch": "Bytt",
+    "NewBranch": "Ny gren",
+    "InvalidBranchName": "Ugyldig filialnavn",
+    "CreateBranch": "Opprett gren",
+    "CreateNewBranch": "Opprett gren",
+    "BasedOn": "Basert på",
+    "SwitchToNewBranch": "Bytt til ny gren",
+    "CreateFolderWithSelectionDescription": "Opprett en mappe med valgte element(er)",
+    "OpenProperties": "Åpne egenskaper",
+    "OpenPropertiesDescription": "Åpne egenskaper vindu",
+    "Locals": "Lokaler",
+    "Remotes": "Remotes",
+    "ImproveTranslation": "Oversett på Crowdin",
+    "GitFetch": "Hent",
+    "GitPull": "Trekk",
+    "GitFetchDescription": "Kjør git henting",
+    "GitPullDescription": "Run git pull",
+    "Preview": "Forhåndsvisning",
+    "GitStatus": "Git status",
+    "GitError": "Feil i Git",
+    "PullTimeoutError": "git trekkingen mislyktes på grunn av en tidsavbruddfeil",
+    "MultipleValues": {
+        "text": "(flere verdier)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Forfatter",
+    "DateCommitted": "Dato overtatt",
+    "CommitMessage": "Send inn meldingen",
+    "CommitSha": "Send inn SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Bakdråpe materiale",
+    "Solid": "Solid",
+    "ManageBranches": "Administrer filialer",
+    "Push": "Trykk",
+    "GitPushDescription": "Kjør git push",
+    "GitSync": "Synkronisering",
+    "GitSyncDescription": "Kjør git trekk og deretter git trykk",
+    "GitSyncStatusExtendedInfo": "{0} outgoing / {1} incoming commits",
+    "ConnectGitHub": "Koble til GitHub",
+    "ConnectGitHubDescription": "Skriv inn følgende kode på linken nedenfor for å begynne å arbeide med GitHub repositorier.",
+    "CannotReachGitHubError": "Filer kan ikke få tilgang til GitHub akkurat nå.",
+    "OpenInVSCode": "Åpne mappe i VS-kode",
+    "OpenInVSCodeDescription": "Åpne gjeldende mappe i Visual Studio Kode",
+    "OpenRepoInVSCode": "Åpne repoen i VS-kode",
+    "OpenRepoInVSCodeDescription": "Åpne roten av Git repo i Visual Studio Code",
+    "CopyCode": "Kopier koden",
+    "Added": "Lagt",
+    "Deleted": "Slettet",
+    "Modified": "Endret",
+    "Untracked": "Usporet",
+    "UnableToDisplayOwner": "Kan ikke vise gjeldende eier.",
+    "AuthorizationSucceded": "Flott! Du er nå godkjent.",
+    "InitRepo": "Aktiver repot",
+    "InitRepoDescription": "Start et Git kodelager",
+    "GitOriginRepositoryName": "Ekstern datakatalog navn",
+    "GitCurrentBranch": "Gjeldende avdeling",
+    "PathColumn": "Kolonne for sti",
+    "SortByPathDescription": "Sorter elementer etter sti",
+    "OpenDirectoryInNewPaneDescription": "Åpne mappe i nytt område",
+    "OpenDirectoryInNewTabDescription": "Åpne mappe i ny fane",
+    "OpenInNewWindowDescription": "Åpne mappe i nytt vindu",
+    "OpenAllTaggedItems": "Åpne alle sider",
+    "OpenAllTaggedItemsDescription": "Åpne alle merkede elementer",
+    "DriveWithLetter": {
+        "text": "Disk ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Ugyldig kommando",
+    "InvalidCommandContent": "'{0}' gjenkjennes ikke som en kommando.",
+    "CommandNotExecutable": "Kommandoen ikke kjørbar",
+    "CommandNotExecutableContent": "Kommandoen '{0}er ikke klar for å bli utført.",
+    "CommandPalette": "Kommando palett",
+    "OpenCommandPaletteDescription": "Åpne kommandoppalett",
+    "ShortcutItemWorkingDir": "Begynn i:",
+    "TurnOnBitLocker": "Slå på BitLocker",
+    "ManageBitLocker": "Administrer BitLocker",
+    "CopyFailureFileToLarge": "Følgende elementer er for store til å kopieres til denne stasjonen",
+    "FormatDrive": "Formatér stasjon",
+    "DontShowAgain": "Ikke vis igjen",
+    "FilesRunningAsAdmin": "Filer kjører som administrator",
+    "FilesRunningAsAdminContent": "På grunn av en begrensning med Windows og WinAppSdk, er det ikke tilgjengelig dra og slipp ved kjøring av filer som admin. Hvis du vil bruke dra og slipp, du kan arbeide rundt denne begrensningen ved å åpne UAC (brukerkontokontroll) fra Startmenyen og velge tredje nivå og starte Windows på nytt. Ellers kan du fortsette å bruke filer uten å dra og slippe.",
+    "SettingsLeaveAppRunning": "La appen kjøre i bakgrunnen når vinduet er lukket",
+    "Blue": {
+        "text": "Blå",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Blå grå",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Murstein rød",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Kamuflasje",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Kul blå lys",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Grå",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Grå mørk",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Grønn",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Mint lys",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Oransje Lys",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Overskyet",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Rød",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rose Lyst",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Sjøfolk",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Storm",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Fiolett rødt lys",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Gult gull",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Fjern ferdige oppgaver",
+    "NameWithColon": "Navn:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} av {1} behandlet",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "elementer",
+    "CannotInitializeGitRepo": "Filene kan ikke initialisere mappen som et Git repository.",
+    "ContributingArtist": "Bidrar med Artist",
+    "AddPage": "Legg til side",
+    "ProcessingItems": "Behandler elementer...",
+    "SpeedWithColon": "Hastighet:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Kansellert komprimering av {0} elementer til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Kansellert komprimering av {0} elementer fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Compressed {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Kopierte {0} element(er) til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Kopierte {0} element(er) fra \"{1}til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Kopierte {0} element(er) til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Kopierer {0} element(er) til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Avbrutt utpakking \"{0}\" til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Avbrutt utpakking \"{0}\" fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Pakket ut \"{0}\" til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Pakket ut \"{0}\" fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Feil ved utpakking \"{0}\" til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Kan ikke pakke ut \"{0}\" fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Trekker ut \"{0}\" til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Trekker ut \"{0}\" fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Deleted {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Kunne ikke slette {0} element(er) fra \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Sletter {0} element(er) fra \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Flyttet {0} element(er) til \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Flyttet {0} element(er) fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Kunne ikke flytte {0} element(er) fra \"{1}\" til \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Kansellerte tømming av papirkurven",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Tømt papirkurv",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Tømmer papirkurven",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Feil ved tømming av papirkurven",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Kunne ikke tømme papirkurven",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Forberedelse av operasjonen...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} element(er) behandlet",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Avblokker nedlastet fil",
+    "NoFileOperations": "Ingen pågående filoperasjoner",
+    "OpenOnStartupDisabled": "Muligheten for å åpne filer ved oppstart av Windows er ikke tilgjengelig på grunn av systeminnstillinger eller grupperingspolicy. For å aktivere på nytt, åpne startsiden i Oppgavebehandler igjen.",
+    "FailedToRestore": "Gjenoppretting av papirkurven mislyktes",
+    "FailedToSetBackground": "Kunne ikke angi bakgrunnsbilde",
+    "GitDeleteBranch": "Slett Git gren",
+    "GitDeleteBranchSubtitle": "Er du sikker på at du vil slette \"{0}\" grenen permanent?",
+    "ConnectedToGitHub": "Tilkoblet GitHub",
+    "Logout": "Logg ut",
+    "ConnectToGitHub": "Koble til GitHub",
+    "Login": "Innlogging",
+    "ErrorApplyingTagContent": "Merker er for tiden bare kompatible på drivverk formatert som NTFS.",
+    "ErrorApplyingTagTitle": "Det oppstod en feil ved å legge til denne taggen",
+    "DecompressArchiveHereSmartDescription": "Pakk ut elementer fra valgte arkiv(er) til gjeldende mappe for enkeltelementsarkiv, eller til ny mappe for flerelementsarkiv",
+    "ExtractHereSmart": "Pakk ut her (mart)",
+    "SortFilesAndFoldersTogether": "Sorter filer og mapper sammen",
+    "SortFilesAndFoldersTogetherDescription": "Sorter filer og mapper sammen",
+    "SortFilesFirst": "Sorter filer først",
+    "SortFilesFirstDescription": "Sorter filer først og deretter mapper",
+    "SortFoldersFirst": "Sorter mapper først",
+    "SortFoldersFirstDescription": "Sorter mapper først og deretter filer",
+    "SortPriority": "Sorter prioritet",
+    "FailedToRotateImage": "Kunne ikke rotere bildet",
+    "Restart": "Omstart",
+    "Quit": "Avslutt",
+    "FaildToShareItems": "Kunne ikke dele elementer",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Bla til forrige mappe når du naviger opp",
+    "NewWindowDescription": "Åpne nytt vindu",
+    "ChangeAlbumCover": "Endre albumomslag",
+    "ItemRenameFailed": "Kunne ikke gi elementet nytt navn",
+    "HigherPermissionsRequired": "Redigering \"{0}\" krever ytterligere tillatelser",
+    "EditPermissions": "Redigere tillatelser",
+    "BackgroundRunningNotificationBody": "Filene kjører fortsatt i bakgrunnen for at ytelsen kan forbedres.",
+    "BackgroundRunningNotificationHeader": "Hvor gikk filene?",
+    "QuestionsAndDiscussions": "Spørsmål og diskusjoner",
+    "TilesViewSizeInfo": "Ytterligere størrelser er ennå ikke tilgjengelig for Flisvisning.",
+    "Compact": {
+        "text": "Kompakt",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Liten",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Middels",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Middels +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Middels ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Medium +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Middels +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Middels ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Stor",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Stor +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Stor ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Stor +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Ekstra stor",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Vis detaljer",
+    "LayoutType": "Oppsett type",
+    "Actions": "Handlinger",
+    "Commands": "Kommandoer",
+    "AddCommand": "Legg til kommando",
+    "RestoreDefaults": "Gjenopprett standarder",
+    "ChooseAnAction": "Velg en handling",
+    "RestoreDefaultKeybindingsConfirmation": "Er du sikker på at du vil gjenopprette standard hurtigtaster ? Denne handlingen kan ikke angres.",
+    "KeybindingAlreadyUsedNotification": "Denne nøkkelbindingen er allerede i bruk, vennligst velg en annen nøkkel binding for å fortsette.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Tilpasset",
+    "AdaptiveLayoutDisabledNotification": "Adaptivt oppsett er ikke tilgjengelig når innstillingene er synkronisert, standardoppsettet er endret til detaljer.",
+    "BackgroundImage": "Bakgrunnsbilde",
+    "Bottom": {
+        "text": "Bunn",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Midtstilt",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Fyll",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horisontal justering",
+    "ImageFit": "Bilde passer",
+    "Left": {
+        "text": "Venstre",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opasitet",
+    "Right": {
+        "text": "Høyre",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Topp",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Enhetlig",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Enhetlig å fylle ut",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Vertikal justering",
+    "ThinAcrylic": {
+        "text": "Tynt akryl",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Vis for alle steder",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Utvikler verktøy",
+    "DisplayOpenIDE": "Konfigurer \"åpen IDE\"-knappen i statuslinjen",
+    "GitRepos": {
+        "text": "Vis for Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Applikasjons utvidelse",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO fil",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Pakk fil",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap filer",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Nettverk lokasjoner",
+    "NoNetworkLocationsInfo": "Det er ingen nettverkssteder. Hvis du ikke bruker nettverkslokasjoner, kan du deaktivere widgeten.",
+    "Disable": "Deaktiver",
+    "EditInNotepad": "Rediger i Notatblokk",
+    "EditInNotepadDescription": "Rediger den valgte filen i Notepad"
+}

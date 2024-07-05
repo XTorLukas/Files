@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Finestra nova",
+    "CopyPath": "Copia la ruta",
+    "CopyPathWithQuotes": "Copia la ruta amb cometes",
+    "Browse": "Navega",
+    "Size": "Mida",
+    "PropertiesCreated": {
+        "Text": "Creat:"
+    },
+    "Path": "Ruta",
+    "SizeLabel": "Mida:",
+    "SizeOnDiskLabel": "Mida al disc:",
+    "UncompressedSize": "Mida sense comprimir:",
+    "ErrorDialogThisActionCannotBeDone": "Aquesta acció no es pot fer",
+    "ErrorDialogTheDestinationFolder": "La carpeta de destinació",
+    "ErrorDialogIsASubfolder": "és una subcarpeta de la carpeta d'origen",
+    "Skip": "Omet",
+    "SelectAll": "Selecciona-ho tot",
+    "InvertSelection": "Inverteix la selecció",
+    "ClearSelection": "Neteja la selecció",
+    "PropertiesModified": {
+        "Text": "Modificat:"
+    },
+    "Accessed": "Accedit:",
+    "RecentItemClearAll": {
+        "Text": "Neteja tots els elements"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Introduïu una ruta per navegar o escriviu «>» per obrir la paleta d'ordres"
+    },
+    "Search": "Cerca",
+    "RecentItemDescription": {
+        "Text": "Els fitxers als quals heu accedit anteriorment es mostraran aquí"
+    },
+    "RecentItemRemove": {
+        "Text": "Elimina aquest element"
+    },
+    "OpenGitHubRepo": "Repositori GitHub",
+    "About": "Quant a",
+    "OpenSource": "Codi obert",
+    "DateFormat": "Format de data",
+    "SettingsAppearanceTheme": "Tema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Mostra les extensions dels tipus de fitxer coneguts",
+    "SettingsFilesAndFoldersShowHiddenItems": "Mostra fitxers i carpetes ocults",
+    "ShowDotFiles": "Mostra els fitxers de punt",
+    "Appearance": "Aparença",
+    "BackgroundColor": "Color de fons",
+    "Advanced": "Avançat",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Continueu on ho vau deixar"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Obre una pestanya nova"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Obre una pàgina o pàgines específiques"
+    },
+    "Desktop": "Escriptori",
+    "Documents": "Documents",
+    "Downloads": "Baixades",
+    "Name": "Nom",
+    "Ascending": "Ascendent",
+    "Paste": "Enganxa",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Nou"
+    },
+    "Properties": "Propietats",
+    "Open": "Obre",
+    "OpenInNewTab": "Obre en una pestanya nova",
+    "OpenInNewWindow": "Obre en una finestra nova",
+    "Share": "Comparteix",
+    "Cut": "Retalla",
+    "Delete": "Suprimeix",
+    "PinFolderToSidebar": "Fixar a la barra lateral",
+    "WelcomeDialog": {
+        "Title": "Us donem la benvinguda al Files!",
+        "PrimaryButtonText": "Concedeix permís"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Per començar, haureu de donar-nos permís per mostrar els vostres fitxers. Això obrirà una pàgina de configuració on ens podeu concedir aquest permís. Haureu de tornar a obrir l'aplicació un cop hàgiu completat aquest pas. "
+    },
+    "Display": "Mostra",
+    "EnterAnItemName": "Escriu el nom d'un element",
+    "RenameDialog": {
+        "PrimaryButtonText": "Estableix el nom"
+    },
+    "LightTheme": "Clar",
+    "DarkTheme": "Fosc",
+    "Application": "Aplicació",
+    "SystemTimeStyle": "Sistema",
+    "NewFolder": "Carpeta nova",
+    "NewFile": "Fitxer nou",
+    "EmptyFolder": {
+        "Text": "La carpeta és buida."
+    },
+    "Back": "Enrere",
+    "Forward": "Endavant",
+    "Up": "Amunt",
+    "Refresh": "Actualitza",
+    "ItemAlreadyExistsDialogContent": "Ja existeix un element amb aquest nom en aquest directori.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Substitueix l'element existent",
+    "ItemAlreadyExistsDialogTitle": "L'element ja existeix",
+    "SetAsLockscreen": "Estableix com a fons de pantalla de bloqueig",
+    "SetAsAppBackground": "Estableix com a fons de l'aplicació",
+    "AccessDeniedDeleteDialog": {
+        "Text": "No hem pogut suprimir aquest element"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Inseriu la unitat necessària per accedir a aquest element.",
+        "Title": "Unitat desconnectada"
+    },
+    "FileNotFoundDialog": {
+        "Text": "És possible que el fitxer al qual intenteu accedir s'hagi mogut o suprimit.",
+        "Title": "No s'ha trobat el fitxer"
+    },
+    "CannotAccessPropertiesTitle": "No es poden obrir les propietats d'aquest fitxer",
+    "CannotAccessPropertiesContent": "És possible que el fitxer al qual intenteu accedir s'hagi mogut o suprimit.",
+    "FolderNotFoundDialog": {
+        "Text": "És possible que la carpeta a la qual intenteu accedir s'hagi mogut o suprimit.",
+        "Title": "Heu suprimit aquesta carpeta?"
+    },
+    "FileInUseByDialog": {
+        "Text": "El fitxer al qual intenteu accedir l'està utilitzant actualment {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "El fitxer al qual intenteu accedir l'està utilitzant una altra aplicació",
+        "Title": "El fitxer està en ús"
+    },
+    "Layout": "Disseny",
+    "PropertiesDialogReadOnly": {
+        "Text": "Només lectura"
+    },
+    "DaysAgo": "{0, plural, one {fa # dia} other {fa # dies}}",
+    "HoursAgo": "{0, plural, one {fa # hora} other {fa # hores}}",
+    "MinutesAgo": "{0, plural, one {fa # minut} other {fa # minuts}}",
+    "SecondsAgo": "{0, plural, one {fa # segon} other {fa # segons}}",
+    "Now": "Ara",
+    "ErrorDialogUnsupportedOperation": "L'operació no està disponible",
+    "DriveFreeSpaceAndCapacity": "{0} disponible de {1}",
+    "SendTo": "Envia a",
+    "FileNameTeachingTip": {
+        "Subtitle": "El nom de l'element no pot contenir els caràcters següents: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "El nom de l'element especificat no és vàlid"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# element seleccionat} other {# elements seleccionats}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {element} other {elements}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Sí",
+    "ConfirmEmptyBinDialogContent": "Esteu segur que voleu suprimir tots aquests elements de manera permanent?",
+    "ConfirmEmptyBinDialogTitle": "Buida la papelera",
+    "ItemSizeBytes": "bytes",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {fitxer} other {fitxers}}, {1, number} {1, plural, one {carpeta} other {carpetes}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {fitxer} other {fitxers}}, {1, number} {1, plural, one {carpeta} other {carpetes}} de {2, number} {2, plural, one {ubicació} other {ubicacions}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Executa com un altre usuari"
+    },
+    "PropertiesDriveItemTypesEquals": "Tot tipus de {0}",
+    "PropertiesDriveItemTypeDifferent": "Tipus diferents",
+    "PropertiesCombinedItemLocation": "Tot a {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Espai utilitzat:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Espai lliure:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Capacitat:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Sistema de fitxers:"
+    },
+    "JumpListRecentGroupHeader": "Recent",
+    "TabStripDragAndDropUIOverrideCaption": "Mou la pestanya aquí",
+    "syncStatusColumn": {
+        "Header": "Estat"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Windows per defecte",
+    "NavigationToolbarVisiblePathNoResults": "Cap resultat",
+    "SubDirectoryAccessDenied": "No es pot accedir a cap element per mostrar",
+    "MoveToFolderCaptionText": "Mou a {0}",
+    "CopyToFolderCaptionText": "Copia a {0}",
+    "CreateShortcut": "Crea una drecera",
+    "OpenFileLocation": "Obre la ubicació del fitxer",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Paràmetres:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Destinació:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Tipus de drecera:"
+    },
+    "PropertiesShortcutTypeLink": "Enllaç web",
+    "General": "General",
+    "Shortcut": "Drecera",
+    "ShortcutWebLinkFileType": "Drecera d'internet",
+    "ShortcutCreateNewSuffix": "{0} - drecera",
+    "ExceptionNotificationBody": "El Files s'ha trobat amb un problema per al qual els desenvolupadors encara no s'havien preparat.",
+    "ExceptionNotificationHeader": "Quelcom ha anat malament!",
+    "ExceptionNotificationReportButton": "Informa d'aquest problema",
+    "InvalidItemDialogContent": "L'element al qual es fa referència no és vàlid o no és accessible.{0}Missatge d'error:{0}{1}",
+    "InvalidItemDialogTitle": "Element invàlid",
+    "SettingsAboutVersionTitle": "Versió:",
+    "ShareDialogFailMessage": "No n'hi ha res per compartir ara mateix...",
+    "ShareDialogMultipleItemsDescription": "Els elements que hàgiu seleccionat es compartiran",
+    "ShareDialogSingleItemDescription": "L'element seleccionat es compartirà",
+    "ShareDialogTitle": "Compartint {0}",
+    "ShareDialogTitleMultipleItems": "Compartint {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "L'element que intenteu canviar el nom ja no existeix. Verifiqueu la ubicació correcta de l'element que necessiteu canviar-li el nom.",
+            "Title": "L'element ja no existeix"
+        },
+        "NameInvalid": {
+            "Text": "El nom especificat no és vàlid. Comproveu el nom de l'element desitjat i torneu-ho a provar.",
+            "Title": "Nom de l'element no vàlid"
+        },
+        "TooLong": {
+            "Text": "La longitud del nom de l'element especificat supera el límit màxim. Comproveu el nom desitjat i torneu-ho a provar.",
+            "Title": "El nom de l'element és massa llarg"
+        }
+    },
+    "ShowMoreOptions": "Mostra més opcions",
+    "RestartNotificationText": {
+        "Text": "L'aplicació s'ha de reiniciar per poder aplicar aquesta configuració. Voleu reiniciar l'aplicació?"
+    },
+    "SponsorUsOnGitHub": "Patrocineu-nos al GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "No s'ha pogut crear aquest element"
+    },
+    "AccessDenied": "Accés denegat",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Estableix com"
+    },
+    "Cancel": "Cancel·la",
+    "AddDialog": {
+        "Title": "Crea un element nou"
+    },
+    "AddDialogDescription": {
+        "Text": "Trieu un tipus per a aquest nou element a continuació"
+    },
+    "File": "Fitxer",
+    "AddDialogListFileSubHeader": "Crea un fitxer buit",
+    "Folder": "Carpeta",
+    "AddDialogListFolderSubHeader": "Crea una carpeta buida",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Actualitza el directori"
+        }
+    },
+    "Language": "Idioma",
+    "SettingsContextMenuOverflow": "Mou les extensions de shell a un submenú",
+    "ShowConfirmationWhenDeletingItems": "Mostra el diàleg de confirmació en suprimir elements",
+    "PropertySaveErrorMessage": {
+        "Text": "S'ha produït un problema en desar algunes propietats."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Error",
+        "SecondaryButtonText": "Tanca de totes maneres"
+    },
+    "PropertyRatingText": "Valoració",
+    "PropertyParsingPath": "Ruta de l'element",
+    "PropertyItemTypeText": "Tipus d'element",
+    "PropertyTitle": "Títol",
+    "PropertySubject": "Assumpte",
+    "PropertyComment": "Comentari",
+    "PropertyCopyright": "Drets d'autor",
+    "PropertyDateModified": "Data de modificació",
+    "PropertyBitDepth": "Profunditat de bits",
+    "PropertyDimensions": "Dimensions",
+    "PropertyHorizontalSize": "Mida horitzontal",
+    "PropertyVerticalSize": "Mida vertical",
+    "PropertyHorizontalResolution": "Resolució horitzontal",
+    "PropertyVerticalResolution": "Resolució vertical",
+    "PropertyColorSpace": "Espai de color",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Sense especificar",
+    "PropertyLongitudeDecimal": "Longitud decimal",
+    "PropertyLatitudeDecimal": "Latitud decimal",
+    "PropertyAltitude": "Altitud",
+    "PropertyDateTaken": "Data d'obtenció",
+    "PropertyCameraManufacturer": "Fabricant de la càmera",
+    "PropertyCameraModel": "Model de la càmera",
+    "PropertyExposureTime": "Temps d'exposició",
+    "PropertyFocalLength": "Longitud focal",
+    "PropertyAperture": "Obertura",
+    "PropertyPeopleNames": "Noms de persones",
+    "PropertyChannelCount": "Recompte de canals",
+    "PropertyFormat": "Format",
+    "PropertySampleRate": "Freqüència de mostreig",
+    "PropertyAlbumArtist": "Artista de l'àlbum",
+    "PropertyAlbumTitle": "Títol de l'àlbum",
+    "Artist": "Artista",
+    "PropertyBeatsPerMinute": "Batecs per minut",
+    "PropertyComposer": "Compositor",
+    "Conductor": "Director",
+    "PropertyDiscNumber": "Nombre de discos",
+    "PropertyGenre": "Gènere",
+    "PropertyTrackNumber": "Número de pista",
+    "PropertyDuration": "Durada",
+    "PropertyFrameCount": "Recompte de marcs",
+    "PropertyProtectionType": "Tipus de protecció",
+    "PropertyAuthorUrl": "Web de l'autor",
+    "PropertyContentDistributor": "Distribuïdor del contingut",
+    "PropertyDateReleased": "Data de llançament",
+    "PropertySeriesName": "Nom de la sèrie",
+    "PropertySeasonNumber": "Número de temporada",
+    "PropertyEpisodeNumber": "Nombre de l'episodi",
+    "PropertyProducer": "Productor",
+    "PropertyPromotionUrl": "Web de promoció",
+    "PropertyProviderStyle": "Estil del proveïdor",
+    "PropertyPublisher": "Editor",
+    "PropertyThumbnailLargePath": "Ruta de la miniatura gran",
+    "PropertyThumbnailLargeUri": "URI de la miniatura gran",
+    "PropertyThumbnailSmallPath": "Ruta petita de la miniatura",
+    "PropertyThumbnailSmallUri": "URI de la miniatura petita",
+    "PropertyUserWebUrl": "Web de l'usuari",
+    "PropertyWriter": "Escriptor",
+    "PropertyYear": "Any",
+    "PropertyContributor": "Col·laborador",
+    "PropertyLastAuthor": "Últim autor",
+    "PropertyRevisionNumber": "Número de revisió",
+    "PropertyVersion": "Versió",
+    "PropertyDateCreated": "Data de creació",
+    "PropertyTotalEditingTime": "Temps total d'edició:",
+    "PropertyTemplate": "Plantilla",
+    "PropertyWordCount": "Recompte de paraules",
+    "PropertyCharacterCount": "Recompte de caràcters",
+    "PropertyLineCount": "Recompte de línies",
+    "PropertyParagraphCount": "Recompte de paràgrafs",
+    "PropertyPageCount": "Recompte de pàgines",
+    "PropertySlideCount": "Recompte de diapositives",
+    "PropertyFrameRate": "Fotogrames per segon",
+    "PropertyEncodingBitrate": "Taxa de bits de la codificació",
+    "PropertyPreviewAudioEncodingBitrate": "Taxa de bits de codificació d'àudio",
+    "PropertyPreviewVideoEncodingBitrate": "Taxa de bits de codificació de vídeo",
+    "Compression": "Compressió",
+    "PropertyFrameWidth": "Amplada del marc",
+    "PropertyFrameHeight": "Alçada del marc",
+    "PropertyOrientation": "Orientació",
+    "PropertySectionCore": "Nucli",
+    "PropertySectionImage": "Imatge",
+    "PropertySectionPhoto": "Foto",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Multimèdia",
+    "PropertySectionAudio": "Àudio",
+    "PropertySectionMusic": "Música",
+    "PropertySectionVideo": "Vídeo",
+    "Document": "Document",
+    "Address": "Adreça",
+    "SelectionOptions": "Opcions de la selecció",
+    "NavToolbarSelectionOptions": {
+        "Label": "Selecciona"
+    },
+    "RecycleBinItemAutomation": "Element de la paperera de reciclatge",
+    "ShortcutItemAutomation": "Element de drecera",
+    "Drives": "Unitats",
+    "PinToSidebarByDraggingCaptionText": "Mou aquí",
+    "EjectNotificationHeader": "Treure maquinari de forma segura",
+    "EjectNotificationBody": "Ara es pot treure el dispositiu de manera segura de l'ordinador.",
+    "EjectNotificationErrorDialogHeader": "Problema en expulsar el dispositiu",
+    "EjectNotificationErrorDialogBody": "Aquest dispositiu està en ús actualment. Tanqueu tots els programes, finestres o pestanyes que puguin estar utilitzant el dispositiu i torneu-ho a provar.",
+    "Eject": "Expulsa",
+    "DuplicateTab": "Duplica la pestanya",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Mou la pestanya a una finestra nova"
+    },
+    "NewTab": "Pestanya nova",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Algunes propietats poden contenir informació personal."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Esborrar totes les propietats"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Comproveu l'estat de les operacions dels fitxers aquí",
+        "Title": "Centre d'estat"
+    },
+    "SearchPagePathBoxOverrideText": "Resultats de la cerca en {1} per {0}",
+    "Details": "Detalls",
+    "No": "No",
+    "ShowProtectedSystemFiles": "Mostra els fitxers protegits del sistema",
+    "SyncFolderPreferencesAcrossDirectories": "Sincronitza el disseny i les preferències de classificació entre directoris",
+    "SettingsContextMenu": {
+        "Text": "Personalitza el menú contextual del clic dret"
+    },
+    "OriginalPath": "Ruta original",
+    "Add": "Afegeix",
+    "Edit": "Edita",
+    "Remove": "Suprimeix",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Obre pestanyes en mode de panell dual",
+    "ShowOpenInNewPane": "Mostra l'opció per obrir carpetes en un nou panell",
+    "ShowCopyPath": "Mostra l'opció per copiar la ruta",
+    "ShowCreateFolderWithSelection": "Mostra l'opció per crear una carpeta amb selecció",
+    "ShowCreateShortcut": "Mostra l'opció per crear una drecera",
+    "NavigationToolbarNewPane": {
+        "Label": "Nou panell"
+    },
+    "OpenInNewPane": "Obre en un panell nou",
+    "FilesAndFolders": "Fitxers i carpetes",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Detalls (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Teules (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "Data de supressió",
+    "SidebarCloudDrives": "Unitats al núvol",
+    "Confirm": "Confirma",
+    "DesiredName": "Nom desitjat",
+    "TogglePreviewPane": "Canvia el panell de vista prèvia",
+    "ToggleDetailsPane": "Canvia el panell de detalls",
+    "ToggleDetailsPaneDescription": "Canvia el panell de detalls per veure les propietats bàsiques del fitxer",
+    "ToggleInfoPane": "Canvia el panell d'informació",
+    "ToggleInfoPaneDescription": "Canvia el panell d'informació per veure els panells de detalls/vista prèvia",
+    "DetailsPanePreviewNotAvaliableText": "Cap visualització prèvia disponible",
+    "PropertyItemName": "Nom de l'element",
+    "UnpinFolderFromSidebar": "Treure de la barra lateral",
+    "Network": "Xarxa",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Detalls del fitxer"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Vista prèvia del fitxer"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Panell de vista prèvia del fitxer seleccionat"
+        }
+    },
+    "Feedback": "Suggeriments",
+    "CloudDriveSyncStatus_Online": "Disponible en línia",
+    "Documentation": "Documentació",
+    "CloudDriveSyncStatus_Offline": "Disponible fora de línia",
+    "CloudDriveSyncStatus_PartialOffline": "Parcialment disponible fora de línia",
+    "CloudDriveSyncStatus_Sync": "Sincronitzant",
+    "CloudDriveSyncStatus_Excluded": "Exclòs de la sincronització",
+    "ItemSizeNotCalculated": "No calculat",
+    "CloudDriveSyncStatus_Unknown": "Desconegut",
+    "RenameFileDialog": {
+        "Text": "Si canvieu una extensió de fitxer, és possible que el fitxer es torni inutilitzable. Esteu segur que voleu canviar-ho?"
+    },
+    "DriveTypeCDRom": "Unitat de CD",
+    "DriveTypeCloudDrive": "Unitats al núvol",
+    "DriveTypeFixed": "Unitat de disc fixada",
+    "DriveTypeFloppyDisk": "Unitat de disquet",
+    "DriveTypeNetwork": "Unitat de xarxa",
+    "DriveTypeNoRootDirectory": "Unitat sense muntar",
+    "DriveTypeRam": "Unitat de disc RAM",
+    "DriveTypeRemovable": "Dispositiu d'emmagatzematge extraïble",
+    "DriveTypeUnknown": "Desconegut",
+    "DriveTypeVirtualDrive": "Dispositiu virtual",
+    "DateCreated": "Data de creació",
+    "MoreOptions": "Més opcions...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Assigna una unitat de xarxa"
+    },
+    "Pinned": "Fixat",
+    "SidebarLibraries": "Biblioteques",
+    "NoItemSelected": "No s'ha seleccionat cap element",
+    "PropertyItemTarget": "Objectiu",
+    "Arguments": "Paràmetres",
+    "Default": "Per defecte",
+    "PropertyItemCount": "Recompte d'elements",
+    "ElevateConfirmDialog": {
+        "Title": "Aquesta acció necessita drets d'administrador",
+        "Content": "Voleu continuar com a administrador?"
+    },
+    "ColumnsShortcutTooltip": "Columnes (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "Fixa al Menú d'Inici"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Elimina del Menú d'Inici"
+    },
+    "Library": "Biblioteca",
+    "LibraryLocations": {
+        "Text": "Ubicacions:"
+    },
+    "SetAsDefaultSavePath": "Estableix com la ruta on desar per defecte",
+    "LibraryNoLocations": {
+        "Text": "Sense ubicacions"
+    },
+    "ErrorInputEmpty": "El camp d'entrada no pot estar buit!",
+    "ErrorNameInputRestrictedCharacters": "El nom no pot contenir els següents caràcters: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Aquest nom no està permès!",
+    "CreateLibraryErrorAlreadyExists": "Ja existeix una biblioteca amb aquest nom!",
+    "OpenStorageSense": "Obre el sensor d'emmagatzematge",
+    "Copy": "Copia",
+    "CopyItemsDialogTitle": "Copia {0, plural, one {element} other {elements}}",
+    "DeleteItemsDialogTitle": "Suprimeix {0, plural, one {element} other {elements}}",
+    "MoveItemsDialogPrimaryButtonText": "Mou",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Es mourà un element} other {Es mouran # elements}}",
+    "MoveItemsDialogTitle": "Mou {0, plural, one {element} other {elements}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Se suprimirà un element} other {Se suprimiran # elements}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Continua",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Hi ha un nom de fitxer en conflicte} other {Hi ha # noms de fitxers en conflicte}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Hi ha un fitxer en conflicte} other {Hi ha # fitxers en conflicte}}, i {1, plural, one {un element sortint} other {# elements sortint}}",
+    "ConflictingItemsDialogTitle": "En conflicte {0, plural, one {nom del fitxer} other {noms de fitxers}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {Es copiarà un element} other {Es copiaran # elements}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Suprimeix-ho permanentment"
+    },
+    "PropertyISO": "Velocitat ISO",
+    "ReplaceExisting": "Substitueix els existents",
+    "GenerateNewName": "Genera un nom nou",
+    "CreateFolderWithSelection": "Crea una carpeta amb selecció",
+    "ItemType": "Tipus:",
+    "ToolTipDescriptionDate": "Data de modificació:",
+    "OpenWith": "Obre amb",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Icona del fitxer"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Columna de la ruta original"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Columna del tipus d'element"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Columna de data modificada"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Columna de data de supressió"
+    },
+    "Sort": "Ordena",
+    "DateModifiedLowerCase": "Data de modificació",
+    "OriginalFolder": "Carpeta original",
+    "Descending": "Descendent",
+    "ItemSizeText_Huge": "Enorme",
+    "ItemSizeText_VeryLarge": "Molt gran",
+    "ItemSizeText_Large": "Gran",
+    "ItemSizeText_Medium": "Mitjà",
+    "ItemSizeText_Small": "Petit",
+    "ItemSizeText_Tiny": "Minúscul",
+    "Future": "Futur",
+    "Today": "Avui",
+    "Yesterday": "Ahir",
+    "EarlierThisWeek": "Al principi d'aquesta setmana",
+    "LastWeek": "La setmana passada",
+    "EarlierThisMonth": "Al principi d'aquest mes",
+    "LastMonth": "El mes passat",
+    "EarlierThisYear": "Al principi d'aquest any",
+    "LastYear": "Darrer any",
+    "YearN": "Any {0}",
+    "GroupItemsCount_Singular": "{0} element",
+    "GroupItemsCount_Plural": "{0} elements",
+    "ReopenClosedTab": "Torna a obrir la pestanya tancada",
+    "Rename": "Canvia el nom",
+    "Privacy": "Privadesa",
+    "TheRecycleBin": "la paperera",
+    "Canceling": "Cancel·lant",
+    "Clear": "Esborra",
+    "Widgets": "Ginys",
+    "SyncStatus": "Estat de sincronització",
+    "Security": "Seguretat",
+    "AdvancedPermissions": "Permisos avançats",
+    "Allow": "Permet",
+    "Deny": "Denega",
+    "SecurityFullControlLabel": {
+        "Text": "Control total"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Llista els continguts del directori"
+    },
+    "Modify": "Modifica",
+    "SecurityPermissionsHeaderText": "Permisos per a {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Lectura i execució"
+    },
+    "SecurityReadLabel": {
+        "Text": "Lectura"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Noms de grup o d'usuari"
+    },
+    "Write": "Escriptura",
+    "SecurityUnknownAccount": "Compte desconegut",
+    "SecurityCannotReadProperties": {
+        "Text": "No teniu permisos per veure les propietats de seguretat d'aquest objecte. Feu clic a «Permisos avançats» per continuar."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Propietari:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Propietari desconegut"
+    },
+    "ExtractArchive": "Extreu l'arxiu",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Obre la carpeta de destinació quan s'hagi completat"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Extreu a {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Crea una nova biblioteca"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Restaura les biblioteques per defecte"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Esteu segur que voleu restaurar les biblioteques per defecte? Tots els vostres fitxers romandran al vostre emmagatzematge.",
+    "DialogRestoreLibrariesTitleText": "Restauració de biblioteques",
+    "PropertyFileOwner": "Propietari",
+    "SecuritySpecialLabel": {
+        "Text": "Especial"
+    },
+    "Access": "Accés",
+    "SecurityAdvancedAppliesTo": "Aplica a",
+    "Principal": "Principal",
+    "SecurityAdvancedFlagsFilesLabel": "fitxers",
+    "SecurityAdvancedFlagsFolderLabel": "aquesta carpeta",
+    "SecurityAdvancedFlagsSubfoldersLabel": "subcarpetes",
+    "Inherited": "Heretat",
+    "Permissions": "Permisos",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "No teniu permisos per veure les propietats de seguretat d'aquest objecte. Podeu provar d'apropiar-vos d'aquest objecte."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Aquesta carpeta i els fitxers"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Aquesta carpeta, subcarpetes i fitxers"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Només fitxers"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Només subcarpetes"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Només subcarpetes i fitxers"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Només aquesta carpeta"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Aquesta carpeta i subcarpetes"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Afegeix dades"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Canvia el permís"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Crea carpetes"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Crear fitxers"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Suprimeix subdirectoris i fitxers"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Executa fitxers"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Llegeix els atributs"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Llegeix les dades"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Llegeix els atributs ampliats"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Llegeix els permisos"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Pren la propietat"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Visita la carpeta"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Escriu atributs"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Escriu dades"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Escriu atributs ampliats"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Converteix els permisos heretats en permisos explícits"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Habilita l'herència"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Elimina tots els permisos heretats"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Restableix els permisos secundaris"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Substitueix totes les entrades de permisos dels objectes secundaris per entrades de permisos heretables d'aquest objecte"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Tanca el panell"
+    },
+    "EnterCompactOverlay": "Mode superposició compacta",
+    "ExitCompactOverlay": "Surt del mode superposició compacta",
+    "PropertyFileDescription": "Descripció del fitxer",
+    "PropertyCompany": "Empresa",
+    "PropertyLanguage": "Idioma",
+    "PropertyTrademarks": "Marques comercials",
+    "PropertyFileVersion": "Versió del fitxer",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Carrega la vista prèvia completa",
+        "ToolTipService": {
+            "ToolTip": "Baixa l'element del núvol i carrega la vista prèvia"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# element} other {# elements}} ({1, plural, one {# fitxer} other {# fitxers}}, {2, plural, one {# carpeta} other {# carpetes}})",
+    "PropertyUncompressedSize": "Mida sense comprimir",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Amaga la secció {0}"
+    },
+    "AddFile": "Afegeix un fitxer",
+    "ConsentDialogTitle": "Actualitzacions disponibles",
+    "ConsentDialogContent": "Hi ha actualitzacions preparades per instal·lar-se",
+    "Close": "Tanca",
+    "ConsentDialogPrimaryButtonText": "Actualitza",
+    "Home": "Inici",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Maj+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Maj+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Maj+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "L'extracció del fitxer s'ha completat correctament.",
+    "ExtractingArchiveText": "Extracció del fitxer",
+    "ExtractingCompleteText": "Extracció completa!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Obre la carpeta principal"
+    },
+    "Unknown": "Desconegut",
+    "EditTags": "Edició d'etiquetes",
+    "PropertyPartOfSet": "Part del conjunt",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Obre una unitat",
+        "Text": "Inseriu un disc a la unitat {0}",
+        "Title": "Inseriu un disc"
+    },
+    "OK": "D’acord",
+    "AskCredentialDialog": {
+        "Title": "Calen credencials"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Anònim"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Proporcioneu les vostres credencials:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Nom d'usuari"
+    },
+    "NoSearchResultsFound": "No s'ha trobat cap element",
+    "OpenLogLocation": "Obre la ubicació del registre",
+    "LinkToFolderCaptionText": "Crea un enllaç a {0}",
+    "Columns": "Columnes",
+    "Tiles": "Mosaic",
+    "OpenFoldersInNewTab": "Obre carpetes en una pestanya nova",
+    "StatusCenter": "Centre d'estat",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Columna de data de creació"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Columna de mida de l'element"
+    },
+    "ExperimentalFeatureFlags": "Indicadors de característiques experimentals",
+    "HelpAndSupport": "Ajuda i suport",
+    "SubmitFeatureRequest": "Envia una sol·licitud de funció nova",
+    "SubmitBugReport": "Envia un informe d'errors",
+    "SettingsSetAsDefaultFileManager": "Estableix Fitxers com a gestor de fitxers per defecte",
+    "SettingsSetAsOpenDialog": "Utilitza Files com a diàleg d'obertura de fitxers",
+    "Tag": "Etiqueta",
+    "SettingsOpenItemsWithOneClick": "Obre els elements amb un sol clic",
+    "FolderPath": "Ruta de la carpeta",
+    "ExportSettings": "Exporta la configuració",
+    "ImportSettings": "Importa la configuració",
+    "SettingsImportErrorDescription": "No s'ha pogut importar la configuració. El fitxer de configuració està malmès.",
+    "SettingsImportErrorTitle": "S'ha produït un error en importar la configuració",
+    "EmptyRecycleBin": "Buida la paperera de reciclatge",
+    "Sidebar": "Barra lateral",
+    "ChooseCustomIcon": "Trieu una icona de carpeta personalitzada",
+    "Customization": "Personalització",
+    "RestoreDefault": "Restaura els valors per defecte",
+    "OpenTabInExistingInstance": "Obre la pestanya en una instància existent quan obriu Files des d'una altra aplicació",
+    "StartupSettings": "Configuració d'inici",
+    "Compatibility": "Compatibilitat",
+    "None": "Cap",
+    "CompatibilityOnWindowsLogin": "A l'iniciar Windows",
+    "CompatibilityOnProgramStart": "A l'iniciar aquest programa",
+    "System": "Sistema",
+    "CompatibilitySystemEnhanced": "Sistema (millorat)",
+    "CompatibilityReducedColorModeColor16bit": "color 16-bits (65536)",
+    "CompatibilityReducedColorModeColor8bit": "color 8-bits (256)",
+    "CompatibilityDisableFullscreenOptimizations": "Desactivar les optimitzacions de pantalla completa",
+    "CompatibilityRunIn640x480Resolution": "Executa amb una resolució de pantalla de 640x480",
+    "CompatibilityOverrideHighDPIBehavior": "Invalida el comportament d'escalat de DPI alt",
+    "CompatibilityReducedColorMode": "Mode de color reduït",
+    "CompatibilityRegisterThisProgramForRestart": "Registrar aquest programa per a reinici",
+    "RunAsAdministrator": "Executa com a administrador",
+    "CompatibilityRunTroubleshooter": "Executar el solucionador de problemes de compatibilitat",
+    "CompatibilityUseDPISettings": "Fer servir les opcions de DPI del monitor principal",
+    "CompatibilityDoNotAdjustDPI": "No ajustar el DPI",
+    "CompatibilityDoNotOverrideDPI": "No invalidar el DPI",
+    "CompatibilityMode": "Mode de compatibilitat",
+    "CompatibilityNoReducedColor": "No color reduït",
+    "ThirdPartyLicenses": "Llicències de tercers",
+    "SettingsSetAsDefaultFileManagerDescription": "Aquesta opció modifica el registre del sistema i pot tenir efectes secundaris inesperats al vostre dispositiu. Continueu sota el vostre propi risc.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Creació de la biblioteca",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Introduïu el nom de la biblioteca",
+    "CalculateFolderSizes": "Calcula la mida de les carpetes",
+    "RecentFiles": "Fitxers recents",
+    "SettingsOpenInLogin": "Obre Fitxers en iniciar el Windows",
+    "Attributes": "Atributs",
+    "Hidden": "Ocult",
+    "MoreDetails": "Més detalls",
+    "ReadOnly": "Només lectura",
+    "CleanupDrive": "Netegeu el contingut de la unitat",
+    "Type": "Tipus",
+    "Bytes": "Bytes",
+    "Extract": "Extreu",
+    "ExtractFiles": "Extreu fitxers",
+    "ExtractHere": "Extreu aquí",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl + E",
+    "ExtractToChildFolder": "Extreu a {0}",
+    "RunScript": "Executa l'script",
+    "RunWithPowerShell": "Executa amb PowerShell",
+    "ShowFolderSizesWarning": "El càlcul de la mida de les carpetes requereix molts recursos i pot fer que l'ús de la CPU augmenti.",
+    "RotateLeft": "Gira cap a l'esquerra",
+    "RotateRight": "Gira cap a la dreta",
+    "Install": "Instal·la",
+    "CloseTabsToTheLeft": "Tanca les pestanyes a l’esquerra",
+    "CloseTabsToTheRight": "Tanca les pestanyes a la dreta",
+    "CloseOtherTabs": "Tanca les altres pestanyes",
+    "Music": "Música",
+    "Pictures": "Imatges",
+    "UpdateFiles": "Actualitza Files",
+    "FileTags": "Etiquetes",
+    "Universal": "Universal",
+    "DateFormatSample": "p. ex.: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Mostra les miniatures",
+    "Retry": "Torna-ho a provar",
+    "ErrorDialogUnsupportedMoveOperation": "L'operació de moviment no s'admet en aquest context. Voleu copiar els elements?",
+    "HiddenItems": "Elements ocults",
+    "Custom": "Personalitzat",
+    "SetAsSlideshow": "Estableix com a presentació de diapositives d'escriptori",
+    "SizeAllColumnsToFit": "Ajusta la mida de totes les columnes",
+    "Adaptive": "Disseny adaptatiu",
+    "AdaptiveShortcutTooltip": "Disseny adaptatiu (Ctrl+Maj+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Maj+7"
+    },
+    "ShowAlternateStreams": "Mostra fluxos de dades alternatius",
+    "Behaviors": "Comportaments",
+    "ReviewFiles": "Valoreu el Files",
+    "ReviewFilesContent": "Voleu valorar el Files?",
+    "SetAsBackgroundFlyout": "Estableix com a fons",
+    "SetAsBackground": "Estableix com a fons d'escriptori",
+    "SetAsDefault": "Estableix com a defecte",
+    "DateColumn": "Columna de data",
+    "DateCreatedColumn": "Columna de data de creació",
+    "SizeColumn": "Columna de mida",
+    "TagColumn": "Columna d'etiqueta",
+    "TypeColumn": "Columna de tipus",
+    "Lockscreen": "Pantalla de bloqueig",
+    "OpenFolderWithOneClickColumnsLayout": "Obre les carpetes amb un sol clic al disseny de columnes",
+    "OpeningItems": "Obertura d'elements",
+    "Compress": "Comprimeix",
+    "SelectFilesAndFoldersOnHover": "Selecciona fitxers i carpetes quan passeu el cursor per sobre d'ells",
+    "ConfirmRestoreBinDialogContent": "Esteu segur que voleu restaurar tots els elements de la paperera de reciclatge?",
+    "ConfirmRestoreBinDialogTitle": "Restaura tots els elements",
+    "ConfirmRestoreSelectionBinDialogContent": "Voleu restaurar els {0} elements seleccionats?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Restaura la selecció",
+    "RestoreAllItems": "Restaura tots els elements",
+    "Restore": "Restaura",
+    "ShortcutCannotBeOpened": "La drecera no es pot obrir",
+    "DeleteShortcutDescription": "No es pot trobar la destinació objectiu {0}. Voleu suprimir aquesta drecera?",
+    "AccessDeniedToFolder": "No teniu permís per accedir a aquesta carpeta.",
+    "ArchivePassword": "Contrasenya del fitxer",
+    "ExtractToPath": "Ruta",
+    "SortingAndGrouping": "Ordenació i agrupació",
+    "CreateArchive": "Crea un arxiu",
+    "Create": "Crea",
+    "CreateNamedArchive": "Crea {0}",
+    "EnterName": "Introduïu un nom",
+    "CompressionLevel": "Nivell de compressió",
+    "CompressionLevelUltra": "Ultra",
+    "CompressionLevelHigh": "Alt",
+    "CompressionLevelNormal": "Normal",
+    "CompressionLevelLow": "Baix",
+    "CompressionLevelFast": "Ràpid",
+    "CompressionLevelNone": "Cap",
+    "SplittingSize": "Mida de divisió",
+    "Do not split": "No divideixis",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Xifratge",
+    "Password": "Contrasenya",
+    "Format": "Format",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Columna d'estat de sincronització"
+    },
+    "GroupBy": "Agrupar per",
+    "SortBy": "Ordena per",
+    "GroupInDescendingOrder": "Agrupa en ordre descendent",
+    "SortInDescendingOrder": "Ordena en ordre descendent",
+    "NewShortcutDialogTitle": "Crea una drecera nova",
+    "NewShortcutDialogDescription": "Creeu dreceres a programes, fitxers, carpetes, ordinadors o adreces d'Internet locals o de xarxa.",
+    "NewShortcutDialogPrompt": "Introduïu la ubicació de l'element:",
+    "AddDialogListShortcutSubHeader": "Crea una drecera",
+    "RecentFilesDisabledOnWindowsWarning": "Els fitxers utilitzats recentment estan desactivats actualment a l'Explorador de fitxers del Windows.",
+    "EditSettingsFile": "Edita el fitxer de configuració",
+    "WhatsNew": "Novetats",
+    "CannotCreateShortcutDialogTitle": "La creació d'una drecera en aquesta ubicació requereix privilegis d'administrador",
+    "CannotCreateShortcutDialogMessage": "Voleu crear la drecera a l'escriptori?",
+    "ErrorDialogNameNotAllowed": "El nom de l'element especificat no és vàlid",
+    "Settings": "Configuració",
+    "DoubleClickBlankSpaceToGoUp": "Feu doble clic en un espai en blanc per pujar un directori",
+    "ViewMore": "Més informació",
+    "ShowEditTagsMenu": "Mostra el desplegable d'edició d'etiquetes",
+    "ShowCompressionOptions": "Mostra les opcions de compressió",
+    "ShowSendToMenu": "Mostra el menú «Envia a»",
+    "ShowOpenInNewTab": "Mostra l'opció per obrir carpetes en una pestanya nova",
+    "ShowOpenInNewWindow": "Mostra l'opció per obrir carpetes en una finestra nova",
+    "QuickAccess": "Accés ràpid",
+    "NetworkAuthenticationDialogMessage": "Introduïu les vostres credencials per connectar-vos a: {0}",
+    "NetworkAuthenticationDialogTitle": "Introduïu les credencials de xarxa",
+    "NetworkAuthenticationSaveCheckbox": "Recorda les meves credencials",
+    "NetworkFolderErrorDialogTitle": "Error en la carpeta de xarxa",
+    "AppVersion": "Versió de l'aplicació",
+    "WindowsVersion": "Versió del Windows",
+    "Always": "Sempre",
+    "PermanentDeletionOnly": "Només eliminació permanent",
+    "Never": "Mai",
+    "TagColor": "Color d'etiqueta",
+    "NewTag": "Nova etiqueta",
+    "CreateNewTag": "Crea una etiqueta nova",
+    "Loading": "Carregant...",
+    "ContextMenuOptions": "Opcions del menú contextual",
+    "ShowFileExtensions": "Mostra les extensions dels fitxers",
+    "ShowHiddenItems": "Mostra elements ocults",
+    "FormatDriveText": "Formata...",
+    "Help": "Ajuda",
+    "FullScreen": "Canvia pantalla completa",
+    "ConfirmDeleteTag": "Esteu segur que voleu esborrar aquesta etiqueta?",
+    "PlayAll": "Reprodueix-ho tot",
+    "Height": "Alçada",
+    "Width": "Amplada",
+    "ApplyToAllConflictingItems": "Aplica aquesta acció a tots els elements conflictius",
+    "OpenTerminal": "Obre al terminal del Windows",
+    "OpenTerminalAsAdmin": "Obre al terminal del Windows com a administrador",
+    "Save": "Desa",
+    "MultiSelect": "Selecció múltiple",
+    "ReorderSidebarItemsDialogText": "Reordena els elements de la barra lateral",
+    "Hashes": "Resums",
+    "CalculationError": "S'ha produït un error durant el càlcul",
+    "CalculationErrorFileIsOpen": "No s'ha pogut calcular el resum, tanqueu el fitxer i torneu-ho a provar.",
+    "CalculationOnlineFileHashError": "Els resums no estan disponibles per als fitxers en línia",
+    "Algorithm": "Algorisme",
+    "HashValue": "Valor del resum",
+    "SelectHashesToShow": "Seleccioneu els resums per mostrar",
+    "Calculating": "Calculant...",
+    "JumpListPinnedGroupHeader": "Elements fixats",
+    "DecreaseSize": "Disminueix la mida",
+    "IncreaseSize": "Augmenta la mida",
+    "ToggleSortDirection": "Canvia la direcció d'ordenació",
+    "InvalidTagNameWarning": "Nom no vàlid",
+    "TagNameRules": "El nom no ha d'estar buit ni començar o acabar amb un punt.",
+    "Videos": "Vídeos",
+    "LaunchPreviewPopup": "Executa la finestra emergent de vista prèvia",
+    "ToggleCompactOverlay": "Canvia la superposició compacta",
+    "OpenHelpDescription": "Obre la pàgina d'ajuda en línia al navegador",
+    "ToggleFullScreenDescription": "Canvia pantalla completa",
+    "EnterCompactOverlayDescription": "Mode superposició compacta",
+    "ExitCompactOverlayDescription": "Surt del mode superposició compacta",
+    "ToggleCompactOverlayDescription": "Canvia la superposició compacta",
+    "SearchDescription": "Ves al quadre de cerca",
+    "ToggleShowHiddenItemsDescription": "Mostra/amaga elements ocults",
+    "ToggleShowFileExtensionsDescription": "Canvia si voleu mostrar les extensions de fitxer",
+    "TogglePreviewPaneDescription": "Canvia el panell de vista prèvia per veure les previsualitzacions dels fitxers",
+    "ToggleSidebarDescription": "Mostra/amaga la barra lateral",
+    "CopyItemDescription": "Copia els elements al porta-retalls",
+    "CopyPathDescription": "Copia la ruta dels elements seleccionats al porta-retalls",
+    "CopyPathWithQuotesDescription": "Copia la ruta dels elements seleccionats amb cometes al porta-retalls",
+    "CutItemDescription": "Retalla els elements al porta-retalls",
+    "PasteItemDescription": "Enganxa els elements del porta-retalls a la carpeta actual",
+    "PasteItemToSelectionDescription": "Enganxa els elements del porta-retalls a la carpeta seleccionada",
+    "DeleteItemDescription": "Elimina els elements",
+    "CreateFolderDescription": "Crea una carpeta nova",
+    "CreateShortcutDescription": "Crea dreceres noves per als elements seleccionats",
+    "CreateShortcutFromDialogDescription": "Crea una drecera nova a qualsevol element",
+    "EmptyRecycleBinDescription": "Buida la papelera de reciclatge",
+    "FormatDriveDescription": "Obre el menú «Formata la unitat» per a l'element seleccionat",
+    "RestoreRecycleBinDescription": "Restaura els elements seleccionats de la paperera de reciclatge",
+    "RestoreAllRecycleBinDescription": "Restaura tots els elements de la paperera de reciclatge",
+    "OpenItemDescription": "Obre elements",
+    "OpenItemWithApplicationPickerDescription": "Obre els elements amb l'aplicació seleccionada",
+    "OpenParentFolderDescription": "Obre la carpeta principal de l'element cercat",
+    "RefreshItemsDescription": "Actualitza el contingut de la pàgina",
+    "RenameDescription": "Canvia el nom de l'element seleccionat",
+    "SelectAllDescription": "Selecciona tots els elements",
+    "InvertSelectionDescription": "Inverteix la selecció d'elements",
+    "ClearSelectionDescription": "Esborra la selecció d'elements",
+    "ToggleSelectDescription": "Commuta la selecció d'elements",
+    "ShareItemDescription": "Comparteix els fitxers seleccionats amb altres",
+    "PinToStartDescription": "Fixa els elements al menú Inici",
+    "UnpinFromStartDescription": "Desfixa els elements del menú Inici",
+    "PinFolderToSidebarDescription": "Fixa carpeta(es) a la barra lateral",
+    "UnpinFolderFromSidebarDescription": "Treure carpeta(es) de la barra lateral",
+    "SetAsWallpaperBackgroundDescription": "Estableix la imatge seleccionada com a fons de l'escriptori",
+    "SetAsSlideshowBackgroundDescription": "Estableix les imatges seleccionades com a presentació de diapositives d'escriptori",
+    "SetAsLockscreenBackgroundDescription": "Estableix la imatge seleccionada com a fons de pantalla de bloqueig",
+    "SetAsAppBackgroundDescription": "Estableix la imatge seleccionada com a fons de l'aplicació",
+    "InstallFontDescription": "Instal·la les fonts seleccionades",
+    "InstallInfDriverDescription": "Instal·leu els controladors mitjançant els fitxers inf seleccionats",
+    "InstallCertificateDescription": "Instal·la els certificats seleccionats",
+    "RunAsAdminDescription": "Executa l'aplicació seleccionada com a administrador",
+    "RunAsAnotherUserDescription": "Executa l'aplicació seleccionada com un altre usuari",
+    "RunWithPowershellDescription": "Executa l'script de PowerShell seleccionat",
+    "LaunchPreviewPopupDescription": "Inicia la vista prèvia a la finestra emergent",
+    "CompressIntoArchiveDescription": "Crea un fitxer amb els elements seleccionats",
+    "CompressIntoSevenZipDescription": "Crea un fitxer 7z a l'instant amb els elements seleccionats",
+    "CompressIntoZipDescription": "Crea un fitxer zip a l'instant amb els elements seleccionats",
+    "DecompressArchiveDescription": "Extreu elements dels fitxers seleccionats a qualsevol carpeta",
+    "DecompressArchiveHereDescription": "Extreu elements dels fitxers seleccionats a la carpeta actual",
+    "DecompressArchiveToChildFolderDescription": "Extreu elements dels fitxers seleccionats a una carpeta nova",
+    "RotateLeftDescription": "Gira les imatges seleccionades cap a l'esquerra",
+    "RotateRightDescription": "Gira les imatges seleccionades cap a la dreta",
+    "OpenSettingsDescription": "Obre la pàgina de configuració",
+    "OpenTerminalDescription": "Obre la carpeta al terminal",
+    "OpenTerminalAsAdminDescription": "Obre la carpeta al terminal com a administrador",
+    "LayoutDecreaseSizeDescription": "Disminueix la mida de l'element a la vista actual",
+    "LayoutIncreaseSizeDescription": "Augmenta la mida de l'element a la vista actual",
+    "LayoutDetailsDescription": "Canvia a la vista de detalls",
+    "LayoutTilesDescription": "Canvia a la vista de mosaics",
+    "LayoutListDescription": "Canvia a la vista de llista",
+    "List": "Llista",
+    "Grid": "Graella",
+    "LayoutGridDescription": "Canvia a la vista de graella",
+    "LayoutColumnsDescription": "Canvia a la vista de columnes",
+    "LayoutAdaptiveDescription": "Canvia les vistes de manera adaptativa",
+    "SortByNameDescription": "Ordena els elements per nom",
+    "SortByDateModifiedDescription": "Ordena els elements per data de modificació",
+    "SortByDateCreatedDescription": "Ordena els elements per data de creació",
+    "SortBySizeDescription": "Ordena els elements per mida",
+    "SortByTypeDescription": "Ordena els elements per tipus",
+    "SortBySyncStatusDescription": "Ordena els elements per estat de sincronització",
+    "SortByTagDescription": "Ordena els elements per etiquetes",
+    "SortByOriginalFolderDescription": "Ordena els elements per carpeta original",
+    "SortByDateDeletedDescription": "Ordena els elements per data de supressió",
+    "SortAscendingDescription": "Ordena els elements en ordre ascendent",
+    "SortDescendingDescription": "Ordena els elements en ordre descendent",
+    "ToggleSortDirectionDescription": "Canvia la direcció d'ordenació d'elements",
+    "GroupByNoneDescription": "Llista els elements sense agrupar",
+    "GroupByNameDescription": "Agrupa els elements pel nom",
+    "GroupByDateModifiedDescription": "Agrupa els elements per data de modificació",
+    "GroupByDateCreatedDescription": "Agrupa els elements per data de creació",
+    "GroupBySizeDescription": "Agrupa els elements per mida",
+    "GroupByTypeDescription": "Agrupa els elements per tipus",
+    "GroupBySyncStatusDescription": "Agrupa els elements per estat de sincronització",
+    "GroupByTagDescription": "Agrupa els elements per etiquetes",
+    "GroupByOriginalFolderDescription": "Agrupa els elements per carpeta original",
+    "GroupByDateDeletedDescription": "Agrupa els elements per data de supressió",
+    "GroupByFolderPathDescription": "Agrupa els elements per la ruta de carpeta",
+    "GroupAscendingDescription": "Ordena els grups en ordre ascendent",
+    "GroupDescendingDescription": "Ordena els grups en ordre descendent",
+    "ToggleGroupDirectionDescription": "Canvia la direcció d'ordenació del grup",
+    "NewTabDescription": "Obre una pestanya nova",
+    "NavigateBackDescription": "Navega cap enrere a l'historial de navegació",
+    "NavigateForwardDescription": "Navega cap endavant a l'historial de navegació",
+    "NavigateUpDescription": "Navega cap amunt a un directori",
+    "DuplicateCurrentTabDescription": "Duplica la pestanya actual",
+    "DuplicateSelectedTabDescription": "Duplica la pestanya seleccionada",
+    "CloseTabsToTheLeftCurrentDescription": "Tanca les pestanyes a l'esquerra de la pestanya actual",
+    "CloseTabsToTheLeftSelectedDescription": "Tanca les pestanyes a l'esquerra de la pestanya seleccionada",
+    "CloseTabsToTheRightCurrentDescription": "Tanca les pestanyes a la dreta de la pestanya actual",
+    "CloseTabsToTheRightSelectedDescription": "Tanca les pestanyes a la dreta de la pestanya seleccionada",
+    "CloseOtherTabsCurrentDescription": "Tanca les pestanyes que no siguin la pestanya actual",
+    "CloseOtherTabsSelectedDescription": "Tanca les pestanyes que no siguin la pestanya seleccionada",
+    "ReopenClosedTabDescription": "Torna a obrir l'última pestanya tancada",
+    "PreviousTabDescription": "Ves a la pestanya anterior",
+    "NextTabDescription": "Passa a la pestanya següent",
+    "CloseSelectedTabDescription": "Tanca la pestanya actual",
+    "OpenNewPaneDescription": "Obre un panell nou",
+    "ClosePaneDescription": "Tanca el panell de la dreta",
+    "FocusLeftPane": "Enfoca el panell esquerre",
+    "FocusLeftPaneDescription": "Canvia el focus al panell esquerre",
+    "FocusRightPane": "Enfoca el panell dret",
+    "FocusRightPaneDescription": "Canvia el focus al panell dret",
+    "ToggleSidebar": "Canvia la barra lateral",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Maj",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Retorn",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Espai",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Retrocés",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Supr",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Esquerra",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Dreta",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Avall",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Amunt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Inici",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "Fi",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "AvPàg",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "RePàg",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pausa",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Repòs",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Esborra",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Imprimeix",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Ajuda",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Ratolí4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Ratolí5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Correu",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "Inici",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "Enrere",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Endavant",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "ActualitzaNavegador",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "AturaNavegador",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Cerca",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Favorits",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "ReprodueixPausa",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "AturaMultimèdia",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PistaAnterior",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "PistaSegüent",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "SeleccionaMultimèdia",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Silencia",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "BaixaVolum",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "ApujaVolum",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Canvia",
+    "ToggleSelect": "Canvia la selecció",
+    "ShowFileExtensionWarning": "Mostra un avís en canviar les extensions dels fitxers",
+    "ThisPC": "Aquest ordinador",
+    "RecycleBin": "Paperera de reciclatge",
+    "Untagged": "Sense etiqueta",
+    "PreviousTab": "Passa a la pestanya anterior",
+    "NextTab": "Passa a la pestanya següent",
+    "CloseTab": "Tanca la pestanya actual",
+    "EditPath": "Edita la ruta",
+    "Redo": "Refés",
+    "Undo": "Desfés",
+    "InvalidLocation": "Ubicació no vàlida",
+    "CopyFileWithoutProperties": "Esteu segur que voleu copiar aquests fitxers sense les seves propietats?",
+    "FilePropertiesCannotBeCopied": "Aquests fitxers tenen propietats que no es poden copiar a la nova ubicació",
+    "FilePropertiesCannotBeMoved": "Aquests fitxers tenen propietats que no es poden moure a la nova ubicació",
+    "MoveFileWithoutProperties": "Esteu segur que voleu moure aquests fitxers sense les seves propietats?",
+    "ShowCheckboxesWhenSelectingItems": "Mostra les caselles de selecció en seleccionar elements",
+    "EditPathDescription": "Enfoca la barra del camí",
+    "AddItemDescription": "Crea un element nou",
+    "SecurityNoAccessControlEntriesText": "Cap grup o usuari té permís per accedir a aquest objecte. Tanmateix, el propietari d'aquest objecte pot assignar permisos.",
+    "OpenFileLocationDescription": "Obre la ubicació de l'element",
+    "DeletePermanently": "Suprimeix permanentment",
+    "DeleteItemPermanentlyDescription": "Suprimeix els elements permanentment",
+    "PlayAllDescription": "Reprodueix els fitxers multimèdia seleccionats",
+    "UndoDescription": "Desfés l'última operació del fitxer",
+    "RedoDescription": "Refés l'última operació del fitxer",
+    "Location": "Ubicació:",
+    "GroupByMonthDescription": "Agrupa els elements per mes",
+    "GroupByYearDescription": "Agrupa elements per any",
+    "Month": "Mes",
+    "Day": "Dia",
+    "ToggleGroupByDateUnitDescription": "Canvia la unitat per agrupar per data",
+    "ToggleGroupingUnit": "Canvia la unitat d'agrupació",
+    "Year": "Any",
+    "GroupByDateUnit": "Agrupa per unitat de data",
+    "GroupByDateCreatedDayDescription": "Agrupa els elements per dia de data de creació",
+    "GroupByDateCreatedMonthDescription": "Agrupa els elements per mes de la data de creació",
+    "GroupByDateCreatedYearDescription": "Agrupa els elements per any de data de creació",
+    "GroupByDateDeletedDayDescription": "Agrupa els elements per dia de data de supressió",
+    "GroupByDateDeletedMonthDescription": "Agrupa els elements per mes de la data de supressió",
+    "GroupByDateDeletedYearDescription": "Agrupa els elements per any de data de supressió",
+    "GroupByDateModifiedDayDescription": "Agrupa els elements per dia de data de modificació",
+    "GroupByDateModifiedMonthDescription": "Agrupa els elements per mes de data de modificació",
+    "GroupByDateModifiedYearDescription": "Agrupa els elements per any de data de modificació",
+    "SecurityClickAdvancedPermissions": "Feu clic a «Permisos avançats» per continuar.",
+    "SecurityRequireReadPermissions": "Heu de tenir permisos de lectura per veure les propietats d'aquest element.",
+    "SecuritySuggestToTakeOwnership": "Per provar de prendre la propietat de l'element, que inclou el permís per veure'n les propietats, feu clic a Canvia.",
+    "SecurityUnableToDisplayPermissions": "No es poden mostrar els permisos.",
+    "StashChanges": "Deixa els meus canvis a \"{0}\"",
+    "DiscardChanges": "Descarta els meus canvis",
+    "BringChanges": "Porta els meus canvis a \"{0}\"",
+    "UncommittedChanges": "Teniu canvis no confirmats en aquesta branca. Què us agradaria fer amb ells?",
+    "SwitchBranch": "Canvia de branca",
+    "Branches": "Branques",
+    "Switch": "Canvia",
+    "NewBranch": "Branca nova",
+    "InvalidBranchName": "Nom de branca no vàlida",
+    "CreateBranch": "Crea una branca",
+    "CreateNewBranch": "Crea una branca",
+    "BasedOn": "Basat en",
+    "SwitchToNewBranch": "Canvia a una nova branca",
+    "CreateFolderWithSelectionDescription": "Crea una carpeta amb els elements seleccionats actualment",
+    "OpenProperties": "Obre les propietats",
+    "OpenPropertiesDescription": "Obre la finestra de propietats",
+    "Locals": "Locals",
+    "Remotes": "Remots",
+    "ImproveTranslation": "Tradueix al Crowdin",
+    "GitFetch": "Obtén",
+    "GitPull": "Rep",
+    "GitFetchDescription": "Executa git fetch",
+    "GitPullDescription": "Executa git pull",
+    "Preview": "Vista prèvia",
+    "GitStatus": "Estat del Git",
+    "GitError": "Error del Git",
+    "PullTimeoutError": "el git pull ha fallat a causa d'un error de temps d'espera",
+    "MultipleValues": {
+        "text": "(valors múltiples)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Autor",
+    "DateCommitted": "Data de validació",
+    "CommitMessage": "Missatge de validació",
+    "CommitSha": "Validació SHA",
+    "Git": "Git",
+    "Acrylic": "Acrílic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Material de fons",
+    "Solid": "Sòlid",
+    "ManageBranches": "Gestiona les branques",
+    "Push": "Envia",
+    "GitPushDescription": "Executa git push",
+    "GitSync": "Sincronitza",
+    "GitSyncDescription": "Executa git pull i després git push",
+    "GitSyncStatusExtendedInfo": "{0} revisions sortints / {1} revisions entrants",
+    "ConnectGitHub": "Connecta al GitHub",
+    "ConnectGitHubDescription": "Introduïu el codi següent a l'enllaç inferior per començar a treballar amb els repositoris del GitHub.",
+    "CannotReachGitHubError": "Els fitxers no tenen accés al GitHub ara mateix.",
+    "OpenInVSCode": "Obre la carpeta al VS Code",
+    "OpenInVSCodeDescription": "Obre la carpeta actual al Visual Studio Code",
+    "OpenRepoInVSCode": "Obre el repositori al VS Code",
+    "OpenRepoInVSCodeDescription": "Obre l'arrel del repositori de Git al Visual Studio Code",
+    "CopyCode": "Copia el codi",
+    "Added": "Afegit",
+    "Deleted": "Eliminat",
+    "Modified": "Modificat",
+    "Untracked": "Sense rastrejar",
+    "UnableToDisplayOwner": "No es pot mostrar el propietari actual.",
+    "AuthorizationSucceded": "Genial! Ara esteu autoritzats.",
+    "InitRepo": "Inicialitza el repositori",
+    "InitRepoDescription": "Inicialitza un repositori Git",
+    "GitOriginRepositoryName": "Nom del repositori remot",
+    "GitCurrentBranch": "Branca actual",
+    "PathColumn": "Columna de ruta",
+    "SortByPathDescription": "Ordena els elements per ruta",
+    "OpenDirectoryInNewPaneDescription": "Obre la carpeta en un panell nou",
+    "OpenDirectoryInNewTabDescription": "Obre la carpeta en una pestanya nova",
+    "OpenInNewWindowDescription": "Obre la carpeta en una finestra nova",
+    "OpenAllTaggedItems": "Obre-ho tot",
+    "OpenAllTaggedItemsDescription": "Obre tots els elements etiquetats",
+    "DriveWithLetter": {
+        "text": "Unitat ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Ordre no vàlida",
+    "InvalidCommandContent": "'{0}' no es reconeix com a ordre.",
+    "CommandNotExecutable": "L'ordre no és executable",
+    "CommandNotExecutableContent": "L'ordre '{0}' no està preparada per executar-se.",
+    "CommandPalette": "Paleta d'ordres",
+    "OpenCommandPaletteDescription": "Obre el panell d'ordres",
+    "ShortcutItemWorkingDir": "Inicia en:",
+    "TurnOnBitLocker": "Activa el BitLocker",
+    "ManageBitLocker": "Gestiona el BitLocker",
+    "CopyFailureFileToLarge": "Els elements següents són massa grans per copiar-los en aquesta unitat",
+    "FormatDrive": "Formata la unitat",
+    "DontShowAgain": "No ho mostris més",
+    "FilesRunningAsAdmin": "El Files s'executa com a administrador",
+    "FilesRunningAsAdminContent": "A causa d'una limitació amb Windows i WinAppSdk, arrossegar i deixar anar no està disponible quan s'executa el Files com a administrador. Si voleu utilitzar arrossegar i deixar anar, podeu evitar aquesta limitació obrint l'UAC (control del compte d'usuari) des del menú Inici, seleccionanar el tercer nivell i reiniciar el Windows. En cas contrari, podeu seguir utilitzant el Files sense arrossegar i deixar anar.",
+    "SettingsLeaveAppRunning": "Permet que l'aplicació s'executi en segon pla en tancar la finestra",
+    "Blue": {
+        "text": "Blau",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Blau grisós",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Vermell maó",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Camuflatge",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Blau fred brillant",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Gris",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Gris fosc",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Verd",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Menta clara",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Vermell modern",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Taronja brillant",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Cobert",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Vermell",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Rosa brillant",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Escuma de mar",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Tempesta",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Vermell violeta clar",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Groc or",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Neteja completada",
+    "NameWithColon": "Nom:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "S'han processat {0} de {1}",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "elements",
+    "CannotInitializeGitRepo": "El Files no pot inicialitzar aquest directori com a repositori Git.",
+    "ContributingArtist": "Artista col·laborador",
+    "AddPage": "Afegeix una pàgina",
+    "ProcessingItems": "Processant elements...",
+    "SpeedWithColon": "Velocitat:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "S'ha cancel·lat la compressió de {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "S'ha cancel·lat la compressió de {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "S'han comprimit {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "S'han comprimit {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "S'ha produït un error en comprimir {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "No s'han pogut comprimir {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "S'estan comprimint {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "S'estan comprimint {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "S'ha cancel·lat la còpia de {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "S'ha cancel·lat la còpia de {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "S'han copiat {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "S'han copiat {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "S'ha produït un error en copiar {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "No s'han pogut copiar {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "S'estan copiant {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "S'estan copiant {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "S'ha cancel·lat l'extracció de \"{0}\" a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "S'ha cancel·lat l'extracció de \"{0}\" de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "S'ha extret \"{0}\" a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "S'ha extret \"{0}\" de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "S'ha produït un error en extreure \"{0}\" a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "No s'ha pogut extreure \"{0}\" de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "S'està extreint \"{0}\" a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "S'està extraient \"{0}\" de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "S'ha cancel·lat la supressió de {0} elements de \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "S'han suprimit {0} elements de \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "S'ha produït un error en suprimir {0} elements de \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "No s'han pogut suprimir {0} elements de \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "S'estan suprimint {0} elements de \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "S'ha cancel·lat el moviment de {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "S'ha cancel·lat el moviment de {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "S'han mogut {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "S'han mogut {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "S'estan movent {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "S'està movent {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "S'ha produït un error en moure {0} elements a \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "No s'han pogut moure {0} elements de \"{1}\" a \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "S'ha cancel·lat el buidatge de la paperera de reciclatge",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Paperera de reciclatge buidada",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Buidant la paperera de reciclatge",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "S'ha produït un error en buidar la paperera de reciclatge",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "No s'ha pogut buidar la paperera de reciclatge",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Preparant l'operació...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "S'han processat {0}/{1} elements",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Desbloqueja el fitxer baixat",
+    "NoFileOperations": "No hi ha operacions de fitxers en curs",
+    "OpenOnStartupDisabled": "L'opció d'obrir el Files a l'inici de Windows no està disponible a causa de la configuració del sistema o de la política de grup. Per tornar-lo a activar, obriu la pàgina d'inici al Gestor de tasques.",
+    "FailedToRestore": "No s'han pogut restaurar els elements de la paperera de reciclatge",
+    "FailedToSetBackground": "No s'ha pogut establir el fons de pantalla",
+    "GitDeleteBranch": "Suprimeix la branca del Git",
+    "GitDeleteBranchSubtitle": "Esteu segur que voleu suprimir permanentment la branca \"{0}\"?",
+    "ConnectedToGitHub": "Connectat al GitHub",
+    "Logout": "Tanca sessió",
+    "ConnectToGitHub": "Connecta al GitHub",
+    "Login": "Inicia sessió",
+    "ErrorApplyingTagContent": "Actualment, les etiquetes només són compatibles amb unitats formatades com a NTFS.",
+    "ErrorApplyingTagTitle": "S'ha produït un error en aplicar aquesta etiqueta",
+    "DecompressArchiveHereSmartDescription": "Extreu elements dels arxius seleccionats a la carpeta actual per a l'arxiu d'un sol element o a una carpeta nova per a l'arxiu de diversos elements",
+    "ExtractHereSmart": "Extreu aquí (intel·ligent)",
+    "SortFilesAndFoldersTogether": "Ordena fitxers i carpetes junts",
+    "SortFilesAndFoldersTogetherDescription": "Ordena fitxers i carpetes junts",
+    "SortFilesFirst": "Ordena primer els fitxers",
+    "SortFilesFirstDescription": "Ordena primer els fitxers i després les carpetes",
+    "SortFoldersFirst": "Ordena primer les carpetes",
+    "SortFoldersFirstDescription": "Ordena primer les carpetes i després els fitxers",
+    "SortPriority": "Prioritat d'ordenació",
+    "FailedToRotateImage": "No s'ha pogut girar la imatge",
+    "Restart": "Reinicia",
+    "Quit": "Tanca",
+    "FaildToShareItems": "No s'han pogut compartir els elements",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Desplaceu-vos a la carpeta anterior quan navegueu cap amunt",
+    "NewWindowDescription": "Obre una finestra nova",
+    "ChangeAlbumCover": "Canvia la portada de l'àlbum",
+    "ItemRenameFailed": "No s'ha pogut canviar el nom de l'element",
+    "HigherPermissionsRequired": "L'edició de \"{0}\" requereix permisos addicionals",
+    "EditPermissions": "Edita els permisos",
+    "BackgroundRunningNotificationBody": "Files encara s'està executant en segon pla per millorar el rendiment d'inici.",
+    "BackgroundRunningNotificationHeader": "On ha anat el Files?",
+    "QuestionsAndDiscussions": "Preguntes i discussions",
+    "TilesViewSizeInfo": "Mides addicionals encara no estan disponibles per a la Vista de Mosaics.",
+    "Compact": {
+        "text": "Compacta",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Petit",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Mitjà",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Mitjana +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Mitjana ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Mitjana +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Mitjana ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Mitjana +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Gran",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Gran +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Gran ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Gran +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Extra gran",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Vista de detalls",
+    "LayoutType": "Tipus de disseny",
+    "Actions": "Accions",
+    "Commands": "Ordres",
+    "AddCommand": "Afegeix una ordre",
+    "RestoreDefaults": "Restaura els valors per defecte",
+    "ChooseAnAction": "Trieu una acció",
+    "RestoreDefaultKeybindingsConfirmation": "Esteu segur que voleu restaurar les vinculacions de les tecles per defecte? Aquesta acció no es pot desfer.",
+    "KeybindingAlreadyUsedNotification": "Aquesta vinculació de tecles ja s'està utilitzant, trieu una vinculació de tecles diferent per continuar.",
+    "KeybindingInvalidKeyNotification": "La combinació de tecles escollida no es pot utilitzar. Torneu-ho a provar amb una combinació de tecles diferent.",
+    "Customized": "Personalitzat",
+    "AdaptiveLayoutDisabledNotification": "El disseny adaptatiu no està disponible quan les preferències estan sincronitzades, el disseny per defecte s'ha canviat a Detalls.",
+    "BackgroundImage": "Imatge de fons",
+    "Bottom": {
+        "text": "Inferior",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Centre",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Omple",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Alineació horitzontal",
+    "ImageFit": "Ajusta la imatge",
+    "Left": {
+        "text": "Esquerra",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacitat",
+    "Right": {
+        "text": "Dreta",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Superior",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniforme",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Omple uniformement",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Alineació vertical",
+    "ThinAcrylic": {
+        "text": "Acrílic prim",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Mostra per a totes les ubicacions",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Eines per a desenvolupadors",
+    "DisplayOpenIDE": "Configureu el botó «Obre l'IDE» a la barra d'estat",
+    "GitRepos": {
+        "text": "Mostra per als repositoris Git",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Extensió de l'aplicació",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "Fitxer ICO",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Fitxer Zip",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Fitxers de mapa de bits",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Núm.",
+    "NetworkLocations": "Ubicacions de xarxa",
+    "NoNetworkLocationsInfo": "No hi ha ubicacions de xarxa. Si no utilitzeu ubicacions de xarxa, podeu desactivar el giny.",
+    "Disable": "Deshabilita",
+    "EditInNotepad": "Edita al Bloc de notes",
+    "EditInNotepadDescription": "Editeu el fitxer seleccionat al Bloc de notes"
+}

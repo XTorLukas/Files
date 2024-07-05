@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "เปิดในหน้าต่างใหม่",
+    "CopyPath": "คัดลอกเส้นทาง",
+    "CopyPathWithQuotes": "คัดลอกเส้นทางพร้อมกับอัญประกาศ",
+    "Browse": "เรียกดู",
+    "Size": "ขนาด",
+    "PropertiesCreated": {
+        "Text": "สร้างเมื่อ:"
+    },
+    "Path": "แยกไปที่",
+    "SizeLabel": "ขนาด:",
+    "SizeOnDiskLabel": "ขนาดบนดิสก์",
+    "UncompressedSize": "ขนาดที่ไม่บีบอัด:",
+    "ErrorDialogThisActionCannotBeDone": "ไม่สามารถปฏิบัติตามที่สั่งไว้ได้",
+    "ErrorDialogTheDestinationFolder": "โฟลเดอร์ปลายทาง",
+    "ErrorDialogIsASubfolder": "ตั้งอยู่ในโฟล์เดอร์ต้นทาง",
+    "Skip": "ข้าม ",
+    "SelectAll": "เลือกทั้งหมด",
+    "InvertSelection": "สลับการเลือก",
+    "ClearSelection": "ล้างส่วนที่เลือก",
+    "PropertiesModified": {
+        "Text": "วันที่ปรับเปลี่ยน:"
+    },
+    "Accessed": "เข้าถึงเมื่อ:",
+    "RecentItemClearAll": {
+        "Text": "ล้างประวัติรายการ"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "ป้อนเส้นทางเพื่อนำทาง หรือพิพม์ > เพื่อเปิดแผงคำสั่ง"
+    },
+    "Search": "ค้นหา",
+    "RecentItemDescription": {
+        "Text": "รายการไฟล์ที่เคยเข้าถึงจะแสดงในรายการนี้"
+    },
+    "RecentItemRemove": {
+        "Text": "ลบรายการนี้"
+    },
+    "OpenGitHubRepo": "คลังเก็บ GitHub",
+    "About": "เกี่ยวกับ",
+    "OpenSource": "โอเพนซอร์ส",
+    "DateFormat": "รูปแบบวันที่",
+    "SettingsAppearanceTheme": "ชุดรูปแบบ",
+    "SettingsFilesAndFoldersShowFileExtensions": "แสดงนามสกุลสำหรับชนิดไฟล์ที่รู้จัก",
+    "SettingsFilesAndFoldersShowHiddenItems": "แสดงไฟล์และโฟลเดอร์ที่ซ่อนไว้",
+    "ShowDotFiles": "แสดงไฟล์ที่ใช้ชื่อจุด",
+    "Appearance": "ตกแต่ง",
+    "BackgroundColor": "Background color",
+    "Advanced": "ขั้นสูง",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "เปิดแท็บที่ค้างจากครั้งก่อน"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "เปิดแท็บใหม่"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "เปิดหน้าอื่นที่ระบุไว้"
+    },
+    "Desktop": "เดสก์ท็อป",
+    "Documents": "เอกสาร",
+    "Downloads": "ดาวน์โหลด",
+    "Name": "ชื่อ",
+    "Ascending": "จากน้อยไปหามาก",
+    "Paste": "วาง",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "สร้าง"
+    },
+    "Properties": "คุณสมบัติ",
+    "Open": "เปิด",
+    "OpenInNewTab": "เปิดในแท็บใหม่",
+    "OpenInNewWindow": "เปิดในหน้าต่างใหม่",
+    "Share": "ใช้ร่วมกัน",
+    "Cut": "ตัด",
+    "Delete": "ลบ",
+    "PinFolderToSidebar": "ปักไว้ที่แถบด้านข้าง",
+    "WelcomeDialog": {
+        "Title": "ยินดีต้อนรับสู่โปรแกรมจัดการไฟล์!",
+        "PrimaryButtonText": "อนุญาตสิทธิ์การเข้าถึง"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "ก่อนเริ่มต้นใช้งาน, เราต้องได้รับสิทธิ์การเข้าถึงไฟล์จากคุณก่อน. เราจะพาคุณไปยังหน้าการตั้งค่าสิทธิ์การเข้าถึงไฟล์เพื่อให้คุณอนุญาตโปรแกรมเราได้เข้าถึงสิทธิ์นั้น. เมื่อยกสิทธิ์การเข้าถึงแล้วปิดโปรแกรมแล้วเปิดใหม่อีกครั้งเพื่อให้การอนุญาตสิทธิ์เสร็จสมบูรณ์."
+    },
+    "Display": "การแสดงผล",
+    "EnterAnItemName": "ระบุชื่อใหม่ของรายการ",
+    "RenameDialog": {
+        "PrimaryButtonText": "ตั้งชื่อ"
+    },
+    "LightTheme": "สว่าง",
+    "DarkTheme": "มืด",
+    "Application": "โปรแกรมประยุกต์",
+    "SystemTimeStyle": "ตามระบบ",
+    "NewFolder": "โฟลเดอร์ใหม่",
+    "NewFile": "ไฟล์ใหม่",
+    "EmptyFolder": {
+        "Text": "โฟลเดอร์นี้ว่างเปล่า"
+    },
+    "Back": "ย้อนกลับ (Alt + ลูกศรซ้าย)",
+    "Forward": "ไปข้างหน้า (Alt + ลูกศรขวา)",
+    "Up": "ขึ้นไป (Alt + ลูกศรขึ้น)",
+    "Refresh": "รีเฟรช",
+    "ItemAlreadyExistsDialogContent": "ในโฟลเดอร์นี้มีรายการที่ใช้ชื่อนี้ไปแล้ว.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "แทนที่รายการที่มีอยู่",
+    "ItemAlreadyExistsDialogTitle": "รายการนี้ซ้ำกับรายการที่มีอยู่แล้ว",
+    "SetAsLockscreen": "ตั้งเป็นพื้นหลังหน้าจอล็อค",
+    "SetAsAppBackground": "Set as app background",
+    "AccessDeniedDeleteDialog": {
+        "Text": "ไม่สามารถลบสิ่งของที่ระบุไว้ได้"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "กรุณาใส่อุปกรณ์นั้นกลับเข้ามาเพื่อเข้าถึงไฟล์นี้",
+        "Title": "ไดร์ฟถูกถอดออก"
+    },
+    "FileNotFoundDialog": {
+        "Text": "ไฟล์ที่ต้องการเข้าถึงนั้นได้ถูกย้ายหรือลบไปแล้ว",
+        "Title": "ไม่พบไฟล์"
+    },
+    "CannotAccessPropertiesTitle": "ไม่สามารถเปิดดูคุณสมบัติของไฟล์นี้ได้",
+    "CannotAccessPropertiesContent": "ไฟล์ที่ต้องการเข้าถึงนั้นได้ถูกย้ายหรือลบไปแล้ว",
+    "FolderNotFoundDialog": {
+        "Text": "โฟลเดอร์ที่พยายามเข้าถึงนี้ ได้ถูกย้ายหรือลบไปแล้ว",
+        "Title": "ลบไปแล้วเหรอ?"
+    },
+    "FileInUseByDialog": {
+        "Text": "ไฟล์ที่พยายามเข้าถึงถูกใช้งานอยู่โดย {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "ไฟล์ที่พยายามเข้าถึงถูกใช้งานอยู่โดยแอปพลิเคชั่นอื่น",
+        "Title": "ไฟล์ถูกใช้งานอยู่"
+    },
+    "Layout": "เค้าโครง",
+    "PropertiesDialogReadOnly": {
+        "Text": "อ่านอย่างเดียว"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "ขณะนี้",
+    "ErrorDialogUnsupportedOperation": "ไม่สามารถทำได้อย่างไม่ทราบสาเหตุ",
+    "DriveFreeSpaceAndCapacity": "ว่าง {0} จากทั้งหมด {1}",
+    "SendTo": "ส่งไปยัง",
+    "FileNameTeachingTip": {
+        "Subtitle": "ชื่อไฟล์ไม่สามารถมีอักขระต่อไปนี้ได้: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "ชื่อรายการที่ระบุไม่ถูกต้อง"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, other {# items selected}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, other {items}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "ใช่",
+    "ConfirmEmptyBinDialogContent": "คุณแน่ใจเหรอว่าคุณต้องการลบรายการเหล่านี้อย่างถาวร?",
+    "ConfirmEmptyBinDialogTitle": "ล้างข้อมูลในถังรีไซเคิล",
+    "ItemSizeBytes": "ไบต์",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "เรียกใช้ในฐานะผู้ใช้อื่น"
+    },
+    "PropertiesDriveItemTypesEquals": "ทุกขนิด {0}",
+    "PropertiesDriveItemTypeDifferent": "หลาย ๆ ชนิด",
+    "PropertiesCombinedItemLocation": "ทั้งหมดใน {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "พื้นที่ใช้ไป:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "พื้นที่ว่าง:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "ความจุ:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "ระบบแฟ้ม:"
+    },
+    "JumpListRecentGroupHeader": "ใช้บ่อย",
+    "TabStripDragAndDropUIOverrideCaption": "ย้ายแท็บมาไว้ที่นี่",
+    "syncStatusColumn": {
+        "Header": "สถานะ"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "ตามระบบ",
+    "NavigationToolbarVisiblePathNoResults": "ไม่มีรายการนี้",
+    "SubDirectoryAccessDenied": "ไม่มีสิทธิ์เข้าถึงโฟลเดอร์นี้",
+    "MoveToFolderCaptionText": "ย้ายไปที่ {0}",
+    "CopyToFolderCaptionText": "คัดลอกไปที่ {0}",
+    "CreateShortcut": "สร้างทางลัด",
+    "OpenFileLocation": "เปิดตำแหน่งที่ตั้งไฟล์",
+    "PropertiesShortcutItemArgs": {
+        "Text": "ตัวเลือกการเริ่ม:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "เป้าหมาย:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "ชนิดของทางลัด:"
+    },
+    "PropertiesShortcutTypeLink": "ทางลัดอินเตอร์เน็ต",
+    "General": "ทั่วไป",
+    "Shortcut": "ทางลัด",
+    "ShortcutWebLinkFileType": "ทางลัดอินเตอร์เน็ต",
+    "ShortcutCreateNewSuffix": "{0} - ทางลัด",
+    "ExceptionNotificationBody": "โปรแกรมจัดการไฟล์เจอปัญหาที่ไม่เคยเจอมาก่อน.",
+    "ExceptionNotificationHeader": "เกิดบางอย่างผิดพลาดขึ้น!",
+    "ExceptionNotificationReportButton": "รายงานปัญหานี้",
+    "InvalidItemDialogContent": "รายการที่ระบุนี้ไม่มีอยู่จริงหรือไม่สามารถเข้าถึงได้อีกต่อไป. {0}เกิดข้อผิดพลาด:{0}{1}",
+    "InvalidItemDialogTitle": "รายการที่ไม่มีจริง",
+    "SettingsAboutVersionTitle": "เวอร์ชั่น:",
+    "ShareDialogFailMessage": "ยังไม่มีอะไรจะแบ่งปัน ณ ตอนนี้...",
+    "ShareDialogMultipleItemsDescription": "รายการเหล่านี้ที่คุณเลือกกำลังจะถูกแบ่งปัน",
+    "ShareDialogSingleItemDescription": "รายการที่คุณเลือกกำลังจะถูกแบ่งปัน",
+    "ShareDialogTitle": "แบ่งปัน {0}",
+    "ShareDialogTitleMultipleItems": "แบ่งปัน {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "รายการที่คุณพยายามเปลี่ยนชื่อได้หายไป. กรุณาตรวจสอบให้ดีว่ารายการนั้นยังมีอยู่จริง.",
+            "Title": "รายการนี้ไม่มีอยู่อีกแล้ว"
+        },
+        "NameInvalid": {
+            "Text": "ชื่อที่ระบุเป็นชื่อที่ไม่ถูกต้อง. กรุณาเช็ครายการนั้นและลองอีกครั้ง.",
+            "Title": "ชื่อรายการไม่ถูกต้อง"
+        },
+        "TooLong": {
+            "Text": "ความยาวของรายการนี้ยาวเกินกำหนด. กรุณาเช็ครายการนั้นแล้วลองใหม่อีกครั้ง.",
+            "Title": "ชื่อรายการนี้ยาวเกินไป"
+        }
+    },
+    "ShowMoreOptions": "แสดงตัวเลือกเพิ่มเติม",
+    "RestartNotificationText": {
+        "Text": "โปรแกรมต้องเริ่มใหม่เพื่อให้การตั้งค่านี้มีผล, คุณต้องการจะปิดโปรแกรมนี้เพื่อเริ่มใหม่และนำการตั้งค่านี้ไปใช้ ตอนนี้เลยหรือไม่?"
+    },
+    "SponsorUsOnGitHub": "สนับสนุนเราบน GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "ไม่สามารถสร้างสิ่งของที่ระบุไว้ได้"
+    },
+    "AccessDenied": "การเข้าถึงถูกกีดกัน",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "ตั้งเป็น"
+    },
+    "Cancel": "ยกเลิก",
+    "AddDialog": {
+        "Title": "สร้างรายการใหม่"
+    },
+    "AddDialogDescription": {
+        "Text": "เลือกประเภทของรายการที่จะสร้างใหม่"
+    },
+    "File": "ไฟล์",
+    "AddDialogListFileSubHeader": "สร้างไฟล์เปล่า",
+    "Folder": "โฟลเดอร์",
+    "AddDialogListFolderSubHeader": "สร้างโฟลเดอร์เปล่า",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "รีเฟรช"
+        }
+    },
+    "Language": "ภาษา",
+    "SettingsContextMenuOverflow": "ย้ายส่วนขยายเชลล์ทั้งหมดไปที่เมนูย่อย",
+    "ShowConfirmationWhenDeletingItems": "แสดงกล่องโต้ตอบการยืนยันลบเมื่อลบไฟล์หรือโฟล์เดอร์",
+    "PropertySaveErrorMessage": {
+        "Text": "เกิดปัญหาผิดพลาดขณะพยายามบันทีกคุณสมบัติบางอย่าง."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "ผิดพลาด",
+        "SecondaryButtonText": "ละเลยและปิด"
+    },
+    "PropertyRatingText": "การจัดอันดับ",
+    "PropertyParsingPath": "เส้นทางโฟลเดอร์",
+    "PropertyItemTypeText": "ชนิดรายการ",
+    "PropertyTitle": "ชื่อเรื่อง",
+    "PropertySubject": "หัวข้อ",
+    "PropertyComment": "ข้อคิดเห็น",
+    "PropertyCopyright": "ลิขสิทธื์",
+    "PropertyDateModified": "วันที่ปรับเปลี่ยน",
+    "PropertyBitDepth": "ความลึกของบิต",
+    "PropertyDimensions": "มิติ",
+    "PropertyHorizontalSize": "ขนาดแนวนอน",
+    "PropertyVerticalSize": "ขนาดแนวตั้ง",
+    "PropertyHorizontalResolution": "ความละเอียดแนวนอน",
+    "PropertyVerticalResolution": "ความละเอียดแนวตั้ง",
+    "PropertyColorSpace": "การแสดงสี",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "ไม่ระบุ",
+    "PropertyLongitudeDecimal": "ละติจูต",
+    "PropertyLatitudeDecimal": "ลองจิจูต",
+    "PropertyAltitude": "ระดับความสูง",
+    "PropertyDateTaken": "วันที่ถ่าย",
+    "PropertyCameraManufacturer": "ยี่ห้อกล้อง",
+    "PropertyCameraModel": "รุ่นของกล้อง",
+    "PropertyExposureTime": "การตั้งค่าการเปิดรับแสง",
+    "PropertyFocalLength": "ระยะโฟกัส",
+    "PropertyAperture": "ช่อง",
+    "PropertyPeopleNames": "รายชื่อผู้คน",
+    "PropertyChannelCount": "จำนวนช่อง",
+    "PropertyFormat": "รูปแบบ",
+    "PropertySampleRate": "อัตราการสุ่มตัวอย่าง",
+    "PropertyAlbumArtist": "อัลบัมศิลปิน",
+    "PropertyAlbumTitle": "ชื่ออัลบัม",
+    "Artist": "ศิลปิน",
+    "PropertyBeatsPerMinute": "จังหวะต่อนาที",
+    "PropertyComposer": "ผู้ประพันธ์",
+    "Conductor": "ผู้ควบคุมวง",
+    "PropertyDiscNumber": "แผ่นที่",
+    "PropertyGenre": "หมวด",
+    "PropertyTrackNumber": "หมายเลขแทร็ก",
+    "PropertyDuration": "ความยาว",
+    "PropertyFrameCount": "อัตราเฟรม",
+    "PropertyProtectionType": "รูปแบบการป้องกัน",
+    "PropertyAuthorUrl": "Url ผู้เขียน",
+    "PropertyContentDistributor": "ผู้จัดจำหน่ายเนื้อหา",
+    "PropertyDateReleased": "วันที่จัดจำหน่าย",
+    "PropertySeriesName": "ชื่อชุด",
+    "PropertySeasonNumber": "ชุดที่",
+    "PropertyEpisodeNumber": "ตอนที่",
+    "PropertyProducer": "ผู้ผลิต",
+    "PropertyPromotionUrl": "Url สำหรับการโปรโมท",
+    "PropertyProviderStyle": "รูปแบบการจัดจำหน่าย",
+    "PropertyPublisher": "ผู้จัดจำหน่าย",
+    "PropertyThumbnailLargePath": "ตำแหน่งรูปย่อขนาดใหญ่",
+    "PropertyThumbnailLargeUri": "Uri รูปย่อขนาดใหญ่",
+    "PropertyThumbnailSmallPath": "ตำแหน่งรูปย่อขนาดเล็ก",
+    "PropertyThumbnailSmallUri": "Uri รูปย่อขนาดเล็ก",
+    "PropertyUserWebUrl": "Url ผู้ใช้",
+    "PropertyWriter": "ผู้เขียน",
+    "PropertyYear": "ปี",
+    "PropertyContributor": "ผู้สนับสนุน",
+    "PropertyLastAuthor": "ผู้เขียนสุดท้าย",
+    "PropertyRevisionNumber": "พิมพ์ครั้งที่",
+    "PropertyVersion": "เวอร์ชั่น",
+    "PropertyDateCreated": "วันที่สร้าง",
+    "PropertyTotalEditingTime": "ระยะเวลาแก้ไข",
+    "PropertyTemplate": "ต้นฉบับ",
+    "PropertyWordCount": "จำนวนคำ",
+    "PropertyCharacterCount": "จำนวนตัวอักษร",
+    "PropertyLineCount": "จำนวนบรรทัด",
+    "PropertyParagraphCount": "จำนวนย่อหน้า",
+    "PropertyPageCount": "จำนวนหน้า",
+    "PropertySlideCount": "จำนวนสไลด์",
+    "PropertyFrameRate": "อัตราเฟรม",
+    "PropertyEncodingBitrate": "อัตราบิตรวม",
+    "PropertyPreviewAudioEncodingBitrate": "Audio Encoding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "Compression": "บีบอัด",
+    "PropertyFrameWidth": "ความกว้างของเฟรม",
+    "PropertyFrameHeight": "ความสูงของเฟรม",
+    "PropertyOrientation": "แนว",
+    "PropertySectionCore": "พื้นฐาน",
+    "PropertySectionImage": "ภาพ",
+    "PropertySectionPhoto": "รูป",
+    "PropertySectionGPS": "ตำแหน่ง",
+    "PropertySectionMedia": "สื่อ",
+    "PropertySectionAudio": "เสียง",
+    "PropertySectionMusic": "เพลง",
+    "PropertySectionVideo": "วีดีโอ",
+    "Document": "เอกสาร",
+    "Address": "ที่ตั้ง",
+    "SelectionOptions": "การเลือก",
+    "NavToolbarSelectionOptions": {
+        "Label": "เลือก"
+    },
+    "RecycleBinItemAutomation": "รายการที่ถูกรีไซเคิล",
+    "ShortcutItemAutomation": "รายการทางลัด",
+    "Drives": "ไดร์ฟ",
+    "PinToSidebarByDraggingCaptionText": "ย้ายมาที่นี่",
+    "EjectNotificationHeader": "อุปกรณ์ถอดออกได้อย่างปลอดภัยแล้ว",
+    "EjectNotificationBody": "อุปกรณ์สามารถถอดออกอย่างปลอดภัยได้แล้ว",
+    "EjectNotificationErrorDialogHeader": "ไม่สามารถถอดอุปกรณ์ออกได้",
+    "EjectNotificationErrorDialogBody": "อุปกรณ์กำลังถูกใช้งานอยู่. กรุณาปิดทุกโปรแกรมที่กำลังใช้งานอุปกรณ์นี้อยู่.",
+    "Eject": "ถอด",
+    "DuplicateTab": "ทำซ้ำแท็บ",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "ย้ายแท็บไปหน้าต่างใหม่"
+    },
+    "NewTab": "แท็บใหม่",
+    "ClearPropertiesFlyoutText": {
+        "Text": "รายละเอียดอาจมีข้อมูลที่เป็นส่วนบุคคล"
+    },
+    "ClearPropertiesButton": {
+        "Content": "ล้างรายละเอียดทุกอย่าง"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "เช็คสถานะของการถ่ายโอนไฟล์ที่นี่",
+        "Title": "ศูนย์รวมสถานะ"
+    },
+    "SearchPagePathBoxOverrideText": "ผลการค้นหา {0} ใน {1}",
+    "Details": "รายละเอียด",
+    "No": "ไม่",
+    "ShowProtectedSystemFiles": "แสดงไฟล์ระบบที่ถูกปกป้องไว้",
+    "SyncFolderPreferencesAcrossDirectories": "ซิงค์ตั้งค่าเค้าโครงและการเรียงให้เหมือนกันในทุกไดเร็กทอรี",
+    "SettingsContextMenu": {
+        "Text": "ปรับแต่งรายการคลิกขวา"
+    },
+    "OriginalPath": "ต้นทาง",
+    "Add": "เพิ่ม",
+    "Edit": "แก้ไข",
+    "Remove": "ลบ",
+    "SettingsMultitaskingAlwaysOpenDualPane": "เปิดแท็บในโหมดบานหน้าต่างคู่",
+    "ShowOpenInNewPane": "แสดงตัวเลือก เปิดโฟลเดอร์ในบางหน้าต่างใหม่",
+    "ShowCopyPath": "แสดงตัวเลือก คัดคอกเส้นทาง",
+    "ShowCreateFolderWithSelection": "แสดงตัวเลือก สร้างโฟลเดอร์จากส่วนที่เลือก",
+    "ShowCreateShortcut": "แสดงตัวเลือก สร้างทางลัด",
+    "NavigationToolbarNewPane": {
+        "Label": "เพิ่มหน้าต่างแยก"
+    },
+    "OpenInNewPane": "เปิดในบานหน้าต่างใหม่",
+    "FilesAndFolders": "ไฟล์และโฟลเดอร์",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "รายละเอียด (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "เรียงต่อกัน (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "วันที่ลบ",
+    "SidebarCloudDrives": "ไดร์ฟออนไลน์",
+    "Confirm": "ยืนยัน",
+    "DesiredName": "ชื่อที่ต้องการ",
+    "TogglePreviewPane": "เปิดปิดบานหน้าต่างแสดงตัวอย่าง",
+    "ToggleDetailsPane": "Toggle the details pane",
+    "ToggleDetailsPaneDescription": "Toggle the details pane to view basic file properties",
+    "ToggleInfoPane": "Toggle the info pane",
+    "ToggleInfoPaneDescription": "Toggle the info pane to view the detail/preview panes",
+    "DetailsPanePreviewNotAvaliableText": "ไม่มีตัวอย่างให้ดู",
+    "PropertyItemName": "ชื่อไอเทม",
+    "UnpinFolderFromSidebar": "นำออกจากแถบด้านข้าง",
+    "Network": "เครือข่าย",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "รายละเอียดไฟล์"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "ตัวอย่างไฟล์"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "บานหน้าต่างแสดงรายละเอียดไฟล์ที่เลือก"
+        }
+    },
+    "Feedback": "ข้อเสนอแนะ",
+    "CloudDriveSyncStatus_Online": "พร้อมใช้งานขณะออนไลน์",
+    "Documentation": "เอกสารประกอบ",
+    "CloudDriveSyncStatus_Offline": "พร้อมใช้งานแล้ว",
+    "CloudDriveSyncStatus_PartialOffline": "พร้อมใช้งานเป็นบางส่วน",
+    "CloudDriveSyncStatus_Sync": "กำลังซิงค์",
+    "CloudDriveSyncStatus_Excluded": "ถูกห้ามไม่ให้ซิงค์",
+    "ItemSizeNotCalculated": "ยังไม่ทราบ",
+    "CloudDriveSyncStatus_Unknown": "ไม่ทราบ",
+    "RenameFileDialog": {
+        "Text": "เมื่อคุณเปลี่ยนนามสกุลไฟล์อาจทำให้ไฟล์ไม่สามารถใช้งานได้. คุณแน่ใจว่าต้องการทำต่อใช่หรือไม่?"
+    },
+    "DriveTypeCDRom": "ไดร์ฟซีดีรอม",
+    "DriveTypeCloudDrive": "ไดร์ฟออนไลน์",
+    "DriveTypeFixed": "ไดร์ฟฝังเครื่อง",
+    "DriveTypeFloppyDisk": "ฟล็อปปี้ดิสก์",
+    "DriveTypeNetwork": "ไดร์ฟเครือข่าย",
+    "DriveTypeNoRootDirectory": "ไดร์ฟที่ถอดไปแล้ว",
+    "DriveTypeRam": "ไดร์ฟบนแรม",
+    "DriveTypeRemovable": "ไดร์ฟพกพา",
+    "DriveTypeUnknown": "ไม่ทราบ",
+    "DriveTypeVirtualDrive": "ไดร์ฟจำลอง",
+    "DateCreated": "สร้างเมื่อ",
+    "MoreOptions": "ตัวเลือกเพิ่มเติม...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "เพิ่มตำแหน่งบนเครือข่าย"
+    },
+    "Pinned": "ปักหมุดไว้",
+    "SidebarLibraries": "คลัง",
+    "NoItemSelected": "ไม่มีรายการที่เลือก",
+    "PropertyItemTarget": "เป้าหมาย",
+    "Arguments": "อากิวเม้นต์",
+    "Default": "ค่าเริ่มต้น",
+    "PropertyItemCount": "จำนวนรายการ",
+    "ElevateConfirmDialog": {
+        "Title": "การกระทำนี้ต้องการสิทธ์จากผู้ดูแล",
+        "Content": "คุณต้องการขอสิทธิ์ผู้ดูแลเลยไหม?"
+    },
+    "ColumnsShortcutTooltip": "แถวเรียง (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "ปักไว้ในเมนูเริ่ม"
+    },
+    "UnpinItemFromStart": {
+        "Text": "นำออกจากเมนูเริ่ม"
+    },
+    "Library": "คลัง",
+    "LibraryLocations": {
+        "Text": "ที่ตั้ง:"
+    },
+    "SetAsDefaultSavePath": "ตั้งเป็นจุดบันทึกไฟล์เริ่มต้น",
+    "LibraryNoLocations": {
+        "Text": "ยังไม่ได้ระบุตำแหน่ง"
+    },
+    "ErrorInputEmpty": "ชื่อกลุ่มไม่สามารถเว้นว่างได้",
+    "ErrorNameInputRestrictedCharacters": "ไม่สามารถมีอักษรเหล่านี้ในชื่อได้: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "ไม่สามารถใช้ชื่อนี้ได้!",
+    "CreateLibraryErrorAlreadyExists": "คลังอื่นใช้ชื่อนี้ไปแล้ว!",
+    "OpenStorageSense": "เปิดที่เก็บข้อมูลอัจฉรียะ",
+    "Copy": "คัดลอก",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "ย้าย",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "ทำต่อไป",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "ลบถาวร"
+    },
+    "PropertyISO": "ความเร็ว ISO",
+    "ReplaceExisting": "แทนที่ของเดิม",
+    "GenerateNewName": "สุ่มชื่อใหม่ขึ้นมา",
+    "CreateFolderWithSelection": "สร้างโฟลเดอร์จากส่วนที่เลือก",
+    "ItemType": "ชนิดไฟล์:",
+    "ToolTipDescriptionDate": "วันที่ปรับเปลี่ยน:",
+    "OpenWith": "เปิดด้วย",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "ไอคอมไฟล์"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "แถวเส้นทางต้นฉบับ"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "แถวประเภทแฟ้ม"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "แถววันที่ปรับเปลี่ยน"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "แถววันที่ถูกลบ"
+    },
+    "Sort": "เรียง",
+    "DateModifiedLowerCase": "วันที่ปรับเปลี่ยน",
+    "OriginalFolder": "โฟลเดอร์ต้นฉบับ",
+    "Descending": "จากมากไปน้อย",
+    "ItemSizeText_Huge": "ใหญ่มาก ๆ",
+    "ItemSizeText_VeryLarge": "ใหญ่มาก",
+    "ItemSizeText_Large": "ใหญ่",
+    "ItemSizeText_Medium": "กลาง",
+    "ItemSizeText_Small": "เล็ก",
+    "ItemSizeText_Tiny": "เล็กจิ๋ว",
+    "Future": "อนาคต",
+    "Today": "วันนี้",
+    "Yesterday": "เมื่อวาน",
+    "EarlierThisWeek": "อาทิตย์นี้",
+    "LastWeek": "อาทิตย์ที่แล้ว",
+    "EarlierThisMonth": "ในเดือนนี้",
+    "LastMonth": "เดือนก่อน",
+    "EarlierThisYear": "ในปีนี้",
+    "LastYear": "ปีที่แล้ว",
+    "YearN": "ปี {0}",
+    "GroupItemsCount_Singular": "{0} รายการ",
+    "GroupItemsCount_Plural": "{0} รายการ",
+    "ReopenClosedTab": "เปิดแท็บที่ปิดขึ้นใหม่",
+    "Rename": "เปลี่ยนชื่อ",
+    "Privacy": "ความเป็นส่วนตัว",
+    "TheRecycleBin": "รีไซเคิล",
+    "Canceling": "กำลังยกเลิก",
+    "Clear": "ล้าง",
+    "Widgets": "วิตเจท",
+    "SyncStatus": "สถานะการซิงค์",
+    "Security": "ความปลอดภัย",
+    "AdvancedPermissions": "สิทธิ์ขั้นสูง",
+    "Allow": "อนุญาต",
+    "Deny": "ปฏิเสธ",
+    "SecurityFullControlLabel": {
+        "Text": "ควบคุมทั้งหมด"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "แสดงรายการเนื้อหาโฟลเดอร์"
+    },
+    "Modify": "ปรับเปลี่ยน",
+    "SecurityPermissionsHeaderText": "สิทธิสำหรับ {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "อ่านและดำเนินการ"
+    },
+    "SecurityReadLabel": {
+        "Text": "อ่าน"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "ชื่อกลุ่มหรือชื่อผู้ใช้"
+    },
+    "Write": "เขียน",
+    "SecurityUnknownAccount": "นิรนาม",
+    "SecurityCannotReadProperties": {
+        "Text": "คุณต้องมีสิทธิ์ในการอ่านเพื่อดูคุณสมบัติของไฟล์นี้ คลิก \"ขั้นสูง\" เพื่อดำเนินการต่อ"
+    },
+    "SecurityOwnerLabel": {
+        "Text": "เจ้าของ:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "เจ้าของไม่ทราบชื่อ"
+    },
+    "ExtractArchive": "การแยกไฟล์",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "เปิดโฟลเดอร์ปลายทางเมื่อแยกไฟล์เสร็จ"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "แยกไฟล์ไปที่ {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "สร้างคลังใหม่"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "เรียกคืนคลังเริ่มต้น"
+    },
+    "DialogRestoreLibrariesSubtitleText": "คุณแน่แล้วใช่หรือไม่ที่จะเรียกคืนคลังเป็นค่าเริ่มต้นตามเดิม? ไฟล์ในคลังจะไม่หายไปไหน.",
+    "DialogRestoreLibrariesTitleText": "คืนค่าคลัง",
+    "PropertyFileOwner": "เจ้าของ",
+    "SecuritySpecialLabel": {
+        "Text": "พิเศษ"
+    },
+    "Access": "การเข้าถึง",
+    "SecurityAdvancedAppliesTo": "นำไปใช้กับ",
+    "Principal": "รายการหลัก",
+    "SecurityAdvancedFlagsFilesLabel": "ไฟล์",
+    "SecurityAdvancedFlagsFolderLabel": "โฟลเดอร์นี้",
+    "SecurityAdvancedFlagsSubfoldersLabel": "โฟลเดอร์ย่อย",
+    "Inherited": "สืบทอด",
+    "Permissions": "รายการสิทธิ",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "คุณไม่มีสิทธิ์เข้าถึงที่จะสามารถดูข้อมูลเกี่ยวกับเจ้าของและสิทธิ์ของไฟล์นี้. คุณสามารถเปลี่ยนเจ้าของเพื่อดูสิทธิ์ได้."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "โฟลเดอร์นี้และไฟล์ในโฟลเดอร์นี้"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "โฟลเดอร์นี้, โฟลเดอร์ย่อย, และไฟล์ทุกอัน"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "ไฟล์เท่านั้น"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "โฟลเดอร์ย่อยเท่านั้น"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "แค่โฟลเดอร์และไฟล์ข้างใน"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "แค่โฟลเดอร์เท่านั้น"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "โฟลเดอร์นี้และไฟล์ข้างใน"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "เขียนข้อมูลต่อจากเดิม"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "เปลี่ยนการกำหนดสิทธิ์"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "สร้างโฟลเดอร์"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "สร้างไฟล์"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "ลบโฟลเดอร์ย่อยและไฟล์"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "เปิดไฟล์ (ในฐานะโปรแกรม)"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "อ่านคุณสมบัติ"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "อ่านข้อมูล"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "อ่านคุณสมบัติเพิ่มเติม"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "อ่านสิทธิการเข้าถึง"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "ยึดถือสิทธิเป็นเจ้าของ"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "เข้าดูโฟลเดอร์"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "เขียนคุณสมบัติไฟล์"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "เขียนข้อมูล"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "เขียนคุณสมบัติเพิ่มเติม"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "เปลี่ยนสิทธิการสืบทอดเป็นสิทธิระบุเอง"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "เปิดสิทธิสืบทอด"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "ลบสิทธิสืบทอดทั้งหมด"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "รีเซทสิทธิผู้สืบทอด"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "แทนที่สิทธิผู้สืบทอดทั้งหมดด้วยการตั้งสิทธิ์สืบทอดจากสิ่งนี้"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "ปิดหน้านี้"
+    },
+    "EnterCompactOverlay": "เปิดใช้งานหน้าต่างย่อ",
+    "ExitCompactOverlay": "ออกจากหน้าต่างย่อ",
+    "PropertyFileDescription": "คำอธิบายไฟล์",
+    "PropertyCompany": "บริษัท",
+    "PropertyLanguage": "ภาษา",
+    "PropertyTrademarks": "เครื่องหมายการค้า",
+    "PropertyFileVersion": "เวอร์ชั่นไฟล์",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "แสดงตัวอย่างแบบเต็ม",
+        "ToolTipService": {
+            "ToolTip": "ดาวน์โหลดไฟล์จากออนไลน์และแสดงภาพตัวอย่างขนาดเล็ก"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "ขนาดที่ไม่บีบอัด",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "ซ่อนกลุ่ม {0}"
+    },
+    "AddFile": "เพิ่มไฟล์",
+    "ConsentDialogTitle": "มีการอัพเดตใหม่",
+    "ConsentDialogContent": "อัพเดตพร้อมติดตั้งแล้ว",
+    "Close": "ปิด",
+    "ConsentDialogPrimaryButtonText": "อัพเดต",
+    "Home": "หน้าแรก",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "แยกไฟล์เสร็จสมบูรณ์",
+    "ExtractingArchiveText": "กำลังแยกไฟล์",
+    "ExtractingCompleteText": "แยกไฟล์เสร็จแล้ว",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "เปิดโฟลเดอร์หลัก"
+    },
+    "Unknown": "ไม่ทราบ",
+    "EditTags": "แก้ไขแท็ก",
+    "PropertyPartOfSet": "ส่วนของชุด",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "เปิดไดร์ฟ",
+        "Text": "กรุณาใส่แผ่นเข้าไปในไดร์ฟ {0}",
+        "Title": "ใส่แผ่น"
+    },
+    "OK": "ตกลง",
+    "AskCredentialDialog": {
+        "Title": "ต้องการข้อมูลประจำตัว"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "นิรนาม"
+    },
+    "CredentialDialogDescription": {
+        "Text": "กรอกข้อมูลเข้าสู่ระบบ:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "ชื่อผู้ใช้"
+    },
+    "NoSearchResultsFound": "ไม่มีรายการที่ค้น",
+    "OpenLogLocation": "เปิดที่ตั้งไฟล์บันทึก",
+    "LinkToFolderCaptionText": "สร้างทางลัดไว้ใน {0}",
+    "Columns": "คอลัมน์",
+    "Tiles": "ไทล์",
+    "OpenFoldersInNewTab": "เปิดโฟลเดอร์ในแท็บใหม่",
+    "StatusCenter": "ศูนย์รวมสถานะ",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "แถววันที่สร้าง"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "แถวขนาดแฟ้ม"
+    },
+    "ExperimentalFeatureFlags": "คุณลักษณะทดลอง",
+    "HelpAndSupport": "ความช่วยเหลือและการสนับสนุน",
+    "SubmitFeatureRequest": "ส่งคำร้องขอคุณสมบัติ",
+    "SubmitBugReport": "ส่งรายงานข้อผิดพลาด",
+    "SettingsSetAsDefaultFileManager": "ตั้งโปรแกรมนี้เป็นโปรแกรมจัดการไฟล์เริ่มต้น",
+    "SettingsSetAsOpenDialog": "ใช้โปรแกรมนี้เป็นโปรแกรมระบุหาไฟล์",
+    "Tag": "แท็ก",
+    "SettingsOpenItemsWithOneClick": "คลิกครั้งเดียวเพื่อเปิดรายการ",
+    "FolderPath": "เส้นทางโฟลเดอร์",
+    "ExportSettings": "ส่งออกการตั้งค่า",
+    "ImportSettings": "นำเข้าการตั้งค่า",
+    "SettingsImportErrorDescription": "ไม่สามารถนำเข้าตั้งค่า. ไฟล์ตั้งค่าเสียหาย",
+    "SettingsImportErrorTitle": "ไม่สามารถนำเข้าตั้งค่าได้",
+    "EmptyRecycleBin": "ล้างข้อมูลในถังรีไซเคิล",
+    "Sidebar": "แถบด้านข้าง",
+    "ChooseCustomIcon": "เลือกไอคอนใหม่สำหรับโฟลเดอร์",
+    "Customization": "ปรับแต่ง",
+    "RestoreDefault": "คืนค่าเริ่มต้น",
+    "OpenTabInExistingInstance": "Open tab in existing instance when opening Files from another app",
+    "StartupSettings": "การตั้งค่าเมื่อเริ่มต้น",
+    "Compatibility": "ความเข้ากันได้",
+    "None": "ไม่มี",
+    "CompatibilityOnWindowsLogin": "เมื่อเข้าสู่ระบบ",
+    "CompatibilityOnProgramStart": "เมื่อโปรแกรมนี้เริ่มทำงาน",
+    "System": "ระบบ",
+    "CompatibilitySystemEnhanced": "ระบบ (ขั้นสูง)",
+    "CompatibilityReducedColorModeColor16bit": "16 บิต (65536) สี",
+    "CompatibilityReducedColorModeColor8bit": "8 บิต (256) สี",
+    "CompatibilityDisableFullscreenOptimizations": "ปิดใช้งานการปรับการทำงานเต็มจอให้เหมาะสมที่สุด",
+    "CompatibilityRunIn640x480Resolution": "ทำงานในความละเอียดหน้าจอ 640 x 480",
+    "CompatibilityOverrideHighDPIBehavior": "เปลี่ยนรูปแบบพฤติกรรมการปรับเปลี่ยนขนาดตาม DPI",
+    "CompatibilityReducedColorMode": "โหมดลดปริมาณสี",
+    "CompatibilityRegisterThisProgramForRestart": "ลงทะเบียนโปรแกรมนี้สำหรับการเริ่มต้นใหม่",
+    "RunAsAdministrator": "เรียกใช้ในฐานะผู้ดูแล",
+    "CompatibilityRunTroubleshooter": "เรียกใช้ตัวแก้ปัญหาความเข้ากันได้",
+    "CompatibilityUseDPISettings": "ใช้การตั้งค่า DPI เดียวกับจอแสดงผลหลัก",
+    "CompatibilityDoNotAdjustDPI": "ไม่ต้องปรับ DPI",
+    "CompatibilityDoNotOverrideDPI": "ไม่ต้องแทนที่ DPI",
+    "CompatibilityMode": "โหมดความเข้ากันได้",
+    "CompatibilityNoReducedColor": "ไม่มีการลดสี",
+    "ThirdPartyLicenses": "ใบอนุญาตจากบุคคลที่สาม",
+    "SettingsSetAsDefaultFileManagerDescription": "ตัวเลือกนี้แก้ไขรีจิสทรีของระบบซึ่งอาจทำให้เกิดผลข้างเคียงขึ้นได้ ดำเนินการต่อด้วยความเสี่ยงของคุณเอง",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "สร้างคลัง",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "ระบุชื่อคลัง",
+    "CalculateFolderSizes": "คำนวณขนาดของโฟลเดอร์",
+    "RecentFiles": "ไฟล์ล่าสุด",
+    "SettingsOpenInLogin": "เปิด Files เมื่อวินโดว์เริ่มทำงาน",
+    "Attributes": "คุณสมบัติ",
+    "Hidden": "ซ่อน",
+    "MoreDetails": "รายละเอียดเพิ่มเติม",
+    "ReadOnly": "อ่านอย่างเดียว",
+    "CleanupDrive": "Cleanup your drive contents",
+    "Type": "ประเภท",
+    "Bytes": "ไบต์",
+    "Extract": "แยกไฟล์",
+    "ExtractFiles": "แยกไฟล์ออกมา",
+    "ExtractHere": "แยกไฟล์ที่นี่",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "แยกไฟล์ไปที่ {0}",
+    "RunScript": "เรียกใช้สคริปต์",
+    "RunWithPowerShell": "Run with PowerShell",
+    "ShowFolderSizesWarning": "การคำนวณขนาดของโฟลเดอร์ใช้ทรัพยากรค่อนข้างสูง",
+    "RotateLeft": "หมุน​ไปทางซ้าย",
+    "RotateRight": "หมุน​ไปทางขวา",
+    "Install": "ติดตั้ง",
+    "CloseTabsToTheLeft": "ปิดแท็บทั้งหมดที่อยู่ด้านซ้าย",
+    "CloseTabsToTheRight": "ปิดแท็บทั้งหมดที่อยู่ด้านขวา",
+    "CloseOtherTabs": "ปิดแท็บอื่น ๆ ทั้งหมด",
+    "Music": "เพลง",
+    "Pictures": "รูปภาพ",
+    "UpdateFiles": "อัปเดต Files",
+    "FileTags": "แท็ก",
+    "Universal": "สากล",
+    "DateFormatSample": "ตัวอย่างเช่น: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "แสดงภาพขนาดย่อ",
+    "Retry": "ลองอีกครั้ง",
+    "ErrorDialogUnsupportedMoveOperation": "การย้ายไม่รองรับในบริบทนี้ ต้องการคัดลอกแทนหรือไม่",
+    "HiddenItems": "รายการที่ซ่อนอยู่",
+    "Custom": "กำหนดเอง",
+    "SetAsSlideshow": "ตั้งเป็นสไลด์โชว์เดสก์ท็อป",
+    "SizeAllColumnsToFit": "Size all columns to fit",
+    "Adaptive": "เลือกเค้าโครงที่ดีที่สุดโดยอัตโนมัติ",
+    "AdaptiveShortcutTooltip": "Adaptive (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "แสดง Alternate Data Streams",
+    "Behaviors": "ลักษณะการทำงาน",
+    "ReviewFiles": "แสดงคำวิจารณ์แอป",
+    "ReviewFilesContent": "คุณต้องการให้คำวิจารณ์แอปนี้ไหม??",
+    "SetAsBackgroundFlyout": "ตั้งเป็นพื้นหลัง",
+    "SetAsBackground": "ตั้งเป็นพื้นหลังของเดสก์ท็อป",
+    "SetAsDefault": "ตั้งเป็นค่าเริ่มต้น",
+    "DateColumn": "แถววันที่",
+    "DateCreatedColumn": "แถววันที่สร้าง",
+    "SizeColumn": "แถวขนาด",
+    "TagColumn": "แถวแท็ก",
+    "TypeColumn": "แถวประเภท",
+    "Lockscreen": "หน้าจอล็อก",
+    "OpenFolderWithOneClickColumnsLayout": "Open folders with a single click in the Columns Layout",
+    "OpeningItems": "การเปิดรายการ",
+    "Compress": "บีดอัด",
+    "SelectFilesAndFoldersOnHover": "Select files and folders when hovering over them",
+    "ConfirmRestoreBinDialogContent": "Are you sure you want to restore all items in the recycle bin?",
+    "ConfirmRestoreBinDialogTitle": "คืนค่ารายการทั้งหมด",
+    "ConfirmRestoreSelectionBinDialogContent": "Do you want to restore the {0} selected item(s)?",
+    "ConfirmRestoreSelectionBinDialogTitle": "คืนค่าส่วนที่เลือก",
+    "RestoreAllItems": "คืนค่ารายการทั้งหมด",
+    "Restore": "คืนค่า",
+    "ShortcutCannotBeOpened": "ไม่สามารถเปิดใช้ทางลัดได้",
+    "DeleteShortcutDescription": "The target destination cannot be found {0}. Do you want to delete this shortcut?",
+    "AccessDeniedToFolder": "คุณไม่มีสิทธิ์ในการเข้าถึงโฟลเดอร์นี้",
+    "ArchivePassword": "รหัสผ่านไฟล์จัดเก็บ",
+    "ExtractToPath": "แยกไปที่",
+    "SortingAndGrouping": "การเรียงลำดับและการจัดกลุ่ม...",
+    "CreateArchive": "สร้างไฟล์จัดเก็บ",
+    "Create": "สร้าง",
+    "CreateNamedArchive": "สร้าง {0}",
+    "EnterName": "ใส่ชื่อ",
+    "CompressionLevel": "ระดับการบีบอัด",
+    "CompressionLevelUltra": "สูงสุด",
+    "CompressionLevelHigh": "สูง",
+    "CompressionLevelNormal": "ปกติ",
+    "CompressionLevelLow": "ตํ่า",
+    "CompressionLevelFast": "รวดเร็ว",
+    "CompressionLevelNone": "ไม่มี",
+    "SplittingSize": "ขนาดแบ่งส่วน",
+    "Do not split": "ไม่แยก",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "การเข้ารหัส",
+    "Password": "รหัสผ่าน",
+    "Format": "รูปแบบ",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Sync status column"
+    },
+    "GroupBy": "จัดกลุ่มโดย",
+    "SortBy": "เรียงลำดับตาม",
+    "GroupInDescendingOrder": "จัดกลุ่มจากมากไปน้อย",
+    "SortInDescendingOrder": "เรียงลำดับจากมากไปน้อย",
+    "NewShortcutDialogTitle": "สร้างทางลัดใหม่",
+    "NewShortcutDialogDescription": "สร้างทางลัดไปยังโปรแกรม, ไฟล์, โฟลเดอร์, คอมพิวเตอร์, หรือที่อยู่อินเทอร์เน็ต ที่อยู่ในคอมพิวเตอร์หรือเครือข่ายของคุณ",
+    "NewShortcutDialogPrompt": "ป้อนที่อยู่ของรายการ",
+    "AddDialogListShortcutSubHeader": "สร้างทางลัด",
+    "RecentFilesDisabledOnWindowsWarning": "Recently used files is currently disabled in Windows File Explorer.",
+    "EditSettingsFile": "แก้ไขไฟล์ตั้งค่า",
+    "WhatsNew": "มีอะไรใหม่",
+    "CannotCreateShortcutDialogTitle": "การสร้างทางลัดไปยังที่ตั้งนี้จำเป็นต้องใช้สิทธิ์ผู้ดูแลระบบ",
+    "CannotCreateShortcutDialogMessage": "Would you like to create the shortcut on the desktop instead?",
+    "ErrorDialogNameNotAllowed": "The specified item name is invalid",
+    "Settings": "ตั้งค่า",
+    "DoubleClickBlankSpaceToGoUp": "คลิกสองครั้งตรงที่ว่างเพื่อขึ้นไปหนึ่งไดเรกทอรี",
+    "ViewMore": "ดูเพิ่มเติม",
+    "ShowEditTagsMenu": "แสดงเมนูแก้ไขแท็ก",
+    "ShowCompressionOptions": "แสดงตัวเลือกการบีบอัด",
+    "ShowSendToMenu": "แสดงเมนูส่งไปยัง",
+    "ShowOpenInNewTab": "แสดงตัวเลือก เปิดโฟลเดอร์ในแท็บใหม่",
+    "ShowOpenInNewWindow": "แสดงตัวเลือก เปิดโฟลเดอร์ในหน้าต่างใหม่",
+    "QuickAccess": "การเข้าถึงด่วน",
+    "NetworkAuthenticationDialogMessage": "ป้อนข้อมูลประจำตัวเครือข่ายเพื่อเชื่อมต่อไปยัง {0}",
+    "NetworkAuthenticationDialogTitle": "ป้อนข้อมูลประจำตัวเครือข่าย",
+    "NetworkAuthenticationSaveCheckbox": "จดจำข้อมูลประจำตัวของฉัน",
+    "NetworkFolderErrorDialogTitle": "โฟลเดอร์เครือข่ายผิดพลาด",
+    "AppVersion": "เวอร์ชันแอป",
+    "WindowsVersion": "เวอร์ชั่นวินโดวส์",
+    "Always": "เสมอ",
+    "PermanentDeletionOnly": "ลบถาวรเท่านั้น",
+    "Never": "ไม่เลย",
+    "TagColor": "สีแท็ก",
+    "NewTag": "แท็กใหม่",
+    "CreateNewTag": "สร้างแท็กใหม่",
+    "Loading": "กำลังโหลด...",
+    "ContextMenuOptions": "Context menu options",
+    "ShowFileExtensions": "แสดงนามสกุลไฟล์",
+    "ShowHiddenItems": "แสดงรายการที่ซ่อน",
+    "FormatDriveText": "จัดรูปแบบ...",
+    "Help": "ช่วยเหลือ",
+    "FullScreen": "สลับแบบเต็มหน้าจอ",
+    "ConfirmDeleteTag": "คุณแน่ใจแล้วใช่ไหมที่จะลบแท็กนี้?",
+    "PlayAll": "เล่นทั้งหมด",
+    "Height": "ความสูง",
+    "Width": "ความกว้าง",
+    "ApplyToAllConflictingItems": "Apply this action to all conflicting items",
+    "OpenTerminal": "เปิดในวินโดว์เทอร์มินัล",
+    "OpenTerminalAsAdmin": "เปิดในวินโดว์เทอร์มินัล (ผู้ดูแลระบบ)",
+    "Save": "บันทึก",
+    "MultiSelect": "เลือกด้วยการกาเช็ค",
+    "ReorderSidebarItemsDialogText": "เรียงรายการแถบด้านข้าง",
+    "Hashes": "แฮช",
+    "CalculationError": "เกิดข้อผิดพลาดในระหว่างการคำนวณ",
+    "CalculationErrorFileIsOpen": "ไม่สามารถคำนวณแฮชได้ กรุณาลองปิดไฟล์นั้นแล้วลองใหม่อีกครั้ง",
+    "CalculationOnlineFileHashError": "Hashes aren't available for online files",
+    "Algorithm": "อัลกอริทึม",
+    "HashValue": "ค่าแฮช",
+    "SelectHashesToShow": "เลือกแฮชที่ต้องการแสดง",
+    "Calculating": "กำลังคำนวณ",
+    "JumpListPinnedGroupHeader": "รายการที่ปักหมุดไว้",
+    "DecreaseSize": "ลดขนาด",
+    "IncreaseSize": "เพิ่มขนาด",
+    "ToggleSortDirection": "Toggle sort direction",
+    "InvalidTagNameWarning": "ชื่อไม่ถูกต้อง",
+    "TagNameRules": "ชื่อต้องไม่เว้นว่างหรือเริ่ม/จบด้วยมหัพภาค",
+    "Videos": "วีดีโอ",
+    "LaunchPreviewPopup": "Launch preview popup",
+    "ToggleCompactOverlay": "Toggle compact overlay",
+    "OpenHelpDescription": "เปิดหน้าต่างช่วยเหลือในเบราว์เซอร์",
+    "ToggleFullScreenDescription": "สลับแบบเต็มหน้าจอ",
+    "EnterCompactOverlayDescription": "เปิดใช้งานหน้าต่างย่อ",
+    "ExitCompactOverlayDescription": "ออกจากหน้าต่างย่อ",
+    "ToggleCompactOverlayDescription": "Toggle compact overlay",
+    "SearchDescription": "ไปที่ช่องค้นหา",
+    "ToggleShowHiddenItemsDescription": "Toggle whether to show hidden items",
+    "ToggleShowFileExtensionsDescription": "Toggle whether to show file extensions",
+    "TogglePreviewPaneDescription": "Toggle the preview pane to view file previews",
+    "ToggleSidebarDescription": "Toggle whether to show sidebar",
+    "CopyItemDescription": "คัดลอกรายการไปยังคลิปบอร์ด",
+    "CopyPathDescription": "Copy path of selected items to the clipboard",
+    "CopyPathWithQuotesDescription": "Copy path of selected items with quotes to the clipboard",
+    "CutItemDescription": "ตัดรายการไปยังคลิปบอร์ด",
+    "PasteItemDescription": "วางรายการจากคลิปบอร์ดไปยังโฟลเดอร์ปัจจุบัน",
+    "PasteItemToSelectionDescription": "วางรายการจากคลิปบอร์ดไปยังโฟลเดอร์ที่เลือก",
+    "DeleteItemDescription": "กำลังลบรายการ",
+    "CreateFolderDescription": "สร้างโฟลเดอร์ใหม่",
+    "CreateShortcutDescription": "Create new shortcut(s) to selected item(s)",
+    "CreateShortcutFromDialogDescription": "Create new shortcut to any item",
+    "EmptyRecycleBinDescription": "ล้างข้อมูลในถังรีไซเคิล",
+    "FormatDriveDescription": "Open \"Format Drive\" menu for selected item",
+    "RestoreRecycleBinDescription": "Restore selected item(s) from recycle bin",
+    "RestoreAllRecycleBinDescription": "Restore all items from recycle bin",
+    "OpenItemDescription": "เปิดรายการ",
+    "OpenItemWithApplicationPickerDescription": "เปิดรายการด้วยแอปที่เลือก",
+    "OpenParentFolderDescription": "Open parent folder of searched item",
+    "RefreshItemsDescription": "รีเฟรชเนื้อหาของหน้า",
+    "RenameDescription": "เปลี่ยนชื่อรายการที่เลือก",
+    "SelectAllDescription": "เลือกรายการทั้งหมด",
+    "InvertSelectionDescription": "สลับการเลือกรายการ",
+    "ClearSelectionDescription": "ล้างส่วนรายการที่เลือก",
+    "ToggleSelectDescription": "Toggle item selection",
+    "ShareItemDescription": "Share selected file(s) with others",
+    "PinToStartDescription": "Pin item(s) to the Start Menu",
+    "UnpinFromStartDescription": "Unpin item(s) from the Start Menu",
+    "PinFolderToSidebarDescription": "ปักหมุดโฟลเดอร์ยังที่แถบด้านข้าง",
+    "UnpinFolderFromSidebarDescription": "นำโฟลเดอร์ออกจากแถบด้านข้าง",
+    "SetAsWallpaperBackgroundDescription": "ตั้งค่าพื้นหลังเดสก์ท็อปจากรูปที่เลือก",
+    "SetAsSlideshowBackgroundDescription": "ตั้งค่าสไลด์โชว์เดสก์ท็อปจากรูปที่เลือก",
+    "SetAsLockscreenBackgroundDescription": "ตั้งค่าพื้นหลังหน้าจอล็อคจากรูปที่เลือก",
+    "SetAsAppBackgroundDescription": "Set selected picture as the app background",
+    "InstallFontDescription": "ติดตั้งแบบอักษรที่เลือก",
+    "InstallInfDriverDescription": "ติดตั้งไดรเวอร์โดยใช้ไฟล์ INF",
+    "InstallCertificateDescription": "ติดตั้งใบรับรองที่เลือก",
+    "RunAsAdminDescription": "Run selected application as administrator",
+    "RunAsAnotherUserDescription": "Run selected application as another user",
+    "RunWithPowershellDescription": "Run selected PowerShell script",
+    "LaunchPreviewPopupDescription": "Launch preview in popup window",
+    "CompressIntoArchiveDescription": "Create archive with selected item(s)",
+    "CompressIntoSevenZipDescription": "Create 7z archive instantly with selected item(s)",
+    "CompressIntoZipDescription": "Create zip archive instantly with selected item(s)",
+    "DecompressArchiveDescription": "Extract items from selected archive(s) to any folder",
+    "DecompressArchiveHereDescription": "Extract items from selected archive(s) to current folder",
+    "DecompressArchiveToChildFolderDescription": "Extract items from selected archive(s) to new folder",
+    "RotateLeftDescription": "หมุนรูปที่เลือกไว้ไปทางซ้าย",
+    "RotateRightDescription": "หมุนรูปที่เลือกไว้ไปทางขวา",
+    "OpenSettingsDescription": "เปิดแผงตั้งค่า",
+    "OpenTerminalDescription": "เปิดโฟลเดอร์ในเทอร์มินัล",
+    "OpenTerminalAsAdminDescription": "เปิดโฟลเดอร์ในเทอร์มินัล (ผู้ดูแลระบบ)",
+    "LayoutDecreaseSizeDescription": "Decrease item size in the current view",
+    "LayoutIncreaseSizeDescription": "Increase item size in the current view",
+    "LayoutDetailsDescription": "สลับเป็นเค้าโครงละเอียด",
+    "LayoutTilesDescription": "สลับเป็นเค้าโครงไทล์",
+    "LayoutListDescription": "สลับเป็นเค้าโครงรายการ",
+    "List": "รายการ",
+    "Grid": "ตาราง",
+    "LayoutGridDescription": "สลับเป็นเค้าโครงตาราง",
+    "LayoutColumnsDescription": "Switch to columns view",
+    "LayoutAdaptiveDescription": "Switch views adaptively",
+    "SortByNameDescription": "เรียงรายการตามชื่อ",
+    "SortByDateModifiedDescription": "เรียงรายการตามวันที่ปรับเปลี่ยน",
+    "SortByDateCreatedDescription": "เรียงรายการตามวันที่สร้าง",
+    "SortBySizeDescription": "เรียงรายการตามขนาด",
+    "SortByTypeDescription": "เรียงรายการตามประเภท",
+    "SortBySyncStatusDescription": "เรียงรายการตามสถานะการซิงค์",
+    "SortByTagDescription": "เรียงรายการตามแท็ก",
+    "SortByOriginalFolderDescription": "Sort items by original folder",
+    "SortByDateDeletedDescription": "เรียงรายการตามวันที่ลบ",
+    "SortAscendingDescription": "เรียงรายการจากน้อยไปมาก",
+    "SortDescendingDescription": "เรียงรายการจากมากไปน้อย",
+    "ToggleSortDirectionDescription": "Toggle item sort direction",
+    "GroupByNoneDescription": "List items without grouping",
+    "GroupByNameDescription": "จัดกลุ่มรายการตามชื่อ",
+    "GroupByDateModifiedDescription": "จัดกลุ่มรายการตามวันที่ปรับเปลี่ยน",
+    "GroupByDateCreatedDescription": "จัดกลุ่มรายการตามวันที่สร้าง",
+    "GroupBySizeDescription": "จัดกลุ่มรายการตามขนาด",
+    "GroupByTypeDescription": "จัดกลุ่มรายการตามประเภท",
+    "GroupBySyncStatusDescription": "จัดกลุ่มรายการตามสถานะการซิงค์",
+    "GroupByTagDescription": "จัดกลุ่มรายการตามแท็ก",
+    "GroupByOriginalFolderDescription": "Group items by original folder",
+    "GroupByDateDeletedDescription": "จัดกลุ่มรายการตามวันที่ลบ",
+    "GroupByFolderPathDescription": "จัดกลุ่มรายการตามอยู่ที่โฟลเดอร์",
+    "GroupAscendingDescription": "เรียงกลุ่มจากน้อยไปมาก",
+    "GroupDescendingDescription": "เรียงกลุ่มจากมากไปน้อย",
+    "ToggleGroupDirectionDescription": "Toggle group sort direction",
+    "NewTabDescription": "เปิดแท็บใหม่",
+    "NavigateBackDescription": "Navigate backward in navigation history",
+    "NavigateForwardDescription": "Navigate forward in navigation history",
+    "NavigateUpDescription": "Navigate up one directory",
+    "DuplicateCurrentTabDescription": "ทำซ้ำแท็บปัจจุบัน",
+    "DuplicateSelectedTabDescription": "ทำซ้ำแท็บที่เลือก",
+    "CloseTabsToTheLeftCurrentDescription": "Close tabs to the left of current tab",
+    "CloseTabsToTheLeftSelectedDescription": "Close tabs to the left of selected tab",
+    "CloseTabsToTheRightCurrentDescription": "Close tabs to the right of current tab",
+    "CloseTabsToTheRightSelectedDescription": "Close tabs to the right of selected tab",
+    "CloseOtherTabsCurrentDescription": "Close tabs other than current tab",
+    "CloseOtherTabsSelectedDescription": "Close tabs other than selected tab",
+    "ReopenClosedTabDescription": "Reopen last closed tab",
+    "PreviousTabDescription": "Move to the previous tab",
+    "NextTabDescription": "Move to the next tab",
+    "CloseSelectedTabDescription": "ปิดแท็บปัจจุบัน",
+    "OpenNewPaneDescription": "Open new pane",
+    "ClosePaneDescription": "Close right pane",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Toggle the sidebar",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "วินโดว์",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "เว้นวรรค",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "ถอยหลัง",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "แท็บ",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "ลูกศรซ้าย",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "ลูกศรขวา",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "ลูกศรลง",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "ขึ้นไป (Alt+Up Arrow)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "หน้าแรก",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "หน้าลง",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "หน้าขึ้น",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Sleep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "ล้าง",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "พิมพ์",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "ช่วยเหลือ",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mouse4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mouse5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "แอป",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "แอป1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "แอป2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "เมล",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "กลับบ้าน",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "กลับ",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "ไปข้างหน้า",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "รีเฟรช (Ctrl + R, F5)",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "BrowserStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "ค้นหา",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "รายการโปรด",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "เล่นพัก",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "PrevTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "NextTrack",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaSelect",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Mute",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "VolDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "เพิ่มเสียง",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "เปลี่ยน",
+    "ToggleSelect": "Toggle selection",
+    "ShowFileExtensionWarning": "แสดงคำเตือนเมื่อเปลี่ยนนามสกุลไฟล์",
+    "ThisPC": "พีซีเครื่องนี้",
+    "RecycleBin": "ถังขยะ",
+    "Untagged": "ไม่​ได้​แท็ก",
+    "PreviousTab": "Moves to the previous tab",
+    "NextTab": "Moves to the next tab",
+    "CloseTab": "Closes current tab",
+    "EditPath": "Edit path",
+    "Redo": "ทำใหม่",
+    "Undo": "เลิกทำ",
+    "InvalidLocation": "ที่ตั้งไม่ถูกต้อง",
+    "CopyFileWithoutProperties": "Are you sure you want to copy these files without their properties?",
+    "FilePropertiesCannotBeCopied": "These files have properties that can't be copied to the new location",
+    "FilePropertiesCannotBeMoved": "These files have properties that can't be moved to the new location",
+    "MoveFileWithoutProperties": "Are you sure you want to move these files without their properties?",
+    "ShowCheckboxesWhenSelectingItems": "แสดงช่องเครื่องหมายเมื่อเลือกรายการ",
+    "EditPathDescription": "Focus path bar",
+    "AddItemDescription": "สร้างรายการใหม่",
+    "SecurityNoAccessControlEntriesText": "ไม่มีกลุ่มหรือผู้ใช้ที่สามารถเข้าถึงวัตถุนี้ได้ อย่างไรก็ตามเจ้าวัตถุนี้สามารถกำหนดสิทธิ์ได้",
+    "OpenFileLocationDescription": "Open the item's location",
+    "DeletePermanently": "ลบอย่างถาวร",
+    "DeleteItemPermanentlyDescription": "ลบรายการอย่างถาวร",
+    "PlayAllDescription": "เล่นไฟล์สื่อที่เลือก",
+    "UndoDescription": "เลิกทำกระบวนการล่าสุด",
+    "RedoDescription": "ทำซ้ำกระบวนการล่าสุด",
+    "Location": "ที่ตั้ง:",
+    "GroupByMonthDescription": "จัดกลุ่มตามเดือน",
+    "GroupByYearDescription": "จัดกลุ่มตามปี",
+    "Month": "เดือน",
+    "Day": "วัน",
+    "ToggleGroupByDateUnitDescription": "Toggle unit for grouping by date",
+    "ToggleGroupingUnit": "Toggle grouping unit",
+    "Year": "ปี",
+    "GroupByDateUnit": "Group by date unit",
+    "GroupByDateCreatedDayDescription": "Group items by day of date created",
+    "GroupByDateCreatedMonthDescription": "Group items by month of date created",
+    "GroupByDateCreatedYearDescription": "Group items by year of date created",
+    "GroupByDateDeletedDayDescription": "Group items by day of date deleted",
+    "GroupByDateDeletedMonthDescription": "Group items by month of date deleted",
+    "GroupByDateDeletedYearDescription": "Group items by year of date deleted",
+    "GroupByDateModifiedDayDescription": "Group items by day of date modified",
+    "GroupByDateModifiedMonthDescription": "Group items by month of date modified",
+    "GroupByDateModifiedYearDescription": "Group items by year of date modified",
+    "SecurityClickAdvancedPermissions": "Click 'Advanced permissions' to continue.",
+    "SecurityRequireReadPermissions": "คุณต้องมีสิทธิ์อ่านเพื่อดูคุณสมบัติของรายการนี้",
+    "SecuritySuggestToTakeOwnership": "To try taking ownership of the item, which includes permission to view its properties, click Change above.",
+    "SecurityUnableToDisplayPermissions": "Unable to display permissions.",
+    "StashChanges": "Leave my changes on '{0}'",
+    "DiscardChanges": "Discard my changes",
+    "BringChanges": "Bring my changes to '{0}'",
+    "UncommittedChanges": "You have uncommitted changes on this branch. What would you like to do with them?",
+    "SwitchBranch": "Switch branch",
+    "Branches": "Branches",
+    "Switch": "Switch",
+    "NewBranch": "New branch",
+    "InvalidBranchName": "Invalid branch name",
+    "CreateBranch": "Create branch",
+    "CreateNewBranch": "Create branch",
+    "BasedOn": "Based on",
+    "SwitchToNewBranch": "Switch to new branch",
+    "CreateFolderWithSelectionDescription": "Create a folder with the currently selected item(s)",
+    "OpenProperties": "คุณสมบัติ",
+    "OpenPropertiesDescription": "เปิดหน้าต่างคุณสมบัติ",
+    "Locals": "Locals",
+    "Remotes": "Remotes",
+    "ImproveTranslation": "แปลภาษาบน Crowdin",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Run git fetch",
+    "GitPullDescription": "Run git pull",
+    "Preview": "ตัวอย่าง",
+    "GitStatus": "สถานะ Git",
+    "GitError": "Git error",
+    "PullTimeoutError": "git pull failed due to a timeout error",
+    "MultipleValues": {
+        "text": "(multiple values)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "ผู้เขียน",
+    "DateCommitted": "Date committed",
+    "CommitMessage": "Commit message",
+    "CommitSha": "Commit SHA",
+    "Git": "Git",
+    "Acrylic": "อะคริลิค",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "รูปแบบพื้นหลัง",
+    "Solid": "Solid",
+    "ManageBranches": "Manage branches",
+    "Push": "Push",
+    "GitPushDescription": "Run git push",
+    "GitSync": "Sync",
+    "GitSyncDescription": "Run git pull and then git push",
+    "GitSyncStatusExtendedInfo": "{0} outgoing / {1} incoming commits",
+    "ConnectGitHub": "เชื่อมต่อกับ GitHub",
+    "ConnectGitHubDescription": "ป้อนรหัสพวกนี้ไปยังลิงก์ที่อยู่ด้านล่างเพื่อเริ่มต้นทำงานกับคลังเก็บที่อยู่ใน GitHub",
+    "CannotReachGitHubError": "Files cannot access GitHub right now.",
+    "OpenInVSCode": "เปิดโฟลเดอร์ใน VS Code",
+    "OpenInVSCodeDescription": "เปิดไดเร็กทอรีปัจจุบันใน Visual Studio Code",
+    "OpenRepoInVSCode": "เปิดคลังจัดเก็บใน VS Code",
+    "OpenRepoInVSCodeDescription": "Open the root of the Git repo in Visual Studio Code",
+    "CopyCode": "คัดลอกรหัส",
+    "Added": "Added",
+    "Deleted": "Deleted",
+    "Modified": "Modified",
+    "Untracked": "Untracked",
+    "UnableToDisplayOwner": "ไม่สามารถแสดงเจ้าของปัจจุบันได้",
+    "AuthorizationSucceded": "เยี่ยม คุณได้รับอนุญาตแล้ว",
+    "InitRepo": "Initialize repo",
+    "InitRepoDescription": "Initialize a Git repository",
+    "GitOriginRepositoryName": "Remote Repository Name",
+    "GitCurrentBranch": "Current Branch",
+    "PathColumn": "Path column",
+    "SortByPathDescription": "Sort items by path",
+    "OpenDirectoryInNewPaneDescription": "เปิดโฟลเดอร์ในบานหน้าต่างใหม่",
+    "OpenDirectoryInNewTabDescription": "เปิดไดเรกทอรีในแท็บใหม่",
+    "OpenInNewWindowDescription": "เปิดไดเรกทอรีในหน้าต่างใหม่",
+    "OpenAllTaggedItems": "Open all",
+    "OpenAllTaggedItemsDescription": "Open all tagged items",
+    "DriveWithLetter": {
+        "text": "Drive ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Invalid command",
+    "InvalidCommandContent": "'{0}' is not recognized as a command.",
+    "CommandNotExecutable": "Command not executable",
+    "CommandNotExecutableContent": "The '{0}' command is not ready to be executed.",
+    "CommandPalette": "Command palette",
+    "OpenCommandPaletteDescription": "Open command palette",
+    "ShortcutItemWorkingDir": "Start in:",
+    "TurnOnBitLocker": "เปิดใช้ BitLocker",
+    "ManageBitLocker": "จัดการ BitLocker",
+    "CopyFailureFileToLarge": "รายการดังต่อไปนี้มีขนาดใหญ่เกินไปที่จะสามารถคัดลอกไปยังไดรฟ์นี้ได้",
+    "FormatDrive": "จัดรูปแบบไดรฟ์",
+    "DontShowAgain": "ไม่ต้องแสดงอีก",
+    "FilesRunningAsAdmin": "Files is running as administrator",
+    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
+    "SettingsLeaveAppRunning": "ให้แอปทำงานต่อในพื้นหลังเมื่อปิดหน้าต่างไปแล้ว",
+    "Blue": {
+        "text": "น้ำเงิน",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "น้ำเงินเทา",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "อิฐแดง",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "ลายพราง",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Cool Blue Bright",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "เทา",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "เทาเข้ม",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "เขียว",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "สะระแหน่อ่อน",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Red",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "ส้มสว่าง",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Overcast",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "แดง",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "กุหลาบสดใส",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Seafoam",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Storm",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Violet Red Light",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "เหลืองทอง",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Clear completed",
+    "NameWithColon": "ชื่อ:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} ของ {1} ถูกประมวลผลแล้ว",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "รายการ",
+    "CannotInitializeGitRepo": "Files can't initialize this directory as a Git repository.",
+    "ContributingArtist": "Contributing Artist",
+    "AddPage": "Add page",
+    "ProcessingItems": "กำลังประมวลผลรายการ",
+    "SpeedWithColon": "ความเร็ว:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Canceled compressing {0} items to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Canceled compressing {0} items from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Compressed {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Compressing {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Canceled copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Canceled copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Copied {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Error copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Copying {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Canceled extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Canceled extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Extracted \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Extracted \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Error extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Failed to extract \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Extracting \"{0}\" to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Deleted {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Failed to delete {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Moved {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Moved {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Error moving {0} item(s) to \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Failed to move {0} item(s) from \"{1}\" to \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Canceled emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Emptied Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Error emptying Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Failed to empty Recycle Bin",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "กำลังเตรียมกระบวนการ",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} รายการได้ถูกประมวลผลแล้ว",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "ยกเลิกบล็อกไฟล์ที่ดาวน์โหลด",
+    "NoFileOperations": "ยังไม่กระบวนการใด ๆ ในตอนนี้",
+    "OpenOnStartupDisabled": "ตัวเลือกเปิด Files เมื่อวินโดว์เริ่มทำงานไม่สามารถใช้งานได้เนื่องจากการตั้งค่าหรือนโยบายระบบของคุณ หากต้องการเปิดใช้งานให้เปิดตัวจัดการงานแล้วไปที่หน้าเริ่มต้น",
+    "FailedToRestore": "Failed to restore items from Recycle Bin",
+    "FailedToSetBackground": "Failed to set the background wallpaper",
+    "GitDeleteBranch": "Delete Git branch",
+    "GitDeleteBranchSubtitle": "Are you sure you want to permanently delete \"{0}\" branch?",
+    "ConnectedToGitHub": "เชื่อมต่อกับ GitHub แล้ว",
+    "Logout": "ออกจากระบบ",
+    "ConnectToGitHub": "เชื่อมต่อกับ GitHub",
+    "Login": "เข้าสู่ระบบ",
+    "ErrorApplyingTagContent": "Tags are currently only compatible on drives formatted as NTFS.",
+    "ErrorApplyingTagTitle": "There was an error applying this tag",
+    "DecompressArchiveHereSmartDescription": "Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive",
+    "ExtractHereSmart": "แยกไฟล์ที่นี้ (อัจฉริยะ)",
+    "SortFilesAndFoldersTogether": "เรียงไฟล์และโฟลเดอร์เข้าด้วยกัน",
+    "SortFilesAndFoldersTogetherDescription": "เรียงไฟล์และโฟลเดอร์เข้าด้วยกัน",
+    "SortFilesFirst": "เรียงไฟล์ก่อน",
+    "SortFilesFirstDescription": "เรียงไฟล์ก่อน โฟลเดอร์ที่หลัง",
+    "SortFoldersFirst": "เรียงโฟลเดอร์ก่อน",
+    "SortFoldersFirstDescription": "เรียงโฟลเดอร์ก่อน ไฟล์ที่หลัง",
+    "SortPriority": "เรียงตามความสำคัญ",
+    "FailedToRotateImage": "ไม่สามารถมุมรูปภาพได้",
+    "Restart": "เริ่มต้นใหม่",
+    "Quit": "ออก",
+    "FaildToShareItems": "ไม่สามารถแชร์รายการได้",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll to previous folder when navigating up",
+    "NewWindowDescription": "เปิดหน้าต่างใหม่",
+    "ChangeAlbumCover": "เปลี่ยนปกอัลบั้ม",
+    "ItemRenameFailed": "ไม่สามารถเปลี่ยนชื่อรายการได้",
+    "HigherPermissionsRequired": "การแก้ไข \"{0}\" จำเป็นต้องใช้สิทธิ์เพิ่มเติม",
+    "EditPermissions": "แก้ไขสิทธิ",
+    "BackgroundRunningNotificationBody": "Files ยังคงทำงานอยู่ในพื้นหลังเพื่อลดเวลาที่ใช้การเปิดโปรแกรม",
+    "BackgroundRunningNotificationHeader": "Files หายไปไหนแล้ว",
+    "QuestionsAndDiscussions": "ตั้งคำถามสนทนา",
+    "TilesViewSizeInfo": "Additional sizes are not yet available for the Tiles View.",
+    "Compact": {
+        "text": "กะทัดรัด",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "เล็ก",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "กลาง",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "กลาง +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "กลาง ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "กลาง +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "กลาง ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "กลาง +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "ใหญ่",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "ใหญ่ +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "ใหญ่ ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "ใหญ่ +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "ใหญ่พิเศษ",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "มุมมองละเอียด",
+    "LayoutType": "ประเภทเค้าโครง",
+    "Actions": "Actions",
+    "Commands": "Commands",
+    "AddCommand": "Add command",
+    "RestoreDefaults": "Restore defaults",
+    "ChooseAnAction": "Choose an action",
+    "RestoreDefaultKeybindingsConfirmation": "Are you sure you want to restore the default key bindings? This action cannot be undone.",
+    "KeybindingAlreadyUsedNotification": "This key binding is already being used, please choose a different key binding to continue.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Customized",
+    "AdaptiveLayoutDisabledNotification": "Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.",
+    "BackgroundImage": "Background image",
+    "Bottom": {
+        "text": "Bottom",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Center",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horizontal alignment",
+    "ImageFit": "Image fit",
+    "Left": {
+        "text": "ลูกศรซ้าย",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Opacity",
+    "Right": {
+        "text": "ลูกศรขวา",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Top",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniform",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniform to fill",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Vertical alignment",
+    "ThinAcrylic": {
+        "text": "Thin Acrylic",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Show for all locations",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Developer tools",
+    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "GitRepos": {
+        "text": "Show for Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Application extension",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO File",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip File",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap Files",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Network locations",
+    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
+    "Disable": "Disable",
+    "EditInNotepad": "Edit in Notepad",
+    "EditInNotepadDescription": "Edit the selected file in Notepad"
+}

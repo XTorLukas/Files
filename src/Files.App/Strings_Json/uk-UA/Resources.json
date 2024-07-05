@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Створити вікно",
+    "CopyPath": "Копіювати шлях",
+    "CopyPathWithQuotes": "Копіювати шлях у лапках",
+    "Browse": "Вибрати",
+    "Size": "Розмір",
+    "PropertiesCreated": {
+        "Text": "Створено:"
+    },
+    "Path": "Шлях",
+    "SizeLabel": "Розмір:",
+    "SizeOnDiskLabel": "Розмір на диску:",
+    "UncompressedSize": "Нестиснутий розмір:",
+    "ErrorDialogThisActionCannotBeDone": "Ця дія не може бути завершена",
+    "ErrorDialogTheDestinationFolder": "Цільова папка",
+    "ErrorDialogIsASubfolder": "є підпапкою вихідної папки",
+    "Skip": "Пропустити",
+    "SelectAll": "Виділити все",
+    "InvertSelection": "Інвертувати виділення",
+    "ClearSelection": "Прибрати виділення",
+    "PropertiesModified": {
+        "Text": "Змінено"
+    },
+    "Accessed": "Відкрито:",
+    "RecentItemClearAll": {
+        "Text": "Очистити все"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Введіть шлях для переходу або введіть \">\", щоб відкрити меню команд"
+    },
+    "Search": "Пошук",
+    "RecentItemDescription": {
+        "Text": "Тут відображатимуться файли, до яких ви раніше отримували доступ"
+    },
+    "RecentItemRemove": {
+        "Text": "Видалити цей елемент"
+    },
+    "OpenGitHubRepo": "Репозиторій GitHub",
+    "About": "Про програму",
+    "OpenSource": "Відкритий код",
+    "DateFormat": "Формат дати",
+    "SettingsAppearanceTheme": "Тема",
+    "SettingsFilesAndFoldersShowFileExtensions": "Показувати розширення для зареєстрованих типів файлів",
+    "SettingsFilesAndFoldersShowHiddenItems": "Відображати приховані файли та папки",
+    "ShowDotFiles": "Показувати файли, які починаються з крапки",
+    "Appearance": "Оформлення",
+    "BackgroundColor": "Колір тла",
+    "Advanced": "Розширені",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Продовжити з місця, де Ви зупинилися"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Відкрити нову вкладку"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Відкрити певну сторінку або сторінки"
+    },
+    "Desktop": "Робочий стіл",
+    "Documents": "Документи",
+    "Downloads": "Завантаження",
+    "Name": "Ім’я",
+    "Ascending": "За зростанням",
+    "Paste": "Вставити",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Створити"
+    },
+    "Properties": "Властивості",
+    "Open": "Відкрити",
+    "OpenInNewTab": "Відкрити в новій вкладці",
+    "OpenInNewWindow": "Відкрити в новому вікні",
+    "Share": "Поділитися",
+    "Cut": "Вирізати",
+    "Delete": "Видалити",
+    "PinFolderToSidebar": "Закріпити в бічній панелі",
+    "WelcomeDialog": {
+        "Title": "Ласкаво просимо до Files!",
+        "PrimaryButtonText": "Надати дозволи"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Для початку вам потрібно надати нам дозвіл на показ ваших файлів. Це відкриє сторінку налаштувань, де ви можете надати нам цей дозвіл. Вам потрібно буде знову відкрити застосунок після завершення. "
+    },
+    "Display": "Відображення",
+    "EnterAnItemName": "Введіть назву елемента",
+    "RenameDialog": {
+        "PrimaryButtonText": "Встановити ім'я"
+    },
+    "LightTheme": "Світла",
+    "DarkTheme": "Темна",
+    "Application": "За замовчуванням",
+    "SystemTimeStyle": "Система",
+    "NewFolder": "Нова тека",
+    "NewFile": "Новий файл",
+    "EmptyFolder": {
+        "Text": "Ця папка порожня."
+    },
+    "Back": "Назад",
+    "Forward": "Вперед",
+    "Up": "Вгору",
+    "Refresh": "Оновити",
+    "ItemAlreadyExistsDialogContent": "Елемент з цим іменем вже існує в цій папці.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Замінити існуючий елемент",
+    "ItemAlreadyExistsDialogTitle": "Елемент вже існує",
+    "SetAsLockscreen": "Установити як фонове зображення екрана блокування",
+    "SetAsAppBackground": "Встановити як фон програми",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Не вдалося видалити цей елемент"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Підключить необхідний диск для доступу до цього елемента.",
+        "Title": "Диск відключено"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Файл, до якого ви намагаєтеся отримати доступ, можливо було переміщено або видалено.",
+        "Title": "Файл не знайдено"
+    },
+    "CannotAccessPropertiesTitle": "Не вдалося відкрити властивості цього файлу",
+    "CannotAccessPropertiesContent": "Файл, до якого ви намагаєтеся отримати доступ, можливо було переміщено або видалено.",
+    "FolderNotFoundDialog": {
+        "Text": "Папку, до якої ви намагаєтеся отримати доступ, можливо було переміщено або видалено.",
+        "Title": "Ви видалили цю папку?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Файл, до якого ви намагаєтеся отримати доступ, зараз використовується {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "Файл, до якого ви намагаєтеся отримати доступ, використовується іншою програмою",
+        "Title": "Файл зараз використовується"
+    },
+    "Layout": "Макет",
+    "PropertiesDialogReadOnly": {
+        "Text": "Лише для читання"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Щойно",
+    "ErrorDialogUnsupportedOperation": "Дана операція не підтримується",
+    "DriveFreeSpaceAndCapacity": "{0} вільно з {1}",
+    "SendTo": "Надіслати",
+    "FileNameTeachingTip": {
+        "Subtitle": "Ім'я елемента не повинно містити таких знаків: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "Вказане ім'я елемента неприпустиме"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# елемент вибрано} few {# об'єктів вибрано} many {# об'єктів вибрано} other {# об'єктів вибрано}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {елемент} few {об'єкти} many {об'єкти} other {об'єкти}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Так",
+    "ConfirmEmptyBinDialogContent": "Ви впевнені, що хочете назавжди видалити всі ці елементи?",
+    "ConfirmEmptyBinDialogTitle": "Очистити кошик",
+    "ItemSizeBytes": "байт",
+    "KiloByteSymbol": "КБ",
+    "MegaByteSymbol": "МБ",
+    "GigaByteSymbol": "ГБ",
+    "TeraByteSymbol": "ТБ",
+    "PetaByteSymbol": "ПБ",
+    "ByteSymbol": "Б",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Запуск від імені іншого користувача"
+    },
+    "PropertiesDriveItemTypesEquals": "Всі типу {0}",
+    "PropertiesDriveItemTypeDifferent": "Різні типи",
+    "PropertiesCombinedItemLocation": "Усе в {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Зайнято:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Доступно:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Ємність:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Файлова система:"
+    },
+    "JumpListRecentGroupHeader": "Недавні",
+    "TabStripDragAndDropUIOverrideCaption": "Перемістити вкладку",
+    "syncStatusColumn": {
+        "Header": "Статус"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Стандартна",
+    "NavigationToolbarVisiblePathNoResults": "Немає результатів",
+    "SubDirectoryAccessDenied": "Немає доступу",
+    "MoveToFolderCaptionText": "Перемістити в {0}",
+    "CopyToFolderCaptionText": "Копіювати до {0}",
+    "CreateShortcut": "Створити ярлик",
+    "OpenFileLocation": "Відкрити розташування файлу",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Аргументи:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Об'єкт:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Тип ярлика:"
+    },
+    "PropertiesShortcutTypeLink": "Веб-посилання",
+    "General": "Основні",
+    "Shortcut": "Ярлик",
+    "ShortcutWebLinkFileType": "Інтернет-ярлик",
+    "ShortcutCreateNewSuffix": "{0} - ярлик",
+    "ExceptionNotificationBody": "Files зіткнулися з проблемою, до якої розробники були не готові.",
+    "ExceptionNotificationHeader": "Сталася помилка!",
+    "ExceptionNotificationReportButton": "Повідомте про цю проблему",
+    "InvalidItemDialogContent": "Елемент є недійсним або недоступним.{0}Повідомлення про помилку:{0}{1}",
+    "InvalidItemDialogTitle": "Невірний елемент",
+    "SettingsAboutVersionTitle": "Версія:",
+    "ShareDialogFailMessage": "Наразі нема до чого надавати спільний доступ...",
+    "ShareDialogMultipleItemsDescription": "Вибраним елементам буде надано загальний доступ",
+    "ShareDialogSingleItemDescription": "Вибраному елементу буде надано загальний доступ",
+    "ShareDialogTitle": "Надається спільний доступ до ресурсу \"{0}\"",
+    "ShareDialogTitleMultipleItems": "Спільний доступ до {0} {1}",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "Елемент, який ви намагаєтесь перейменувати, більше не існує. Будь ласка, перевірте правильність розташування предмета, який потрібно перейменувати.",
+            "Title": "Елемент більше не існує"
+        },
+        "NameInvalid": {
+            "Text": "Вказане невірне ім’я. Перевірте бажану назву товару та повторіть спробу.",
+            "Title": "Невірне ім’я елемента"
+        },
+        "TooLong": {
+            "Text": "Довжина вказаної назви товару перевищує максимальну межу. Перевірте бажане ім’я та повторіть спробу.",
+            "Title": "Назва елемента занадто велика"
+        }
+    },
+    "ShowMoreOptions": "Показати додаткові параметри",
+    "RestartNotificationText": {
+        "Text": "Додаток потрібно перезапустити, щоб застосувати налаштування мови. Чи хочете ви перезапустити програму?"
+    },
+    "SponsorUsOnGitHub": "Підтримати нас на GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "Елемент не може бути створений"
+    },
+    "AccessDenied": "Немає доступу",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Установити як"
+    },
+    "Cancel": "Скасувати",
+    "AddDialog": {
+        "Title": "Створити новий елемент"
+    },
+    "AddDialogDescription": {
+        "Text": "Виберіть тип для цього нового елемента нижче"
+    },
+    "File": "Файл",
+    "AddDialogListFileSubHeader": "Створює порожній файл",
+    "Folder": "Папка",
+    "AddDialogListFolderSubHeader": "Створює порожню папку",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Оновлення каталогу"
+        }
+    },
+    "Language": "Мова",
+    "SettingsContextMenuOverflow": "Перемістити розширення консолі в підменю",
+    "ShowConfirmationWhenDeletingItems": "Показувати діалог підтвердження під час видалення",
+    "PropertySaveErrorMessage": {
+        "Text": "Не вдалося зберегти деякі властивості."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Помилка",
+        "SecondaryButtonText": "Закрити"
+    },
+    "PropertyRatingText": "Рейтинг",
+    "PropertyParsingPath": "Шлях до елемента",
+    "PropertyItemTypeText": "Тип файлу",
+    "PropertyTitle": "Заголовок",
+    "PropertySubject": "Об’єкт",
+    "PropertyComment": "Коментар",
+    "PropertyCopyright": "Авторське право",
+    "PropertyDateModified": "Дата змінення",
+    "PropertyBitDepth": "Глибина кольору",
+    "PropertyDimensions": "Розміри",
+    "PropertyHorizontalSize": "Розмір по горизонталі",
+    "PropertyVerticalSize": "Розмір по вертикалі",
+    "PropertyHorizontalResolution": "Роздільна здатність по горизонталі",
+    "PropertyVerticalResolution": "Роздільна здатність по вертикалі",
+    "PropertyColorSpace": "Кольоровий простір",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Не вказано",
+    "PropertyLongitudeDecimal": "Десяткова довгота",
+    "PropertyLatitudeDecimal": "Десяткова широта",
+    "PropertyAltitude": "Висота",
+    "PropertyDateTaken": "Дата зйомки",
+    "PropertyCameraManufacturer": "Виробник камери",
+    "PropertyCameraModel": "Модель камери",
+    "PropertyExposureTime": "Час витримки",
+    "PropertyFocalLength": "Фокусна відстань",
+    "PropertyAperture": "Апертура",
+    "PropertyPeopleNames": "Імена людей",
+    "PropertyChannelCount": "Кількість каналів",
+    "PropertyFormat": "Формат",
+    "PropertySampleRate": "Частота дискретизації:",
+    "PropertyAlbumArtist": "Виконавець альбому",
+    "PropertyAlbumTitle": "Назва альбому",
+    "Artist": "Виконавець",
+    "PropertyBeatsPerMinute": "Кількість ударів на хвилину",
+    "PropertyComposer": "Композитор",
+    "Conductor": "Диригент",
+    "PropertyDiscNumber": "№ диску",
+    "PropertyGenre": "Жанр",
+    "PropertyTrackNumber": "Номер запису",
+    "PropertyDuration": "Тривалість",
+    "PropertyFrameCount": "Кількість кадрів",
+    "PropertyProtectionType": "Тип захисту",
+    "PropertyAuthorUrl": "URL-адреса автора",
+    "PropertyContentDistributor": "Дистриб'ютор контенту",
+    "PropertyDateReleased": "Дата випуску",
+    "PropertySeriesName": "Ім’я ряду",
+    "PropertySeasonNumber": "Номер сезону",
+    "PropertyEpisodeNumber": "Номер епізоду",
+    "PropertyProducer": "Продюсер",
+    "PropertyPromotionUrl": "URL-адреса реклами",
+    "PropertyProviderStyle": "Стиль постачальника",
+    "PropertyPublisher": "Видавець",
+    "PropertyThumbnailLargePath": "Шлях до Великої Мініатюри",
+    "PropertyThumbnailLargeUri": "Uri Великої Мініатюри",
+    "PropertyThumbnailSmallPath": "Шлях до Малої Мініатюри",
+    "PropertyThumbnailSmallUri": "URL-адреса Малої Мініатюри",
+    "PropertyUserWebUrl": "Url Користувача",
+    "PropertyWriter": "Автор",
+    "PropertyYear": "Рік",
+    "PropertyContributor": "Співавтор",
+    "PropertyLastAuthor": "Автор змін",
+    "PropertyRevisionNumber": "Редакція",
+    "PropertyVersion": "Версія",
+    "PropertyDateCreated": "Дата створення",
+    "PropertyTotalEditingTime": "Загальний час редагування",
+    "PropertyTemplate": "Шаблон",
+    "PropertyWordCount": "Кількість слів",
+    "PropertyCharacterCount": "Кількість знаків",
+    "PropertyLineCount": "Кількість рядків",
+    "PropertyParagraphCount": "Кількість параграфів",
+    "PropertyPageCount": "Кількість сторінок",
+    "PropertySlideCount": "Кількість слайдів",
+    "PropertyFrameRate": "Частота кадрів",
+    "PropertyEncodingBitrate": "Швидкість потоку",
+    "PropertyPreviewAudioEncodingBitrate": "Аудіо бітрейт",
+    "PropertyPreviewVideoEncodingBitrate": "Бітрейт відео для кодування",
+    "Compression": "Стискання",
+    "PropertyFrameWidth": "Ширина кадру",
+    "PropertyFrameHeight": "Висота кадру",
+    "PropertyOrientation": "Орієнтація",
+    "PropertySectionCore": "Головне",
+    "PropertySectionImage": "Зображення",
+    "PropertySectionPhoto": "Фото",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Медіа",
+    "PropertySectionAudio": "Аудіо",
+    "PropertySectionMusic": "Музика",
+    "PropertySectionVideo": "Відео",
+    "Document": "Документ",
+    "Address": "Адреса",
+    "SelectionOptions": "Налаштування виділення",
+    "NavToolbarSelectionOptions": {
+        "Label": "Виділити"
+    },
+    "RecycleBinItemAutomation": "Кошик",
+    "ShortcutItemAutomation": "Ярлик",
+    "Drives": "Диски",
+    "PinToSidebarByDraggingCaptionText": "Перемістити",
+    "EjectNotificationHeader": "Пристрій безпечно вилучено",
+    "EjectNotificationBody": "Тепер пристрій може бути безпечно вилучено з комп'ютера.",
+    "EjectNotificationErrorDialogHeader": "Проблема з вийманням пристрою",
+    "EjectNotificationErrorDialogBody": "Пристрій в даний момент використовується. Закрийте всі програми, вікна або вкладки, які можуть використовувати пристрій, а потім спробуйте ще раз.",
+    "Eject": "Вилучити",
+    "DuplicateTab": "Дублювати вкладку",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Перемістити вкладку у нове вікно"
+    },
+    "NewTab": "Нова вкладка",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Деякі об’єкти можуть містити особисту інформацію."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Очистити всі властивості"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Перевірте стан файлових операцій тут",
+        "Title": "Центр стану"
+    },
+    "SearchPagePathBoxOverrideText": "Результати пошуку в",
+    "Details": "Подробиці",
+    "No": "Ні",
+    "ShowProtectedSystemFiles": "Показати захищені системні файли",
+    "SyncFolderPreferencesAcrossDirectories": "Синхронізація макету і впорядкування параметрів між каталогами",
+    "SettingsContextMenu": {
+        "Text": "Налаштування контекстного меню"
+    },
+    "OriginalPath": "Вихідний шлях",
+    "Add": "Додати",
+    "Edit": "Редагувати",
+    "Remove": "Вилучити",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Відкривати вкладки в режимі подвійної панелі",
+    "ShowOpenInNewPane": "Відображати опцію відкриття папок у новій панелі",
+    "ShowCopyPath": "Відображати опцію копіювання шляху",
+    "ShowCreateFolderWithSelection": "Відображати опцію створення папки з обраними елементами",
+    "ShowCreateShortcut": "Відображати опцію створення ярлика",
+    "NavigationToolbarNewPane": {
+        "Label": "Нова панель"
+    },
+    "OpenInNewPane": "Відкрити в новій панелі",
+    "FilesAndFolders": "Файли та теки",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Подробиці (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Плитка"
+        }
+    },
+    "DateDeleted": "Дата видалення",
+    "SidebarCloudDrives": "Хмарні диски",
+    "Confirm": "Створити",
+    "DesiredName": "Бажане ім'я",
+    "TogglePreviewPane": "Відобразити панель попереднього перегляду",
+    "ToggleDetailsPane": "Зобразити панель подробиць",
+    "ToggleDetailsPaneDescription": "Перемкнути панель деталей для перегляду основних властивостей файлу",
+    "ToggleInfoPane": "Перемкнути інформаційну панель",
+    "ToggleInfoPaneDescription": "Перемкнути інформаційну панель для перегляду деталей/прев'ю панелей",
+    "DetailsPanePreviewNotAvaliableText": "Попередній перегляд недоступний",
+    "PropertyItemName": "Ім'я елемента",
+    "UnpinFolderFromSidebar": "Відкріпити від бічної панелі",
+    "Network": "Мережа",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Відомості про файл"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Попередній перегляд файлу"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Панель попереднього перегляду файлу"
+        }
+    },
+    "Feedback": "Зворотний зв'язок",
+    "CloudDriveSyncStatus_Online": "Доступно за наявності підключення до мережі",
+    "Documentation": "Документація",
+    "CloudDriveSyncStatus_Offline": "Доступно в автономному режимі",
+    "CloudDriveSyncStatus_PartialOffline": "Частково доступний офлайн",
+    "CloudDriveSyncStatus_Sync": "Синхронізація…",
+    "CloudDriveSyncStatus_Excluded": "Виключено з синхронізації",
+    "ItemSizeNotCalculated": "Не розраховано",
+    "CloudDriveSyncStatus_Unknown": "Невідомо",
+    "RenameFileDialog": {
+        "Text": "Якщо ви зміните розширення файлу, файл може стати непридатним для використання. Ви впевнені, що хочете його змінити?"
+    },
+    "DriveTypeCDRom": "CD-привід",
+    "DriveTypeCloudDrive": "Хмарний привід",
+    "DriveTypeFixed": "Привід із фіксованим диском",
+    "DriveTypeFloppyDisk": "Дисковод гнучких дисків",
+    "DriveTypeNetwork": "Мережевий диск",
+    "DriveTypeNoRootDirectory": "Немонтований диск",
+    "DriveTypeRam": "RAM диск",
+    "DriveTypeRemovable": "Знімний пристрій зберігання",
+    "DriveTypeUnknown": "Невідомо",
+    "DriveTypeVirtualDrive": "Віртуальний диск",
+    "DateCreated": "Дата створення",
+    "MoreOptions": "Додаткові параметри...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Підключити диск"
+    },
+    "Pinned": "Закріплені",
+    "SidebarLibraries": "Бібліотеки",
+    "NoItemSelected": "Елементи не вибрано",
+    "PropertyItemTarget": "Ціль",
+    "Arguments": "Аргументи",
+    "Default": "За замовчуванням",
+    "PropertyItemCount": "Кількість елементів",
+    "ElevateConfirmDialog": {
+        "Title": "Для цієї дії необхідні права адміністратора",
+        "Content": "Бажаєте продовжити як адміністратор?"
+    },
+    "ColumnsShortcutTooltip": "Стовпці (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "Закріпити в меню \"Пуск\""
+    },
+    "UnpinItemFromStart": {
+        "Text": "Відкріпити з меню \"Пуск\""
+    },
+    "Library": "Бібліотека",
+    "LibraryLocations": {
+        "Text": "Розташування"
+    },
+    "SetAsDefaultSavePath": "Встановити як шлях збереження за замовчуванням",
+    "LibraryNoLocations": {
+        "Text": "Розташування відсутнє"
+    },
+    "ErrorInputEmpty": "Поле вводу не може бути пустим!",
+    "ErrorNameInputRestrictedCharacters": "Ім'я не повинно містити таких символів: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Використання цього імені заборонено!",
+    "CreateLibraryErrorAlreadyExists": "Бібліотека з таким ім'ям вже існує!",
+    "OpenStorageSense": "Відкрити Сховище Даних",
+    "Copy": "Копіювати",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Перемістити",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Продовжити",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Остаточно видалити"
+    },
+    "PropertyISO": "Швидкість ISO",
+    "ReplaceExisting": "Замінити наявний",
+    "GenerateNewName": "Згенерувати нове ім'я",
+    "CreateFolderWithSelection": "Створити папку з виділення",
+    "ItemType": "Тип:",
+    "ToolTipDescriptionDate": "Дата змінення",
+    "OpenWith": "Відкрити за допомогою",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Піктограма файлу"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Стовпець оригінального шляху"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Стовпець типу елемента"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Стовпчик дати змінення"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Стовпчик дати видалення"
+    },
+    "Sort": "Сортувати",
+    "DateModifiedLowerCase": "Дата змінення",
+    "OriginalFolder": "Початкова папка",
+    "Descending": "За спаданням",
+    "ItemSizeText_Huge": "Величезний",
+    "ItemSizeText_VeryLarge": "Дуже великий",
+    "ItemSizeText_Large": "Великий",
+    "ItemSizeText_Medium": "Середній",
+    "ItemSizeText_Small": "Малий",
+    "ItemSizeText_Tiny": "Крихітна",
+    "Future": "Майбутній",
+    "Today": "Сьогодні",
+    "Yesterday": "Учора",
+    "EarlierThisWeek": "Раніше цього тижня",
+    "LastWeek": "Минулого тижня",
+    "EarlierThisMonth": "Раніше цього місяця",
+    "LastMonth": "Минулого місяця",
+    "EarlierThisYear": "Раніше цього року",
+    "LastYear": "Минулого року",
+    "YearN": "Рік {0}",
+    "GroupItemsCount_Singular": "{0} елемент",
+    "GroupItemsCount_Plural": "Елементів: {0}",
+    "ReopenClosedTab": "Відкрити закриту вкладку",
+    "Rename": "Перейменувати",
+    "Privacy": "Конфіденційність",
+    "TheRecycleBin": "Кошик",
+    "Canceling": "Скасування",
+    "Clear": "Очистити",
+    "Widgets": "Віджети",
+    "SyncStatus": "Стан синхронізації",
+    "Security": "Безпека",
+    "AdvancedPermissions": "Додаткові дозволи:",
+    "Allow": "Дозволити",
+    "Deny": "Відхилити",
+    "SecurityFullControlLabel": {
+        "Text": "Повний доступ"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Показати вміст директорії"
+    },
+    "Modify": "Змінити",
+    "SecurityPermissionsHeaderText": "Дозволи для {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Прочитати та виконати"
+    },
+    "SecurityReadLabel": {
+        "Text": "Прочитане"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Групи або користувачі:"
+    },
+    "Write": "Записування",
+    "SecurityUnknownAccount": "Невідомий обл. запис",
+    "SecurityCannotReadProperties": {
+        "Text": "Ви не маєте прав на перегляд властивостей безпеки цього об’єкта. Натисніть «Додаткові дозволи», щоб продовжити."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Власник:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Невідомий власник"
+    },
+    "ExtractArchive": "Розпакувати архів",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Після завершення відкрийте папку призначення"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Видобути до {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Створити бібліотеку."
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Відновити бібліотеки за замовчуванням"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Ви впевнені, що бажаєте відновити стандартні бібліотеки? Усі ваші файли залишаться у вашому сховищі.",
+    "DialogRestoreLibrariesTitleText": "Відновлення Бібліотек",
+    "PropertyFileOwner": "Власник",
+    "SecuritySpecialLabel": {
+        "Text": "Особливі"
+    },
+    "Access": "Доступ",
+    "SecurityAdvancedAppliesTo": "Застосовується до",
+    "Principal": "Принципал",
+    "SecurityAdvancedFlagsFilesLabel": "файли",
+    "SecurityAdvancedFlagsFolderLabel": "цю папку",
+    "SecurityAdvancedFlagsSubfoldersLabel": "вкладені папки",
+    "Inherited": "Успадковано",
+    "Permissions": "Дозволи",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "Ви не маєте прав на перегляд властивостей безпеки цього об’єкта. Ви можете спробувати отримати цей об'єкт у власність."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Для цієї папки та її файлів"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Для цієї папки, її підпапок і файлів"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Тільки файли"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Тільки підпапки"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Тільки підтеки та файли"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Тільки ця тека"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Для цієї папки та її підпапок"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Додати дані"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Змінити дозволи"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Створити теки"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Створити файли"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Видалення підкаталогів та файлів"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Виконати файли"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Читання атрибутів"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Читання даних"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Читання додаткових атрибутів"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Дозволи на читання"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Стати власником"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Перейти у папку"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Записування атрибутів"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Записати дані"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Запис додаткових атрибутів"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Перетворити успадковані дозволи на явні"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Увімкнути успадкування"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Видалити всі успадковані дозволи"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Скинути дочірні дозволи"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Замінити всіх записів дозволів дочірніх об'єктів на успадковувані записи дозволів з цього об'єкта"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Закрити панель"
+    },
+    "EnterCompactOverlay": "Компактний режим",
+    "ExitCompactOverlay": "Вийти з компактного режиму",
+    "PropertyFileDescription": "Опис файлу",
+    "PropertyCompany": "Компанія",
+    "PropertyLanguage": "Мова",
+    "PropertyTrademarks": "Торговельні марки",
+    "PropertyFileVersion": "Версія файлу:",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Завантажити прев'ю повністю",
+        "ToolTipService": {
+            "ToolTip": "Завантажує елемент з хмари і завантажує попередній перегляд"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Нестиснутий розмір",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Приховати розділ {0}"
+    },
+    "AddFile": "Додати файл",
+    "ConsentDialogTitle": "Доступні оновлення",
+    "ConsentDialogContent": "Оновлення готові до інсталяції",
+    "Close": "Закрити",
+    "ConsentDialogPrimaryButtonText": "Оновити",
+    "Home": "Основне",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Видобування архіву завершено успішно.",
+    "ExtractingArchiveText": "Видобування архіву",
+    "ExtractingCompleteText": "Видобування завершено!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Відкрити батьківську теку"
+    },
+    "Unknown": "Невідомо",
+    "EditTags": "Редагувати теги",
+    "PropertyPartOfSet": "Фрагмент",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Відкрити диск",
+        "Text": "Будь ласка, вставте диск в пристрій {0}",
+        "Title": "Вставте диск"
+    },
+    "OK": "ОК",
+    "AskCredentialDialog": {
+        "Title": "Необхідні облікові дані"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Анонімний"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Надайте свої облікові дані:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Ім’я користувача"
+    },
+    "NoSearchResultsFound": "Немає елементів",
+    "OpenLogLocation": "Відкрити розташування журналу змін",
+    "LinkToFolderCaptionText": "Створити посилання в {0}",
+    "Columns": "Стовпці",
+    "Tiles": "Плитки",
+    "OpenFoldersInNewTab": "Відкрити папки у новій вкладці",
+    "StatusCenter": "Центр стану",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Стовпчик дати створення"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Розмір стовпця елемента"
+    },
+    "ExperimentalFeatureFlags": "Експериментальні функції",
+    "HelpAndSupport": "Служба підтримки",
+    "SubmitFeatureRequest": "Надіслати запит нової функції",
+    "SubmitBugReport": "Повідомити про несправність",
+    "SettingsSetAsDefaultFileManager": "Встановити Files в якості файлового менеджера за замовчуванням",
+    "SettingsSetAsOpenDialog": "Використовувати Files як діалог для відкриття файлів",
+    "Tag": "Мітка",
+    "SettingsOpenItemsWithOneClick": "Відкривати елементи одним кліком",
+    "FolderPath": "Шлях до папки",
+    "ExportSettings": "Експорт налаштувань",
+    "ImportSettings": "Імпорт налаштувань",
+    "SettingsImportErrorDescription": "Не вдалося імпортувати налаштування. Файл налаштувань пошкоджений.",
+    "SettingsImportErrorTitle": "Помилка при імпорту налаштувань",
+    "EmptyRecycleBin": "Очистити кошик",
+    "Sidebar": "Бічна панель",
+    "ChooseCustomIcon": "Виберіть власну піктограму папки",
+    "Customization": "Персоналізація",
+    "RestoreDefault": "Відновити значення за замовчуванням",
+    "OpenTabInExistingInstance": "Відкрити вкладку в наявному вікні, коли відкривається Files з іншої програми",
+    "StartupSettings": "Налаштування запуску",
+    "Compatibility": "Сумісність",
+    "None": "Немає",
+    "CompatibilityOnWindowsLogin": "При вході в Windows",
+    "CompatibilityOnProgramStart": "При запуску програми",
+    "System": "Система",
+    "CompatibilitySystemEnhanced": "Система (розширено)",
+    "CompatibilityReducedColorModeColor16bit": "16-бітний колір (65536)",
+    "CompatibilityReducedColorModeColor8bit": "8-бітний колір (256)",
+    "CompatibilityDisableFullscreenOptimizations": "Вимкнути оптимізацію повноекранного режиму",
+    "CompatibilityRunIn640x480Resolution": "Запуск при 640 х 480 роздільності екрану",
+    "CompatibilityOverrideHighDPIBehavior": "Змінити поведінку масштабування у високому DPI",
+    "CompatibilityReducedColorMode": "Режим з обмеженим діапазоном кольорів",
+    "CompatibilityRegisterThisProgramForRestart": "Зареєструйте цю програму для перезавантаження",
+    "RunAsAdministrator": "Запуск від імені адміністратора",
+    "CompatibilityRunTroubleshooter": "Запустити пошук несправностей",
+    "CompatibilityUseDPISettings": "Використовувати DPI налаштування головного монітора",
+    "CompatibilityDoNotAdjustDPI": "Не налаштовувати DPI",
+    "CompatibilityDoNotOverrideDPI": "Не перевизначити DPI",
+    "CompatibilityMode": "Режим сумісності",
+    "CompatibilityNoReducedColor": "Немає зменшеного кольору",
+    "ThirdPartyLicenses": "Сторонні ліцензії",
+    "SettingsSetAsDefaultFileManagerDescription": "Ця опція змінює системний реєстр і може мати несподівані побічні ефекти на вашому пристрої. Продовжуйте на свій страх і ризик.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Створити бібліотеку",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Введіть ім'я бібліотеки",
+    "CalculateFolderSizes": "Обчислити розмір папки",
+    "RecentFiles": "Нещодавні файли",
+    "SettingsOpenInLogin": "Відкривати Files під час запуску Windows",
+    "Attributes": "Атрибути:",
+    "Hidden": "Прихований",
+    "MoreDetails": "Докладно",
+    "ReadOnly": "Лише читання",
+    "CleanupDrive": "Очистити вміст диску",
+    "Type": "Тип",
+    "Bytes": "байт",
+    "Extract": "Видобути",
+    "ExtractFiles": "Видобути файли",
+    "ExtractHere": "Видобути тут",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Видобути до {0}",
+    "RunScript": "Виконати сценарій",
+    "RunWithPowerShell": "Запуск з PowerShell",
+    "ShowFolderSizesWarning": "Обчислення розмірів папки потребує багато ресурсу і може збільшити використання вашого процесора.",
+    "RotateLeft": "Повернути ліворуч",
+    "RotateRight": "Повернути праворуч",
+    "Install": "Інсталювати",
+    "CloseTabsToTheLeft": "Закрити вкладки ліворуч",
+    "CloseTabsToTheRight": "Закрити вкладки праворуч",
+    "CloseOtherTabs": "Закрити інші вкладки",
+    "Music": "Музика",
+    "Pictures": "Зображення",
+    "UpdateFiles": "Оновити Files",
+    "FileTags": "Теги",
+    "Universal": "Універсальний",
+    "DateFormatSample": "ex: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Відображати ескізи",
+    "Retry": "Повторити",
+    "ErrorDialogUnsupportedMoveOperation": "Операція переміщення не підтримується в цьому контексті. Натомість скопіювати елементи?",
+    "HiddenItems": "Приховані елементи",
+    "Custom": "Користувацький",
+    "SetAsSlideshow": "Встановити як слайд-шоу на робочому столі",
+    "SizeAllColumnsToFit": "Стовпці по розміру вмісту",
+    "Adaptive": "Адаптивний макет",
+    "AdaptiveShortcutTooltip": "Адаптивний макет (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Показати альтернативні потоки даних",
+    "Behaviors": "Поведінки",
+    "ReviewFiles": "Оцінити Files",
+    "ReviewFilesContent": "Бажаєте залишити відгук про Files?",
+    "SetAsBackgroundFlyout": "Встановити як тло",
+    "SetAsBackground": "Установити як тло робочого стола",
+    "SetAsDefault": "Встановити за замовчуванням",
+    "DateColumn": "Стовпчик дати",
+    "DateCreatedColumn": "Стовпчик дати створення",
+    "SizeColumn": "Стовпчик розміру",
+    "TagColumn": "Стовпчик тегів",
+    "TypeColumn": "Стовпчик типів",
+    "Lockscreen": "Екран блокування",
+    "OpenFolderWithOneClickColumnsLayout": "Відкрити папки одним натисканням по Макету Стовпчиків",
+    "OpeningItems": "Відкриття елементів",
+    "Compress": "Стиснути",
+    "SelectFilesAndFoldersOnHover": "Вибрати файли та папки при наведенні на них",
+    "ConfirmRestoreBinDialogContent": "Ви впевнені, що хочете відновити всі елементи з кошика?",
+    "ConfirmRestoreBinDialogTitle": "Відновити всі елементи",
+    "ConfirmRestoreSelectionBinDialogContent": "Ви хочете відновити {0} виділених елементів?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Відновити вибране",
+    "RestoreAllItems": "Відновити всі елементи",
+    "Restore": "Відновити",
+    "ShortcutCannotBeOpened": "Неможливо відкрити ярлик",
+    "DeleteShortcutDescription": "Неможливо знайти цільовий об’єкт {0}. Бажаєте видалити цей ярлик?",
+    "AccessDeniedToFolder": "Ви не маєте дозволу на доступ до цієї папки.",
+    "ArchivePassword": "Пароль архіву",
+    "ExtractToPath": "Шлях",
+    "SortingAndGrouping": "Сортування та групування",
+    "CreateArchive": "Створити архів",
+    "Create": "Створити",
+    "CreateNamedArchive": "Створити {0}",
+    "EnterName": "Вкажіть назву",
+    "CompressionLevel": "Рівень стиснення",
+    "CompressionLevelUltra": "Ультра",
+    "CompressionLevelHigh": "Високий",
+    "CompressionLevelNormal": "Звичайний",
+    "CompressionLevelLow": "Низький",
+    "CompressionLevelFast": "Швидкий",
+    "CompressionLevelNone": "Нічого",
+    "SplittingSize": "Розмір розділення",
+    "Do not split": "Не розділяти",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Шифрування",
+    "Password": "Пароль",
+    "Format": "Формат",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Синхронізувати стовпець стану"
+    },
+    "GroupBy": "Групувати за",
+    "SortBy": "Сортування",
+    "GroupInDescendingOrder": "Групувати за спаданням",
+    "SortInDescendingOrder": "Сортувати за спаданням",
+    "NewShortcutDialogTitle": "Створити нову комбінацію клавіш",
+    "NewShortcutDialogDescription": "Створюйте ярлики для локальних або мережевих програм, файлів, папок, комп'ютерів або адрес в Інтернеті.",
+    "NewShortcutDialogPrompt": "Введіть розташування елемента:",
+    "AddDialogListShortcutSubHeader": "Створює комбінацію клавіш",
+    "RecentFilesDisabledOnWindowsWarning": "Нещодавно використані файли наразі недоступні у Файловому провіднику Windows.",
+    "EditSettingsFile": "Редагувати файл налаштувань",
+    "WhatsNew": "Що нового",
+    "CannotCreateShortcutDialogTitle": "Створення ярлика у цьому місці потребує прав адміністратора",
+    "CannotCreateShortcutDialogMessage": "Бажаєте створити ярлик на робочому столі натомість?",
+    "ErrorDialogNameNotAllowed": "Вказане ім'я елементу неприпустиме",
+    "Settings": "Налаштування",
+    "DoubleClickBlankSpaceToGoUp": "Двічі клацніть на пустий простір, щоб піднятись на один каталог",
+    "ViewMore": "Переглянути більше",
+    "ShowEditTagsMenu": "Показати віджет редагування міток",
+    "ShowCompressionOptions": "Показати параметри стиснення",
+    "ShowSendToMenu": "Відображати меню \"Надіслати\"",
+    "ShowOpenInNewTab": "Показати опцію відкриття директорії в новій вкладці",
+    "ShowOpenInNewWindow": "Показувати опцію відкриття тек у новому вікні",
+    "QuickAccess": "Швидкий доступ",
+    "NetworkAuthenticationDialogMessage": "Введіть дані для підключення до: {0}",
+    "NetworkAuthenticationDialogTitle": "Введіть дані мережі",
+    "NetworkAuthenticationSaveCheckbox": "Запам’ятати мої облікові дані",
+    "NetworkFolderErrorDialogTitle": "Помилка мережевої папки",
+    "AppVersion": "Версія застосунку",
+    "WindowsVersion": "Версія Windows",
+    "Always": "Завжди",
+    "PermanentDeletionOnly": "Тільки постійне видалення",
+    "Never": "Ніколи",
+    "TagColor": "Колір мітки",
+    "NewTag": "Нова мітка",
+    "CreateNewTag": "Створити нову мітку",
+    "Loading": "Завантаження...",
+    "ContextMenuOptions": "Опції контекстного меню",
+    "ShowFileExtensions": "Відображати розширення файлів",
+    "ShowHiddenItems": "Показати приховані елементи",
+    "FormatDriveText": "Форматувати...",
+    "Help": "Довідка",
+    "FullScreen": "Відкрити на повний екран",
+    "ConfirmDeleteTag": "Ви впевнені, що хочете видалити цю мітку?",
+    "PlayAll": "Відтворити усі",
+    "Height": "Висота",
+    "Width": "Ширина",
+    "ApplyToAllConflictingItems": "Застосувати цю дію до всіх конфліктуючих елементів",
+    "OpenTerminal": "Відкрити в Терміналі Windows",
+    "OpenTerminalAsAdmin": "Відкрити в терміналі Windows як адміністратор",
+    "Save": "Зберегти",
+    "MultiSelect": "Множинний вибір",
+    "ReorderSidebarItemsDialogText": "Перевпорядкувати елементи бічної панелі",
+    "Hashes": "Хеші",
+    "CalculationError": "Під час обрахунку сталась помилка",
+    "CalculationErrorFileIsOpen": "Не вдалося обчислити хеш, будь ласка, закрийте файл і спробуйте знову.",
+    "CalculationOnlineFileHashError": "Хеші не доступні для файлів онлайн",
+    "Algorithm": "Алгоритм",
+    "HashValue": "Значення хешу",
+    "SelectHashesToShow": "Виберіть хеші для показу",
+    "Calculating": "Обчислення...",
+    "JumpListPinnedGroupHeader": "Закріплені елементи",
+    "DecreaseSize": "Зменшити розмір",
+    "IncreaseSize": "Збільшити розмір",
+    "ToggleSortDirection": "Перемкнути напрямок сортування",
+    "InvalidTagNameWarning": "Недопустима назва",
+    "TagNameRules": "Назва не повинна бути порожньою або починатись чи закінчуватись крапкою.",
+    "Videos": "Відео",
+    "LaunchPreviewPopup": "Запустити спливне вікно попереднього перегляду",
+    "ToggleCompactOverlay": "Увімкнути компактний оверлей",
+    "OpenHelpDescription": "Відкрити сторінку довідки в браузері онлайн",
+    "ToggleFullScreenDescription": "Відкрити на повний екран",
+    "EnterCompactOverlayDescription": "Компактний режим",
+    "ExitCompactOverlayDescription": "Вийти з компактного режиму",
+    "ToggleCompactOverlayDescription": "Увімкнути компактний оверлей",
+    "SearchDescription": "Перейти до поля пошуку",
+    "ToggleShowHiddenItemsDescription": "Перемкнути для показу прихованих елементів",
+    "ToggleShowFileExtensionsDescription": "Перемкнути для показу розширень файлів",
+    "TogglePreviewPaneDescription": "Перемкнути панель попереднього перегляду файлів",
+    "ToggleSidebarDescription": "Перемкнути для показу бічної панелі",
+    "CopyItemDescription": "Копіювати елемент(и) до буфера обміну",
+    "CopyPathDescription": "Копіювати шлях до вибраних елементів в буфер обміну",
+    "CopyPathWithQuotesDescription": "Копіювати шлях до вибраних елементів з лапок в буфер обміну",
+    "CutItemDescription": "Вирізати елемент(и) до буфера обміну",
+    "PasteItemDescription": "Вставити елемент(и) з буфера обміну до поточної папки",
+    "PasteItemToSelectionDescription": "Вставити елемент(и) з буфера обміну до вибраної папки",
+    "DeleteItemDescription": "Видалити елемент(и)",
+    "CreateFolderDescription": "Створити нову теку",
+    "CreateShortcutDescription": "Створити нові ярлик(и) для виділених елемента(ів)",
+    "CreateShortcutFromDialogDescription": "Створити новий ярлик будь-якого елемента",
+    "EmptyRecycleBinDescription": "Очистити кошик",
+    "FormatDriveDescription": "Відкрити меню \"Відформатувати диск\" для вибраного елемента",
+    "RestoreRecycleBinDescription": "Відновити вибрані елемент(и) з кошика",
+    "RestoreAllRecycleBinDescription": "Відновити всі елементи з кошика",
+    "OpenItemDescription": "Відкрити елемент(и)",
+    "OpenItemWithApplicationPickerDescription": "Відкрити елемент(и) в обраному застосунку",
+    "OpenParentFolderDescription": "Відкрити батьківську папку шуканого елемента",
+    "RefreshItemsDescription": "Оновити вміст сторінки",
+    "RenameDescription": "Перейменувати вибраний елемент",
+    "SelectAllDescription": "Вибрати все",
+    "InvertSelectionDescription": "Інвертувати виділення елементу",
+    "ClearSelectionDescription": "Очистити виділення елементу",
+    "ToggleSelectDescription": "Перемкнути виділення елементу",
+    "ShareItemDescription": "Поділитися вибраним файлом(ми) з іншими",
+    "PinToStartDescription": "Закріпити елемент(и) в меню Пуск",
+    "UnpinFromStartDescription": "Відкріпити елемент(и) з меню Пуск",
+    "PinFolderToSidebarDescription": "Закріпити папку(и) в бічній панелі",
+    "UnpinFolderFromSidebarDescription": "Відкріпити папку(и) з бічної панелі",
+    "SetAsWallpaperBackgroundDescription": "Встановити вибране зображення тлом робочого столу",
+    "SetAsSlideshowBackgroundDescription": "Встановити вибране зображення як слайд-шоу робочого столу",
+    "SetAsLockscreenBackgroundDescription": "Встановити вибране зображення як тло екрану блокування",
+    "SetAsAppBackgroundDescription": "Встановити зображення тлом додатку",
+    "InstallFontDescription": "Встановити вибраний шрифт(и)",
+    "InstallInfDriverDescription": "Встановити драйвер(и) за допомогою вибраного inf файлу(ів)",
+    "InstallCertificateDescription": "Встановити вибрані сертифікат(и)",
+    "RunAsAdminDescription": "Запустити вибраний застосунок як адміністратор",
+    "RunAsAnotherUserDescription": "Запустити вибраний застосунок як інший користувач",
+    "RunWithPowershellDescription": "Виконати вибраний скрипт PowerShell",
+    "LaunchPreviewPopupDescription": "Запустити попередній перегляд у спливному вікні",
+    "CompressIntoArchiveDescription": "Створити архів з вибраним елементом(ами)",
+    "CompressIntoSevenZipDescription": "Миттєво створити архів 7z з вибраним елементом(ами)",
+    "CompressIntoZipDescription": "Миттєво створити архів zip з вибраним елементом(ами)",
+    "DecompressArchiveDescription": "Розпакувати елементи з вибраного архіву(ів) в будь-яку папку",
+    "DecompressArchiveHereDescription": "Розпакувати елементи з вибраного архіву(ів) в поточну папку",
+    "DecompressArchiveToChildFolderDescription": "Розпакувати елементи з вибраного архіву(ів) в нову папку",
+    "RotateLeftDescription": "Повернути вибране(і) зображення ліворуч",
+    "RotateRightDescription": "Повернути вибране(і) зображення праворуч",
+    "OpenSettingsDescription": "Відкрити сторінку налаштувань",
+    "OpenTerminalDescription": "Відкрити теку в терміналі",
+    "OpenTerminalAsAdminDescription": "Відкрити теку в терміналі як адміністратор",
+    "LayoutDecreaseSizeDescription": "Зменшити розмір елемента в поточному поданні",
+    "LayoutIncreaseSizeDescription": "Збільшити розмір елементу в поточному вікні",
+    "LayoutDetailsDescription": "Перемкнути на вигляд деталей",
+    "LayoutTilesDescription": "Перемкнути на вигляд плиток",
+    "LayoutListDescription": "Переключити на вигляд списку",
+    "List": "Список",
+    "Grid": "Сітка",
+    "LayoutGridDescription": "Переключити в режим перегляду сітки",
+    "LayoutColumnsDescription": "Перемкнути на вигляд стовпців",
+    "LayoutAdaptiveDescription": "Адаптивно перемкнути вигляди",
+    "SortByNameDescription": "Впорядкувати елементи за назвою",
+    "SortByDateModifiedDescription": "Впорядкувати елементи за датою змінення",
+    "SortByDateCreatedDescription": "Впорядкувати елементи за датою створення",
+    "SortBySizeDescription": "Впорядкувати елементи за розміром",
+    "SortByTypeDescription": "Впорядкувати елементи за типом",
+    "SortBySyncStatusDescription": "Впорядкувати елементи за станом синхронізації",
+    "SortByTagDescription": "Впорядкувати елементи за мітками",
+    "SortByOriginalFolderDescription": "Впорядкувати елементи за початковою текою",
+    "SortByDateDeletedDescription": "Впорядкувати елементи за датою видалення",
+    "SortAscendingDescription": "Впорядкувати елементи за зростанням",
+    "SortDescendingDescription": "Впорядкувати елементи за спаданням",
+    "ToggleSortDirectionDescription": "Перемкнути напрямок сортування елементів",
+    "GroupByNoneDescription": "Показати елементи без групування",
+    "GroupByNameDescription": "Згрупувати елементи за назвою",
+    "GroupByDateModifiedDescription": "Згрупувати елементи за датою змінення",
+    "GroupByDateCreatedDescription": "Згрупувати елементи за датою створення",
+    "GroupBySizeDescription": "Згрупувати елементи за розміром",
+    "GroupByTypeDescription": "Згрупувати елементи за типом",
+    "GroupBySyncStatusDescription": "Згрупувати елементи за станом синхронізації",
+    "GroupByTagDescription": "Згрупувати елементи за мітками",
+    "GroupByOriginalFolderDescription": "Згрупувати елементи за початковою текою",
+    "GroupByDateDeletedDescription": "Згрупувати елементи за датою видалення",
+    "GroupByFolderPathDescription": "Згрупувати елементи за шляхом до папки",
+    "GroupAscendingDescription": "Впорядкувати групи за зростанням",
+    "GroupDescendingDescription": "Впорядкувати групи за спаданням",
+    "ToggleGroupDirectionDescription": "Перемкнути напрямок сортування груп",
+    "NewTabDescription": "Відкрити нову вкладку",
+    "NavigateBackDescription": "Перейти назад в історії навігації",
+    "NavigateForwardDescription": "Перейти вперед в історії навігації",
+    "NavigateUpDescription": "Перейти на один каталог вище",
+    "DuplicateCurrentTabDescription": "Дублювати поточну вкладку",
+    "DuplicateSelectedTabDescription": "Дублювати вибрану вкладку",
+    "CloseTabsToTheLeftCurrentDescription": "Закрити вкладки ліворуч від поточної вкладки",
+    "CloseTabsToTheLeftSelectedDescription": "Закрити вкладки ліворуч від вибраної вкладки",
+    "CloseTabsToTheRightCurrentDescription": "Закрити вкладки праворуч від поточної вкладки",
+    "CloseTabsToTheRightSelectedDescription": "Закрити вкладки праворуч від вибраної вкладки",
+    "CloseOtherTabsCurrentDescription": "Закрити вкладки, окрім поточної вкладки",
+    "CloseOtherTabsSelectedDescription": "Закрити вкладки, окрім вибраної вкладки",
+    "ReopenClosedTabDescription": "Повторно відкрити закриту вкладку",
+    "PreviousTabDescription": "Перейти до попередньої вкладки",
+    "NextTabDescription": "Перейти до наступної вкладки",
+    "CloseSelectedTabDescription": "Закрити поточну вкладку",
+    "OpenNewPaneDescription": "Відкрити нову панель",
+    "ClosePaneDescription": "Закрити панель праворуч",
+    "FocusLeftPane": "Focus left pane",
+    "FocusLeftPaneDescription": "Switch focus to the left pane",
+    "FocusRightPane": "Focus right pane",
+    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "ToggleSidebar": "Перемкнути бічну панель",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Пробіл",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Backspace",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Left",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Right",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Down",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Вгору",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Головна",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PageDown",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PageUp",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "|",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Sleep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Очистити",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Друкувати",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Довідка",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Mouse4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Mouse5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "Застосунок",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "Застосунок1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "Застосунок2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "Пошта",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "На головну",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "Назад",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "Вперед",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "Оновити браузер",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "Зупинити браузер",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Пошук",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Уподобання",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "Відтворити/Зупинити",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "Зупинити медіа",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "Попередній трек",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "Наступний трек",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "Обрати медіа",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Вимкнути звук",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "Зменшити гучність",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "Збільшити гучність",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Змінити",
+    "ToggleSelect": "Вибрати виділені",
+    "ShowFileExtensionWarning": "Відображати попередження при зміні розширень файлів",
+    "ThisPC": "Цей ПК",
+    "RecycleBin": "Кошик",
+    "Untagged": "Без міток",
+    "PreviousTab": "Переходить до попередньої вкладки",
+    "NextTab": "Переходить до наступної вкладки",
+    "CloseTab": "Закриває поточну вкладку",
+    "EditPath": "Редагувати шлях",
+    "Redo": "Повторити",
+    "Undo": "Скасувати",
+    "InvalidLocation": "Хибне розташування",
+    "CopyFileWithoutProperties": "Ви впевнені, що хочете скопіювати ці файли без їх властивостей?",
+    "FilePropertiesCannotBeCopied": "Ці файли мають властивості, які не можна скопіювати до нового розташування",
+    "FilePropertiesCannotBeMoved": "Ці файли мають властивості, які не можна перемістити до нового розташування",
+    "MoveFileWithoutProperties": "Ви впевнені, що хочете перемістити ці файли без їх властивостей?",
+    "ShowCheckboxesWhenSelectingItems": "Показувати прапорці під час вибору елементів",
+    "EditPathDescription": "Фокус на панелі шляху",
+    "AddItemDescription": "Створити новий елемент",
+    "SecurityNoAccessControlEntriesText": "Жодна група чи користувач не має дозволів на даний об'єкт. Проте, власник даного об'єкту може надавати дозволи.",
+    "OpenFileLocationDescription": "Відкрити розташування елемента",
+    "DeletePermanently": "Видалити безповоротно",
+    "DeleteItemPermanentlyDescription": "Видалити елемент(и) безповоротно",
+    "PlayAllDescription": "Відтворити вибрані медіафайли",
+    "UndoDescription": "Скасувати останню операцію з файлом",
+    "RedoDescription": "Повторити останню операцію з файлом",
+    "Location": "Розташування:",
+    "GroupByMonthDescription": "Згрупувати елементи за місяцем",
+    "GroupByYearDescription": "Згрупувати елементи за роком",
+    "Month": "Місяць",
+    "Day": "День",
+    "ToggleGroupByDateUnitDescription": "Увімкнути або вимкнути групування за датою",
+    "ToggleGroupingUnit": "Увімкнути або вимкнути групування",
+    "Year": "Рік",
+    "GroupByDateUnit": "Групувати за датою",
+    "GroupByDateCreatedDayDescription": "Групувати елементи за датою створення",
+    "GroupByDateCreatedMonthDescription": "Згрупувати елементи за місяцем дати створення",
+    "GroupByDateCreatedYearDescription": "Згрупувати елементи за роком дати створення",
+    "GroupByDateDeletedDayDescription": "Групувати елементи за датою видалення",
+    "GroupByDateDeletedMonthDescription": "Згрупувати елементи за місяцем дати видалення",
+    "GroupByDateDeletedYearDescription": "Згрупувати елементи за роком дати видалення",
+    "GroupByDateModifiedDayDescription": "Групувати елементи за датою змінення",
+    "GroupByDateModifiedMonthDescription": "Згрупувати елементи за місяцем дати змінення",
+    "GroupByDateModifiedYearDescription": "Згрупувати елементи за роком дати змінення",
+    "SecurityClickAdvancedPermissions": "Натисніть \"Додаткові дозволи\" для продовження.",
+    "SecurityRequireReadPermissions": "Ви повинні мати дозвіл на читання для перегляду властивостей цього елемента.",
+    "SecuritySuggestToTakeOwnership": "Щоб підтвердити право власності на об'єкт, що містить в собі дозвіл на перегляд його властивостей, натисніть кнопку \"Змінити\" вище.",
+    "SecurityUnableToDisplayPermissions": "Не вдалося показати дозволи.",
+    "StashChanges": "Залишити мої зміни на '{0}'",
+    "DiscardChanges": "Відхилити мої зміни",
+    "BringChanges": "Застосувати мої зміни до '{0}'",
+    "UncommittedChanges": "Ви маєте не закомічені зміни на даній гілці. Що б ви хотіли зробити з ними?",
+    "SwitchBranch": "Змінити гілку",
+    "Branches": "Гілки",
+    "Switch": "Змінити",
+    "NewBranch": "Нова гілка",
+    "InvalidBranchName": "Некоректна назва гілки",
+    "CreateBranch": "Створити гілку",
+    "CreateNewBranch": "Створити гілку",
+    "BasedOn": "На основі",
+    "SwitchToNewBranch": "Перейти на нову гілку",
+    "CreateFolderWithSelectionDescription": "Створити теку з поточним вибраним елементом(ами)",
+    "OpenProperties": "Відкрити властивості",
+    "OpenPropertiesDescription": "Відкрити вікно властивостей",
+    "Locals": "Локальні",
+    "Remotes": "Віддалені",
+    "ImproveTranslation": "Перекласти на Crowdin",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Запустити git fetch",
+    "GitPullDescription": "Запустити git pull",
+    "Preview": "Попередній перегляд",
+    "GitStatus": "Статус Git",
+    "GitError": "Помилка git",
+    "PullTimeoutError": "Не вдалося виконати git pull через помилку часу очікування",
+    "MultipleValues": {
+        "text": "(кілька значень)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Автор",
+    "DateCommitted": "Дата внеску",
+    "CommitMessage": "Внести повідомлення",
+    "CommitSha": "Внести SHA",
+    "Git": "Git",
+    "Acrylic": "Акрил",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Матеріал фону",
+    "Solid": "Цільний",
+    "ManageBranches": "Керувати гілками",
+    "Push": "Push",
+    "GitPushDescription": "Запустити git push",
+    "GitSync": "Синхронізувати",
+    "GitSyncDescription": "Запустити git pull, а потім git push",
+    "GitSyncStatusExtendedInfo": "{0} вихідних / {1} вхідних комітів",
+    "ConnectGitHub": "Під'єднати GitHub",
+    "ConnectGitHubDescription": "Введіть вказаний код за посиланням нижче, щоб почати працювати з репозиторіями GitHub.",
+    "CannotReachGitHubError": "Наразі Files не може отримати доступ до GitHub.",
+    "OpenInVSCode": "Відкрити папку у VS Code",
+    "OpenInVSCodeDescription": "Відкрити каталог у Visual Studio Code",
+    "OpenRepoInVSCode": "Відкрити репозиторій у VS Code",
+    "OpenRepoInVSCodeDescription": "Відкрийте корінь Git репозиторію за допомогою Visual Studio Code",
+    "CopyCode": "Скопіювати код",
+    "Added": "Додано",
+    "Deleted": "Видалено",
+    "Modified": "Змінено",
+    "Untracked": "Не відстежується",
+    "UnableToDisplayOwner": "Не вдалося зобразити поточного власника.",
+    "AuthorizationSucceded": "Чудово! Ви успішно авторизовані.",
+    "InitRepo": "Ініціалізувати репозиторій",
+    "InitRepoDescription": "Ініціалізувати репозиторій Git",
+    "GitOriginRepositoryName": "Назва віддаленого репозиторію",
+    "GitCurrentBranch": "Поточна гілка",
+    "PathColumn": "Стовпчик шляху",
+    "SortByPathDescription": "Впорядкувати елементи за шляхом",
+    "OpenDirectoryInNewPaneDescription": "Відкрити каталог у новій панелі",
+    "OpenDirectoryInNewTabDescription": "Відкрити каталог у новій вкладці",
+    "OpenInNewWindowDescription": "Відкрити каталог у новому вікні",
+    "OpenAllTaggedItems": "Відкрити все",
+    "OpenAllTaggedItemsDescription": "Відкрити всі позначені елементи",
+    "DriveWithLetter": {
+        "text": "Диск ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Некоректна команда",
+    "InvalidCommandContent": "'{0}' не розпізнано як команду.",
+    "CommandNotExecutable": "Команду неможливо виконати",
+    "CommandNotExecutableContent": "Команда '{0}' не готова до виконання.",
+    "CommandPalette": "Панель команд",
+    "OpenCommandPaletteDescription": "Відкрити панель команд",
+    "ShortcutItemWorkingDir": "Запустити в:",
+    "TurnOnBitLocker": "Увімкнути BitLocker",
+    "ManageBitLocker": "Керування BitLocker",
+    "CopyFailureFileToLarge": "Обрані елементи є завеликими для копіювання на цей диск",
+    "FormatDrive": "Відформатувати диск",
+    "DontShowAgain": "Не показувати знову",
+    "FilesRunningAsAdmin": "Files запущений від імені адміністратора",
+    "FilesRunningAsAdminContent": "Через обмеження з Windows та WinAppSdk, перетягування недоступний при виконанні файлів як адміністратор. Якщо ви хочете використовувати перетягування, ви можете обійти це обмеження, відкривши UAC (контроль за обліковими записами користувачів) в меню Пуск і вибравши третій рівень і відновивши Windows. В іншому випадку, ви можете продовжувати використовувати файли без перетягування і скидання.",
+    "SettingsLeaveAppRunning": "При закритті вікна залишати застосунок на фоні",
+    "Blue": {
+        "text": "Синій",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Синьо-сірий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Цегляний",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Камуфляж",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Прохолодний світло-синій",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Сірий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Темно-сірий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Зелений",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Пастельно-ірисовий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Світло-м'ятний",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Помірно-червоний",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Світло-помаранчевий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Похмурий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Червоний",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Світло-трояндовий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Морська піна",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Шторм",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Світлий фіолетово-червоний",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Золотаво-жовтий",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Очищення завершено",
+    "NameWithColon": "Імʼя:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "опрацьовано {0} з {1}",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "елементи",
+    "CannotInitializeGitRepo": "Files не можуть ініціалізувати Git-репозиторій в цьому каталозі.",
+    "ContributingArtist": "Художник-учасник",
+    "AddPage": "Додати сторінку",
+    "ProcessingItems": "Опрацювання елементів...",
+    "SpeedWithColon": "Швидкість:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Скасовано стиснення {0} елементів до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Скасовано стиснення {0} елементів з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "Стиснення {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "Стиснення {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Помилка стиснення {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Не вдалось стиснути {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "Стиснення {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "Стиснення {0} елемент(ів) до \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Скасовано копіювання {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Скасовано копіювання {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "Скопійовано {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "Скопійовано {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Помилка копіювання {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Не вдалось скопіювати {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "Копіювання {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "Копіювання {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Скасовано видобування \"{0}\" до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Скасовано видобування \"{0}\" з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "Видобуто \"{0}\" до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "Видобуто \"{0}\" з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Помилка видобування \"{0}\" до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Не вдалось видобути \"{0}\" з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "Видобування \"{0}\" до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "Видобування \"{0}\" з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Скасовано видалення {0} елементів з \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "Видалено {0} item(s) з \"{1} \" \"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Не вдалося видалити {0} item(s) з \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "Видалення {0} елемент(ів) з \"{1} \" \"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Скасовано переміщення {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Скасовано переміщення {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "Переміщено {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "Переміщено {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "Переміщення {0} елемент(ів) з \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "Переміщення {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Помлка переміщення {0} елемент(ів) до \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Не вдалось перемістити {0} елемент(ів) з \"{1}\" до \"{2}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Скасовано очищення кошика",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Кошик очищено",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Очищення кошика",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Помилка очищення кошика",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Не вдалося очистити кошик",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "Підготування операції...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} елемент(ів) опрацьовано",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Розблокувати завантажений файл",
+    "NoFileOperations": "Немає поточних операцій з файлами",
+    "OpenOnStartupDisabled": "Опція для автозапуску Files не доступна через налаштування системи або групову політику. Щоб ввімкнути вручну, відкрийте сторінку автозапуску в диспетчері задач.",
+    "FailedToRestore": "Не вдалося відновити об'єкти з кошика",
+    "FailedToSetBackground": "Не вдалося встановити шпалери",
+    "GitDeleteBranch": "Видалити гілку Git",
+    "GitDeleteBranchSubtitle": "Ви дійсно бажаєте назавжди видалити гілку «{0}»?",
+    "ConnectedToGitHub": "Під'єднано до GitHub",
+    "Logout": "Вихід",
+    "ConnectToGitHub": "Під'єднати GitHub",
+    "Login": "Вхід",
+    "ErrorApplyingTagContent": "Теги в даний час сумісні тільки для форматованих на дисках як NTFS.",
+    "ErrorApplyingTagTitle": "При застосуванні цього тега сталася помилка",
+    "DecompressArchiveHereSmartDescription": "Видобути елементи з вибраного архіву до поточної теки для однопредметного архіву або до нової теки для декількох елементів",
+    "ExtractHereSmart": "Видобути тут (Smart)",
+    "SortFilesAndFoldersTogether": "Сортувати папки та файли разом",
+    "SortFilesAndFoldersTogetherDescription": "Сортувати папки та файли разом",
+    "SortFilesFirst": "Спершу сортувати файли",
+    "SortFilesFirstDescription": "Спершу сортувати файли, потім папки",
+    "SortFoldersFirst": "Спершу сортувати папки",
+    "SortFoldersFirstDescription": "Спершу сортувати папки, потім файли",
+    "SortPriority": "Пріоритет сортування",
+    "FailedToRotateImage": "Не вдалося повернути зображення",
+    "Restart": "Перезавантажити",
+    "Quit": "Вийти",
+    "FaildToShareItems": "Не вдалося поділитися елементами",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Прокручувати до попередньої папки при переміщенні вгору",
+    "NewWindowDescription": "Відкрити нове вікно",
+    "ChangeAlbumCover": "Змінити обкладинку альбому",
+    "ItemRenameFailed": "Не вдалося перейменувати елемент",
+    "HigherPermissionsRequired": "Редагування \"{0}\" потребує додаткових дозволів",
+    "EditPermissions": "Редагувати права доступу",
+    "BackgroundRunningNotificationBody": "Файли все ще працюють у фоновому режимі для збільшення продуктивності запуску.",
+    "BackgroundRunningNotificationHeader": "Куди повернули файли?",
+    "QuestionsAndDiscussions": "Питання та обговорення",
+    "TilesViewSizeInfo": "Додаткові розміри поки що недоступні для перегляду плиток.",
+    "Compact": {
+        "text": "Компактний",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Малий",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Середній",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Середній +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Середній ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Середній +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Середній ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Середній +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Великий",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Великий +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Великий ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Великий +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Найбільший",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Докладне подання",
+    "LayoutType": "Тип розкладки",
+    "Actions": "Дії",
+    "Commands": "Команди",
+    "AddCommand": "Додати команду",
+    "RestoreDefaults": "Відновити значення за замовчуванням",
+    "ChooseAnAction": "Виберіть дію",
+    "RestoreDefaultKeybindingsConfirmation": "Ви дійсно хочете відновити типові прив'язки? Цю дію не можна скасувати.",
+    "KeybindingAlreadyUsedNotification": "Цей зв'язування ключів вже використовується, будь ласка, оберіть інший ключ, щоб продовжити.",
+    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "Customized": "Модифікований",
+    "AdaptiveLayoutDisabledNotification": "Адаптивна розкладка неможлива при синхронізації налаштувань, макет за замовчуванням змінено на деталі.",
+    "BackgroundImage": "Фонове зображення",
+    "Bottom": {
+        "text": "Знизу",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "По центру",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Заповнити",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Горизонтальне вирівнювання",
+    "ImageFit": "Підходять до зображення",
+    "Left": {
+        "text": "Left",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Прозорість",
+    "Right": {
+        "text": "Right",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Верх",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Рівномірна",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Однорідні для заповнення",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Вертикальне вирівнювання",
+    "ThinAcrylic": {
+        "text": "Тін Акрил",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Показати для всіх місць",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Інструменти розробника",
+    "DisplayOpenIDE": "Налаштування кнопки \"Відкрити IDE\" в рядку стану",
+    "GitRepos": {
+        "text": "Показати для Git репозиторіїв",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Розширення додатку",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "Файл ICO",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "ZIP-файл",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Файли растру",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Num",
+    "NetworkLocations": "Мережеві розташування",
+    "NoNetworkLocationsInfo": "Немає жодної мережі. Якщо ви не використовуєте мережеві місцезнаходження, можна вимкнути віджет.",
+    "Disable": "Вимкнено",
+    "EditInNotepad": "Редагувати в Блокноті",
+    "EditInNotepadDescription": "Редагування виділеного файлу в Notepad"
+}

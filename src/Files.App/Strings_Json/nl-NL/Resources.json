@@ -1,0 +1,1888 @@
+{
+    "NewWindow": "Nieuw venster",
+    "CopyPath": "Pad kopiëren",
+    "CopyPathWithQuotes": "Pad kopiëren inclusief aanhalingstekens",
+    "Browse": "Bladeren",
+    "Size": "Grootte",
+    "PropertiesCreated": {
+        "Text": "Gemaakt op:"
+    },
+    "Path": "Pad",
+    "SizeLabel": "Grootte:",
+    "SizeOnDiskLabel": "Grootte op schijf:",
+    "UncompressedSize": "Ongecomprimeerde grootte:",
+    "ErrorDialogThisActionCannotBeDone": "Deze actie kan niet worden uitgevoerd",
+    "ErrorDialogTheDestinationFolder": "De doelmap",
+    "ErrorDialogIsASubfolder": "is een submap van de hoofdmap",
+    "Skip": "Overslaan",
+    "SelectAll": "Alles selecteren",
+    "InvertSelection": "Selectie omkeren",
+    "ClearSelection": "Selectie wissen",
+    "PropertiesModified": {
+        "Text": "Gewijzigd op:"
+    },
+    "Accessed": "Laatst geopend:",
+    "RecentItemClearAll": {
+        "Text": "Alle items wissen"
+    },
+    "NavigationToolbarVisiblePath": {
+        "PlaceholderText": "Voer een pad in om te navigeren naar of type \">\" om het commandopaneel te openen"
+    },
+    "Search": "Zoeken",
+    "RecentItemDescription": {
+        "Text": "Bestanden die u eerder heeft geopend zullen hier worden weergegeven"
+    },
+    "RecentItemRemove": {
+        "Text": "Dit item verwijderen"
+    },
+    "OpenGitHubRepo": "GitHub Repository",
+    "About": "Over",
+    "OpenSource": "Open source",
+    "DateFormat": "Datumnotatie",
+    "SettingsAppearanceTheme": "Thema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Extensies tonen voor bekende bestandstypes",
+    "SettingsFilesAndFoldersShowHiddenItems": "Verborgen bestanden en mappen weergeven",
+    "ShowDotFiles": "Toon punt bestanden",
+    "Appearance": "Vormgeving",
+    "BackgroundColor": "Achtergrond kleur",
+    "Advanced": "Geavanceerd",
+    "SettingsOnStartupContinueWhereYouLeftOff": {
+        "Content": "Verdergaan waar u was gebleven"
+    },
+    "SettingsOnStartupOpenANewTab": {
+        "Content": "Nieuw tabblad openen"
+    },
+    "SettingsOnStartupOpenASpecificPage": {
+        "Content": "Specifieke pagina('s) openen"
+    },
+    "Desktop": "Bureaublad",
+    "Documents": "Documenten",
+    "Downloads": "Downloads",
+    "Name": "Naam",
+    "Ascending": "Oplopend",
+    "Paste": "Plakken",
+    "BaseLayoutContextFlyoutNew": {
+        "Label": "Nieuw"
+    },
+    "Properties": "Eigenschappen",
+    "Open": "Openen",
+    "OpenInNewTab": "Openen in nieuw tabblad",
+    "OpenInNewWindow": "Openen in nieuw venster",
+    "Share": "Delen",
+    "Cut": "Knippen",
+    "Delete": "Verwijderen",
+    "PinFolderToSidebar": "Aan zijbalk vastmaken",
+    "WelcomeDialog": {
+        "Title": "Welkom bij Files!",
+        "PrimaryButtonText": "Verleen machtiging"
+    },
+    "WelcomeDialogTextBlock": {
+        "Text": "Om aan de slag te gaan, moet u ons machtigen geven om uw bestanden weer te geven. Hiermee wordt er een pagina in Instellingen geopend waar deze machtiging kunt geven. U moet de app hierna opnieuw starten. "
+    },
+    "Display": "Weergave",
+    "EnterAnItemName": "Voer een itemnaam in",
+    "RenameDialog": {
+        "PrimaryButtonText": "Set naam"
+    },
+    "LightTheme": "Licht",
+    "DarkTheme": "Donker",
+    "Application": "Toepassing",
+    "SystemTimeStyle": "Systeem",
+    "NewFolder": "Nieuwe map",
+    "NewFile": "Nieuw bestand",
+    "EmptyFolder": {
+        "Text": "Deze map is leeg."
+    },
+    "Back": "Terug (Alt+Pijl-links)",
+    "Forward": "Vooruit (Alt+Pijl-rechts)",
+    "Up": "Omhoog (Alt+Pijl-omhoog)",
+    "Refresh": "Verversen",
+    "ItemAlreadyExistsDialogContent": "Een item met deze naam bestaat al in deze map.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Bestaand item vervangen",
+    "ItemAlreadyExistsDialogTitle": "Item bestaat al",
+    "SetAsLockscreen": "Als vergrendelscherm achtergrond instellen",
+    "SetAsAppBackground": "Instellen als app-achtergrond",
+    "AccessDeniedDeleteDialog": {
+        "Text": "Dit item kan niet worden verwijderd"
+    },
+    "DriveUnpluggedDialog": {
+        "Text": "Plaats het benodigde station om toegang te krijgen tot dit item.",
+        "Title": "Schijf ontkoppeld"
+    },
+    "FileNotFoundDialog": {
+        "Text": "Het bestand dat u probeert te openen, is mogelijk verplaatst of verwijderd.",
+        "Title": "Bestand is niet gevonden"
+    },
+    "CannotAccessPropertiesTitle": "Kan eigenschappen van dit bestand niet openen",
+    "CannotAccessPropertiesContent": "Het bestand dat u probeert te openen, is mogelijk verplaatst of verwijderd.",
+    "FolderNotFoundDialog": {
+        "Text": "De map die u probeert te openen, is mogelijk verplaatst of verwijderd.",
+        "Title": "Is deze map verwijderd?"
+    },
+    "FileInUseByDialog": {
+        "Text": "Het bestand wat je probeert te openen, wordt op dit moment gebruikt door {0}"
+    },
+    "FileInUseDialog": {
+        "Text": "Het bestand wat je probeert te openen, wordt gebruikt door een andere applicatie",
+        "Title": "Bestand is in gebruik"
+    },
+    "Layout": "Lay-out",
+    "PropertiesDialogReadOnly": {
+        "Text": "Alleen-lezen"
+    },
+    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "Now": "Nu",
+    "ErrorDialogUnsupportedOperation": "De gevraagde bewerking wordt niet ondersteund.",
+    "DriveFreeSpaceAndCapacity": "{0} vrij van {1}",
+    "SendTo": "Verzenden naar",
+    "FileNameTeachingTip": {
+        "Subtitle": "De itemnaam mag geen van de volgende tekens bevatten: \\ / : * ? \" < > |"
+    },
+    "InvalidFilename": {
+        "Text": "De opgegeven itemnaam is ongeldig"
+    },
+    "SelectedItems": {
+        "text": "{0, plural, one {# item geselecteerd} other {# items geselecteerd}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Items": {
+        "text": "{0, plural, one {item} other {artikel}}",
+        "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
+    },
+    "Yes": "Ja",
+    "ConfirmEmptyBinDialogContent": "Weet u zeker dat u al deze items permanent verwijderen?",
+    "ConfirmEmptyBinDialogTitle": "Prullenbak leegmaken",
+    "ItemSizeBytes": "bytes",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "BaseLayoutContextFlyoutRunAsAnotherUser": {
+        "Text": "Als andere gebruiker uitvoeren"
+    },
+    "PropertiesDriveItemTypesEquals": "Alle typen {0}",
+    "PropertiesDriveItemTypeDifferent": "Verschillende typen",
+    "PropertiesCombinedItemLocation": "Allemaal in {0}",
+    "PropertiesDriveUsedSpace": {
+        "Text": "Gebruikte ruimte:"
+    },
+    "PropertiesDriveFreeSpace": {
+        "Text": "Beschikbare ruimte:"
+    },
+    "PropertiesDriveCapacity": {
+        "Text": "Capaciteit:"
+    },
+    "PropertiesDriveFileSystem": {
+        "Text": "Bestandssysteem:"
+    },
+    "JumpListRecentGroupHeader": "Recent",
+    "TabStripDragAndDropUIOverrideCaption": "Tabblad hierheen verplaatsen",
+    "syncStatusColumn": {
+        "Header": "Status"
+    },
+    "SettingsPreferencesSystemDefaultLanguageOption": "Windows-standaard",
+    "NavigationToolbarVisiblePathNoResults": "Geen resultaten",
+    "SubDirectoryAccessDenied": "Geen toegang tot items om weer te geven",
+    "MoveToFolderCaptionText": "Verplaatsen naar {0}",
+    "CopyToFolderCaptionText": "Kopiëren naar {0}",
+    "CreateShortcut": "Snelkoppeling maken",
+    "OpenFileLocation": "Bestandslocatie openen",
+    "PropertiesShortcutItemArgs": {
+        "Text": "Argumenten:"
+    },
+    "PropertiesShortcutItemPath": {
+        "Text": "Bestemming:"
+    },
+    "PropertiesShortcutItemType": {
+        "Text": "Snelkoppelingstype:"
+    },
+    "PropertiesShortcutTypeLink": "Webkoppeling",
+    "General": "Algemeen",
+    "Shortcut": "Snelkoppeling",
+    "ShortcutWebLinkFileType": "Internetsnelkoppeling",
+    "ShortcutCreateNewSuffix": "{0} - snelkoppeling",
+    "ExceptionNotificationBody": "Er is een probleem opgetreden met Files waarvoor de ontwikkelaars zich niet hebben voorbereid.",
+    "ExceptionNotificationHeader": "Er is iets misgegaan.",
+    "ExceptionNotificationReportButton": "Dit probleem melden",
+    "InvalidItemDialogContent": "Het item waarnaar wordt verwezen, is ongeldig of niet toegankelijk.{0}Foutmelding:{0}{1}",
+    "InvalidItemDialogTitle": "Ongeldig item",
+    "SettingsAboutVersionTitle": "Versie:",
+    "ShareDialogFailMessage": "Er valt op dit moment niets te delen...",
+    "ShareDialogMultipleItemsDescription": "De geselecteerde items worden gedeeld",
+    "ShareDialogSingleItemDescription": "Het geselecteerde item wordt gedeeld",
+    "ShareDialogTitle": "{0} delen",
+    "ShareDialogTitleMultipleItems": "{0} {1} delen",
+    "RenameError": {
+        "ItemDeleted": {
+            "Text": "Het item dat u probeert te hernoemen, bestaat niet meer. Controleer de locatie van dit item.",
+            "Title": "Item bestaat niet meer"
+        },
+        "NameInvalid": {
+            "Text": "De opgegeven naam is ongeldig. Controleer de gewenste naam en probeer het opnieuw.",
+            "Title": "Ongeldige itemnaam"
+        },
+        "TooLong": {
+            "Text": "De lengte van de opgegeven itemnaam overschrijdt de limiet. Controleer de gewenste naam en probeer het opnieuw.",
+            "Title": "Itemnaam te lang"
+        }
+    },
+    "ShowMoreOptions": "Meer opties tonen",
+    "RestartNotificationText": {
+        "Text": "De toepassing moet worden herstart om deze instellingen toe te passen. Wilt u dit nu doen?"
+    },
+    "SponsorUsOnGitHub": "Sponsor ons op GitHub",
+    "AccessDeniedCreateDialog": {
+        "Text": "Dit item kon niet worden aangemaakt"
+    },
+    "AccessDenied": "Toegang geweigerd",
+    "BaseLayoutItemContextFlyoutSetAs": {
+        "Text": "Instellen als"
+    },
+    "Cancel": "Annuleren",
+    "AddDialog": {
+        "Title": "Maak een nieuw item"
+    },
+    "AddDialogDescription": {
+        "Text": "Kies hieronder het type item"
+    },
+    "File": "Bestand",
+    "AddDialogListFileSubHeader": "Maakt een nieuw bestand",
+    "Folder": "Map",
+    "AddDialogListFolderSubHeader": "Maakt een lege map",
+    "NavResfreshButton": {
+        "AutomationProperties": {
+            "Name": "Map vernieuwen"
+        }
+    },
+    "Language": "Taal",
+    "SettingsContextMenuOverflow": "Verplaats shell-extensies naar een submenu",
+    "ShowConfirmationWhenDeletingItems": "Toon bevestigingsvenster bij het verwijderen van items",
+    "PropertySaveErrorMessage": {
+        "Text": "Er is een probleem opgetreden bij het opslaan van enkele eigenschappen."
+    },
+    "PropertySaveErrorDialog": {
+        "Title": "Foutmelding",
+        "SecondaryButtonText": "Toch sluiten"
+    },
+    "PropertyRatingText": "Beoordeling",
+    "PropertyParsingPath": "Itempad",
+    "PropertyItemTypeText": "Bestandstype",
+    "PropertyTitle": "Titel",
+    "PropertySubject": "Onderwerp",
+    "PropertyComment": "Opmerking",
+    "PropertyCopyright": "Copyright",
+    "PropertyDateModified": "Datum gewijzigd",
+    "PropertyBitDepth": "Bitdiepte",
+    "PropertyDimensions": "Afmetingen",
+    "PropertyHorizontalSize": "Horizontale grootte",
+    "PropertyVerticalSize": "Verticale grootte",
+    "PropertyHorizontalResolution": "Horizontale resolutie",
+    "PropertyVerticalResolution": "Verticale resolutie",
+    "PropertyColorSpace": "Kleurbereik",
+    "PropertyColorSpace_Value0": "sRGB",
+    "PropertyColorSpace_Value65535": "Niet opgegeven",
+    "PropertyLongitudeDecimal": "Lengtegraad decimaal",
+    "PropertyLatitudeDecimal": "Breedtegraad decimaal",
+    "PropertyAltitude": "Hoogte",
+    "PropertyDateTaken": "Genomen op",
+    "PropertyCameraManufacturer": "Camerafabrikant",
+    "PropertyCameraModel": "Cameramodel",
+    "PropertyExposureTime": "Belichtingstijd",
+    "PropertyFocalLength": "Brandpuntsafstand",
+    "PropertyAperture": "Lensopening",
+    "PropertyPeopleNames": "Namen van personen",
+    "PropertyChannelCount": "Aantal kanalen",
+    "PropertyFormat": "Formaat",
+    "PropertySampleRate": "Sample-rate",
+    "PropertyAlbumArtist": "Albumartiest",
+    "PropertyAlbumTitle": "Albumtitel",
+    "Artist": "Artiest",
+    "PropertyBeatsPerMinute": "Beats per minuut",
+    "PropertyComposer": "Componist",
+    "Conductor": "Dirigent",
+    "PropertyDiscNumber": "Schijfnummer",
+    "PropertyGenre": "Genre",
+    "PropertyTrackNumber": "Nummer",
+    "PropertyDuration": "Afspeelduur",
+    "PropertyFrameCount": "Aantal frames",
+    "PropertyProtectionType": "Beveiligingstype",
+    "PropertyAuthorUrl": "URL auteur",
+    "PropertyContentDistributor": "Inhoudverspreider",
+    "PropertyDateReleased": "Releasedatum",
+    "PropertySeriesName": "Reeksnaam",
+    "PropertySeasonNumber": "Seizoensnummer",
+    "PropertyEpisodeNumber": "Afleveringsnummer",
+    "PropertyProducer": "Producent",
+    "PropertyPromotionUrl": "URL promotie",
+    "PropertyProviderStyle": "Stijl leveraar",
+    "PropertyPublisher": "Uitgever",
+    "PropertyThumbnailLargePath": "Pad groot miniatuur",
+    "PropertyThumbnailLargeUri": "URI groot miniatuur",
+    "PropertyThumbnailSmallPath": "Pad klein miniatuur",
+    "PropertyThumbnailSmallUri": "URI klein miniatuur",
+    "PropertyUserWebUrl": "URL gebruiker",
+    "PropertyWriter": "Schrijver",
+    "PropertyYear": "Jaar",
+    "PropertyContributor": "Bijdrager",
+    "PropertyLastAuthor": "Laatste auteur",
+    "PropertyRevisionNumber": "Revisienummer",
+    "PropertyVersion": "Versie",
+    "PropertyDateCreated": "Aanmaakdatum",
+    "PropertyTotalEditingTime": "Totale bewerkingstijd:",
+    "PropertyTemplate": "Sjabloon",
+    "PropertyWordCount": "Aantal woorden",
+    "PropertyCharacterCount": "Aantal tekens",
+    "PropertyLineCount": "Aantal regels",
+    "PropertyParagraphCount": "Aantal alinea's",
+    "PropertyPageCount": "Aantal pagina's",
+    "PropertySlideCount": "Aantal dia's",
+    "PropertyFrameRate": "Framesnelheid",
+    "PropertyEncodingBitrate": "Versleutelingsbitrate",
+    "PropertyPreviewAudioEncodingBitrate": "Audio Codering Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "Bitrate voor videocodering",
+    "Compression": "Compressie",
+    "PropertyFrameWidth": "Framebreedte",
+    "PropertyFrameHeight": "Framehoogte",
+    "PropertyOrientation": "Afdrukstand",
+    "PropertySectionCore": "Basis",
+    "PropertySectionImage": "Afbeelding",
+    "PropertySectionPhoto": "Foto",
+    "PropertySectionGPS": "GPS",
+    "PropertySectionMedia": "Media",
+    "PropertySectionAudio": "Geluid",
+    "PropertySectionMusic": "Muziek",
+    "PropertySectionVideo": "Video",
+    "Document": "Document",
+    "Address": "Adres",
+    "SelectionOptions": "Selectieopties",
+    "NavToolbarSelectionOptions": {
+        "Label": "Selecteren"
+    },
+    "RecycleBinItemAutomation": "Prullenbakitem",
+    "ShortcutItemAutomation": "Snelkoppelingsitem",
+    "Drives": "Stations",
+    "PinToSidebarByDraggingCaptionText": "Hierheen verplaatsen",
+    "EjectNotificationHeader": "Hardware kan veilig worden verwijderd",
+    "EjectNotificationBody": "Dit apparaat kan nu veilig uit de computer worden verwijderd.",
+    "EjectNotificationErrorDialogHeader": "Probleem bij het uitwerpen van apparaat",
+    "EjectNotificationErrorDialogBody": "Dit apparaat is in gebruik. Sluit alle programma's, vensters en tabbladen die dit apparaat gebruiken en probeer het opnieuw.",
+    "Eject": "Uitwerpen",
+    "DuplicateTab": "Tabblad dupliceren",
+    "HorizontalMultitaskingControlMoveTabToNewWindow": {
+        "Text": "Verplaats tabblad naar nieuw venster"
+    },
+    "NewTab": "Nieuw tabblad",
+    "ClearPropertiesFlyoutText": {
+        "Text": "Sommige eigenschappen kunnen persoonlijke informatie bevatten."
+    },
+    "ClearPropertiesButton": {
+        "Content": "Alle eigenschappen wissen"
+    },
+    "OngoingTasksTeachingTip": {
+        "Subtitle": "Controleer hier de status van bewerkingen",
+        "Title": "Statuscentrum"
+    },
+    "SearchPagePathBoxOverrideText": "Zoekresultaten in",
+    "Details": "Details",
+    "No": "Nee",
+    "ShowProtectedSystemFiles": "Beveiligde systeembestanden weergeven",
+    "SyncFolderPreferencesAcrossDirectories": "Synchroniseer lay-out en sorteer voorkeuren tussen mappen",
+    "SettingsContextMenu": {
+        "Text": "Contextmenu aanpassen"
+    },
+    "OriginalPath": "Oorspronkelijk pad",
+    "Add": "Toevoegen",
+    "Edit": "Wijzigen",
+    "Remove": "Wissen",
+    "SettingsMultitaskingAlwaysOpenDualPane": "Tabbladen in dubbele paneelmodus openen",
+    "ShowOpenInNewPane": "Toon optie om mappen in een nieuw paneel te openen",
+    "ShowCopyPath": "Toon optie om pad te kopiëren",
+    "ShowCreateFolderWithSelection": "Toon optie om map aan te maken met selectie",
+    "ShowCreateShortcut": "Toon optie om een snelkoppeling te maken",
+    "NavigationToolbarNewPane": {
+        "Label": "Nieuw paneel"
+    },
+    "OpenInNewPane": "In nieuw paneel openen",
+    "FilesAndFolders": "Bestanden en mappen",
+    "NavToolbarDetails": {
+        "ToolTipService": {
+            "ToolTip": "Details (Ctrl+Shift+1)"
+        }
+    },
+    "NavToolbarTiles": {
+        "ToolTipService": {
+            "ToolTip": "Tegels (Ctrl+Shift+2)"
+        }
+    },
+    "DateDeleted": "Datum verwijderd",
+    "SidebarCloudDrives": "Cloudstations",
+    "Confirm": "Bevestigen",
+    "DesiredName": "Gewenste naam",
+    "TogglePreviewPane": "Voorbeeldpaneel in-/uitschakelen",
+    "ToggleDetailsPane": "Detailpaneel in-/uitschakelen",
+    "ToggleDetailsPaneDescription": "Detailpaneel in- of uitschakelen om standaard bestandseigenschappen te zien",
+    "ToggleInfoPane": "Infopaneel in-/uitschakelen",
+    "ToggleInfoPaneDescription": "Infopaneel in- of uitschakelen om het detail-/voorbeeldvenster te kunnen zien",
+    "DetailsPanePreviewNotAvaliableText": "Geen voorbeeld beschikbaar",
+    "PropertyItemName": "Itemnaam",
+    "UnpinFolderFromSidebar": "Losmaken van zijbalk",
+    "Network": "Netwerk",
+    "PreviewPaneFileDetails": {
+        "AutomationProperties": {
+            "Name": "Bestandsgegevens"
+        }
+    },
+    "PreviewPaneFilePreview": {
+        "AutomationProperties": {
+            "Name": "Bestandsvoorbeeld"
+        }
+    },
+    "SelectedFilePreviewPane": {
+        "AutomationProperties": {
+            "Name": "Voorbeeldpaneel geselecteerd bestand"
+        }
+    },
+    "Feedback": "Feedback",
+    "CloudDriveSyncStatus_Online": "Online beschikbaar",
+    "Documentation": "Documentatie",
+    "CloudDriveSyncStatus_Offline": "Offline beschikbaar",
+    "CloudDriveSyncStatus_PartialOffline": "Gedeeltelijk offline beschikbaar",
+    "CloudDriveSyncStatus_Sync": "Synchroniseren...",
+    "CloudDriveSyncStatus_Excluded": "Uitgesloten van synchronisatie",
+    "ItemSizeNotCalculated": "Niet berekend",
+    "CloudDriveSyncStatus_Unknown": "Onbekend",
+    "RenameFileDialog": {
+        "Text": "Als u een bestandsnaamextensie wijzigt, wordt het bestand mogelijk onbruikbaar. Weet u zeker dat u de extensie wilt wijzigen?"
+    },
+    "DriveTypeCDRom": "Cd-rom-station",
+    "DriveTypeCloudDrive": "Cloudstation",
+    "DriveTypeFixed": "Vasteschijfstation",
+    "DriveTypeFloppyDisk": "Diskettestation",
+    "DriveTypeNetwork": "Netwerkstation",
+    "DriveTypeNoRootDirectory": "Ontkoppeld station",
+    "DriveTypeRam": "RAM-schijfstation",
+    "DriveTypeRemovable": "Verwisselbaar opslagapparaat",
+    "DriveTypeUnknown": "Onbekend",
+    "DriveTypeVirtualDrive": "Virtueel station",
+    "DateCreated": "Aanmaakdatum",
+    "MoreOptions": "Meer opties...",
+    "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
+        "Text": "Netwerkstation toewijzen"
+    },
+    "Pinned": "Vastgezet",
+    "SidebarLibraries": "Bibliotheken",
+    "NoItemSelected": "Er zijn geen items geselecteerd",
+    "PropertyItemTarget": "Doel",
+    "Arguments": "Argumenten",
+    "Default": "Standaard",
+    "PropertyItemCount": "Aantal items",
+    "ElevateConfirmDialog": {
+        "Title": "Deze bewerking vereist administratorrechten",
+        "Content": "Wilt u doorgaan als administrator?"
+    },
+    "ColumnsShortcutTooltip": "Kolommen (Ctrl+Shift+6)",
+    "PinItemToStart": {
+        "Text": "Aan Start vastmaken"
+    },
+    "UnpinItemFromStart": {
+        "Text": "Van Start losmaken"
+    },
+    "Library": "Bibliotheek",
+    "LibraryLocations": {
+        "Text": "Locaties:"
+    },
+    "SetAsDefaultSavePath": "Als standaardpad instellen",
+    "LibraryNoLocations": {
+        "Text": "Geen locaties"
+    },
+    "ErrorInputEmpty": "Veld mag niet leeg zijn.",
+    "ErrorNameInputRestrictedCharacters": "De naam mag geen van de volgende tekens bevatten: \\ / : * ? \" < > |",
+    "ErrorNameInputRestricted": "Deze naam is niet toegestaan.",
+    "CreateLibraryErrorAlreadyExists": "Een bibliotheek met deze naam bestaat al.",
+    "OpenStorageSense": "Opslaginzicht openen",
+    "Copy": "Kopiëren",
+    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "MoveItemsDialogPrimaryButtonText": "Verplaatsen",
+    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
+    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "ConflictingItemsDialogPrimaryButtonText": "Doorgaan",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "DeleteItemsDialogPermanentlyDeleteCheckBox": {
+        "Content": "Permanent verwijderen"
+    },
+    "PropertyISO": "ISO-snelheid",
+    "ReplaceExisting": "Bestaande item vervangen",
+    "GenerateNewName": "Nieuwe naam genereren",
+    "CreateFolderWithSelection": "Maak map met selectie",
+    "ItemType": "Soort:",
+    "ToolTipDescriptionDate": "Datum gewijzigd:",
+    "OpenWith": "Openen met",
+    "FileBrowserThumbnailIconColumnGrid": {
+        "AutomationProperties": {
+            "Name": "Bestandspictogram"
+        }
+    },
+    "DetailsViewHeaderFlyout_ShowOriginalPath": {
+        "Text": "Origineel pad kolom"
+    },
+    "DetailsViewHeaderFlyout_ShowItemType": {
+        "Text": "Itemtype kolom"
+    },
+    "DetailsViewHeaderFlyout_ShowDateModified": {
+        "Text": "Datum gewijzigd kolom"
+    },
+    "DetailsViewHeaderFlyout_ShowDateDeleted": {
+        "Text": "Datum verwijderd kolom"
+    },
+    "Sort": "Sorteren",
+    "DateModifiedLowerCase": "Datum gewijzigd",
+    "OriginalFolder": "Oorspronkelijke map",
+    "Descending": "Aflopend",
+    "ItemSizeText_Huge": "Enorm",
+    "ItemSizeText_VeryLarge": "Zeer groot",
+    "ItemSizeText_Large": "Groot",
+    "ItemSizeText_Medium": "Gemiddeld",
+    "ItemSizeText_Small": "Klein",
+    "ItemSizeText_Tiny": "Zeer klein",
+    "Future": "Toekomst",
+    "Today": "Vandaag",
+    "Yesterday": "Gisteren",
+    "EarlierThisWeek": "Eerder deze week",
+    "LastWeek": "Vorige week",
+    "EarlierThisMonth": "Eerder deze maand",
+    "LastMonth": "Vorige maand",
+    "EarlierThisYear": "Eerder dit jaar",
+    "LastYear": "Vorig jaar",
+    "YearN": "Jaar {0}",
+    "GroupItemsCount_Singular": "{0} item",
+    "GroupItemsCount_Plural": "{0} items",
+    "ReopenClosedTab": "Gesloten tabblad opnieuw openen",
+    "Rename": "Hernoemen",
+    "Privacy": "Privacy",
+    "TheRecycleBin": "de prullenbak",
+    "Canceling": "Annuleren",
+    "Clear": "Wissen",
+    "Widgets": "Widgets",
+    "SyncStatus": "Synchronisatiestatus",
+    "Security": "Beveiliging",
+    "AdvancedPermissions": "Geavanceerde machtigingen",
+    "Allow": "Toestaan",
+    "Deny": "Weigeren",
+    "SecurityFullControlLabel": {
+        "Text": "Volledig beheer"
+    },
+    "SecurityListDirectoryLabel": {
+        "Text": "Mapinhoud opsommen"
+    },
+    "Modify": "Aanpassen",
+    "SecurityPermissionsHeaderText": "Machtigingen voor {0}",
+    "SecurityReadAndExecuteLabel": {
+        "Text": "Lezen en uitvoeren"
+    },
+    "SecurityReadLabel": {
+        "Text": "Lezen"
+    },
+    "SecurityUsersGroupLabel": {
+        "Text": "Namen van groepen of gebruikers"
+    },
+    "Write": "Schrijven",
+    "SecurityUnknownAccount": "Onbekend account",
+    "SecurityCannotReadProperties": {
+        "Text": "U heeft geen machtiging om de beveiligingseigenschappen van dit item te bekijken. Klik op \"Geavanceerde machtigingen\" om door te gaan."
+    },
+    "SecurityOwnerLabel": {
+        "Text": "Eigenaar:"
+    },
+    "SecurityUnknownOwnerText": {
+        "Text": "Onbekende eigenaar"
+    },
+    "ExtractArchive": "Archief uitpakken",
+    "DecompressArchiveDialogOpenDestinationWhenComplete": {
+        "Content": "Open doelmap na voltooiing"
+    },
+    "BaseLayoutItemContextFlyoutExtractToChildFolder": "Uitpakken naar {0}\\",
+    "SideBarCreateNewLibrary": {
+        "Text": "Maak nieuwe bibliotheek"
+    },
+    "SideBarRestoreLibraries": {
+        "Text": "Herstel standaard bibliotheken"
+    },
+    "DialogRestoreLibrariesSubtitleText": "Weet u zeker dat u de standaard bibliotheken wilt herstellen? Al uw bestanden blijven op uw opslag staan.",
+    "DialogRestoreLibrariesTitleText": "Herstel bibliotheken",
+    "PropertyFileOwner": "Eigenaar",
+    "SecuritySpecialLabel": {
+        "Text": "Speciaal"
+    },
+    "Access": "Toegang",
+    "SecurityAdvancedAppliesTo": "Van toepassing op",
+    "Principal": "Principal",
+    "SecurityAdvancedFlagsFilesLabel": "bestanden",
+    "SecurityAdvancedFlagsFolderLabel": "deze folder",
+    "SecurityAdvancedFlagsSubfoldersLabel": "submappen",
+    "Inherited": "Overgenomen",
+    "Permissions": "Machtigingen",
+    "SecurityAdvancedCannotReadProperties": {
+        "Text": "U heeft geen machtigingen om de beveiligingseigenschappen van dit item te bekijken. U kunt proberen eigenaar van dit object te worden."
+    },
+    "SecurityAdvancedFolderFiles": {
+        "Text": "Deze map en bestanden"
+    },
+    "SecurityAdvancedFolderSubfoldersFiles": {
+        "Text": "Deze map, submappen en bestanden"
+    },
+    "SecurityAdvancedOnlyFiles": {
+        "Text": "Alleen bestanden"
+    },
+    "SecurityAdvancedOnlySubfolders": {
+        "Text": "Alleen submappen"
+    },
+    "SecurityAdvancedOnlySubfoldersFiles": {
+        "Text": "Alleen submappen en bestanden"
+    },
+    "SecurityAdvancedOnlyThisFolder": {
+        "Text": "Alleen deze map"
+    },
+    "SecurityAdvancedFolderSubfolders": {
+        "Text": "Deze map en submappen"
+    },
+    "SecurityAppendDataLabel": {
+        "Text": "Gegevens toevoegen"
+    },
+    "SecurityChangePermissionsLabel": {
+        "Text": "Machtiging wijzigen"
+    },
+    "SecurityCreateDirectoriesLabel": {
+        "Text": "Mappen maken"
+    },
+    "SecurityCreateFilesLabel": {
+        "Text": "Bestanden maken"
+    },
+    "SecurityDeleteSubdirectoriesAndFilesLabel": {
+        "Text": "Verwijder submappen en bestanden"
+    },
+    "SecurityExecuteFileLabel": {
+        "Text": "Bestanden uitvoeren"
+    },
+    "SecurityReadAttributesLabel": {
+        "Text": "Kenmerken lezen"
+    },
+    "SecurityReadDataLabel": {
+        "Text": "Gegevens lezen"
+    },
+    "SecurityReadExtendedAttributesLabel": {
+        "Text": "Uitgebreide kenmerken lezen"
+    },
+    "SecurityReadPermissionsLabel": {
+        "Text": "Machtigingen lezen"
+    },
+    "SecurityTakeOwnershipLabel": {
+        "Text": "Eigenaar worden"
+    },
+    "SecurityTraverseLabel": {
+        "Text": "Bezoek map"
+    },
+    "SecurityWriteAttributesLabel": {
+        "Text": "Schrijf attributen"
+    },
+    "SecurityWriteDataLabel": {
+        "Text": "Schrijf gegevens"
+    },
+    "SecurityWriteExtendedAttributesLabel": {
+        "Text": "Schrijf uitgebreide attributen"
+    },
+    "SecurityAdvancedInheritedConvert": {
+        "Text": "Converteer geërfde machtigingen naar expliciete machtigingen"
+    },
+    "SecurityAdvancedInheritedEnable": {
+        "Text": "Overname inschakelen"
+    },
+    "SecurityAdvancedInheritedRemove": {
+        "Text": "Verwijder alle geërfde machtigingen"
+    },
+    "SecurityAdvancedReplaceChildPermissions": {
+        "Text": "Reset onderliggende machtigingen"
+    },
+    "SecurityAdvancedReplaceChildPermissions2": {
+        "ToolTipService": {
+            "ToolTip": "Vervang alle onderliggende object machtigingen met erfbare machtigingsgegevens van dit object"
+        }
+    },
+    "NavigationToolbarClosePane": {
+        "Label": "Paneel sluiten"
+    },
+    "EnterCompactOverlay": "Open compacte overlay",
+    "ExitCompactOverlay": "Sluit compacte overlay",
+    "PropertyFileDescription": "Bestandsbeschrijving",
+    "PropertyCompany": "Bedrijf",
+    "PropertyLanguage": "Taal",
+    "PropertyTrademarks": "Handelsmerken",
+    "PropertyFileVersion": "Bestandsversie",
+    "PreviewPaneLoadCloudItemButton": {
+        "Text": "Volledige voorbeeld laden",
+        "ToolTipService": {
+            "ToolTip": "Downloadt het item van de cloud en laadt een voorbeeld"
+        }
+    },
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "PropertyUncompressedSize": "Ongecomprimeerde grootte",
+    "WSL": "WSL",
+    "SideBarHideSectionFromSideBar": {
+        "Text": "Verberg {0} sectie"
+    },
+    "AddFile": "Bestand toevoegen",
+    "ConsentDialogTitle": "Updates beschikbaar",
+    "ConsentDialogContent": "Updates zijn klaar om te installeren",
+    "Close": "Sluiten",
+    "ConsentDialogPrimaryButtonText": "Bijwerken",
+    "Home": "Start",
+    "BaseLayoutContextFlyoutDetails": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+1"
+    },
+    "BaseLayoutContextFlyoutTiles": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+2"
+    },
+    "BaseLayoutContextFlyoutColumn": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+6"
+    },
+    "ArchiveExtractionCompletedSuccessfullyText": "Het uitpakken van het archief is voltooid.",
+    "ExtractingArchiveText": "Archief uitpakken",
+    "ExtractingCompleteText": "Uitpakken compleet!",
+    "BaseLayoutItemContextFlyoutOpenParentFolder": {
+        "Text": "Open bovenliggende map"
+    },
+    "Unknown": "Onbekend",
+    "EditTags": "Bewerk bestandslabels",
+    "PropertyPartOfSet": "Onderdeel van set",
+    "InsertDiscDialog": {
+        "OpenDriveButton": "Open schijf",
+        "Text": "Plaats een schijf in station {0}",
+        "Title": "Een schijf plaatsen"
+    },
+    "OK": "Oké",
+    "AskCredentialDialog": {
+        "Title": "Inloggegevens vereist"
+    },
+    "CredentialDialogAnonymous": {
+        "Content": "Anoniem"
+    },
+    "CredentialDialogDescription": {
+        "Text": "Vul je gegevens in:"
+    },
+    "CredentialDialogUserName": {
+        "PlaceholderText": "Gebruikersnaam"
+    },
+    "NoSearchResultsFound": "Geen items gevonden",
+    "OpenLogLocation": "Open logboek locatie",
+    "LinkToFolderCaptionText": "Maak een link in {0}",
+    "Columns": "Kolommen",
+    "Tiles": "Tegels",
+    "OpenFoldersInNewTab": "Open mappen in nieuw tabblad",
+    "StatusCenter": "Statuscentrum",
+    "DetailsViewHeaderFlyout_ShowDateCreated": {
+        "Text": "Aanmaakdatum kolom"
+    },
+    "DetailsViewHeaderFlyout_ShowItemSize": {
+        "Text": "Bestandsgrootte kolom"
+    },
+    "ExperimentalFeatureFlags": "Experimentele functies",
+    "HelpAndSupport": "Hulp en ondersteuning",
+    "SubmitFeatureRequest": "Functieverzoek indienen",
+    "SubmitBugReport": "Foutrapport indienen",
+    "SettingsSetAsDefaultFileManager": "Gebruik Files als standaard verkenner",
+    "SettingsSetAsOpenDialog": "Gebruik Files als Open Bestand Dialoog",
+    "Tag": "Label",
+    "SettingsOpenItemsWithOneClick": "Open items met één klik",
+    "FolderPath": "Mappad",
+    "ExportSettings": "Exporteer instellingen",
+    "ImportSettings": "Importeer instellingen",
+    "SettingsImportErrorDescription": "Kan instellingen niet importeren. Het instellingenbestand is beschadigd.",
+    "SettingsImportErrorTitle": "Fout bij importeren van instellingen",
+    "EmptyRecycleBin": "Prullenbak legen",
+    "Sidebar": "Zijbalk",
+    "ChooseCustomIcon": "Kies een aangepast mappictogram",
+    "Customization": "Aanpassingen",
+    "RestoreDefault": "Standaardwaarden herstellen",
+    "OpenTabInExistingInstance": "Tabblad openen in bestaande instantie wanneer Files vanuit een andere app wordt geopend",
+    "StartupSettings": "Opstart instellingen",
+    "Compatibility": "Compatibiliteit",
+    "None": "Geen",
+    "CompatibilityOnWindowsLogin": "Bij inloggen van Windows",
+    "CompatibilityOnProgramStart": "Bij opstarten van programma",
+    "System": "Systeem",
+    "CompatibilitySystemEnhanced": "Systeem (verbeterd)",
+    "CompatibilityReducedColorModeColor16bit": "16-bit (65536) kleur",
+    "CompatibilityReducedColorModeColor8bit": "8-bit (256) kleur",
+    "CompatibilityDisableFullscreenOptimizations": "Volledig scherm optimalisaties uitschakelen",
+    "CompatibilityRunIn640x480Resolution": "Uitvoeren met 640 × 480 schermresolutie",
+    "CompatibilityOverrideHighDPIBehavior": "Hoge DPI-schaalgedrag overschrijven",
+    "CompatibilityReducedColorMode": "Gereduceerde kleurmodus",
+    "CompatibilityRegisterThisProgramForRestart": "Registreer dit programma voor herstart",
+    "RunAsAdministrator": "Als administrator uitvoeren",
+    "CompatibilityRunTroubleshooter": "Compatibiliteit probleemoplosser uitvoeren",
+    "CompatibilityUseDPISettings": "Gebruik DPI instellingen van primaire monitor",
+    "CompatibilityDoNotAdjustDPI": "DPI niet aanpassen",
+    "CompatibilityDoNotOverrideDPI": "DPI niet overschrijven",
+    "CompatibilityMode": "Compatibiliteitsmodus",
+    "CompatibilityNoReducedColor": "Geen gereduceerde kleur",
+    "ThirdPartyLicenses": "Licenties van derden",
+    "SettingsSetAsDefaultFileManagerDescription": "Deze instelling wijzigt het register en kan onverwachte bijwerkingen op uw apparaat hebben. De ontwikkelaars nemen geen verantwoordelijkheid in het geval er zich een probleem voordoet. Doorgaan met deze optie is een erkenning van de risico's die aan deze actie zijn verbonden.",
+    "FolderWidgetCreateNewLibraryDialogTitleText": "Maak Bibliotheek",
+    "FolderWidgetCreateNewLibraryInputPlaceholderText": "Vul de Bibliotheek naam in",
+    "CalculateFolderSizes": "Bereken bestandsgrootte",
+    "RecentFiles": "Recente bestanden",
+    "SettingsOpenInLogin": "Open Files bij opstarten van Windows",
+    "Attributes": "Attributen",
+    "Hidden": "Verborgen",
+    "MoreDetails": "Meer details",
+    "ReadOnly": "Alleen lezen",
+    "CleanupDrive": "Schoon de inhoud van je schijf op",
+    "Type": "Soort",
+    "Bytes": "Bytes",
+    "Extract": "Uitpakken",
+    "ExtractFiles": "Bestanden uitpakken",
+    "ExtractHere": "Hier uitpakken",
+    "ExtractKeyboardAcceleratorTextOverride": "Ctrl+E",
+    "ExtractToChildFolder": "Uitpakken naar {0}",
+    "RunScript": "Script uitvoeren",
+    "RunWithPowerShell": "Uitvoeren met PowerShell",
+    "ShowFolderSizesWarning": "Het berekenen van mapgrootte is een bron die intensief is en kan uw CPU-gebruik doen toenemen.",
+    "RotateLeft": "Linksom draaien",
+    "RotateRight": "Rechtsom draaien",
+    "Install": "Installeren",
+    "CloseTabsToTheLeft": "Tabbladen aan de linkerkant sluiten",
+    "CloseTabsToTheRight": "Tabbladen rechts sluiten",
+    "CloseOtherTabs": "Andere tabbladen sluiten",
+    "Music": "Muziek",
+    "Pictures": "Afbeeldingen",
+    "UpdateFiles": "Update Files",
+    "FileTags": "Labels",
+    "Universal": "Universeel",
+    "DateFormatSample": "vb: {0}, {1}",
+    "SettingsFilesAndFoldersShowThumbnails": "Miniaturen weergeven",
+    "Retry": "Opnieuw",
+    "ErrorDialogUnsupportedMoveOperation": "Verplaatsen wordt niet ondersteund in deze context. Wilt u de items kopiëren?",
+    "HiddenItems": "Verborgen items",
+    "Custom": "Aangepast",
+    "SetAsSlideshow": "Instellen als bureaublad diavoorstelling",
+    "SizeAllColumnsToFit": "Alle kolommen passend maken",
+    "Adaptive": "Adaptieve lay-out",
+    "AdaptiveShortcutTooltip": "Aanpasbaar (Ctrl+Shift+7)",
+    "BaseLayoutContextFlyoutAdaptive": {
+        "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
+    },
+    "ShowAlternateStreams": "Toon alternatieve data streams",
+    "Behaviors": "Gedragingen",
+    "ReviewFiles": "Files beoordelen",
+    "ReviewFilesContent": "Wilt u Files beoordelen?",
+    "SetAsBackgroundFlyout": "Als achtergrond instellen",
+    "SetAsBackground": "Als bureaubladachtergrond gebruiken",
+    "SetAsDefault": "Instellen als standaard",
+    "DateColumn": "Datum kolom",
+    "DateCreatedColumn": "Aanmaakdatum kolom",
+    "SizeColumn": "Grootte kolom",
+    "TagColumn": "Tag kolom",
+    "TypeColumn": "Type kolom",
+    "Lockscreen": "Vergrendelingsscherm",
+    "OpenFolderWithOneClickColumnsLayout": "Open mappen met één klik in de kolommen lay-out",
+    "OpeningItems": "Items openen",
+    "Compress": "Comprimeren",
+    "SelectFilesAndFoldersOnHover": "Selecteer bestanden en mappen wanneer je over hen beweegt",
+    "ConfirmRestoreBinDialogContent": "Weet je zeker dat je alle items uit de prullenbak wilt terugplaatsen?",
+    "ConfirmRestoreBinDialogTitle": "Alle items herstellen",
+    "ConfirmRestoreSelectionBinDialogContent": "Wilt u de {0} geselecteerde item(s) herstellen?",
+    "ConfirmRestoreSelectionBinDialogTitle": "Herstel selectie",
+    "RestoreAllItems": "Alle items herstellen",
+    "Restore": "Herstellen",
+    "ShortcutCannotBeOpened": "Snelkoppeling kan niet worden geopend",
+    "DeleteShortcutDescription": "De bestemming kan niet worden gevonden {0}. Wilt u deze snelkoppeling verwijderen?",
+    "AccessDeniedToFolder": "U heeft geen machtiging voor toegang tot deze map.",
+    "ArchivePassword": "Archief wachtwoord",
+    "ExtractToPath": "Pad",
+    "SortingAndGrouping": "Sorteren en groeperen",
+    "CreateArchive": "ZIP-bestand maken",
+    "Create": "Maken",
+    "CreateNamedArchive": "Maak {0}",
+    "EnterName": "Naam invoeren",
+    "CompressionLevel": "Compressie niveau",
+    "CompressionLevelUltra": "Zeer hoog",
+    "CompressionLevelHigh": "Hoog",
+    "CompressionLevelNormal": "Normaal",
+    "CompressionLevelLow": "Laag",
+    "CompressionLevelFast": "Snel",
+    "CompressionLevelNone": "Geen",
+    "SplittingSize": "Splits grootte",
+    "Do not split": "Niet splitsen",
+    "CD": "CD",
+    "DVD": "DVD",
+    "FAT": "FAT",
+    "Bluray": "Blu-ray",
+    "Encryption": "Versleuteling",
+    "Password": "Wachtwoord",
+    "Format": "Formaat",
+    "DetailsViewHeaderFlyout_ShowSyncStatus": {
+        "Text": "Synchronisatiestatus kolom"
+    },
+    "GroupBy": "Groepeer",
+    "SortBy": "Sorteren op",
+    "GroupInDescendingOrder": "Groepeer in aflopende volgorde",
+    "SortInDescendingOrder": "Sorteer in aflopende volgorde",
+    "NewShortcutDialogTitle": "Maak een nieuwe snelkoppeling",
+    "NewShortcutDialogDescription": "Maak snelkoppelingen naar lokale of netwerkprogramma's, bestanden, mappen, computers of internetadressen.",
+    "NewShortcutDialogPrompt": "Voer de locatie van het item in:",
+    "AddDialogListShortcutSubHeader": "Maak een snelkoppeling",
+    "RecentFilesDisabledOnWindowsWarning": "Recent gebruikte bestanden zijn momenteel uitgeschakeld in Windows Verkenner.",
+    "EditSettingsFile": "Bewerk instellingenbestand",
+    "WhatsNew": "Wat is er nieuw",
+    "CannotCreateShortcutDialogTitle": "Een snelkoppeling maken op deze locatie vereist beheerdersrechten",
+    "CannotCreateShortcutDialogMessage": "Wil je in plaats daarvan de snelkoppeling op het bureaublad maken?",
+    "ErrorDialogNameNotAllowed": "De opgegeven itemnaam is ongeldig",
+    "Settings": "Instellingen",
+    "DoubleClickBlankSpaceToGoUp": "Dubbelklik op een lege ruimte om één map omhoog te gaan",
+    "ViewMore": "Meer weergeven",
+    "ShowEditTagsMenu": "Toon Bewerk Labels menu",
+    "ShowCompressionOptions": "Toon compressie opties",
+    "ShowSendToMenu": "Toon versturen naar menu",
+    "ShowOpenInNewTab": "Toon optie om mappen in een nieuw tabblad te openen",
+    "ShowOpenInNewWindow": "Toon optie om mappen in een nieuw venster te openen",
+    "QuickAccess": "Snelle toegang",
+    "NetworkAuthenticationDialogMessage": "Voer uw inloggegevens in om verbinding te maken met: {0}",
+    "NetworkAuthenticationDialogTitle": "Voer netwerk inloggegevens in",
+    "NetworkAuthenticationSaveCheckbox": "Mijn referenties onthouden",
+    "NetworkFolderErrorDialogTitle": "Fout in netwerkmap",
+    "AppVersion": "App-versie",
+    "WindowsVersion": "Windows versie",
+    "Always": "Altijd",
+    "PermanentDeletionOnly": "Alleen permanente verwijdering",
+    "Never": "Nooit",
+    "TagColor": "Label kleur",
+    "NewTag": "Nieuw label",
+    "CreateNewTag": "Nieuw label aanmaken",
+    "Loading": "Laden...",
+    "ContextMenuOptions": "Opties contextmenu",
+    "ShowFileExtensions": "Toon bestandsnaamextensies",
+    "ShowHiddenItems": "Toon verborgen items",
+    "FormatDriveText": "Formatteren...",
+    "Help": "Help",
+    "FullScreen": "Volledig scherm in-/uitschakelen",
+    "ConfirmDeleteTag": "Weet u zeker dat u dit label wilt verwijderen?",
+    "PlayAll": "Alles afspelen",
+    "Height": "Hoogte",
+    "Width": "Breedte",
+    "ApplyToAllConflictingItems": "Deze actie toepassen op alle conflicterende items",
+    "OpenTerminal": "Openen in Windows Terminal",
+    "OpenTerminalAsAdmin": "Open in Windows Terminal als beheerder",
+    "Save": "Opslaan",
+    "MultiSelect": "Meervoudige selectie",
+    "ReorderSidebarItemsDialogText": "Zijbalk items herordenen",
+    "Hashes": "Hashes",
+    "CalculationError": "Er is een fout opgetreden tijdens het berekenen",
+    "CalculationErrorFileIsOpen": "Het berekenen van de hash is mislukt, sluit het bestand en probeer opnieuw.",
+    "CalculationOnlineFileHashError": "Hashes zijn niet beschikbaar voor online bestanden",
+    "Algorithm": "Algoritme",
+    "HashValue": "Hash waarde",
+    "SelectHashesToShow": "Selecteer hashes om te laten zien",
+    "Calculating": "Berekenen...",
+    "JumpListPinnedGroupHeader": "Vastgemaakte items",
+    "DecreaseSize": "Verkleinen",
+    "IncreaseSize": "Vergroten",
+    "ToggleSortDirection": "Wissel sorteerrichting",
+    "InvalidTagNameWarning": "Ongeldige naam",
+    "TagNameRules": "Naam mag niet leeg zijn of beginnen of eindigen met een punt.",
+    "Videos": "Video's",
+    "LaunchPreviewPopup": "Open voorbeeld popup",
+    "ToggleCompactOverlay": "Compacte overlay in-/uitschakelen",
+    "OpenHelpDescription": "Open de online help pagina in de browser",
+    "ToggleFullScreenDescription": "Volledig scherm in-/uitschakelen",
+    "EnterCompactOverlayDescription": "Open compacte overlay",
+    "ExitCompactOverlayDescription": "Sluit compacte overlay",
+    "ToggleCompactOverlayDescription": "Schakel compacte overlay",
+    "SearchDescription": "Ga naar zoekveld",
+    "ToggleShowHiddenItemsDescription": "In- of uitschakelen om verborgen items te tonen",
+    "ToggleShowFileExtensionsDescription": "In- of uitschakelen om bestandsextensies te tonen",
+    "TogglePreviewPaneDescription": "Voorbeeldpaneel in- of uitschakelen om bestandsvoorbeelden te zien",
+    "ToggleSidebarDescription": "In- of uitschakelen om de zijbalk te tonen",
+    "CopyItemDescription": "Kopieer item(s) naar klembord",
+    "CopyPathDescription": "Het pad van de geselecteerde items naar het klembord kopiëren",
+    "CopyPathWithQuotesDescription": "Het pad van de geselecteerde items inclusief aanhalingstekens naar het klembord kopiëren",
+    "CutItemDescription": "Knip item(s) naar klembord",
+    "PasteItemDescription": "Plak item(s) van klembord naar huidige map",
+    "PasteItemToSelectionDescription": "Plak item(s) van klembord naar geselecteerde map",
+    "DeleteItemDescription": "Item(s) verwijderen",
+    "CreateFolderDescription": "Nieuwe map maken",
+    "CreateShortcutDescription": "Maak nieuwe snelkoppeling(en) aan voor geselecteerde item(s)",
+    "CreateShortcutFromDialogDescription": "Maak een nieuwe snelkoppeling naar een item",
+    "EmptyRecycleBinDescription": "Prullenbak leegmaken",
+    "FormatDriveDescription": "Open het \"Formatteer Schijf\" menu voor geselecteerde item",
+    "RestoreRecycleBinDescription": "Herstel geselecteerde item(s) uit prullenbak",
+    "RestoreAllRecycleBinDescription": "Herstel alle items vanuit de prullenbak",
+    "OpenItemDescription": "Open item(s)",
+    "OpenItemWithApplicationPickerDescription": "Open item(s) met geselecteerde toepassing",
+    "OpenParentFolderDescription": "Open de bovenliggende map van gezochte item",
+    "RefreshItemsDescription": "Ververs pagina-inhoud",
+    "RenameDescription": "Hernoem geselecteerd item",
+    "SelectAllDescription": "Selecteer alle items",
+    "InvertSelectionDescription": "Selectie item omkeren",
+    "ClearSelectionDescription": "Selectie item leegmaken",
+    "ToggleSelectDescription": "Items selecteren in-/uitschakelen",
+    "ShareItemDescription": "Deel geselecteerde bestand(en) met anderen",
+    "PinToStartDescription": "Aan Start vastmaken",
+    "UnpinFromStartDescription": "Van Start losmaken",
+    "PinFolderToSidebarDescription": "Map(pen) vastmaken in zijbalk",
+    "UnpinFolderFromSidebarDescription": "Map(pen) losmaken van zijbalk",
+    "SetAsWallpaperBackgroundDescription": "Stel geselecteerde afbeelding in als bureaubladachtergrond",
+    "SetAsSlideshowBackgroundDescription": "Stel geselecteerde afbeeldingen in als bureaubladdiashow",
+    "SetAsLockscreenBackgroundDescription": "Geselecteerde afbeelding als vergrendelschermachtergrond instellen",
+    "SetAsAppBackgroundDescription": "Stel geselecteerde afbeelding in als app-achtergrond",
+    "InstallFontDescription": "Geselecteerde lettertype(s) installeren",
+    "InstallInfDriverDescription": "Installeer de driver(s) met behulp van geselecteerde inf bestand(en)",
+    "InstallCertificateDescription": "Geselecteerde certificaat(en) installeren",
+    "RunAsAdminDescription": "Geselecteerde toepassing uitvoeren als beheerder",
+    "RunAsAnotherUserDescription": "Geselecteerde toepassing uitvoeren als andere gebruiker",
+    "RunWithPowershellDescription": "PowerShell script uitvoeren",
+    "LaunchPreviewPopupDescription": "Voorbeeld openen in pop-upvenster",
+    "CompressIntoArchiveDescription": "Archief maken met geselecteerde item(s)",
+    "CompressIntoSevenZipDescription": "Maak 7z-archief direct met geselecteerde item(s)",
+    "CompressIntoZipDescription": "Maak zip-archief direct met geselecteerde item(s)",
+    "DecompressArchiveDescription": "Items uit geselecteerde archieven naar een willekeurige map uitpakken",
+    "DecompressArchiveHereDescription": "Items uit geselecteerde archieven naar de huidige map uitpakken",
+    "DecompressArchiveToChildFolderDescription": "Items uit geselecteerde archieven naar nieuwe map uitpakken",
+    "RotateLeftDescription": "Draai geselecteerde afbeelding(en) linksom",
+    "RotateRightDescription": "Draai geselecteerde afbeelding(en) rechtsom",
+    "OpenSettingsDescription": "Open instellingen pagina",
+    "OpenTerminalDescription": "Open map in terminal",
+    "OpenTerminalAsAdminDescription": "Open de map in de terminal als beheerder",
+    "LayoutDecreaseSizeDescription": "Verlaag itemgrootte in de huidige weergave",
+    "LayoutIncreaseSizeDescription": "Verhoog itemgrootte in de huidige weergave",
+    "LayoutDetailsDescription": "Overschakelen naar detailweergave",
+    "LayoutTilesDescription": "Overschakelen naar tegelweergave",
+    "LayoutListDescription": "Overschakelen naar lijstweergave",
+    "List": "Lijst",
+    "Grid": "Raster",
+    "LayoutGridDescription": "Overschakelen naar rasterweergave",
+    "LayoutColumnsDescription": "Overschakelen naar kolomweergave",
+    "LayoutAdaptiveDescription": "Schakel adaptief van weergave over",
+    "SortByNameDescription": "Sorteer items op naam",
+    "SortByDateModifiedDescription": "Sorteer items op datum gewijzigd",
+    "SortByDateCreatedDescription": "Sorteer items op aanmaakdatum",
+    "SortBySizeDescription": "Sorteer items op grootte",
+    "SortByTypeDescription": "Sorteer items op type",
+    "SortBySyncStatusDescription": "Sorteer items op synchronisatiestatus",
+    "SortByTagDescription": "Sorteert items op labels",
+    "SortByOriginalFolderDescription": "Sorteer items op oorspronkelijke map",
+    "SortByDateDeletedDescription": "Sorteer items op datum verwijderd",
+    "SortAscendingDescription": "Sorteer items in oplopende volgorde",
+    "SortDescendingDescription": "Sorteer items in aflopende volgorde",
+    "ToggleSortDirectionDescription": "Wissel sorteerrichting",
+    "GroupByNoneDescription": "Items tonen zonder groepering",
+    "GroupByNameDescription": "Items groeperen op naam",
+    "GroupByDateModifiedDescription": "Items groeperen op datum gewijzigd",
+    "GroupByDateCreatedDescription": "Items groeperen op aanmaakdatum",
+    "GroupBySizeDescription": "Items groeperen op grootte",
+    "GroupByTypeDescription": "Items groeperen op type",
+    "GroupBySyncStatusDescription": "Items groeperen op synchronisatieststatus",
+    "GroupByTagDescription": "Items groeperen op labels",
+    "GroupByOriginalFolderDescription": "Items groeperen op oorspronkelijke folder",
+    "GroupByDateDeletedDescription": "Items groeperen op datum verwijderd",
+    "GroupByFolderPathDescription": "Items groeperen op pad",
+    "GroupAscendingDescription": "Sorteer groepen in oplopende volgorde",
+    "GroupDescendingDescription": "Sorteer groepen in aflopende volgorde",
+    "ToggleGroupDirectionDescription": "Wissel groep sorteerrichting",
+    "NewTabDescription": "Open nieuw tabblad",
+    "NavigateBackDescription": "Navigeer achteruit in de navigatiegeschiedenis",
+    "NavigateForwardDescription": "Navigeer vooruit in de navigatiegeschiedenis",
+    "NavigateUpDescription": "Navigeer één map naar boven",
+    "DuplicateCurrentTabDescription": "Huidig tabblad dupliceren",
+    "DuplicateSelectedTabDescription": "Geselecteerde tabblad dupliceren",
+    "CloseTabsToTheLeftCurrentDescription": "Tabbladen aan de linkerkant van het huidige tabblad sluiten",
+    "CloseTabsToTheLeftSelectedDescription": "Tabbladen aan de linkerkant van geselecteerde tabblad sluiten",
+    "CloseTabsToTheRightCurrentDescription": "Tabbladen aan de rechterkant van het huidige tabblad sluiten",
+    "CloseTabsToTheRightSelectedDescription": "Tabbladen aan de rechterkant van geselecteerde tabblad sluiten",
+    "CloseOtherTabsCurrentDescription": "Sluit andere tabbladen dan huidige tabblad",
+    "CloseOtherTabsSelectedDescription": "Sluit tabbladen anders dan geselecteerd tabblad",
+    "ReopenClosedTabDescription": "Laatst gesloten tabblad heropenen",
+    "PreviousTabDescription": "Verplaats naar het vorige tabblad",
+    "NextTabDescription": "Verplaats naar het volgende tabblad",
+    "CloseSelectedTabDescription": "Huidig tabblad sluiten",
+    "OpenNewPaneDescription": "Nieuw paneel openen",
+    "ClosePaneDescription": "Rechterpaneel sluiten",
+    "FocusLeftPane": "Focus linker paneel",
+    "FocusLeftPaneDescription": "Verander focus naar linker paneel",
+    "FocusRightPane": "Focus rechter paneel",
+    "FocusRightPaneDescription": "Verander focus naar rechter paneel",
+    "ToggleSidebar": "Zijbalk in-/uitschakelen",
+    "Key": {
+        "Menu": {
+            "text": "Alt",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Control": {
+            "text": "Ctrl",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Shift": {
+            "text": "Shift",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Windows": {
+            "text": "Win",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Enter": {
+            "text": "Enter",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Space": {
+            "text": "Spatie",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Escape": {
+            "text": "Esc",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Back": {
+            "text": "Backspace",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Tab": {
+            "text": "Tab",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Insert": {
+            "text": "Ins",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Delete": {
+            "text": "Del",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Left": {
+            "text": "Links",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Right": {
+            "text": "Rechts",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Down": {
+            "text": "Omlaag",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Up": {
+            "text": "Omhoog",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Home": {
+            "text": "Home",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "End": {
+            "text": "End",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageDown": {
+            "text": "PaginaOmlaag",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "PageUp": {
+            "text": "PaginaOmhoog",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Separator": {
+            "text": "Sep",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Pause": {
+            "text": "Pause",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Sleep": {
+            "text": "Slapen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Clear": {
+            "text": "Wissen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Print": {
+            "text": "Printen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Help": {
+            "text": "Help",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse4": {
+            "text": "Muis4",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mouse5": {
+            "text": "Muis5",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application": {
+            "text": "App",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application1": {
+            "text": "App1",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Application2": {
+            "text": "App2",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "Mail": {
+            "text": "E-mail",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoHome": {
+            "text": "GaStart",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoBack": {
+            "text": "GaTerug",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserGoForward": {
+            "text": "GaVooruit",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserRefresh": {
+            "text": "BrowserVerversen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserStop": {
+            "text": "BrowserStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserSearch": {
+            "text": "Zoeken",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "BrowserFavorites": {
+            "text": "Favorieten",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPlayPause": {
+            "text": "AfspelenPauze",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaStop": {
+            "text": "MediaStop",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaPreviousTrack": {
+            "text": "VorigNummer",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaNextTrack": {
+            "text": "VolgendNummer",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaSelect": {
+            "text": "MediaSelecteren",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaMute": {
+            "text": "Dempen",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeDown": {
+            "text": "VolOmlaag",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        },
+        "MediaVolumeUp": {
+            "text": "VolOmhoog",
+            "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
+        }
+    },
+    "Change": "Wijzigen",
+    "ToggleSelect": "Selectie omkeren",
+    "ShowFileExtensionWarning": "Waarschuwing weergeven bij wijzigen van bestandsextensies",
+    "ThisPC": "Deze PC",
+    "RecycleBin": "Prullenbak",
+    "Untagged": "Zonder label",
+    "PreviousTab": "Verplaatst naar vorige tabblad",
+    "NextTab": "Verplaatst naar volgend tabblad",
+    "CloseTab": "Sluit huidig tabblad",
+    "EditPath": "Pad bewerken",
+    "Redo": "Opnieuw",
+    "Undo": "Ongedaan maken",
+    "InvalidLocation": "Ongeldige locatie",
+    "CopyFileWithoutProperties": "Weet je zeker dat je deze bestanden zonder hun eigenschappen wilt kopiëren?",
+    "FilePropertiesCannotBeCopied": "Deze bestanden hebben eigenschappen die niet gekopieerd kunnen worden naar de nieuwe locatie",
+    "FilePropertiesCannotBeMoved": "Deze bestanden hebben eigenschappen die niet verplaatst kunnen worden naar de nieuwe locatie",
+    "MoveFileWithoutProperties": "Weet je zeker dat je deze bestanden zonder hun eigenschappen wilt verplaatsen?",
+    "ShowCheckboxesWhenSelectingItems": "Selectievakjes weergeven bij het selecteren van items",
+    "EditPathDescription": "Focus padenbalk",
+    "AddItemDescription": "Maak nieuw item",
+    "SecurityNoAccessControlEntriesText": "Geen groepen of gebruikers zijn gemachtigd voor toegang tot dit object. De eigenaar van dit object kan echter machtigingen toewijzen.",
+    "OpenFileLocationDescription": "Itemlocatie openen",
+    "DeletePermanently": "Permanent verwijderen",
+    "DeleteItemPermanentlyDescription": "Item(s) permanent verwijderen",
+    "PlayAllDescription": "De geselecteerde mediabestanden afspelen",
+    "UndoDescription": "De laatste bestandsbewerking ongedaan maken",
+    "RedoDescription": "Herhaal de laatste bestandsbewerking",
+    "Location": "Locatie:",
+    "GroupByMonthDescription": "Items groeperen op maand",
+    "GroupByYearDescription": "Items groeperen op jaar",
+    "Month": "Maand",
+    "Day": "Dag",
+    "ToggleGroupByDateUnitDescription": "Schakel eenheid voor groeperen op datum",
+    "ToggleGroupingUnit": "Wissel groeperingseenheid",
+    "Year": "Jaar",
+    "GroupByDateUnit": "Groeperen op datum eenheid",
+    "GroupByDateCreatedDayDescription": "Items groeperen op aanmaakdatum",
+    "GroupByDateCreatedMonthDescription": "Items groeperen op maand van aanmaakdatum",
+    "GroupByDateCreatedYearDescription": "Items groeperen op jaar van aanmaakdatum",
+    "GroupByDateDeletedDayDescription": "Items groeperen op datum verwijderd",
+    "GroupByDateDeletedMonthDescription": "Items groeperen op maand van datum verwijderd",
+    "GroupByDateDeletedYearDescription": "Items groeperen op jaar van datum verwijderd",
+    "GroupByDateModifiedDayDescription": "Items groeperen op datum gewijzigd",
+    "GroupByDateModifiedMonthDescription": "Items groeperen op maand van datum gewijzigd",
+    "GroupByDateModifiedYearDescription": "Items groeperen op jaar van datum gewijzigd",
+    "SecurityClickAdvancedPermissions": "Klik op 'Geavanceerde machtigingen' om door te gaan.",
+    "SecurityRequireReadPermissions": "U moet leesmachtigingen hebben om de eigenschappen van dit item te bekijken.",
+    "SecuritySuggestToTakeOwnership": "Om te proberen eigenaar te worden van het item, dat machtigingen bevat om de eigenschappen ervan te bekijken, klikt u hierboven op Wijzigen.",
+    "SecurityUnableToDisplayPermissions": "Kan machtigingen niet weergeven.",
+    "StashChanges": "Laat mijn wijzigingen op '{0}'",
+    "DiscardChanges": "Wijzigingen niet opslaan",
+    "BringChanges": "Breng mijn wijzigingen over naar '{0}'",
+    "UncommittedChanges": "Je hebt niet-gecommitte wijzigingen in deze branche. Wat wil je ermee doen?",
+    "SwitchBranch": "Wissel van branch",
+    "Branches": "Branches",
+    "Switch": "Wisselen",
+    "NewBranch": "Nieuwe branch",
+    "InvalidBranchName": "Ongeldige branchnaam",
+    "CreateBranch": "Maak branch aan",
+    "CreateNewBranch": "Maak branch aan",
+    "BasedOn": "Gebaseerd op",
+    "SwitchToNewBranch": "Overschakelen naar nieuwe branch",
+    "CreateFolderWithSelectionDescription": "Maak een map met de momenteel geselecteerde item(s)",
+    "OpenProperties": "Open eigenschappen",
+    "OpenPropertiesDescription": "Open eigenschappen venster",
+    "Locals": "Locals",
+    "Remotes": "Remotes",
+    "ImproveTranslation": "Vertaal op Crowdin",
+    "GitFetch": "Fetch",
+    "GitPull": "Pull",
+    "GitFetchDescription": "Start git fetch",
+    "GitPullDescription": "Start git pull",
+    "Preview": "Voorbeeld",
+    "GitStatus": "Git status",
+    "GitError": "Git fout",
+    "PullTimeoutError": "git pull is mislukt door een time-out fout",
+    "MultipleValues": {
+        "text": "(Meerdere waarden)",
+        "crowdinContext": "Text indicating that multiple selected files have different metadata values."
+    },
+    "Author": "Auteur",
+    "DateCommitted": "Commit datum",
+    "CommitMessage": "Commitbericht",
+    "CommitSha": "Commit SHA",
+    "Git": "Git",
+    "Acrylic": "Acrylic",
+    "Mica": "Mica",
+    "MicaAlt": "Mica Alt",
+    "BackdropMaterial": "Achtergrond materiaal",
+    "Solid": "Effen",
+    "ManageBranches": "Branches beheren",
+    "Push": "Push",
+    "GitPushDescription": "Voer git push uit",
+    "GitSync": "Synchroniseren",
+    "GitSyncDescription": "Start Git pull en dan Git push",
+    "GitSyncStatusExtendedInfo": "{0} uitgaande / {1} inkomende commits",
+    "ConnectGitHub": "Verbind met GitHub",
+    "ConnectGitHubDescription": "Voer de volgende code in op de link hieronder om te beginnen met het werken met GitHub repositories.",
+    "CannotReachGitHubError": "Files kan nu geen toegang krijgen tot GitHub.",
+    "OpenInVSCode": "Open map in VS code",
+    "OpenInVSCodeDescription": "Open de huidige map in Visual Studio Code",
+    "OpenRepoInVSCode": "Open repo in VS Code",
+    "OpenRepoInVSCodeDescription": "Open de hoofdmap van de Git repo in Visual Studio Code",
+    "CopyCode": "Kopieer code",
+    "Added": "Toegevoegd",
+    "Deleted": "Verwijderd",
+    "Modified": "Gewijzigd",
+    "Untracked": "Niet gevolgd",
+    "UnableToDisplayOwner": "Kan huidige eigenaar niet weergeven.",
+    "AuthorizationSucceded": "Geweldig! Je bent nu geautoriseerd.",
+    "InitRepo": "Repo initialiseren",
+    "InitRepoDescription": "Initialiseer een Git repository",
+    "GitOriginRepositoryName": "Naam externe repository",
+    "GitCurrentBranch": "Huidige branch",
+    "PathColumn": "Pad kolom",
+    "SortByPathDescription": "Sorteer items op pad",
+    "OpenDirectoryInNewPaneDescription": "Map in nieuw paneel openen",
+    "OpenDirectoryInNewTabDescription": "Open map in nieuw tabblad",
+    "OpenInNewWindowDescription": "Open map in nieuw venster",
+    "OpenAllTaggedItems": "Open alles",
+    "OpenAllTaggedItemsDescription": "Open alle getagde items",
+    "DriveWithLetter": {
+        "text": "Schijf ({0})",
+        "crowdinContext": "{0} is the drive letter."
+    },
+    "InvalidCommand": "Ongeldig commando",
+    "InvalidCommandContent": "'{0}' wordt niet herkend als een commando.",
+    "CommandNotExecutable": "Commando niet uitvoerbaar",
+    "CommandNotExecutableContent": "Het '{0}' commando is niet klaar om uitgevoerd te worden.",
+    "CommandPalette": "Commandopaneel",
+    "OpenCommandPaletteDescription": "Commandopaneel openen",
+    "ShortcutItemWorkingDir": "Start in:",
+    "TurnOnBitLocker": "BitLocker inschakelen",
+    "ManageBitLocker": "Beheer BitLocker",
+    "CopyFailureFileToLarge": "De volgende items zijn te groot om te worden gekopieerd naar deze schijf",
+    "FormatDrive": "Formatteer schijf",
+    "DontShowAgain": "Niet meer weergeven",
+    "FilesRunningAsAdmin": "Files wordt uitgevoerd als beheerder",
+    "FilesRunningAsAdminContent": "Slepen en neerzetten zijn als gevolg van een beperking met Windows en WinAppSd niet beschikbaar als er bestanden als admin worden gebruikt. Als u drag and drop wilt gebruiken, u kunt rond deze beperking werken door UAC (gebruikersaccount Control) te openen uit het startmenu en het derde niveau te selecteren en Windows te herstarten. Anders kun je bestanden blijven gebruiken zonder verslepen en neerzetten.",
+    "SettingsLeaveAppRunning": "Laat de app op de achtergrond actief als het venster wordt gesloten",
+    "Blue": {
+        "text": "Blauw",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BlueGray": {
+        "text": "Blauwgrijs",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "BrickRed": {
+        "text": "Baksteen rood",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Camouflage": {
+        "text": "Camouflage",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "CoolBlueBright": {
+        "text": "Koel helder blauw",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Gray": {
+        "text": "Grijs",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "GrayDark": {
+        "text": "Donker grijs",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Green": {
+        "text": "Groen",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "IrisPastel": {
+        "text": "Iris Pastel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "MintLight": {
+        "text": "Licht mint",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ModRed": {
+        "text": "Mod Rood",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "OrangeBright": {
+        "text": "Helder oranje",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Overcast": {
+        "text": "Bewolkt",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Red": {
+        "text": "Rood",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "RoseBright": {
+        "text": "Licht Roze",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Seafoam": {
+        "text": "Zeeschuim",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "Storm": {
+        "text": "Storm",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "VioletRedLight": {
+        "text": "Licht roodpaars",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "YellowGold": {
+        "text": "Goudgeel",
+        "crowdinContext": "One of the custom color themes"
+    },
+    "ClearCompleted": "Voltooide taken wissen",
+    "NameWithColon": "Naam:",
+    "StatusCenter_ProcessedSize_Header": {
+        "text": "{0} van {1} verwerkt",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
+    },
+    "ItemsLower": "items",
+    "CannotInitializeGitRepo": "Files kan deze map niet initialiseren als een Git repository.",
+    "ContributingArtist": "Bijdragende kunstenaar",
+    "AddPage": "Pagina toevoegen",
+    "ProcessingItems": "Items verwerken...",
+    "SpeedWithColon": "Snelheid:",
+    "StatusCenter_CompressCanceled_Header": {
+        "text": "Comprimeren van {0} item(s) naar \"{1}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressCanceled_SubHeader": {
+        "text": "Comprimeren van {0} item(s) van \"{1}\" naar \"{2}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_Header": {
+        "text": "{0} item(s) naar \"{1}\" gecomprimeerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressComplete_SubHeader": {
+        "text": "{0} item(s) van \"{1}\" naar \"{2}\" gecomprimeerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_Header": {
+        "text": "Fout bij het comprimeren van {0} item(s) naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressFailed_SubHeader": {
+        "text": "Comprimeren van {0} item(s) van \"{1}\" naar \"{2}\" mislukt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_Header": {
+        "text": "{0} item(s) naar \"{1}\" comprimeren",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CompressInProgress_SubHeader": {
+        "text": "{0} item(s) van \"{1}\" naar \"{2}\" comprimeren",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_Header": {
+        "text": "Kopiëren {0} item(s) naar \"{1}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyCanceled_SubHeader": {
+        "text": "Kopiëren {0} item(s) van \"{1}\" naar \"{2}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_Header": {
+        "text": "{0} item(s) naar \"{1}\" gekopieerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyComplete_SubHeader": {
+        "text": "{0} item(s) van \"{1}\" naar \"{2}\" gekopieerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_Header": {
+        "text": "Fout bij het kopiëren van {0} item(s) naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyFailed_SubHeader": {
+        "text": "Kopiëren van {0} item(s) van \"{1}\" naar \"{2}\" mislukt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_Header": {
+        "text": "{0} item(s) naar \"{1}\" aan het kopiëren",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_CopyInProgress_SubHeader": {
+        "text": "{0} item(s) van \"{1}\" naar \"{2}\" aan het kopiëren",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_Header": {
+        "text": "Uitpakken \"{0}\" naar \"{1}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressCanceled_SubHeader": {
+        "text": "Uitpakken \"{0}\" van \"{1}\" naar \"{2}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_Header": {
+        "text": "\"{0}\" naar \"{1}\" uitgepakt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressComplete_SubHeader": {
+        "text": "\"{0}\" van \"{1}\" naar \"{2}\" uitgepakt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_Header": {
+        "text": "Fout tijdens uitpakken \"{0}\" naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressFailed_SubHeader": {
+        "text": "Uitpakken \"{0}\" van \"{1}\" naar \"{2}\" mislukt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_Header": {
+        "text": "\"{0}\" naar \"{1}\" aan het uitpakken",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DecompressInProgress_SubHeader": {
+        "text": "\"{0}\" van \"{1}\" naar \"{2}\" aan het uitpakken",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteCanceled_Header": {
+        "text": "Verwijderen van {0} item(s) van \"{1}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteComplete_Header": {
+        "text": "{0} Item(s) verwijderd van \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_Header": {
+        "text": "Fout bij verwijderen van {0} item(s) van \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteFailed_SubHeader": {
+        "text": "Kan {0} item(s) niet verwijderen van \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_DeleteInProgress_Header": {
+        "text": "{0} item(s) verwijderen van \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_Header": {
+        "text": "Verplaatsen {0} items(s) uit \"{1}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveCanceled_SubHeader": {
+        "text": "Verplaatsen {0} items(s) van \"{1}\" naar \"{2}\" geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_Header": {
+        "text": "{0} item(s) verplaatst naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveComplete_SubHeader": {
+        "text": "{0} item(s) van \"{1}\" naar \"{2}\" verplaatst",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_Header": {
+        "text": "{0} item(s) verplaatsen naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveInProgress_SubHeader": {
+        "text": "\"{0}\" item(s) van \"{1}\" naar \"{2}\" verplaatsen",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_Header": {
+        "text": "Fout tijdens verplaatsen van \"{0}\" item(s) naar \"{1}\"",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_MoveFailed_SubHeader": {
+        "text": "Verplaatsen van {0} item(s) van \"{1}\" naar \"{2}\" mislukt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinCancel_Header": {
+        "text": "Prullenbak legen geannuleerd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinComplete_Header": {
+        "text": "Prullenbak geleegd",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinInProgress_Header": {
+        "text": "Prullenbak leegmaken",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_Header": {
+        "text": "Fout bij het leegmaken van de prullenbak",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
+        "text": "Prullenbak leegmaken is mislukt",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_Prepare_Header": {
+        "text": "De operatie wordt voorbereid...",
+        "crowdinContext": "Shown in a StatusCenter card."
+    },
+    "StatusCenter_ProcessedItems_Header": {
+        "text": "{0}/{1} item(s) verwerkt",
+        "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
+    },
+    "UnblockDownloadedFile": "Gedownload bestand deblokkeren",
+    "NoFileOperations": "Geen lopende bestandsbewerkingen",
+    "OpenOnStartupDisabled": "De optie om Files te openen tijdens het opstarten van Windows is niet beschikbaar door systeeminstellingen of het groepsbeleid. Om dit opnieuw in te stellen, open het Opstarten tabblad in Taakbeheer.",
+    "FailedToRestore": "Items terugplaatsen vanuit prullenbak mislukt",
+    "FailedToSetBackground": "Instellen van achtergrondafbeelding mislukt",
+    "GitDeleteBranch": "Git branch verwijderen",
+    "GitDeleteBranchSubtitle": "Weet je zeker dat je deze branche \"{0}\" definitief wilt verwijderen?",
+    "ConnectedToGitHub": "Verbonden met GitHub",
+    "Logout": "Uitloggen",
+    "ConnectToGitHub": "Verbinding maken met GitHub",
+    "Login": "Inloggen",
+    "ErrorApplyingTagContent": "Labels zijn momenteel alleen compatibel met schijven die geformatteerd zijn als NTFS.",
+    "ErrorApplyingTagTitle": "Er is een fout opgetreden tijdens het toewijzen van dit label",
+    "DecompressArchiveHereSmartDescription": "Bestanden uitpakken voor geselecteerde archieven naar de huidige map, voor een archief met één item, of naar een nieuwe map voor een archief met meerdere items",
+    "ExtractHereSmart": "Hier uitpakken (slim)",
+    "SortFilesAndFoldersTogether": "Bestanden en mappen samen sorteren",
+    "SortFilesAndFoldersTogetherDescription": "Bestanden en mappen samen sorteren",
+    "SortFilesFirst": "Bestanden eerst sorteren",
+    "SortFilesFirstDescription": "Bestanden eerst sorteren en daarna mappen",
+    "SortFoldersFirst": "Mappen eerst sorteren",
+    "SortFoldersFirstDescription": "Mappen eerst sorteren en daarna bestanden",
+    "SortPriority": "Sorteer prioriteiten",
+    "FailedToRotateImage": "Het roteren van de afbeelding is mislukt",
+    "Restart": "Herstarten",
+    "Quit": "Stoppen",
+    "FaildToShareItems": "Delen van items mislukt",
+    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll naar vorige map bij navigeren omhoog",
+    "NewWindowDescription": "Nieuw venster openen",
+    "ChangeAlbumCover": "Wijzig albumhoes",
+    "ItemRenameFailed": "Hernoemen van item mislukt",
+    "HigherPermissionsRequired": "Bewerken van \"{0}\" vereist extra machtigingen",
+    "EditPermissions": "Bewerk machtigingen",
+    "BackgroundRunningNotificationBody": "Files wordt nog steeds op de achtergrond uitgevoerd om opstartprestaties te verbeteren.",
+    "BackgroundRunningNotificationHeader": "Waar is Files naartoe gegaan?",
+    "QuestionsAndDiscussions": "Vragen & discussies",
+    "TilesViewSizeInfo": "Extra formaten zijn nog niet beschikbaar voor de tegelweergave.",
+    "Compact": {
+        "text": "Compact",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Small": {
+        "text": "Klein",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium": {
+        "text": "Gemiddeld",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+": {
+        "text": "Gemiddeld +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++": {
+        "text": "Gemiddeld ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++": {
+        "text": "Gemiddeld +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium++++": {
+        "text": "Gemiddeld ++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Medium+++++": {
+        "text": "Gemiddeld +++++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large": {
+        "text": "Groot",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+": {
+        "text": "Groot +",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large++": {
+        "text": "Groot ++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "Large+++": {
+        "text": "Groot +++",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "ExtraLarge": {
+        "text": "Extra groot",
+        "crowdinContext": "Used to describe layout sizes"
+    },
+    "DetailsView": "Details weergave",
+    "LayoutType": "Type lay-out",
+    "Actions": "acties",
+    "Commands": "Opdrachten",
+    "AddCommand": "Opdracht toevoegen",
+    "RestoreDefaults": "Standaardwaarden herstellen",
+    "ChooseAnAction": "Kies een actie",
+    "RestoreDefaultKeybindingsConfirmation": "Weet u zeker dat u de standaard sneltoetsen wilt herstellen? Deze actie kan niet ongedaan gemaakt worden.",
+    "KeybindingAlreadyUsedNotification": "Deze sneltoets is al in gebruik, kies een andere koppeling om door te gaan.",
+    "KeybindingInvalidKeyNotification": "De sneltoets die u koos kan niet worden gebruikt, gelieve opnieuw te proberen met een andere sneltoets.",
+    "Customized": "Aangepast",
+    "AdaptiveLayoutDisabledNotification": "Adaptieve lay-out is niet beschikbaar wanneer voorkeuren zijn gesynchroniseerd, de standaard lay-out is gewijzigd in Details.",
+    "BackgroundImage": "Achtergrond afbeelding",
+    "Bottom": {
+        "text": "Onderaan",
+        "crowdinContext": "Image alignment type"
+    },
+    "Center": {
+        "text": "Gecentreerd",
+        "crowdinContext": "Image alignment type"
+    },
+    "Fill": {
+        "text": "Invullen",
+        "crowdinContext": "Image stretch type"
+    },
+    "HorizontalAlignment": "Horizontale uitlijning",
+    "ImageFit": "Afbeelding pasvorm",
+    "Left": {
+        "text": "Links",
+        "crowdinContext": "Image alignment type"
+    },
+    "Opacity": "Transparantie",
+    "Right": {
+        "text": "Rechts",
+        "crowdinContext": "Image alignment type"
+    },
+    "Top": {
+        "text": "Bovenkant",
+        "crowdinContext": "Image alignment type"
+    },
+    "Uniform": {
+        "text": "Uniform",
+        "crowdinContext": "Image stretch type"
+    },
+    "UniformToFill": {
+        "text": "Uniform om te vullen",
+        "crowdinContext": "Image stretch type"
+    },
+    "VerticalAlignment": "Verticale uitlijning",
+    "ThinAcrylic": {
+        "text": "Dunne krilische",
+        "crowdinContext": "This is a type of backdrop for the application background"
+    },
+    "AllLocations": {
+        "text": "Toon voor alle locaties",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
+    },
+    "DevTools": "Hulpmiddelen voor ontwikkelaars",
+    "DisplayOpenIDE": "Configureer de \"Open IDE\" knop op de statusbalk",
+    "GitRepos": {
+        "text": "Toon voor Git repos",
+        "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
+    },
+    "ApplicationExtension": {
+        "text": "Applicatie extensie",
+        "crowdinContext": "This is the friendly name for DLL files."
+    },
+    "IcoFileCapitalized": {
+        "text": "ICO bestand",
+        "crowdinContext": "This is the friendly name for ICO files."
+    },
+    "ZipFileCapitalized": {
+        "text": "Zip bestand",
+        "crowdinContext": "This is the friendly name for ZIP files."
+    },
+    "BitmapFiles": {
+        "text": "Bitmap bestanden",
+        "crowdinContext": "This is the friendly name for bitmap files."
+    },
+    "NumPadTypeName": "Numeriek",
+    "NetworkLocations": "Netwerk locaties",
+    "NoNetworkLocationsInfo": "Er zijn geen netwerklocaties. Als u geen netwerklocaties gebruikt, kunt u de widget uitschakelen.",
+    "Disable": "Uitschakelen",
+    "EditInNotepad": "Bewerken in kladblok",
+    "EditInNotepadDescription": "Bewerk het geselecteerde bestand in Kladblok"
+}

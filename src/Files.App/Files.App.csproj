@@ -134,5 +134,10 @@
         <TrimmerRootAssembly Include="CommunityToolkit.WinUI.UI.Controls.Media" />
         <TrimmerRootAssembly Include="CommunityToolkit.WinUI.UI.Controls.Primitives" />
     </ItemGroup>
-  
+
+	<ItemGroup>
+		<!-- NOTE: New implementation of string sources in JSON format -->
+		<EmbeddedResource Include="Strings_Json\*\Resources.json" />
+	</ItemGroup>
+
 </Project>
