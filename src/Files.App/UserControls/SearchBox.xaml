@@ -72,6 +72,7 @@
 		</DataTemplate>
 	</UserControl.Resources>
 
+	<!--  NOTE: Test RealTimeRM if correct work  -->
 	<AutoSuggestBox
 		x:Name="SearchRegion"
 		BorderBrush="{ThemeResource ControlElevationBorderBrush}"
@@ -79,7 +80,7 @@
 		ItemTemplate="{StaticResource SuggestionTemplate}"
 		ItemsSource="{x:Bind SearchBoxViewModel.Suggestions, Mode=OneWay}"
 		KeyDown="SearchRegion_KeyDown"
-		PlaceholderText="{helpers:ResourceString Name=Search}"
+		PlaceholderText="{helpers:Strings KeyValue=Search}"
 		QuerySubmitted="SearchRegion_QuerySubmitted"
 		Text="{x:Bind SearchBoxViewModel.Query, Mode=TwoWay}"
 		TextBoxStyle="{StaticResource TextBoxStyle}"
