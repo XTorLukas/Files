@@ -1,48 +1,48 @@
 {
-    "NewWindow": "Fereastră Nouă",
-    "CopyPath": "Copiere cale",
-    "CopyPathWithQuotes": "Copiați calea cu ghilimele",
-    "Browse": "Răsfoire",
+    "NewWindow": "Fereastră nouă",
+    "CopyPath": "Copiază calea",
+    "CopyPathWithQuotes": "Copiază calea cu ghilimele",
+    "Browse": "Răsfoiește",
     "Size": "Mărime",
     "PropertiesCreated": {
         "Text": "Creat:"
     },
     "Path": "Cale",
     "SizeLabel": "Mărime:",
-    "SizeOnDiskLabel": "Dimensiune pe disc:",
-    "UncompressedSize": "Mărime necomprimată:",
+    "SizeOnDiskLabel": "Mărime pe disc:",
+    "UncompressedSize": "Mărime necomprimat:",
     "ErrorDialogThisActionCannotBeDone": "Această acțiune nu poate fi efectuată",
-    "ErrorDialogTheDestinationFolder": "Dosarul de destinație",
-    "ErrorDialogIsASubfolder": "este un subfolder al dosarului sursă",
-    "Skip": "Omiteți",
-    "SelectAll": "Selectaţi tot",
-    "InvertSelection": "Inversare selecție",
-    "ClearSelection": "Deselectare totală",
+    "ErrorDialogTheDestinationFolder": "Dosarul destinație",
+    "ErrorDialogIsASubfolder": "este un sub-dosar al dosarului sursă",
+    "Skip": "Omite",
+    "SelectAll": "Selectează tot",
+    "InvertSelection": "Inversează selecția",
+    "ClearSelection": "Anulează selecția",
     "PropertiesModified": {
         "Text": "Modificat:"
     },
     "Accessed": "Accesat:",
     "RecentItemClearAll": {
-        "Text": "Curăță toate elementele"
+        "Text": "Elimină toate elementele"
     },
     "NavigationToolbarVisiblePath": {
-        "PlaceholderText": "Introduceți o cale pentru a naviga sau tastați \">\" pentru a deschide paleta de comenzi"
+        "PlaceholderText": "Introdu o cale pentru a naviga sau tastează „>” pentru a deschide paleta de comenzi"
     },
-    "Search": "Căutare",
+    "Search": "Caută",
     "RecentItemDescription": {
-        "Text": "Fișierele accesate anterior vor apărea aici"
+        "Text": "Fișierele pe care le vei accesa vor apărea aici"
     },
     "RecentItemRemove": {
         "Text": "Elimină acest element"
     },
-    "OpenGitHubRepo": "GitHub repository",
+    "OpenGitHubRepo": "Repository GitHub",
     "About": "Despre",
-    "OpenSource": "Sursă deschisă",
+    "OpenSource": "Open source",
     "DateFormat": "Format dată",
     "SettingsAppearanceTheme": "Temă",
-    "SettingsFilesAndFoldersShowFileExtensions": "Arată extensiile pentru tipuri de fișiere cunoscute",
-    "SettingsFilesAndFoldersShowHiddenItems": "Afișare fișiere și dosare ascunse",
-    "ShowDotFiles": "Arată fișierele cu punct",
+    "SettingsFilesAndFoldersShowFileExtensions": "Afișează extensiile pentru tipurile de fișiere cunoscute",
+    "SettingsFilesAndFoldersShowHiddenItems": "Afișează fișierele și dosarele ascunse",
+    "ShowDotFiles": "Afișează fișierele care încep cu punct",
     "Appearance": "Aspect",
     "BackgroundColor": "Culoare de fundal",
     "Advanced": "Avansat",
@@ -50,125 +50,133 @@
         "Content": "Continuă de unde ai rămas"
     },
     "SettingsOnStartupOpenANewTab": {
-        "Content": "Deschideți o filă nouă"
+        "Content": "Deschide o filă nouă"
     },
     "SettingsOnStartupOpenASpecificPage": {
-        "Content": "Deschideți o anumită pagină sau pagini"
+        "Content": "Deschide o anumită pagină sau pagini"
     },
     "Desktop": "Desktop",
     "Documents": "Documente",
     "Downloads": "Descărcări",
     "Name": "Nume",
     "Ascending": "Ascendent",
-    "Paste": "Lipire",
+    "Paste": "Lipește",
     "BaseLayoutContextFlyoutNew": {
         "Label": "Nou"
     },
     "Properties": "Proprietăți",
-    "Open": "Deschideți",
-    "OpenInNewTab": "Deschideți în filă nouă",
-    "OpenInNewWindow": "Deschideți într-o fereastră nouă",
-    "Share": "Partajare",
-    "Cut": "Decupare",
-    "Delete": "Ștergere",
-    "PinFolderToSidebar": "Fixați la Bara Laterală",
+    "Open": "Deschide",
+    "OpenInNewTab": "Deschide într-o filă nouă",
+    "OpenInNewWindow": "Deschide într-o fereastră nouă",
+    "Share": "Partajează",
+    "Cut": "Decupează",
+    "Delete": "Șterge",
+    "PinFolderToSidebar": "Fixează la bara laterală",
     "WelcomeDialog": {
         "Title": "Bun venit la Files!",
-        "PrimaryButtonText": "Acordați permisiunea"
+        "PrimaryButtonText": "Acordă permisiunea"
     },
     "WelcomeDialogTextBlock": {
-        "Text": "Pentru a începe, va trebui să ne acordați permisiunea de a vă afișa fișierele. Asta va deschide o pagină de setări unde ne puteți acorda aceasta permisiune. Va trebui sa redeschideți aplicația pentru a completa acest pas. "
+        "Text": "Pentru a începe, va trebui să ne acorzi permisiunea de a-ți afișa fișierele. Acest lucru va deschide o pagină de setări de unde ne poți acorda permisiunea. Va trebui să repornești aplicația după ce ai acordat permisiunea. "
     },
-    "Display": "Afişare",
-    "EnterAnItemName": "Introduceți un nume",
+    "Display": "Afișare",
+    "EnterAnItemName": "Introdu un nume de element",
     "RenameDialog": {
-        "PrimaryButtonText": "Setați numele"
+        "PrimaryButtonText": "Setează numele"
     },
-    "LightTheme": "Luminos",
-    "DarkTheme": "Întunecat",
+    "LightTheme": "Luminoasă",
+    "DarkTheme": "Întunecată",
     "Application": "Aplicație",
     "SystemTimeStyle": "Sistem",
-    "NewFolder": "Folder nou",
+    "NewFolder": "Dosar nou",
     "NewFile": "Fișier nou",
     "EmptyFolder": {
-        "Text": "Acest folder este gol."
+        "Text": "Acest dosar este gol."
     },
-    "Back": "Înapoi (Alt+Stânga)",
+    "Back": "Înapoi",
     "Forward": "Înainte",
     "Up": "Sus",
     "Refresh": "Reîmprospătare",
-    "ItemAlreadyExistsDialogContent": "Un element cu acest nume exista deja în acest folder.",
-    "ItemAlreadyExistsDialogSecondaryButtonText": "Înlocuiți elementul existent",
+    "ItemAlreadyExistsDialogContent": "Un element cu acest nume există deja în acest dosar.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Înlocuiește elementul existent",
     "ItemAlreadyExistsDialogTitle": "Elementul există deja",
-    "SetAsLockscreen": "Stabilire ca ecran de blocare",
-    "SetAsAppBackground": "Setați ca fundal al aplicației",
+    "SetAsLockscreen": "Setează ca ecran de blocare",
+    "SetAsAppBackground": "Setează ca fundal al aplicației",
     "AccessDeniedDeleteDialog": {
         "Text": "Nu am putut șterge acest element"
     },
     "DriveUnpluggedDialog": {
-        "Text": "Introduceți unitatea necesară pentru a accesa acest element.",
+        "Text": "Te rog introdu unitatea necesară pentru a accesa acest element.",
         "Title": "Unitate deconectată"
     },
     "FileNotFoundDialog": {
-        "Text": "Fișierul pe care încercați să-l accesați a fost mutat sau șters.",
+        "Text": "Fișierul pe care încerci să-l accesezi a fost mutat sau șters.",
         "Title": "Fișierul nu a fost găsit"
     },
     "CannotAccessPropertiesTitle": "Nu se pot deschide proprietățile pentru acest fișier",
-    "CannotAccessPropertiesContent": "Fișierul pe care încercați să-l accesați a fost mutat sau șters.",
+    "CannotAccessPropertiesContent": "Fișierul pe care încerci să-l accesezi a fost mutat sau șters.",
     "FolderNotFoundDialog": {
-        "Text": "Fișierul pe care încercați să-l accesați a fost mutat sau șters.",
-        "Title": "Ați șters acest dosar?"
+        "Text": "Dosarul pe care încerci să-l accesezi a fost mutat sau șters.",
+        "Title": "Ai șters acest dosar?"
     },
     "FileInUseByDialog": {
-        "Text": "Fișierul pe care încercați să îl accesați este utilizat în prezent de {0}"
+        "Text": "Fișierul pe care încerci să-l accesezi este utilizat de {0}"
     },
     "FileInUseDialog": {
-        "Text": "Fișierul pe care încercați să îl accesați este utilizat în prezent de o altă aplicație",
-        "Title": "Fișierul este în Uz"
+        "Text": "Fișierul pe care încerci să-l accesezi este utilizat de o altă aplicație",
+        "Title": "Fișierul este în uz"
     },
     "Layout": "Aspect",
     "PropertiesDialogReadOnly": {
         "Text": "Doar citire"
     },
-    "DaysAgo": "{0, plural, one {# zi în urmă} other {# zile în urmă}}",
-    "HoursAgo": "{0, plural, one {# oră în urmă} other {# ore în urmă}}",
-    "MinutesAgo": "{0, plural,one {# minut în urmă} other {# minute în urmă}}",
-    "SecondsAgo": "{0, plural, one {# secundă în urmă} other {# secunde în urmă}}",
+    "DaysAgo": "{0, plural, one {acum # zi} few {acum # zile} other {acum # de zile}}",
+    "DaysAgo_Singular": "acum o zi",
+    "DaysAgo_Plural": "acum {0} zile",
+    "HoursAgo": "{0, plural, one {acum # oră} few {acum # ore} other {acum # de ore}}",
+    "HoursAgo_Singular": "acum o oră",
+    "HoursAgo_Plural": "acum {0} ore",
+    "MinutesAgo": "{0, plural, one {acum # minut} few {acum # minute} other {acum # de minute}}",
+    "MinutesAgo_Singular": "acum un minut",
+    "MinutesAgo_Plural": "acum {0} minute",
+    "SecondsAgo": "{0, plural, one {acum # secundă} few {acum # secunde} other {acum # de secunde}}",
+    "SecondsAgo_Singular": "acum o secundă",
+    "SecondsAgo_Plural": "acum {0} secunde",
     "Now": "Acum",
     "ErrorDialogUnsupportedOperation": "Operația solicitată nu este suportată",
     "DriveFreeSpaceAndCapacity": "{0} liberi din {1}",
-    "SendTo": "Trimitere la",
+    "SendTo": "Trimite la",
     "FileNameTeachingTip": {
-        "Subtitle": "Numele obiectului nu trebuie să conțină următoarele caractere: \\ / : * ? „ < >"
+        "Subtitle": "Numele elementului nu trebuie să conțină următoarele caractere: \\ / : * ? \" < > |"
     },
     "InvalidFilename": {
-        "Text": "Numele specificat nu este valid"
+        "Text": "Numele elementului specificat nu este valid"
     },
     "SelectedItems": {
-        "text": "{0, plural, one {# articole selectat} few {# articole selectate} other {# articole selectate}}",
+        "text": "{0, plural, one {# articol selectat} few {# articole selectate} other {# de articole selectate}}",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Items": {
-        "text": "{0, plural, one {articole} few {articole} other {articole}}",
+        "text": "{0, plural, one {articol} few {articole} other {de articole}}",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Yes": "Da",
-    "ConfirmEmptyBinDialogContent": "Ești sigur că dorești să ștergi definitiv toate elementele?",
-    "ConfirmEmptyBinDialogTitle": "Golire Coș de Reciclare",
-    "ItemSizeBytes": "Octeți",
-    "KiloByteSymbol": "KB",
-    "MegaByteSymbol": "MB",
-    "GigaByteSymbol": "GB",
-    "TeraByteSymbol": "TB",
-    "PetaByteSymbol": "PB",
-    "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {fișier} other {fișiere}}, {1, number} {1, plural, one {folder} other {foldere}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {fișier} other {fișiere}}, {1, number} {1, plural, one {folder} other {foldere}} de la {2, number} {2, plural, one {locație} other {locații}}",
+    "ConfirmEmptyBinDialogContent": "Ești sigur că dorești să ștergi definitiv toate aceste elemente?",
+    "ConfirmEmptyBinDialogTitle": "Golește coșul de reciclare",
+    "ItemSizeBytes": "octeți",
+    "KiloByteSymbol": "KO",
+    "MegaByteSymbol": "MO",
+    "GigaByteSymbol": "GO",
+    "TeraByteSymbol": "TO",
+    "PetaByteSymbol": "PO",
+    "ByteSymbol": "O",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {fișier} few {fișiere} other {de fișiere}}, {1, number} {1, plural, one {dosar} few {dosare} other {de dosare}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {fișier} few {fișiere} other {de fișiere}}, {1, number} {1, plural, one {dosar} few {dosare} other {de dosare}} din {2, number} {2, plural, one {locație} few {locații} other {de locații}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Rulează ca alt utilizator"
     },
     "PropertiesDriveItemTypesEquals": "Toate tipurile de {0}",
-    "PropertiesDriveItemTypeDifferent": "Diferite tipuri",
+    "PropertiesDriveItemTypeDifferent": "Tipuri diferite",
     "PropertiesCombinedItemLocation": "Toate în {0}",
     "PropertiesDriveUsedSpace": {
         "Text": "Spațiu utilizat:"
@@ -183,31 +191,29 @@
         "Text": "Sistem de fișiere:"
     },
     "JumpListRecentGroupHeader": "Recente",
-    "TabStripDragAndDropUIOverrideCaption": "Mutați tabul aici",
-    "syncStatusColumn": {
-        "Header": "Statut"
-    },
-    "SettingsPreferencesSystemDefaultLanguageOption": "Implicit Windows",
+    "TabStripDragAndDropUIOverrideCaption": "Mută fila aici",
+    "Status": "Stare",
+    "SettingsPreferencesSystemDefaultLanguageOption": "Implicit sistem",
     "NavigationToolbarVisiblePathNoResults": "Niciun rezultat",
     "SubDirectoryAccessDenied": "Nu se poate accesa niciun element de afișat",
-    "MoveToFolderCaptionText": "Mutare în {0}",
-    "CopyToFolderCaptionText": "Copiere în {0}",
-    "CreateShortcut": "Creați o comandă rapidă",
-    "OpenFileLocation": "Deschidere locație fișier",
+    "MoveToFolderCaptionText": "Mută în {0}",
+    "CopyToFolderCaptionText": "Copiază în {0}",
+    "CreateShortcut": "Creează o scurtătură",
+    "OpenFileLocation": "Deschide locație fișier",
     "PropertiesShortcutItemArgs": {
         "Text": "Argumente:"
     },
     "PropertiesShortcutItemPath": {
-        "Text": "Destinaţie:"
+        "Text": "Destinație:"
     },
     "PropertiesShortcutItemType": {
-        "Text": "Tip de comandă rapidă:"
+        "Text": "Tip scurtătură:"
     },
-    "PropertiesShortcutTypeLink": "Link web",
+    "PropertiesShortcutTypeLink": "Legătură web",
     "General": "General",
-    "Shortcut": "Comandă rapidă",
-    "ShortcutWebLinkFileType": "Comandă rapidă internet",
-    "ShortcutCreateNewSuffix": "{0} - comandă rapidă",
+    "Shortcut": "Scurtătură",
+    "ShortcutWebLinkFileType": "Scurtătură internet",
+    "ShortcutCreateNewSuffix": "{0} - scurtătură",
     "ExceptionNotificationBody": "Files a întâmpinat o problemă pentru care dezvoltatorii nu s-au pregătit încă.",
     "ExceptionNotificationHeader": "Ceva nu a mers bine!",
     "ExceptionNotificationReportButton": "Raportați această problemă",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Comută panoul de detalii pentru a vizualiza proprietățile de bază ale fișierelor",
     "ToggleInfoPane": "Comută panoul de informații",
     "ToggleInfoPaneDescription": "Comutați panoul de informații pentru a vizualiza panourile de detalii/previzualizare",
+    "ToggleToolbar": "Comutare Bară de Instrumente",
     "DetailsPanePreviewNotAvaliableText": "Nicio previzualizare disponibilă",
     "PropertyItemName": "Nume Obiect",
     "UnpinFolderFromSidebar": "Anulați fixarea la Bara Laterală",
@@ -719,9 +726,7 @@
             "ToolTip": "Înlocuiți toate intrările de permisiuni ale obiectului copil cu intrări de permisiuni moștenite de la acest obiect"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Închidere panou"
-    },
+    "CloseActivePane": "Închideți panoul activ",
     "EnterCompactOverlay": "Intrare în suprapunere compactă",
     "ExitCompactOverlay": "Ieșire din suprapunere compactă",
     "PropertyFileDescription": "Descriere fişier",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Nu suprascrieți setările DPI",
     "CompatibilityMode": "Mod compatibilitate",
     "CompatibilityNoReducedColor": "Fără culoare redusă",
-    "ThirdPartyLicenses": "Licențe terță parte",
+    "ThirdPartyLibraries": "Biblioteci terțe",
     "SettingsSetAsDefaultFileManagerDescription": "Această opțiune modifică registrul sistemului și poate avea efecte secundare neașteptate pe dispozitiv. Continuați pe propriul risc.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Creați o bibliotecă",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Introduceți numele Bibliotecii",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Treceți la fila anterioară",
     "NextTabDescription": "Treceți la fila următoare",
     "CloseSelectedTabDescription": "Închideți fila curentă",
-    "OpenNewPaneDescription": "Deschideți un nou panou",
-    "ClosePaneDescription": "Închideți panoul din dreapta",
-    "FocusLeftPane": "Focalizare pe panoul stâng",
-    "FocusLeftPaneDescription": "Comutați focalizarea la panoul stâng",
-    "FocusRightPane": "Focalizare pe panoul drept",
-    "FocusRightPaneDescription": "Comutați focalizarea la panoul drept",
+    "CloseActivePaneDescription": "Închideți panoul activ",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Comutare bară laterală",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Nu există locații de rețea. Dacă nu utilizați locații de rețea, puteți dezactiva widgetul.",
     "Disable": "Dezactivează",
     "EditInNotepad": "Editare în Notepad",
-    "EditInNotepadDescription": "Editați fișierul selectat în Notepad"
+    "EditInNotepadDescription": "Editați fișierul selectat în Notepad",
+    "PropertyDimensionsColon": "Dimensiuni:",
+    "StatusWithColon": "Statut:",
+    "ShowToolbar": {
+        "text": "Arătați Bara cu Instrumente",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Meniu acțiuni filă",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

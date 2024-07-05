@@ -131,9 +131,17 @@
         "Text": "Solo lectura"
     },
     "DaysAgo": "{0, plural, one {hace # día} other {hace # días}}",
+    "DaysAgo_Singular": "Hace 1 día",
+    "DaysAgo_Plural": "Hace {0} días",
     "HoursAgo": "{0, plural, one {hace # hora} other {hace # horas}}",
+    "HoursAgo_Singular": "Hace 1 hora",
+    "HoursAgo_Plural": "Hace {0} horas",
     "MinutesAgo": "{0, plural, one {hace # minuto} other {hace # minutos}}",
+    "MinutesAgo_Singular": "Hace 1 minuto",
+    "MinutesAgo_Plural": "Hace {0} minutos",
     "SecondsAgo": "{0, plural, one {hace # segundo} other {hace # segundos}}",
+    "SecondsAgo_Singular": "Hace 1 segundo",
+    "SecondsAgo_Plural": "Hace {0} segundos",
     "Now": "Ahora",
     "ErrorDialogUnsupportedOperation": "La operación solicitada no es soportada",
     "DriveFreeSpaceAndCapacity": "{0} disponibles de {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recientes",
     "TabStripDragAndDropUIOverrideCaption": "Mover la pestaña aquí",
-    "syncStatusColumn": {
-        "Header": "Estado"
-    },
+    "Status": "Estado",
     "SettingsPreferencesSystemDefaultLanguageOption": "Predeterminado de windows",
     "NavigationToolbarVisiblePathNoResults": "No hay resultados",
     "SubDirectoryAccessDenied": "No se puede acceder a ningún elemento para mostrar",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Activar el panel de detalles para ver las propiedades básicas del archivo",
     "ToggleInfoPane": "Mostrar panel de información",
     "ToggleInfoPaneDescription": "Mostrar/Ocultar panel de información con paneles de vista previa y detalles",
+    "ToggleToolbar": "Mostrar/Ocultar barra de herramientas",
     "DetailsPanePreviewNotAvaliableText": "No hay vista previa disponible",
     "PropertyItemName": "Nombre",
     "UnpinFolderFromSidebar": "Desanclar de la barra lateral",
@@ -719,9 +726,7 @@
             "ToolTip": "Reemplazar todos los permisos de objetos secundarios por permisos heredables de este objeto"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Cerrar panel"
-    },
+    "CloseActivePane": "Cerrar panel activo",
     "EnterCompactOverlay": "Cambiar a modo superposición compacta",
     "ExitCompactOverlay": "Salir del modo superposición compacta",
     "PropertyFileDescription": "Descripción del archivo",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "No anular DPI",
     "CompatibilityMode": "Modo de compatibilidad",
     "CompatibilityNoReducedColor": "Color sin reducción",
-    "ThirdPartyLicenses": "Licencias de terceros",
+    "ThirdPartyLibraries": "Bibliotecas de terceros",
     "SettingsSetAsDefaultFileManagerDescription": "Esta configuración modifica los archivos del sistema y puede tener efectos secundarios inesperados en su dispositivo. Los desarrolladores no asumen ninguna responsabilidad en caso de que se produzca un problema como resultado. Continuar con esta opción es un reconocimiento de los riesgos que implica esta acción.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Crear biblioteca",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Introduzca el nombre de la biblioteca",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Mover a la pestaña anterior",
     "NextTabDescription": "Mover a la pestaña siguiente",
     "CloseSelectedTabDescription": "Cerrar pestaña actual",
-    "OpenNewPaneDescription": "Abrir nuevo panel",
-    "ClosePaneDescription": "Cerrar panel derecho",
-    "FocusLeftPane": "Enfocar panel izquierdo",
-    "FocusLeftPaneDescription": "Cambiar foco al panel izquierdo",
-    "FocusRightPane": "Enfocar panel derecho",
-    "FocusRightPaneDescription": "Cambiar foco al panel derecho",
+    "CloseActivePaneDescription": "Cierra el panel activo",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Ocultar/mostrar barra lateral",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "No hay ubicaciones de red. Si no utiliza ubicaciones de red, puede desactivar el widget.",
     "Disable": "Desactivar",
     "EditInNotepad": "Editar en Bloc de notas",
-    "EditInNotepadDescription": "Editar el archivo seleccionado en el Bloc de notas"
+    "EditInNotepadDescription": "Editar el archivo seleccionado en el Bloc de notas",
+    "PropertyDimensionsColon": "Dimensiones:",
+    "StatusWithColon": "Estado:",
+    "ShowToolbar": {
+        "text": "Mostrar barra de herramientas",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menú de acciones de pestaña",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

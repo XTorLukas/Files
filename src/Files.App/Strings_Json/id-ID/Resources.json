@@ -131,9 +131,17 @@
         "Text": "Baca-saja"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 hari yang lalu",
+    "DaysAgo_Plural": "{0} hari yang lalu",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 jam yang lalu",
+    "HoursAgo_Plural": "{0} jam yang lalu",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 menit yang lalu",
+    "MinutesAgo_Plural": "{0} menit yang lalu",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 detik yang lalu",
+    "SecondsAgo_Plural": "{0} detik yang lalu",
     "Now": "Sekarang",
     "ErrorDialogUnsupportedOperation": "Operasi yang diminta tidak didukung",
     "DriveFreeSpaceAndCapacity": "{0} ruang bebas dari {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Terbaru",
     "TabStripDragAndDropUIOverrideCaption": "Pindah tab ke sini",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Bawaan Windows",
     "NavigationToolbarVisiblePathNoResults": "Tidak ada hasil",
     "SubDirectoryAccessDenied": "Tidak dapat mengakses item apa pun untuk ditampilkan",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Aktifkan panel detail untuk melihat file properti dasar",
     "ToggleInfoPane": "Aktifkan panel info",
     "ToggleInfoPaneDescription": "Aktifkan panel info untuk melihat detail/pratinjau panel",
+    "ToggleToolbar": "Aktifkan Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Pratinjau tidak tersedia",
     "PropertyItemName": "Nama Item",
     "UnpinFolderFromSidebar": "Unpin dari Sidebar",
@@ -719,9 +726,7 @@
             "ToolTip": "Ganti semua entri izin objek bawahan dengan entri izin yang dapat diwariskan dari objek ini"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Tutup panel"
-    },
+    "CloseActivePane": "Tutup panel aktif",
     "EnterCompactOverlay": "Masuk ke tampilan fleksibel",
     "ExitCompactOverlay": "Keluar dari tampilan fleksibel",
     "PropertyFileDescription": "Deskripsi file",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Jangan ganti DPI",
     "CompatibilityMode": "Mode kompabilitas",
     "CompatibilityNoReducedColor": "Tidak ada pengurangan warna",
-    "ThirdPartyLicenses": "Lisensi pihak ketiga",
+    "ThirdPartyLibraries": "Aplikasi pihak ketiga",
     "SettingsSetAsDefaultFileManagerDescription": "Opsi ini mengubah registri sistem dan dapat memiliki efek samping yang tidak terduga pada perangkat Anda. Lanjutkan dengan risiko Anda sendiri.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Buat Pustaka",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Masukkan nama Pustaka",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Pindah ke tab sebelumnya",
     "NextTabDescription": "Pindah ke tab berikutnya",
     "CloseSelectedTabDescription": "Tutup tab saat ini",
-    "OpenNewPaneDescription": "Buka panel baru",
-    "ClosePaneDescription": "Tutup panel kanan",
-    "FocusLeftPane": "Fokus panel kiri",
-    "FocusLeftPaneDescription": "Ubah fokus ke panel kiri",
-    "FocusRightPane": "Fokus panel kanan",
-    "FocusRightPaneDescription": "Ubah fokus ke panel kanan",
+    "CloseActivePaneDescription": "Tutup panel aktif",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Aktifkan sidebar",
     "Key": {
         "Menu": {
@@ -1880,9 +1882,30 @@
         "crowdinContext": "This is the friendly name for bitmap files."
     },
     "NumPadTypeName": "Num",
-    "NetworkLocations": "Network locations",
-    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
-    "Disable": "Disable",
+    "NetworkLocations": "Lokasi jaringan",
+    "NoNetworkLocationsInfo": "Tidak ada lokasi jaringan. Jika tidak menggunakan lokasi jaringan, widget bisa dinonaktifkan.",
+    "Disable": "Nonaktifkan",
     "EditInNotepad": "Edit di Notepad",
-    "EditInNotepadDescription": "Edit file yang dipilih di Notepad"
+    "EditInNotepadDescription": "Edit file yang dipilih di Notepad",
+    "PropertyDimensionsColon": "Dimensi:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Tampilkan Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Aksi tab menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

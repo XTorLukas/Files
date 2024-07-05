@@ -131,9 +131,17 @@
         "Text": "Лише для читання"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Щойно",
     "ErrorDialogUnsupportedOperation": "Дана операція не підтримується",
     "DriveFreeSpaceAndCapacity": "{0} вільно з {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Недавні",
     "TabStripDragAndDropUIOverrideCaption": "Перемістити вкладку",
-    "syncStatusColumn": {
-        "Header": "Статус"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Стандартна",
     "NavigationToolbarVisiblePathNoResults": "Немає результатів",
     "SubDirectoryAccessDenied": "Немає доступу",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Перемкнути панель деталей для перегляду основних властивостей файлу",
     "ToggleInfoPane": "Перемкнути інформаційну панель",
     "ToggleInfoPaneDescription": "Перемкнути інформаційну панель для перегляду деталей/прев'ю панелей",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Попередній перегляд недоступний",
     "PropertyItemName": "Ім'я елемента",
     "UnpinFolderFromSidebar": "Відкріпити від бічної панелі",
@@ -719,9 +726,7 @@
             "ToolTip": "Замінити всіх записів дозволів дочірніх об'єктів на успадковувані записи дозволів з цього об'єкта"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Закрити панель"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Компактний режим",
     "ExitCompactOverlay": "Вийти з компактного режиму",
     "PropertyFileDescription": "Опис файлу",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Не перевизначити DPI",
     "CompatibilityMode": "Режим сумісності",
     "CompatibilityNoReducedColor": "Немає зменшеного кольору",
-    "ThirdPartyLicenses": "Сторонні ліцензії",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Ця опція змінює системний реєстр і може мати несподівані побічні ефекти на вашому пристрої. Продовжуйте на свій страх і ризик.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Створити бібліотеку",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Введіть ім'я бібліотеки",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Перейти до попередньої вкладки",
     "NextTabDescription": "Перейти до наступної вкладки",
     "CloseSelectedTabDescription": "Закрити поточну вкладку",
-    "OpenNewPaneDescription": "Відкрити нову панель",
-    "ClosePaneDescription": "Закрити панель праворуч",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Перемкнути бічну панель",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Немає жодної мережі. Якщо ви не використовуєте мережеві місцезнаходження, можна вимкнути віджет.",
     "Disable": "Вимкнено",
     "EditInNotepad": "Редагувати в Блокноті",
-    "EditInNotepadDescription": "Редагування виділеного файлу в Notepad"
+    "EditInNotepadDescription": "Редагування виділеного файлу в Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

@@ -1,175 +1,175 @@
 {
-    "NewWindow": "Новае акно",
-    "CopyPath": "Скапіраваць шлях",
-    "CopyPathWithQuotes": "Скапіраваць шлях з двукоссем",
-    "Browse": "Агляд",
-    "Size": "Памер",
+    "NewWindow": "Tetingkap baru",
+    "CopyPath": "Salin laluan",
+    "CopyPathWithQuotes": "Salin laluan dengan petikan",
+    "Browse": "Semak imbas",
+    "Size": "Saiz",
     "PropertiesCreated": {
-        "Text": "Створана:"
+        "Text": "Dicipta:"
     },
-    "Path": "Шлях",
-    "SizeLabel": "Памер:",
-    "SizeOnDiskLabel": "Памер на дыску:",
-    "UncompressedSize": "Памер без сціскання:",
-    "ErrorDialogThisActionCannotBeDone": "Немагчыма выканаць дзеянне",
-    "ErrorDialogTheDestinationFolder": "Папка назначэння",
-    "ErrorDialogIsASubfolder": "гэта ўкладзеная папка зыходнай папкі",
-    "Skip": "Прапусціць",
-    "SelectAll": "Выбраць усё",
-    "InvertSelection": "Інвертаваць выбранае",
-    "ClearSelection": "Ачысціць выбар",
+    "Path": "Laluan",
+    "SizeLabel": "Saiz:",
+    "SizeOnDiskLabel": "Saiz pada cakera:",
+    "UncompressedSize": "Saiz tidak termampat:",
+    "ErrorDialogThisActionCannotBeDone": "Tindakan ini tidak dapat dilakukan",
+    "ErrorDialogTheDestinationFolder": "Folder destinasi",
+    "ErrorDialogIsASubfolder": "adalah subfolder dari folder asal",
+    "Skip": "Langkau",
+    "SelectAll": "Pilih Semua",
+    "InvertSelection": "Terbalikkan pilihan",
+    "ClearSelection": "Kosongkan pilihan",
     "PropertiesModified": {
-        "Text": "Зменена:"
+        "Text": "Diubah suai:"
     },
-    "Accessed": "Апошні доступ:",
+    "Accessed": "Diakses:",
     "RecentItemClearAll": {
-        "Text": "Ачысціць усё"
+        "Text": "Kosongkan semua item"
     },
     "NavigationToolbarVisiblePath": {
-        "PlaceholderText": "Увядзіце шлях для навігацыі або \">\", каб адкрыць камандны радок"
+        "PlaceholderText": "Masukkan laluan untuk navigasi atau taip \">\" untuk membuka palet arahan"
     },
-    "Search": "Пошук",
+    "Search": "Cari",
     "RecentItemDescription": {
-        "Text": "Тут будуць паказаны файлы, якія вы раней адкрывалі"
+        "Text": "Fail yang telah anda akses sebelum ini akan dipaparkan di sini"
     },
     "RecentItemRemove": {
-        "Text": "Выдаліць элемент"
+        "Text": "Alih keluar item ini"
     },
-    "OpenGitHubRepo": "Рэпазіторый GitHub",
-    "About": "Аб праграме",
-    "OpenSource": "Адкрыты зыходны код",
-    "DateFormat": "Фармат даты",
-    "SettingsAppearanceTheme": "Тэма",
-    "SettingsFilesAndFoldersShowFileExtensions": "Паказваць пашырэнні для вядомых тыпаў файлаў",
-    "SettingsFilesAndFoldersShowHiddenItems": "Паказваць схаваныя файлы і папкі",
-    "ShowDotFiles": "Паказваць файлы, якія пачынаюцца з кропкі",
-    "Appearance": "Выгляд",
-    "BackgroundColor": "Колер фону",
-    "Advanced": "Пашыраныя налады",
+    "OpenGitHubRepo": "Repositori GitHub",
+    "About": "Tentang",
+    "OpenSource": "Sumber terbuka",
+    "DateFormat": "Format tarikh",
+    "SettingsAppearanceTheme": "Tema",
+    "SettingsFilesAndFoldersShowFileExtensions": "Tunjukkan sambungan untuk jenis fail yang dikenali",
+    "SettingsFilesAndFoldersShowHiddenItems": "Tunjukkan fail dan folder tersembunyi",
+    "ShowDotFiles": "Tunjukkan fail yang bermula dengan titik",
+    "Appearance": "Rupa",
+    "BackgroundColor": "Warna latar belakang",
+    "Advanced": "Lanjutan",
     "SettingsOnStartupContinueWhereYouLeftOff": {
-        "Content": "Працягваць з таго, на чым спыніліся"
+        "Content": "Sambung dari tempat anda berhenti"
     },
     "SettingsOnStartupOpenANewTab": {
-        "Content": "Адкрываць новую ўкладку"
+        "Content": "Buka tab baru"
     },
     "SettingsOnStartupOpenASpecificPage": {
-        "Content": "Адкрываць вызначаныя старонкі"
+        "Content": "Buka halaman tertentu"
     },
-    "Desktop": "Працоўны стол",
-    "Documents": "Дакументы",
-    "Downloads": "Спампоўкі",
-    "Name": "Назва",
-    "Ascending": "Па ўзрастанні",
-    "Paste": "Уставіць",
+    "Desktop": "Desktop",
+    "Documents": "Dokumen",
+    "Downloads": "Muat turun",
+    "Name": "Nama",
+    "Ascending": "Menaik",
+    "Paste": "Tampal",
     "BaseLayoutContextFlyoutNew": {
-        "Label": "Новы"
+        "Label": "Baru"
     },
-    "Properties": "Уласцівасці",
-    "Open": "Адкрыць",
-    "OpenInNewTab": "Адкрыць у новай укладцы",
-    "OpenInNewWindow": "Адкрыць у новым акне",
-    "Share": "Падзяліцца",
-    "Cut": "Выразаць",
-    "Delete": "Выдаліць",
-    "PinFolderToSidebar": "Замацаваць збоку",
+    "Properties": "Sifat",
+    "Open": "Buka",
+    "OpenInNewTab": "Buka dalam tab baru",
+    "OpenInNewWindow": "Buka dalam tetingkap baru",
+    "Share": "Kongsi",
+    "Cut": "Potong",
+    "Delete": "Padam",
+    "PinFolderToSidebar": "Pin ke Sisi Bar",
     "WelcomeDialog": {
-        "Title": "Вітаем у Files!",
-        "PrimaryButtonText": "Даць дазвол"
+        "Title": "Selamat datang ke Files!",
+        "PrimaryButtonText": "Berikan kebenaran"
     },
     "WelcomeDialogTextBlock": {
-        "Text": "Каб пачаць, трэба даць дазвол на прагляд вашых файлаў. Будзе адкрыта старонка, на якой вы зможаце гэта зрабіць. Пасля гэтага вам спатрэбіцца перазапусціць прыкладанне. "
+        "Text": "Untuk mula menggunakannya, anda perlu memberikan kami kebenaran untuk memaparkan fail anda. Ini akan membuka halaman Tetapan di mana anda boleh memberikan kami kebenaran ini. Anda perlu membuka semula aplikasi setelah anda melengkapkan proses ini. "
     },
-    "Display": "Выгляд",
-    "EnterAnItemName": "Увядзіце назву элемента",
+    "Display": "Paparan",
+    "EnterAnItemName": "Masukkan nama item",
     "RenameDialog": {
-        "PrimaryButtonText": "Задаць назву"
+        "PrimaryButtonText": "Tetapkan satu nama"
     },
-    "LightTheme": "Светлая",
-    "DarkTheme": "Цёмная",
-    "Application": "Прыкладання",
-    "SystemTimeStyle": "Сістэмны",
-    "NewFolder": "Новая папка",
-    "NewFile": "Новы файл",
+    "LightTheme": "Cerah",
+    "DarkTheme": "Gelap",
+    "Application": "Aplikasi",
+    "SystemTimeStyle": "Sistem",
+    "NewFolder": "Folder baharu",
+    "NewFile": "Fail baharu",
     "EmptyFolder": {
-        "Text": "Гэта папка пустая."
+        "Text": "Folder ini kosong."
     },
-    "Back": "Назад",
-    "Forward": "Уперад",
-    "Up": "Уверх",
-    "Refresh": "Абнавіць",
-    "ItemAlreadyExistsDialogContent": "У бягучай папцы ўжо існуе элемент з такой назвай.",
-    "ItemAlreadyExistsDialogSecondaryButtonText": "Замяніць існуючы элемент",
-    "ItemAlreadyExistsDialogTitle": "Элемент ужо існуе",
-    "SetAsLockscreen": "Зрабіць фонам экрана блакіроўкі",
-    "SetAsAppBackground": "Зрабіць фонам прыкладання",
+    "Back": "Kembali",
+    "Forward": "Ke Depan",
+    "Up": "Atas",
+    "Refresh": "Segar semula",
+    "ItemAlreadyExistsDialogContent": "Item dengan nama ini sudah wujud dalam direktori ini.",
+    "ItemAlreadyExistsDialogSecondaryButtonText": "Gantikan item yang sedia ada",
+    "ItemAlreadyExistsDialogTitle": "Item sudah wujud",
+    "SetAsLockscreen": "Tetapkan sebagai latar belakang skrin kunci",
+    "SetAsAppBackground": "Tetapkan sebagai latar belakang aplikasi",
     "AccessDeniedDeleteDialog": {
-        "Text": "Выдаліць гэты элемент не атрымалася"
+        "Text": "Kami tidak dapat memadam item ini"
     },
     "DriveUnpluggedDialog": {
-        "Text": "Для доступу да гэтага элемента, калі ласка, ўстаўце неабходны дыск.",
-        "Title": "Дыск адключаны"
+        "Text": "Sila masukkan pemacu pena yang diperlukan untuk mengakses item ini.",
+        "Title": "Pemacu pena telah dicabut"
     },
     "FileNotFoundDialog": {
-        "Text": "The file you are attempting to access may have been moved or deleted.",
-        "Title": "Файл не знойдзены"
+        "Text": "Fail yang anda cuba akses mungkin telah dipindahkan atau dipadam.",
+        "Title": "Fail tidak dijumpai"
     },
-    "CannotAccessPropertiesTitle": "Cannot open properties for this file",
-    "CannotAccessPropertiesContent": "The file you are attempting to access may have been moved or deleted.",
+    "CannotAccessPropertiesTitle": "Tidak dapat membuka sifat untuk fail ini",
+    "CannotAccessPropertiesContent": "Fail yang anda cuba akses mungkin telah dipindahkan atau dipadam.",
     "FolderNotFoundDialog": {
-        "Text": "The folder you are attempting to access may have been moved or deleted.",
-        "Title": "Did you delete this folder?"
+        "Text": "Folder yang anda cuba akses mungkin telah dipindahkan atau dipadam.",
+        "Title": "Adakah anda memadam folder ini?"
     },
     "FileInUseByDialog": {
-        "Text": "The file you are attempting to access is currently being used by {0}"
+        "Text": "Fail yang anda cuba akses sedang digunakan oleh {0}"
     },
     "FileInUseDialog": {
-        "Text": "The file you are attempting to access is currently being used by another application",
-        "Title": "Файл выкарыстоўваецца"
+        "Text": "Fail yang anda cuba akses sedang digunakan oleh aplikasi lain",
+        "Title": "Fail sedang digunakan"
     },
-    "Layout": "Макет",
+    "Layout": "Susun atur",
     "PropertiesDialogReadOnly": {
-        "Text": "Толькі чытанне"
+        "Text": "Baca sahaja"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "DaysAgo_Singular": "1 day ago",
-    "DaysAgo_Plural": "{0} days ago",
+    "DaysAgo_Singular": "1 hari yang lalu",
+    "DaysAgo_Plural": "{0} hari yang lalu",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "HoursAgo_Singular": "1 hour ago",
-    "HoursAgo_Plural": "{0} hours ago",
+    "HoursAgo_Singular": "1 jam yang lalu",
+    "HoursAgo_Plural": "{0} jam yang lalu",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "MinutesAgo_Singular": "1 minute ago",
-    "MinutesAgo_Plural": "{0} minutes ago",
+    "MinutesAgo_Singular": "1 minit yang lalu",
+    "MinutesAgo_Plural": "{0} minit yang lalu",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
-    "SecondsAgo_Singular": "1 second ago",
-    "SecondsAgo_Plural": "{0} seconds ago",
-    "Now": "Зараз",
-    "ErrorDialogUnsupportedOperation": "The requested operation is not supported",
+    "SecondsAgo_Singular": "1 saat yang lalu",
+    "SecondsAgo_Plural": "{0} saat yang lalu",
+    "Now": "Sekarang",
+    "ErrorDialogUnsupportedOperation": "Operasi ini tidak disokong",
     "DriveFreeSpaceAndCapacity": "{0} free of {1}",
-    "SendTo": "Адправіць у",
+    "SendTo": "Hantar kepada",
     "FileNameTeachingTip": {
-        "Subtitle": "The item name must not contain the following characters: \\ / : * ? \" < > |"
+        "Subtitle": "Nama pada item mestilah tidak mengandungi aksara yang berikut \\ / : * ? \" < > |"
     },
     "InvalidFilename": {
         "Text": "The item name specified is invalid"
     },
     "SelectedItems": {
-        "text": "{0, plural, one {# item selected} few {# items selected} many {# items selected} other {# items selected}}",
+        "text": "{0, plural, one {# item selected} other {# items selected}}",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Items": {
-        "text": "{0, plural, one {item} few {items} many {items} other {items}}",
+        "text": "{0, plural, one {item} other {items}}",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
-    "Yes": "Так",
-    "ConfirmEmptyBinDialogContent": "Вы ўпэўненыя, што хочаце назаўсёды выдаліць гэтыя элементы?",
-    "ConfirmEmptyBinDialogTitle": "Ачыстка сметніцы",
-    "ItemSizeBytes": "байтаў",
-    "KiloByteSymbol": "КБ",
-    "MegaByteSymbol": "МБ",
-    "GigaByteSymbol": "ГБ",
-    "TeraByteSymbol": "ТБ",
-    "PetaByteSymbol": "ПБ",
-    "ByteSymbol": "Б",
+    "Yes": "Ya",
+    "ConfirmEmptyBinDialogContent": "Adakah anda pasti anda ingin memadamkan semua item ini secara kekal?",
+    "ConfirmEmptyBinDialogTitle": "Empty recycle bin",
+    "ItemSizeBytes": "bait",
+    "KiloByteSymbol": "KB",
+    "MegaByteSymbol": "MB",
+    "GigaByteSymbol": "GB",
+    "TeraByteSymbol": "TB",
+    "PetaByteSymbol": "PB",
+    "ByteSymbol": "B",
     "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
     "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
@@ -177,65 +177,65 @@
     },
     "PropertiesDriveItemTypesEquals": "All type of {0}",
     "PropertiesDriveItemTypeDifferent": "Different types",
-    "PropertiesCombinedItemLocation": "All in {0}",
+    "PropertiesCombinedItemLocation": "Semua dalam {0}",
     "PropertiesDriveUsedSpace": {
-        "Text": "Выкарыстанае месца:"
+        "Text": "Ruang yang digunakan:"
     },
     "PropertiesDriveFreeSpace": {
-        "Text": "Вольнае месца:"
+        "Text": "Ruang kosong:"
     },
     "PropertiesDriveCapacity": {
-        "Text": "Ёмістасць:"
+        "Text": "Kapasiti:"
     },
     "PropertiesDriveFileSystem": {
-        "Text": "Файлавая сістэма:"
+        "Text": "Sistem Fail:"
     },
-    "JumpListRecentGroupHeader": "Апошняе",
-    "TabStripDragAndDropUIOverrideCaption": "Move tab here",
+    "JumpListRecentGroupHeader": "Terbaru",
+    "TabStripDragAndDropUIOverrideCaption": "Pindahkan tab di sini",
     "Status": "Status",
-    "SettingsPreferencesSystemDefaultLanguageOption": "Мова сістэмы",
-    "NavigationToolbarVisiblePathNoResults": "Няма вынікаў",
+    "SettingsPreferencesSystemDefaultLanguageOption": "Tetapan lalai Windows",
+    "NavigationToolbarVisiblePathNoResults": "Tiada hasil ditemukan",
     "SubDirectoryAccessDenied": "Can't access any items to display",
-    "MoveToFolderCaptionText": "Перамясціць у {0}",
-    "CopyToFolderCaptionText": "Капіраваць у {0}",
-    "CreateShortcut": "Стварыць ярлык",
-    "OpenFileLocation": "Адкрыць месца размяшчэння файла",
+    "MoveToFolderCaptionText": "Pindahkan ke {0}",
+    "CopyToFolderCaptionText": "Salin ke {0}",
+    "CreateShortcut": "Buat pintasan",
+    "OpenFileLocation": "Buka lokasi fail",
     "PropertiesShortcutItemArgs": {
-        "Text": "Аргументы:"
+        "Text": "Argumen:"
     },
     "PropertiesShortcutItemPath": {
-        "Text": "Destination:"
+        "Text": "Destinasi:"
     },
     "PropertiesShortcutItemType": {
-        "Text": "Shortcut type:"
+        "Text": "Jenis pintasan:"
     },
-    "PropertiesShortcutTypeLink": "Web link",
-    "General": "General",
-    "Shortcut": "Shortcut",
-    "ShortcutWebLinkFileType": "Internet shortcut",
-    "ShortcutCreateNewSuffix": "{0} - shortcut",
+    "PropertiesShortcutTypeLink": "Pautan web",
+    "General": "Umum",
+    "Shortcut": "Pintasan",
+    "ShortcutWebLinkFileType": "Pintasan internet",
+    "ShortcutCreateNewSuffix": "{0} - pintasan",
     "ExceptionNotificationBody": "Files ran into a problem that the developers didn't prepare for yet.",
     "ExceptionNotificationHeader": "Something went wrong!",
     "ExceptionNotificationReportButton": "Report this issue",
     "InvalidItemDialogContent": "The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}",
     "InvalidItemDialogTitle": "Invalid item",
-    "SettingsAboutVersionTitle": "Version:",
+    "SettingsAboutVersionTitle": "Versi:",
     "ShareDialogFailMessage": "There's nothing to share right now...",
     "ShareDialogMultipleItemsDescription": "The items you've selected will be shared",
     "ShareDialogSingleItemDescription": "The selected item will be shared",
-    "ShareDialogTitle": "Sharing {0}",
-    "ShareDialogTitleMultipleItems": "Sharing {0} {1}",
+    "ShareDialogTitle": "Berkongsi {0}",
+    "ShareDialogTitleMultipleItems": "Berkongsi {0} {1}",
     "RenameError": {
         "ItemDeleted": {
-            "Text": "The item you're attempting to rename no longer exists. Please verify the correct location of the item you need to rename.",
-            "Title": "Item no longer exists"
+            "Text": "Item yang anda hendak namakan semula tidal lagi wujud. Sila semak semula lokasi item yang anda hendak menamakan semula.",
+            "Title": "Item tidak lagi wujud"
         },
         "NameInvalid": {
-            "Text": "The name specified was invalid. Please check the desired item name and try again.",
-            "Title": "Invalid item name"
+            "Text": "Nama yang dinyatakan tidak sah. Sila periksa nama item yang dikehendaki dan cuba lagi.",
+            "Title": "Nama item tidak sah"
         },
         "TooLong": {
-            "Text": "The length of the item name specified exceeds the maximum limit. Please check the desired name and try again.",
+            "Text": "Nama item yang ditetapkan melebihi had maksimum. Sila semak nama yang dihendaki dan cuba lagi.",
             "Title": "Item name was too long"
         }
     },
@@ -249,74 +249,74 @@
     },
     "AccessDenied": "Access Denied",
     "BaseLayoutItemContextFlyoutSetAs": {
-        "Text": "Set as"
+        "Text": "Tetapkan sebagai"
     },
-    "Cancel": "Cancel",
+    "Cancel": "Batal",
     "AddDialog": {
-        "Title": "Create a new item"
+        "Title": "Buat item baru"
     },
     "AddDialogDescription": {
-        "Text": "Choose a type for this new item below"
+        "Text": "Sila pilih jenis item baru dibawah"
     },
-    "File": "File",
-    "AddDialogListFileSubHeader": "Creates an empty file",
+    "File": "Fail",
+    "AddDialogListFileSubHeader": "Cipta fail kosong",
     "Folder": "Folder",
-    "AddDialogListFolderSubHeader": "Creates an empty folder",
+    "AddDialogListFolderSubHeader": "Cipta folder kosong",
     "NavResfreshButton": {
         "AutomationProperties": {
             "Name": "Refresh the directory"
         }
     },
-    "Language": "Language",
+    "Language": "Bahasa",
     "SettingsContextMenuOverflow": "Move shell extensions into a sub menu",
-    "ShowConfirmationWhenDeletingItems": "Show confirmation dialog when deleting items",
+    "ShowConfirmationWhenDeletingItems": "Tunjuk dialog pengesahan ketika memadam fail",
     "PropertySaveErrorMessage": {
         "Text": "There was an issue saving some properties."
     },
     "PropertySaveErrorDialog": {
-        "Title": "Error",
+        "Title": "Ralat",
         "SecondaryButtonText": "Close anyway"
     },
     "PropertyRatingText": "Rating",
     "PropertyParsingPath": "Item Path",
     "PropertyItemTypeText": "Item Type",
-    "PropertyTitle": "Title",
-    "PropertySubject": "Subject",
-    "PropertyComment": "Comment",
-    "PropertyCopyright": "Copyright",
-    "PropertyDateModified": "Date Modified",
+    "PropertyTitle": "Tajuk",
+    "PropertySubject": "Subjek",
+    "PropertyComment": "Ulasan",
+    "PropertyCopyright": "Hak Cipta",
+    "PropertyDateModified": "Tarikh Diubah suai",
     "PropertyBitDepth": "Bit Depth",
-    "PropertyDimensions": "Dimensions",
-    "PropertyHorizontalSize": "Horizontal Size",
-    "PropertyVerticalSize": "Vertical Size",
-    "PropertyHorizontalResolution": "Horizontal Resolution",
-    "PropertyVerticalResolution": "Vertical Resolution",
-    "PropertyColorSpace": "Color Space",
+    "PropertyDimensions": "Dimensi",
+    "PropertyHorizontalSize": "Saiz Horizontal",
+    "PropertyVerticalSize": "Saiz Vertikal",
+    "PropertyHorizontalResolution": "Resolusi Horizontal",
+    "PropertyVerticalResolution": "Resolusi Vertikal",
+    "PropertyColorSpace": "Ruang Warna",
     "PropertyColorSpace_Value0": "sRGB",
-    "PropertyColorSpace_Value65535": "Unspecified",
+    "PropertyColorSpace_Value65535": "Tidak dinyatakan",
     "PropertyLongitudeDecimal": "Longitude Decimal",
     "PropertyLatitudeDecimal": "Latitude Decimal",
-    "PropertyAltitude": "Altitude",
-    "PropertyDateTaken": "Date Taken",
-    "PropertyCameraManufacturer": "Camera Manufacturer",
-    "PropertyCameraModel": "Camera Model",
-    "PropertyExposureTime": "Exposure Time",
-    "PropertyFocalLength": "Focal Length",
-    "PropertyAperture": "Aperture",
+    "PropertyAltitude": "Altitud",
+    "PropertyDateTaken": "Tarikh diambil",
+    "PropertyCameraManufacturer": "Pengeluar kamera ",
+    "PropertyCameraModel": "Model kamera",
+    "PropertyExposureTime": "Tempoh Dedahan",
+    "PropertyFocalLength": "Jarak Fokus",
+    "PropertyAperture": "Bukaan",
     "PropertyPeopleNames": "People Names",
     "PropertyChannelCount": "Channel Count",
     "PropertyFormat": "Format",
     "PropertySampleRate": "Sample Rate",
     "PropertyAlbumArtist": "Album Artist",
     "PropertyAlbumTitle": "Album Title",
-    "Artist": "Artist",
+    "Artist": "Artis",
     "PropertyBeatsPerMinute": "Beats Per Minute",
     "PropertyComposer": "Composer",
     "Conductor": "Conductor",
     "PropertyDiscNumber": "Disc Number",
     "PropertyGenre": "Genre",
     "PropertyTrackNumber": "Track Number",
-    "PropertyDuration": "Duration",
+    "PropertyDuration": "Durasi",
     "PropertyFrameCount": "Frame Count",
     "PropertyProtectionType": "Protection Type",
     "PropertyAuthorUrl": "Author Url",
@@ -335,7 +335,7 @@
     "PropertyThumbnailSmallUri": "Thumbnail Small Uri",
     "PropertyUserWebUrl": "User Web Url",
     "PropertyWriter": "Writer",
-    "PropertyYear": "Year",
+    "PropertyYear": "Tahun",
     "PropertyContributor": "Contributor",
     "PropertyLastAuthor": "Last Author",
     "PropertyRevisionNumber": "Revision Number",
@@ -731,7 +731,7 @@
     "ExitCompactOverlay": "Exit compact overlay",
     "PropertyFileDescription": "File description",
     "PropertyCompany": "Company",
-    "PropertyLanguage": "Language",
+    "PropertyLanguage": "Bahasa",
     "PropertyTrademarks": "Trademarks",
     "PropertyFileVersion": "File version",
     "PreviewPaneLoadCloudItemButton": {
@@ -825,7 +825,7 @@
     "None": "None",
     "CompatibilityOnWindowsLogin": "On Windows login",
     "CompatibilityOnProgramStart": "On this program start",
-    "System": "Сістэмны",
+    "System": "Sistem",
     "CompatibilitySystemEnhanced": "System (Enhanced)",
     "CompatibilityReducedColorModeColor16bit": "16-bit (65536) color",
     "CompatibilityReducedColorModeColor8bit": "8-bit (256) color",
@@ -953,7 +953,7 @@
     "CannotCreateShortcutDialogTitle": "Creating a shortcut in this location requires administrator privileges",
     "CannotCreateShortcutDialogMessage": "Would you like to create the shortcut on the desktop instead?",
     "ErrorDialogNameNotAllowed": "The specified item name is invalid",
-    "Settings": "Settings",
+    "Settings": "Tetapan",
     "DoubleClickBlankSpaceToGoUp": "Double click on a blank space to go up one directory",
     "ViewMore": "View more",
     "ShowEditTagsMenu": "Show edit tags flyout",
@@ -1028,7 +1028,7 @@
     "CreateFolderDescription": "Create new folder",
     "CreateShortcutDescription": "Create new shortcut(s) to selected item(s)",
     "CreateShortcutFromDialogDescription": "Create new shortcut to any item",
-    "EmptyRecycleBinDescription": "Ачыстка сметніцы",
+    "EmptyRecycleBinDescription": "Empty recycle bin",
     "FormatDriveDescription": "Open \"Format Drive\" menu for selected item",
     "RestoreRecycleBinDescription": "Restore selected item(s) from recycle bin",
     "RestoreAllRecycleBinDescription": "Restore all items from recycle bin",
@@ -1182,7 +1182,7 @@
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Up": {
-            "text": "Уверх",
+            "text": "Atas",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Home": {
@@ -1270,7 +1270,7 @@
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "BrowserSearch": {
-            "text": "Пошук",
+            "text": "Cari",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "BrowserFavorites": {
@@ -1344,7 +1344,7 @@
     "Day": "Day",
     "ToggleGroupByDateUnitDescription": "Toggle unit for grouping by date",
     "ToggleGroupingUnit": "Toggle grouping unit",
-    "Year": "Year",
+    "Year": "Tahun",
     "GroupByDateUnit": "Group by date unit",
     "GroupByDateCreatedDayDescription": "Group items by day of date created",
     "GroupByDateCreatedMonthDescription": "Group items by month of date created",
@@ -1532,7 +1532,7 @@
         "text": "{0} of {1} processed",
         "crowdinContext": "Shown in a StatusCenter card. Used as \"64 MB of 1 GB processed\""
     },
-    "ItemsLower": "элемент(аў)",
+    "ItemsLower": "items",
     "CannotInitializeGitRepo": "Files can't initialize this directory as a Git repository.",
     "ContributingArtist": "Contributing Artist",
     "AddPage": "Add page",

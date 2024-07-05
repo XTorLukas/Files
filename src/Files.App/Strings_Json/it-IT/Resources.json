@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Sola lettura"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# giorno fa} other {# giorni fa}}",
+    "DaysAgo_Singular": "1 giorno fa",
+    "DaysAgo_Plural": "{0} giorni fa",
+    "HoursAgo": "{0, plural, one {# ora fa} other {# ore fa}}",
+    "HoursAgo_Singular": "1 ora fa",
+    "HoursAgo_Plural": "{0} ore fa",
+    "MinutesAgo": "{0, plural, one {# minuto fa} other {# minuti fa}}",
+    "MinutesAgo_Singular": "1 minuto fa",
+    "MinutesAgo_Plural": "{0} minuti fa",
+    "SecondsAgo": "{0, plural, one {# secondo fa} other {# secondi fa}}",
+    "SecondsAgo_Singular": "1 secondo fa",
+    "SecondsAgo_Plural": "{0} secondi fa",
     "Now": "Ora",
     "ErrorDialogUnsupportedOperation": "L'operazione richiesta non è supportata",
     "DriveFreeSpaceAndCapacity": "{0} disponibili su {1}",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {file}}, {1, number} {1, plural, one {cartella} other {cartelle}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {file}}, {1, number} {1, plural, one {cartella} other {cartelle}} da {2, number} {2, plural, one {posizione} other {posizioni}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Esegui come altro utente"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recenti",
     "TabStripDragAndDropUIOverrideCaption": "Sposta la scheda qui",
-    "syncStatusColumn": {
-        "Header": "Stato"
-    },
+    "Status": "Stato",
     "SettingsPreferencesSystemDefaultLanguageOption": "Predefinita di sistema",
     "NavigationToolbarVisiblePathNoResults": "Nessun risultato",
     "SubDirectoryAccessDenied": "Impossibile accedere ad alcun elemento",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Commuta il riquadro dettagli per visualizzare le proprietà di base dei file",
     "ToggleInfoPane": "Mostra o nascondi il riquadro informazioni",
     "ToggleInfoPaneDescription": "Commuta il riquadro informazioni per visualizzare i riquadri dettaglio/anteprima",
+    "ToggleToolbar": "Attiva/disattiva la barra degli strumenti",
     "DetailsPanePreviewNotAvaliableText": "Anteprima non disponibile",
     "PropertyItemName": "Nome file",
     "UnpinFolderFromSidebar": "Rimuovi dalla barra laterale",
@@ -516,7 +523,7 @@
     "DeleteItemsDialogSubtitle": "{0, plural, one {Un oggetto sarà eliminato} other {# elementi saranno eliminati}}",
     "ConflictingItemsDialogPrimaryButtonText": "Continua",
     "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {C'è un nome file in conflitto} other {Ci sono # nomi file in conflitto}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {C'è un nome file in conflitto} other {Ci sono # nomi file in conflitto}}, e {1, plural, one {un elemento in uscita} other {# elementi in uscita}}",
     "ConflictingItemsDialogTitle": "Conflitto {0, plural, one {nome del file} other {nomi dei file}}",
     "CopyItemsDialogSubtitle": "{0, plural, one {Un oggetto verrà copiato} other {# elementi verranno copiati}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
@@ -719,9 +726,7 @@
             "ToolTip": "Sostituisci tutte le voci delle autorizzazioni degli oggetti figlio con le voci delle autorizzazioni ereditabili da questo oggetto"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Chiudi pannello"
-    },
+    "CloseActivePane": "Chiudi pannello attivo",
     "EnterCompactOverlay": "Entra in modalità Overlay Compatto",
     "ExitCompactOverlay": "Esci dalla modalità Overlay Compatta",
     "PropertyFileDescription": "Descrizione",
@@ -735,7 +740,7 @@
             "ToolTip": "Scarica il file dal cloud e carica l'anteprima"
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# elemento} other {# elementi}} ({1, plural, one {# file} other {# file}}, {2, plural, one {# cartella} other {# cartelle}})",
     "PropertyUncompressedSize": "Dimensione non compressa",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Non eseguire l'override di DPI",
     "CompatibilityMode": "Modalità di compatibilità",
     "CompatibilityNoReducedColor": "Colore non ridotto",
-    "ThirdPartyLicenses": "Licenze di terze parti",
+    "ThirdPartyLibraries": "Librerie di terze parti",
     "SettingsSetAsDefaultFileManagerDescription": "Questa impostazione modifica il registro di sistema e può causare effetti indesiderati sul tuo dispositivo. Continuando con questa opzione si accettano i rischi legati ad essa.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Crea Raccolta",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Inserisci il nome della Raccolta",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Passa alla scheda precedente",
     "NextTabDescription": "Passa alla scheda successiva",
     "CloseSelectedTabDescription": "Chiudi la scheda attuale",
-    "OpenNewPaneDescription": "Apri nuovo pannello",
-    "ClosePaneDescription": "Chiudi il pannello di destra",
-    "FocusLeftPane": "Evidenzia pannello a sinistra",
-    "FocusLeftPaneDescription": "Cambia il focus al pannello sinistro",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Chiudi pannello attivo",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Attiva o disattiva la barra laterale",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Non ci sono posizioni di rete. Se non si utilizzano posizioni di rete, è possibile disabilitare il widget.",
     "Disable": "Disabilita",
     "EditInNotepad": "Modifica nel Blocco note",
-    "EditInNotepadDescription": "Modifica il file selezionato nel Blocco note"
+    "EditInNotepadDescription": "Modifica il file selezionato nel Blocco note",
+    "PropertyDimensionsColon": "Dimensioni:",
+    "StatusWithColon": "Stato:",
+    "ShowToolbar": {
+        "text": "Mostra barra degli strumenti",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menu azioni scheda",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

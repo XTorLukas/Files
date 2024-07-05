@@ -131,9 +131,17 @@
         "Text": "只读"
     },
     "DaysAgo": "{0, plural, other {# 天前}}",
+    "DaysAgo_Singular": "1 天前",
+    "DaysAgo_Plural": "{0} 天前",
     "HoursAgo": "{0, plural, other {# 小时前}}",
+    "HoursAgo_Singular": "1 小时前",
+    "HoursAgo_Plural": "{0} 小时前",
     "MinutesAgo": "{0, plural, other {# 分钟前}}",
+    "MinutesAgo_Singular": "1 分钟前",
+    "MinutesAgo_Plural": "{0} 分钟前",
     "SecondsAgo": "{0, plural, other {# 秒前}}",
+    "SecondsAgo_Singular": "1 秒前",
+    "SecondsAgo_Plural": "{0} 秒前",
     "Now": "现在",
     "ErrorDialogUnsupportedOperation": "不支持请求的操作",
     "DriveFreeSpaceAndCapacity": "{0} 可用，共 {1}",
@@ -163,7 +171,7 @@
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
     "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, other {个文件}}, {1, number} {1, plural, other {个文件夹}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, other {个文件}}, {1, number} {1, plural, other {个文件夹}}, 来自 {2, number} {2, plural, other {个位置}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "以其他用户身份运行"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "近期访问",
     "TabStripDragAndDropUIOverrideCaption": "移动标签页到此处",
-    "syncStatusColumn": {
-        "Header": "状态"
-    },
+    "Status": "状态",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows 默认",
     "NavigationToolbarVisiblePathNoResults": "无结果",
     "SubDirectoryAccessDenied": "无法访问任何要显示的项",
@@ -426,10 +432,11 @@
     "Confirm": "确认",
     "DesiredName": "期望名称",
     "TogglePreviewPane": "显示/隐藏预览窗格",
-    "ToggleDetailsPane": "显示/隐藏详细信息窗格",
+    "ToggleDetailsPane": "显示/隐藏详细信息面板",
     "ToggleDetailsPaneDescription": "切换到详细信息窗格以查看文件的基本属性",
     "ToggleInfoPane": "显示/隐藏信息窗格",
     "ToggleInfoPaneDescription": "打开信息窗格以查看详细信息/预览窗格",
+    "ToggleToolbar": "打开/关闭工具栏",
     "DetailsPanePreviewNotAvaliableText": "没有预览",
     "PropertyItemName": "项目名称",
     "UnpinFolderFromSidebar": "从侧边栏取消固定",
@@ -516,7 +523,7 @@
     "DeleteItemsDialogSubtitle": "{0, plural, other {将删除 # 个项目}}",
     "ConflictingItemsDialogPrimaryButtonText": "继续",
     "ConflictingItemsDialogSubtitleConflicts": "{0, plural, other {有 # 个文件名冲突}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, other {有 # 个文件名冲突}}和 {1, plural, other {# 个无冲突的项目}}",
     "ConflictingItemsDialogTitle": "{0, plural, other {文件名冲突}}",
     "CopyItemsDialogSubtitle": "{0, plural, other {将复制 # 个项目}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
@@ -719,9 +726,7 @@
             "ToolTip": "用来自该对象的可继承权限条目替换所有子对象权限条目"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "关闭面板"
-    },
+    "CloseActivePane": "关闭活动窗格",
     "EnterCompactOverlay": "进入精简模式",
     "ExitCompactOverlay": "退出精简模式",
     "PropertyFileDescription": "文件描述",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "不覆盖 DPI",
     "CompatibilityMode": "兼容模式",
     "CompatibilityNoReducedColor": "不使用简化的颜色",
-    "ThirdPartyLicenses": "第三方许可",
+    "ThirdPartyLibraries": "第三方库",
     "SettingsSetAsDefaultFileManagerDescription": "此选项会修改系统注册表，并可能对你的设备产生意想不到的副作用。 继续即代表您自行承担风险。",
     "FolderWidgetCreateNewLibraryDialogTitleText": "创建库",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "输入库名",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "移到上一标签页",
     "NextTabDescription": "移到下一标签页",
     "CloseSelectedTabDescription": "关闭当前标签页",
-    "OpenNewPaneDescription": "打开新面板",
-    "ClosePaneDescription": "关闭右侧标签页",
-    "FocusLeftPane": "聚焦到左侧窗格",
-    "FocusLeftPaneDescription": "切换焦点到左侧窗格",
-    "FocusRightPane": "聚焦到右侧窗格",
-    "FocusRightPaneDescription": "切换焦点到右侧窗格",
+    "CloseActivePaneDescription": "关闭活动窗格",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "打开/关闭侧边栏",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "没有网络位置。如果你不使用网络位置，可以禁用该小组件。",
     "Disable": "禁用",
     "EditInNotepad": "在记事本中编辑",
-    "EditInNotepadDescription": "在记事本中编辑选中的文件"
+    "EditInNotepadDescription": "在记事本中编辑选中的文件",
+    "PropertyDimensionsColon": "分辨率:",
+    "StatusWithColon": "状态:",
+    "ShowToolbar": {
+        "text": "显示工具栏",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "标签操作菜单",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

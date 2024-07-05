@@ -37,7 +37,7 @@
     },
     "OpenGitHubRepo": "Репозиторий на GitHub",
     "About": "О приложении",
-    "OpenSource": "С открытым исходным кодом",
+    "OpenSource": "Об исходном коде",
     "DateFormat": "Формат даты",
     "SettingsAppearanceTheme": "Тема оформления",
     "SettingsFilesAndFoldersShowFileExtensions": "Показывать расширения для известных типов файлов",
@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Только чтение"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# день назад} few {# дней назад} many {# дней назад} other {# дней назад}}",
+    "DaysAgo_Singular": "1 день назад",
+    "DaysAgo_Plural": "{0} дней назад",
+    "HoursAgo": "{0, plural, one {# час назад} few {# часов назад} many {# часов назад} other {# часов назад}}",
+    "HoursAgo_Singular": "1 час назад",
+    "HoursAgo_Plural": "{0} часов назад",
+    "MinutesAgo": "{0, plural, one {# минута назад} few {# минут назад} many {# минут назад} other {# минут назад}}",
+    "MinutesAgo_Singular": "1 минуту назад",
+    "MinutesAgo_Plural": "{0} минут назад",
+    "SecondsAgo": "{0, plural, one {# секунду назад} few {# секунд назад} many {# секунд назад} other {# секунд назад}}",
+    "SecondsAgo_Singular": "1 секунду назад",
+    "SecondsAgo_Plural": "{0} секунд назад",
     "Now": "Сейчас",
     "ErrorDialogUnsupportedOperation": "Запрошенная операция не поддерживается",
     "DriveFreeSpaceAndCapacity": "{0} свободно из {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Недавние",
     "TabStripDragAndDropUIOverrideCaption": "Переместить вкладку",
-    "syncStatusColumn": {
-        "Header": "Статус"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Стандартный",
     "NavigationToolbarVisiblePathNoResults": "Нет результатов",
     "SubDirectoryAccessDenied": "Нет доступа",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Показать панель деталей для просмотра основных свойств файла",
     "ToggleInfoPane": "Показать информационную панель",
     "ToggleInfoPaneDescription": "Переключить панель информации для просмотра панелей с подробностями / предварительным просмотром",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Предпросмотр недоступен",
     "PropertyItemName": "Имя",
     "UnpinFolderFromSidebar": "Убрать из боковой панели",
@@ -719,9 +726,7 @@
             "ToolTip": "Заменить все записи разрешений дочернего объекта наследуемыми записями разрешений от этого объекта"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Закрыть панель"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Войти в компактный режим",
     "ExitCompactOverlay": "Выйти из компактного режима",
     "PropertyFileDescription": "Описание файла",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Не переопределить DPI",
     "CompatibilityMode": "Режим совместимости",
     "CompatibilityNoReducedColor": "Без уменьшения цвета",
-    "ThirdPartyLicenses": "Лицензии третьих лиц",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Этот параметр изменяет реестр Windows и может иметь неожиданные побочные эффекты на вашем устройстве. Продолжайте на свой страх и риск.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Создать Библиотеку",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Введите название Библиотеки",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Переход на предыдущую вкладку",
     "NextTabDescription": "Переход на следующую вкладку",
     "CloseSelectedTabDescription": "Закрыть текущую вкладку",
-    "OpenNewPaneDescription": "Открыть новую панель",
-    "ClosePaneDescription": "Закрыть правую панель",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Переключить панель",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Нет сетевых местоположений. Если вы не используете сетевые местоположения, вы можете отключить виджет.",
     "Disable": "Отключено",
     "EditInNotepad": "Редактировать в Блокноте",
-    "EditInNotepadDescription": "Редактировать выбранный файл в Блокноте"
+    "EditInNotepadDescription": "Редактировать выбранный файл в Блокноте",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

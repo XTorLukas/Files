@@ -2,7 +2,7 @@
     "NewWindow": "새 창",
     "CopyPath": "경로 복사",
     "CopyPathWithQuotes": "홑 따옴표를 포함하여 경로 복사",
-    "Browse": "탐색",
+    "Browse": "찾아보기",
     "Size": "크기",
     "PropertiesCreated": {
         "Text": "만든 날짜:"
@@ -86,7 +86,7 @@
     },
     "LightTheme": "밝게",
     "DarkTheme": "어둡게",
-    "Application": "응용 프로그램",
+    "Application": "앱",
     "SystemTimeStyle": "시스템",
     "NewFolder": "새 폴더",
     "NewFile": "새 파일",
@@ -96,7 +96,7 @@
     "Back": "뒤로 가기",
     "Forward": "앞으로 가기",
     "Up": "상위 폴더로 이동",
-    "Refresh": "새로고침",
+    "Refresh": "새로 고침",
     "ItemAlreadyExistsDialogContent": "폴더에 같은 이름의 항목이 이미 존재합니다.",
     "ItemAlreadyExistsDialogSecondaryButtonText": "기존 항목으로 대체하기",
     "ItemAlreadyExistsDialogTitle": "항목이 이미 존재합니다",
@@ -120,20 +120,28 @@
         "Title": "폴더를 삭제하셨나요?"
     },
     "FileInUseByDialog": {
-        "Text": "접근하려는 파일은 {0}이(가) 현재 사용 중입니다"
+        "Text": "접근하려는 파일이 현재 {0}에서 사용 중입니다"
     },
     "FileInUseDialog": {
-        "Text": "접근하려는 파일은 현재 다른 애플리케이션이 사용 중입니다",
+        "Text": "접근하려는 파일이 현재 다른 앱에서 사용 중입니다",
         "Title": "사용 중인 파일"
     },
     "Layout": "레이아웃",
     "PropertiesDialogReadOnly": {
         "Text": "읽기 전용"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, other {#일 전}}",
+    "DaysAgo_Singular": "1일 전",
+    "DaysAgo_Plural": "{0}일 전",
+    "HoursAgo": "{0, plural, other {#시간 전}}",
+    "HoursAgo_Singular": "1시간 전",
+    "HoursAgo_Plural": "{0}시간 전",
+    "MinutesAgo": "{0, plural, other {#분 전}}",
+    "MinutesAgo_Singular": "1분 전",
+    "MinutesAgo_Plural": "{0}분 전",
+    "SecondsAgo": "{0, plural, other {#초 전}}",
+    "SecondsAgo_Singular": "1초 전",
+    "SecondsAgo_Plural": "{0}초 전",
     "Now": "지금",
     "ErrorDialogUnsupportedOperation": "해당 기능은 지원되지 않습니다.",
     "DriveFreeSpaceAndCapacity": "{1} 중 {0} 사용 가능",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, plural, other {파일}} {0, number}, {1, plural, other {폴더}} {1, number}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{2, number} {2, plural, other {위치}}에서 {0, plural, other {파일}} {0, number}, {1, plural, other {폴더}} {1, number}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "다른 사용자 권한으로 실행"
     },
@@ -184,15 +192,13 @@
     },
     "JumpListRecentGroupHeader": "최근",
     "TabStripDragAndDropUIOverrideCaption": "탭을 여기로 이동",
-    "syncStatusColumn": {
-        "Header": "상태"
-    },
+    "Status": "상태",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows 기본값",
     "NavigationToolbarVisiblePathNoResults": "결과 없음",
     "SubDirectoryAccessDenied": "표시할 항목에 접근할 수 없음",
     "MoveToFolderCaptionText": "{0}(으)로 이동",
     "CopyToFolderCaptionText": "{0}(으)로 복사",
-    "CreateShortcut": "바로가기 만들기",
+    "CreateShortcut": "바로 가기 만들기",
     "OpenFileLocation": "파일 경로 열기",
     "PropertiesShortcutItemArgs": {
         "Text": "고급 실행 옵션:"
@@ -235,11 +241,11 @@
     },
     "ShowMoreOptions": "추가 옵션 표시",
     "RestartNotificationText": {
-        "Text": "설정을 적용되려면 프로그램을 다시 시작해야합니다. 프로그램을 다시 시작할까요?"
+        "Text": "설정을 적용하려면 앱을 다시 시작해야합니다. 앱을 다시 시작할까요?"
     },
     "SponsorUsOnGitHub": "GitHub에서 후원하기",
     "AccessDeniedCreateDialog": {
-        "Text": "항목을 만들 수 없습니다."
+        "Text": "항목을 만들 수 없습니다"
     },
     "AccessDenied": "접근이 거부되었습니다.",
     "BaseLayoutItemContextFlyoutSetAs": {
@@ -247,15 +253,15 @@
     },
     "Cancel": "취소",
     "AddDialog": {
-        "Title": "새 아이템 만들기"
+        "Title": "새 항목 만들기"
     },
     "AddDialogDescription": {
         "Text": "새로운 항목의 유형을 선택해주세요."
     },
     "File": "파일",
-    "AddDialogListFileSubHeader": "빈 파일을 생성합니다.",
+    "AddDialogListFileSubHeader": "빈 파일을 생성합니다",
     "Folder": "폴더",
-    "AddDialogListFolderSubHeader": "빈 폴더를 생성합니다.",
+    "AddDialogListFolderSubHeader": "빈 폴더를 생성합니다",
     "NavResfreshButton": {
         "AutomationProperties": {
             "Name": "경로 새로고침"
@@ -346,7 +352,7 @@
     "PropertyFrameRate": "프레임레이트",
     "PropertyEncodingBitrate": "비트레이트",
     "PropertyPreviewAudioEncodingBitrate": "오디오 비트레이트",
-    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "PropertyPreviewVideoEncodingBitrate": "비디오 비트레이트",
     "Compression": "압축",
     "PropertyFrameWidth": "프레임 너비",
     "PropertyFrameHeight": "프레임 높이",
@@ -405,7 +411,7 @@
     "ShowOpenInNewPane": "'새 분할 화면에서 폴더 열기' 옵션 표시",
     "ShowCopyPath": "경로를 복사하기 위한 옵션 보기",
     "ShowCreateFolderWithSelection": "'선택한 항목으로 폴더 생성' 옵션 표시",
-    "ShowCreateShortcut": "'바로가기 만들기' 옵션 표시",
+    "ShowCreateShortcut": "'바로 가기 만들기' 옵션 표시",
     "NavigationToolbarNewPane": {
         "Label": "새 분할 화면"
     },
@@ -429,7 +435,8 @@
     "ToggleDetailsPane": "세부정보 보기",
     "ToggleDetailsPaneDescription": "기본 파일 속성을 보려면 세부정보 보기로 전환하세요.",
     "ToggleInfoPane": "정보 보기",
-    "ToggleInfoPaneDescription": "Toggle the info pane to view the detail/preview panes",
+    "ToggleInfoPaneDescription": "세부정보/미리보기 패널을 보려면 정보 보기로 전환하세요",
+    "ToggleToolbar": "도구 모음 전환",
     "DetailsPanePreviewNotAvaliableText": "가능한 미리보기가 없습니다",
     "PropertyItemName": "이름",
     "UnpinFolderFromSidebar": "사이드바에서 제거",
@@ -471,7 +478,7 @@
     "DriveTypeRemovable": "이동식 저장 장치",
     "DriveTypeUnknown": "알 수 없음",
     "DriveTypeVirtualDrive": "가상 드라이브",
-    "DateCreated": "생성된 날짜",
+    "DateCreated": "만든 날짜",
     "MoreOptions": "추가 옵션...",
     "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
         "Text": "네트워크 드라이브 연결"
@@ -492,7 +499,7 @@
         "Text": "시작 메뉴에 고정"
     },
     "UnpinItemFromStart": {
-        "Text": "시작 메뉴에서 고정 해제"
+        "Text": "시작 메뉴에서 제거"
     },
     "Library": "라이브러리",
     "LibraryLocations": {
@@ -508,17 +515,17 @@
     "CreateLibraryErrorAlreadyExists": "같은 이름의 라이브러리가 이미 존재합니다!",
     "OpenStorageSense": "저장소 센스 열기",
     "Copy": "복사",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "{0, plural, other {항목}} 복사",
+    "DeleteItemsDialogTitle": "{0, plural, other {항목}} 삭제",
     "MoveItemsDialogPrimaryButtonText": "이동",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, other {항목 #개가 이동됩니다}}",
+    "MoveItemsDialogTitle": "{0, plural, other {항목}} 이동",
+    "DeleteItemsDialogSubtitle": "{0, plural, other {항목 #개가 삭제됩니다}}",
     "ConflictingItemsDialogPrimaryButtonText": "계속",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
-    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, other {중복되는 파일 이름이 #개 있습니다}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, other {중복되는 파일 이름이 #개}}, {1, plural, other {그렇지 않은 항목이 #개}} 있습니다.",
+    "ConflictingItemsDialogTitle": "{0, plural, other {파일 이름}} 중복",
+    "CopyItemsDialogSubtitle": "{0, plural, other {항목 #개가 복사됩니다}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "영구 삭제"
     },
@@ -577,7 +584,7 @@
     "Widgets": "위젯",
     "SyncStatus": "동기화 상태",
     "Security": "보안",
-    "AdvancedPermissions": "고급 사용 권한",
+    "AdvancedPermissions": "고급 권한 설정",
     "Allow": "허용",
     "Deny": "거부",
     "SecurityFullControlLabel": {
@@ -600,7 +607,7 @@
     "Write": "쓰기",
     "SecurityUnknownAccount": "알 수 없는 계정",
     "SecurityCannotReadProperties": {
-        "Text": "이 항목의 보안 속성을 볼 권한이 없습니다. 진행하려면 \"고급 실행 권한\"을 클릭하세요."
+        "Text": "이 항목의 보안 속성을 볼 권한이 없습니다. 진행하려면 \"고급 권한 설정\"을 클릭하세요."
     },
     "SecurityOwnerLabel": {
         "Text": "소유자:"
@@ -712,18 +719,16 @@
         "Text": "상속된 모든 권한 삭제"
     },
     "SecurityAdvancedReplaceChildPermissions": {
-        "Text": "하위 권환 초기화"
+        "Text": "하위 권한 초기화"
     },
     "SecurityAdvancedReplaceChildPermissions2": {
         "ToolTipService": {
             "ToolTip": "모든 하위 객체의 사용 권한 항목을 이 객체의 상속 가능한 사용 권한 항목으로 변경"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "분할 화면 닫기"
-    },
-    "EnterCompactOverlay": "간략한 화면 진입",
-    "ExitCompactOverlay": "간략한 화면 종료",
+    "CloseActivePane": "활성 패널 닫기",
+    "EnterCompactOverlay": "컴팩트 오버레이 시작",
+    "ExitCompactOverlay": "컴팩트 오버레이 종료",
     "PropertyFileDescription": "파일 설명",
     "PropertyCompany": "기업",
     "PropertyLanguage": "언어",
@@ -735,8 +740,8 @@
             "ToolTip": "클라우드에서 항목을 내려받고 미리보기를 불러옵니다."
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
-    "PropertyUncompressedSize": "압축 해제 크기",
+    "DetailsArchiveItems": "{0, plural, other {항목 #}} ({1, plural, other {파일 #}}, {2, plural, other {폴더 #}})",
+    "PropertyUncompressedSize": "압축 해제 후 크기",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
         "Text": "{0} 섹션 숨기기"
@@ -807,8 +812,8 @@
     "FolderPath": "폴더 경로",
     "ExportSettings": "설정 내보내기",
     "ImportSettings": "설정 가져오기",
-    "SettingsImportErrorDescription": "설정을 불러올지 못했어요. 설정 파일이 손상된 것 같아요.",
-    "SettingsImportErrorTitle": "설정 불러오기 오류",
+    "SettingsImportErrorDescription": "설정을 가져올 수 없습니다. 설정 파일이 손상됐습니다.",
+    "SettingsImportErrorTitle": "설정 가져오기 중 오류가 발생했습니다",
     "EmptyRecycleBin": "휴지통 비우기",
     "Sidebar": "사이드바",
     "ChooseCustomIcon": "사용자 지정 폴더 아이콘 선택",
@@ -821,28 +826,28 @@
     "CompatibilityOnWindowsLogin": "Windows 로그인 시",
     "CompatibilityOnProgramStart": "프로그램 시작 시",
     "System": "시스템",
-    "CompatibilitySystemEnhanced": "System (Enhanced)",
+    "CompatibilitySystemEnhanced": "시스템 (향상됨)",
     "CompatibilityReducedColorModeColor16bit": "16비트 (65535) 색상",
     "CompatibilityReducedColorModeColor8bit": "8비트 (256) 색상",
-    "CompatibilityDisableFullscreenOptimizations": "Disable full-screen optimizations",
-    "CompatibilityRunIn640x480Resolution": "Run in 640 x 480 screen resolution",
-    "CompatibilityOverrideHighDPIBehavior": "Override high DPI scaling behavior",
-    "CompatibilityReducedColorMode": "Reduced color mode",
-    "CompatibilityRegisterThisProgramForRestart": "Register this program for restart",
+    "CompatibilityDisableFullscreenOptimizations": "전체 화면 최적화 해제",
+    "CompatibilityRunIn640x480Resolution": "640 x 480 화면 해상도로 실행",
+    "CompatibilityOverrideHighDPIBehavior": "높은 DPI 스케일링 재정의",
+    "CompatibilityReducedColorMode": "축소된 컬러 모드",
+    "CompatibilityRegisterThisProgramForRestart": "다시 시작을 위해 이 프로그램을 등록",
     "RunAsAdministrator": "관리자 권한으로 실행",
-    "CompatibilityRunTroubleshooter": "Run compatibility troubleshooter",
-    "CompatibilityUseDPISettings": "Use DPI settings of the main monitor",
+    "CompatibilityRunTroubleshooter": "호환성 문제 해결사 실행",
+    "CompatibilityUseDPISettings": "주 모니터의 DPI 설정 사용",
     "CompatibilityDoNotAdjustDPI": "DPI 조정하지 않기",
-    "CompatibilityDoNotOverrideDPI": "Do not override DPI",
+    "CompatibilityDoNotOverrideDPI": "DPI를 재정의하지 않음",
     "CompatibilityMode": "호환성 모드",
-    "CompatibilityNoReducedColor": "No reduced color",
-    "ThirdPartyLicenses": "제 3자 라이선스",
+    "CompatibilityNoReducedColor": "컬러 제한 없음",
+    "ThirdPartyLibraries": "제3자 라이브러리",
     "SettingsSetAsDefaultFileManagerDescription": "이 설정은 시스템 레지스트리를 수정하며 예기치 않은 부작용을 낳을 수 있습니다. 계속 진행할 경우 책임은 사용자에게 있습니다.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "라이브러리 생성",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "라이브러리 이름 입력",
     "CalculateFolderSizes": "폴더 크기 계산",
     "RecentFiles": "최근 항목",
-    "SettingsOpenInLogin": "Files를 윈도우 시작 프로그램으로 등록",
+    "SettingsOpenInLogin": "Files를 Windows 시작 앱으로 등록",
     "Attributes": "특성",
     "Hidden": "숨김",
     "MoreDetails": "자세히 보기",
@@ -877,7 +882,7 @@
     "Custom": "사용자 지정",
     "SetAsSlideshow": "바탕화면의 슬라이드 쇼로 지정하기",
     "SizeAllColumnsToFit": "모든 열의 크기 맞추기",
-    "Adaptive": "Automatically choose the best layout",
+    "Adaptive": "적응형 보기",
     "AdaptiveShortcutTooltip": "적응형 (Ctrl+Shift+7)",
     "BaseLayoutContextFlyoutAdaptive": {
         "KeyboardAcceleratorTextOverride": "Ctrl+Shift+7"
@@ -886,7 +891,7 @@
     "Behaviors": "동작",
     "ReviewFiles": "파일 검토",
     "ReviewFilesContent": "파일을 검토하시겠어요?",
-    "SetAsBackgroundFlyout": "바탕 화면으로 설정",
+    "SetAsBackgroundFlyout": "배경으로 설정",
     "SetAsBackground": "바탕 화면 배경으로 설정",
     "SetAsDefault": "기본값으로 설정",
     "DateColumn": "날짜 열",
@@ -916,12 +921,12 @@
     "CreateNamedArchive": "{0} 생성",
     "EnterName": "이름 입력",
     "CompressionLevel": "압축 수준",
-    "CompressionLevelUltra": "최상",
+    "CompressionLevelUltra": "극한",
     "CompressionLevelHigh": "높음",
-    "CompressionLevelNormal": "일반",
+    "CompressionLevelNormal": "보통",
     "CompressionLevelLow": "낮음",
     "CompressionLevelFast": "빠름",
-    "CompressionLevelNone": "없음",
+    "CompressionLevelNone": "압축하지 않음",
     "SplittingSize": "분할 크기",
     "Do not split": "분할하지 않음",
     "CD": "CD",
@@ -939,9 +944,9 @@
     "GroupInDescendingOrder": "내림차순으로 분류하기",
     "SortInDescendingOrder": "내림차순으로 정렬하기",
     "NewShortcutDialogTitle": "바로 가기 만들기",
-    "NewShortcutDialogDescription": "로컬 또는 네트워크상에 있는 프로그램, 파일, 폴더, 컴퓨터, 인터넷 주소로 연결되는 바로가기를 만들 수 있습니다.",
+    "NewShortcutDialogDescription": "로컬 또는 네트워크상에 있는 프로그램, 파일, 폴더, 컴퓨터, 인터넷 주소로 연결되는 바로 가기를 만들 수 있습니다.",
     "NewShortcutDialogPrompt": "항목 위치 입력:",
-    "AddDialogListShortcutSubHeader": "바로가기 만들기",
+    "AddDialogListShortcutSubHeader": "바로 가기를 생성합니다",
     "RecentFilesDisabledOnWindowsWarning": "Windows 파일 탐색기에서 최근 사용된 파일은 현재 사용할 수 없습니다.",
     "EditSettingsFile": "Files 설정 파일 수정",
     "WhatsNew": "새로운 기능",
@@ -985,9 +990,9 @@
     "OpenTerminalAsAdmin": "관리자 권한으로 Windows Terminal에서 열기",
     "Save": "저장",
     "MultiSelect": "다중 선택",
-    "ReorderSidebarItemsDialogText": "사이드 바 항목 재지정",
+    "ReorderSidebarItemsDialogText": "사이드바 항목 재정렬",
     "Hashes": "해시",
-    "CalculationError": "작업 도중 오류가 발생했습니다",
+    "CalculationError": "계산 중 오류가 발생했습니다",
     "CalculationErrorFileIsOpen": "해시를 계산하지 못했습니다. 파일을 닫고 다시 시도해주십시오.",
     "CalculationOnlineFileHashError": "온라인 파일인 경우 해시값을 계산할 수 없습니다.",
     "Algorithm": "알고리즘",
@@ -1002,16 +1007,16 @@
     "TagNameRules": "이름은 공백이거나 마침표로 시작하거나 끝날 수 없습니다.",
     "Videos": "동영상",
     "LaunchPreviewPopup": "미리 보기 팝업 표시",
-    "ToggleCompactOverlay": "간략한 오버레이 전환",
+    "ToggleCompactOverlay": "컴팩트 오버레이 전환",
     "OpenHelpDescription": "온라인 지원 페이지 열기",
     "ToggleFullScreenDescription": "전체 화면 전환",
-    "EnterCompactOverlayDescription": "간략한 화면 진입",
-    "ExitCompactOverlayDescription": "간략한 화면 종료",
-    "ToggleCompactOverlayDescription": "간략한 오버레이 전환",
+    "EnterCompactOverlayDescription": "컴팩트 오버레이를 시작합니다",
+    "ExitCompactOverlayDescription": "컴팩트 오버레이를 종료합니다",
+    "ToggleCompactOverlayDescription": "컴팩트 오버레이를 전환합니다",
     "SearchDescription": "검색으로 이동",
     "ToggleShowHiddenItemsDescription": "숨겨진 항목 표시 여부를 전환합니다",
     "ToggleShowFileExtensionsDescription": "파일 확장자 표시 여부를 전환합니다",
-    "TogglePreviewPaneDescription": "Toggle the preview pane to view file previews",
+    "TogglePreviewPaneDescription": "파일을 미리 보려면 미리보기 패널로 전환하세요",
     "ToggleSidebarDescription": "사이드바 표시 전환",
     "CopyItemDescription": "클립보드에 복사",
     "CopyPathDescription": "선택된 요소들의 경로를 클립보드에 복사하기",
@@ -1021,61 +1026,61 @@
     "PasteItemToSelectionDescription": "클립보드에서 선택된 폴더에 붙여넣기",
     "DeleteItemDescription": "항목 삭제",
     "CreateFolderDescription": "새 폴더 만들기",
-    "CreateShortcutDescription": "항목에 대한 새 바로가기 만들기",
-    "CreateShortcutFromDialogDescription": "새 바로가기 만들기",
+    "CreateShortcutDescription": "선택한 항목에 대한 새 바로 가기 만들기",
+    "CreateShortcutFromDialogDescription": "새 바로 가기 만들기",
     "EmptyRecycleBinDescription": "휴지통 비우기",
     "FormatDriveDescription": "선택한 드라이브 포맷",
     "RestoreRecycleBinDescription": "복원",
     "RestoreAllRecycleBinDescription": "모든 항목 복원",
     "OpenItemDescription": "열기",
-    "OpenItemWithApplicationPickerDescription": "선택된 응용 프로그램으로 열기",
+    "OpenItemWithApplicationPickerDescription": "선택한 앱으로 항목 열기",
     "OpenParentFolderDescription": "검색된 항목의 상위 폴더 열기",
-    "RefreshItemsDescription": "새로 고침",
-    "RenameDescription": "이름 바꾸기",
-    "SelectAllDescription": "모두 선택",
+    "RefreshItemsDescription": "페이지의 내용을 새로 고칩니다",
+    "RenameDescription": "선택한 항목의 이름을 바꿉니다",
+    "SelectAllDescription": "모든 항목을 선택합니다",
     "InvertSelectionDescription": "선택 영역 반전",
     "ClearSelectionDescription": "선택 취소",
-    "ToggleSelectDescription": "선택 전환",
+    "ToggleSelectDescription": "항목 선택 여부를 전환합니다",
     "ShareItemDescription": "공유",
-    "PinToStartDescription": "시작 화면에 고정",
-    "UnpinFromStartDescription": "시작 화면에 고정 해제",
-    "PinFolderToSidebarDescription": "Pin folder(s) to Sidebar",
-    "UnpinFolderFromSidebarDescription": "Unpin folder(s) from Sidebar",
-    "SetAsWallpaperBackgroundDescription": "바탕 화면 배경으로 설정",
-    "SetAsSlideshowBackgroundDescription": "바탕화면 슬라이드쇼로 지정하기",
-    "SetAsLockscreenBackgroundDescription": "잠금 화면 배경으로 설정",
+    "PinToStartDescription": "시작 메뉴에 고정",
+    "UnpinFromStartDescription": "시작 메뉴에서 제거",
+    "PinFolderToSidebarDescription": "사이드바에 폴더 고정",
+    "UnpinFolderFromSidebarDescription": "사이드바에서 폴더 제거",
+    "SetAsWallpaperBackgroundDescription": "선택한 사진을 바탕 화면 배경으로 설정",
+    "SetAsSlideshowBackgroundDescription": "선택한 사진들을 바탕 화면 슬라이드 쇼 배경으로 설정",
+    "SetAsLockscreenBackgroundDescription": "선택한 사진을 잠금 화면 배경으로 설정",
     "SetAsAppBackgroundDescription": "선택한 사진을 앱의 배경으로 설정",
     "InstallFontDescription": "선택한 폰트 설치",
     "InstallInfDriverDescription": "설치 정보를 이용해 드라이버 설치",
     "InstallCertificateDescription": "인증서 설치",
-    "RunAsAdminDescription": "관리자 권한으로 실행",
-    "RunAsAnotherUserDescription": "다른 사용자 권한으로 실행",
+    "RunAsAdminDescription": "선택한 앱을 관리자 권한으로 실행",
+    "RunAsAnotherUserDescription": "선택한 앱을 다른 사용자 권한으로 실행",
     "RunWithPowershellDescription": "PowerShell 스크립트 실행",
-    "LaunchPreviewPopupDescription": "팝업창에서 미리보기",
-    "CompressIntoArchiveDescription": "선택한 항목으로 압축파일 만들기",
-    "CompressIntoSevenZipDescription": "7z 압축파일 만들기",
-    "CompressIntoZipDescription": "Zip 압축파일 만들기",
-    "DecompressArchiveDescription": "폴더에 압축 해제",
-    "DecompressArchiveHereDescription": "현재 폴더에 압출 풀기",
-    "DecompressArchiveToChildFolderDescription": "새 폴더에 압축 해제",
+    "LaunchPreviewPopupDescription": "팝업 창에서 미리 보기",
+    "CompressIntoArchiveDescription": "선택한 항목으로 아카이브 생성",
+    "CompressIntoSevenZipDescription": "선택한 항목으로 7z 아카이브 생성",
+    "CompressIntoZipDescription": "선택한 항목으로 zip 아카이브 생성",
+    "DecompressArchiveDescription": "선택한 아카이브를 임의의 폴더에 압축 해제",
+    "DecompressArchiveHereDescription": "선택한 아카이브를 현재 폴더에 압축 해제",
+    "DecompressArchiveToChildFolderDescription": "선택한 아카이브를 새 폴더에 압축 해제",
     "RotateLeftDescription": "이미지를 왼쪽으로 회전",
     "RotateRightDescription": "이미지를 오른쪽으로 회전",
     "OpenSettingsDescription": "설정 열기",
     "OpenTerminalDescription": "터미널에서 폴더 열기",
     "OpenTerminalAsAdminDescription": "관리자 권한으로 터미널에서 열기",
-    "LayoutDecreaseSizeDescription": "Decrease item size in the current view",
-    "LayoutIncreaseSizeDescription": "Increase item size in the current view",
+    "LayoutDecreaseSizeDescription": "현재 보기의 항목 크기 축소",
+    "LayoutIncreaseSizeDescription": "현재 보기의 항목 크기 확대",
     "LayoutDetailsDescription": "자세히 보기로 전환",
     "LayoutTilesDescription": "타일 보기로 전환",
-    "LayoutListDescription": "Switch to list view",
-    "List": "List",
-    "Grid": "Grid",
-    "LayoutGridDescription": "Switch to grid view",
+    "LayoutListDescription": "목록 보기로 전환",
+    "List": "목록",
+    "Grid": "그리드",
+    "LayoutGridDescription": "그리드 보기로 전환",
     "LayoutColumnsDescription": "열 보기로 전환",
     "LayoutAdaptiveDescription": "적응형 보기로 전환",
     "SortByNameDescription": "이름으로 정렬",
     "SortByDateModifiedDescription": "수정한 날짜로 정렬",
-    "SortByDateCreatedDescription": "만든 날짜순으로 정렬",
+    "SortByDateCreatedDescription": "만든 날짜 순으로 정렬",
     "SortBySizeDescription": "크키로 정렬",
     "SortByTypeDescription": "파일 유형으로 정렬",
     "SortBySyncStatusDescription": "동기화 상태로 정렬",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "이전 탭으로 이동",
     "NextTabDescription": "다음 탭으로 이동",
     "CloseSelectedTabDescription": "현재 탭 닫기",
-    "OpenNewPaneDescription": "새 분할 화면 열기",
-    "ClosePaneDescription": "오른쪽 분할 화면 닫기",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "활성 패널 닫기",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "사이드 바 전환",
     "Key": {
         "Menu": {
@@ -1232,15 +1234,15 @@
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Application": {
-            "text": "App",
+            "text": "앱",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Application1": {
-            "text": "App1",
+            "text": "앱1",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Application2": {
-            "text": "App2",
+            "text": "앱2",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Mail": {
@@ -1309,7 +1311,7 @@
         }
     },
     "Change": "변경",
-    "ToggleSelect": "선택 반전",
+    "ToggleSelect": "선택 토글",
     "ShowFileExtensionWarning": "파일 확장자를 변경할 때 경고 표시",
     "ThisPC": "내 PC",
     "RecycleBin": "휴지통",
@@ -1326,7 +1328,7 @@
     "FilePropertiesCannotBeMoved": "이 파일들에는 새 위치로 이동할 수 없는 속성이 있습니다",
     "MoveFileWithoutProperties": "해당 속성 없이 이 파일들을 옮기시겠습니까?",
     "ShowCheckboxesWhenSelectingItems": "항목 확인란 표시",
-    "EditPathDescription": "경로 표시기 강조",
+    "EditPathDescription": "주소 표시줄 포커스",
     "AddItemDescription": "새 항목 만들기",
     "SecurityNoAccessControlEntriesText": "이 항목에 액세스할 수 있는 권한이 있는 그룹이나 사용자가 없습니다. 그러나 이 항목의 소유자는 권한을 할당할 수 있습니다.",
     "OpenFileLocationDescription": "항목 위치 열기",
@@ -1337,23 +1339,23 @@
     "RedoDescription": "마지막 파일 작업 다시 실행",
     "Location": "위치:",
     "GroupByMonthDescription": "월별로 분류",
-    "GroupByYearDescription": "년별로 분류",
+    "GroupByYearDescription": "연도별로 분류",
     "Month": "월",
-    "Day": "Day",
+    "Day": "일",
     "ToggleGroupByDateUnitDescription": "분류 기준을 날짜로 전환",
     "ToggleGroupingUnit": "정렬 기준 전환",
     "Year": "연도",
-    "GroupByDateUnit": "Group by date unit",
-    "GroupByDateCreatedDayDescription": "Group items by day of date created",
+    "GroupByDateUnit": "다음 날짜 단위로 분류",
+    "GroupByDateCreatedDayDescription": "만든 날짜의 일별로 분류",
     "GroupByDateCreatedMonthDescription": "만든 날짜의 월별로 분류",
-    "GroupByDateCreatedYearDescription": "만든 날짜의 년별로 분류",
-    "GroupByDateDeletedDayDescription": "Group items by day of date deleted",
+    "GroupByDateCreatedYearDescription": "만든 날짜의 연도별로 분류",
+    "GroupByDateDeletedDayDescription": "삭제된 날짜의 일별로 분류",
     "GroupByDateDeletedMonthDescription": "삭제된 날짜의 월별로 분류",
-    "GroupByDateDeletedYearDescription": "삭제된 날짜의 년별로 분류",
-    "GroupByDateModifiedDayDescription": "Group items by day of date modified",
+    "GroupByDateDeletedYearDescription": "삭제된 날짜의 연도별로 분류",
+    "GroupByDateModifiedDayDescription": "수정한 날짜의 일별로 분류",
     "GroupByDateModifiedMonthDescription": "수정한 날짜의 월별로 분류",
-    "GroupByDateModifiedYearDescription": "수정한 날짜의 년별로 분류",
-    "SecurityClickAdvancedPermissions": "계속하려면 '고급 권한' 버튼을 클릭하세요.",
+    "GroupByDateModifiedYearDescription": "수정한 날짜의 연도별로 분류",
+    "SecurityClickAdvancedPermissions": "계속하려면 '고급 권한 설정' 버튼을 클릭하세요.",
     "SecurityRequireReadPermissions": "이 항목의 속성을 보려면 읽기 권한이 필요합니다.",
     "SecuritySuggestToTakeOwnership": "속성 확인 권한이 포함된 항목의 소유권을 가져오려면 위의 변경을 클릭하세요.",
     "SecurityUnableToDisplayPermissions": "권한을 표시할 수 없음",
@@ -1366,11 +1368,11 @@
     "Switch": "전환",
     "NewBranch": "새 분기",
     "InvalidBranchName": "잘못된 분기 이름",
-    "CreateBranch": "새 분기",
-    "CreateNewBranch": "새 분기",
+    "CreateBranch": "브랜치 생성",
+    "CreateNewBranch": "브랜치 생성",
     "BasedOn": "기반",
     "SwitchToNewBranch": "새 분기로 전환",
-    "CreateFolderWithSelectionDescription": "선택된 항목으로 폴더 생성",
+    "CreateFolderWithSelectionDescription": "선택한 항목으로 폴더 생성",
     "OpenProperties": "속성",
     "OpenPropertiesDescription": "속성",
     "Locals": "로컬 저장소",
@@ -1383,7 +1385,7 @@
     "Preview": "미리보기",
     "GitStatus": "Git 상태",
     "GitError": "Git 오류",
-    "PullTimeoutError": "끌어오기 요청이 시간초과로 실패했습니다",
+    "PullTimeoutError": "시간 초과 오류로 인해 git pull에 실패했습니다",
     "MultipleValues": {
         "text": "(여러 값)",
         "crowdinContext": "Text indicating that multiple selected files have different metadata values."
@@ -1422,7 +1424,7 @@
     "InitRepoDescription": "리포지토리 초기화",
     "GitOriginRepositoryName": "원격 리포지토리 이름",
     "GitCurrentBranch": "현재 분기",
-    "PathColumn": "Path column",
+    "PathColumn": "경로 열",
     "SortByPathDescription": "경로로 정렬",
     "OpenDirectoryInNewPaneDescription": "새 분할 화면에서 열기",
     "OpenDirectoryInNewTabDescription": "새 탭에서 열기",
@@ -1434,9 +1436,9 @@
         "crowdinContext": "{0} is the drive letter."
     },
     "InvalidCommand": "잘못된 명령입니다",
-    "InvalidCommandContent": "'{0}' is not recognized as a command.",
+    "InvalidCommandContent": "'{0}'을(를) 명령으로 인식할 수 없습니다.",
     "CommandNotExecutable": "명령을 수행할 수 없습니다.",
-    "CommandNotExecutableContent": "The '{0}' command is not ready to be executed.",
+    "CommandNotExecutableContent": "현재 '{0}' 명령을 실행할 수 없습니다.",
     "CommandPalette": "명령어 팔레트",
     "OpenCommandPaletteDescription": "명령어 팔레트 열기",
     "ShortcutItemWorkingDir": "시작 시간:",
@@ -1446,10 +1448,10 @@
     "FormatDrive": "드라이브 포맷",
     "DontShowAgain": "다시 표시 안 함",
     "FilesRunningAsAdmin": "Files가 관리자 권한으로 실행 중입니다.",
-    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
-    "SettingsLeaveAppRunning": "Leave app running in the background when the window is closed",
+    "FilesRunningAsAdminContent": "Windows와 WinAppSdk의 제약 때문에, Files를 관리자 권한으로 실행하면 드래그 앤 드롭 기능을 사용할 수 없습니다. 드래그 앤 드롭을 활성화하려면 시작 메뉴에서 UAC(사용자 계정 컨트롤) 설정을 열고 세 번째 옵션을 선택한 다음, Windows를 재부팅하면 됩니다. 이 방법을 사용하지 않는다면, Files는 드래그 앤 드롭 기능 없이도 사용 가능합니다.",
+    "SettingsLeaveAppRunning": "창을 닫아도 백그라운드에서 앱 계속 실행",
     "Blue": {
-        "text": "파란색",
+        "text": "파랑",
         "crowdinContext": "One of the custom color themes"
     },
     "BlueGray": {
@@ -1457,15 +1459,15 @@
         "crowdinContext": "One of the custom color themes"
     },
     "BrickRed": {
-        "text": "Brick Red",
+        "text": "벽돌",
         "crowdinContext": "One of the custom color themes"
     },
     "Camouflage": {
-        "text": "Camouflage",
+        "text": "카모플라쥬",
         "crowdinContext": "One of the custom color themes"
     },
     "CoolBlueBright": {
-        "text": "Cool Blue Bright",
+        "text": "밝은 쿨 블루",
         "crowdinContext": "One of the custom color themes"
     },
     "Gray": {
@@ -1477,54 +1479,54 @@
         "crowdinContext": "One of the custom color themes"
     },
     "Green": {
-        "text": "녹색",
+        "text": "초록",
         "crowdinContext": "One of the custom color themes"
     },
     "IrisPastel": {
-        "text": "Iris Pastel",
+        "text": "파스텔 아이리스",
         "crowdinContext": "One of the custom color themes"
     },
     "MintLight": {
-        "text": "Mint Light",
+        "text": "밝은 민트",
         "crowdinContext": "One of the custom color themes"
     },
     "ModRed": {
-        "text": "Mod Red",
+        "text": "모드 레드",
         "crowdinContext": "One of the custom color themes"
     },
     "OrangeBright": {
-        "text": "Orange Bright",
+        "text": "밝은 주황",
         "crowdinContext": "One of the custom color themes"
     },
     "Overcast": {
-        "text": "Overcast",
+        "text": "흐린 회색",
         "crowdinContext": "One of the custom color themes"
     },
     "Red": {
-        "text": "빨간색",
+        "text": "빨강",
         "crowdinContext": "One of the custom color themes"
     },
     "RoseBright": {
-        "text": "Rose Bright",
+        "text": "밝은 장미",
         "crowdinContext": "One of the custom color themes"
     },
     "Seafoam": {
-        "text": "Seafoam",
+        "text": "씨폼",
         "crowdinContext": "One of the custom color themes"
     },
     "Storm": {
-        "text": "Storm",
+        "text": "폭풍",
         "crowdinContext": "One of the custom color themes"
     },
     "VioletRedLight": {
-        "text": "Violet Red Light",
+        "text": "밝은 자주",
         "crowdinContext": "One of the custom color themes"
     },
     "YellowGold": {
-        "text": "Yellow Gold",
+        "text": "황금",
         "crowdinContext": "One of the custom color themes"
     },
-    "ClearCompleted": "Clear completed",
+    "ClearCompleted": "완료된 항목 지우기",
     "NameWithColon": "이름:",
     "StatusCenter_ProcessedSize_Header": {
         "text": "{1} 중 {0} 처리됨",
@@ -1532,160 +1534,160 @@
     },
     "ItemsLower": "항목",
     "CannotInitializeGitRepo": "이 디렉토리를 Git 저장소로 초기화할 수 없습니다.",
-    "ContributingArtist": "Contributing Artist",
+    "ContributingArtist": "참여 아티스트",
     "AddPage": "페이지 추가",
-    "ProcessingItems": "Processing items...",
+    "ProcessingItems": "항목 처리 중...",
     "SpeedWithColon": "속도:",
     "StatusCenter_CompressCanceled_Header": {
-        "text": "Canceled compressing {0} items to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 압축하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressCanceled_SubHeader": {
-        "text": "Canceled compressing {0} items from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 압축하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressComplete_Header": {
-        "text": "Compressed {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 압축했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressComplete_SubHeader": {
-        "text": "Compressed {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 압축했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressFailed_Header": {
-        "text": "Error compressing {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 압축하는 작업 중 오류가 발생했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressFailed_SubHeader": {
-        "text": "Failed to compress {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 {1}에서 {2}(으)로 압축하지 못했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressInProgress_Header": {
-        "text": "Compressing {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 압축 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CompressInProgress_SubHeader": {
-        "text": "Compressing {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 압축 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyCanceled_Header": {
-        "text": "Canceled copying {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 복사하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyCanceled_SubHeader": {
-        "text": "Canceled copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 복사하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyComplete_Header": {
-        "text": "Copied {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 복사했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyComplete_SubHeader": {
-        "text": "Copied {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 복사했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyFailed_Header": {
-        "text": "Error copying {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 복사하는 작업 중 오류가 발생했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyFailed_SubHeader": {
-        "text": "Failed to copy {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 복사하지 못했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyInProgress_Header": {
-        "text": "Copying {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 복사 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_CopyInProgress_SubHeader": {
-        "text": "Copying {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 복사 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressCanceled_Header": {
-        "text": "Canceled extracting \"{0}\" to \"{1}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에 압축 해제하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressCanceled_SubHeader": {
-        "text": "Canceled extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에서 \"{2}\"(으)로 압축 해제하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressComplete_Header": {
-        "text": "\"{0}\"에서 \"{1}\"(으)로 압축풀기",
+        "text": "\"{0}\"을(를) \"{1}\"(으)로 압축 해제했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressComplete_SubHeader": {
-        "text": "Extracted \"{0}\" from \"{1}\" to \"{2}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에서 \"{2}\"(으)로 압축 해제했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressFailed_Header": {
-        "text": "Error extracting \"{0}\" to \"{1}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에 압축 해제하는 중 오류가 발생했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressFailed_SubHeader": {
-        "text": "Failed to extract \"{0}\" from \"{1}\" to \"{2}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에서 \"{2}\"(으)로 압축 해제에 실패했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressInProgress_Header": {
-        "text": "Extracting \"{0}\" to \"{1}\"",
+        "text": "\"{0}\"을(를) \"{1}\"(으)로 압축 해제 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DecompressInProgress_SubHeader": {
-        "text": "Extracting \"{0}\" from \"{1}\" to \"{2}\"",
+        "text": "\"{0}\"을(를) \"{1}\"에서 \"{2}\"(으)로 압축 해제 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DeleteCanceled_Header": {
-        "text": "Canceled deleting {0} item(s) from \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 삭제하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DeleteComplete_Header": {
-        "text": "Deleted {0} item(s) from \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 삭제했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DeleteFailed_Header": {
-        "text": "Error deleting {0} item(s) from \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 삭제하는 작업 중 오류가 발생했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DeleteFailed_SubHeader": {
-        "text": "Failed to delete {0} item(s) from \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 삭제하는 데 실패했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_DeleteInProgress_Header": {
-        "text": "Deleting {0} item(s) from \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 삭제 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveCanceled_Header": {
-        "text": "Canceled moving {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 이동하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveCanceled_SubHeader": {
-        "text": "Canceled moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 이동하는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveComplete_Header": {
-        "text": "Moved {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 이동했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveComplete_SubHeader": {
-        "text": "Moved {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 이동했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveInProgress_Header": {
-        "text": "Moving {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 이동 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveInProgress_SubHeader": {
-        "text": "Moving {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 이동 중",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveFailed_Header": {
-        "text": "Error moving {0} item(s) to \"{1}\"",
+        "text": "항목 {0}개를 \"{1}\"(으)로 이동하는 작업 중 오류가 발생했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_MoveFailed_SubHeader": {
-        "text": "Failed to move {0} item(s) from \"{1}\" to \"{2}\"",
+        "text": "항목 {0}개를 \"{1}\"에서 \"{2}\"(으)로 이동하지 못했습니다.",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_EmptyRecycleBinCancel_Header": {
-        "text": "Canceled emptying Recycle Bin",
+        "text": "휴지통 비우는 작업을 취소했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_EmptyRecycleBinComplete_Header": {
@@ -1697,59 +1699,59 @@
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_EmptyRecycleBinFailed_Header": {
-        "text": "Error emptying Recycle Bin",
+        "text": "휴지통을 비우는 작업 중 오류가 발생했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_EmptyRecycleBinFailed_SubHeader": {
-        "text": "Failed to empty Recycle Bin",
+        "text": "휴지통을 비우는 데 실패했습니다",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_Prepare_Header": {
-        "text": "Preparing the operation...",
+        "text": "작업 준비 중...",
         "crowdinContext": "Shown in a StatusCenter card."
     },
     "StatusCenter_ProcessedItems_Header": {
-        "text": "{0}/{1} item(s) processed",
+        "text": "{0}/{1} 항목 처리 완료",
         "crowdinContext": "Shown in a StatusCenter card. Used as \"8/20 items processed\""
     },
-    "UnblockDownloadedFile": "Unblock downloaded file",
-    "NoFileOperations": "No ongoing file operations",
-    "OpenOnStartupDisabled": "The option to open Files on Windows Startup is not available due to your system settings or group policy. To re-enable, open the startup page in Task Manager.",
-    "FailedToRestore": "휴지통에서 요소를 복구하지 못하였습니다.",
-    "FailedToSetBackground": "배경 화면 이미지를 설정하지 못하였습니다.",
+    "UnblockDownloadedFile": "다운로드한 파일 차단 해제",
+    "NoFileOperations": "진행 중인 작업 없음",
+    "OpenOnStartupDisabled": "시스템 설정 또는 그룹 정책으로 인해 Files를 Windows 시작 시 실행하도록 할 수 없습니다. 이 옵션을 재활성화하려면 작업 관리자의 시작 앱 탭을 엽니다.",
+    "FailedToRestore": "휴지통에서 항목을 복구하지 못했습니다",
+    "FailedToSetBackground": "배경 이미지를 설정하지 못했습니다",
     "GitDeleteBranch": "Git 브랜치 삭제",
     "GitDeleteBranchSubtitle": "정말로 \"{0}\" 브랜치를 영구적으로 삭제하시겠습니까?",
     "ConnectedToGitHub": "GitHub에 연결",
     "Logout": "로그아웃",
     "ConnectToGitHub": "GitHub에 연결",
     "Login": "로그인",
-    "ErrorApplyingTagContent": "Tags are currently only compatible on drives formatted as NTFS.",
-    "ErrorApplyingTagTitle": "태그를 적용하는 중 에러가 발생하였습니다.",
-    "DecompressArchiveHereSmartDescription": "Extract items from selected archive(s) to current folder for single-item archive, or to new folder for multi-item archive",
-    "ExtractHereSmart": "Extract here (Smart)",
-    "SortFilesAndFoldersTogether": "파일과 폴더를 함께 정렬하기",
+    "ErrorApplyingTagContent": "파일 태그는 현재 NTFS로 포맷된 드라이브에서만 지원됩니다.",
+    "ErrorApplyingTagTitle": "태그를 적용하는 중 오류가 발생했습니다.",
+    "DecompressArchiveHereSmartDescription": "단일 파일 아카이브는 현재 폴더에, 다중 파일 아카이브는 새로운 폴더에 압축 해제합니다",
+    "ExtractHereSmart": "여기에 압축 해제 (스마트)",
+    "SortFilesAndFoldersTogether": "파일과 폴더를 함께 정렬",
     "SortFilesAndFoldersTogetherDescription": "파일과 폴더를 함께 정렬하기",
-    "SortFilesFirst": "Sort files first",
-    "SortFilesFirstDescription": "Sort files first then folders",
-    "SortFoldersFirst": "Sort folders first",
-    "SortFoldersFirstDescription": "Sort folders first then files",
-    "SortPriority": "Sort priority",
-    "FailedToRotateImage": "Failed to rotate the image",
+    "SortFilesFirst": "파일 우선 정렬",
+    "SortFilesFirstDescription": "파일을 우선 정렬한 다음 폴더를 정렬",
+    "SortFoldersFirst": "폴더 우선 정렬",
+    "SortFoldersFirstDescription": "폴더를 우선 정렬한 다음 파일을 정렬",
+    "SortPriority": "정렬 우선순위",
+    "FailedToRotateImage": "이미지 회전에 실패했습니다",
     "Restart": "다시 시작하기",
     "Quit": "나가기",
-    "FaildToShareItems": "Failed to share items",
-    "ScrollToPreviousFolderWhenNavigatingUp": "Scroll to previous folder when navigating up",
-    "NewWindowDescription": "Open new window",
-    "ChangeAlbumCover": "Change album cover",
-    "ItemRenameFailed": "Failed to rename item",
-    "HigherPermissionsRequired": "Editing \"{0}\" requires additional permissions",
-    "EditPermissions": "Edit permissions",
-    "BackgroundRunningNotificationBody": "Files is still running in the background to improve startup performance.",
-    "BackgroundRunningNotificationHeader": "Where did Files go?",
-    "QuestionsAndDiscussions": "Questions & discussions",
-    "TilesViewSizeInfo": "Additional sizes are not yet available for the Tiles View.",
+    "FaildToShareItems": "항목 공유에 실패했습니다",
+    "ScrollToPreviousFolderWhenNavigatingUp": "상위 폴더로 이동 시 직전 폴더로 스크롤",
+    "NewWindowDescription": "새 창 열기",
+    "ChangeAlbumCover": "앨범 아트 변경하기",
+    "ItemRenameFailed": "항목 이름을 바꾸는 데 실패했습니다",
+    "HigherPermissionsRequired": "\"{0}\"을(를) 편집하려면 추가 권한이 필요합니다",
+    "EditPermissions": "권한 편집",
+    "BackgroundRunningNotificationBody": "Files가 실행 성능 향상을 위해 백그라운드에서 실행 중입니다.",
+    "BackgroundRunningNotificationHeader": "Files는 어디에 있나요?",
+    "QuestionsAndDiscussions": "질문과 토론",
+    "TilesViewSizeInfo": "타일 보기에서 크기 설정을 아직 지원하지 않습니다.",
     "Compact": {
-        "text": "Compact",
+        "text": "컴팩트",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Small": {
@@ -1761,23 +1763,23 @@
         "crowdinContext": "Used to describe layout sizes"
     },
     "Medium+": {
-        "text": "Medium +",
+        "text": "보통 +",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Medium++": {
-        "text": "Medium ++",
+        "text": "보통 ++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Medium+++": {
-        "text": "Medium +++",
+        "text": "보통 +++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Medium++++": {
-        "text": "Medium ++++",
+        "text": "보통 ++++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Medium+++++": {
-        "text": "Medium +++++",
+        "text": "보통 +++++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Large": {
@@ -1785,82 +1787,82 @@
         "crowdinContext": "Used to describe layout sizes"
     },
     "Large+": {
-        "text": "Large +",
+        "text": "크게 +",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Large++": {
-        "text": "Large ++",
+        "text": "크게 ++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "Large+++": {
-        "text": "Large +++",
+        "text": "크게 +++",
         "crowdinContext": "Used to describe layout sizes"
     },
     "ExtraLarge": {
-        "text": "Extra large",
+        "text": "아주 크게",
         "crowdinContext": "Used to describe layout sizes"
     },
-    "DetailsView": "Details view",
-    "LayoutType": "Layout type",
-    "Actions": "키 지정",
-    "Commands": "Commands",
-    "AddCommand": "Add command",
-    "RestoreDefaults": "Restore defaults",
-    "ChooseAnAction": "Choose an action",
+    "DetailsView": "자세히 레이아웃",
+    "LayoutType": "레이아웃 유형",
+    "Actions": "동작",
+    "Commands": "단축키",
+    "AddCommand": "단축키 추가",
+    "RestoreDefaults": "기본값 복원",
+    "ChooseAnAction": "작업 선택",
     "RestoreDefaultKeybindingsConfirmation": "정말로 기본 단축키로 되돌리시겠습니까? 이 작업은 되돌릴 수 없습니다.",
-    "KeybindingAlreadyUsedNotification": "This key binding is already being used, please choose a different key binding to continue.",
-    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
-    "Customized": "Customized",
-    "AdaptiveLayoutDisabledNotification": "Adaptive layout is not available when preferences are synced, the default layout has been changed to Details.",
-    "BackgroundImage": "Background image",
+    "KeybindingAlreadyUsedNotification": "이 키 조합은 이미 사용 중입니다. 다른 키 조합을 사용하세요.",
+    "KeybindingInvalidKeyNotification": "선택한 키 조합은 사용할 수 없습니다. 다른 키 조합을 사용하세요.",
+    "Customized": "사용자 정의됨",
+    "AdaptiveLayoutDisabledNotification": "설정이 동기화된 상태에서는 적응형 보기를 사용할 수 없습니다. 기본 레이아웃이 자세히 보기로 변경되었습니다.",
+    "BackgroundImage": "배경 이미지",
     "Bottom": {
-        "text": "Bottom",
+        "text": "아래",
         "crowdinContext": "Image alignment type"
     },
     "Center": {
-        "text": "Center",
+        "text": "가운데",
         "crowdinContext": "Image alignment type"
     },
     "Fill": {
-        "text": "Fill",
+        "text": "채우기",
         "crowdinContext": "Image stretch type"
     },
-    "HorizontalAlignment": "Horizontal alignment",
-    "ImageFit": "Image fit",
+    "HorizontalAlignment": "가로 정렬",
+    "ImageFit": "이미지 맞춤",
     "Left": {
-        "text": "Left",
+        "text": "왼쪽",
         "crowdinContext": "Image alignment type"
     },
-    "Opacity": "Opacity",
+    "Opacity": "불투명도",
     "Right": {
-        "text": "Right",
+        "text": "오른쪽",
         "crowdinContext": "Image alignment type"
     },
     "Top": {
-        "text": "Top",
+        "text": "위",
         "crowdinContext": "Image alignment type"
     },
     "Uniform": {
-        "text": "Uniform",
+        "text": "원본 비율로 크기에 맞추기",
         "crowdinContext": "Image stretch type"
     },
     "UniformToFill": {
-        "text": "Uniform to fill",
+        "text": "원본 비율로 가장 크게 맞추기",
         "crowdinContext": "Image stretch type"
     },
-    "VerticalAlignment": "Vertical alignment",
+    "VerticalAlignment": "세로 정렬",
     "ThinAcrylic": {
-        "text": "Thin Acrylic",
+        "text": "얇은 아크릴",
         "crowdinContext": "This is a type of backdrop for the application background"
     },
     "AllLocations": {
-        "text": "Show for all locations",
+        "text": "모든 경로에서 표시",
         "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
     },
-    "DevTools": "Developer tools",
-    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "DevTools": "개발자 도구",
+    "DisplayOpenIDE": "\"IDE 열기\" 버튼의 상태 표시줄 표시 여부 구성",
     "GitRepos": {
-        "text": "Show for Git repos",
+        "text": "Git 리포지토리에서 표시",
         "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
     },
     "ApplicationExtension": {
@@ -1872,7 +1874,7 @@
         "crowdinContext": "This is the friendly name for ICO files."
     },
     "ZipFileCapitalized": {
-        "text": "Zip 파일",
+        "text": "ZIP 파일",
         "crowdinContext": "This is the friendly name for ZIP files."
     },
     "BitmapFiles": {
@@ -1880,9 +1882,30 @@
         "crowdinContext": "This is the friendly name for bitmap files."
     },
     "NumPadTypeName": "Num",
-    "NetworkLocations": "Network locations",
-    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
-    "Disable": "Disable",
+    "NetworkLocations": "네트워크 위치",
+    "NoNetworkLocationsInfo": "네트워크 위치가 없습니다. 네트워크 위치를 사용하지 않는다면, 위젯을 비활성화할 수 있습니다.",
+    "Disable": "비활성화",
     "EditInNotepad": "메모장에서 편집",
-    "EditInNotepadDescription": "선택한 파일 메모장에서 편집"
+    "EditInNotepadDescription": "선택한 파일 메모장에서 편집",
+    "PropertyDimensionsColon": "사진 크기:",
+    "StatusWithColon": "상태:",
+    "ShowToolbar": {
+        "text": "도구 모음 표시",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "탭 동작 메뉴",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

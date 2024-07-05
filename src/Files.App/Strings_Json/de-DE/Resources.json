@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Schreibgeschützt"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {Vor # Tag} other {Vor # Tagen}}",
+    "DaysAgo_Singular": "Vor 1 Tag",
+    "DaysAgo_Plural": "Vor {0} Tagen",
+    "HoursAgo": "{0, plural,one {Vor # Stunde}other {Vor # Stunden}}",
+    "HoursAgo_Singular": "Vor 1 Stunde",
+    "HoursAgo_Plural": "Vor {0} Stunden",
+    "MinutesAgo": "{0, plural, one {Vor # Minute} other {Vor # Minuten}}",
+    "MinutesAgo_Singular": "Vor 1 Minute",
+    "MinutesAgo_Plural": "Vor {0} Minuten",
+    "SecondsAgo": "{0, plural, one {Vor # Sekunde} other {Vor # Sekunden}}",
+    "SecondsAgo_Singular": "Vor 1 Sekunde",
+    "SecondsAgo_Plural": "Vor {0} Sekunden",
     "Now": "Jetzt",
     "ErrorDialogUnsupportedOperation": "Der angeforderte Vorgang wird nicht unterstützt.",
     "DriveFreeSpaceAndCapacity": "{0} frei von {1}",
@@ -149,7 +157,7 @@
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Items": {
-        "text": "{0, plural, one {Item} other {Items}}",
+        "text": "{0, plural, one {Element} other {Elemente}}",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Yes": "Ja",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {Datei} other {Dateien}}, {1, number} {1, plural, one {Ordner} other {Ordner}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {Datei} other {Dateien}}, {1, number} {1, plural, one {Ordner} other {Ordner}} from {2, number} {2, plural, one {Ort} other {Orte}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Als ein anderer Benutzer ausführen"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Kürzlich",
     "TabStripDragAndDropUIOverrideCaption": "Tab hierhin verschieben",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows-Standard",
     "NavigationToolbarVisiblePathNoResults": "Keine Treffer",
     "SubDirectoryAccessDenied": "Es kann auf keine Dateien zugegriffen werden",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Umschalten des Detailfensters, um die grundlegenden Datei-Eigenschaften anzuzeigen",
     "ToggleInfoPane": "Info-Fenster umschalten",
     "ToggleInfoPaneDescription": "Info-Bereich umschalten, um Detail-/Vorschaufenster anzuzeigen",
+    "ToggleToolbar": "Symbolleiste umschalten",
     "DetailsPanePreviewNotAvaliableText": "Keine Vorschau verfügbar",
     "PropertyItemName": "Dateiname",
     "UnpinFolderFromSidebar": "Von Seitenleiste lösen",
@@ -508,17 +515,17 @@
     "CreateLibraryErrorAlreadyExists": "Eine Bibliothek mit dem gleichen Namen existiert bereits!",
     "OpenStorageSense": "Speicheroptimierung öffnen",
     "Copy": "Kopieren",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "{0, plural, one {Element} other {Elemente}} kopieren",
+    "DeleteItemsDialogTitle": "{0, plural, one {Element} other {Elemente}} löschen",
     "MoveItemsDialogPrimaryButtonText": "Verschieben",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Ein Element wird verschoben} other {# Elemente werden verschoben}}",
+    "MoveItemsDialogTitle": "{0, plural, one {Element} other {Elemente}} verschieben",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Ein Element wird gelöscht} other {# Elemente werden gelöscht}}",
     "ConflictingItemsDialogPrimaryButtonText": "Fortfahren",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
-    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Es gibt einen im Konflikt stehenden Dateinamen} other {Es gibt # im Konflikt stehende Dateinamen}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Es gibt einen im Konflikt stehenden Dateinamen} other {Es gibt # im Konflikt stehende Dateinamen}} und {1, plural, one {ein anderes Element} other {# andere Elemente}}",
+    "ConflictingItemsDialogTitle": "Im Konflikt {0, plural,one {stehender Dateiname}other {stehende Dateinamen}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {Ein Element wird kopiert} other {# Elemente werden kopiert}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Permanent löschen"
     },
@@ -719,9 +726,7 @@
             "ToolTip": "Alle Rechte des untergeordneten Objektes mit vererbaren Rechten dieses Objekts ersetzen"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Panel schließen"
-    },
+    "CloseActivePane": "Aktives Panel schließen",
     "EnterCompactOverlay": "Zum kompakten Overlay wechseln",
     "ExitCompactOverlay": "Kompaktes Overlay verlassen",
     "PropertyFileDescription": "Dateibeschreibung",
@@ -735,7 +740,7 @@
             "ToolTip": "Lädt die Datei aus der Cloud herunter und lädt die Vorschau."
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# Element } other {# Elemente }}{1, plural, one {# Datei } other {# Dateien }}{2, plural, one {# Ordner} other {# Ordner}}",
     "PropertyUncompressedSize": "Unkomprimierte Größe",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "DPI nicht überschreiben",
     "CompatibilityMode": "Kompatibilitätsmodus",
     "CompatibilityNoReducedColor": "Keine reduzierten Farben",
-    "ThirdPartyLicenses": "Lizenzen von Drittanbietern",
+    "ThirdPartyLibraries": "Drittanbieter-Bibliotheken",
     "SettingsSetAsDefaultFileManagerDescription": "Diese Option verändert die Systemregistrierung und kann unerwartete Nebenwirkungen auf dein Gerät haben. Die Fortsetzung erfolgt auf eigene Gefahr.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Bibliothek erstellen",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Bibliotheksnamen eingeben",
@@ -890,7 +895,7 @@
     "SetAsBackground": "Als Desktophintergrund festlegen",
     "SetAsDefault": "Als Standard festlegen",
     "DateColumn": "Datumsspalte",
-    "DateCreatedColumn": "Erstelldatumsspalte",
+    "DateCreatedColumn": "Erstelldatum",
     "SizeColumn": "Größenspalte",
     "TagColumn": "Tag-Spalte",
     "TypeColumn": "Typspalte",
@@ -973,7 +978,7 @@
     "ContextMenuOptions": "Optionen des Kontextmenüs",
     "ShowFileExtensions": "Dateierweiterungen anzeigen",
     "ShowHiddenItems": "Versteckte Elemente anzeigen",
-    "FormatDriveText": "Format...",
+    "FormatDriveText": "Formatieren...",
     "Help": "Hilfe",
     "FullScreen": "Vollbild ein-/ausschalten",
     "ConfirmDeleteTag": "Willst du diesen Tag wirklich löschen?",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Zum vorherigen Tab wechseln",
     "NextTabDescription": "Zum nächsten Tab wechseln",
     "CloseSelectedTabDescription": "Aktuellen Tab schließen",
-    "OpenNewPaneDescription": "Neues Panel öffnen",
-    "ClosePaneDescription": "Rechtes Panel schließen",
-    "FocusLeftPane": "Linken Bereich fokussieren",
-    "FocusLeftPaneDescription": "Fokus zur linken Seite wechseln",
-    "FocusRightPane": "Rechten Bereich fokussieren",
-    "FocusRightPaneDescription": "Fokus zur rechten Seite wechseln",
+    "CloseActivePaneDescription": "Aktives Panel schließen",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Seitenleiste umschalten",
     "Key": {
         "Menu": {
@@ -1180,7 +1182,7 @@
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Up": {
-            "text": "Ebenen nach oben (Alt+Pfeiltaste oben)",
+            "text": "Nach oben (Alt+Pfeiltaste oben)",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Home": {
@@ -1883,6 +1885,27 @@
     "NetworkLocations": "Netzwerkstandorte",
     "NoNetworkLocationsInfo": "Es gibt keine Netzwerk-Standorte. Wenn Sie keine Netzwerk-Standorte verwenden, können Sie das Widget deaktivieren.",
     "Disable": "Deaktivieren",
-    "EditInNotepad": "Im Notizblock bearbeiten",
-    "EditInNotepadDescription": "Ausgewählte Datei im Notepad bearbeiten"
+    "EditInNotepad": "Im Editor bearbeiten",
+    "EditInNotepadDescription": "Ausgewählte Datei im Editor bearbeiten",
+    "PropertyDimensionsColon": "Abmessungen:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Symbolleiste anzeigen",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab-Aktionen-Menü",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

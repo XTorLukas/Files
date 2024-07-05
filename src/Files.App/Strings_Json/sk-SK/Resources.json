@@ -131,9 +131,17 @@
         "Text": "Iba na čítanie"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Teraz",
     "ErrorDialogUnsupportedOperation": "Požadovaná operácie nie je podporovaná.",
     "DriveFreeSpaceAndCapacity": "{0} velných z {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Nedávne",
     "TabStripDragAndDropUIOverrideCaption": "Presunúť priečinok sem",
-    "syncStatusColumn": {
-        "Header": "Stav"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Predvolené vo Windowse",
     "NavigationToolbarVisiblePathNoResults": "Žiadne výsledky",
     "SubDirectoryAccessDenied": "Nedá sa získať prístup k žiadnym položkám na zobrazenie",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Prepnite panel detailov, aby zobrazoval základné vlastnosti súborov",
     "ToggleInfoPane": "Prepnite info panel",
     "ToggleInfoPaneDescription": "Prepnúť detail/náhlaď",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Žiaden náhľad k dispozícii",
     "PropertyItemName": "Názov položky",
     "UnpinFolderFromSidebar": "Odopnúť z rýchlej ponuky",
@@ -719,9 +726,7 @@
             "ToolTip": "Nahraďte všetky položky povolení podriadených objektov položkami zdedených povolení z tohto objektu"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Zavrieť panel"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Zadajte kompaktné prekrytie",
     "ExitCompactOverlay": "Ukončite kompaktné prekrytie",
     "PropertyFileDescription": "Popis súboru",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Do not override DPI",
     "CompatibilityMode": "Režim kompatibility",
     "CompatibilityNoReducedColor": "No reduced color",
-    "ThirdPartyLicenses": "Licencie tretích strán",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Toto nastavenie upravuje systémové súbory a môže mať neočakávané vedľajšie účinky na vaše zariadenie. Vývojári nenesú žiadnu zodpovednosť v prípade, že sa v dôsledku toho vyskytne problém. Pokračovanie v tejto možnosti znamená uznanie rizík spojených s touto akciou.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Vytvoriť knižnicu",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Zadajte názov knižnice",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Move to the previous tab",
     "NextTabDescription": "Move to the next tab",
     "CloseSelectedTabDescription": "Zavrieť aktuálnu kartu",
-    "OpenNewPaneDescription": "Otvoriť nový panel",
-    "ClosePaneDescription": "Close right pane",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Toggle the sidebar",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
     "Disable": "Disable",
     "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "EditInNotepadDescription": "Edit the selected file in Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

@@ -131,9 +131,17 @@
         "Text": "Read-only"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Now",
     "ErrorDialogUnsupportedOperation": "The requested operation is not supported",
     "DriveFreeSpaceAndCapacity": "{0} free of {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recent",
     "TabStripDragAndDropUIOverrideCaption": "Move tab here",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows default",
     "NavigationToolbarVisiblePathNoResults": "No results",
     "SubDirectoryAccessDenied": "Can't access any items to display",
@@ -263,7 +269,7 @@
     },
     "Language": "Language",
     "SettingsContextMenuOverflow": "Move shell extensions into a sub menu",
-    "ShowConfirmationWhenDeletingItems": "Show confirmation dialogue box when deleting items",
+    "ShowConfirmationWhenDeletingItems": "Show confirmation dialogue when deleting items",
     "PropertySaveErrorMessage": {
         "Text": "There was an issue saving some properties."
     },
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Toggle the details pane to view basic file properties",
     "ToggleInfoPane": "Toggle the info pane",
     "ToggleInfoPaneDescription": "Toggle the info pane to view the detail/preview panes",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "No preview available",
     "PropertyItemName": "Item name",
     "UnpinFolderFromSidebar": "Unpin from Sidebar",
@@ -719,9 +726,7 @@
             "ToolTip": "Replace all child object permissions entries with inheritable permission entries from this object"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Close pane"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Enter compact overlay",
     "ExitCompactOverlay": "Exit compact overlay",
     "PropertyFileDescription": "File description",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Do not override DPI",
     "CompatibilityMode": "Compatibility mode",
     "CompatibilityNoReducedColor": "No reduced color",
-    "ThirdPartyLicenses": "Third party licences",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "This option modifies the system registry and can have unexpected side effects on your device. Continue at your own risk.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Create Library",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Enter Library name",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Move to the previous tab",
     "NextTabDescription": "Move to the next tab",
     "CloseSelectedTabDescription": "Close current tab",
-    "OpenNewPaneDescription": "Open new pane",
-    "ClosePaneDescription": "Close right pane",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Toggle the sidebar",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
     "Disable": "Disable",
     "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "EditInNotepadDescription": "Edit the selected file in Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

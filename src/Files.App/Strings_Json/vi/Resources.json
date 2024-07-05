@@ -9,8 +9,8 @@
     },
     "Path": "Đường dẫn",
     "SizeLabel": "Kích cỡ:",
-    "SizeOnDiskLabel": "Kích cỡ trên đĩa:",
-    "UncompressedSize": "Kích cỡ không nén:",
+    "SizeOnDiskLabel": "Kích cỡ trên ổ đĩa:",
+    "UncompressedSize": "Kích cỡ chưa nén:",
     "ErrorDialogThisActionCannotBeDone": "Không thể thực hiện hành động này",
     "ErrorDialogTheDestinationFolder": "Thư mục đích",
     "ErrorDialogIsASubfolder": "là một thư mục con của thư mục nguồn",
@@ -91,7 +91,7 @@
     "NewFolder": "Thư mục mới",
     "NewFile": "Tệp mới",
     "EmptyFolder": {
-        "Text": "Thư mục này trống."
+        "Text": "Thư mục này đang trống."
     },
     "Back": "Quay lại",
     "Forward": "Tiến",
@@ -101,7 +101,7 @@
     "ItemAlreadyExistsDialogSecondaryButtonText": "Thay thế khoản mục đã tồn tại",
     "ItemAlreadyExistsDialogTitle": "Khoản mục đã tồn tại",
     "SetAsLockscreen": "Hình nền màn hình khóa",
-    "SetAsAppBackground": "Đặt làm hình nền ứng dụng",
+    "SetAsAppBackground": "Hình nền ứng dụng",
     "AccessDeniedDeleteDialog": {
         "Text": "Chúng tôi không thể xóa khoản mục này"
     },
@@ -117,7 +117,7 @@
     "CannotAccessPropertiesContent": "Tệp bạn cố truy cập có thể đã bị di chuyển hoặc xóa bỏ.",
     "FolderNotFoundDialog": {
         "Text": "Thư mục bạn cố truy cập có thể đã bị di chuyển hoặc xóa bỏ.",
-        "Title": "Thư mục không tồn tại"
+        "Title": "Có lẽ bạn đã xóa thư mục này?"
     },
     "FileInUseByDialog": {
         "Text": "Tệp bạn cố truy cập hiện đang được sử dụng bởi {0}"
@@ -131,9 +131,17 @@
         "Text": "Chỉ đọc"
     },
     "DaysAgo": "{0, plural, other {# ngày trước}}",
+    "DaysAgo_Singular": "1 ngày trước",
+    "DaysAgo_Plural": "{0} ngày trước",
     "HoursAgo": "{0, plural, other {# giờ trước}}",
+    "HoursAgo_Singular": "1 giờ trước",
+    "HoursAgo_Plural": "{0} giờ trước",
     "MinutesAgo": "{0, plural, other {# phút trước}}",
+    "MinutesAgo_Singular": "1 phút trước",
+    "MinutesAgo_Plural": "{0} phút trước",
     "SecondsAgo": "{0, plural, other {# giây trước}}",
+    "SecondsAgo_Singular": "1 giây trước",
+    "SecondsAgo_Plural": "{0} giây trước",
     "Now": "Vừa xong",
     "ErrorDialogUnsupportedOperation": "Thao tác đã yêu cầu không được hỗ trợ",
     "DriveFreeSpaceAndCapacity": "{0} trống trong {1}",
@@ -163,7 +171,7 @@
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
     "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, other {tệp}}, {1, number} {1, plural, other {thư mục}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, other {tệp}}, {1, number} {1, plural, other {thư mục}} từ {2, number} {2, plural, other {vị trí}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Chạy với vai trò là người dùng khác"
     },
@@ -171,10 +179,10 @@
     "PropertiesDriveItemTypeDifferent": "Loại khác nhau",
     "PropertiesCombinedItemLocation": "Tất cả trong {0}",
     "PropertiesDriveUsedSpace": {
-        "Text": "Không gian đã dùng:"
+        "Text": "Đã chiếm dụng:"
     },
     "PropertiesDriveFreeSpace": {
-        "Text": "Không gian trống:"
+        "Text": "Còn trống:"
     },
     "PropertiesDriveCapacity": {
         "Text": "Dung lượng:"
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Gần đây",
     "TabStripDragAndDropUIOverrideCaption": "Di chuyển thẻ đến đây",
-    "syncStatusColumn": {
-        "Header": "Trạng thái"
-    },
+    "Status": "Trạng thái",
     "SettingsPreferencesSystemDefaultLanguageOption": "Mặc định của Windows",
     "NavigationToolbarVisiblePathNoResults": "Không có kết quả",
     "SubDirectoryAccessDenied": "Không hiển thị được khoản mục do không có quyền truy cập",
@@ -233,7 +239,7 @@
             "Title": "Tên khoản mục quá dài"
         }
     },
-    "ShowMoreOptions": "Hiển thị thêm tùy chọn",
+    "ShowMoreOptions": "Hiện thêm tùy chọn",
     "RestartNotificationText": {
         "Text": "Ứng dụng cần khởi động lại để áp dụng các thay đổi, bạn có muốn khởi động lại ứng dụng không?"
     },
@@ -344,7 +350,7 @@
     "PropertyPageCount": "Số trang",
     "PropertySlideCount": "Số trang trình bày",
     "PropertyFrameRate": "Tốc độ khung hình",
-    "PropertyEncodingBitrate": "Tốc độ mã hóa bit",
+    "PropertyEncodingBitrate": "Tốc độ bit mã hóa",
     "PropertyPreviewAudioEncodingBitrate": "Tốc độ bit mã hóa âm thanh",
     "PropertyPreviewVideoEncodingBitrate": "Tốc độ bit mã hóa video",
     "Compression": "Phương thức nén",
@@ -372,7 +378,7 @@
     "EjectNotificationHeader": "An toàn để ngắt kết nối phần cứng",
     "EjectNotificationBody": "Thiết bị hiện có thể được ngắt kết nối khỏi máy tính.",
     "EjectNotificationErrorDialogHeader": "Xảy ra vấn đề khi ngắt kết nối thiết bị",
-    "EjectNotificationErrorDialogBody": "Thiết bị này đang được sử dụng. Đóng các ứng dụng, cửa sổ, hoặc thẻ có thể đang sử dụng thiết bị và thử lại.",
+    "EjectNotificationErrorDialogBody": "Thiết bị này đang được sử dụng. Đóng các chương trình, cửa sổ hoặc thẻ có khả năng đang truy cập thiết bị và thử lại.",
     "Eject": "Gỡ bỏ",
     "DuplicateTab": "Nhân đôi thẻ",
     "HorizontalMultitaskingControlMoveTabToNewWindow": {
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Chuyển đổi ẩn/hiện ngăn chi tiết để xem các thuộc tính cơ bản của tệp",
     "ToggleInfoPane": "Bật/Tắt ngăn thông tin",
     "ToggleInfoPaneDescription": "Chuyển đổi ẩn/hiện ngăn thông tin để xem chi tiết hoặc xem trước tệp",
+    "ToggleToolbar": "Bật/Tắt thanh công cụ",
     "DetailsPanePreviewNotAvaliableText": "Không có bản xem trước",
     "PropertyItemName": "Tên khoản mục",
     "UnpinFolderFromSidebar": "Bỏ ghim khỏi thanh bên",
@@ -509,14 +516,14 @@
     "OpenStorageSense": "Mở Storage Sense",
     "Copy": "Sao chép",
     "CopyItemsDialogTitle": "Sao chép {0, plural, other {khoản mục}}",
-    "DeleteItemsDialogTitle": "Xoá bỏ {0, plural, other {khoản mục}}",
+    "DeleteItemsDialogTitle": "Xóa bỏ {0, plural, other {khoản mục}}",
     "MoveItemsDialogPrimaryButtonText": "Di chuyển",
     "MoveItemsDialogSubtitle": "{0, plural, other {# khoản mục sẽ được di chuyển}}",
     "MoveItemsDialogTitle": "Di chuyển {0, plural, other {khoản mục}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, other {# khoản mục sẽ bị xoá bỏ}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, other {# khoản mục sẽ bị xóa bỏ}}",
     "ConflictingItemsDialogPrimaryButtonText": "Tiếp tục",
     "ConflictingItemsDialogSubtitleConflicts": "{0, plural, other {Có # tên tệp xung đột}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, other {Có # tên tệp xung đột}} và {1, plural, other {# mục đang chờ}}",
     "ConflictingItemsDialogTitle": "Xung đột {0, plural, other {tên tệp}}",
     "CopyItemsDialogSubtitle": "{0, plural, other {# khoản mục sẽ được sao chép}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
@@ -719,9 +726,7 @@
             "ToolTip": "Thay thế mọi quyền truy cập của đối tượng con bằng quyền được kế thừa từ đối tượng này"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Đóng ngăn"
-    },
+    "CloseActivePane": "Đóng ngăn hiện hoạt",
     "EnterCompactOverlay": "Bật chế độ thu gọn",
     "ExitCompactOverlay": "Tắt chế độ thu gọn",
     "PropertyFileDescription": "Mô tả tệp",
@@ -736,7 +741,7 @@
         }
     },
     "DetailsArchiveItems": "{0, plural, other {# mục}} ({1, plural, other {# tệp}}, {2, plural, other {# thư mục}})",
-    "PropertyUncompressedSize": "Cỡ không nén",
+    "PropertyUncompressedSize": "Kích cỡ chưa nén",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
         "Text": "Ẩn phần {0}"
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Không ghi đè giá trị DPI",
     "CompatibilityMode": "Chế độ tương thích",
     "CompatibilityNoReducedColor": "Không sử dụng chế độ giảm màu",
-    "ThirdPartyLicenses": "Giấy phép bên thứ ba",
+    "ThirdPartyLibraries": "Thư viện bên thứ ba",
     "SettingsSetAsDefaultFileManagerDescription": "Tùy chọn này sửa đổi các khóa registry của hệ thống và có thể gây ra vấn đề trên thiết bị của bạn. Vui lòng cân nhắc trước khi bật tùy chọn.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Tạo thư viện",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Nhập tên thư viện",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Chuyển đến thẻ trước đó",
     "NextTabDescription": "Chuyển đến thẻ tiếp theo",
     "CloseSelectedTabDescription": "Đóng thẻ hiện tại",
-    "OpenNewPaneDescription": "Mở ngăn mới",
-    "ClosePaneDescription": "Đóng ngăn bên phải",
-    "FocusLeftPane": "Chuyển đến ngăn bên trái",
-    "FocusLeftPaneDescription": "Đặt tiêu điểm vào ngăn bên trái",
-    "FocusRightPane": "Chuyển đến ngăn bên phải",
-    "FocusRightPaneDescription": "Đặt tiêu điểm vào ngăn bên phải",
+    "CloseActivePaneDescription": "Đóng ngăn hiện hoạt",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Bật/Tắt thanh bên",
     "Key": {
         "Menu": {
@@ -1220,7 +1222,7 @@
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Help": {
-            "text": "Trợ giúp",
+            "text": "Tr.giúp",
             "crowdinContext": "Key name for hotkeys in menus. Use abbreviation if possible."
         },
         "Mouse4": {
@@ -1445,7 +1447,7 @@
     "CopyFailureFileToLarge": "Những khoản mục sau là quá lớn để có thể sao chép vào ổ lưu trữ này",
     "FormatDrive": "Định dạng ổ lưu trữ",
     "DontShowAgain": "Không hiện lại",
-    "FilesRunningAsAdmin": "Files đang chạy với quyền quản trị",
+    "FilesRunningAsAdmin": "Files đang chạy với quyền quản trị viên",
     "FilesRunningAsAdminContent": "Do giới hạn của Windows và WinAppSdk, tính năng kéo thả sẽ không khả dụng khi chạy Files với quyền quản trị viên. Để khắc phục, hãy mở cài đặt UAC (User Account Control) từ menu Bắt đầu, chọn mức thứ ba rồi khởi động lại máy. Lưu ý rằng bạn vẫn có thể tiếp tục sử dụng Files mà không cần tính năng này.",
     "SettingsLeaveAppRunning": "Chạy ứng dụng trong nền khi đóng cửa sổ",
     "Blue": {
@@ -1802,7 +1804,7 @@
     },
     "DetailsView": "Bố cục chi tiết",
     "LayoutType": "Bố cục",
-    "Actions": "Tác vụ",
+    "Actions": "Phím tắt tác vụ",
     "Commands": "Lệnh",
     "AddCommand": "Thêm lệnh",
     "RestoreDefaults": "Khôi phục mặc định",
@@ -1811,7 +1813,7 @@
     "KeybindingAlreadyUsedNotification": "Tổ hợp phím này đã được sử dụng, vui lòng chọn một tổ hợp phím khác để tiếp tục.",
     "KeybindingInvalidKeyNotification": "Không thể sử dụng tổ hợp phím này, vui lòng chọn một tổ hợp phím khác.",
     "Customized": "Tùy chỉnh",
-    "AdaptiveLayoutDisabledNotification": "Tuỳ chọn bố cục tự động không khả dụng khi các thiết đặt được đồng bộ. Vì vậy, bố cục sẽ được đặt lại thành Chi tiết.",
+    "AdaptiveLayoutDisabledNotification": "Tùy chọn bố cục tự động không khả dụng khi các thiết đặt được đồng bộ. Vì vậy, bố cục sẽ được đặt lại thành Chi tiết.",
     "BackgroundImage": "Hình nền",
     "Bottom": {
         "text": "Bên dưới",
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Hiện không có vị trí mạng nào. Bạn có thể tắt tiện ích này nếu không sử dụng tính năng.",
     "Disable": "Tắt",
     "EditInNotepad": "Chỉnh sửa bằng Notepad",
-    "EditInNotepadDescription": "Chỉnh sửa tệp đã chọn bằng Notepad"
+    "EditInNotepadDescription": "Chỉnh sửa tệp đã chọn bằng Notepad",
+    "PropertyDimensionsColon": "Kích thước:",
+    "StatusWithColon": "Trạng thái:",
+    "ShowToolbar": {
+        "text": "Hiện thanh công cụ",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menu tác vụ của thẻ",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

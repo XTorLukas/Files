@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Írásvédett"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {#} other {#}} nappal ezelőtt",
+    "DaysAgo_Singular": "1 nappal ezelőtt",
+    "DaysAgo_Plural": "{0} nappal ezelőtt",
+    "HoursAgo": "{0, plural, one {#} other {#}} órával ezelőtt",
+    "HoursAgo_Singular": "1 órával ezelőtt",
+    "HoursAgo_Plural": "{0} órával ezelőtt",
+    "MinutesAgo": "{0, plural, one {#} other {#}} perccel ezelőtt",
+    "MinutesAgo_Singular": "1 perccel ezelőtt",
+    "MinutesAgo_Plural": "{0} perccel ezelőtt",
+    "SecondsAgo": "{0, plural, one {#} other {#}} másodperccel ezelőtt",
+    "SecondsAgo_Singular": "1 másodperccel ezelőtt",
+    "SecondsAgo_Plural": "{0} másodperccel ezelőtt",
     "Now": "Most",
     "ErrorDialogUnsupportedOperation": "Ez a művelet nem támogatott",
     "DriveFreeSpaceAndCapacity": "Szabad hely: {0} / {1}",
@@ -149,7 +157,7 @@
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Items": {
-        "text": "{0, plural, one {elem} other {elem}}",
+        "text": "{0, plural, one {#} other {#}} elem",
         "crowdinContext": "ICU format for plurals, more information here: https://support.crowdin.com/icu-message-syntax/#plural"
     },
     "Yes": "Igen",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {fájl} other {fájl}}, {1, number} {1, plural, one {mappa} other {mappa}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {fájl} other {fájl}}, {1, number} {1, plural, one {mappa} other {mappa}} {2, number} {2, plural, one {helyen} other {helyen}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Futtatás másik felhasználóként"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Előzmények",
     "TabStripDragAndDropUIOverrideCaption": "Lap áthelyezése ide",
-    "syncStatusColumn": {
-        "Header": "Állapot"
-    },
+    "Status": "Állapot",
     "SettingsPreferencesSystemDefaultLanguageOption": "Rendszer",
     "NavigationToolbarVisiblePathNoResults": "Nincs találat",
     "SubDirectoryAccessDenied": "Egy megjeleníthető elem sem elérhető",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "A részleteket tartalmazó ablaktábla váltása a fájl alapvető tulajdonságainak megtekintéséhez",
     "ToggleInfoPane": "Az információs ablaktábla be- és kikapcsolása",
     "ToggleInfoPaneDescription": "Az információs ablaktábla be- és kikapcsolása a részlet/előnézet ablaktáblák megtekintéséhez",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Nincs elérhető előnézet",
     "PropertyItemName": "Név",
     "UnpinFolderFromSidebar": "Levétel az oldalsávról",
@@ -508,16 +515,16 @@
     "CreateLibraryErrorAlreadyExists": "Már létezik könyvtár ezzel a névvel!",
     "OpenStorageSense": "Tárterületsegéd megnyitása",
     "Copy": "Másolás",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "{0, plural, one {#} other {#}} elem másolása",
+    "DeleteItemsDialogTitle": "{0, plural, one {#} other {#}} elem törlése",
     "MoveItemsDialogPrimaryButtonText": "Áthelyezés",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {#} other {#}} elem áthelyezésre kerül",
+    "MoveItemsDialogTitle": "{0, plural, one {#} other {#}} elem áthelyezése",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {#} other {#}} elem törlésre kerül",
     "ConflictingItemsDialogPrimaryButtonText": "Folytatás",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {#} other {#}} névütközés",
     "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "ConflictingItemsDialogTitle": "Ütköző {0, plural, one {fájlnév} other {fájlnevek}}",
     "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Végleges törlés"
@@ -719,9 +726,7 @@
             "ToolTip": "Almappák engedélyeinek lecserélése ennek az objektum engedélyeivel"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Panel bezárása"
-    },
+    "CloseActivePane": "Aktív panel bezárása",
     "EnterCompactOverlay": "Kompakt nézet",
     "ExitCompactOverlay": "Kilépés a kompakt nézetből",
     "PropertyFileDescription": "Fájl leírása",
@@ -735,7 +740,7 @@
             "ToolTip": "Elem letöltése a felhőből, majd előnézet betöltése"
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# elem} other {# elem}} ({1, plural, one {# fájl} other {# fájl}}, {2, plural, one {# mapa} other {# mapa}})",
     "PropertyUncompressedSize": "Tömörítetlen méret",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Ne írja felül a DPI-t",
     "CompatibilityMode": "Kompatibilis üzemmód",
     "CompatibilityNoReducedColor": "Nincs csökkentett szín",
-    "ThirdPartyLicenses": "Harmadik fél licencei",
+    "ThirdPartyLibraries": "Külső könyvtárak",
     "SettingsSetAsDefaultFileManagerDescription": "Ez az opció beállításjegyzék értékeket módosít és nem várt következményei is lehetnek az eszközén. Csak saját felelősségre engedélyezze.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Könyvtár létrehozása",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "A könyvtár neve",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Mozgatás az előző lapra",
     "NextTabDescription": "Mozgatás a következő lapra",
     "CloseSelectedTabDescription": "Aktuális lap bezárása",
-    "OpenNewPaneDescription": "Új ablaktábla nyitása",
-    "ClosePaneDescription": "Jobb oldali ablak bezárása",
-    "FocusLeftPane": "Fókusz bal oldalra",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Aktív panel bezárása",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Oldalsáv átállítása",
     "Key": {
         "Menu": {
@@ -1447,7 +1449,7 @@
     "DontShowAgain": "Ne jelenjen meg újra",
     "FilesRunningAsAdmin": "A Files rendszergazdaként fut",
     "FilesRunningAsAdminContent": "A Windows és a WinAppSdk korlátozása miatt a drag & drop nem érhető el, ha a Files rendszergazdaként fut. Ha szeretné használni ezt a funkciót, akkor a korlátozást úgy tudja megkerülni, hogy a Start menüből megnyitja az UAC (User Account Control - Felhasználói fiókvezérlés) programot, és kiválasztja a harmadik szintet, majd újraindítja a Windowst. Ellenkező esetben továbbra is használhatja a Files-t drag & drop nélkül.",
-    "SettingsLeaveAppRunning": "A háttérben futó alkalmazás hagyása az ablak bezárásakor",
+    "SettingsLeaveAppRunning": "Az ablak bezárásakor az alkalmazás fusson tovább a háttérben",
     "Blue": {
         "text": "Kék",
         "crowdinContext": "One of the custom color themes"
@@ -1868,7 +1870,7 @@
         "crowdinContext": "This is the friendly name for DLL files."
     },
     "IcoFileCapitalized": {
-        "text": "ICO Fájl",
+        "text": "ICO fájl",
         "crowdinContext": "This is the friendly name for ICO files."
     },
     "ZipFileCapitalized": {
@@ -1882,7 +1884,28 @@
     "NumPadTypeName": "Num",
     "NetworkLocations": "Hálózati helyek",
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
-    "Disable": "Disable",
+    "Disable": "Letiltás",
     "EditInNotepad": "Szerkesztés a Jegyzettömbben",
-    "EditInNotepadDescription": "A kiválasztott fájl szerkesztése a Jegyzettömbben"
+    "EditInNotepadDescription": "A kiválasztott fájl szerkesztése a Jegyzettömbben",
+    "PropertyDimensionsColon": "Méretek:",
+    "StatusWithColon": "Állapot:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

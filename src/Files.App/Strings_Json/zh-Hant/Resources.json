@@ -131,9 +131,17 @@
         "Text": "唯讀"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "立刻",
     "ErrorDialogUnsupportedOperation": "尚不支援此操作",
     "DriveFreeSpaceAndCapacity": "剩餘 {0}，共 {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "最近",
     "TabStripDragAndDropUIOverrideCaption": "將索引標籤移至此處",
-    "syncStatusColumn": {
-        "Header": "狀態"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "您的系統語言",
     "NavigationToolbarVisiblePathNoResults": "沒有結果",
     "SubDirectoryAccessDenied": "無法存取並顯示任意項目",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "切換到詳細資料視窗以查看檔案的基本內容",
     "ToggleInfoPane": "切換詳細資料視窗",
     "ToggleInfoPaneDescription": "開啟資料視窗以查看詳細資料/預覽視窗",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "無法預覽",
     "PropertyItemName": "檔案名稱",
     "UnpinFolderFromSidebar": "從側邊欄取消固定",
@@ -719,9 +726,7 @@
             "ToolTip": "覆蓋所有子物件的權限為此父物件的可繼承權限"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "關閉畫面"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "進入精簡懸浮模式",
     "ExitCompactOverlay": "返回完整檢視",
     "PropertyFileDescription": "檔案說明",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "不覆蓋DPI",
     "CompatibilityMode": "程式相容模式",
     "CompatibilityNoReducedColor": "不使用色彩簡化",
-    "ThirdPartyLicenses": "第三方授權條款",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "此項設定會修改您的系統檔案並有可能會有未預期的副作用。我們對於可能會發生的問題並不負責。請您僅在認知到這個動作可能帶來的問題的情況下才繼續進行。",
     "FolderWidgetCreateNewLibraryDialogTitleText": "建立媒體庫",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "輸入媒體庫名稱",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "移至上一個索引標籤",
     "NextTabDescription": "移至下一個索引標籤",
     "CloseSelectedTabDescription": "關閉目前分頁",
-    "OpenNewPaneDescription": "開啟新畫面",
-    "ClosePaneDescription": "Close right pane",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "開啟/關閉側邊欄",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
     "Disable": "Disable",
     "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "EditInNotepadDescription": "Edit the selected file in Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

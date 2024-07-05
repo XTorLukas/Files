@@ -1,7 +1,7 @@
 {
     "NewWindow": "Nieuw venster",
     "CopyPath": "Pad kopiëren",
-    "CopyPathWithQuotes": "Pad kopiëren inclusief aanhalingstekens",
+    "CopyPathWithQuotes": "Pad kopiëren tussen aanhalingstekens",
     "Browse": "Bladeren",
     "Size": "Grootte",
     "PropertiesCreated": {
@@ -12,7 +12,7 @@
     "SizeOnDiskLabel": "Grootte op schijf:",
     "UncompressedSize": "Ongecomprimeerde grootte:",
     "ErrorDialogThisActionCannotBeDone": "Deze actie kan niet worden uitgevoerd",
-    "ErrorDialogTheDestinationFolder": "De doelmap",
+    "ErrorDialogTheDestinationFolder": "De bestemmingsmap",
     "ErrorDialogIsASubfolder": "is een submap van de hoofdmap",
     "Skip": "Overslaan",
     "SelectAll": "Alles selecteren",
@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Alleen-lezen"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# dag geleden} other {# dagen geleden}}",
+    "DaysAgo_Singular": "1 dag geleden",
+    "DaysAgo_Plural": "{0} dagen geleden",
+    "HoursAgo": "{0, plural, one {# uur geleden} other {# uur geleden}}",
+    "HoursAgo_Singular": "1 uur geleden",
+    "HoursAgo_Plural": "{0} uur geleden",
+    "MinutesAgo": "{0, plural, one {# minuut geleden} other {# minuten geleden}}",
+    "MinutesAgo_Singular": "1 minuut geleden",
+    "MinutesAgo_Plural": "{0} minuten geleden",
+    "SecondsAgo": "{0, plural, one {# seconde geleden} other {# seconden geleden}}",
+    "SecondsAgo_Singular": "1 seconde geleden",
+    "SecondsAgo_Plural": "{0} seconden geleden",
     "Now": "Nu",
     "ErrorDialogUnsupportedOperation": "De gevraagde bewerking wordt niet ondersteund.",
     "DriveFreeSpaceAndCapacity": "{0} vrij van {1}",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {bestand} other {bestanden}} {1, number} {1, plural, one {map} other {mappen}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {bestand} other {bestanden}} {1, number} {1, plural, one {map} other {mappen}} van {2, number} {2, plural, one {locatie} other {locaties}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Als andere gebruiker uitvoeren"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recent",
     "TabStripDragAndDropUIOverrideCaption": "Tabblad hierheen verplaatsen",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows-standaard",
     "NavigationToolbarVisiblePathNoResults": "Geen resultaten",
     "SubDirectoryAccessDenied": "Geen toegang tot items om weer te geven",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Detailpaneel in- of uitschakelen om standaard bestandseigenschappen te zien",
     "ToggleInfoPane": "Infopaneel in-/uitschakelen",
     "ToggleInfoPaneDescription": "Infopaneel in- of uitschakelen om het detail-/voorbeeldvenster te kunnen zien",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Geen voorbeeld beschikbaar",
     "PropertyItemName": "Itemnaam",
     "UnpinFolderFromSidebar": "Losmaken van zijbalk",
@@ -508,17 +515,17 @@
     "CreateLibraryErrorAlreadyExists": "Een bibliotheek met deze naam bestaat al.",
     "OpenStorageSense": "Opslaginzicht openen",
     "Copy": "Kopiëren",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "{0, plural, one {Item} other {Items}} kopiëren",
+    "DeleteItemsDialogTitle": "{0, plural, one {Item} other {Items}} verwijderen",
     "MoveItemsDialogPrimaryButtonText": "Verplaatsen",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Eén item wordt verplaatst} other {# items worden verplaatst}}",
+    "MoveItemsDialogTitle": "{0, plural, one {Item} other {Items}} verplaatsen",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Eén item wordt verwijderd} other {# items worden verwijderd}}",
     "ConflictingItemsDialogPrimaryButtonText": "Doorgaan",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
-    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Er is één conflicterende bestandsnaam} other {Er zijn # conflicterende bestandsnamen}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Er is één conflicterende bestandsnaam} other {Er zijn # conflicterende bestandsnamen}}, en {1, plural, one {één uitgaand item} other {# uitgaande items}}",
+    "ConflictingItemsDialogTitle": "Conflicterende {0, plural, one {bestandsnaam} other {bestandsnamen}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {Eén item wordt gekopieerd} other {# items worden gekopieerd}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Permanent verwijderen"
     },
@@ -719,9 +726,7 @@
             "ToolTip": "Vervang alle onderliggende object machtigingen met erfbare machtigingsgegevens van dit object"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Paneel sluiten"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Open compacte overlay",
     "ExitCompactOverlay": "Sluit compacte overlay",
     "PropertyFileDescription": "Bestandsbeschrijving",
@@ -735,7 +740,7 @@
             "ToolTip": "Downloadt het item van de cloud en laadt een voorbeeld"
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# bestand} other {# bestanden}}, {2, plural, one {# map} other {# mappen}})",
     "PropertyUncompressedSize": "Ongecomprimeerde grootte",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "DPI niet overschrijven",
     "CompatibilityMode": "Compatibiliteitsmodus",
     "CompatibilityNoReducedColor": "Geen gereduceerde kleur",
-    "ThirdPartyLicenses": "Licenties van derden",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Deze instelling wijzigt het register en kan onverwachte bijwerkingen op uw apparaat hebben. De ontwikkelaars nemen geen verantwoordelijkheid in het geval er zich een probleem voordoet. Doorgaan met deze optie is een erkenning van de risico's die aan deze actie zijn verbonden.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Maak Bibliotheek",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Vul de Bibliotheek naam in",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Verplaats naar het vorige tabblad",
     "NextTabDescription": "Verplaats naar het volgende tabblad",
     "CloseSelectedTabDescription": "Huidig tabblad sluiten",
-    "OpenNewPaneDescription": "Nieuw paneel openen",
-    "ClosePaneDescription": "Rechterpaneel sluiten",
-    "FocusLeftPane": "Focus linker paneel",
-    "FocusLeftPaneDescription": "Verander focus naar linker paneel",
-    "FocusRightPane": "Focus rechter paneel",
-    "FocusRightPaneDescription": "Verander focus naar rechter paneel",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Zijbalk in-/uitschakelen",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Er zijn geen netwerklocaties. Als u geen netwerklocaties gebruikt, kunt u de widget uitschakelen.",
     "Disable": "Uitschakelen",
     "EditInNotepad": "Bewerken in kladblok",
-    "EditInNotepadDescription": "Bewerk het geselecteerde bestand in Kladblok"
+    "EditInNotepadDescription": "Bewerk het geselecteerde bestand in Kladblok",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

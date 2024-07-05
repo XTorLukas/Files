@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Skrivskyddad"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# dag sen} other {# dagar sen}}",
+    "DaysAgo_Singular": "1 dag sen",
+    "DaysAgo_Plural": "{0} Dagar sen",
+    "HoursAgo": "{0, plural, one {# timme sen} other {# timmar sen}}",
+    "HoursAgo_Singular": "1 timme sen",
+    "HoursAgo_Plural": "{0} timmar sen",
+    "MinutesAgo": "{0, plural, one {# minut sen} other {# minuter sen}}",
+    "MinutesAgo_Singular": "1 minut sen",
+    "MinutesAgo_Plural": "{0} minuter sen",
+    "SecondsAgo": "{0, plural, one {# sekund sen} other {# sekunder sen}}",
+    "SecondsAgo_Singular": "1 sekund sen",
+    "SecondsAgo_Plural": "{0} sekunder sen",
     "Now": "Nu",
     "ErrorDialogUnsupportedOperation": "Den begärda åtgärden stöds inte.",
     "DriveFreeSpaceAndCapacity": "{0} ledigt av {1}",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {fil} other {filer}}, {1, number} {1, plural, one {mapp} other {mappar}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {filer}}, {1, number} {1, plural, one {mapp} other {mappar}} från {2, number} {2, plural, one {plats} other {platser}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Kör som en annan användare"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Senaste",
     "TabStripDragAndDropUIOverrideCaption": "Flytta flik hit",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows-standard",
     "NavigationToolbarVisiblePathNoResults": "Inga sökresultat",
     "SubDirectoryAccessDenied": "Kan inte komma åt några objekt att visa",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Slå på detaljpanelen för att visa grundläggande filegenskaper",
     "ToggleInfoPane": "Slå av eller på informationspanelen",
     "ToggleInfoPaneDescription": "Växla infopanelen för att se detaljerna/förhandsgranskningsrutorna",
+    "ToggleToolbar": "Växla verktygsfältet",
     "DetailsPanePreviewNotAvaliableText": "Ingen förhandsgranskning är tillgänglig",
     "PropertyItemName": "Filnamn",
     "UnpinFolderFromSidebar": "Lossa från sidofältet",
@@ -508,16 +515,16 @@
     "CreateLibraryErrorAlreadyExists": "Bibliotek med samma namn finns redan!",
     "OpenStorageSense": "Öppna Storage Sense",
     "Copy": "Kopiera",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "Kopiera {0, plural, one {objekt} other {objekt}}",
+    "DeleteItemsDialogTitle": "Radera {0, plural, one {objekt} other {objekt}}",
     "MoveItemsDialogPrimaryButtonText": "Flytta",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Ett objekt kommer att flyttas} other {# objekt kommer flyttas}}",
+    "MoveItemsDialogTitle": "Flytta {0, plural, one {objekt} other {objekt}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Ett objekt kommer att raderas} other {# objekt kommer att raderas}}",
     "ConflictingItemsDialogPrimaryButtonText": "Fortsätt",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Det finns ett motstridigt filnamn} other {Det finns # motstridiga filnamn}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Det finns ett motstridigt filnamn} other {Det finns # motstridiga filnamn}}, och {1, plural, one {ett utgående objekt} other {# utgående objekt}}",
+    "ConflictingItemsDialogTitle": "Motstridiga {0, plural, one {filnamn} other {filnamn}}",
     "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Ta bort permanent"
@@ -719,9 +726,7 @@
             "ToolTip": "Ersätt alla underordnade objekträttighetsposter med ärftliga rättighetsposter från detta objekt"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Stäng fönster"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Öppna kompakt överlägg",
     "ExitCompactOverlay": "Stäng kompakt överlägg",
     "PropertyFileDescription": "Filbeskrivning",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Åsidosätt inte DPI",
     "CompatibilityMode": "Kompatibilitetsläge",
     "CompatibilityNoReducedColor": "Ingen reducerad färg",
-    "ThirdPartyLicenses": "Tredjepartslicenser",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Det här alternativet ändrar systemregistret och kan ha oväntade effekter på din enhet. Fortsätt på egen risk.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Skapa bibliotek",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Ange biblioteksnamn",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Flytta till föregående flik",
     "NextTabDescription": "Flytta till nästa flik",
     "CloseSelectedTabDescription": "Stäng den nuvarande fliken",
-    "OpenNewPaneDescription": "Öppna ny ruta",
-    "ClosePaneDescription": "Stäng höger ruta",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Växla sidofältet",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Det finns inga nätverksplatser. Om du inte använder nätverksplatser kan du inaktivera widgeten.",
     "Disable": "Inaktivera",
     "EditInNotepad": "Redigera i Anteckningar",
-    "EditInNotepadDescription": "Redigera den valda filen i Anteckningar"
+    "EditInNotepadDescription": "Redigera den valda filen i Anteckningar",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

@@ -131,9 +131,17 @@
         "Text": "Només lectura"
     },
     "DaysAgo": "{0, plural, one {fa # dia} other {fa # dies}}",
+    "DaysAgo_Singular": "Fa 1 dia",
+    "DaysAgo_Plural": "Fa {0} dies",
     "HoursAgo": "{0, plural, one {fa # hora} other {fa # hores}}",
+    "HoursAgo_Singular": "Fa 1 hora",
+    "HoursAgo_Plural": "Fa {0} hores",
     "MinutesAgo": "{0, plural, one {fa # minut} other {fa # minuts}}",
+    "MinutesAgo_Singular": "Fa 1 minut",
+    "MinutesAgo_Plural": "Fa {0} minuts",
     "SecondsAgo": "{0, plural, one {fa # segon} other {fa # segons}}",
+    "SecondsAgo_Singular": "Fa 1 segon",
+    "SecondsAgo_Plural": "Fa {0} segons",
     "Now": "Ara",
     "ErrorDialogUnsupportedOperation": "L'operació no està disponible",
     "DriveFreeSpaceAndCapacity": "{0} disponible de {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recent",
     "TabStripDragAndDropUIOverrideCaption": "Mou la pestanya aquí",
-    "syncStatusColumn": {
-        "Header": "Estat"
-    },
+    "Status": "Estat",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows per defecte",
     "NavigationToolbarVisiblePathNoResults": "Cap resultat",
     "SubDirectoryAccessDenied": "No es pot accedir a cap element per mostrar",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Canvia el panell de detalls per veure les propietats bàsiques del fitxer",
     "ToggleInfoPane": "Canvia el panell d'informació",
     "ToggleInfoPaneDescription": "Canvia el panell d'informació per veure els panells de detalls/vista prèvia",
+    "ToggleToolbar": "Commuta la barra d'eines",
     "DetailsPanePreviewNotAvaliableText": "Cap visualització prèvia disponible",
     "PropertyItemName": "Nom de l'element",
     "UnpinFolderFromSidebar": "Treure de la barra lateral",
@@ -719,9 +726,7 @@
             "ToolTip": "Substitueix totes les entrades de permisos dels objectes secundaris per entrades de permisos heretables d'aquest objecte"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Tanca el panell"
-    },
+    "CloseActivePane": "Tanca el panell actiu",
     "EnterCompactOverlay": "Mode superposició compacta",
     "ExitCompactOverlay": "Surt del mode superposició compacta",
     "PropertyFileDescription": "Descripció del fitxer",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "No invalidar el DPI",
     "CompatibilityMode": "Mode de compatibilitat",
     "CompatibilityNoReducedColor": "No color reduït",
-    "ThirdPartyLicenses": "Llicències de tercers",
+    "ThirdPartyLibraries": "Llibreries de tercers",
     "SettingsSetAsDefaultFileManagerDescription": "Aquesta opció modifica el registre del sistema i pot tenir efectes secundaris inesperats al vostre dispositiu. Continueu sota el vostre propi risc.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Creació de la biblioteca",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Introduïu el nom de la biblioteca",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Ves a la pestanya anterior",
     "NextTabDescription": "Passa a la pestanya següent",
     "CloseSelectedTabDescription": "Tanca la pestanya actual",
-    "OpenNewPaneDescription": "Obre un panell nou",
-    "ClosePaneDescription": "Tanca el panell de la dreta",
-    "FocusLeftPane": "Enfoca el panell esquerre",
-    "FocusLeftPaneDescription": "Canvia el focus al panell esquerre",
-    "FocusRightPane": "Enfoca el panell dret",
-    "FocusRightPaneDescription": "Canvia el focus al panell dret",
+    "CloseActivePaneDescription": "Tanca el panell actiu",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Canvia la barra lateral",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "No hi ha ubicacions de xarxa. Si no utilitzeu ubicacions de xarxa, podeu desactivar el giny.",
     "Disable": "Deshabilita",
     "EditInNotepad": "Edita al Bloc de notes",
-    "EditInNotepadDescription": "Editeu el fitxer seleccionat al Bloc de notes"
+    "EditInNotepadDescription": "Editeu el fitxer seleccionat al Bloc de notes",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Estat:",
+    "ShowToolbar": {
+        "text": "Mostra la barra d'eines",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menú d'accions de la pestanya",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

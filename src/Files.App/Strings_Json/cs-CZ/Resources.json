@@ -131,9 +131,17 @@
         "Text": "Pouze pro čtení"
     },
     "DaysAgo": "Před {0, plural, one {# dnem} other {# dny}}",
+    "DaysAgo_Singular": "před 1 dnem",
+    "DaysAgo_Plural": "před {0} dny",
     "HoursAgo": "Před {0, plural, one {# hodinou} other {# hodinami}}",
+    "HoursAgo_Singular": "před 1 hodinou",
+    "HoursAgo_Plural": "před {0} hodinami",
     "MinutesAgo": "Před {0, plural, one {# minutou} other {# minutami}}",
+    "MinutesAgo_Singular": "před 1 minutou",
+    "MinutesAgo_Plural": "před {0} minutami",
     "SecondsAgo": "Před {0, plural, one {# sekundou} other {# sekundami}}",
+    "SecondsAgo_Singular": "před 1 sekundou",
+    "SecondsAgo_Plural": "před {0} sekundami",
     "Now": "Nyní",
     "ErrorDialogUnsupportedOperation": "Požadovaná operace není podporována",
     "DriveFreeSpaceAndCapacity": "{0} volných z {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Nedávné",
     "TabStripDragAndDropUIOverrideCaption": "Přesunout kartu zde",
-    "syncStatusColumn": {
-        "Header": "Stav"
-    },
+    "Status": "Stav",
     "SettingsPreferencesSystemDefaultLanguageOption": "Výchozí systému",
     "NavigationToolbarVisiblePathNoResults": "Žádné výsledky",
     "SubDirectoryAccessDenied": "Nelze získat přístup k žádným položkám k zobrazení",
@@ -367,7 +373,7 @@
     },
     "RecycleBinItemAutomation": "Položka koše",
     "ShortcutItemAutomation": "Položka zástupce",
-    "Drives": "Disky",
+    "Drives": "Zařízení a jednotky",
     "PinToSidebarByDraggingCaptionText": "Přesunout sem",
     "EjectNotificationHeader": "Bezpečně odebrat hardware",
     "EjectNotificationBody": "Zařízení může být nyní bezpečně odebráno z počítače.",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Přepnout panel detailů pro zobrazení základních vlastností souboru",
     "ToggleInfoPane": "Přepnout informační panel",
     "ToggleInfoPaneDescription": "Přepnout informační podokno pro zobrazení detailu/náhledu podoken",
+    "ToggleToolbar": "Přepnout panel nástrojů",
     "DetailsPanePreviewNotAvaliableText": "Není dostupný žádný náhled",
     "PropertyItemName": "Název položky",
     "UnpinFolderFromSidebar": "Odepnout z postranního panelu",
@@ -474,7 +481,7 @@
     "DateCreated": "Vytvořeno",
     "MoreOptions": "Více možností...",
     "DrivesWidgetOptionsFlyoutMapNetDriveMenuItem": {
-        "Text": "Mapovat síťový disk"
+        "Text": "Připojit síťovou jednotku"
     },
     "Pinned": "Připnuto",
     "SidebarLibraries": "Knihovny",
@@ -719,9 +726,7 @@
             "ToolTip": "Nahradit všechny položky oprávnění podřízeného objektu dědičnými záznamy oprávnění z tohoto objektu"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Zavřít panel"
-    },
+    "CloseActivePane": "Zavřít aktivní panel",
     "EnterCompactOverlay": "Vstoupit do kompaktního překrytí",
     "ExitCompactOverlay": "Opustit kompaktní překrytí",
     "PropertyFileDescription": "Popis souboru",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Nepřepisovat DPI",
     "CompatibilityMode": "Režim kompatibility",
     "CompatibilityNoReducedColor": "Bez snížených barev",
-    "ThirdPartyLicenses": "Licence třetích stran",
+    "ThirdPartyLibraries": "Knihovny třetích stran",
     "SettingsSetAsDefaultFileManagerDescription": "Tato možnost upravuje systémový registr a může mít neočekávané vedlejší efekty na vaše zařízení. Pokračujte na vlastní nebezpečí.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Vytvořit Knihovnu",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Zadejte název knihovny",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Přesunout na předchozí kartu",
     "NextTabDescription": "Přesunout na následující kartu",
     "CloseSelectedTabDescription": "Zavřít aktuální kartu",
-    "OpenNewPaneDescription": "Otevřít nový panel",
-    "ClosePaneDescription": "Zavřít pravý panel",
-    "FocusLeftPane": "Přepnout na levý panel",
-    "FocusLeftPaneDescription": "Změna přepnutí se na levý panel",
-    "FocusRightPane": "Přepnout na pravý panel",
-    "FocusRightPaneDescription": "Změna přepnutí se na pravý panel",
+    "CloseActivePaneDescription": "Zavření aktivního panelu",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Skrýt/Zobrazit postranní panel",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Neexistují žádná síťová umístění. Pokud síťová umístění nepoužíváte, můžete widget vypnout.",
     "Disable": "Zakázat",
     "EditInNotepad": "Upravit v Poznámkovém bloku",
-    "EditInNotepadDescription": "Upravit vybraný soubor v Poznámkovém bloku"
+    "EditInNotepadDescription": "Upravit vybraný soubor v Poznámkovém bloku",
+    "PropertyDimensionsColon": "Rozměry:",
+    "StatusWithColon": "Stav:",
+    "ShowToolbar": {
+        "text": "Zobrazit panel nástrojů",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Nabídka akcí",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

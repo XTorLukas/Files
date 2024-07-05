@@ -131,9 +131,17 @@
         "Text": "Μόνο για ανάγνωση"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Τώρα",
     "ErrorDialogUnsupportedOperation": "Η ζητούμενη λειτουργία δεν υποστηρίζεται",
     "DriveFreeSpaceAndCapacity": "{0} ελεύθερα από {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Πρόσφατα",
     "TabStripDragAndDropUIOverrideCaption": "Μετακίνηση καρτέλας εδώ",
-    "syncStatusColumn": {
-        "Header": "Κατάσταση"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Προεπιλογή των Windows",
     "NavigationToolbarVisiblePathNoResults": "Δεν υπάρχουν αποτελέσματα",
     "SubDirectoryAccessDenied": "Δεν είναι δυνατή η πρόσβαση σε στοιχεία για εμφάνιση",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Εναλλαγή του πλαισίου λεπτομερειών για την προβολή βασικών ιδιοτήτων αρχείου",
     "ToggleInfoPane": "Εναλλαγή του πλαισίου πληροφοριών",
     "ToggleInfoPaneDescription": "Εναλλαγή του πλαισίου πληροφοριών για προβολή των παραθύρων λεπτομερειών/προεπισκόπησης",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Δεν υπάρχει διαθέσιμη προεπισκόπηση",
     "PropertyItemName": "Όνομα στοιχείου",
     "UnpinFolderFromSidebar": "Ξεκαρφίτσωμα από την πλαϊνή μπάρα",
@@ -719,9 +726,7 @@
             "ToolTip": "Αντικατάσταση όλων των καταχωρίσεων δικαιωμάτων θυγατρικών αντικειμένων με κληρονομήσιμες καταχωρίσεις δικαιωμάτων από αυτό το αντικείμενο"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Κλείσιμο παραθύρου"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Εισαγωγή συμπαγούς επικάλυψης",
     "ExitCompactOverlay": "Έξοδος από συμπαγή επικάλυψη",
     "PropertyFileDescription": "Περιγραφή αρχείου",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Να μην παρακάμπτεται το DPI",
     "CompatibilityMode": "Λειτουργία συμβατότητας",
     "CompatibilityNoReducedColor": "Χωρίς μειωμένο χρώμα",
-    "ThirdPartyLicenses": "Άδειες τρίτων",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Αυτή η ρύθμιση τροποποιεί αρχεία του συστήματος και μπορεί να έχει απροσδόκητες παρενέργειες στη συσκευή σας. Συνεχίστε με δική σας ευθύνη.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Δημιουργία βιβλιοθήκης",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Εισάγετε το όνομα της βιβλιοθήκης",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Μετακίνηση στην προηγούμενη καρτέλα",
     "NextTabDescription": "Μετακίνηση στην επόμενη καρτέλα",
     "CloseSelectedTabDescription": "Κλείσιμο τρέχουσας καρτέλας",
-    "OpenNewPaneDescription": "Άνοιγμα νέου πλαισίου",
-    "ClosePaneDescription": "Κλείσιμο δεξιού πλαισίου",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Εναλλαγή της πλευρικής μπάρας",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Δεν υπάρχουν τοποθεσίες δικτύου. Εάν δεν χρησιμοποιείτε τοποθεσίες δικτύου, μπορείτε να απενεργοποιήσετε το widget.",
     "Disable": "Απενεργοποίηση",
     "EditInNotepad": "Επεξεργασία στο σημειωματάριο",
-    "EditInNotepadDescription": "Επεξεργασία του επιλεγμένου αρχείου στο Σημειωματάριο"
+    "EditInNotepadDescription": "Επεξεργασία του επιλεγμένου αρχείου στο Σημειωματάριο",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

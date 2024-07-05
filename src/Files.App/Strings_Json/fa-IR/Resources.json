@@ -131,9 +131,17 @@
         "Text": "فقط خواندنی"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "اکنون",
     "ErrorDialogUnsupportedOperation": "عملیات فوق پشتیبانی نمیشود",
     "DriveFreeSpaceAndCapacity": "{0} خالی از {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "اخیر",
     "TabStripDragAndDropUIOverrideCaption": "زبانه ها را اینجا انتقال بده",
-    "syncStatusColumn": {
-        "Header": "وضعیت"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "پیشفرض ویندوز",
     "NavigationToolbarVisiblePathNoResults": "بدون نتیجه",
     "SubDirectoryAccessDenied": "دسترسی به هیچ آیتمی برای نمایش وجود ندارد",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "برای مشاهده ویژگی های اصلی فایل، پنجره جزئیات را تغییر دهید",
     "ToggleInfoPane": "نمایش جداره‌ی اطلاعات",
     "ToggleInfoPaneDescription": "صفحه اطلاعات برای مشاهده پنجره‌های جزئیات یا پیش‌نمایش می آورد",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "پیش نمایشی در دسترس نیست",
     "PropertyItemName": "نام آیتم",
     "UnpinFolderFromSidebar": "جدا کردن از نوار کناری",
@@ -719,9 +726,7 @@
             "ToolTip": "همه ورودی‌های مجوز شی فرزند (Child Object) را با ورودی‌های مجوز ارثی از این شی (Object) جایگزین کن"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "بستن پنجره"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "ورود به همپوشانی فشرده",
     "ExitCompactOverlay": "خروج از همپوشانی فشرده",
     "PropertyFileDescription": "توضيحات فايل",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "عدم تغییر DPI",
     "CompatibilityMode": "حالت سازگاری",
     "CompatibilityNoReducedColor": "بدون کاهش رنگ",
-    "ThirdPartyLicenses": "گواهینامه‌های شخص ثالث",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "این گزینه، رجیستری سیستم (ثبّات سیستم) را تغییر می‌دهد و می‌تواند عوارض جانبی غیرمنتظره‌ای روی دستگاه شما داشته باشد. با مسئولیت خود ادامه دهید.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "ایجاد کتابخانه",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "نام کتابخانه را وارد کنید",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Move to the previous tab",
     "NextTabDescription": "Move to the next tab",
     "CloseSelectedTabDescription": "بستن زبانه فعلی",
-    "OpenNewPaneDescription": "باز کردن پنجره جدید",
-    "ClosePaneDescription": "بستن پنجره راست",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "نشان دادن نوار کناری",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
     "Disable": "Disable",
     "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "EditInNotepadDescription": "Edit the selected file in Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

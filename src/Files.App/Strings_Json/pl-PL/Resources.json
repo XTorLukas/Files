@@ -131,9 +131,17 @@
         "Text": "Tylko do odczytu"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Teraz",
     "ErrorDialogUnsupportedOperation": "Żądana operacja nie jest obsługiwana",
     "DriveFreeSpaceAndCapacity": "Wolnych: {0} z {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Ostatnio używane",
     "TabStripDragAndDropUIOverrideCaption": "Przenieś kartę tutaj",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Domyślny dla systemu Windows",
     "NavigationToolbarVisiblePathNoResults": "Brak wyników",
     "SubDirectoryAccessDenied": "Brak dostępu do żadnych elementów do wyświetlenia",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Przełącz panel szczegółów, aby wyświetlić podstawowe właściwości pliku",
     "ToggleInfoPane": "Przełącz panel informacyjny",
     "ToggleInfoPaneDescription": "Przełącz panel informacji, aby wyświetlić szczegóły/podgląd",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Podgląd niedostępny",
     "PropertyItemName": "Nazwa",
     "UnpinFolderFromSidebar": "Odepnij z panelu bocznego",
@@ -719,9 +726,7 @@
             "ToolTip": "Zastąp wszystkie wpisy uprawnień obiektu podrzędnego wpisami uprawnień dziedzicznych z tego obiektu"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Zamknij panel"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Otwórz kompaktową nakładkę",
     "ExitCompactOverlay": "Wyjdź z kompaktowej nakładki",
     "PropertyFileDescription": "Opis pliku",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Nie nadpisuj DPI",
     "CompatibilityMode": "Tryb zgodności",
     "CompatibilityNoReducedColor": "Brak redukcji kolorów",
-    "ThirdPartyLicenses": "Licencje firm trzecich",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "To ustawienie modyfikuje pliki systemu i może wywołać niechciane efekty uboczne na Twoim urządzeniu. Kontynuujesz na własne ryzyko.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Utwórz bibliotekę",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Podaj nazwę biblioteki",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Przenieś do poprzedniej karty",
     "NextTabDescription": "Przenieś do następnej karty",
     "CloseSelectedTabDescription": "Zamknij bieżącą kartę",
-    "OpenNewPaneDescription": "Otwórz nowy panel",
-    "ClosePaneDescription": "Zamknij prawy panel",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Przełącz boczny pasek",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Brak lokalizacji sieciowych. Jeśli nie używasz lokalizacji sieciowych, możesz wyłączyć widżet.",
     "Disable": "Wyłącz",
     "EditInNotepad": "Edytuj w notatniku",
-    "EditInNotepadDescription": "Edytuj wybrany plik w notatniku"
+    "EditInNotepadDescription": "Edytuj wybrany plik w notatniku",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

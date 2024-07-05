@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Somente leitura"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# dia atrás} other {# dias atrás}}",
+    "DaysAgo_Singular": "1 dia atrás",
+    "DaysAgo_Plural": "{0} dias atrás",
+    "HoursAgo": "{0, plural, one {# hora atrás} other {Há # horas}}",
+    "HoursAgo_Singular": "1 hora atrás",
+    "HoursAgo_Plural": "{0} horas atrás",
+    "MinutesAgo": "{0, plural, one {# minuto atrás} other {# minutos atrás}}",
+    "MinutesAgo_Singular": "1 minuto atrás",
+    "MinutesAgo_Plural": "{0} minutos atrás",
+    "SecondsAgo": "{0, plural, one {# segundo atrás} other {# segundos atrás}}",
+    "SecondsAgo_Singular": "1 segundo atrás",
+    "SecondsAgo_Plural": "{0} segundos atrás",
     "Now": "Agora",
     "ErrorDialogUnsupportedOperation": "Não há suporte para a operação solicitada.",
     "DriveFreeSpaceAndCapacity": "{0} livre(s) de {1}",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {arquivo} other {arquivos}}, {1, number} {1, plural, one {pasta} other {pastas}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {arquivo} other {arquivos}}, {1, number} {1, plural, one {pasta} other {pastas}} de {2, number} {2, plural, one {local} other {locais}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Executar como outro usuário"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recente",
     "TabStripDragAndDropUIOverrideCaption": "Mover a guia aqui",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Padrão do Windows",
     "NavigationToolbarVisiblePathNoResults": "Sem resultados",
     "SubDirectoryAccessDenied": "Não é possível acessar nenhum item para exibir",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Alternar o painel de detalhes para ver as propriedades básicas do arquivo",
     "ToggleInfoPane": "Exibir o painel de informações",
     "ToggleInfoPaneDescription": "Ative o painel de informações para visualizar os painéis\\na visualização de detalhes",
+    "ToggleToolbar": "Mostrar/Ocultar Barra de Ferramentas",
     "DetailsPanePreviewNotAvaliableText": "Nenhuma visualização disponível",
     "PropertyItemName": "Nome do Item",
     "UnpinFolderFromSidebar": "Desafixar da Barra Lateral",
@@ -508,17 +515,17 @@
     "CreateLibraryErrorAlreadyExists": "Já existe uma biblioteca com o mesmo nome!",
     "OpenStorageSense": "Abrir Sensor de Armanezamento",
     "Copy": "Copiar",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "Copiar {0, plural, one {item} other {itens}}",
+    "DeleteItemsDialogTitle": "Excluir {0, plural, one {item} other {itens}}",
     "MoveItemsDialogPrimaryButtonText": "Mover",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {Um item será movido} other {# itens serão movidos}}",
+    "MoveItemsDialogTitle": "Mover {0, plural, one {item} other {itens}}",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {Um item será excluído} other {# itens serão excluídos}}",
     "ConflictingItemsDialogPrimaryButtonText": "Continuar",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
-    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Há um nome de arquivo conflitante} other {Existem # nomes de arquivos conflitantes}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Há 1 nome de arquivo conflitante} other {Há # nomes de arquivos conflitantes}}, e {1, plural, one {1 item enviado} other {# itens enviados}}",
+    "ConflictingItemsDialogTitle": "{0, plural, one {nome de arquivo} other {nomes de arquivos}} com conflito",
+    "CopyItemsDialogSubtitle": "{0, plural, one {Um item será copiado} other {# itens serão copiados}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Excluir permanentemente"
     },
@@ -719,9 +726,7 @@
             "ToolTip": "Substituir todas as entradas de permissão de objetos menores por entradas de permissão herdáveis deste objeto"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Fechar painel"
-    },
+    "CloseActivePane": "Fechar painel ativo",
     "EnterCompactOverlay": "Insira a sobreposição compacta",
     "ExitCompactOverlay": "Remova a sobreposição compacta",
     "PropertyFileDescription": "Descrição do arquivo",
@@ -735,7 +740,7 @@
             "ToolTip": "Faz o download do item da nuvem e carrega a visualização"
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# item} other {# itens}} ({1, plural, one {# arquivo} other {# arquivos}}, {2, plural, one {# pasta} other {# pastas}})",
     "PropertyUncompressedSize": "Tamanho descomprimido",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Não substituir o DPI",
     "CompatibilityMode": "Modo de compatibilidade",
     "CompatibilityNoReducedColor": "Sem cor reduzida",
-    "ThirdPartyLicenses": "Licenças de terceiros",
+    "ThirdPartyLibraries": "Bibliotecas de terceiros",
     "SettingsSetAsDefaultFileManagerDescription": "Esta opção modifica o registro do sistema e pode causar efeitos colaterais inesperados no seu dispositivo. Continue por sua conta e risco.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Criar Biblioteca",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Digite o nome da Biblioteca",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Mover para a aba anterior",
     "NextTabDescription": "Mover para a próxima aba",
     "CloseSelectedTabDescription": "Fechar aba atual",
-    "OpenNewPaneDescription": "Abrir novo painel",
-    "ClosePaneDescription": "Fechar painel à direita",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Fechar painel ativo",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Mostrar/ocultar barra lateral",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Não há nenhum local de rede. Se você não usar locais de rede, você pode desativar o widget.",
     "Disable": "Desligado",
     "EditInNotepad": "Editar no Notepad",
-    "EditInNotepadDescription": "Editar o arquivo selecionado no Notepad"
+    "EditInNotepadDescription": "Editar o arquivo selecionado no Notepad",
+    "PropertyDimensionsColon": "Dimensões:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Mostrar Barra de Ferramentas",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menu de ações de aba",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

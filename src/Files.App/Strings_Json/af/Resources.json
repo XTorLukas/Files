@@ -131,9 +131,17 @@
         "Text": "Leesalleen"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Nou",
     "ErrorDialogUnsupportedOperation": "Die aangevraagde bewerking word nie ondersteun nie",
     "DriveFreeSpaceAndCapacity": "{0} vry van {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Onlangse",
     "TabStripDragAndDropUIOverrideCaption": "Skuif duimgids hier",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows-verstek",
     "NavigationToolbarVisiblePathNoResults": "Geen resultate",
     "SubDirectoryAccessDenied": "Kan nie toegang verkry tot enige items om te vertoon nie",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Wissel die besonderhede paneel om basiese lêer eienskappe te sien",
     "ToggleInfoPane": "Wissel die inligtingspaneel",
     "ToggleInfoPaneDescription": "Wissel die inligtingvenster om die besonderhede-/voorskoupanele te sien",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Geen voorskou beskikbaar nie",
     "PropertyItemName": "Item Naam",
     "UnpinFolderFromSidebar": "Unpin from Sidebar",
@@ -719,9 +726,7 @@
             "ToolTip": "Vervang alle kinderobjektoestemmingsinskrywings met oorerflike toestemmingsinskrywings van hierdie objek"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Maak paneel toe"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Voer kompakte oorleg in",
     "ExitCompactOverlay": "Verlaat kompakte oorleg",
     "PropertyFileDescription": "Lêerbeskrywing",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Do not override DPI",
     "CompatibilityMode": "Verenigbaarheidsmodus",
     "CompatibilityNoReducedColor": "No reduced color",
-    "ThirdPartyLicenses": "Derde party lisensies",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Hierdie instelling verander stelsellêers en kan onverwagte newe-effekte op jou toestel hê. Die ontwikkelaars neem geen verantwoordelikheid in die geval dat 'n probleem as gevolg daarvan plaasvind nie. Om voort te gaan met hierdie opsie is 'n erkenning van die risiko's wat by hierdie aksie betrokke is.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Skep biblioteek",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Voer biblioteeknaam in",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Move to the previous tab",
     "NextTabDescription": "Move to the next tab",
     "CloseSelectedTabDescription": "Close current tab",
-    "OpenNewPaneDescription": "Open new pane",
-    "ClosePaneDescription": "Close right pane",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Toggle the sidebar",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
     "Disable": "Disable",
     "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "EditInNotepadDescription": "Edit the selected file in Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

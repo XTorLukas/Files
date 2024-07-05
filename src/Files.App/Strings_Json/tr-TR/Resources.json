@@ -44,7 +44,7 @@
     "SettingsFilesAndFoldersShowHiddenItems": "Gizli dosya ve klasörleri göster",
     "ShowDotFiles": "dot dosyalarını göster",
     "Appearance": "Görünüm",
-    "BackgroundColor": "Background color",
+    "BackgroundColor": "Arka plan rengi",
     "Advanced": "Gelişmiş",
     "SettingsOnStartupContinueWhereYouLeftOff": {
         "Content": "Kaldığınız yerden devam edin"
@@ -101,7 +101,7 @@
     "ItemAlreadyExistsDialogSecondaryButtonText": "Var olan ögeyi değiştir",
     "ItemAlreadyExistsDialogTitle": "Öge zaten mevcut",
     "SetAsLockscreen": "Kilit ekranı arka planı olarak ayarla",
-    "SetAsAppBackground": "Set as app background",
+    "SetAsAppBackground": "Uygulama arka planı olarak ayarla",
     "AccessDeniedDeleteDialog": {
         "Text": "Bu öge silinemedi"
     },
@@ -130,10 +130,18 @@
     "PropertiesDialogReadOnly": {
         "Text": "Salt okunur"
     },
-    "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
-    "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
-    "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
-    "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "DaysAgo": "{0, plural, one {# gün önce} other {# gün önce}}",
+    "DaysAgo_Singular": "1 gün önce",
+    "DaysAgo_Plural": "{0} gün önce",
+    "HoursAgo": "{0, plural, one {# saat önce} other {# saat önce}}",
+    "HoursAgo_Singular": "1 saat önce",
+    "HoursAgo_Plural": "{0} saat önce",
+    "MinutesAgo": "{0, plural, one {# dakika önce} other {# dakika önce}}",
+    "MinutesAgo_Singular": "1 dakika önce güncellendi",
+    "MinutesAgo_Plural": "{0} dakika önce",
+    "SecondsAgo": "{0, plural, one {# saniye önce} other {# saniye önce}}",
+    "SecondsAgo_Singular": "1 saniye önce",
+    "SecondsAgo_Plural": "{0} saniye önce",
     "Now": "Şimdi",
     "ErrorDialogUnsupportedOperation": "İstenilen işlem desteklenmiyor",
     "DriveFreeSpaceAndCapacity": "{0} / {1} boş",
@@ -162,8 +170,8 @@
     "TeraByteSymbol": "TB",
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
-    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {dosya} other {dosya}}, {1, number} {1, plural, one {klasör} other {klasör}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{2, number} {2, plural, one {konumdan} other {konumdan}} {0, number} {0, plural, one {dosya} other {dosya}}, {1, number} {1, plural, one {klasör} other {klasör}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Farklı kullanıcı olarak çalıştır"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Son kullanılan",
     "TabStripDragAndDropUIOverrideCaption": "Sekmeyi buraya taşı",
-    "syncStatusColumn": {
-        "Header": "Durum"
-    },
+    "Status": "Durum",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows varsayılanı",
     "NavigationToolbarVisiblePathNoResults": "Sonuç yok",
     "SubDirectoryAccessDenied": "Görüntülenecek herhangi bir ögeye erişilemiyor",
@@ -229,7 +235,7 @@
             "Title": "Öge adı geçersiz"
         },
         "TooLong": {
-            "Text": "Belirtilen öge adı olabilecek en uzun ad sınırını aşıyor. Lütfen yeni adı kontrol edip tekrar deneyin.",
+            "Text": "Belirtilen öge adı olabilecek en uzun ad sınırını aşıyor. Lütfen yeni adı kontrol edip yeniden deneyin.",
             "Title": "Öge adı çok uzun"
         }
     },
@@ -345,8 +351,8 @@
     "PropertySlideCount": "Slayt Sayısı",
     "PropertyFrameRate": "Kare Hızı",
     "PropertyEncodingBitrate": "Kodlama Bit Hızı",
-    "PropertyPreviewAudioEncodingBitrate": "Audio Encoding Bitrate",
-    "PropertyPreviewVideoEncodingBitrate": "Video Encoding Bitrate",
+    "PropertyPreviewAudioEncodingBitrate": "Ses Kodlama Bit Hızı",
+    "PropertyPreviewVideoEncodingBitrate": "Video Kodlama Bit Hızı",
     "Compression": "Sıkıştırma",
     "PropertyFrameWidth": "Kare Genişliği",
     "PropertyFrameHeight": "Kare Yüksekliği",
@@ -410,7 +416,7 @@
         "Label": "Yeni bölme"
     },
     "OpenInNewPane": "Yeni bölmede aç",
-    "FilesAndFolders": "Dosyalar & klasörler",
+    "FilesAndFolders": "Dosyalar ve klasörler",
     "NavToolbarDetails": {
         "ToolTipService": {
             "ToolTip": "Ayrıntılar Görünümü (Ctrl+Shift+1)"
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Temel dosya özelliklerini görüntülemek için ayrıntılar bölmesini açın",
     "ToggleInfoPane": "Bilgi bölmesini aç/kapat",
     "ToggleInfoPaneDescription": "Ayrıntı/önizleme bölmelerini görüntülemek için bilgi bölmesini açın",
+    "ToggleToolbar": "Kenar çubuğunu ayarla",
     "DetailsPanePreviewNotAvaliableText": "Ön izleme yok",
     "PropertyItemName": "Öge Adı",
     "UnpinFolderFromSidebar": "Kenar Çubuğundan Sabitlemeyi Kaldır",
@@ -508,17 +515,17 @@
     "CreateLibraryErrorAlreadyExists": "Aynı ada sahip kitaplık zaten var!",
     "OpenStorageSense": "Akıllı Depolama'yı aç",
     "Copy": "Kopyala",
-    "CopyItemsDialogTitle": "Copy {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogTitle": "Delete {0, plural, one {item} other {items}}",
+    "CopyItemsDialogTitle": "{0, plural, one {Öğeyi} other {Öğeleri}} kopyala",
+    "DeleteItemsDialogTitle": "{0, plural, one {Öğeyi} other {Öğeleri}} sil",
     "MoveItemsDialogPrimaryButtonText": "Hareket",
-    "MoveItemsDialogSubtitle": "{0, plural, one {One item will be moved} other {# items will be moved}}",
-    "MoveItemsDialogTitle": "Move {0, plural, one {item} other {items}}",
-    "DeleteItemsDialogSubtitle": "{0, plural, one {One item will be deleted} other {# items will be deleted}}",
+    "MoveItemsDialogSubtitle": "{0, plural, one {1 öğe taşınacak} other {# öğe taşınacak}}",
+    "MoveItemsDialogTitle": "{0, plural, one {Öğeyi} other {Öğeleri}} taşı",
+    "DeleteItemsDialogSubtitle": "{0, plural, one {1 öğe silinecek} other {# öğe silinecek}}",
     "ConflictingItemsDialogPrimaryButtonText": "Devam",
-    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
-    "ConflictingItemsDialogTitle": "Conflicting {0, plural, one {file name} other {file names}}",
-    "CopyItemsDialogSubtitle": "{0, plural, one {One item will be copied} other {# items will be copied}}",
+    "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Çakışan 1 dosya adı var} other {Çakışan # dosya adı var}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {Çakışan 1 dosya adı} other {Çakışan # dosya adı}} ve {1, plural, one {1 giden öğe var} other {# giden öğe var}}",
+    "ConflictingItemsDialogTitle": "Çakışan {0, plural, one {dosya adı} other {dosya adları}}",
+    "CopyItemsDialogSubtitle": "{0, plural, one {1 öğe kopyalanacak} other {# öğe kopyalanacak}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
         "Content": "Kalıcı olarak sil"
     },
@@ -528,7 +535,7 @@
     "CreateFolderWithSelection": "Seçimle klasör oluştur",
     "ItemType": "Tip:",
     "ToolTipDescriptionDate": "Değiştirilme tarihi:",
-    "OpenWith": "Bununla aç",
+    "OpenWith": "Şununla aç:",
     "FileBrowserThumbnailIconColumnGrid": {
         "AutomationProperties": {
             "Name": "Dosya simgesi"
@@ -719,9 +726,7 @@
             "ToolTip": "Tüm alt nesne izin girişlerini bu nesneden devralınabilir izin girişleriyle değiştir"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Bölmeyi kapat"
-    },
+    "CloseActivePane": "Geçerli sekmeyi kapat",
     "EnterCompactOverlay": "Kompakt yer paylaşımına gir",
     "ExitCompactOverlay": "Kompakt yer paylaşımından çık",
     "PropertyFileDescription": "Dosya açıklaması",
@@ -735,7 +740,7 @@
             "ToolTip": "Öğeyi buluttan indirir ve önizlemeyi yükler"
         }
     },
-    "DetailsArchiveItems": "{0, plural, one {# item} other {# items}} ({1, plural, one {# file} other {# files}}, {2, plural, one {# folder} other {# folders}})",
+    "DetailsArchiveItems": "{0, plural, one {# öğe} other {# öğe}} ({1, plural, one {# dosya} other {# dosya}}, {2, plural, one {# klasör} other {# klasör}})",
     "PropertyUncompressedSize": "Sıkıştırılmamış boyut",
     "WSL": "WSL",
     "SideBarHideSectionFromSideBar": {
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "DPI ayarını geçersiz kılmayın",
     "CompatibilityMode": "Uyumluluk modu",
     "CompatibilityNoReducedColor": "Azaltılmış renk yok",
-    "ThirdPartyLicenses": "Üçüncü parti lisanslar",
+    "ThirdPartyLibraries": "Üçüncü parti kütüphaneler",
     "SettingsSetAsDefaultFileManagerDescription": "Bu seçenek sistem kayıt defterini değiştirir ve aygıtınızda beklenmeyen yan etkilere neden olabilir. Kendi sorumluluğunuzda devam edin.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Kütüphane oluştur",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Kütüphane ismi girin",
@@ -988,7 +993,7 @@
     "ReorderSidebarItemsDialogText": "Menü öğelerini yeniden sırala",
     "Hashes": "Hashler",
     "CalculationError": "İşlem sırasında hata oluştu",
-    "CalculationErrorFileIsOpen": "Hash hesaplanamadı, lütfen dosyayı kapatın ve tekrar deneyin.",
+    "CalculationErrorFileIsOpen": "Hash hesaplanamadı, lütfen dosyayı kapatın ve yeniden deneyin.",
     "CalculationOnlineFileHashError": "Hash'ler çevrimiçi dosyalar için kullanılamaz",
     "Algorithm": "Algoritma",
     "HashValue": "Hash Değeri",
@@ -1044,7 +1049,7 @@
     "SetAsWallpaperBackgroundDescription": "Seçilen resmi masaüstü arka planı olarak ayarla",
     "SetAsSlideshowBackgroundDescription": "Seçilen resimleri masaüstü slayt gösterisi olarak ayarla",
     "SetAsLockscreenBackgroundDescription": "Seçili resmi kilit ekranı arka planı olarak ayarla",
-    "SetAsAppBackgroundDescription": "Set selected picture as the app background",
+    "SetAsAppBackgroundDescription": "Seçili resmi uygulama arka planı olarak ayarla",
     "InstallFontDescription": "Seçili yazı tip(ler)ini yükle",
     "InstallInfDriverDescription": "Seçilen inf dosya(ları) kullanarak sürücü(ler) kurun",
     "InstallCertificateDescription": "Seçilen sertifika(ları) yükleyin",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Önceki sekmeye git",
     "NextTabDescription": "Sonraki sekmeye git",
     "CloseSelectedTabDescription": "Geçerli sekmeyi kapat",
-    "OpenNewPaneDescription": "Yeni bölme aç",
-    "ClosePaneDescription": "Sağ bölmeyi kapat",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Geçerli sekmeyi kapat",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Kenar çubuğunu değiştir",
     "Key": {
         "Menu": {
@@ -1326,7 +1328,7 @@
     "FilePropertiesCannotBeMoved": "Bu dosyalar, yeni konuma taşınamayan özelliklere sahip",
     "MoveFileWithoutProperties": "Bu dosyaları özellikleri olmadan taşımak istediğinizden emin misiniz?",
     "ShowCheckboxesWhenSelectingItems": "Öğeleri seçerken onay kutularını göster",
-    "EditPathDescription": "Odak yolu çubuğu",
+    "EditPathDescription": "Yol çubuğuna odaklan",
     "AddItemDescription": "Yeni öğe oluştur",
     "SecurityNoAccessControlEntriesText": "Hiçbir grubun veya kullanıcının bu nesneye erişim izni yok. Ancak, bu nesnenin sahibi izinleri atayabilir.",
     "OpenFileLocationDescription": "Öğenin konumunu aç",
@@ -1446,7 +1448,7 @@
     "FormatDrive": "Sürücüyü biçimlendir",
     "DontShowAgain": "Bir daha gösterme",
     "FilesRunningAsAdmin": "Files yönetici olarak çalışıyor",
-    "FilesRunningAsAdminContent": "Due to a limitation with Windows and WinAppSdk, drag and drop isn't available when running Files as admin. If you wish to use drag and drop, you can work around this limitation by opening UAC (User Account Control) from the Start Menu and selecting the third level, and restarting Windows. Otherwise, you can keep using Files without drag & drop.",
+    "FilesRunningAsAdminContent": "Windows ile WinAppSdk arasındaki bir kısıtlamadan ötürü sürükle ve bırak, Files yönetici olarak çalışırken kullanılamaz. Sürükle ve bırakı kullanmak istiyorsanız, geçici bir çözüm olarak Başlat Menüsünden UAC'ı (Kullanıcı Hesap Denetimi) başlatın ve üçüncü düzeyi seçin, ardından Windows'u yeniden başlatın. Aksi hâlde Files'ı sürükle ve bırak olmadan kullanmaya devam edebilirsiniz.",
     "SettingsLeaveAppRunning": "Penceresi kapatıldığında uygulamayı arka planda çalışır durumda bırak",
     "Blue": {
         "text": "Mavi",
@@ -1809,7 +1811,7 @@
     "ChooseAnAction": "Bir işlem seçin",
     "RestoreDefaultKeybindingsConfirmation": "Varsayılan tuş atamalarını geri yüklemek istediğinizden emin misiniz? Bu eylem geri alınamaz.",
     "KeybindingAlreadyUsedNotification": "Bu tuş ataması zaten kullanılıyor. Devam etmek için lütfen farklı bir tuş ataması seçin.",
-    "KeybindingInvalidKeyNotification": "The key binding you choose cannot be used, please try again using a different key binding.",
+    "KeybindingInvalidKeyNotification": "Seçtiğiniz tuş ataması kullanılamaz, lütfen başka bir tuş ataması kullanarak yeniden deneyin.",
     "Customized": "Özelleştirilmiş",
     "AdaptiveLayoutDisabledNotification": "Tercihler senkronize edildiğinde uyarlanabilir düzen kullanılamaz, varsayılan düzen Ayrıntılar olarak değiştirilmiştir.",
     "BackgroundImage": "Arka plan resmi",
@@ -1850,39 +1852,60 @@
     },
     "VerticalAlignment": "Dikey hizalama",
     "ThinAcrylic": {
-        "text": "Thin Acrylic",
+        "text": "İnce Akrilik",
         "crowdinContext": "This is a type of backdrop for the application background"
     },
     "AllLocations": {
-        "text": "Show for all locations",
+        "text": "Tüm konumlar için göster",
         "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for Git Repos"
     },
-    "DevTools": "Developer tools",
-    "DisplayOpenIDE": "Configure the \"Open IDE\" button on the status bar",
+    "DevTools": "Geliştirici araçları",
+    "DisplayOpenIDE": "Durum çubuğundaki \"IDE'yi Aç\" düğmesini yapılandır",
     "GitRepos": {
-        "text": "Show for Git repos",
+        "text": "Git repoları için göster",
         "crowdinContext": "Setting where users can choose to display \"Open IDE\" button for all locations."
     },
     "ApplicationExtension": {
-        "text": "Application extension",
+        "text": "Uygulama uzantısı",
         "crowdinContext": "This is the friendly name for DLL files."
     },
     "IcoFileCapitalized": {
-        "text": "ICO File",
+        "text": "ICO Dosyası",
         "crowdinContext": "This is the friendly name for ICO files."
     },
     "ZipFileCapitalized": {
-        "text": "Zip File",
+        "text": "Zip Dosyası",
         "crowdinContext": "This is the friendly name for ZIP files."
     },
     "BitmapFiles": {
-        "text": "Bitmap Files",
+        "text": "Bit Eşlem Resmi Dosyaları",
         "crowdinContext": "This is the friendly name for bitmap files."
     },
-    "NumPadTypeName": "Num",
-    "NetworkLocations": "Network locations",
-    "NoNetworkLocationsInfo": "There are no network locations. If you don't use network locations, you can disable the widget.",
-    "Disable": "Disable",
-    "EditInNotepad": "Edit in Notepad",
-    "EditInNotepadDescription": "Edit the selected file in Notepad"
+    "NumPadTypeName": "Sayı",
+    "NetworkLocations": "Ağ konumları",
+    "NoNetworkLocationsInfo": "Herhangi bir ağ konumu yok. Ağ konumlarını kullanmıyorsanız araç takımını devre dışı bırakabilirsiniz.",
+    "Disable": "Devre dışı bırak",
+    "EditInNotepad": "Not Defteri'nde düzenle",
+    "EditInNotepadDescription": "Seçili dosyayı Not Defteri'nde düzenle",
+    "PropertyDimensionsColon": "Boyutlar:",
+    "StatusWithColon": "Durum:",
+    "ShowToolbar": {
+        "text": "Araç Çubuğunu Göster",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Sekme aksiyonları menüsü",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

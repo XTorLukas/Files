@@ -9,7 +9,7 @@
     },
     "Path": "Caminho",
     "SizeLabel": "Tamanho:",
-    "SizeOnDiskLabel": "Tamanho em disco:",
+    "SizeOnDiskLabel": "Tamanho no disco:",
     "UncompressedSize": "Tamanho descomprimido:",
     "ErrorDialogThisActionCannotBeDone": "Esta ação não pode ser executada",
     "ErrorDialogTheDestinationFolder": "A pasta de destino",
@@ -19,7 +19,7 @@
     "InvertSelection": "Inverter seleção",
     "ClearSelection": "Limpar seleção",
     "PropertiesModified": {
-        "Text": "Alterado:"
+        "Text": "Modificado:"
     },
     "Accessed": "Acedido:",
     "RecentItemClearAll": {
@@ -45,7 +45,7 @@
     "ShowDotFiles": "Mostrar ficheiros ocultos",
     "Appearance": "Aparência",
     "BackgroundColor": "Cor de fundo",
-    "Advanced": "Avançado",
+    "Advanced": "Avançadas",
     "SettingsOnStartupContinueWhereYouLeftOff": {
         "Content": "Continuar com a última sessão"
     },
@@ -128,12 +128,20 @@
     },
     "Layout": "Esquema",
     "PropertiesDialogReadOnly": {
-        "Text": "Apenas leitura"
+        "Text": "Só de leitura"
     },
     "DaysAgo": "{0, plural, one {# dia atrás} other {# dias atrás}}",
+    "DaysAgo_Singular": "Há 1 dia",
+    "DaysAgo_Plural": "Há {0} dias",
     "HoursAgo": "{0, plural, one {# hora atrás} other {# horas atrás}}",
+    "HoursAgo_Singular": "Há 1 hora",
+    "HoursAgo_Plural": "Há {0} horas",
     "MinutesAgo": "{0, plural, one {# minuto atrás} other {# minutos atrás}}",
+    "MinutesAgo_Singular": "Há 1 minuto",
+    "MinutesAgo_Plural": "Há {0} minutos",
     "SecondsAgo": "{0, plural, one {# segundo atrás} other {# segundos atrás}}",
+    "SecondsAgo_Singular": "Há 1 segundo",
+    "SecondsAgo_Plural": "Há {0} segundos",
     "Now": "Agora",
     "ErrorDialogUnsupportedOperation": "A operação solicitada não é suportada",
     "DriveFreeSpaceAndCapacity": "{0} livre(s) de {1}",
@@ -163,7 +171,7 @@
     "PetaByteSymbol": "PB",
     "ByteSymbol": "B",
     "PropertiesFilesAndFoldersCountString": "{0, number} {0, plural, one {ficheiro} other {ficheiros}}, {1, number} {1, plural, one {pasta} other {pastas}}",
-    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {file} other {files}}, {1, number} {1, plural, one {folder} other {folders}} from {2, number} {2, plural, one {location} other {locations}}",
+    "PropertiesFilesAndFoldersAndLocationsCount": "{0, number} {0, plural, one {ficheiro} other {ficheiros}}, {1, number} {1, plural, one {pasta} other {pastas}} de {2, number} {2, plural, one {localização} other {localizações}}",
     "BaseLayoutContextFlyoutRunAsAnotherUser": {
         "Text": "Executar como outro utilizador"
     },
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Recentes",
     "TabStripDragAndDropUIOverrideCaption": "Mover separador aqui",
-    "syncStatusColumn": {
-        "Header": "Estado"
-    },
+    "Status": "Estado",
     "SettingsPreferencesSystemDefaultLanguageOption": "Padrão do Windows",
     "NavigationToolbarVisiblePathNoResults": "Sem resultados",
     "SubDirectoryAccessDenied": "Não existem quaisquer itens para mostrar",
@@ -272,17 +278,17 @@
         "SecondaryButtonText": "Fechar na mesma"
     },
     "PropertyRatingText": "Avaliação",
-    "PropertyParsingPath": "Caminho do item",
+    "PropertyParsingPath": "Localização do item",
     "PropertyItemTypeText": "Tipo de item",
     "PropertyTitle": "Título",
     "PropertySubject": "Assunto",
     "PropertyComment": "Comentário",
     "PropertyCopyright": "Copyright",
-    "PropertyDateModified": "Data de alteração",
+    "PropertyDateModified": "Data de modificação",
     "PropertyBitDepth": "Profundidade de bits",
     "PropertyDimensions": "Dimensões",
-    "PropertyHorizontalSize": "Tamanho horizontal",
-    "PropertyVerticalSize": "Tamanho vertical",
+    "PropertyHorizontalSize": "Largura",
+    "PropertyVerticalSize": "Altura",
     "PropertyHorizontalResolution": "Resolução horizontal",
     "PropertyVerticalResolution": "Resolução vertical",
     "PropertyColorSpace": "Espaço de cores",
@@ -425,11 +431,12 @@
     "SidebarCloudDrives": "Unidades na nuvem",
     "Confirm": "Confirmar",
     "DesiredName": "Nome desejado",
-    "TogglePreviewPane": "Alternar painel de pré-visualização",
-    "ToggleDetailsPane": "Alternar painel de detalhes",
+    "TogglePreviewPane": "Mostrar/ocultar painel de pré-visualização",
+    "ToggleDetailsPane": "Mostrar/ocultar painel de detalhes",
     "ToggleDetailsPaneDescription": "Alternar painel de detalhes para ver as propriedades básicas do ficheiro",
-    "ToggleInfoPane": "Alternar painel de informações",
+    "ToggleInfoPane": "Mostrar/ocultar painel de informações",
     "ToggleInfoPaneDescription": "Alternar painel de informações para ver os painéis detalhes ou de pré-visualização",
+    "ToggleToolbar": "Mostrar/ocultar barra de ferramentas",
     "DetailsPanePreviewNotAvaliableText": "Nenhuma pré-visualização disponível",
     "PropertyItemName": "Nome do item",
     "UnpinFolderFromSidebar": "Desafixar da barra lateral",
@@ -516,7 +523,7 @@
     "DeleteItemsDialogSubtitle": "{0, plural, one {1 item será eliminado} other {# itens serão eliminados}}",
     "ConflictingItemsDialogPrimaryButtonText": "Continuar",
     "ConflictingItemsDialogSubtitleConflicts": "{0, plural, one {Existe 1 nome de ficheiro em conflito} other {Existem # nomes de ficheiro em conflito}}",
-    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {There is one conflicting file name} other {There are # conflicting file names}}, and {1, plural, one {one outgoing item} other {# outgoing items}}",
+    "ConflictingItemsDialogSubtitleConflictsNonConflicts": "{0, plural, one {1 nome de ficheiro em conflito} other {# nomes de ficheiros em conflito}}, e {1, plural, one {item em curso} other {# itens em curso}}",
     "ConflictingItemsDialogTitle": "Conflito {0, plural, one {nome de ficheiro} other {nomes de ficheiro}}",
     "CopyItemsDialogSubtitle": "{0, plural, one {1 item será copiado} other {# itens serão copiados}}",
     "DeleteItemsDialogPermanentlyDeleteCheckBox": {
@@ -527,7 +534,7 @@
     "GenerateNewName": "Gerar novo nome",
     "CreateFolderWithSelection": "Criar pasta com seleção",
     "ItemType": "Tipo:",
-    "ToolTipDescriptionDate": "Data de alteração:",
+    "ToolTipDescriptionDate": "Data de modificação:",
     "OpenWith": "Abrir com",
     "FileBrowserThumbnailIconColumnGrid": {
         "AutomationProperties": {
@@ -547,7 +554,7 @@
         "Text": "Coluna Data de eliminação"
     },
     "Sort": "Ordenar",
-    "DateModifiedLowerCase": "Data de alteração",
+    "DateModifiedLowerCase": "Data de modificação",
     "OriginalFolder": "Pasta original",
     "Descending": "Descendente",
     "ItemSizeText_Huge": "Enorme",
@@ -586,7 +593,7 @@
     "SecurityListDirectoryLabel": {
         "Text": "Listar conteúdo da pasta"
     },
-    "Modify": "Alterar",
+    "Modify": "Modificar",
     "SecurityPermissionsHeaderText": "Permissões para {0}",
     "SecurityReadAndExecuteLabel": {
         "Text": "Ler e executar"
@@ -719,9 +726,7 @@
             "ToolTip": "Substituir todas as entradas de permissão do objeto filho por entradas de permissão herdáveis deste objeto"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Fechar painel"
-    },
+    "CloseActivePane": "Fechar painel ativo",
     "EnterCompactOverlay": "Ativar modo de sobreposição compacta",
     "ExitCompactOverlay": "Desativar modo de sobreposição compacta",
     "PropertyFileDescription": "Descrição do ficheiro",
@@ -794,7 +799,7 @@
         "Text": "Coluna Data de criação"
     },
     "DetailsViewHeaderFlyout_ShowItemSize": {
-        "Text": "Coluna Tamanho do item"
+        "Text": "Coluna tamanho do item"
     },
     "ExperimentalFeatureFlags": "'Flags' de funcionalidades experimentais",
     "HelpAndSupport": "Ajuda e suporte",
@@ -812,7 +817,7 @@
     "EmptyRecycleBin": "Esvaziar reciclagem",
     "Sidebar": "Barra lateral",
     "ChooseCustomIcon": "Escolha um ícone personalizado para a pasta",
-    "Customization": "Personalização",
+    "Customization": "Personalizar",
     "RestoreDefault": "Restaurar predefinição",
     "OpenTabInExistingInstance": "Abrir separador na instância existente ao abrir Files a partir de outra aplicação",
     "StartupSettings": "Definições de arranque",
@@ -824,7 +829,7 @@
     "CompatibilitySystemEnhanced": "Sistema (melhorado)",
     "CompatibilityReducedColorModeColor16bit": "Cores 16-bit (65 536)",
     "CompatibilityReducedColorModeColor8bit": "Cores 8-bit (256)",
-    "CompatibilityDisableFullscreenOptimizations": "Desativar otimizações em ecrã completo",
+    "CompatibilityDisableFullscreenOptimizations": "Desativar optimizações de ecrã inteiro",
     "CompatibilityRunIn640x480Resolution": "Executar com a resolução 640 x 480",
     "CompatibilityOverrideHighDPIBehavior": "Substituir comportamento de escala elevada DPI",
     "CompatibilityReducedColorMode": "Modo de cor reduzida",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Não substituir DPI",
     "CompatibilityMode": "Modo de compatibilidade",
     "CompatibilityNoReducedColor": "Sem cor reduzida",
-    "ThirdPartyLicenses": "Licenças de terceiros",
+    "ThirdPartyLibraries": "Bibliotecas de terceiros",
     "SettingsSetAsDefaultFileManagerDescription": "Esta opção modifica o registo do sistema e pode ter efeitos inesperados no seu dispositivo. Continue por sua conta e risco.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Criar biblioteca",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Insira o nome da biblioteca",
@@ -846,7 +851,7 @@
     "Attributes": "Atributos",
     "Hidden": "Oculto",
     "MoreDetails": "Mais detalhes",
-    "ReadOnly": "Apenas leitura",
+    "ReadOnly": "Só de leitura",
     "CleanupDrive": "Limpar conteúdo da unidade",
     "Type": "Tipo",
     "Bytes": "Bytes",
@@ -874,7 +879,7 @@
     "Retry": "Tentar novamente",
     "ErrorDialogUnsupportedMoveOperation": "A operação mover não é suportada neste contexto. Deseja, em alternativa, copiar os itens?",
     "HiddenItems": "Itens ocultos",
-    "Custom": "Personalizado",
+    "Custom": "Personalizar",
     "SetAsSlideshow": "Definir como apresentação do ambiente de trabalho",
     "SizeAllColumnsToFit": "Ajustar todas as colunas para caber",
     "Adaptive": "Esquema adaptável",
@@ -891,7 +896,7 @@
     "SetAsDefault": "Utilizar por omissão",
     "DateColumn": "Coluna Data",
     "DateCreatedColumn": "Coluna Data de criação",
-    "SizeColumn": "Coluna Tamanho",
+    "SizeColumn": "Coluna tamanho",
     "TagColumn": "Coluna Etiqueta",
     "TypeColumn": "Coluna Tipo",
     "Lockscreen": "Ecrã de bloqueio",
@@ -922,7 +927,7 @@
     "CompressionLevelLow": "Baixo",
     "CompressionLevelFast": "Rápido",
     "CompressionLevelNone": "Sem compressão",
-    "SplittingSize": "Tamanho de separação",
+    "SplittingSize": "Tamanho de divisão",
     "Do not split": "Não separar",
     "CD": "CD",
     "DVD": "DVD",
@@ -975,7 +980,7 @@
     "ShowHiddenItems": "Mostrar itens ocultos",
     "FormatDriveText": "Formatar...",
     "Help": "Ajuda",
-    "FullScreen": "Alternar ecrã completo",
+    "FullScreen": "Ativar/desativar ecrã inteiro",
     "ConfirmDeleteTag": "Tem a certeza de que deseja eliminar esta etiqueta?",
     "PlayAll": "Reproduzir tudo",
     "Height": "Altura",
@@ -1002,16 +1007,16 @@
     "TagNameRules": "O nome não pode ser vazio nem começar ou terminar com um ponto.",
     "Videos": "Vídeos",
     "LaunchPreviewPopup": "Abrir janela de pré-visualização",
-    "ToggleCompactOverlay": "Alternar modo de sobreposição compacta",
+    "ToggleCompactOverlay": "Ativar/desativar modo de sobreposição compacta",
     "OpenHelpDescription": "Abrir página de ajuda no navegador",
-    "ToggleFullScreenDescription": "Alternar ecrã completo",
+    "ToggleFullScreenDescription": "Ativa/desativa o ecrã inteiro",
     "EnterCompactOverlayDescription": "Ativar modo de sobreposição compacta",
     "ExitCompactOverlayDescription": "Desativar modo de sobreposição compacta",
-    "ToggleCompactOverlayDescription": "Alternar modo de sobreposição compacta",
+    "ToggleCompactOverlayDescription": "Ativar/desativar modo de sobreposição compacta",
     "SearchDescription": "Ir para a caixa de pesquisa",
-    "ToggleShowHiddenItemsDescription": "Alternar exibição de itens ocultos",
-    "ToggleShowFileExtensionsDescription": "Alternar exibição das extensões dos ficheiros",
-    "TogglePreviewPaneDescription": "Alternar painel de pré-visualização para pré-visualizar os ficheiros",
+    "ToggleShowHiddenItemsDescription": "Mostrar/ocultar itens ocultos",
+    "ToggleShowFileExtensionsDescription": "Ativar/desativar exibição das extensões dos ficheiros",
+    "TogglePreviewPaneDescription": "Alternar painel de pré-visualização de ficheiros",
     "ToggleSidebarDescription": "Alternar exibição da barra lateral",
     "CopyItemDescription": "Copiar itens para a área de transferência",
     "CopyPathDescription": "Copiar caminho dos itens selecionados para a área de transferência",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Mover para o separador anterior",
     "NextTabDescription": "Mover para o separador seguinte",
     "CloseSelectedTabDescription": "Fechar separador atual",
-    "OpenNewPaneDescription": "Abrir novo painel",
-    "ClosePaneDescription": "Fechar painel à direita",
-    "FocusLeftPane": "Foco no painel à esquerda",
-    "FocusLeftPaneDescription": "Trocar foco para o painel à esquerda",
-    "FocusRightPane": "Foco no painel à direita",
-    "FocusRightPaneDescription": "Trocar foco para o painel à direita",
+    "CloseActivePaneDescription": "Fechar painel ativo",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Mostrar/ocultar barra lateral",
     "Key": {
         "Menu": {
@@ -1414,7 +1416,7 @@
     "CopyCode": "Copiar código",
     "Added": "Adicionado",
     "Deleted": "Eliminado",
-    "Modified": "Alterado",
+    "Modified": "Modificado",
     "Untracked": "Não rastreado",
     "UnableToDisplayOwner": "Não foi possível mostrar o proprietário atual.",
     "AuthorizationSucceded": "Boa! As autorizações foram concedidas.",
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Não existem localizações de rede. Se não quiser usar localizações de rede, pode desativar o widget.",
     "Disable": "Desativar",
     "EditInNotepad": "Editar no Notepad",
-    "EditInNotepadDescription": "Editar ficheiro no Notepad"
+    "EditInNotepadDescription": "Editar ficheiro no Notepad",
+    "PropertyDimensionsColon": "Dimensões:",
+    "StatusWithColon": "Estado:",
+    "ShowToolbar": {
+        "text": "Mostrar barra de ferramentas",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Menu de ações em separadores",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

@@ -131,9 +131,17 @@
         "Text": "Skrivebeskyttet"
     },
     "DaysAgo": "{0, plural, one {# day ago} other {# days ago}}",
+    "DaysAgo_Singular": "1 day ago",
+    "DaysAgo_Plural": "{0} days ago",
     "HoursAgo": "{0, plural, one {# hour ago} other {# hours ago}}",
+    "HoursAgo_Singular": "1 hour ago",
+    "HoursAgo_Plural": "{0} hours ago",
     "MinutesAgo": "{0, plural, one {# minute ago} other {# minutes ago}}",
+    "MinutesAgo_Singular": "1 minute ago",
+    "MinutesAgo_Plural": "{0} minutes ago",
     "SecondsAgo": "{0, plural, one {# second ago} other {# seconds ago}}",
+    "SecondsAgo_Singular": "1 second ago",
+    "SecondsAgo_Plural": "{0} seconds ago",
     "Now": "Nå",
     "ErrorDialogUnsupportedOperation": "Den ønskede handlingen er ikke støttet",
     "DriveFreeSpaceAndCapacity": "{0} ledig av {1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "Nylige",
     "TabStripDragAndDropUIOverrideCaption": "Flytt fane hit",
-    "syncStatusColumn": {
-        "Header": "Status"
-    },
+    "Status": "Status",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows-standard",
     "NavigationToolbarVisiblePathNoResults": "Ingen resultater",
     "SubDirectoryAccessDenied": "Ingen adgang til å vise noen elementer",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "Velg detaljruten for å vise grunnleggende filegenskaper",
     "ToggleInfoPane": "Vis/Skjul info-ruten",
     "ToggleInfoPaneDescription": "Skru av/på info-ruten for å se detaljer/forhåndsvisning av rutene",
+    "ToggleToolbar": "Toggle the Toolbar",
     "DetailsPanePreviewNotAvaliableText": "Forhåndsvisning ikke tilgjengelig",
     "PropertyItemName": "Elementnavn",
     "UnpinFolderFromSidebar": "Løsne fra sidepanelet",
@@ -719,9 +726,7 @@
             "ToolTip": "Erstatt alle rettigheter for underobjekter med arvelige rettigheter fra dette objektet"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "Lukk panel"
-    },
+    "CloseActivePane": "Close active pane",
     "EnterCompactOverlay": "Bytt til kompakt visning",
     "ExitCompactOverlay": "Avslutt kompakt visning",
     "PropertyFileDescription": "Filbeskrivelse",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "Ikke overstyr DPI",
     "CompatibilityMode": "Kompatibilitetsmodus",
     "CompatibilityNoReducedColor": "Ingen redusert farge",
-    "ThirdPartyLicenses": "Tredjepartslisenser",
+    "ThirdPartyLibraries": "Third party libraries",
     "SettingsSetAsDefaultFileManagerDescription": "Denne innstillingen gjør endringer på systemfiler og kan ha uventede sideeffekter på din enhet. Utviklerne tar ikke ansvar dersom det resulterer i problemer. Ved å fortsette med denne innstillingen anerkjenner du risikoen involvert ved å gjøre det.",
     "FolderWidgetCreateNewLibraryDialogTitleText": "Opprett bibliotek",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "Angi navn på bibliotek",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "Flytt til forrige fane",
     "NextTabDescription": "Flytt til neste fane",
     "CloseSelectedTabDescription": "Lukk nåværende fane",
-    "OpenNewPaneDescription": "Åpne nytt panel",
-    "ClosePaneDescription": "Lukk høyre rute",
-    "FocusLeftPane": "Focus left pane",
-    "FocusLeftPaneDescription": "Switch focus to the left pane",
-    "FocusRightPane": "Focus right pane",
-    "FocusRightPaneDescription": "Switch focus to the right pane",
+    "CloseActivePaneDescription": "Close active pane",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "Slå av/på sidepanelet",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "Det er ingen nettverkssteder. Hvis du ikke bruker nettverkslokasjoner, kan du deaktivere widgeten.",
     "Disable": "Deaktiver",
     "EditInNotepad": "Rediger i Notatblokk",
-    "EditInNotepadDescription": "Rediger den valgte filen i Notepad"
+    "EditInNotepadDescription": "Rediger den valgte filen i Notepad",
+    "PropertyDimensionsColon": "Dimensions:",
+    "StatusWithColon": "Status:",
+    "ShowToolbar": {
+        "text": "Show Toolbar",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "Tab actions menu",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }

@@ -131,9 +131,17 @@
         "Text": "読み取り専用"
     },
     "DaysAgo": "{0, plural, other {# 日前}}",
+    "DaysAgo_Singular": "1 日前",
+    "DaysAgo_Plural": "{0} 日前",
     "HoursAgo": "{0, plural, other {# 時間前}}",
+    "HoursAgo_Singular": "1 時間前",
+    "HoursAgo_Plural": "{0} 時間前",
     "MinutesAgo": "{0, plural, other {# 分前}}",
+    "MinutesAgo_Singular": "1 分前",
+    "MinutesAgo_Plural": "{0} 分前",
     "SecondsAgo": "{0, plural, other {# 秒前}}",
+    "SecondsAgo_Singular": "1 秒前",
+    "SecondsAgo_Plural": "{0} 秒前",
     "Now": "今",
     "ErrorDialogUnsupportedOperation": "この操作はサポートされていません",
     "DriveFreeSpaceAndCapacity": "空き領域 {0}/{1}",
@@ -184,9 +192,7 @@
     },
     "JumpListRecentGroupHeader": "最近使ったもの",
     "TabStripDragAndDropUIOverrideCaption": "ここにタブを移動",
-    "syncStatusColumn": {
-        "Header": "状態"
-    },
+    "Status": "状態",
     "SettingsPreferencesSystemDefaultLanguageOption": "Windows の既定",
     "NavigationToolbarVisiblePathNoResults": "結果なし",
     "SubDirectoryAccessDenied": "表示する項目にアクセスできません",
@@ -430,6 +436,7 @@
     "ToggleDetailsPaneDescription": "基本的なファイル情報を確認するための詳細ウィンドウを表示する",
     "ToggleInfoPane": "情報ウィンドウの表示を切り替える",
     "ToggleInfoPaneDescription": "詳細およびプレビューのための情報ウィンドウを表示するかどうかを切り替える",
+    "ToggleToolbar": "ツールバーの表示を切り替える",
     "DetailsPanePreviewNotAvaliableText": "プレビューを利用できません",
     "PropertyItemName": "ファイル名",
     "UnpinFolderFromSidebar": "サイドバーからピン留めを外す",
@@ -719,9 +726,7 @@
             "ToolTip": "すべての子オブジェクトのアクセス許可エントリを、このオブジェクトから継承可能なアクセス許可エントリに置き換えます"
         }
     },
-    "NavigationToolbarClosePane": {
-        "Label": "ペインを閉じる"
-    },
+    "CloseActivePane": "現在のペインを閉じる",
     "EnterCompactOverlay": "コンパクト オーバーレイを開始",
     "ExitCompactOverlay": "コンパクト オーバーレイを終了",
     "PropertyFileDescription": "ファイルの説明",
@@ -836,7 +841,7 @@
     "CompatibilityDoNotOverrideDPI": "DPI を上書きしない",
     "CompatibilityMode": "互換モード",
     "CompatibilityNoReducedColor": "カラーを制限しない",
-    "ThirdPartyLicenses": "サード パーティ ライセンス",
+    "ThirdPartyLibraries": "サード パーティ ライブラリ",
     "SettingsSetAsDefaultFileManagerDescription": "この設定はシステムのレジストリを変更し、デバイスに思わぬ結果をもたらす可能性があります。問題が発生しても開発者は責任を負いません。",
     "FolderWidgetCreateNewLibraryDialogTitleText": "ライブラリを作成",
     "FolderWidgetCreateNewLibraryInputPlaceholderText": "ライブラリ名を入力",
@@ -1115,12 +1120,9 @@
     "PreviousTabDescription": "前のタブに移動する",
     "NextTabDescription": "次のタブに移動する",
     "CloseSelectedTabDescription": "現在のタブを閉じる",
-    "OpenNewPaneDescription": "新しいペインを開く",
-    "ClosePaneDescription": "右ペインを閉じる",
-    "FocusLeftPane": "左ペインに移動",
-    "FocusLeftPaneDescription": "左ペインに移動する",
-    "FocusRightPane": "右ペインに移動",
-    "FocusRightPaneDescription": "右ペインに移動する",
+    "CloseActivePaneDescription": "現在のペインを閉じる",
+    "FocusOtherPane": "Focus other pane",
+    "FocusOtherPaneDescription": "Switch focus to the non active pane",
     "ToggleSidebar": "サイドバーの表示を切り替える",
     "Key": {
         "Menu": {
@@ -1884,5 +1886,26 @@
     "NoNetworkLocationsInfo": "ネットワークの場所がありません。ネットワークの場所を使用しない場合は、ウィジェットを無効にすることができます。",
     "Disable": "無効にする",
     "EditInNotepad": "メモ帳で編集",
-    "EditInNotepadDescription": "選択したファイルをメモ帳で編集する"
+    "EditInNotepadDescription": "選択したファイルをメモ帳で編集する",
+    "PropertyDimensionsColon": "サイズ:",
+    "StatusWithColon": "状態:",
+    "ShowToolbar": {
+        "text": "ツールバーを表示する",
+        "crowdinContext": "Setting that controls if the Toolbar is shown in the main view"
+    },
+    "TabActions": "タブ操作メニュー",
+    "AddVerticalPane": "Add vertical pane",
+    "AddVerticalPaneDescription": "Add a vertical pane",
+    "AddHorizontalPane": "Add horizontal pane",
+    "AddHorizontalPaneDescription": "Add a horizontal pane",
+    "ArrangePanesVertically": "Arrange vertically",
+    "ArrangePanesVerticallyDescription": "Arrange panes vertically",
+    "ArrangePanesHorizontally": "Arrange horizontally",
+    "ArrangePanesHorizontallyDescription": "Arrange panes horizontally",
+    "AddPane": "Add pane",
+    "ShowTabActions": "Show tab actions button in the title bar",
+    "ArrangePanes": "Arrange panes",
+    "DefaultPaneArrangement": "Default pane arrangement",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
 }
