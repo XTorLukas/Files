@@ -20,6 +20,9 @@ namespace Files.App.Utils.RealTimeRM.Base
 		/// </summary>
 		private List<FrameworkElement>? _registeredElements;
 
+		/// <summary>
+		/// List of registered data value managers managed by the resource manager.
+		/// </summary>
 		private List<IRealTimeDataValueManager>? _registeredDataValues;
 
 		/// <inheritdoc/>
