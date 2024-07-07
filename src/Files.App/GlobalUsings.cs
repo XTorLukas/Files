@@ -32,6 +32,8 @@ global using global::Files.App.Utils.Library;
 global using global::Files.App.Utils.RecentItem;
 global using global::Files.App.Utils.RecycleBin;
 global using global::Files.App.Utils.RealTimeRM;
+global using global::Files.App.Utils.RealTimeRM.Exceptions;
+global using global::Files.App.Utils.RealTimeRM.Managers;
 global using global::Files.App.Utils.Serialization;
 global using global::Files.App.Utils.Shell;
 global using global::Files.App.Utils.StatusCenter;

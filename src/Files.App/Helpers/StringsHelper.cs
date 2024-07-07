@@ -12,6 +12,8 @@ namespace Files.App.Helpers
 	[MarkupExtensionReturnType(ReturnType = typeof(string))]
 	public sealed partial class Strings : MarkupExtension, IRealTimeDataValueManager
 	{
+		private static IResourceManager ResourceManagerService => Ioc.Default.GetRequiredService<IResourceManager>();
+
 		/// <summary>
 		/// The key for the string resource in the resource file.
 		/// </summary>
@@ -41,8 +43,8 @@ namespace Files.App.Helpers
 		public string ToLocalized()
 		{
 			return IsArgsNull
-				? RealTimeResourceManager.Instance.GetString(KeyValue)
-				: string.Format(RealTimeResourceManager.Instance.GetString(KeyValue), ArgsValue!.ToArray());
+				? ResourceManagerService.GetString(KeyValue)
+				: string.Format(ResourceManagerService.GetString(KeyValue), ArgsValue!.ToArray());
 		}
 
 		/// <summary>
@@ -53,7 +55,7 @@ namespace Files.App.Helpers
 		protected override string ProvideValue(IXamlServiceProvider serviceProvider)
 		{
 			if (RealTimeEnable && serviceProvider.GetService(typeof(IProvideValueTarget)) is IProvideValueTarget service)
-				_ = RealTimeResourceManager.Instance.RealTimeService.RegisterDataValueProvider(service, this);
+				_ = ResourceManagerService.RealTimeService.RegisterDataValueProvider(service, this);
 
 			return ToLocalized();
 		}
@@ -76,6 +78,6 @@ namespace Files.App.Helpers
 		/// <summary>
 		/// Unregisters the data value provider when the object is being garbage collected.
 		/// </summary>
-		~Strings() => RealTimeResourceManager.Instance.RealTimeService.UnregisterDataValueProvider(this);
+		~Strings() => ResourceManagerService.RealTimeService.UnregisterDataValueProvider(this);
 	}
 }

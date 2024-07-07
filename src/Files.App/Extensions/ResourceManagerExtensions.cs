@@ -1,7 +1,6 @@
 ﻿// Copyright (c) 2024 Files Community
 // Licensed under the MIT License. See the LICENSE.
 
-using Files.App.Utils.RealTimeRM.Managers;
 using System.Reflection;
 
 namespace Files.App.Extensions
@@ -11,13 +10,6 @@ namespace Files.App.Extensions
 	/// </summary>
 	public static class RealTimeResourceManager
 	{
-		private static IResourceManager? _instance = null;
-
-		/// <summary>
-		/// Provides a static instance of <see cref="IResourceManager"/>.
-		/// </summary>
-		public static IResourceManager Instance => _instance ??= new JsonResourceManager(); 
-
 		/// <summary>
 		/// Creates a new instance of <see cref="IResourceManager"/> with default settings.
 		/// </summary>

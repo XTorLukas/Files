@@ -8,6 +8,8 @@ namespace Files.App.Extensions
 	/// </summary>
 	public static class StringsExtensions
 	{
+		private static IRealTimeCultureAwareManager ResourceManagerRTService => Ioc.Default.GetRequiredService<IResourceManager>().RealTimeService;
+
 		/// <summary>
 		/// Returns a localized string based on the provided key and optional arguments.
 		/// </summary>
@@ -37,7 +39,7 @@ namespace Files.App.Extensions
 			dataValue.KeyValue = key;
 			dataValue.ArgsValue = args;
 
-			_ = RealTimeResourceManager.Instance.RealTimeService.UpdateDataValueProvider(dataValue);
+			_ = ResourceManagerRTService.UpdateDataValueProvider(dataValue);
 		}
 	}
 }
