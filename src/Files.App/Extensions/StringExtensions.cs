@@ -6,6 +6,7 @@ using Microsoft.Windows.ApplicationModel.Resources;
 using System.Collections.Concurrent;
 using System.IO;
 using ByteSize = ByteSizeLib.ByteSize;
+using IResourceManager = Files.App.Utils.RealTimeRM.IResourceManager;
 
 namespace Files.App.Extensions
 {
@@ -54,10 +55,6 @@ namespace Files.App.Extensions
 			return result;
 		}
 
-		private static readonly ResourceMap resourcesTree = new ResourceManager().MainResourceMap.TryGetSubtree("Resources");
-
-		private static readonly ConcurrentDictionary<string, string> cachedResources = new();
-
 		private static readonly Dictionary<string, string> abbreviations = new()
 		{
 			{ "KiB", "KiloByteSymbol".GetLocalizedResource() },
@@ -90,16 +87,8 @@ namespace Files.App.Extensions
 
 		//public static string GetLocalizedResource(this string s) => s.GetLocalized("Resources");
 
-		public static string GetLocalizedResource(this string resourceKey)
-		{
-			if (cachedResources.TryGetValue(resourceKey, out var value))
-			{
-				return value;
-			}
-
-			value = resourcesTree?.TryGetValue(resourceKey)?.ValueAsString;
-
-			return cachedResources[resourceKey] = value ?? string.Empty;
-		}
+		// TODO: Remove this and replaced with Strings.KEY.ToLocalized()
+		[Obsolete("Use \"KEY\".ToLocalized() instead of \"KEY\".GetLocalizedResource()")]
+		public static string GetLocalizedResource(this string resourceKey) => resourceKey.ToLocalized();
 	}
 }

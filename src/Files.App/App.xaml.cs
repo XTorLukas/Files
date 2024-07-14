@@ -94,6 +94,12 @@ namespace Files.App
 				// Configure Sentry
 				AppLifecycleHelper.ConfigureSentry();
 #endif
+				// Build the resource manager
+				// Load RealTime Resource Manager
+				var resourceManagerService = Ioc.Default.GetRequiredService<IResourceManager>();
+				await resourceManagerService
+					.Create()
+					.BuildAsync();
 
 				var userSettingsService = Ioc.Default.GetRequiredService<IUserSettingsService>();
 				var isLeaveAppRunning = userSettingsService.GeneralSettingsService.LeaveAppRunning;

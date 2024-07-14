@@ -62,17 +62,10 @@ namespace Files.App.Helpers
 		/// </summary>
 		public static async Task InitializeAppComponentsAsync()
 		{
-
-			var resourceManagerService = Ioc.Default.GetRequiredService<IResourceManager>();
 			var userSettingsService = Ioc.Default.GetRequiredService<IUserSettingsService>();
 			var addItemService = Ioc.Default.GetRequiredService<IAddItemService>();
 			var generalSettingsService = userSettingsService.GeneralSettingsService;
 			var jumpListService = Ioc.Default.GetRequiredService<IWindowsJumpListService>();
-
-			// Load RealTime Resource Manager
-			await resourceManagerService
-				.Create()
-				.BuildAsync();
 
 			// Start off a list of tasks we need to run before we can continue startup
 			await Task.WhenAll(

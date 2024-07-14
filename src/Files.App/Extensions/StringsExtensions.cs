@@ -8,20 +8,10 @@ namespace Files.App.Extensions
 	/// </summary>
 	public static class StringsExtensions
 	{
-		private static IRealTimeCultureAwareManager ResourceManagerRTService => Ioc.Default.GetRequiredService<IResourceManager>().RealTimeService;
+		private static IResourceManager ResourceManagerService => Ioc.Default.GetRequiredService<IResourceManager>();
 
-		/// <summary>
-		/// Returns a localized string based on the provided key and optional arguments.
-		/// </summary>
-		/// <param name="key">The key for the localized string.</param>
-		/// <param name="args">Optional arguments for formatting the localized string.</param>
-		/// <returns>The localized string.</returns>
-		public static string ToLocalized_NEW(this string key, List<object>? args = null)
-		{
-			return args == null
-				? new Strings() { KeyValue = key }.ToLocalized()
-				: new Strings() { KeyValue = key, ArgsValue = args }.ToLocalized();
-		}
+		public static string ToLocalized(this string key)
+			=> ResourceManagerService.GetString(key.Replace('/', '_'));
 
 		/// <summary>
 		/// Updates the localization data for the provided Strings instance.
@@ -39,7 +29,7 @@ namespace Files.App.Extensions
 			dataValue.KeyValue = key;
 			dataValue.ArgsValue = args;
 
-			_ = ResourceManagerRTService.UpdateDataValueProvider(dataValue);
+			_ = ResourceManagerService.RealTimeService.UpdateDataValueProvider(dataValue);
 		}
 	}
 }

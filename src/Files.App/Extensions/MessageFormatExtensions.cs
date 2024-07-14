@@ -5,6 +5,7 @@ using Jeffijoe.MessageFormat;
 using Microsoft.Windows.ApplicationModel.Resources;
 using System.Globalization;
 using Microsoft.Extensions.Logging;
+using IResourceManager = Files.App.Utils.RealTimeRM.IResourceManager;
 
 namespace Files.App.Extensions
 {
@@ -13,17 +14,7 @@ namespace Files.App.Extensions
 	/// </summary>
 	public static class MessageFormatExtensions
 	{
-		/// <summary>
-		/// Resource map for accessing localized strings.
-		/// It is initialized with the main resource map of the application's resources and the subtree "Resources".
-		/// </summary>
-		private static readonly ResourceMap _resourcesTree = new ResourceManager().MainResourceMap.TryGetSubtree("Resources");
-
-		/// <summary>
-		/// CultureInfo based on the application's primary language override.
-		/// It is initialized with the selected language of the application.
-		/// </summary>
-		private static readonly CultureInfo _locale = new(AppLanguageHelper.PreferredLanguage.Code);
+		private static IResourceManager ResourceManagerService => Ioc.Default.GetRequiredService<IResourceManager>();
 
 		/// <summary>
 		/// Gets custom value formatters for the message formatter.
@@ -51,7 +42,10 @@ namespace Files.App.Extensions
 		/// It is initialized with the options to use cache and the two-letter ISO language name of the current UI culture,
 		/// and a custom value formatter for number values.
 		/// </summary>
-		private static readonly MessageFormatter _formatter = new(useCache: false, locale: _locale.TwoLetterISOLanguageName, customValueFormatter: _customFormatter);
+		private static readonly MessageFormatter _formatter = new(
+			useCache: false,
+			locale: ResourceManagerService.Culture.TwoLetterISOLanguageName,
+			customValueFormatter: _customFormatter);
 
 		/// <summary>
 		/// Creates a dictionary for format pairs with a string key.
@@ -77,9 +71,9 @@ namespace Files.App.Extensions
 		/// <returns>The formatted localized resource string.</returns>
 		public static string GetLocalizedFormatResource(this string resourceKey, IReadOnlyDictionary<string, object?> pairs)
 		{
-			var value = _resourcesTree?.TryGetValue(resourceKey)?.ValueAsString;
+			var value = resourceKey.ToLocalized();
 
-			if (value is null)
+			if (string.IsNullOrEmpty(value))
 				return string.Empty;
 
 			try

@@ -46,7 +46,7 @@ namespace Files.App.Utils.RealTimeRM.Managers
 			if (_data == null)
 				return null;
 
-			var keySegments = key.Split('.');
+			var keySegments = key.Split('_');
 			return GetValueFromPath(_data!, keySegments);
 		}
 
@@ -83,7 +83,7 @@ namespace Files.App.Utils.RealTimeRM.Managers
 					return;
 				}
 
-				var key = string.IsNullOrEmpty(parentKey) ? kvp.Key : $"{parentKey}.{kvp.Key}";
+				var key = string.IsNullOrEmpty(parentKey) ? kvp.Key : $"{parentKey}_{kvp.Key}";
 
 				if (kvp.Value is IDictionary<string, object> nestedDict)
 					GetKeysRecursive(nestedDict, key, ref keys, token);
