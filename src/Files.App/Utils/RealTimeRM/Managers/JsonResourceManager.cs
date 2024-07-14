@@ -26,6 +26,7 @@ namespace Files.App.Utils.RealTimeRM.Managers
 
 			UpdateCurrentCulture();
 			SupportedLanguages = EnsureManagerOptions.ManifestCultureNames.ToList();
+			CurrentCultureIndex = EnsureManagerOptions.CultureIndex;
 			EnsureManagerOptions.Dispose();
 			UpdateResource(token);
 		}

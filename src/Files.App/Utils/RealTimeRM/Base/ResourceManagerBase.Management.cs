@@ -11,13 +11,22 @@ namespace Files.App.Utils.RealTimeRM.Base
 	/// <inheritdoc/>
 	public abstract partial class ResourceManagerBase : IResourceManager
 	{
-		private IEnumerable<string>? _supportedLanguages = null;
+		private IList<string>? _supportedLanguages = null;
 
 		/// <inheritdoc/>
-		public IEnumerable<string> SupportedLanguages
+		public IList<string> SupportedLanguages
 		{
 			get => _supportedLanguages ??= [string.Empty];
 			protected set => _supportedLanguages = value;
+		}
+
+		private int _currentCultureIndex = 0;
+
+		/// <inheritdoc/>
+		public int CurrentCultureIndex
+		{
+			get => _currentCultureIndex;
+			protected set => _currentCultureIndex = value;
 		}
 
 		/// <inheritdoc/>

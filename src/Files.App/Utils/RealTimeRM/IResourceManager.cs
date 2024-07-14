@@ -30,7 +30,16 @@ namespace Files.App.Utils.RealTimeRM
 		/// <summary>
 		/// Gets the list of supported languages.
 		/// </summary>
-		IEnumerable<string> SupportedLanguages { get; }
+		IList<string> SupportedLanguages { get; }
+
+		/// <summary>
+		/// Gets the index of the current culture in the supported languages list.
+		/// </summary>
+		/// <value>
+		/// An integer representing the index of the current culture in the <see cref="SupportedLanguages"/> list.
+		/// The index is zero-based, meaning the first language in the list has an index of 0.
+		/// </value>
+		int CurrentCultureIndex { get; }
 
 		/// <summary>
 		/// Gets the culture of the preferred language.

@@ -17,6 +17,8 @@ namespace Files.App.ViewModels.Settings
 		private IUserSettingsService UserSettingsService { get; } = Ioc.Default.GetRequiredService<IUserSettingsService>();
 		private ICommonDialogService CommonDialogService { get; } = Ioc.Default.GetRequiredService<ICommonDialogService>();
 
+		private static IResourceManager ResourceManagerService => Ioc.Default.GetRequiredService<IResourceManager>();
+
 		private bool disposed;
 
 		private ReadOnlyCollection<IMenuFlyoutItemViewModel> addFlyoutItemsSource;
@@ -72,18 +74,24 @@ namespace Files.App.ViewModels.Settings
 			get => selectedAppLanguageIndex;
 			set
 			{
-				if (AppLanguageHelper.TryChange(value))
-				{
-					selectedAppLanguageIndex = value;
-					OnPropertyChanged(nameof(SelectedAppLanguageIndex));
-					ShowRestartControl = true;
-				}
+				if (ResourceManagerService.CurrentCultureIndex == value)
+					return;
+
+				_ = Task.Run(async () => await ResourceManagerService
+					.Create()
+					.AddOptions(options => options.CultureName = ResourceManagerService.SupportedLanguages[value])
+					.BuildAsync());
+
+				selectedAppLanguageIndex = value;
+				OnPropertyChanged(nameof(SelectedAppLanguageIndex));
+				ShowRestartControl = true;
 			}
 		}
 
 		public List<DateTimeFormatItem> DateFormats { get; set; }
 
-		public ObservableCollection<AppLanguageItem> AppLanguages => AppLanguageHelper.SupportedLanguages;
+		public ObservableCollection<AppLanguageItem> AppLanguages
+			=> new(ResourceManagerService.SupportedLanguages.Select(item => new AppLanguageItem(item)));
 
 		public Dictionary<ShellPaneArrangement, string> ShellPaneArrangementTypes { get; private set; } = [];
 
@@ -95,7 +103,7 @@ namespace Files.App.ViewModels.Settings
 			RestartCommand = new RelayCommand(DoRestartAsync);
 			CancelRestartCommand = new RelayCommand(DoCancelRestart);
 
-			selectedAppLanguageIndex = AppLanguageHelper.SupportedLanguages.IndexOf(AppLanguageHelper.PreferredLanguage);
+			selectedAppLanguageIndex = ResourceManagerService.CurrentCultureIndex;
 
 			AddDateTimeOptions();
 			SelectedDateTimeFormatIndex = (int)Enum.Parse(typeof(DateTimeFormats), DateTimeFormat.ToString());
