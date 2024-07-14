@@ -68,8 +68,10 @@ namespace Files.App.Utils.RealTimeRM
 		/// Retrieves a set of all keys present in the resource manager.
 		/// </summary>
 		/// <param name="token">A cancellation token to observe while waiting for the task to complete.</param>
-		/// <returns>A HashSet containing all keys present in the resource manager.</returns>
-		HashSet<string> GetKeys(CancellationToken token = default);
+		/// <returns>
+		/// An <see cref="IEnumerable{T}"/> of strings representing all keys present in the resource manager.
+		/// </returns>
+		IEnumerable<string> GetKeys(CancellationToken token = default);
 
 		/// <summary>
 		/// Updates the resources and raises the appropriate events.

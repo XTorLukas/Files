@@ -18,6 +18,6 @@ namespace Files.App.Utils.RealTimeRM.Base
 		public abstract string GetString(string key);
 
 		/// <inheritdoc/>
-		public abstract HashSet<string> GetKeys(CancellationToken token);
+		public abstract IEnumerable<string> GetKeys(CancellationToken token);
 	}
 }
