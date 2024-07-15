@@ -77,14 +77,20 @@ namespace Files.App.ViewModels.Settings
 				if (ResourceManagerService.CurrentCultureIndex == value)
 					return;
 
-				_ = Task.Run(async () => await ResourceManagerService
+				var newCultureName = ResourceManagerService.SupportedLanguages[value];
+				if (value == 0)
+					newCultureName = null;
+
+				var task = Task.Run(async () => await ResourceManagerService
 					.Create()
-					.AddOptions(options => options.CultureName = ResourceManagerService.SupportedLanguages[value])
+					.AddOptions(options => options.CultureName = newCultureName!)
 					.BuildAsync());
+
+				task.Wait();
 
 				selectedAppLanguageIndex = value;
 				OnPropertyChanged(nameof(SelectedAppLanguageIndex));
-				ShowRestartControl = true;
+				ShowRestartControl = false;
 			}
 		}
 
