@@ -81,12 +81,10 @@ namespace Files.App.ViewModels.Settings
 				if (value == 0)
 					newCultureName = null;
 
-				var task = Task.Run(async () => await ResourceManagerService
+				ResourceManagerService
 					.Create()
 					.AddOptions(options => options.CultureName = newCultureName!)
-					.BuildAsync());
-
-				task.Wait();
+					.BuildAsync().Wait();
 
 				selectedAppLanguageIndex = value;
 				OnPropertyChanged(nameof(SelectedAppLanguageIndex));

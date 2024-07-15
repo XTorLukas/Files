@@ -12,14 +12,14 @@ namespace Files.App.Utils.RealTimeRM.Managers
 	{
 		internal static async Task<FrozenDictionary<string, string>> GetKeysAsync(StreamReader streamReader, CancellationToken token = default)
 		{
-			var dataText = await streamReader.ReadToEndAsync(token);
+			var dataText = await streamReader.ReadToEndAsync(token).ConfigureAwait(false);
 			if (string.IsNullOrEmpty(dataText))
 				return FrozenDictionary<string, string>.Empty;
 
 			var json = JsonValue.Deserialize(dataText);
 			var result = new HashSet<(string key, string value)>();
 
-			await Task.Run(() => ProcessJsonObject(json, string.Empty, result), token);
+			await Task.Run(() => ProcessJsonObject(json, string.Empty, result), token).ConfigureAwait(false);
 			return result.ToFrozenDictionary(data => data.key, data => data.value);
 		}
 

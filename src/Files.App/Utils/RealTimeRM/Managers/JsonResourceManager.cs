@@ -2,6 +2,7 @@
 // Licensed under the MIT License. See the LICENSE.
 
 using Files.App.Utils.RealTimeRM.Base;
+using System.Globalization;
 using System.Text;
 
 namespace Files.App.Utils.RealTimeRM.Managers
@@ -25,8 +26,8 @@ namespace Files.App.Utils.RealTimeRM.Managers
 			_data = await ResourceManagerJsonParser.GetKeysAsync(reader, token).ConfigureAwait(false);
 
 			UpdateCurrentCulture();
-			SupportedLanguages = EnsureManagerOptions.ManifestCultureNames.ToList();
-			CurrentCultureIndex = EnsureManagerOptions.CultureIndex;
+			SupportedLanguages = EnsureManagerOptions.SortedManifestCultureNames(out var index);
+			CurrentCultureIndex = index;
 			EnsureManagerOptions.Dispose();
 			UpdateResource(token);
 		}

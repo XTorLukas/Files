@@ -151,6 +151,20 @@ namespace Files.App.Utils.RealTimeRM.Settings
 			}
 		}
 
+		public IList<string> SortedManifestCultureNames(out int sortedIndex)
+		{
+			var sortedManifestCultureNames = ManifestCultureNames.ToList();
+			var selectedItem = sortedManifestCultureNames[CultureIndex];
+
+			sortedManifestCultureNames = sortedManifestCultureNames
+				.OrderBy(cultureName => cultureName is not "")
+				.ThenBy(cultureName => new CultureInfo(cultureName).NativeName)
+				.ToList();
+
+			sortedIndex = sortedManifestCultureNames.IndexOf(selectedItem);
+			return sortedManifestCultureNames;
+		}
+
 		/// <summary>
 		/// The full path of the resource directory.
 		/// </summary>
